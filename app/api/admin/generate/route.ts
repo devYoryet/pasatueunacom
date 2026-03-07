@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
       .limit(20)
 
     if (failedStats && failedStats.length > 0) {
-      const failedIds = failedStats.map((s) => s.question_id)
+      const failedIds = failedStats.map((s: any) => s.question_id)
       questionsQuery = questionsQuery.in('id', failedIds)
     }
   }
@@ -55,7 +55,7 @@ export async function POST(req: NextRequest) {
   }
 
   const prompt = await generateQuestionsPrompt(count, exampleQuestions as any, {
-    focusFailed,
+    focusOnFailed: focusFailed,
     increaseDifficulty,
     includeTabular,
   })

@@ -58,8 +58,8 @@ export interface Database {
         Update: Partial<Omit<ImportLog, 'id' | 'created_at'>>
       }
     }
-    Views: Record<string, never>
-    Functions: Record<string, never>
+    Views: Record<string, unknown>
+    Functions: Record<string, unknown>
     Enums: {
       user_role: UserRole
       subscription_status: SubscriptionStatus

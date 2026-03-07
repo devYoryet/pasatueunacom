@@ -122,7 +122,7 @@ export async function PUT(req: NextRequest) {
 
     const startIndex = (existingEq?.[0]?.order_index ?? 0) + 1
 
-    const examQuestions = insertedQuestions.map((q, i) => ({
+    const examQuestions = insertedQuestions.map((q: any, i: number) => ({
       exam_id: parseInt(examId),
       question_id: q.id,
       order_index: startIndex + i,

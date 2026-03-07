@@ -34,7 +34,7 @@ export default function AdminDashboard() {
       const users = usersRes.data ?? []
       setStats({
         totalUsers: users.length,
-        activeUsers: users.filter((u) => u.subscription_status === 'active').length,
+        activeUsers: users.filter((u: any) => u.subscription_status === 'active').length,
         totalQuestions: questionsRes.data?.length ?? 0,
         totalAttempts: attemptsRes.data?.length ?? 0,
         recentImports: 0,

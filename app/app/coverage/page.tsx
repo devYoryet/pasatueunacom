@@ -36,12 +36,12 @@ export default function CoveragePage() {
       const areasData = areasRes.data ?? []
       const specsData = specsRes.data ?? []
 
-      const withSpecialties: AreaWithSpecialties[] = areasData.map((area) => {
-        const areaSpecs = specsData.filter((s) => s.area_id === area.id)
+      const withSpecialties: AreaWithSpecialties[] = areasData.map((area: any) => {
+        const areaSpecs = specsData.filter((s: any) => s.area_id === area.id)
         return {
           ...area,
           specialties: areaSpecs,
-          availableCount: areaSpecs.filter((s) => s.is_available).length,
+          availableCount: areaSpecs.filter((s: any) => s.is_available).length,
         }
       })
 
@@ -59,7 +59,7 @@ export default function CoveragePage() {
         ;(attempts ?? []).forEach((a: any) => {
           const specId = a.exams?.specialty_id
           if (specId) {
-            const spec = specsData.find((s) => s.id === specId)
+            const spec = specsData.find((s: any) => s.id === specId)
             if (spec?.area_id) {
               const areaId = spec.area_id
               if (!areaScores[areaId]) areaScores[areaId] = { total: 0, count: 0 }

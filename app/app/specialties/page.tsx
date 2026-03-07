@@ -64,12 +64,12 @@ export default function SpecialtiesPage() {
       })
 
       const withData: SpecialtyWithData[] = specs.map((spec: any) => {
-        const specExams = exams.filter((e) => e.specialty_id === spec.id)
+        const specExams = exams.filter((e: any) => e.specialty_id === spec.id)
         const scores = specialtyScores[spec.id]
         return {
           ...spec,
           examCount: specExams.length,
-          questionCount: specExams.reduce((sum, e) => sum + e.question_count, 0),
+          questionCount: specExams.reduce((sum: number, e: any) => sum + e.question_count, 0),
           userScore: scores ? Math.round(scores.total / scores.count) : 0,
           exams: specExams,
         }

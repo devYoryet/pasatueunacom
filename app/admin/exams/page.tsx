@@ -29,7 +29,7 @@ export default function AdminExamsPage() {
 
     if (!examsData) { setLoading(false); return }
 
-    const examIds = examsData.map((e) => e.id)
+    const examIds = (examsData as any[]).map((e) => e.id)
     const { data: counts } = await supabase
       .from('exam_questions')
       .select('exam_id')

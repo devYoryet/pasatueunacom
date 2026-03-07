@@ -35,7 +35,7 @@ export default function AdminStatsPage() {
         { range: '61-80%', count: 0 },
         { range: '81-100%', count: 0 },
       ]
-      attempts.forEach((a) => {
+      attempts.forEach((a: any) => {
         const s = a.score_percent ?? 0
         if (s <= 40) scoreRanges[0].count++
         else if (s <= 60) scoreRanges[1].count++
@@ -46,10 +46,10 @@ export default function AdminStatsPage() {
       setStats({
         totalAttempts: attempts.length,
         avgScore: attempts.length > 0
-          ? Math.round(attempts.reduce((sum, a) => sum + (a.score_percent ?? 0), 0) / attempts.length)
+          ? Math.round(attempts.reduce((sum: number, a: any) => sum + (a.score_percent ?? 0), 0) / attempts.length)
           : 0,
         totalUsers: users.length,
-        activeUsers: users.filter((u) => u.subscription_status === 'active').length,
+        activeUsers: users.filter((u: any) => u.subscription_status === 'active').length,
         scoreDistribution: scoreRanges,
         failedQuestions: questionsRes.data ?? [],
       })

@@ -46,7 +46,7 @@ export default function StatsPage() {
 
       setTotalAttempts(attempts.length)
 
-      const overall = attempts.reduce((sum, a) => sum + (a.score_percent ?? 0), 0)
+      const overall = attempts.reduce((sum: number, a: any) => sum + (a.score_percent ?? 0), 0)
       setOverallAvg(attempts.length > 0 ? Math.round(overall / attempts.length) : 0)
 
       const specMap: Record<string, { total: number; count: number; name: string; icon: string }> = {}

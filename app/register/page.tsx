@@ -61,18 +61,21 @@ export default function RegisterPage() {
       })
 
       if (error) {
-        if (error.message.includes('already registered')) {
+        console.error('[Register] Supabase error:', error.message, error)
+        if (error.message.includes('already registered') || error.message.includes('already been registered')) {
           toast.error('Este email ya está registrado. Intenta iniciar sesión.')
         } else {
-          toast.error('Error al registrarse. Intenta de nuevo.')
+          toast.error(error.message || 'Error al registrarse. Intenta de nuevo.')
         }
         return
       }
 
       setSuccess(true)
       toast.success('Cuenta creada. Revisa tu email para confirmarla.')
-    } catch {
-      toast.error('Error inesperado. Intenta de nuevo.')
+    } catch (err) {
+      console.error('[Register] Unexpected error:', err)
+      const message = err instanceof Error ? err.message : 'Error inesperado. Intenta de nuevo.'
+      toast.error(message)
     } finally {
       setLoading(false)
     }

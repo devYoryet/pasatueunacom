@@ -96,7 +96,7 @@ export default function SpecialtiesPage() {
   const chapterGroups: ChapterGroup[] = COURSE_CALENDAR.chapters.map((chapter) => {
     // Collect all specialty codes for this chapter
     const codes = new Set(chapter.weeks.flatMap((w) => w.specialtyCodes))
-    const repasoDates = chapter.weeks.filter((w) => w.isRepaso).map((w) => w.topic)
+    const repasoWeeks = chapter.weeks.filter((w) => w.isRepaso).map((w) => w.topic)
 
     const chapterSpecs = specialties.filter((s) => codes.has(s.code))
     return {
@@ -104,7 +104,7 @@ export default function SpecialtiesPage() {
       chapterTitle: chapter.title,
       color: chapter.color,
       specialties: chapterSpecs,
-      repasoDates,
+      repasoWeeks,
     }
   })
 

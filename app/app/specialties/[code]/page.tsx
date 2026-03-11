@@ -309,7 +309,7 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
             .select('lesson_id')
             .eq('user_id', user.id)
             .eq('completed', true)
-            .then((r) => r) // no throw on missing table
+            .then((r: unknown) => r as { data: { lesson_id: number }[] | null }) // no throw on missing table
         ])
         attRes.data?.forEach((a: any) => completedExamIds.add(a.exam_id))
         watchRes.data?.forEach((w: any) => watchedLessonIds.add(w.lesson_id))

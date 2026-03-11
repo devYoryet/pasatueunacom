@@ -12,7 +12,7 @@ import type { Specialty } from '@/lib/supabase/types'
 import {
   BookOpen, Play, CheckCircle2, Clock3, Circle,
   ChevronDown, ChevronUp, ExternalLink, Lock, Sparkles,
-  Video, FileText, ClipboardList, Trophy, Flame,
+  Video, FileText, ClipboardList,
   ChevronRight, Star,
 } from 'lucide-react'
 import {
@@ -733,13 +733,6 @@ export default function SpecialtiesPage() {
     load()
   }, [])
 
-  const overallProgress = useMemo(() => {
-    const values = Object.values(specialtyMap)
-    const total = values.reduce((s, sp) => s + sp.totalExams, 0)
-    const done = values.reduce((s, sp) => s + sp.completedExams, 0)
-    return { total, done, pct: total > 0 ? Math.round((done / total) * 100) : 0 }
-  }, [specialtyMap])
-
   if (loading) {
     return (
       <div className="space-y-5 max-w-4xl">
@@ -759,33 +752,6 @@ export default function SpecialtiesPage() {
           EUNACOM Julio 2026 — Organizado por semana del calendario
         </p>
       </div>
-
-      {/* Overall progress */}
-      {overallProgress.total > 0 && (
-        <div className="bg-white rounded-2xl border border-slate-200 p-5">
-          <div className="flex items-center justify-between mb-2">
-            <div className="flex items-center gap-2">
-              <Trophy className="w-4 h-4 text-amber-500" />
-              <span className="text-sm font-medium text-slate-700">Progreso general del curso</span>
-            </div>
-            <span className="text-sm font-bold text-blue-700">{overallProgress.pct}%</span>
-          </div>
-          <Progress value={overallProgress.pct} className="h-3 [&>div]:bg-blue-500" />
-          <div className="flex items-center justify-between mt-2">
-            <span className="text-xs text-slate-400">
-              {overallProgress.done}/{overallProgress.total} cuestionarios completados
-            </span>
-            {currentWeek && (
-              <div className="flex items-center gap-1.5">
-                <Flame className="w-3.5 h-3.5 text-orange-400" />
-                <span className="text-xs font-medium text-blue-600">
-                  Semana {currentWeek.week}: {currentWeek.topic}
-                </span>
-              </div>
-            )}
-          </div>
-        </div>
-      )}
 
       {/* General section */}
       <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">

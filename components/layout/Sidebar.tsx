@@ -12,6 +12,7 @@ import {
   Settings,
   LogOut,
   X,
+  CalendarDays,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { createClient } from '@/lib/supabase/client'
@@ -27,8 +28,8 @@ interface SidebarProps {
 
 const navItems = [
   { icon: Home, label: 'Inicio', href: '/app/dashboard' },
+  { icon: CalendarDays, label: 'Calendario del Curso', href: '/app/calendar' },
   { icon: BookOpen, label: 'Especialidades', href: '/app/specialties' },
-  { icon: Target, label: 'Practicar', href: '/app/specialties' },
   { icon: BarChart3, label: 'Mi Progreso', href: '/app/stats' },
   { icon: Clock, label: 'Historial', href: '/app/history' },
   { icon: Map, label: 'Cobertura EUNACOM', href: '/app/coverage' },

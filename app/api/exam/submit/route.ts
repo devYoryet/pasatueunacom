@@ -70,34 +70,28 @@ export async function POST(req: NextRequest) {
     attempt = data
   }
 
-  // Update question stats asynchronously
-  // We do this in the background without blocking the response
-  supabase.rpc('update_question_stats', {
-    p_question_id: 0,
-    p_is_correct: false,
-  }).then(() => {})
-
-  // Actually update each question stat
+  // Update question stats in parallel (fire-and-forget, non-blocking)
   const answerEntries = Object.entries(answers) as [string, string][]
   const questionIds = answerEntries.map(([id]) => parseInt(id))
 
   if (questionIds.length > 0) {
-    const { data: questions } = await supabase
+    // Fetch correct answers for all questions in one query
+    supabase
       .from('questions')
       .select('id, correct_option')
       .in('id', questionIds)
-
-    if (questions) {
-      for (const q of questions) {
-        const userAnswer = answers[String(q.id)]
-        const isCorrect = userAnswer === q.correct_option
-
-        await supabase.rpc('update_question_stats', {
-          p_question_id: q.id,
-          p_is_correct: isCorrect,
-        })
-      }
-    }
+      .then(({ data: questions }) => {
+        if (!questions) return
+        // Fire all RPC calls in parallel instead of sequentially
+        Promise.all(
+          questions.map((q) =>
+            supabase.rpc('update_question_stats', {
+              p_question_id: q.id,
+              p_is_correct: answers[String(q.id)] === q.correct_option,
+            })
+          )
+        )
+      })
   }
 
   return NextResponse.json({ attemptId: attempt.id })

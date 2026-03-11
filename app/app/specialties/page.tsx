@@ -9,7 +9,8 @@ import { Progress } from '@/components/ui/progress'
 import { Skeleton } from '@/components/ui/skeleton'
 import ConfigModal from '@/components/quiz/ConfigModal'
 import type { Specialty, EunacomArea, Exam } from '@/lib/supabase/types'
-import { BookOpen, Play, CheckCircle2, Clock3, Circle, ChevronDown, ChevronUp } from 'lucide-react'
+import Link from 'next/link'
+import { BookOpen, Play, CheckCircle2, Clock3, Circle, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react'
 import { COURSE_CALENDAR, CHAPTER_COLORS } from '@/lib/course-calendar'
 
 interface SpecialtyWithData extends Specialty {
@@ -268,20 +269,27 @@ export default function SpecialtiesPage() {
                               </div>
                             )}
 
-                            {/* Action */}
+                            {/* Actions */}
                             {spec.is_available && (
-                              <Button
-                                size="sm"
-                                className="w-full gap-2 mt-1"
-                                variant={isStarted ? 'outline' : 'default'}
-                                onClick={() => {
-                                  setSelectedSpecialty(spec)
-                                  setConfigModalOpen(true)
-                                }}
-                              >
-                                <Play className="w-3.5 h-3.5" />
-                                {isDone ? 'Repasar' : isStarted ? 'Continuar' : 'Comenzar'}
-                              </Button>
+                              <div className="flex gap-2 mt-1">
+                                <Button
+                                  size="sm"
+                                  className="flex-1 gap-2"
+                                  variant={isStarted ? 'outline' : 'default'}
+                                  onClick={() => {
+                                    setSelectedSpecialty(spec)
+                                    setConfigModalOpen(true)
+                                  }}
+                                >
+                                  <Play className="w-3.5 h-3.5" />
+                                  {isDone ? 'Repasar' : isStarted ? 'Continuar' : 'Comenzar'}
+                                </Button>
+                                <Link href={`/app/specialties/${spec.code}`}>
+                                  <Button size="sm" variant="ghost" className="gap-1.5 px-2" title="Ver clases y contenido">
+                                    <ExternalLink className="w-3.5 h-3.5" />
+                                  </Button>
+                                </Link>
+                              </div>
                             )}
                           </CardContent>
                         </Card>

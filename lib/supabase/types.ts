@@ -201,6 +201,61 @@ export interface QuestionWithStats extends Question {
   specialties: Specialty | null
 }
 
+// ─── New tables (migration 001) ───────────────────────────────────────────────
+
+export interface CourseEdition {
+  id: number
+  name: string
+  slug: string
+  target_exam_date: string | null
+  course_start_date: string
+  course_end_date: string
+  is_active: boolean
+  price_clp: number
+  description: string | null
+  created_at: string
+}
+
+export interface Enrollment {
+  id: string
+  user_id: string
+  edition_id: number
+  enrolled_at: string
+  valid_until: string | null
+  payment_status: 'pending' | 'paid' | 'trial' | 'free' | 'refunded'
+  payment_ref: string | null
+}
+
+export interface Lesson {
+  id: number
+  specialty_id: number | null
+  title: string
+  order_index: number
+  duration_seconds: number | null
+  video_url: string | null
+  srt_content: string | null
+  txt_content: string | null
+  // AI-generated fields
+  ai_summary: string | null
+  ai_key_concepts: string[]
+  ai_mnemonics: { para: string; nemotecnia: string; explicacion: string }[]
+  ai_high_yield: string[]
+  ai_algorithms: string[]
+  ai_review_qs: { pregunta: string; respuesta: string }[]
+  ai_processed_at: string | null
+  is_available: boolean
+  is_free_preview: boolean
+  created_at: string
+  updated_at: string
+}
+
+export interface LessonProgress {
+  user_id: string
+  lesson_id: number
+  watched_at: string
+  completed: boolean
+}
+
 // Parsed question for import wizard
 export interface ParsedQuestion {
   stem: string

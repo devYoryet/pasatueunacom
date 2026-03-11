@@ -29,7 +29,92 @@ import {
   BookOpen,
   Target,
   Zap,
+  Info,
 } from 'lucide-react'
+import type { TestDate } from '@/lib/course-calendar'
+
+// ─── Monthly Calendar Grid ─────────────────────────────────────────────────────
+
+function MonthGrid({ year, month, testDates }: { year: number; month: number; testDates: TestDate[] }) {
+  const today = new Date()
+  const todayY = today.getFullYear()
+  const todayM = today.getMonth()
+  const todayD = today.getDate()
+
+  const daysInMonth = new Date(year, month + 1, 0).getDate()
+  // Monday-first offset: Mon=0 … Sun=6
+  const firstDow = (new Date(year, month, 1).getDay() + 6) % 7
+
+  const testDaySet = new Set(
+    testDates
+      .filter((t) => {
+        const d = new Date(t.date)
+        return d.getFullYear() === year && d.getMonth() === month
+      })
+      .map((t) => new Date(t.date).getDate())
+  )
+
+  const getTestTitle = (day: number) =>
+    testDates.find((t) => {
+      const d = new Date(t.date)
+      return d.getFullYear() === year && d.getMonth() === month && d.getDate() === day
+    })?.title
+
+  const cells: (number | null)[] = [
+    ...Array(firstDow).fill(null),
+    ...Array.from({ length: daysInMonth }, (_, i) => i + 1),
+  ]
+  while (cells.length % 7 !== 0) cells.push(null)
+
+  const monthName = new Date(year, month).toLocaleString('es-CL', { month: 'long' })
+
+  return (
+    <div className="bg-white rounded-2xl border border-slate-200 p-4">
+      <h3 className="text-sm font-semibold text-slate-800 mb-3 capitalize">
+        {monthName} {year}
+      </h3>
+
+      {/* Day headers */}
+      <div className="grid grid-cols-7 mb-1">
+        {['L', 'M', 'M', 'J', 'V', 'S', 'D'].map((d, i) => (
+          <div key={i} className="text-center text-[10px] font-medium text-slate-400 py-0.5">
+            {d}
+          </div>
+        ))}
+      </div>
+
+      {/* Days */}
+      <div className="grid grid-cols-7">
+        {cells.map((day, i) => {
+          if (day === null) return <div key={`e-${i}`} />
+
+          const isToday = year === todayY && month === todayM && day === todayD
+          const isExam = testDaySet.has(day)
+          const isPast = new Date(year, month, day) < new Date(todayY, todayM, todayD)
+          const title = isExam ? getTestTitle(day) : undefined
+
+          return (
+            <div
+              key={i}
+              title={title}
+              className={`flex items-center justify-center text-xs rounded-full mx-auto my-0.5 w-7 h-7 transition-colors ${
+                isToday
+                  ? 'bg-blue-600 text-white font-bold ring-2 ring-blue-200'
+                  : isExam
+                  ? 'bg-amber-400 text-white font-bold cursor-help hover:bg-amber-500'
+                  : isPast
+                  ? 'text-slate-300'
+                  : 'text-slate-700 hover:bg-slate-100'
+              }`}
+            >
+              {day}
+            </div>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -433,6 +518,33 @@ export default function CalendarPage() {
           </div>
         </div>
       )}
+
+      {/* ── Monthly Calendars ─────────────────────────────── */}
+      <div>
+        <h2 className="text-lg font-heading font-semibold text-slate-800 mb-2 flex items-center gap-2">
+          <CalendarDays className="w-5 h-5 text-slate-500" />
+          Calendario Mensual
+        </h2>
+        <div className="flex items-center gap-4 mb-4 text-xs text-slate-500">
+          <div className="flex items-center gap-1.5">
+            <span className="w-4 h-4 rounded-full bg-amber-400 inline-block flex-shrink-0" />
+            Prueba / Ensayo
+          </div>
+          <div className="flex items-center gap-1.5">
+            <span className="w-4 h-4 rounded-full bg-blue-600 inline-block flex-shrink-0" />
+            Hoy
+          </div>
+          <div className="flex items-center gap-1 text-slate-400">
+            <Info className="w-3.5 h-3.5" />
+            Hover sobre las fechas amarillas para ver el nombre de la prueba
+          </div>
+        </div>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {[0, 1, 2, 3, 4, 5, 6].map((m) => (
+            <MonthGrid key={m} year={2026} month={m} testDates={COURSE_CALENDAR.testDates} />
+          ))}
+        </div>
+      </div>
 
       {/* ── Chapter Cards ─────────────────────────────────── */}
       <div>

@@ -80,7 +80,7 @@ export async function POST(req: NextRequest) {
       .from('questions')
       .select('id, correct_option')
       .in('id', questionIds)
-      .then(({ data: questions }) => {
+      .then(({ data: questions }: { data: { id: number; correct_option: string }[] | null }) => {
         if (!questions) return
         // Fire all RPC calls in parallel instead of sequentially
         Promise.all(

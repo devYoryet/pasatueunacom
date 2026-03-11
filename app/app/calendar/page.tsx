@@ -285,7 +285,7 @@ export default function CalendarPage() {
       const completedBySpec: Record<number, Set<number>> = {}
       const scoresBySpec: Record<number, number[]> = {}
       for (const a of attempts) {
-        const exam = exams.find((e) => e.id === a.exam_id)
+        const exam = exams.find((e: { id: number; specialty_id: number; question_count: number }) => e.id === a.exam_id)
         if (!exam?.specialty_id) continue
         const sid = exam.specialty_id
         if (!completedBySpec[sid]) completedBySpec[sid] = new Set()
@@ -296,7 +296,7 @@ export default function CalendarPage() {
 
       const result: Record<string, SpecialtyStats> = {}
       for (const spec of specs) {
-        const specExams = exams.filter((e) => e.specialty_id === spec.id)
+        const specExams = exams.filter((e: { id: number; specialty_id: number; question_count: number }) => e.specialty_id === spec.id)
         const completed = completedBySpec[spec.id]?.size ?? 0
         const scores = scoresBySpec[spec.id] ?? []
         result[spec.code] = {

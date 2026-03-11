@@ -344,6 +344,7 @@ function ChapterCard({
 export default function CalendarPage() {
   const [stats, setStats] = useState<Record<string, SpecialtyStats>>({})
   const [loading, setLoading] = useState(true)
+  const [calendarsOpen, setCalendarsOpen] = useState(true)
 
   const currentWeek = useMemo(() => getCurrentCourseWeek(), [])
   const nextTest = useMemo(() => getDaysUntilNextTest(), [])
@@ -520,30 +521,44 @@ export default function CalendarPage() {
       )}
 
       {/* ── Monthly Calendars ─────────────────────────────── */}
-      <div>
-        <h2 className="text-lg font-heading font-semibold text-slate-800 mb-2 flex items-center gap-2">
-          <CalendarDays className="w-5 h-5 text-slate-500" />
-          Calendario Mensual
-        </h2>
-        <div className="flex items-center gap-4 mb-4 text-xs text-slate-500">
-          <div className="flex items-center gap-1.5">
-            <span className="w-4 h-4 rounded-full bg-amber-400 inline-block flex-shrink-0" />
-            Prueba / Ensayo
+      <div className="rounded-2xl border border-slate-200 overflow-hidden bg-white">
+        <button
+          onClick={() => setCalendarsOpen(!calendarsOpen)}
+          className="w-full flex items-center gap-3 px-5 py-4 text-left hover:bg-slate-50 transition-colors"
+        >
+          <CalendarDays className="w-5 h-5 text-slate-500 flex-shrink-0" />
+          <h2 className="text-base font-heading font-semibold text-slate-800 flex-1">
+            Calendario Mensual
+          </h2>
+          {/* Legend */}
+          <div className="hidden sm:flex items-center gap-3 text-xs text-slate-400 mr-3">
+            <span className="flex items-center gap-1.5">
+              <span className="w-3 h-3 rounded-full bg-amber-400 inline-block" />
+              Prueba
+            </span>
+            <span className="flex items-center gap-1.5">
+              <span className="w-3 h-3 rounded-full bg-blue-600 inline-block" />
+              Hoy
+            </span>
           </div>
-          <div className="flex items-center gap-1.5">
-            <span className="w-4 h-4 rounded-full bg-blue-600 inline-block flex-shrink-0" />
-            Hoy
+          {calendarsOpen
+            ? <ChevronUp className="w-5 h-5 text-slate-400 flex-shrink-0" />
+            : <ChevronDown className="w-5 h-5 text-slate-400 flex-shrink-0" />
+          }
+        </button>
+        {calendarsOpen && (
+          <div className="border-t border-slate-100 p-5">
+            <p className="text-xs text-slate-400 mb-4 flex items-center gap-1.5">
+              <Info className="w-3.5 h-3.5" />
+              Hover sobre las fechas amarillas para ver el nombre de la prueba
+            </p>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {[0, 1, 2, 3, 4, 5, 6].map((m) => (
+                <MonthGrid key={m} year={2026} month={m} testDates={COURSE_CALENDAR.testDates} />
+              ))}
+            </div>
           </div>
-          <div className="flex items-center gap-1 text-slate-400">
-            <Info className="w-3.5 h-3.5" />
-            Hover sobre las fechas amarillas para ver el nombre de la prueba
-          </div>
-        </div>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {[0, 1, 2, 3, 4, 5, 6].map((m) => (
-            <MonthGrid key={m} year={2026} month={m} testDates={COURSE_CALENDAR.testDates} />
-          ))}
-        </div>
+        )}
       </div>
 
       {/* ── Chapter Cards ─────────────────────────────────── */}

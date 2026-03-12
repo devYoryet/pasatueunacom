@@ -185,6 +185,7 @@ function FeatureCard({
 /* ─── Main page ───────────────────────────────────────────────────── */
 export default function LandingPage() {
   const [navScrolled, setNavScrolled] = useState(false)
+  const [guidesOpen, setGuidesOpen] = useState(false)
 
   useEffect(() => {
     const handleScroll = () => setNavScrolled(window.scrollY > 20)
@@ -194,87 +195,180 @@ export default function LandingPage() {
 
   return (
     <div className="min-h-screen bg-white" style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>
+      {/* Skip link para accesibilidad */}
+      <a
+        href="#main"
+        className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:bg-white focus:text-slate-900 focus:px-3 focus:py-2 focus:rounded-md focus:shadow-lg"
+      >
+        Ir al contenido principal
+      </a>
 
       {/* ── NAV ─────────────────────────────────────────────────── */}
-      <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        navScrolled
-          ? 'bg-white/95 backdrop-blur-xl shadow-sm border-b border-slate-200'
-          : 'bg-transparent'
-      }`}>
+      <header
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+          navScrolled
+            ? 'bg-white/95 backdrop-blur-xl shadow-sm border-b border-slate-200'
+            : 'bg-slate-950/80 backdrop-blur-xl'
+        }`}
+        role="banner"
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2.5">
-            <div className="w-9 h-9 bg-gradient-to-br from-teal-500 to-blue-600 rounded-xl flex items-center justify-center shadow-md shadow-teal-500/30">
-              <span className="text-white font-bold text-sm font-mono">PE</span>
+            <div className="w-9 h-9 bg-white border border-emerald-200 rounded-2xl flex items-center justify-center shadow-sm">
+              <span className="text-emerald-600 font-bold text-sm font-mono">Go</span>
             </div>
             <span className="font-heading font-extrabold text-slate-900 text-lg tracking-tight">
-              PasaTu<span className="text-teal-600">Eunacom</span>
+              <span className={navScrolled ? 'text-slate-900' : 'text-slate-50'}>Eunacom</span>
+              <span className={navScrolled ? 'text-teal-600' : 'text-teal-300'}>Go</span>
             </span>
           </div>
-          <div className="hidden md:flex items-center gap-8">
-            <a href="#plataforma" className="text-sm text-slate-600 hover:text-teal-600 transition-colors font-medium">Plataforma</a>
-            <a href="#especialidades" className="text-sm text-slate-600 hover:text-teal-600 transition-colors font-medium">Especialidades</a>
-            <a href="#precios" className="text-sm text-slate-600 hover:text-teal-600 transition-colors font-medium">Precios</a>
-          </div>
+          <nav className="hidden md:flex items-center gap-8" aria-label="Secciones principales">
+            <a
+              href="#plataforma"
+              className={`text-sm font-medium transition-colors ${
+                navScrolled ? 'text-slate-700 hover:text-teal-700' : 'text-slate-100 hover:text-teal-300'
+              }`}
+            >
+              Plataforma
+            </a>
+            <a
+              href="#especialidades"
+              className={`text-sm font-medium transition-colors ${
+                navScrolled ? 'text-slate-700 hover:text-teal-700' : 'text-slate-100 hover:text-teal-300'
+              }`}
+            >
+              Especialidades
+            </a>
+            <a
+              href="#precios"
+              className={`text-sm font-medium transition-colors ${
+                navScrolled ? 'text-slate-700 hover:text-teal-700' : 'text-slate-100 hover:text-teal-300'
+              }`}
+            >
+              Precios
+            </a>
+            <div className="relative">
+              <button
+                type="button"
+                onClick={() => setGuidesOpen((open) => !open)}
+                onKeyDown={(e) => {
+                  if (e.key === 'Escape') setGuidesOpen(false)
+                }}
+                aria-haspopup="true"
+                aria-expanded={guidesOpen}
+                className={`text-sm font-medium transition-colors inline-flex items-center gap-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-teal-500 ${
+                  navScrolled ? 'text-slate-700 hover:text-teal-700' : 'text-slate-100 hover:text-teal-300'
+                }`}
+              >
+                EUNACOM
+                <ChevronDown className="w-3 h-3" aria-hidden="true" />
+              </button>
+              {guidesOpen && (
+                <div
+                  className="absolute right-0 mt-2 w-64 rounded-xl border border-slate-200 bg-white shadow-lg py-2 z-50"
+                  role="menu"
+                  aria-label="Guías sobre el EUNACOM"
+                  onMouseLeave={() => setGuidesOpen(false)}
+                >
+                  <Link
+                    href="/eunacom/que-es"
+                    className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50"
+                    role="menuitem"
+                  >
+                    <span className="font-medium">¿Qué es el EUNACOM?</span>
+                    <span className="block text-xs text-slate-500">
+                      Estructura, requisitos y puntaje.
+                    </span>
+                  </Link>
+                  <Link
+                    href="/eunacom/fechas-y-modalidades"
+                    className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50"
+                    role="menuitem"
+                  >
+                    <span className="font-medium">Fechas y modalidades</span>
+                    <span className="block text-xs text-slate-500">
+                      Calendario típico y cómo hallar la próxima fecha.
+                    </span>
+                  </Link>
+                  <Link
+                    href="/eunacom/guia-estudio"
+                    className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50"
+                    role="menuitem"
+                  >
+                    <span className="font-medium">Guía de estudio</span>
+                    <span className="block text-xs text-slate-500">
+                      Plan de preparación con EunacomGo.
+                    </span>
+                  </Link>
+                  <Link
+                    href="/eunacom/normativa-2026"
+                    className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50"
+                    role="menuitem"
+                  >
+                    <span className="font-medium">Normativa 2026</span>
+                    <span className="block text-xs text-slate-500">
+                      Cambios legales y formato ECOE obligatorio.
+                    </span>
+                  </Link>
+                </div>
+              )}
+            </div>
+          </nav>
           <div className="flex items-center gap-3">
             <Link href="/login">
-              <Button variant="ghost" size="sm" className="font-medium">Iniciar sesión</Button>
+              <Button
+                variant="ghost"
+                size="sm"
+                className={`font-medium focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-teal-500 ${
+                  navScrolled
+                    ? 'text-slate-800 hover:text-teal-700'
+                    : 'text-slate-100 hover:text-teal-200'
+                }`}
+              >
+                Iniciar sesión
+              </Button>
             </Link>
             <Link href="/register">
-              <Button size="sm" className="bg-teal-600 hover:bg-teal-700 text-white shadow-md shadow-teal-500/20 font-medium">
+              <Button
+                size="sm"
+                className="bg-teal-600 hover:bg-teal-700 text-white shadow-md shadow-teal-500/20 font-medium focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-teal-400"
+              >
                 Comenzar gratis
               </Button>
             </Link>
           </div>
         </div>
-      </nav>
+      </header>
 
       {/* ── HERO ────────────────────────────────────────────────── */}
-      <section className="relative min-h-screen flex items-center pt-16 overflow-hidden"
-        style={{ background: 'linear-gradient(135deg, #0B1120 0%, #0F2542 40%, #0D3B4F 100%)' }}>
+      <main
+        id="main"
+        className="relative min-h-screen flex items-center pt-16 overflow-hidden bg-gradient-to-b from-emerald-50 via-white to-sky-50">
 
-        {/* Background decorations */}
+        {/* Background accent */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
-          {/* Grid overlay */}
-          <div className="absolute inset-0 opacity-[0.03]"
-            style={{
-              backgroundImage: 'linear-gradient(rgba(255,255,255,0.8) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.8) 1px, transparent 1px)',
-              backgroundSize: '60px 60px'
-            }} />
-          {/* Glows */}
-          <div className="absolute top-1/3 left-1/4 w-96 h-96 bg-teal-500/10 rounded-full blur-3xl" />
-          <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl" />
-          {/* ECG Line */}
-          <svg className="absolute bottom-0 left-0 right-0 w-full opacity-10" viewBox="0 0 1400 80" preserveAspectRatio="none">
-            <path d="M0,40 L200,40 L225,15 L250,65 L275,5 L300,75 L325,40 L550,40 L575,20 L600,60 L625,10 L650,70 L675,40 L900,40 L925,18 L950,62 L975,8 L1000,72 L1025,40 L1400,40"
-              fill="none" stroke="#5EEAD4" strokeWidth="2.5" />
-          </svg>
-          {/* Dots */}
-          {[...Array(20)].map((_, i) => (
-            <div key={i}
-              className="absolute w-1 h-1 bg-teal-400/30 rounded-full"
-              style={{ top: `${10 + (i * 17) % 80}%`, left: `${(i * 11) % 100}%` }}
-            />
-          ))}
+          <div className="absolute -top-32 -left-32 w-80 h-80 bg-emerald-100 rounded-full blur-3xl" />
+          <div className="absolute top-24 right-0 w-72 h-72 bg-teal-100 rounded-full blur-3xl" />
         </div>
 
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 py-20 grid lg:grid-cols-2 gap-16 items-center">
 
           {/* Left: Text */}
           <div>
-            <div className="inline-flex items-center gap-2 bg-teal-500/10 border border-teal-500/20 rounded-full px-4 py-1.5 mb-8">
+            <div className="inline-flex items-center gap-2 bg-emerald-50 border border-emerald-200 rounded-full px-4 py-1.5 mb-8">
               <span className="text-lg">🇨🇱</span>
-              <span className="text-teal-300 text-sm font-medium">Diseñado para el EUNACOM chileno</span>
+              <span className="text-emerald-700 text-sm font-medium">Diseñado para el EUNACOM chileno</span>
             </div>
 
-            <h1 className="text-4xl sm:text-5xl xl:text-6xl font-heading font-black text-white leading-[1.1] mb-6"
+            <h1 className="text-4xl sm:text-5xl xl:text-6xl font-heading font-black text-slate-900 leading-[1.1] mb-6"
               style={{ fontFamily: 'Outfit, Inter, system-ui' }}>
               Practica como en el examen.{' '}
-              <span className="bg-gradient-to-r from-teal-300 to-cyan-300 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-emerald-500 to-teal-500 bg-clip-text text-transparent">
                 Aprueba de verdad.
               </span>
             </h1>
 
-            <p className="text-blue-200 text-lg sm:text-xl leading-relaxed mb-10 max-w-xl">
+            <p className="text-slate-600 text-lg sm:text-xl leading-relaxed mb-10 max-w-xl">
               +1.000 preguntas clínicas con retroalimentación experta, organizadas por especialidad,
               con cronómetro y estadísticas personalizadas de progreso.
             </p>
@@ -288,8 +382,11 @@ export default function LandingPage() {
                 </Button>
               </Link>
               <Link href="/login">
-                <Button size="lg" variant="outline"
-                  className="border-white/20 text-white hover:bg-white/10 bg-transparent font-medium text-base px-8 w-full sm:w-auto">
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="border-white/40 text-white hover:bg-white/10 bg-transparent font-medium text-base px-8 w-full sm:w-auto focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-teal-400"
+                >
                   Ya tengo cuenta
                 </Button>
               </Link>
@@ -319,11 +416,15 @@ export default function LandingPage() {
         </div>
 
         {/* Scroll indicator */}
-        <a href="#stats" className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white/40 hover:text-white/70 transition-colors flex flex-col items-center gap-1 animate-bounce">
+        <a
+          href="#stats"
+          aria-label="Desplazarse a la sección de estadísticas"
+          className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white/60 hover:text-white transition-colors flex flex-col items-center gap-1 animate-bounce"
+        >
           <span className="text-xs">Descubrir</span>
           <ChevronDown className="w-5 h-5" />
         </a>
-      </section>
+      </main>
 
       {/* ── STATS BAR ───────────────────────────────────────────── */}
       <section id="stats" className="py-16 bg-slate-50 border-b border-slate-200">
@@ -390,7 +491,7 @@ export default function LandingPage() {
                   <div className="w-2.5 h-2.5 rounded-full bg-red-400/80" />
                   <div className="w-2.5 h-2.5 rounded-full bg-yellow-400/80" />
                   <div className="w-2.5 h-2.5 rounded-full bg-green-400/80" />
-                  <div className="ml-4 text-slate-400 text-xs font-mono">pasatueunacom.vercel.app/app/exam/1</div>
+                  <div className="ml-4 text-slate-400 text-xs font-mono">eunacomgo.cl/app/exam/1</div>
                 </div>
                 <div className="flex">
                   {/* Sidebar */}
@@ -504,9 +605,27 @@ export default function LandingPage() {
 
             <div className="grid sm:grid-cols-3 gap-10 text-center">
               {[
-                { step: '1', icon: BookOpen, title: 'Elige especialidad', desc: 'Selecciona entre 11 especialidades de Medicina Interna disponibles hoy.', color: 'from-teal-400 to-teal-600' },
-                { step: '2', icon: Play, title: 'Practica con el cronómetro', desc: 'Responde preguntas clínicas reales con el mismo formato del EUNACOM.', color: 'from-blue-400 to-blue-600' },
-                { step: '3', icon: TrendingUp, title: 'Analiza y mejora', desc: 'Ve tus estadísticas, identifica áreas débiles y enfoca tu estudio.', color: 'from-purple-400 to-purple-600' },
+                {
+                  step: '1',
+                  icon: BookOpen,
+                  title: 'Elige especialidad',
+                  desc: 'Accede a las 17 áreas del programa EUNACOM y organiza tu estudio por bloques.',
+                  color: 'from-teal-400 to-teal-600',
+                },
+                {
+                  step: '2',
+                  icon: Play,
+                  title: 'Practica con el cronómetro',
+                  desc: 'Responde preguntas clínicas reales con el mismo formato del EUNACOM.',
+                  color: 'from-blue-400 to-blue-600',
+                },
+                {
+                  step: '3',
+                  icon: TrendingUp,
+                  title: 'Analiza y mejora',
+                  desc: 'Ve tus estadísticas, identifica áreas débiles y enfoca tu estudio.',
+                  color: 'from-purple-400 to-purple-600',
+                },
               ].map((item) => (
                 <div key={item.step} className="flex flex-col items-center">
                   <div className={`w-24 h-24 rounded-full bg-gradient-to-br ${item.color} flex flex-col items-center justify-center shadow-xl mb-6 relative z-10`}>
@@ -529,31 +648,24 @@ export default function LandingPage() {
             <Badge className="bg-teal-50 text-teal-700 border-teal-200 mb-4">Cobertura EUNACOM</Badge>
             <h2 className="text-3xl sm:text-4xl font-heading font-black text-slate-900 mb-4"
               style={{ fontFamily: 'Outfit, Inter' }}>
-              17 especialidades, 11 disponibles hoy
+              17 especialidades del programa EUNACOM
             </h2>
             <p className="text-slate-500 text-lg max-w-xl mx-auto">
-              Comenzamos con Medicina Interna completa. Nuevas especialidades se agregan cada semana.
+              Todas las especialidades forman parte de EunacomGo. El contenido se libera de forma
+              progresiva para que puedas planificar tu estudio por bloques, sin abrumarte.
             </p>
           </div>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
             {specialties.map((spec) => (
               <div key={spec.name}
-                className={`relative bg-white rounded-2xl border p-4 text-center transition-all duration-200 overflow-hidden ${
-                  spec.ok
-                    ? 'border-slate-200 hover:border-teal-300 hover:shadow-lg hover:-translate-y-0.5 cursor-pointer group'
-                    : 'border-slate-100 opacity-50'
-                }`}>
-                {spec.ok && (
-                  <div className="absolute inset-0 bg-gradient-to-br from-teal-50/0 to-teal-50 opacity-0 group-hover:opacity-100 transition-opacity" />
-                )}
+                className="relative bg-white rounded-2xl border border-slate-200 p-4 text-center transition-all duration-200 overflow-hidden hover:border-teal-300 hover:shadow-lg hover:-translate-y-0.5 cursor-pointer group">
+                <div className="absolute inset-0 bg-gradient-to-br from-teal-50/0 to-teal-50 opacity-0 group-hover:opacity-100 transition-opacity" />
                 <div className="relative text-2xl mb-2">{spec.icon}</div>
                 <div className="relative text-xs font-semibold text-slate-800 mb-1.5 leading-tight">{spec.name}</div>
-                {spec.ok ? (
-                  <div className="relative text-xs text-teal-600 font-medium">{spec.q} preg.</div>
-                ) : (
-                  <div className="relative text-xs text-slate-400">Pronto</div>
-                )}
+                <div className="relative text-xs text-teal-600 font-medium">
+                  {spec.q > 0 ? `${spec.q} preg.` : 'En preparación'}
+                </div>
               </div>
             ))}
           </div>
@@ -683,12 +795,12 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <div className="flex items-center gap-3">
-              <div className="w-9 h-9 bg-gradient-to-br from-teal-500 to-blue-600 rounded-xl flex items-center justify-center">
-                <span className="text-white font-bold text-sm font-mono">PE</span>
+              <div className="w-9 h-9 bg-white border border-emerald-200 rounded-2xl flex items-center justify-center">
+                <span className="text-emerald-600 font-bold text-sm font-mono">Go</span>
               </div>
               <div>
                 <div className="text-white font-heading font-bold">
-                  PasaTu<span className="text-teal-400">Eunacom</span>
+                  Eunacom<span className="text-teal-400">Go</span>
                 </div>
                 <div className="text-xs text-slate-600">Estudia inteligente. Aprueba seguro.</div>
               </div>
@@ -698,9 +810,22 @@ export default function LandingPage() {
               <a href="#" className="hover:text-white transition-colors">Privacidad</a>
               <a href="#" className="hover:text-white transition-colors">Contacto</a>
             </div>
-            <div className="text-xs text-slate-600 flex items-center gap-2">
-              <span>Construido para médicos chilenos</span>
-              <span className="text-base">🇨🇱</span>
+            <div className="flex flex-col items-center md:items-end gap-1 text-xs text-slate-600">
+              <div className="flex items-center gap-2">
+                <span>Construido para médicos chilenos</span>
+                <span className="text-base" aria-hidden="true">🇨🇱</span>
+              </div>
+              <div>
+                Hecho por{' '}
+                <a
+                  href="https://pulsadotech.cl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-slate-300 hover:text-white underline underline-offset-2"
+                >
+                  pulsadotech.cl
+                </a>
+              </div>
             </div>
           </div>
         </div>

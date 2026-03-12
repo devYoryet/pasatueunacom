@@ -67,7 +67,7 @@ export default function AdminDashboard() {
     <div className="space-y-6 max-w-5xl">
       <div>
         <h1 className="section-title">Panel de administración</h1>
-        <p className="text-slate-500 text-sm mt-1">Gestión completa de PasaTuEunacom</p>
+        <p className="text-slate-500 text-sm mt-1">Gestión completa de EunacomGo</p>
       </div>
 
       {/* STATS */}

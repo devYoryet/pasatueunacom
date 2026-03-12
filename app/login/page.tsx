@@ -86,10 +86,10 @@ export default function LoginPage() {
 
         <div className="relative">
           <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-white/20 backdrop-blur rounded-xl flex items-center justify-center">
-              <span className="text-white font-bold text-lg">PE</span>
+            <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center">
+              <span className="text-emerald-600 font-bold text-lg font-mono">Go</span>
             </div>
-            <span className="font-heading font-bold text-white text-xl">PasaTuEunacom</span>
+            <span className="font-heading font-bold text-white text-xl">EunacomGo</span>
           </Link>
         </div>
 
@@ -119,10 +119,10 @@ export default function LoginPage() {
       <div className="flex-1 flex items-center justify-center p-6 sm:p-12 bg-white">
         <div className="w-full max-w-md">
           <div className="lg:hidden flex items-center gap-2 mb-8">
-            <div className="w-8 h-8 bg-blue-900 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">PE</span>
+            <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center">
+              <span className="text-white font-bold text-sm font-mono">Go</span>
             </div>
-            <span className="font-heading font-bold text-slate-900">PasaTuEunacom</span>
+            <span className="font-heading font-bold text-slate-900">EunacomGo</span>
           </div>
 
           <h1 className="text-2xl sm:text-3xl font-heading font-bold text-slate-900 mb-2">

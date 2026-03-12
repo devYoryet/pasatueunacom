@@ -52,11 +52,11 @@ export default function Sidebar({ profile, mobileOpen, onMobileClose }: SidebarP
       {/* Logo */}
       <div className="p-6 border-b border-slate-100">
         <Link href="/app/dashboard" className="flex items-center gap-3">
-          <div className="w-9 h-9 bg-gradient-to-br from-blue-600 to-blue-900 rounded-xl flex items-center justify-center shadow-sm">
-            <span className="text-white font-bold text-sm">PE</span>
+          <div className="w-9 h-9 bg-white border border-emerald-200 rounded-xl flex items-center justify-center shadow-sm">
+            <span className="text-emerald-600 font-bold text-sm font-mono">Go</span>
           </div>
           <div>
-            <div className="font-heading font-bold text-slate-900 text-sm leading-tight">PasaTuEunacom</div>
+            <div className="font-heading font-bold text-slate-900 text-sm leading-tight">EunacomGo</div>
             <div className="text-xs text-slate-400">Preparación EUNACOM</div>
           </div>
         </Link>

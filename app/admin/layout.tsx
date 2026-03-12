@@ -81,12 +81,12 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
     <div className="flex flex-col h-full">
       <div className="p-6 border-b border-slate-100">
         <Link href="/admin" className="flex items-center gap-3">
-          <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-blue-900 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">PE</span>
+          <div className="w-8 h-8 bg-white border border-emerald-200 rounded-lg flex items-center justify-center">
+            <span className="text-emerald-600 font-bold text-sm font-mono">Go</span>
           </div>
           <div>
             <div className="font-heading font-bold text-slate-900 text-sm">Admin Panel</div>
-            <div className="text-xs text-slate-400">PasaTuEunacom</div>
+            <div className="text-xs text-slate-400">EunacomGo</div>
           </div>
         </Link>
       </div>

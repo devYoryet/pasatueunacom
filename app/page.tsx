@@ -5,8 +5,13 @@ import { useState, useEffect, useRef } from 'react'
 import {
   ArrowRight, BookOpen, Target, BarChart3, Clock, CheckCircle,
   Star, ChevronRight, Zap, Shield, Brain, TrendingUp, Play,
-  Award, Users, ChevronDown
+  Award, Users, ChevronDown, Menu, X, MessageCircle
 } from 'lucide-react'
+
+const WA_PHONE = '56957982154'
+const WA_MSG_PRO = encodeURIComponent('Hola! Quiero contratar el Plan Pro de EunacomGo 👨‍⚕️')
+const WA_MSG_INFO = encodeURIComponent('Hola! Quiero información sobre EunacomGo')
+const waLink = (msg: string) => `https://wa.me/${WA_PHONE}?text=${msg}`
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 
@@ -186,6 +191,7 @@ function FeatureCard({
 export default function LandingPage() {
   const [navScrolled, setNavScrolled] = useState(false)
   const [guidesOpen, setGuidesOpen] = useState(false)
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   useEffect(() => {
     const handleScroll = () => setNavScrolled(window.scrollY > 20)
@@ -214,10 +220,10 @@ export default function LandingPage() {
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2.5">
-            <div className="w-9 h-9 bg-white border border-emerald-200 rounded-2xl flex items-center justify-center shadow-sm">
-              <span className="text-emerald-600 font-bold text-sm font-mono">Go</span>
+            <div className="w-9 h-9 bg-gradient-to-br from-teal-500 to-blue-600 rounded-2xl flex items-center justify-center shadow-sm">
+              <span className="text-white font-bold text-sm font-mono">EG</span>
             </div>
-            <span className="font-heading font-extrabold text-slate-900 text-lg tracking-tight">
+            <span className="font-heading font-extrabold text-lg tracking-tight">
               <span className={navScrolled ? 'text-slate-900' : 'text-slate-50'}>Eunacom</span>
               <span className={navScrolled ? 'text-teal-600' : 'text-teal-300'}>Go</span>
             </span>
@@ -310,12 +316,32 @@ export default function LandingPage() {
                       Cambios legales y formato ECOE obligatorio.
                     </span>
                   </Link>
+                  <Link
+                    href="/eunacom/especialidades"
+                    className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50"
+                    role="menuitem"
+                  >
+                    <span className="font-medium">Especialidades</span>
+                    <span className="block text-xs text-slate-500">
+                      Las 11 áreas con guías de estudio.
+                    </span>
+                  </Link>
+                  <Link
+                    href="/eunacom/preguntas-frecuentes"
+                    className="block px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 rounded-b-xl"
+                    role="menuitem"
+                  >
+                    <span className="font-medium">Preguntas frecuentes</span>
+                    <span className="block text-xs text-slate-500">
+                      Todo sobre inscripción, puntaje y más.
+                    </span>
+                  </Link>
                 </div>
               )}
             </div>
           </nav>
           <div className="flex items-center gap-3">
-            <Link href="/login">
+            <Link href="/login" className="hidden md:block">
               <Button
                 variant="ghost"
                 size="sm"
@@ -328,7 +354,7 @@ export default function LandingPage() {
                 Iniciar sesión
               </Button>
             </Link>
-            <Link href="/register">
+            <Link href="/register" className="hidden md:block">
               <Button
                 size="sm"
                 className="bg-teal-600 hover:bg-teal-700 text-white shadow-md shadow-teal-500/20 font-medium focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-teal-400"
@@ -336,9 +362,83 @@ export default function LandingPage() {
                 Comenzar gratis
               </Button>
             </Link>
+            {/* Mobile hamburger */}
+            <button
+              type="button"
+              className="md:hidden flex items-center justify-center w-10 h-10 rounded-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-teal-500"
+              onClick={() => setMobileMenuOpen((o) => !o)}
+              aria-label={mobileMenuOpen ? 'Cerrar menú' : 'Abrir menú'}
+              aria-expanded={mobileMenuOpen}
+            >
+              {mobileMenuOpen
+                ? <X className={`w-6 h-6 ${navScrolled ? 'text-slate-800' : 'text-white'}`} />
+                : <Menu className={`w-6 h-6 ${navScrolled ? 'text-slate-800' : 'text-white'}`} />
+              }
+            </button>
           </div>
         </div>
       </header>
+
+      {/* ── MOBILE MENU ─────────────────────────────────────────── */}
+      {mobileMenuOpen && (
+        <div
+          className="fixed inset-0 z-40 md:hidden"
+          onClick={() => setMobileMenuOpen(false)}
+          aria-hidden="true"
+        >
+          <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" />
+        </div>
+      )}
+      <nav
+        className={`fixed top-16 left-0 right-0 z-40 md:hidden transition-all duration-300 ${
+          mobileMenuOpen ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 -translate-y-4 pointer-events-none'
+        }`}
+        aria-label="Menú móvil"
+      >
+        <div className="mx-3 bg-white rounded-2xl shadow-2xl border border-slate-200 overflow-hidden">
+          <div className="p-4 space-y-1">
+            <a href="#plataforma" onClick={() => setMobileMenuOpen(false)}
+              className="flex items-center gap-3 px-3 py-3 rounded-xl text-slate-700 hover:bg-slate-50 font-medium text-sm">
+              <Zap className="w-4 h-4 text-teal-500" />
+              Plataforma
+            </a>
+            <a href="#especialidades" onClick={() => setMobileMenuOpen(false)}
+              className="flex items-center gap-3 px-3 py-3 rounded-xl text-slate-700 hover:bg-slate-50 font-medium text-sm">
+              <BookOpen className="w-4 h-4 text-blue-500" />
+              Especialidades
+            </a>
+            <a href="#precios" onClick={() => setMobileMenuOpen(false)}
+              className="flex items-center gap-3 px-3 py-3 rounded-xl text-slate-700 hover:bg-slate-50 font-medium text-sm">
+              <Star className="w-4 h-4 text-purple-500" />
+              Precios
+            </a>
+            <hr className="my-2 border-slate-100" />
+            <p className="text-xs font-semibold text-slate-400 uppercase tracking-widest px-3 pt-1">Guías EUNACOM</p>
+            {[
+              { href: '/eunacom/que-es', label: '¿Qué es el EUNACOM?' },
+              { href: '/eunacom/fechas-y-modalidades', label: 'Fechas y modalidades' },
+              { href: '/eunacom/guia-estudio', label: 'Guía de estudio' },
+              { href: '/eunacom/especialidades', label: 'Especialidades' },
+              { href: '/eunacom/normativa-2026', label: 'Normativa 2026' },
+              { href: '/eunacom/preguntas-frecuentes', label: 'Preguntas frecuentes' },
+            ].map((item) => (
+              <Link key={item.href} href={item.href} onClick={() => setMobileMenuOpen(false)}
+                className="block px-3 py-2.5 rounded-xl text-slate-600 hover:bg-slate-50 text-sm">
+                {item.label}
+              </Link>
+            ))}
+            <hr className="my-2 border-slate-100" />
+            <div className="flex gap-2 pt-1">
+              <Link href="/login" onClick={() => setMobileMenuOpen(false)} className="flex-1">
+                <Button variant="outline" className="w-full font-medium text-sm">Iniciar sesión</Button>
+              </Link>
+              <Link href="/register" onClick={() => setMobileMenuOpen(false)} className="flex-1">
+                <Button className="w-full bg-teal-600 hover:bg-teal-700 text-white font-medium text-sm">Comenzar gratis</Button>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </nav>
 
       {/* ── HERO ────────────────────────────────────────────────── */}
       <main
@@ -406,6 +506,19 @@ export default function LandingPage() {
                 <CheckCircle className="w-4 h-4 text-teal-400" />
                 Actualización continua
               </span>
+            </div>
+
+            {/* WhatsApp contact line */}
+            <div className="mt-6">
+              <a
+                href={waLink(WA_MSG_INFO)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-sm text-slate-500 hover:text-green-600 transition-colors"
+              >
+                <MessageCircle className="w-4 h-4 text-green-500" />
+                ¿Tienes dudas? Escríbenos por WhatsApp
+              </a>
             </div>
           </div>
 
@@ -727,8 +840,11 @@ export default function LandingPage() {
               </div>
               <div className="relative mb-6 mt-2">
                 <div className="text-xs font-bold text-teal-400 uppercase tracking-wider mb-2">Plan Pro</div>
-                <div className="text-5xl font-heading font-black text-white mb-1" style={{ fontFamily: 'Outfit, Inter' }}>Consultar</div>
-                <div className="text-slate-400 text-sm">Activado por el administrador</div>
+                <div className="flex items-end gap-2 mb-1">
+                  <div className="text-5xl font-heading font-black text-white" style={{ fontFamily: 'Outfit, Inter' }}>$29.990</div>
+                  <div className="text-slate-400 text-sm pb-1.5">CLP / mes</div>
+                </div>
+                <div className="text-slate-400 text-sm">Actívalo por WhatsApp — acceso inmediato</div>
               </div>
               <ul className="relative space-y-3 mb-8">
                 {[
@@ -745,12 +861,15 @@ export default function LandingPage() {
                   </li>
                 ))}
               </ul>
-              <Link href="/register">
-                <Button className="relative w-full bg-teal-500 hover:bg-teal-400 text-white font-semibold shadow-xl shadow-teal-900/30 gap-2">
-                  Activar suscripción
-                  <ChevronRight className="w-4 h-4" />
-                </Button>
-              </Link>
+              <a
+                href={waLink(WA_MSG_PRO)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="relative flex items-center justify-center gap-2 w-full bg-green-500 hover:bg-green-400 text-white font-semibold py-2.5 px-4 rounded-xl shadow-xl shadow-green-900/30 transition-colors text-sm"
+              >
+                <MessageCircle className="w-4 h-4" />
+                Contratar por WhatsApp
+              </a>
             </div>
           </div>
         </div>
@@ -785,18 +904,41 @@ export default function LandingPage() {
                 <ArrowRight className="w-5 h-5" />
               </Button>
             </Link>
+            <a
+              href={waLink(WA_MSG_PRO)}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button size="lg" variant="outline"
+                className="border-green-500/40 text-green-300 hover:bg-green-500/10 bg-transparent font-semibold text-base px-8 gap-2 w-full sm:w-auto">
+                <MessageCircle className="w-5 h-5" />
+                Contratar Plan Pro
+              </Button>
+            </a>
           </div>
-          <p className="text-slate-500 text-sm mt-6">Sin tarjeta de crédito · Acceso inmediato</p>
+          <p className="text-slate-500 text-sm mt-6">Sin tarjeta de crédito · Acceso inmediato · Activación por WhatsApp</p>
         </div>
       </section>
+
+      {/* ── FLOATING WHATSAPP ───────────────────────────────────── */}
+      <a
+        href={waLink(WA_MSG_INFO)}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Contactar por WhatsApp"
+        className="fixed bottom-6 right-6 z-50 flex items-center gap-2.5 bg-green-500 hover:bg-green-400 text-white font-semibold px-4 py-3 rounded-2xl shadow-2xl shadow-green-500/40 transition-all hover:scale-105 active:scale-95 group"
+      >
+        <MessageCircle className="w-5 h-5 shrink-0" />
+        <span className="text-sm hidden sm:block">¿Preguntas? Escríbenos</span>
+      </a>
 
       {/* ── FOOTER ──────────────────────────────────────────────── */}
       <footer className="bg-slate-950 text-slate-500 py-12 border-t border-slate-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <div className="flex items-center gap-3">
-              <div className="w-9 h-9 bg-white border border-emerald-200 rounded-2xl flex items-center justify-center">
-                <span className="text-emerald-600 font-bold text-sm font-mono">Go</span>
+              <div className="w-9 h-9 bg-gradient-to-br from-teal-500 to-blue-600 rounded-2xl flex items-center justify-center">
+                <span className="text-white font-bold text-sm font-mono">EG</span>
               </div>
               <div>
                 <div className="text-white font-heading font-bold">
@@ -806,9 +948,17 @@ export default function LandingPage() {
               </div>
             </div>
             <div className="flex gap-8 text-sm">
-              <a href="#" className="hover:text-white transition-colors">Términos</a>
-              <a href="#" className="hover:text-white transition-colors">Privacidad</a>
-              <a href="#" className="hover:text-white transition-colors">Contacto</a>
+              <a href="/eunacom/preguntas-frecuentes" className="hover:text-white transition-colors">FAQ</a>
+              <a href="/eunacom/especialidades" className="hover:text-white transition-colors">Especialidades</a>
+              <a
+                href={waLink(WA_MSG_INFO)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-white transition-colors flex items-center gap-1.5"
+              >
+                <MessageCircle className="w-3.5 h-3.5" />
+                Contacto
+              </a>
             </div>
             <div className="flex flex-col items-center md:items-end gap-1 text-xs text-slate-600">
               <div className="flex items-center gap-2">

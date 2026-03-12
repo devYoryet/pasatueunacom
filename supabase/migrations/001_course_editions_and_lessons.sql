@@ -136,7 +136,7 @@ CREATE TABLE IF NOT EXISTS lessons (
 );
 
 CREATE INDEX IF NOT EXISTS lessons_specialty_idx ON lessons(specialty_id);
-CREATE INDEX IF NOT EXISTS lessons_order_idx     ON lessons(specialty_id, order_index);
+CREATE UNIQUE INDEX IF NOT EXISTS lessons_specialty_order_unique ON lessons(specialty_id, order_index);
 
 CREATE TRIGGER lessons_updated_at
   BEFORE UPDATE ON lessons

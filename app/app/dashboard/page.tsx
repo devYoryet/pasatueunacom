@@ -3,7 +3,7 @@
 import { useEffect, useState, useMemo } from 'react'
 import Link from 'next/link'
 import {
-  TrendingUp, BookOpen, CheckCircle, Clock, Flame, Target,
+  TrendingUp, BookOpen, CheckCircle, Circle, Clock, Flame, Target,
   Trophy, ChevronRight, ChevronDown, ChevronUp, Play,
   CalendarDays, Lightbulb, AlertTriangle, ArrowRight,
 } from 'lucide-react'
@@ -23,11 +23,28 @@ import type { Attempt } from '@/lib/supabase/types'
 
 type WeekStatus = 'completo' | 'en_curso' | 'atrasado' | 'incompleto' | 'proximo' | 'repaso'
 
+interface ExamItem {
+  id: number
+  title: string
+  completed: boolean
+  bestScore: number | null
+  attemptCount: number
+}
+
+interface SpecItem {
+  id: number
+  code: string
+  name: string
+  icon: string | null
+  exams: ExamItem[]
+}
+
 interface WeekRow {
   week: CourseWeek
   totalExams: number
   completedExams: number
   status: WeekStatus
+  specs: SpecItem[]
 }
 
 interface ChapterProgress {
@@ -132,79 +149,171 @@ function MiniCalendar({ testDates }: { testDates: TestDate[] }) {
   )
 }
 
-// ─── Week progress row (table row) ───────────────────────────────────────────
+// ─── Week progress row (expandable table row) ────────────────────────────────
 
 function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_COLORS[keyof typeof CHAPTER_COLORS] }) {
+  const [expanded, setExpanded] = useState(false)
   const s = STATUS[row.status]
   const pct = row.totalExams > 0 ? Math.round((row.completedExams / row.totalExams) * 100) : 0
   const isCurrent = row.status === 'en_curso'
   const isOverdue = row.status === 'atrasado' || row.status === 'incompleto'
+  const hasContent = row.totalExams > 0 && row.specs.length > 0
 
   return (
-    <tr className={`border-b border-slate-50 last:border-0 transition-colors ${isCurrent ? color.bg : 'hover:bg-slate-50/50'}`}>
-      {/* Week # */}
-      <td className="py-3 pl-4 pr-2 text-xs font-mono text-slate-400 w-8">{row.week.week}</td>
+    <>
+      <tr
+        className={`border-b border-slate-50 last:border-0 transition-colors ${
+          isCurrent ? color.bg : expanded ? 'bg-slate-50/60' : 'hover:bg-slate-50/50'
+        } ${hasContent ? 'cursor-pointer select-none' : ''}`}
+        onClick={() => hasContent && setExpanded(!expanded)}
+      >
+        {/* Week # */}
+        <td className="py-3 pl-4 pr-2 text-xs font-mono text-slate-400 w-8">{row.week.week}</td>
 
-      {/* Topic */}
-      <td className="py-3 pr-3">
-        <div className={`text-sm font-medium leading-tight ${isCurrent ? color.text : 'text-slate-700'}`}>
-          {row.week.topic}
-        </div>
-        <div className="text-xs text-slate-400 mt-0.5 hidden sm:block">{formatWeekRange(row.week.start, row.week.end)}</div>
-      </td>
-
-      {/* Objetivo */}
-      <td className="py-3 pr-3 hidden md:table-cell">
-        <span className="text-xs text-slate-400">{row.totalExams > 0 ? `${row.totalExams} cuest.` : '—'}</span>
-      </td>
-
-      {/* Completado */}
-      <td className="py-3 pr-3">
-        {row.totalExams > 0 ? (
-          <div className="flex items-center gap-2">
-            <span className={`text-xs font-semibold tabular-nums ${
-              row.completedExams >= row.totalExams ? 'text-green-600' :
-              isOverdue ? 'text-red-500' : 'text-slate-600'
-            }`}>
-              {row.completedExams}/{row.totalExams}
-            </span>
-            <div className="w-10 hidden sm:block">
-              <Progress value={pct} className={`h-1.5 ${
-                row.completedExams >= row.totalExams ? '[&>div]:bg-green-500' :
-                isOverdue ? '[&>div]:bg-red-400' : color.progress
-              }`} />
-            </div>
+        {/* Topic */}
+        <td className="py-3 pr-3">
+          <div className={`text-sm font-medium leading-tight ${isCurrent ? color.text : 'text-slate-700'}`}>
+            {row.week.topic}
           </div>
-        ) : (
-          <span className="text-xs text-slate-300">—</span>
-        )}
-      </td>
+          <div className="text-xs text-slate-400 mt-0.5 hidden sm:block">{formatWeekRange(row.week.start, row.week.end)}</div>
+        </td>
 
-      {/* Status */}
-      <td className="py-3 pr-3">
-        <div className="flex items-center gap-1.5">
-          <span className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${s.dot}`} />
-          <span className={`text-xs font-medium whitespace-nowrap ${s.badge.replace('bg-', 'text-').replace(/text-\w+-\d+/, '').trim()}`}
-            style={{}}
-          >
+        {/* Objetivo */}
+        <td className="py-3 pr-3 hidden md:table-cell">
+          <span className="text-xs text-slate-400">{row.totalExams > 0 ? `${row.totalExams} cuest.` : '—'}</span>
+        </td>
+
+        {/* Completado */}
+        <td className="py-3 pr-3">
+          {row.totalExams > 0 ? (
+            <div className="flex items-center gap-2">
+              <span className={`text-xs font-semibold tabular-nums ${
+                row.completedExams >= row.totalExams ? 'text-green-600' :
+                isOverdue ? 'text-red-500' : 'text-slate-600'
+              }`}>
+                {row.completedExams}/{row.totalExams}
+              </span>
+              <div className="w-10 hidden sm:block">
+                <Progress value={pct} className={`h-1.5 ${
+                  row.completedExams >= row.totalExams ? '[&>div]:bg-green-500' :
+                  isOverdue ? '[&>div]:bg-red-400' : color.progress
+                }`} />
+              </div>
+            </div>
+          ) : (
+            <span className="text-xs text-slate-300">—</span>
+          )}
+        </td>
+
+        {/* Status */}
+        <td className="py-3 pr-3">
+          <div className="flex items-center gap-1.5">
+            <span className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${s.dot}`} />
             <span className={`inline-flex px-1.5 py-0.5 rounded-full text-[11px] font-medium ${s.badge}`}>
               {s.label}
             </span>
-          </span>
-        </div>
-      </td>
+          </div>
+        </td>
 
-      {/* Action */}
-      <td className="py-3 pr-4">
-        {row.totalExams > 0 && row.status !== 'proximo' && (
-          <Link href="/app/specialties">
-            <Button size="sm" variant="ghost" className="h-6 text-[11px] px-2 text-slate-400 hover:text-blue-600">
-              Ir →
-            </Button>
-          </Link>
-        )}
-      </td>
-    </tr>
+        {/* Expand chevron */}
+        <td className="py-3 pr-4 text-right">
+          {hasContent && (
+            expanded
+              ? <ChevronUp className="w-4 h-4 text-slate-300 inline" />
+              : <ChevronDown className="w-4 h-4 text-slate-300 inline" />
+          )}
+        </td>
+      </tr>
+
+      {/* ── Expanded quiz panel ─────────────────────────── */}
+      {expanded && hasContent && (
+        <tr className="border-b border-slate-100">
+          <td colSpan={6} className="px-3 pb-3 pt-0">
+            <div className="mt-2 space-y-2">
+              {row.specs.map((spec) => (
+                <div key={spec.id} className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
+
+                  {/* Spec header */}
+                  <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-50/80 border-b border-slate-100">
+                    {spec.icon && <span className="text-base leading-none">{spec.icon}</span>}
+                    <span className="text-xs font-semibold text-slate-800">{spec.name}</span>
+                    <span className={`text-[10px] px-1.5 py-0.5 rounded-full font-semibold ml-0.5 ${
+                      spec.exams.length > 0 && spec.exams.every(e => e.completed)
+                        ? 'bg-green-100 text-green-700'
+                        : 'bg-slate-200 text-slate-500'
+                    }`}>
+                      {spec.exams.filter(e => e.completed).length}/{spec.exams.length}
+                    </span>
+                    <Link
+                      href={`/app/specialties/${spec.code}`}
+                      className="ml-auto"
+                      onClick={(e) => e.stopPropagation()}
+                    >
+                      <Button size="sm" variant="ghost" className="h-6 text-[11px] px-2.5 text-blue-600 hover:text-blue-700 hover:bg-blue-50">
+                        Ver todo →
+                      </Button>
+                    </Link>
+                  </div>
+
+                  {/* Quiz rows */}
+                  <div className="divide-y divide-slate-50">
+                    {spec.exams.length === 0 ? (
+                      <div className="px-4 py-3 text-xs text-slate-400 italic">
+                        Sin cuestionarios disponibles aún
+                      </div>
+                    ) : (
+                      spec.exams.map((exam) => (
+                        <div
+                          key={exam.id}
+                          className={`flex items-center gap-3 px-4 py-2.5 transition-colors ${
+                            exam.completed ? 'bg-green-50/40' : 'hover:bg-amber-50/30'
+                          }`}
+                        >
+                          {exam.completed
+                            ? <CheckCircle className="w-4 h-4 text-green-500 flex-shrink-0" />
+                            : <Circle className="w-4 h-4 text-amber-400 flex-shrink-0" />}
+
+                          <span className="text-xs text-slate-700 flex-1 min-w-0 truncate">{exam.title}</span>
+
+                          {/* Best score badge */}
+                          {exam.bestScore !== null && (
+                            <span className={`text-[11px] font-bold px-1.5 py-0.5 rounded-full flex-shrink-0 ${
+                              exam.bestScore >= 70 ? 'bg-green-100 text-green-700' :
+                              exam.bestScore >= 50 ? 'bg-amber-100 text-amber-700' :
+                              'bg-red-100 text-red-600'
+                            }`}>{exam.bestScore}%</span>
+                          )}
+
+                          {exam.attemptCount > 0 && (
+                            <span className="text-[10px] text-slate-400 flex-shrink-0 hidden sm:inline">
+                              {exam.attemptCount} int.
+                            </span>
+                          )}
+
+                          <Link href={`/app/exam/${exam.id}`} onClick={(e) => e.stopPropagation()}>
+                            <Button
+                              size="sm"
+                              variant={exam.completed ? 'outline' : 'default'}
+                              className={`h-6 text-[10px] px-2.5 flex-shrink-0 ${
+                                !exam.completed
+                                  ? 'bg-amber-500 hover:bg-amber-600 text-white border-0'
+                                  : 'border-slate-200 text-slate-600'
+                              }`}
+                            >
+                              {exam.completed ? 'Repasar' : 'Iniciar'}
+                            </Button>
+                          </Link>
+                        </div>
+                      ))
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </td>
+        </tr>
+      )}
+    </>
   )
 }
 
@@ -300,9 +409,9 @@ function ChapterCard({ chapter, defaultOpen }: { chapter: ChapterProgress; defau
               )}
             </div>
             <Link href="/app/specialties">
-              <Button size="sm" variant="outline" className={`text-xs h-7 gap-1.5 flex-shrink-0`}>
-                <Play className="w-3 h-3" />
-                Ver contenido
+              <Button size="sm" variant="outline" className="text-xs h-7 gap-1.5 flex-shrink-0">
+                <BookOpen className="w-3 h-3" />
+                Ver todas las especialidades
               </Button>
             </Link>
           </div>
@@ -344,15 +453,15 @@ export default function DashboardPage() {
 
       const [profileRes, specsRes, examsRes, attRes, todayRes, incompleteRes] = await Promise.all([
         supabase.from('profiles').select('full_name').eq('id', user.id).single(),
-        supabase.from('specialties').select('id, code').order('order_index'),
-        supabase.from('exams').select('id, specialty_id, exam_type').eq('is_active', true).eq('exam_type', 'topic'),
+        supabase.from('specialties').select('id, code, name, icon').order('order_index'),
+        supabase.from('exams').select('id, specialty_id, exam_type, title, order_index').eq('is_active', true).eq('exam_type', 'topic').order('order_index'),
         supabase.from('attempts').select('exam_id, score_percent, finished_at').eq('user_id', user.id).eq('is_completed', true).order('finished_at', { ascending: false }).limit(200),
         supabase.from('attempts').select('id').eq('user_id', user.id).eq('is_completed', true).gte('finished_at', today.toISOString()),
         supabase.from('attempts').select('exam_id, exams(title)').eq('user_id', user.id).eq('is_completed', false).order('started_at', { ascending: false }).limit(1).maybeSingle(),
       ])
 
-      const specs = (specsRes.data ?? []) as { id: number; code: string }[]
-      const exams = (examsRes.data ?? []) as { id: number; specialty_id: number; exam_type: string }[]
+      const specs = (specsRes.data ?? []) as { id: number; code: string; name: string; icon: string | null }[]
+      const exams = (examsRes.data ?? []) as { id: number; specialty_id: number; exam_type: string; title: string; order_index: number | null }[]
       const attempts = (attRes.data ?? []) as { exam_id: number; score_percent: number | null; finished_at: string }[]
 
       // Per-specialty completed exam set
@@ -364,23 +473,53 @@ export default function DashboardPage() {
         completedBySpec[exam.specialty_id].add(a.exam_id)
       }
 
-      // Spec code → id map
-      const specCodeToId: Record<string, number> = {}
-      for (const s of specs) specCodeToId[s.code] = s.id
+      // Best score + attempt count per exam (attempts ordered DESC = first = most recent)
+      const scoreByExam: Record<number, { best: number; count: number }> = {}
+      for (const a of attempts) {
+        if (a.score_percent === null) continue
+        if (!scoreByExam[a.exam_id]) scoreByExam[a.exam_id] = { best: -1, count: 0 }
+        scoreByExam[a.exam_id].count++
+        scoreByExam[a.exam_id].best = Math.max(scoreByExam[a.exam_id].best, a.score_percent)
+      }
+
+      // Spec code → { id, name, icon }
+      const specMap: Record<string, { id: number; name: string; icon: string | null }> = {}
+      for (const s of specs) specMap[s.code] = { id: s.id, name: s.name, icon: s.icon }
 
       // Build chapter progress data
       const chapterData: ChapterProgress[] = COURSE_CALENDAR.chapters.map((ch) => {
         const weeks: WeekRow[] = ch.weeks.map((week) => {
           let totalExams = 0
           let completedExams = 0
+          const weekSpecs: SpecItem[] = []
+
           for (const code of week.specialtyCodes) {
-            const specId = specCodeToId[code]
-            if (!specId) continue
-            const specExams = exams.filter((e) => e.specialty_id === specId)
-            totalExams += specExams.length
-            completedExams += completedBySpec[specId]?.size ?? 0
+            const spec = specMap[code]
+            if (!spec) continue
+            const specExamsList = exams.filter((e) => e.specialty_id === spec.id)
+            const completedSet = completedBySpec[spec.id]
+
+            weekSpecs.push({
+              id: spec.id,
+              code,
+              name: spec.name,
+              icon: spec.icon,
+              exams: specExamsList.map((e) => ({
+                id: e.id,
+                title: e.title,
+                completed: completedSet?.has(e.id) ?? false,
+                bestScore: scoreByExam[e.id]?.best !== undefined && scoreByExam[e.id].best >= 0
+                  ? scoreByExam[e.id].best
+                  : null,
+                attemptCount: scoreByExam[e.id]?.count ?? 0,
+              })),
+            })
+
+            totalExams += specExamsList.length
+            completedExams += completedSet?.size ?? 0
           }
-          return { week, totalExams, completedExams, status: getWeekStatus(week, completedExams, totalExams) }
+
+          return { week, totalExams, completedExams, status: getWeekStatus(week, completedExams, totalExams), specs: weekSpecs }
         })
 
         const total = weeks.reduce((s, w) => s + w.totalExams, 0)

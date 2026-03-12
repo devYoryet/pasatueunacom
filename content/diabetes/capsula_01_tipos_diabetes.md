@@ -1,4 +1,4 @@
-# Cápsula 1: Clasificación de la Diabetes Mellitus — Tipos, Fisiopatología y Diferenciación Clínica
+# Cápsula 1: Clasificación y Diferenciación de los Tipos de Diabetes Mellitus
 
 > **Área:** Diabetes Mellitus | **Duración estimada:** ~8 min | **Nivel:** EUNACOM
 
@@ -6,51 +6,48 @@
 
 ## Guion para Audio
 
-Bienvenidos a esta primera cápsula sobre diabetes mellitus. Antes de comenzar, una aclaración fundamental: en esta serie hablaremos exclusivamente de diabetes mellitus, dejando de lado la diabetes insípida, que corresponde a un tema completamente distinto dentro del área de endocrinología.
+Comenzamos esta serie sobre diabetes abordando uno de los temas fundamentales: los distintos tipos de diabetes mellitus. Es importante aclarar desde el inicio que en esta cápsula nos referimos exclusivamente a la diabetes mellitus, ya que la diabetes insípida es una entidad completamente diferente que se aborda en el módulo de endocrinología general.
 
-Existen varios tipos de diabetes mellitus, y conocerlos bien es clave tanto para el EUNACOM como para la práctica clínica diaria. Vamos a revisarlos en orden de frecuencia e importancia.
+El primer tipo que deben dominar es la **diabetes mellitus tipo 1**, que representa aproximadamente el 10% de todos los casos de diabetes. Su mecanismo es autoinmune: el sistema inmune destruye las células beta de los islotes de Langerhans en el páncreas, que son las responsables de producir insulina. Esta forma se presenta predominantemente en niños y adolescentes, con un debut generalmente brusco y severo.
 
-La diabetes mellitus tipo 1 representa aproximadamente el 10% de todos los casos de diabetes. Su mecanismo es autoinmune: el sistema inmune destruye las células beta de los islotes de Langerhans en el páncreas, que son las células responsables de producir insulina. Esta forma afecta predominantemente a niños y adultos jóvenes, y su debut suele ser abrupto y severo, incluyendo frecuentemente un episodio de cetoacidosis diabética.
+El tipo más prevalente en la población adulta es la **diabetes mellitus tipo 2**, donde el mecanismo central es la resistencia a la insulina. La obesidad juega un papel fisiopatológico crítico: el exceso de tejido adiposo amplifica esta resistencia, lo que eventualmente supera la capacidad secretora del páncreas y desencadena la hiperglicemia mantenida. Es la forma que encontrarán con mayor frecuencia en la práctica clínica.
 
-En segundo lugar, la diabetes mellitus tipo 2 es la más frecuente, constituyendo la gran mayoría de los casos. Su mecanismo principal es la resistencia a la insulina. La obesidad juega un rol fisiopatológico central, ya que el tejido adiposo en exceso aumenta significativamente esta resistencia, desencadenando la expresión de los genes de predisposición a la enfermedad. Afecta principalmente a adultos.
+Existen además tipos menos frecuentes pero igualmente importantes para el EUNACOM. La **diabetes LADA** —Latent Autoimmune Diabetes in Adults— comparte el mismo mecanismo autoinmune de la tipo 1, pero aparece en la vida adulta y tiene un curso clínico más indolente. Es más agresiva que la tipo 2, pero menos explosiva que la tipo 1. Una clave diagnóstica fundamental: no responde a los hipoglicemiantes orales, lo cual orienta a sospecharla en adultos que aparentan una tipo 2 pero no mejoran con el tratamiento habitual.
 
-Existen además tipos menos frecuentes pero igualmente relevantes para el examen. La diabetes LADA —del inglés Latent Autoimmune Diabetes in Adults— es fisiopatológicamente idéntica a la tipo 1, es decir, es de origen autoinmune, pero se presenta en personas adultas y tiene una evolución más lenta y menos agresiva que la tipo 1 clásica, aunque bastante más agresiva que la tipo 2. No responde a los hipoglicemiantes orales.
+Las **diabetes tipo MODY** —Maturity Onset Diabetes of the Young— corresponden a un grupo de diabetes de base genética con herencia autosómica dominante. Esto implica que afectan múltiples generaciones de una misma familia. Se diagnostican habitualmente antes de los 25 años si se realizan los exámenes correspondientes, aunque pueden detectarse más tarde. La clave familiar es central: si observan varios familiares con diabetes, todos delgados y jóvenes, deben pensar en MODY.
 
-La diabetes tipo MODY —Maturity Onset Diabetes of the Young— corresponde a un grupo de diabetes de origen genético. Por definición, se diagnostica antes de los 25 años cuando se estudia al paciente, aunque si no se sospecha clínicamente, el diagnóstico puede llegar más tarde. Su patrón de herencia es autosómico dominante, lo que significa que afecta a múltiples generaciones de una misma familia: padre, hijos, tíos, hermanos. A diferencia de las formas autoinmunes, la MODY suele comportarse de manera benigna y responde bien a los hipoglicemiantes orales.
+En el contexto del embarazo se distinguen dos entidades. La **diabetes mellitus gestacional** surge durante la gestación por acción de las hormonas de contrarregulación, especialmente el lactógeno placentario, que generan resistencia a la insulina. La **diabetes pregestacional**, en cambio, corresponde a aquella diagnosticada antes del embarazo o durante las primeras 12 semanas con criterios de persona no embarazada. Este detalle temporal es crítico y se desarrollará en detalle en otra cápsula.
 
-Respecto a la diabetes en el embarazo, existen dos entidades importantes que abordaremos en profundidad más adelante. La diabetes mellitus gestacional surge durante la gestación como consecuencia del aumento de las hormonas de contrarregulación, especialmente el lactógeno placentario, que generan resistencia a la insulina. La diabetes pregestacional, en cambio, es aquella que se diagnosticó antes del embarazo o que se detecta en las primeras 12 semanas de gestación, cumpliendo criterios diagnósticos de diabetes en personas no embarazadas.
+Existen también causas secundarias de diabetes que no deben ignorar. Los **fármacos**, en particular los corticoides, pueden inducirla porque el cortisol es una hormona de contrarregulación que eleva la glicemia. El **daño pancreático** por pancreatitis severa, cirugía pancreática o cáncer de páncreas destruye las células beta y puede generar diabetes transitoria o permanente. Finalmente, las **enfermedades endocrinas** que elevan hormonas de contrarregulación —como el síndrome de Cushing, el hipertiroidismo y la acromegalia— también pueden desencadenar diabetes.
 
-Además de estas categorías principales, existen otras causas secundarias de diabetes. Los fármacos, en particular los corticoides, son una causa importante: el cortisol es una hormona de contrarregulación que aumenta la glicemia. También las condiciones que dañan el páncreas —como una pancreatectomía, un cáncer pancreático o una pancreatitis severa— pueden provocar diabetes, ya sea transitoria o permanente, según la extensión del daño. Finalmente, diversas enfermedades endocrinas que elevan las hormonas de contrarregulación también pueden desencadenar diabetes: el síndrome de Cushing, el hipertiroidismo y la acromegalia son los ejemplos más representativos.
+¿Cómo se diferencia un tipo de otro en la práctica clínica? Esta distinción se basa fundamentalmente en la clínica, no en un examen único. Los parámetros que deben evaluar son: la **edad de presentación** —si es niño, tipo 1; si es adulto con obesidad, tipo 2—; el **peso corporal** —la obesidad orienta fuertemente a tipo 2—; la **severidad del debut** —mientras más explosivo el inicio y más rápido el compromiso de órganos blanco, más probable que sea autoinmune—; y la **respuesta a los hipoglicemiantes orales**, que son eficaces en la tipo 2 pero inútiles en las formas autoinmunes.
 
-Ahora bien, ¿cómo diferenciamos clínicamente un tipo de diabetes de otro? La clave está en la clínica, no en un examen aislado. Los parámetros a considerar son: la edad de presentación —a menor edad, mayor probabilidad de diabetes autoinmune—; el peso corporal —la obesidad apunta a tipo 2—; la severidad de la presentación —un debut muy agresivo o una cetoacidosis orientan a diabetes autoinmune—; y la respuesta a los hipoglicemiantes orales —si no hay respuesta, pensar en diabetes tipo 1 o LADA.
+Si hay antecedentes familiares de diabetes en múltiples generaciones, especialmente en personas delgadas y jóvenes, piensen en MODY. Si hay asociación con otras enfermedades autoinmunes como hipotiroidismo o vitíligo en un adulto que no responde a los hipoglicemiantes, la sospecha es LADA.
 
-Para complementar la diferenciación clínica disponemos de dos herramientas de laboratorio importantes. El péptido C refleja la secreción endógena de insulina de manera más estable que la insulinemia directa: estará elevado en la tipo 2 y en la MODY, y estará disminuido en la tipo 1, la LADA y las diabetes pancreáticas. Además, la presencia de anticuerpos —anti-GAD, anti-insulina, anti-IA2 y anti-transportador de zinc 8— confirma el carácter autoinmune de la enfermedad y orienta al diagnóstico de LADA en un adulto con características atípicas para una tipo 2.
+Para complementar el diagnóstico diferencial existen exámenes de apoyo. El **péptido C** refleja de manera estable la producción endógena de insulina: estará elevado en la tipo 2 y en condiciones asociadas a resistencia insulínica —porque el páncreas hipersecreta insulina—, y estará disminuido en las formas autoinmunes y en el daño pancreático, donde hay destrucción de las células beta. Los **anticuerpos** anti-GAD, anti-insulina, anti-IA2 y anti-transportador de zinc tipo 8 orientan hacia etiología autoinmune cuando son positivos. Ante la sospecha de MODY, existen estudios genéticos dirigidos a las mutaciones más frecuentes que pueden confirmar el diagnóstico y motivar el estudio del grupo familiar.
 
-Para sospechar MODY, consideren un paciente joven, normopeso, con múltiples familiares diabéticos de diversas generaciones, todos diagnosticados antes de los 40 años. La confirmación se realiza mediante estudios genéticos dirigidos a las mutaciones más frecuentes.
+Para fijar conceptos con ejemplos clínicos: un paciente de 8 años con polidipsia, baja de peso y glicemia de 350 mg/dL tiene diabetes mellitus tipo 1, sin dudas. Un adulto de 45 años, obeso, con antecedente materno de diabetes y glicemia de ayuno sobre 126 orienta a diabetes mellitus tipo 2. Un joven de 20 años, normopeso, con hipotiroidismo —enfermedad autoinmune— y glicemia de ayuno de 300 hace pensar fuertemente en LADA: soliciten anticuerpos y manejen con insulina mientras se confirma. Finalmente, un joven de 20 años normopeso con glicemia levemente elevada y múltiples familiares diabéticos menores de 40 años orienta a MODY, cuya característica favorable es que suele responder bien a los hipoglicemiantes orales.
 
 ---
 
 ## Resumen Clave
 
-- **Punto 1:** La DM tipo 1 es autoinmune (~10% de los casos), afecta a niños y jóvenes, debuta de forma severa y requiere insulina siempre.
-- **Punto 2:** La DM tipo 2 es la más frecuente, mediada por resistencia a la insulina, con fuerte asociación a obesidad y responde a hipoglicemiantes orales.
-- **Punto 3:** La LADA es autoinmune en adultos —igual a tipo 1— con péptido C bajo y anticuerpos positivos; no responde a hipoglicemiantes orales.
-- **Punto 4:** La MODY es genética (autosómica dominante), debuta antes de los 25 años, compromete múltiples generaciones y suele ser benigna.
-- **Punto 5:** La diferenciación entre tipos se hace con clínica, péptido C y anticuerpos; los criterios diagnósticos de glicemia solo confirman que HAY diabetes, no el tipo.
+- **Punto 1:** La DM tipo 1 es autoinmune, representa el 10% de los casos y se presenta en niños; la DM tipo 2 es por resistencia a la insulina, asociada a obesidad y es la más frecuente en adultos.
+- **Punto 2:** La LADA es una diabetes autoinmune del adulto, similar a la tipo 1 pero de curso más lento; no responde a hipoglicemiantes orales y se maneja con insulina.
+- **Punto 3:** La MODY es de origen genético con herencia autosómica dominante, afecta múltiples generaciones de personas jóvenes y delgadas, y suele responder bien a hipoglicemiantes orales.
+- **Punto 4:** El péptido C es el mejor marcador de producción endógena de insulina: elevado en resistencia insulínica (tipo 2, MODY), disminuido en formas autoinmunes y en daño pancreático.
+- **Punto 5:** Los anticuerpos anti-GAD, anti-insulina, anti-IA2 y anti-transportador de zinc tipo 8 confirman la etiología autoinmune; son clave para diagnosticar LADA en el adulto.
 
 ---
 
 ## Nemotecnia EUNACOM
 
-**"1 AUTO, 2 GORDO, LADA ADULTO, MODI GENÉTICO"**
-- **1** = Tipo 1 → AUTOinmune, en niños
-- **2** = Tipo 2 → el más GORDO (obesidad), el más frecuente
-- **LADA** = ADULTO autoinmune, anticuerpos positivos, péptido C bajo
-- **MODI** = genético, múltiples generaciones, benigno
+**"1-Autoinmune-Niño / 2-Resistencia-Adulto-Obeso"**
+La tipo 1 destruye (autoinmune), la tipo 2 resiste (insulina). Con solo esas dos palabras clave recuerdan la esencia de cada tipo.
 
-**Para recordar qué examen pedir en LADA:** "LADA → BAJA el péptido C + SUBE los anticuerpos"
+**"LADA = La Adulta que no obedece":** Si un adulto con aspecto de diabetes tipo 2 no responde a los hipoglicemiantes orales, sospechen LADA. Pidan anticuerpos y esperen un péptido C bajo.
 
-**Para recordar MODY:** "MODY = Mi familia ODIa el azúcar desde joven" — autosómica dominante, varias generaciones afectadas.
+**"MODY = Muchas Generaciones Delgadas Jóvenes":** Diabetes en múltiples generaciones, todos jóvenes y sin obesidad. Un gen dominante que se hereda de padres a hijos sin saltarse generaciones.
 
 ---
 
@@ -58,12 +55,12 @@ Para sospechar MODY, consideren un paciente joven, normopeso, con múltiples fam
 
 **¿Cuál de las siguientes afirmaciones es correcta?**
 
-A) La diabetes LADA se diferencia de la tipo 2 principalmente por tener un índice de masa corporal más elevado.
-B) La diabetes MODY tiene un patrón de herencia autosómico recesivo que salta generaciones.
-C) En un adulto joven, normopeso, con hipotiroidismo de Hashimoto y glicemia de ayuno en 300 mg/dL sin respuesta a metformina, debe sospecharse diabetes LADA y solicitar péptido C más anticuerpos. — **CORRECTA**
-D) El péptido C estará elevado en la diabetes tipo 1 porque el páncreas secreta insulina en exceso.
-E) Los criterios diagnósticos de glicemia permiten diferenciar entre diabetes tipo 1 y tipo 2.
+A) La diabetes tipo 1 es la forma más frecuente de diabetes mellitus y se asocia principalmente a obesidad.
+B) La diabetes MODY tiene herencia autosómica recesiva y afecta exclusivamente a personas mayores de 50 años.
+C) La diabetes LADA es de etiología autoinmune, se presenta en adultos y no responde a los hipoglicemiantes orales.
+D) El péptido C se encontrará elevado en pacientes con diabetes tipo 1 porque el páncreas hipersecreta insulina compensatoriamente.
+E) Los corticoides generan diabetes al estimular directamente la secreción de insulina pancreática.
 
-**Respuesta correcta: C** — El patrón descrito (adulto joven, normopeso, autoinmunidad tiroidea, hiperglicemia severa, falta de respuesta a hipoglicemiantes orales) es el clásico de la diabetes LADA. El péptido C debe estar bajo y los anticuerpos positivos. El manejo es con insulina.
+**Respuesta correcta: C** — La diabetes LADA comparte el mecanismo autoinmune de la tipo 1 pero aparece en adultos con un curso más indolente; al igual que la tipo 1, no responde a los hipoglicemiantes orales y su manejo es con insulina.
 
 ---

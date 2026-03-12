@@ -63,9 +63,16 @@
 
 ### Video Course Platform
 - [x] DB schema (course_editions, lessons, enrollments, lesson_progress)
+- [x] `scripts/seed-lessons-from-capsules.ts` — seed lecciones desde MDs
+- [x] `scripts/process-audio.ts` — procesa TXTs con OpenAI → DB
+- [x] `content/transcripts/01-diabetes/` — 24 transcripts listos
+- [x] `content/diabetes/` — 24 cápsulas md (guion + resumen + nemotecnia + MCQ)
+- [x] `supabase/migrations/002_seed_lessons_diabetes.sql` — seed Diabetes
+- [ ] Ejecutar seed SQL en Supabase (admin debe correr en SQL editor)
+- [ ] Subir MP3s de Diabetes a Vimeo/R2 y actualizar `video_url` en lecciones
+- [ ] Repetir ciclo para Cap. 2 Endocrinología (24 clases)
 - [ ] Enrollment flow (payment integration)
 - [ ] Video player with progress tracking
-- [ ] AI-powered lesson summaries and mnemonics
 - [ ] Transcript viewer
 
 ---

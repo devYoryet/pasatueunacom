@@ -541,11 +541,9 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
                     <p className="text-xs font-semibold text-amber-800">Área de mejora detectada</p>
                     <p className="text-xs text-amber-700 truncate">{analytics.worstExam.title} — mejor puntaje: <strong>{analytics.worstExam.bestScore}%</strong></p>
                   </div>
-                  <Link href={`/app/exam/${analytics.worstExam.id}`}>
-                    <Button size="sm" className="flex-shrink-0 h-7 text-xs bg-amber-500 hover:bg-amber-600 text-white border-0">
-                      Repasar
-                    </Button>
-                  </Link>
+                  <Button asChild size="sm" className="flex-shrink-0 h-7 text-xs bg-amber-500 hover:bg-amber-600 text-white border-0">
+                    <Link href={`/app/exam/${analytics.worstExam.id}`}>Repasar</Link>
+                  </Button>
                 </div>
               )}
 
@@ -611,18 +609,19 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
                     </div>
                   </div>
 
-                  <Link href={`/app/exam/${exam.id}`}>
-                    <Button
-                      size="sm"
-                      variant={exam.completedCount > 0 ? 'outline' : 'default'}
-                      className={`gap-1.5 flex-shrink-0 ${
-                        exam.completedCount === 0 ? 'bg-blue-600 hover:bg-blue-700' : ''
-                      }`}
-                    >
+                  <Button
+                    asChild
+                    size="sm"
+                    variant={exam.completedCount > 0 ? 'outline' : 'default'}
+                    className={`gap-1.5 flex-shrink-0 ${
+                      exam.completedCount === 0 ? 'bg-blue-600 hover:bg-blue-700' : ''
+                    }`}
+                  >
+                    <Link href={`/app/exam/${exam.id}`}>
                       <Play className="w-3.5 h-3.5" />
                       {exam.completedCount > 0 ? 'Repetir' : 'Iniciar'}
-                    </Button>
-                  </Link>
+                    </Link>
+                  </Button>
                 </div>
               ))}
             </>
@@ -721,11 +720,9 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
                       {analytics.worstExam.bestScore}%
                     </p>
                     {analytics.worstExam.bestScore !== null && analytics.worstExam.bestScore < 70 && (
-                      <Link href={`/app/exam/${analytics.worstExam.id}`}>
-                        <Button size="sm" className="h-7 text-xs bg-amber-500 hover:bg-amber-600 text-white border-0">
-                          Repasar →
-                        </Button>
-                      </Link>
+                      <Button asChild size="sm" className="h-7 text-xs bg-amber-500 hover:bg-amber-600 text-white border-0">
+                        <Link href={`/app/exam/${analytics.worstExam.id}`}>Repasar →</Link>
+                      </Button>
                     )}
                   </div>
                 </div>

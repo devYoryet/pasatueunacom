@@ -1,42 +1,117 @@
 import type { Metadata } from 'next'
 
+const baseUrl = 'https://eunacomgo.cl'
+const pageUrl = `${baseUrl}/eunacom/normativa-2026`
+
 export const metadata: Metadata = {
-  title: 'Nueva normativa EUNACOM 2026: cambios clave y cómo prepararte — EunacomGo',
+  title: 'Nueva normativa EUNACOM 2026: cambios clave y cómo prepararte',
   description:
-    'Resumen de la nueva normativa EUNACOM vigente desde 2026: obligación para licencias médicas, ECOE como formato exclusivo, vigencias, plazos y recomendaciones de preparación.',
+    'Resumen de la nueva normativa EUNACOM vigente desde 2026: obligación para licencias médicas, ECOE como formato exclusivo, vigencias, plazos y recomendaciones de preparación. Ley 21.746.',
+  alternates: { canonical: pageUrl },
+  openGraph: {
+    title: 'Nueva normativa EUNACOM 2026: cambios clave',
+    description:
+      'Todo sobre la normativa EUNACOM 2026: EUNACOM obligatorio para licencias, formato ECOE, nuevas vigencias y plazos. Ley 21.746 explicada.',
+    url: pageUrl,
+    type: 'article',
+  },
+}
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: 'Nueva normativa EUNACOM 2026: qué cambia y por qué importa',
+  description:
+    'Análisis de los cambios clave de la normativa EUNACOM 2026: EUNACOM obligatorio para licencias médicas (Ley 21.746), ECOE como formato exclusivo del SP, nuevas vigencias.',
+  url: pageUrl,
+  datePublished: '2026-01-01',
+  dateModified: '2026-03-12',
+  publisher: { '@type': 'Organization', name: 'EunacomGo', url: baseUrl },
+  inLanguage: 'es-CL',
+}
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: '¿Qué cambia en el EUNACOM con la normativa 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'La normativa 2026 introduce 6 cambios principales: (1) EUNACOM obligatorio para emitir licencias médicas, (2) fin de la repetición gratuita del SP, (3) vigencia de etapas SP extendida a 2 años, (4) menor tiempo para completar las 4 etapas del SP, (5) plazo de apelación más corto, y (6) ECOE como formato exclusivo del SP.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Desde cuándo rige la nueva normativa EUNACOM 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'La nueva normativa EUNACOM rige desde el 1 de enero de 2026. La exigencia de EUNACOM completo para emitir licencias médicas se vincula formalmente a partir del 24 de mayo de 2026, en el contexto de la Ley 21.746.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Qué es la Ley 21.746 y cómo afecta el EUNACOM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'La Ley 21.746 establece que el EUNACOM completo (sección teórica ST y práctica SP aprobados) es requisito obligatorio para emitir licencias médicas en Chile, tanto en el sector público como en gran parte del ejercicio privado, a partir del 24 de mayo de 2026.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Qué es el ECOE en el EUNACOM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'El ECOE (Examen Clínico Objetivo Estandarizado) es el formato exclusivo de la sección práctica del EUNACOM desde 2026. Consiste en estaciones clínicas estandarizadas con rúbricas objetivas y tiempos definidos, evaluando entrevista clínica, examen físico, resolución de problemas y comunicación.',
+      },
+    },
+  ],
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: baseUrl },
+    { '@type': 'ListItem', position: 2, name: 'Normativa EUNACOM 2026', item: pageUrl },
+  ],
 }
 
 export default function Normativa2026Page() {
   return (
     <div className="min-h-screen bg-white">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <header className="border-b border-slate-200 bg-white/90 backdrop-blur">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
           <a href="/" className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-white border border-emerald-200 rounded-xl flex items-center justify-center">
-              <span className="text-emerald-600 font-bold text-xs font-mono">Go</span>
+            <div className="w-8 h-8 bg-gradient-to-br from-teal-500 to-blue-600 rounded-xl flex items-center justify-center">
+              <span className="text-white font-bold text-xs font-mono">EG</span>
             </div>
             <span className="font-heading font-semibold text-slate-900 text-base tracking-tight">
               Eunacom<span className="text-teal-600">Go</span>
             </span>
           </a>
           <nav className="hidden sm:flex items-center gap-4 text-xs font-medium text-slate-600">
-            <a href="/eunacom/que-es" className="hover:text-teal-700">
-              ¿Qué es el EUNACOM?
-            </a>
-            <a href="/eunacom/fechas-y-modalidades" className="hover:text-teal-700">
-              Fechas y modalidades
-            </a>
-            <a href="/eunacom/guia-estudio" className="hover:text-teal-700">
-              Guía de estudio
-            </a>
-            <a href="/eunacom/normativa-2026" className="text-teal-700 font-semibold">
-              Normativa 2026
-            </a>
+            <a href="/eunacom/que-es" className="hover:text-teal-700">¿Qué es el EUNACOM?</a>
+            <a href="/eunacom/fechas-y-modalidades" className="hover:text-teal-700">Fechas y modalidades</a>
+            <a href="/eunacom/guia-estudio" className="hover:text-teal-700">Guía de estudio</a>
+            <a href="/eunacom/especialidades" className="hover:text-teal-700">Especialidades</a>
+            <a href="/eunacom/normativa-2026" className="text-teal-700 font-semibold">Normativa 2026</a>
           </nav>
         </div>
       </header>
 
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 pt-4">
+        <nav aria-label="Breadcrumb" className="text-xs text-slate-400 flex items-center gap-1.5">
+          <a href="/" className="hover:text-teal-700">Inicio</a>
+          <span>/</span>
+          <span className="text-slate-600">Normativa EUNACOM 2026</span>
+        </nav>
+      </div>
+      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
         <header className="mb-8">
           <p className="text-xs font-semibold text-teal-600 uppercase tracking-[0.2em] mb-3">
             Normativa EUNACOM 2026

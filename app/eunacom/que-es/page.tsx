@@ -1,14 +1,121 @@
 import type { Metadata } from 'next'
 
+const baseUrl = 'https://eunacomgo.cl'
+const pageUrl = `${baseUrl}/eunacom/que-es`
+
 export const metadata: Metadata = {
-  title: '¿Qué es el EUNACOM? Requisitos, estructura y puntaje — EunacomGo',
+  title: '¿Qué es el EUNACOM? Requisitos, estructura y puntaje',
   description:
     'Guía clara y actualizada sobre qué es el EUNACOM en Chile: secciones teórica y práctica, requisitos para médicos chilenos y extranjeros, puntaje de aprobación y vigencia.',
+  alternates: { canonical: pageUrl },
+  openGraph: {
+    title: '¿Qué es el EUNACOM? Requisitos, estructura y puntaje',
+    description:
+      'Todo lo que necesitas saber sobre el EUNACOM: estructura, quiénes deben rendirlo, puntaje de aprobación y vigencia del resultado.',
+    url: pageUrl,
+    type: 'article',
+  },
+}
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: '¿Qué es el EUNACOM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'El Examen Único Nacional de Conocimientos de Medicina (EUNACOM) es la prueba que deben rendir y aprobar los médicos que desean ejercer en el sistema público chileno, postular a cargos de planta o becas de especialidad financiadas por el Estado. Se compone de una sección teórica (ST) y una sección práctica (SP).',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Quiénes deben rendir el EUNACOM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Deben rendir el EUNACOM los médicos titulados en universidades chilenas y los médicos titulados en el extranjero que desean validar su título para ejercer en Chile. Es obligatorio para ejercer en el sistema público de salud y para postular a becas de especialidad financiadas por el Estado.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿El EUNACOM es lo mismo que revalidar el título?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'No. El EUNACOM evalúa conocimientos y habilidades clínicas, pero no reemplaza los procesos académicos de reconocimiento o revalidación de título médico, que siguen dependiendo de las universidades y autoridades competentes.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Qué pasa si apruebo la teórica pero no la práctica?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Mientras no tengas ambas secciones aprobadas (teórica ST y práctica SP), el examen se considera reprobado para los fines que exige la normativa, como ejercer en el sistema público o postular a becas con financiamiento estatal.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Cuántas preguntas tiene el EUNACOM teórico?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Según procesos previos, la sección teórica (EUNACOM-ST) utiliza 180 preguntas de selección múltiple (A–E) divididas en dos bloques con descanso intermedio. El número exacto puede variar según el proceso; siempre confirma en la reglamentación oficial.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: '¿Cuánto tiempo tiene vigencia el resultado del EUNACOM?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'El resultado de la sección teórica tiene vigencia limitada (normalmente 2 años) para poder rendir o convalidar la sección práctica. Con la normativa 2026, las etapas aprobadas del SP tienen vigencia de 2 años.',
+      },
+    },
+  ],
+}
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: '¿Qué es el EUNACOM? Requisitos, estructura y puntaje',
+  description:
+    'Guía clara y actualizada sobre qué es el EUNACOM en Chile: secciones teórica y práctica, requisitos y puntaje de aprobación.',
+  url: pageUrl,
+  publisher: {
+    '@type': 'Organization',
+    name: 'EunacomGo',
+    url: baseUrl,
+  },
+  inLanguage: 'es-CL',
+  about: {
+    '@type': 'Thing',
+    name: 'EUNACOM',
+    description: 'Examen Único Nacional de Conocimientos de Medicina, Chile',
+  },
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: baseUrl },
+    { '@type': 'ListItem', position: 2, name: '¿Qué es el EUNACOM?', item: pageUrl },
+  ],
 }
 
 export default function QueEsEunacomPage() {
   return (
     <div className="min-h-screen bg-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <header className="border-b border-slate-200 bg-white/90 backdrop-blur">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
           <a href="/" className="flex items-center gap-2">
@@ -29,10 +136,23 @@ export default function QueEsEunacomPage() {
             <a href="/eunacom/guia-estudio" className="hover:text-teal-700">
               Guía de estudio
             </a>
+            <a href="/eunacom/especialidades" className="hover:text-teal-700">
+              Especialidades
+            </a>
           </nav>
         </div>
       </header>
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
+
+      {/* Breadcrumb visual */}
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 pt-4">
+        <nav aria-label="Breadcrumb" className="text-xs text-slate-400 flex items-center gap-1.5">
+          <a href="/" className="hover:text-teal-700">Inicio</a>
+          <span>/</span>
+          <span className="text-slate-600">¿Qué es el EUNACOM?</span>
+        </nav>
+      </div>
+
+      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
         <header className="mb-8">
           <p className="text-xs font-semibold text-teal-600 uppercase tracking-[0.2em] mb-3">
             Guía EUNACOM
@@ -118,6 +238,7 @@ export default function QueEsEunacomPage() {
               <li>Postular a cargos de planta en el sistema público de salud.</li>
               <li>Acceder a ciertos programas de beca de especialidad financiados por el Estado.</li>
               <li>Respaldar procesos de contratación en instituciones privadas que lo exigen.</li>
+              <li>Emitir licencias médicas (obligatorio desde 2026 según Ley 21.746).</li>
             </ul>
           </article>
 
@@ -146,6 +267,44 @@ export default function QueEsEunacomPage() {
                 className="text-teal-700 hover:text-teal-900 underline underline-offset-2"
               >
                 el sitio del EUNACOM
+              </a>
+              .
+            </p>
+          </article>
+
+          <article>
+            <h2 className="text-xl font-semibold text-slate-900 mb-2">Áreas evaluadas</h2>
+            <p className="mb-3">
+              La sección teórica cubre 11 grandes áreas médicas. Conocer el peso de cada área
+              es clave para priorizar tu estudio:
+            </p>
+            <div className="grid sm:grid-cols-2 gap-2">
+              {[
+                'Medicina Interna (mayor peso)',
+                'Pediatría',
+                'Cirugía',
+                'Obstetricia y Ginecología',
+                'Salud Pública y Medicina Preventiva',
+                'Psiquiatría',
+                'Traumatología y Ortopedia',
+                'Oftalmología',
+                'Otorrinolaringología',
+                'Dermatología',
+                'Urología',
+              ].map((area) => (
+                <div
+                  key={area}
+                  className="flex items-center gap-2 bg-slate-50 rounded-lg px-3 py-2 text-sm text-slate-700"
+                >
+                  <span className="w-2 h-2 rounded-full bg-teal-500 shrink-0" />
+                  {area}
+                </div>
+              ))}
+            </div>
+            <p className="mt-3 text-xs text-slate-500">
+              Para ver guías de estudio por especialidad, visita{' '}
+              <a href="/eunacom/especialidades" className="text-teal-700 underline underline-offset-2 hover:text-teal-900">
+                nuestra página de especialidades EUNACOM
               </a>
               .
             </p>
@@ -184,7 +343,22 @@ export default function QueEsEunacomPage() {
                   estudio de guías clínicas y textos de referencia para consolidar fundamentos.
                 </dd>
               </div>
+              <div>
+                <dt className="font-semibold text-slate-900">
+                  ¿Cuántas veces se puede rendir el EUNACOM?
+                </dt>
+                <dd>
+                  No hay límite de intentos para la sección teórica. Para la sección práctica, la
+                  normativa 2026 introduce cambios en las repeticiones y aranceles. Consulta la
+                  reglamentación oficial actualizada en eunacom.cl.
+                </dd>
+              </div>
             </dl>
+            <p className="mt-4 text-sm">
+              <a href="/eunacom/preguntas-frecuentes" className="text-teal-700 hover:text-teal-900 font-medium underline underline-offset-2">
+                Ver todas las preguntas frecuentes sobre el EUNACOM →
+              </a>
+            </p>
           </article>
 
           <article>
@@ -199,9 +373,24 @@ export default function QueEsEunacomPage() {
               <li>Modos cronometrados y simulacros extensos.</li>
               <li>Retroalimentación y estadísticas para guiar tu estudio.</li>
             </ul>
+            <div className="mt-4 flex gap-3">
+              <a
+                href="/register"
+                className="inline-block bg-teal-600 hover:bg-teal-700 text-white text-sm font-semibold px-5 py-2.5 rounded-xl transition-colors"
+              >
+                Empieza gratis
+              </a>
+              <a
+                href="/eunacom/guia-estudio"
+                className="inline-block bg-white border border-slate-200 hover:border-teal-400 text-slate-700 text-sm font-semibold px-5 py-2.5 rounded-xl transition-colors"
+              >
+                Ver guía de estudio
+              </a>
+            </div>
           </article>
         </section>
       </main>
+
       <footer className="border-t border-slate-200 bg-slate-50 py-6 mt-8">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500">
           <span>© {new Date().getFullYear()} EunacomGo. Preparación para el EUNACOM en Chile.</span>
@@ -221,4 +410,3 @@ export default function QueEsEunacomPage() {
     </div>
   )
 }
-

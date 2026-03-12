@@ -1,14 +1,107 @@
 import type { Metadata } from 'next'
 
+const baseUrl = 'https://eunacomgo.cl'
+const pageUrl = `${baseUrl}/eunacom/guia-estudio`
+
 export const metadata: Metadata = {
-  title: 'Guía de estudio para el EUNACOM: cómo usar EunacomGo — EunacomGo',
+  title: 'Guía de estudio para el EUNACOM: plan y estrategia',
   description:
-    'Plan de estudio sugerido para el EUNACOM: priorización por especialidad, simulacros, repaso activo y cómo aprovechar al máximo la plataforma EunacomGo.',
+    'Plan de estudio sugerido para el EUNACOM: priorización por especialidad, simulacros, repaso activo y cómo aprovechar al máximo la plataforma EunacomGo para aprobar.',
+  alternates: { canonical: pageUrl },
+  openGraph: {
+    title: 'Guía de estudio para el EUNACOM: plan y estrategia',
+    description:
+      'Estrategia completa para preparar el EUNACOM: ciclos de práctica, priorización de especialidades y cómo usar EunacomGo.',
+    url: pageUrl,
+    type: 'article',
+  },
+}
+
+const howToSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name: 'Cómo prepararse para el EUNACOM paso a paso',
+  description:
+    'Guía de estudio para el EUNACOM con ciclos de práctica, priorización de áreas y uso efectivo de simulacros.',
+  step: [
+    {
+      '@type': 'HowToStep',
+      position: 1,
+      name: 'Entender el peso de cada área',
+      text: 'Identifica qué especialidades tienen mayor peso en el EUNACOM. Medicina Interna y sus subespecialidades concentran la mayor parte del puntaje. Prioriza estas áreas al inicio del estudio.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 2,
+      name: 'Diagnóstico inicial',
+      text: 'Haz un bloque de preguntas por especialidad para medir tu nivel real y detectar áreas débiles antes de empezar el estudio formal.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 3,
+      name: 'Ciclos de refuerzo',
+      text: 'Revisa la retroalimentación de preguntas falladas, concéntrate en los temas subyacentes y vuelve a practicar las mismas áreas hasta dominarlas.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 4,
+      name: 'Simulacros cronometrados',
+      text: 'Realiza simulacros largos con tiempo real para habituarte al formato y la presión del EUNACOM real. Analiza tus resultados para ajustar el plan de estudio.',
+    },
+    {
+      '@type': 'HowToStep',
+      position: 5,
+      name: 'Aprovechar las estadísticas',
+      text: 'Usa los reportes de la plataforma para identificar especialidades bajas, detectar patrones de error y medir tu velocidad de respuesta por bloque.',
+    },
+  ],
+  tool: [
+    {
+      '@type': 'HowToTool',
+      name: 'EunacomGo — Banco de preguntas EUNACOM',
+    },
+  ],
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Inicio', item: baseUrl },
+    { '@type': 'ListItem', position: 2, name: 'Guía de estudio EUNACOM', item: pageUrl },
+  ],
+}
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: 'Guía de estudio para el EUNACOM: cómo usar EunacomGo',
+  description:
+    'Plan de estudio sugerido para el EUNACOM: priorización por especialidad, simulacros, repaso activo y estadísticas de progreso.',
+  url: pageUrl,
+  publisher: {
+    '@type': 'Organization',
+    name: 'EunacomGo',
+    url: baseUrl,
+  },
+  inLanguage: 'es-CL',
 }
 
 export default function GuiaEstudioEunacomPage() {
   return (
     <div className="min-h-screen bg-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <header className="border-b border-slate-200 bg-white/90 backdrop-blur">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
           <a href="/" className="flex items-center gap-2">
@@ -23,10 +116,20 @@ export default function GuiaEstudioEunacomPage() {
             <a href="/eunacom/que-es" className="hover:text-teal-700">¿Qué es el EUNACOM?</a>
             <a href="/eunacom/fechas-y-modalidades" className="hover:text-teal-700">Fechas y modalidades</a>
             <a href="/eunacom/guia-estudio" className="text-teal-700 font-semibold">Guía de estudio</a>
+            <a href="/eunacom/especialidades" className="hover:text-teal-700">Especialidades</a>
           </nav>
         </div>
       </header>
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 pt-4">
+        <nav aria-label="Breadcrumb" className="text-xs text-slate-400 flex items-center gap-1.5">
+          <a href="/" className="hover:text-teal-700">Inicio</a>
+          <span>/</span>
+          <span className="text-slate-600">Guía de estudio EUNACOM</span>
+        </nav>
+      </div>
+
+      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-14">
         <header className="mb-8">
           <p className="text-xs font-semibold text-teal-600 uppercase tracking-[0.2em] mb-3">
             Estrategia de estudio
@@ -108,7 +211,7 @@ export default function GuiaEstudioEunacomPage() {
               4. Aprovechar las estadísticas de la plataforma
             </h2>
             <p className="mb-3">
-              En lugar de estudiar “a ciegas”, utiliza los reportes que te ofrece la plataforma:
+              En lugar de estudiar "a ciegas", utiliza los reportes que te ofrece la plataforma:
             </p>
             <ul className="list-disc list-inside space-y-2">
               <li>Identifica en qué especialidades estás bajo tu promedio.</li>
@@ -146,8 +249,33 @@ export default function GuiaEstudioEunacomPage() {
               </li>
             </ul>
           </article>
+
+          <article className="bg-teal-50 rounded-2xl p-6 border border-teal-100">
+            <h2 className="text-lg font-semibold text-teal-900 mb-2">
+              ¿Listo para empezar a practicar?
+            </h2>
+            <p className="text-teal-800 text-sm mb-4">
+              Accede a cientos de preguntas clínicas ordenadas por especialidad y empieza a
+              medir tu progreso real en el EUNACOM.
+            </p>
+            <div className="flex gap-3">
+              <a
+                href="/register"
+                className="inline-block bg-teal-600 hover:bg-teal-700 text-white text-sm font-semibold px-5 py-2.5 rounded-xl transition-colors"
+              >
+                Empieza gratis
+              </a>
+              <a
+                href="/eunacom/especialidades"
+                className="inline-block bg-white border border-teal-200 hover:border-teal-400 text-teal-700 text-sm font-semibold px-5 py-2.5 rounded-xl transition-colors"
+              >
+                Ver especialidades
+              </a>
+            </div>
+          </article>
         </section>
       </main>
+
       <footer className="border-t border-slate-200 bg-slate-50 py-6 mt-8">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500">
           <span>© {new Date().getFullYear()} EunacomGo. Preparación para el EUNACOM en Chile.</span>
@@ -167,4 +295,3 @@ export default function GuiaEstudioEunacomPage() {
     </div>
   )
 }
-

@@ -1,6 +1,6 @@
 -- ================================================
 -- Migration 002: Seed Lessons — Diabetes (24 cápsulas)
--- Generated: 2026-03-12T19:30:12.595Z
+-- Generated: 2026-03-12T19:35:28.782Z
 -- Run in Supabase SQL editor AFTER schema.sql + 001_course_editions_and_lessons.sql
 -- ================================================
 
@@ -5233,6 +5233,2865 @@ Las **sulfonilureas** actúan estimulando la secreción pancreática de insulina
     '["La metformina es el hipoglicemiante de primera línea en DM2: barata, eficaz, sin hipoglicemia; contraindicada en creatinina ≥ 1,5 mg/dL, clearance < 30 mL/min e insuficiencia cardíaca severa.","La glibenclamida (sulfonilurea) es eficaz y barata, pero tiene riesgo significativo de hipoglicemia y alza de peso; no usar en adultos mayores ni en pacientes con hipoglicemias previas.","Las gliptinas (sitagliptina) son el segundo escalón preferido cuando hay riesgo de hipoglicemia o recursos suficientes; los agonistas GLP-1 (liraglutide) y los iSGLT2 (empagliflozina) se prefieren en enfermedad cardiovascular o renal establecida."]'::jsonb,
     '[]'::jsonb,
     '[{"pregunta":"¿Cuál de las siguientes afirmaciones es correcta?","respuesta":"Respuesta correcta: C — Los iSGLT2 tienen indicación preferente en insuficiencia cardíaca y nefropatía con macroalbuminuria, pero al depender de la filtración glomerular para actuar, pierden eficacia cuando la función renal está gravemente comprometida."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 8: Tratamiento Escalonado de la Diabetes Mellitus Tipo 2 — Algoritmo y Casos Clínicos
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Tratamiento Escalonado de la Diabetes Mellitus Tipo 2 — Algoritmo y Casos Clínicos',
+    8,
+    678,
+    'Hola, hola, ¿cómo están? Entremos de lleno al tratamiento de la diabetes mellitus 2. Hay que saber
+
+todos los pasos que hipoglicemiantes dejar, cuándo dejar insulina, etcétera, así que empecemos al
+
+tiro. Sepan que el paso número uno es cambiar el estilo de vida, digas hacer deporte, dejar de
+
+fumar, hacer dieta, bajar de peso en el caso de que venga con sobrepeso o con obesidad y
+
+además iniciar metformina desde el diagnóstico. Actualmente la recomendación es, parta con
+
+metformina de entrada y, si me preguntan, ¿hay alguna excepción? Pues podría haber una excepción
+
+como para la vida real, al menos, un paciente con una diabetes leve, que tiene que ser leve,
+
+o sea con una hemoglobina glicosilada apenas por sobre el óptimo y que venga con un
+
+estilo de vida que no sea muy saludable pero que esté dispuesto a cambiarlo a un estilo
+
+de vida bien saludable con tal de ahorrarse los fármacos. Uno dice, bueno, ya intentémoslo
+
+y si en tres meses anda bien, se queda sin fármacos, pero la inmensa mayoría de los
+
+diabéticos tipo 2 empiezan no sólo con el cambio en estilo de vida, sino que con metformina de
+
+entrada. Ahora, el segundo paso que es cuando no he logrado un control glicémico adecuado,
+
+entendido como que no he logrado bajar la hemoglobina glicosilada bajo 7 o bajo el
+
+objetivo de control según su edad y su comorbilidad, en ese caso el segundo paso
+
+es aumentar la dosis de metformina y si de ejemplo estaba con 500 cada 8, lo subo a un
+
+gramo cada 8 o si es que estaba con 500 en la mañana, intento con 8.50 cada 12 horas, etcétera.
+
+Ahora, cuando no es suficiente con eso tampoco y la hemoglobina glicosilada sigue arriba del
+
+rango, pues lo que se hace es agregar un segundo hipoglicemiante oral. Ahora,
+
+¿qué hipoglicemiante oral? La verdad es que va a depender de una serie de cosas que
+
+vamos a ver en un rato más, pero en general aquí me quedo con la metformina y agrego un
+
+medicamento adicional y fíjense, llegué a la dosis máxima de metformina antes de agregar el
+
+segundo hipoglicemiante. Luego de eso, se sigue aumentando la dosis de este segundo
+
+hipoglicemiante, o sea, antes de pasar la insulina yo me quedo con dos hipoglicemiantes
+
+en dosis máxima y al menos yo les recomiendo que se sepan las dosis máximas de los
+
+hipoglicemiantes más usados. En el caso de la metformina, la dosis máxima es 3 gramos al día,
+
+1 gramo cada 8 horas, pero sepan que entre 2 y 3 es poca la diferencia, así que eventualmente
+
+si alguien está con más de 2 gramos, con menos de 3 y con la hemoglobina glicosilada muy alta,
+
+no me sirve seguir subiendo, ahí lo más probable es que le voy a agregar un segundo
+
+hipoglicemiante. Ahora, en el caso de la glidenclemida, la dosis máxima al día es
+
+20 milígramos al día, dígase 10 milígramos cada 12 horas, y esa es la forma en que
+
+habitualmente se da. Y finalmente la cita agliptina, la dosis máxima son 100 milígramos al día,
+
+que habitualmente se da 50 milígramos cada 12 horas. Ahora, el siguiente paso, que estoy
+
+con los dos hipoglicemiantes y que sigo todavía con la hemoglobina glicosilada arriba de 7%,
+
+es agregar insulina, y la forma en que se empieza es con insulina NPH, una dosis,
+
+habitualmente en la noche. Y la dosis que habitualmente se deja son 10 unidades,
+
+10 unidades subcutáneas de NPH una vez en la noche, aunque esa dosis puede variar según el
+
+peso del paciente y algunas otras cosas, pero es la más habitual. Luego de eso, el paso
+
+6 es habitualmente aumentar la NPH nocturna, pero siempre y cuando las glicemias de yuno
+
+sigan muy altas, en el sentido en que acuérdense que la glicemia de yuno dependía
+
+de la NPH nocturna, de la NPH de varias horas antes. En cambio, cuando la glicemia de yuno
+
+está buena, lo que se suele agregar en cambio es una dosis de NPH, pero en la mañana,
+
+que en específico acuérdense que bajaba las glicemias pre almuerzo y presena,
+
+así que se deja siempre y cuando estén la glicemia de yuno buena, pero la glicemia
+
+pre almuerzo y presena elevada. Finalmente, en el tratamiento de la diabetes 2 también se
+
+pueden agregar estos refuerzos de insulina cristalina y habitualmente se hacía cuando
+
+la glicemia pos comida estaban muy altas, en cambio las glicemias pre comidas estaban
+
+buenas, porque acuérdense que las pre comidas incidían en las pos comidas,
+
+así que si tengo las pos comidas malas y las pre comidas malas, lo que hago es ajustar
+
+las NPH, pero si es que tengo la pos comida mala con la pre comida buena,
+
+en ese caso solamente me queda ajustar las insulinas rápidas. Como cosa adicional,
+
+en vez de las NPH también se puede dejar la insulina glargina o alguna otra de las
+
+insulinas ultra lenta como el de temir o el de gludec. Ahora, sigamos con el tratamiento
+
+de la diabetes 2. ¿Qué pasa cuando alguien está con metformina pero tiene
+
+intolerancia a la metformina, le da diarrea, le da náuseas o alguna cosa de ese tipo?
+
+Dado que la metformina es buena, bonita y barata, la recomendación actual es
+
+intenté cambiar la dosificación y espaciarla o bien dejar los medicamentos de liberación
+
+prolongada como la metformina XR, ya sea de 850 XR o de un gramo XR, la más frecuente es
+
+la de 850 XR de liberación retardada y en el caso en que los síntomas gastrointestinales
+
+sigan, pues no queda más que cambiarse a otro hipoglicemiante. O sea, suspendo la metformina
+
+y voy a indicar un hipoglicemiante distinto. Ahora, cuando está contraindicada la metformina,
+
+ejemplo en la falla renal o en la insuficiencia cardíaca, en ese caso lo habitual es que
+
+estén contraindicados muchos de los otros hipoglicemiantes también, pero hay algunos
+
+que no y en ese caso dejo este otro hipoglicemiante, pero la alternativa
+
+obviamente es dejar insulina también. Si se acuerdan para la falla cardíaca y
+
+para la falla renal me servían los GLP-1, me servían los SGLUT-2 y en el caso de la
+
+falla cardíaca lo que más servía eran los SGLUT-2, pero que quede bien claro,
+
+no está ahí, pero es importante, la insulina es una opción perfectamente aceptable también.
+
+Cuando la hemoglobina glicosilada está muy elevada, arriba de 9%, o bien está arriba de
+
+7 a 8% según cuál sea el objetivo de control glicémico de ese paciente en
+
+específico y además estoy con los dos hipoglicemiantes en dosis máxima, ahí ya no puedo seguir subiendo ni
+
+agregando más porque el máximo son dos de estos hipoglicemiantes y habitualmente lo que se
+
+hace acá es iniciar insulina nomás, la insulina NPH y de entrada voy a ir a manejarlo de esa
+
+forma. Ahora, como una opción a la insulina en el caso de que esté arriba de 9% es dejar
+
+algunos de estos fármacos antidiabéticos nuevos como los agonistas del GLP-1, el peptido
+
+símil al glucagón tipo 1. Ahora, algo importante que se pregunta y que hay que saber es una vez
+
+que parto la insulina NPH en la diabetes 2, ¿debo mantener o debo suspender los hipoglicemiantes
+
+orales? Y veamos lo que ocurre en la práctica, en la práctica la metformina se suele mantener,
+
+en cambio los otros se suelen suspender sabiendo que no hay evidencia que de una u otra forma
+
+obligue a quitarlos o a mantenerlos, yo podría suspender ambos o podría mantener ambos pero en
+
+la práctica lo que ocurre es lo que está ahí. Eso sí, la decisión más correcta debería ser en
+
+base a los recursos que hay, acuérdense que algunos hipoglicemiantes son caros, son más
+
+caros que la insulina, aparte de esto la polifarmacia, si es alguien que está con muchos
+
+medicamentos eventualmente puede servir el eliminar alguno de la lista y el peso,
+
+acordándonos que la insulina hace que uno suba más de peso y ejemplo mantener la metformina es
+
+algo que evita un poco la subida de peso y respecto a los otros hipoglicemiantes orales
+
+y el peso va a depender de cada uno de ellos dado que algunos hacen que uno suba más de peso
+
+y otros hacen que suba menos. Ahora, respondiendo la gran pregunta ¿y qué hipoglicemiante le
+
+dejo a un diabético tipo 2? La respuesta siempre va a ser metformina de primera línea,
+
+es buena, bonita, barata, segura, tiene todas las características que a uno le gusta en un
+
+medicamento pero acuérdense que está contraindicada en la falla renal con un
+
+clírens menor a 30 y también está contraindicada en la insuficiencia cardíaca
+
+severa en el sentido en que tiene riesgo de acidosis láctica, así que ahí está
+
+absolutamente contraindicada y debe dejar o insulina u otro hipoglicemiante que no esté
+
+contraindicado. ¿Y qué pasa con el segundo hipoglicemiante? ¿Cuál dejo? Pues lo ideal es que
+
+quede con un inhibidor de la dipeptidasa 4 como la citagliptina o un agonista del
+
+GLP-1 como el liraglutide, por ejemplo, que si se acuerdan eran las hincretinas,
+
+el liraglutide y los otros glutides, pero en la vida real muchas veces no hay dinero,
+
+no hay recursos en el sistema de salud, así que ahí lo que se deja habitualmente es
+
+glivenclamida no más. Ya glivenclamida es eficaz, es barata y sí tiene estos
+
+riesgos de hipoglicemia, así que obviamente cuando ya está alguien con
+
+hipoglicemia ahí no le puedo dejar glivenclamida y habrá que conseguir
+
+recursos de alguna parte para dejarle o la citagliptina o el liraglutide y
+
+lo mismo ocurre en los pacientes que tienen un riesgo muy alto como
+
+alguien de más de 75 años, nuevamente el riesgo de hipoglicemia es muy
+
+alto, así que tampoco va a quedar con glivenclamida, hasta es posible que se
+
+pueda suspender la glivenclamida que estaba tomando antes dado que el
+
+control glicémico se vuelve menos estricto, pero si es que hay que
+
+mantener alguna cosa pues le voy a dejar o la citagliptina o el liraglutide
+
+o alguna cosa de ese tipo. Acuérdense que en el caso de la
+
+insuficiencia renal crónica con albuminuria estaba contraindicada la
+
+metformina y tenían buenos resultados los GLP-1 y los SGLUT-2 y de hecho los
+
+los SGLUT-2 acuérdense que me disminuían la progresión de la falla
+
+renal los GLP-1 igual pero los SGLUT-2 que eran los que actuaban
+
+mediante la inducción de glucosuria no funcionaban tan bien cuando la
+
+falla renal era muy muy severa, ejemplo en un clearance bajo 30 lo
+
+más probable es',
+    '1
+00:00:03,280 --> 00:00:07,920
+Hola, hola, ¿cómo están? Entremos de lleno al tratamiento de la diabetes mellitus 2. Hay que saber
+
+2
+00:00:07,920 --> 00:00:13,000
+todos los pasos que hipoglicemiantes dejar, cuándo dejar insulina, etcétera, así que empecemos al
+
+3
+00:00:13,000 --> 00:00:18,760
+tiro. Sepan que el paso número uno es cambiar el estilo de vida, digas hacer deporte, dejar de
+
+4
+00:00:18,760 --> 00:00:24,400
+fumar, hacer dieta, bajar de peso en el caso de que venga con sobrepeso o con obesidad y
+
+5
+00:00:24,400 --> 00:00:30,280
+además iniciar metformina desde el diagnóstico. Actualmente la recomendación es, parta con
+
+6
+00:00:30,280 --> 00:00:36,920
+metformina de entrada y, si me preguntan, ¿hay alguna excepción? Pues podría haber una excepción
+
+7
+00:00:36,920 --> 00:00:41,400
+como para la vida real, al menos, un paciente con una diabetes leve, que tiene que ser leve,
+
+8
+00:00:41,400 --> 00:00:47,640
+o sea con una hemoglobina glicosilada apenas por sobre el óptimo y que venga con un
+
+9
+00:00:47,640 --> 00:00:51,680
+estilo de vida que no sea muy saludable pero que esté dispuesto a cambiarlo a un estilo
+
+10
+00:00:51,680 --> 00:00:57,160
+de vida bien saludable con tal de ahorrarse los fármacos. Uno dice, bueno, ya intentémoslo
+
+11
+00:00:57,160 --> 00:01:01,600
+y si en tres meses anda bien, se queda sin fármacos, pero la inmensa mayoría de los
+
+12
+00:01:01,600 --> 00:01:06,400
+diabéticos tipo 2 empiezan no sólo con el cambio en estilo de vida, sino que con metformina de
+
+13
+00:01:06,400 --> 00:01:13,080
+entrada. Ahora, el segundo paso que es cuando no he logrado un control glicémico adecuado,
+
+14
+00:01:13,080 --> 00:01:18,080
+entendido como que no he logrado bajar la hemoglobina glicosilada bajo 7 o bajo el
+
+15
+00:01:18,080 --> 00:01:22,440
+objetivo de control según su edad y su comorbilidad, en ese caso el segundo paso
+
+16
+00:01:22,440 --> 00:01:27,600
+es aumentar la dosis de metformina y si de ejemplo estaba con 500 cada 8, lo subo a un
+
+17
+00:01:27,600 --> 00:01:32,760
+gramo cada 8 o si es que estaba con 500 en la mañana, intento con 8.50 cada 12 horas, etcétera.
+
+18
+00:01:32,760 --> 00:01:38,760
+Ahora, cuando no es suficiente con eso tampoco y la hemoglobina glicosilada sigue arriba del
+
+19
+00:01:38,760 --> 00:01:42,800
+rango, pues lo que se hace es agregar un segundo hipoglicemiante oral. Ahora,
+
+20
+00:01:42,800 --> 00:01:46,160
+¿qué hipoglicemiante oral? La verdad es que va a depender de una serie de cosas que
+
+21
+00:01:46,160 --> 00:01:52,280
+vamos a ver en un rato más, pero en general aquí me quedo con la metformina y agrego un
+
+22
+00:01:52,280 --> 00:01:58,000
+medicamento adicional y fíjense, llegué a la dosis máxima de metformina antes de agregar el
+
+23
+00:01:58,000 --> 00:02:04,000
+segundo hipoglicemiante. Luego de eso, se sigue aumentando la dosis de este segundo
+
+24
+00:02:04,000 --> 00:02:08,400
+hipoglicemiante, o sea, antes de pasar la insulina yo me quedo con dos hipoglicemiantes
+
+25
+00:02:08,400 --> 00:02:13,040
+en dosis máxima y al menos yo les recomiendo que se sepan las dosis máximas de los
+
+26
+00:02:13,040 --> 00:02:17,960
+hipoglicemiantes más usados. En el caso de la metformina, la dosis máxima es 3 gramos al día,
+
+27
+00:02:17,960 --> 00:02:23,360
+1 gramo cada 8 horas, pero sepan que entre 2 y 3 es poca la diferencia, así que eventualmente
+
+28
+00:02:23,360 --> 00:02:29,640
+si alguien está con más de 2 gramos, con menos de 3 y con la hemoglobina glicosilada muy alta,
+
+29
+00:02:29,640 --> 00:02:34,000
+no me sirve seguir subiendo, ahí lo más probable es que le voy a agregar un segundo
+
+30
+00:02:34,000 --> 00:02:38,280
+hipoglicemiante. Ahora, en el caso de la glidenclemida, la dosis máxima al día es
+
+31
+00:02:38,280 --> 00:02:44,160
+20 milígramos al día, dígase 10 milígramos cada 12 horas, y esa es la forma en que
+
+32
+00:02:44,160 --> 00:02:48,880
+habitualmente se da. Y finalmente la cita agliptina, la dosis máxima son 100 milígramos al día,
+
+33
+00:02:48,880 --> 00:02:56,280
+que habitualmente se da 50 milígramos cada 12 horas. Ahora, el siguiente paso, que estoy
+
+34
+00:02:56,280 --> 00:03:01,400
+con los dos hipoglicemiantes y que sigo todavía con la hemoglobina glicosilada arriba de 7%,
+
+35
+00:03:01,400 --> 00:03:06,720
+es agregar insulina, y la forma en que se empieza es con insulina NPH, una dosis,
+
+36
+00:03:06,720 --> 00:03:13,800
+habitualmente en la noche. Y la dosis que habitualmente se deja son 10 unidades,
+
+37
+00:03:13,800 --> 00:03:19,440
+10 unidades subcutáneas de NPH una vez en la noche, aunque esa dosis puede variar según el
+
+38
+00:03:19,440 --> 00:03:25,400
+peso del paciente y algunas otras cosas, pero es la más habitual. Luego de eso, el paso
+
+39
+00:03:25,400 --> 00:03:31,000
+6 es habitualmente aumentar la NPH nocturna, pero siempre y cuando las glicemias de yuno
+
+40
+00:03:31,000 --> 00:03:34,920
+sigan muy altas, en el sentido en que acuérdense que la glicemia de yuno dependía
+
+41
+00:03:34,920 --> 00:03:40,520
+de la NPH nocturna, de la NPH de varias horas antes. En cambio, cuando la glicemia de yuno
+
+42
+00:03:40,520 --> 00:03:47,680
+está buena, lo que se suele agregar en cambio es una dosis de NPH, pero en la mañana,
+
+43
+00:03:47,680 --> 00:03:52,400
+que en específico acuérdense que bajaba las glicemias pre almuerzo y presena,
+
+44
+00:03:52,400 --> 00:03:57,360
+así que se deja siempre y cuando estén la glicemia de yuno buena, pero la glicemia
+
+45
+00:03:57,360 --> 00:04:02,560
+pre almuerzo y presena elevada. Finalmente, en el tratamiento de la diabetes 2 también se
+
+46
+00:04:02,560 --> 00:04:07,840
+pueden agregar estos refuerzos de insulina cristalina y habitualmente se hacía cuando
+
+47
+00:04:07,840 --> 00:04:13,280
+la glicemia pos comida estaban muy altas, en cambio las glicemias pre comidas estaban
+
+48
+00:04:13,280 --> 00:04:17,720
+buenas, porque acuérdense que las pre comidas incidían en las pos comidas,
+
+49
+00:04:17,720 --> 00:04:22,240
+así que si tengo las pos comidas malas y las pre comidas malas, lo que hago es ajustar
+
+50
+00:04:22,240 --> 00:04:26,960
+las NPH, pero si es que tengo la pos comida mala con la pre comida buena,
+
+51
+00:04:26,960 --> 00:04:31,840
+en ese caso solamente me queda ajustar las insulinas rápidas. Como cosa adicional,
+
+52
+00:04:31,840 --> 00:04:38,280
+en vez de las NPH también se puede dejar la insulina glargina o alguna otra de las
+
+53
+00:04:38,280 --> 00:04:44,160
+insulinas ultra lenta como el de temir o el de gludec. Ahora, sigamos con el tratamiento
+
+54
+00:04:44,160 --> 00:04:48,960
+de la diabetes 2. ¿Qué pasa cuando alguien está con metformina pero tiene
+
+55
+00:04:48,960 --> 00:04:53,480
+intolerancia a la metformina, le da diarrea, le da náuseas o alguna cosa de ese tipo?
+
+56
+00:04:53,480 --> 00:04:57,960
+Dado que la metformina es buena, bonita y barata, la recomendación actual es
+
+57
+00:04:57,960 --> 00:05:04,320
+intenté cambiar la dosificación y espaciarla o bien dejar los medicamentos de liberación
+
+58
+00:05:04,320 --> 00:05:13,160
+prolongada como la metformina XR, ya sea de 850 XR o de un gramo XR, la más frecuente es
+
+59
+00:05:13,160 --> 00:05:19,440
+la de 850 XR de liberación retardada y en el caso en que los síntomas gastrointestinales
+
+60
+00:05:19,440 --> 00:05:25,520
+sigan, pues no queda más que cambiarse a otro hipoglicemiante. O sea, suspendo la metformina
+
+61
+00:05:25,520 --> 00:05:32,000
+y voy a indicar un hipoglicemiante distinto. Ahora, cuando está contraindicada la metformina,
+
+62
+00:05:32,000 --> 00:05:38,040
+ejemplo en la falla renal o en la insuficiencia cardíaca, en ese caso lo habitual es que
+
+63
+00:05:38,040 --> 00:05:42,240
+estén contraindicados muchos de los otros hipoglicemiantes también, pero hay algunos
+
+64
+00:05:42,240 --> 00:05:45,960
+que no y en ese caso dejo este otro hipoglicemiante, pero la alternativa
+
+65
+00:05:45,960 --> 00:05:50,080
+obviamente es dejar insulina también. Si se acuerdan para la falla cardíaca y
+
+66
+00:05:50,080 --> 00:05:56,520
+para la falla renal me servían los GLP-1, me servían los SGLUT-2 y en el caso de la
+
+67
+00:05:56,520 --> 00:06:01,600
+falla cardíaca lo que más servía eran los SGLUT-2, pero que quede bien claro,
+
+68
+00:06:01,600 --> 00:06:06,480
+no está ahí, pero es importante, la insulina es una opción perfectamente aceptable también.
+
+69
+00:06:06,480 --> 00:06:13,280
+Cuando la hemoglobina glicosilada está muy elevada, arriba de 9%, o bien está arriba de
+
+70
+00:06:13,280 --> 00:06:19,400
+7 a 8% según cuál sea el objetivo de control glicémico de ese paciente en
+
+71
+00:06:19,440 --> 00:06:25,440
+específico y además estoy con los dos hipoglicemiantes en dosis máxima, ahí ya no puedo seguir subiendo ni
+
+72
+00:06:25,440 --> 00:06:31,360
+agregando más porque el máximo son dos de estos hipoglicemiantes y habitualmente lo que se
+
+73
+00:06:31,360 --> 00:06:38,440
+hace acá es iniciar insulina nomás, la insulina NPH y de entrada voy a ir a manejarlo de esa
+
+74
+00:06:38,440 --> 00:06:45,640
+forma. Ahora, como una opción a la insulina en el caso de que esté arriba de 9% es dejar
+
+75
+00:06:45,640 --> 00:06:53,040
+algunos de estos fármacos antidiabéticos nuevos como los agonistas del GLP-1, el peptido
+
+76
+00:06:53,040 --> 00:07:00,200
+símil al glucagón tipo 1. Ahora, algo importante que se pregunta y que hay que saber es una vez
+
+77
+00:07:00,200 --> 00:07:05,680
+que parto la insulina NPH en la diabetes 2, ¿debo mantener o debo suspender los hipoglicemiantes
+
+78
+00:07:05,680 --> 00:07:11,240
+orales? Y veamos lo que ocurre en la práctica, en la práctica la metformina se suele mantener,
+
+79
+00:07:11,240 --> 00:07:17,120
+en cambio los otros se suelen suspender sabiendo que no hay evidencia que de una u otra forma
+
+80
+00:07:17,120 --> 00:07:22,520
+obligue a quitarlos o a mantenerlos, yo podría suspender ambos o podría mantener ambos pero en
+
+81
+00:07:22,520 --> 00:07:27,720
+la práctica lo que ocurre es lo que está ahí. Eso sí, la decisión más correcta debería ser en
+
+82
+00:07:27,720 --> 00:07:31,360
+base a los recursos que hay, acuérdense que algunos hipoglicemiantes son caros, son más
+
+83
+00:07:31,360 --> 00:07:35,680
+caros que la insulina, aparte de esto la polifarmacia, si es alguien que está con muchos
+
+84
+00:07:35,680 --> 00:07:41,800
+medicamentos eventualmente puede servir el eliminar alguno de la lista y el peso,
+
+85
+00:07:41,800 --> 00:07:47,760
+acordándonos que la insulina hace que uno suba más de peso y ejemplo mantener la metformina es
+
+86
+00:07:47,760 --> 00:07:53,080
+algo que evita un poco la subida de peso y respecto a los otros hipoglicemiantes orales
+
+87
+00:07:53,080 --> 00:07:56,880
+y el peso va a depender de cada uno de ellos dado que algunos hacen que uno suba más de peso
+
+88
+00:07:56,880 --> 00:08:02,720
+y otros hacen que suba menos. Ahora, respondiendo la gran pregunta ¿y qué hipoglicemiante le
+
+89
+00:08:02,720 --> 00:08:07,600
+dejo a un diabético tipo 2? La respuesta siempre va a ser metformina de primera línea,
+
+90
+00:08:07,600 --> 00:08:13,560
+es buena, bonita, barata, segura, tiene todas las características que a uno le gusta en un
+
+91
+00:08:13,560 --> 00:08:18,400
+medicamento pero acuérdense que está contraindicada en la falla renal con un
+
+92
+00:08:18,400 --> 00:08:22,800
+clírens menor a 30 y también está contraindicada en la insuficiencia cardíaca
+
+93
+00:08:22,800 --> 00:08:26,840
+severa en el sentido en que tiene riesgo de acidosis láctica, así que ahí está
+
+94
+00:08:26,840 --> 00:08:31,160
+absolutamente contraindicada y debe dejar o insulina u otro hipoglicemiante que no esté
+
+95
+00:08:31,160 --> 00:08:37,080
+contraindicado. ¿Y qué pasa con el segundo hipoglicemiante? ¿Cuál dejo? Pues lo ideal es que
+
+96
+00:08:37,080 --> 00:08:43,840
+quede con un inhibidor de la dipeptidasa 4 como la citagliptina o un agonista del
+
+97
+00:08:43,840 --> 00:08:49,480
+GLP-1 como el liraglutide, por ejemplo, que si se acuerdan eran las hincretinas,
+
+98
+00:08:49,480 --> 00:08:57,280
+el liraglutide y los otros glutides, pero en la vida real muchas veces no hay dinero,
+
+99
+00:08:57,280 --> 00:09:01,200
+no hay recursos en el sistema de salud, así que ahí lo que se deja habitualmente es
+
+100
+00:09:01,200 --> 00:09:06,360
+glivenclamida no más. Ya glivenclamida es eficaz, es barata y sí tiene estos
+
+101
+00:09:06,360 --> 00:09:10,000
+riesgos de hipoglicemia, así que obviamente cuando ya está alguien con
+
+102
+00:09:10,000 --> 00:09:13,840
+hipoglicemia ahí no le puedo dejar glivenclamida y habrá que conseguir
+
+103
+00:09:13,840 --> 00:09:18,640
+recursos de alguna parte para dejarle o la citagliptina o el liraglutide y
+
+104
+00:09:18,640 --> 00:09:21,680
+lo mismo ocurre en los pacientes que tienen un riesgo muy alto como
+
+105
+00:09:21,680 --> 00:09:25,840
+alguien de más de 75 años, nuevamente el riesgo de hipoglicemia es muy
+
+106
+00:09:25,840 --> 00:09:30,760
+alto, así que tampoco va a quedar con glivenclamida, hasta es posible que se
+
+107
+00:09:30,760 --> 00:09:34,640
+pueda suspender la glivenclamida que estaba tomando antes dado que el
+
+108
+00:09:34,640 --> 00:09:37,840
+control glicémico se vuelve menos estricto, pero si es que hay que
+
+109
+00:09:37,840 --> 00:09:42,960
+mantener alguna cosa pues le voy a dejar o la citagliptina o el liraglutide
+
+110
+00:09:42,960 --> 00:09:46,800
+o alguna cosa de ese tipo. Acuérdense que en el caso de la
+
+111
+00:09:46,800 --> 00:09:52,120
+insuficiencia renal crónica con albuminuria estaba contraindicada la
+
+112
+00:09:52,120 --> 00:09:58,160
+metformina y tenían buenos resultados los GLP-1 y los SGLUT-2 y de hecho los
+
+113
+00:09:58,160 --> 00:10:03,680
+los SGLUT-2 acuérdense que me disminuían la progresión de la falla
+
+114
+00:10:03,680 --> 00:10:09,280
+renal los GLP-1 igual pero los SGLUT-2 que eran los que actuaban
+
+115
+00:10:09,280 --> 00:10:12,920
+mediante la inducción de glucosuria no funcionaban tan bien cuando la
+
+116
+00:10:12,920 --> 00:10:17,280
+falla renal era muy muy severa, ejemplo en un clearance bajo 30 lo
+
+117
+00:10:17,280 --> 00:10:22,320
+más probable es que va a quedar con un GLP-1 más que con un SGLUT-2 y
+
+118
+00:10:22,320 --> 00:10:27,200
+obviamente como alternativa en toda falla renal la insulina la insulina
+
+119
+00:10:27,200 --> 00:10:32,760
+NPH siempre fue el manejo de la diabetes con falla renal pero
+
+120
+00:10:32,760 --> 00:10:36,280
+actualmente estos medicamentos igualmente sirven. Si tiene un
+
+121
+00:10:36,280 --> 00:10:40,200
+infarto previo tiene un riesgo cardiovascular muy alto la verdad que
+
+122
+00:10:40,200 --> 00:10:47,680
+también va a quedar o con los blocadores del SGLUT-2 o con los
+
+123
+00:10:47,680 --> 00:10:53,560
+agonistas del GLP-1 ya que dijimos que servían en particular para disminuir la
+
+124
+00:10:53,560 --> 00:10:56,600
+progresión de la enfermedad cardiovascular y por supuesto la
+
+125
+00:10:56,600 --> 00:10:59,600
+insulina es una buena opción también y finalmente en la falla
+
+126
+00:10:59,600 --> 00:11:02,720
+cardiaca contraindicada la metformina contraindicada la glivia
+
+127
+00:11:02,720 --> 00:11:08,520
+inclamida y aquí me servía más que los GLP-1 los SGLUT-2 y obviamente la
+
+128
+00:11:08,520 --> 00:11:13,440
+insulina también así que fíjense muchos detalles veámoslos ahí de nuevo
+
+129
+00:11:13,440 --> 00:11:18,320
+esos detalles sirven de una otra forma para optimizar el manejo del
+
+130
+00:11:18,320 --> 00:11:22,480
+paciente diabético así que aprendérselo que estén bien',
+    'En esta cápsula ponemos en práctica todo lo visto sobre hipoglicemiantes e insulina, ahora en el contexto del tratamiento escalonado de la diabetes mellitus tipo 2. Hay que saber no solo qué fármacos existen, sino cuándo avanzar al siguiente escalón, con qué dosis y qué hacer cuando aparecen complicaciones o situaciones especiales.
+
+El punto de partida, el **primer paso**, es siempre doble: cambio de estilo de vida —dejar de fumar, hacer actividad física, adoptar una dieta saludable, bajar de peso si hay sobrepeso u obesidad— e inicio de **metformina** desde el diagnóstico. En la práctica existe una excepción muy acotada: un paciente con diabetes leve —HbA1c apenas sobre el objetivo— que esté muy motivado a cambiar su estilo de vida podría intentar tres meses solo con cambios dietéticos y de actividad. Pero esto es la excepción; la regla es metformina de entrada.
+
+Si la HbA1c no llega al objetivo, el **segundo paso** es aumentar la dosis de metformina. La dosis máxima es de **3 gramos al día** —1 gramo cada 8 horas—, aunque entre 2 y 3 gramos la diferencia de eficacia es marginal, y si ya está con más de 2 gramos sin lograr el objetivo, probablemente convenga agregar un segundo fármaco.',
+    '["El tratamiento de la DM2 se inicia siempre con cambios de estilo de vida más metformina; la dosis máxima de metformina es 3 g/día (1 g cada 8 horas).","Si con metformina en dosis máxima no se logra el objetivo, se agrega un segundo hipoglicemiante: gliptina (sitagliptina 100 mg/día) si hay recursos o riesgo de hipoglicemia; glibenclamida (máx. 20 mg/día) si hay restricción de recursos y bajo riesgo.","La insulina NPH nocturna (10 unidades de inicio) se indica cuando dos hipoglicemiantes en dosis máxima no logran el objetivo, o cuando HbA1c > 9% de entrada.","Al iniciar insulina en DM2, la práctica habitual es mantener metformina y suspender los otros hipoglicemiantes.","En enfermedad cardiovascular establecida o nefropatía con macroalbuminuria, se prefieren agonistas GLP-1 o iSGLT2 como segundo fármaco; en insuficiencia cardíaca, los iSGLT2 son los de mayor beneficio."]'::jsonb,
+    '[{"para":"\"META → META MAX → SEGUNDA LÍNEA → NPH → NPH+CRISTALINA\":","nemotecnia":"\"META → META MAX → SEGUNDA LÍNEA → NPH → NPH+CRISTALINA\":","explicacion":"Esta secuencia de 5 pasos resume el algoritmo completo del tratamiento de la DM2. Cada flecha representa un escalón al que se llega cuando el anterior no logra el objetivo de HbA1c.\nEsta secuencia de 5 pasos resume el algoritmo completo del tratamiento de la DM2. Cada flecha representa un escalón al que se llega cuando el anterior no logra el objetivo de HbA1c."},{"para":"\"9% = insulina sin escalas\":","nemotecnia":"\"9% = insulina sin escalas\":","explicacion":"Si la HbA1c llega al 9%, no hay tiempo para jugar con hipoglicemiantes. Directo a la insulina NPH.Si la HbA1c llega al 9%, no hay tiempo para jugar con hipoglicemiantes. Directo a la insulina NPH."},{"para":"\"Cardio/Renal = GLP1 o SGLT2\":","nemotecnia":"\"Cardio/Renal = GLP1 o SGLT2\":","explicacion":"Cuando el diabético tiene daño cardiovascular o renal, la elección del segundo hipoglicemiante no es la glibenclamida: es GLP-1 o SGLT2.Cuando el diabético tiene daño cardiovascular o renal, la elección del segundo hipoglicemiante no es la glibenclamida: es GLP-1 o SGLT2."}]'::jsonb,
+    '["El tratamiento de la DM2 se inicia siempre con cambios de estilo de vida más metformina; la dosis máxima de metformina es 3 g/día (1 g cada 8 horas).","Si con metformina en dosis máxima no se logra el objetivo, se agrega un segundo hipoglicemiante: gliptina (sitagliptina 100 mg/día) si hay recursos o riesgo de hipoglicemia; glibenclamida (máx. 20 mg/día) si hay restricción de recursos y bajo riesgo.","La insulina NPH nocturna (10 unidades de inicio) se indica cuando dos hipoglicemiantes en dosis máxima no logran el objetivo, o cuando HbA1c > 9% de entrada."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones sobre el tratamiento de la DM2 es correcta?","respuesta":"Respuesta correcta: D — Al agregar insulina NPH en DM2, la metformina se mantiene habitualmente por su efecto sinérgico y control de peso; los demás hipoglicemiantes (como la glibenclamida) se suspenden para simplificar el esquema y evitar hipoglicemias."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 9: Tratamiento de la Diabetes en el Embarazo — Control Glucémico
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Tratamiento de la Diabetes en el Embarazo — Control Glucémico',
+    9,
+    318,
+    'La diabetes en el embarazo se trata de manera diferente a las pacientes no embarazadas,
+
+así que veamos acá, número uno, cuál es el objetivo metabólico en el embarazo que cambia,
+
+en este caso son las glicemias, se pide que las precomidas, que las preprandiales estén en
+
+ese rango menor a 90, en algunas partes sale 60 a 90, en otras sale 70 a 90,
+
+pero lo importante es menor a 90 y que no haga hipoglicemia. Segundo lugar,
+
+las glicemias postcomidas, el objetivo es que estén abajo de 120, en algunas partes
+
+sale 100 a 120, en otras 80 a 120 y en otras 90 a 120, pero quedémonos con las preprandiales
+
+menor a 90 y las postprandiales menor a 120. Fíjense, mucho más estricto de lo que soy
+
+en una paciente no embarazada o en un hombre, y las razones son que un buen
+
+control metabólico estricto disminuye el riesgo fetal y el riesgo en el embarazo,
+
+y en este caso es una paciente embarazada. Ahora, la forma en que se controlan estas
+
+glicemias es con controles con hemoglucotest bien seguido. Cuatro hemoglucotest al día
+
+es lo ideal, algunos precomidas, otros postcomidas, y ahí se van alternando
+
+en los distintos días de la semana en qué horario se va a medir su glicemia y se va
+
+registrando, de manera que cada dos semanas va a control con su cartilla, con los promedios
+
+de hemoglucotest, y con eso se decide qué ajuste hacer, si se pone insulina o no,
+
+si se sube la dosis, si se baja, etcétera. Ahora, ¿y qué pasa con la hemoglobina
+
+glicosilada? La hemoglobina A1C, que era la forma en la que habitualmente se hacía
+
+el control en las personas diabéticas no embarazadas, y la verdad es que acá
+
+no me sirve mucho, porque se demora mucho en alterarse. El embarazo en total dura
+
+nueve meses, y esta se pide cada tres meses, y desde ahora hasta que pasen tres meses,
+
+la guagua a lo mejor ya va, y con la guagua me refiero al bebé, ya va a haber nacido y va
+
+a pesar seis kilos, así que no me sirve. Lo que uno hace es controlar con glicemia,
+
+pero en la vida real, la verdad es que sí está indicado igual pedir la hemoglobina A1C
+
+cada seis a ocho semanas como una forma de objetivar el control metabólico con algo que
+
+sea menos lábil que las glicemias, pero la toma de decisiones, repito, se basa en
+
+los controles de glicemia en la casa, con los hemoglocoteses de la casa. Ahora,
+
+¿cuál es el tratamiento de la diabetes mellitus gestacional y de la diabetes mellitus
+
+pregestacional? Por lo general, se parte siempre con dieta, una dieta bien estricta,
+
+con harto control glicémico, y si no anda bien, pues insulina, directamente a la insulina,
+
+y el esquema habitual es NPH, que es la forma en que se inicia, de hecho,
+
+habitualmente quedan solamente con NPH y con eso andan bien, en una o dos dosis al día,
+
+y en los casos en que vengan con un control glicémico no óptimo con la NPH, pues se puede
+
+agregar la insulina cristalina. En el embarazo ya no es tan fácil llegar y meter ni las
+
+ultra rápidas ni las ultra lentas porque hay menos estudios, aunque la verdad es que los
+
+pocos estudios que hay dicen que sí son seguras, pero la argina, por ejemplo,
+
+se recomienda no usarla en el embarazo porque todavía no está 100% clara su seguridad,
+
+en cambio la NPH queda súper clara que no tiene ningún problema en el embarazo.
+
+Ahora, ¿qué pasa con los hipoglicemiantes orales? ¿Se pueden dar en el embarazo o no?
+
+Y la verdad es que la evidencia es súper clara, es contundente, es abundante y
+
+dice que son seguros, pero solamente esos dos que están ahí, la metformina y la
+
+glivenclamida o gliburida, son los dos medicamentos que se pueden dejar antes de
+
+que se embarace, se pueden mantener en el embarazo, se pueden incluso iniciar durante
+
+el embarazo, pero en la práctica las recomendaciones siempre son en el embarazo,
+
+prefiera insulina, aunque sepa que esos dos hipoglicemiantes sí son seguros y
+
+eventualmente se pueden mantener, así que es una decisión que se toma junto
+
+con la paciente y con el médico tratante. Ahora, ¿qué pasa con alguien que es
+
+diabética, todavía no es embarazado y se quiere embarazar? Pues dos cosas,
+
+número uno, uno le dice ojalá no se embarace todavía, espere a estar con
+
+un control glicémico óptimo, ya sea con los hipoglicemiantes o idealmente con
+
+insulina para que se embarace ya con insulina y cuando tenga una hemoglobina
+
+licosilada bajo 7%, ahora sí embarazarse, antes idealmente no. En el
+
+caso del parto, hay que saber que el parto es un momento de estrés y
+
+ustedes se acuerdan que el estrés puede inducir una hiperglicemia,
+
+pero además es un momento de mucho consumo de energía y eso puede
+
+inducir una hipoglicemia, así que hay riesgo de las dos cosas, de que se
+
+escompense hacia arriba o hacia abajo y lo más frecuente es que haga
+
+hipoglicemia, así que lo importante es que durante el parto no solamente que
+
+se maneje con su insulina o con lo que sea que esté siendo
+
+tratada en ese momento, sino que además debe controlarse muy
+
+seguidamente con hemoglucotés y aparte de eso se va a ver la
+
+necesidad de dejar la insulina cristalina o no. En la práctica muchas
+
+veces no se requiere dejar nada de insulina porque el mismo útero se
+
+lleva toda la glucosa, así que no alcanza a subir. Y bueno, eso fue todo,
+
+nos vemos en el siguiente vídeo que vamos a ver el manejo obstétrico de
+
+la diabetes gestacional. Que estén bien.',
+    '1
+00:00:03,250 --> 00:00:08,690
+La diabetes en el embarazo se trata de manera diferente a las pacientes no embarazadas,
+
+2
+00:00:08,690 --> 00:00:13,970
+así que veamos acá, número uno, cuál es el objetivo metabólico en el embarazo que cambia,
+
+3
+00:00:13,970 --> 00:00:19,650
+en este caso son las glicemias, se pide que las precomidas, que las preprandiales estén en
+
+4
+00:00:19,650 --> 00:00:25,170
+ese rango menor a 90, en algunas partes sale 60 a 90, en otras sale 70 a 90,
+
+5
+00:00:25,170 --> 00:00:29,450
+pero lo importante es menor a 90 y que no haga hipoglicemia. Segundo lugar,
+
+6
+00:00:29,450 --> 00:00:34,410
+las glicemias postcomidas, el objetivo es que estén abajo de 120, en algunas partes
+
+7
+00:00:34,410 --> 00:00:40,690
+sale 100 a 120, en otras 80 a 120 y en otras 90 a 120, pero quedémonos con las preprandiales
+
+8
+00:00:40,690 --> 00:00:45,290
+menor a 90 y las postprandiales menor a 120. Fíjense, mucho más estricto de lo que soy
+
+9
+00:00:45,290 --> 00:00:50,810
+en una paciente no embarazada o en un hombre, y las razones son que un buen
+
+10
+00:00:50,810 --> 00:00:55,410
+control metabólico estricto disminuye el riesgo fetal y el riesgo en el embarazo,
+
+11
+00:00:55,410 --> 00:01:01,010
+y en este caso es una paciente embarazada. Ahora, la forma en que se controlan estas
+
+12
+00:01:01,010 --> 00:01:07,250
+glicemias es con controles con hemoglucotest bien seguido. Cuatro hemoglucotest al día
+
+13
+00:01:07,250 --> 00:01:11,610
+es lo ideal, algunos precomidas, otros postcomidas, y ahí se van alternando
+
+14
+00:01:11,610 --> 00:01:16,450
+en los distintos días de la semana en qué horario se va a medir su glicemia y se va
+
+15
+00:01:16,450 --> 00:01:21,570
+registrando, de manera que cada dos semanas va a control con su cartilla, con los promedios
+
+16
+00:01:21,570 --> 00:01:26,130
+de hemoglucotest, y con eso se decide qué ajuste hacer, si se pone insulina o no,
+
+17
+00:01:26,130 --> 00:01:31,010
+si se sube la dosis, si se baja, etcétera. Ahora, ¿y qué pasa con la hemoglobina
+
+18
+00:01:31,010 --> 00:01:35,050
+glicosilada? La hemoglobina A1C, que era la forma en la que habitualmente se hacía
+
+19
+00:01:35,050 --> 00:01:39,090
+el control en las personas diabéticas no embarazadas, y la verdad es que acá
+
+20
+00:01:39,090 --> 00:01:45,210
+no me sirve mucho, porque se demora mucho en alterarse. El embarazo en total dura
+
+21
+00:01:45,210 --> 00:01:49,370
+nueve meses, y esta se pide cada tres meses, y desde ahora hasta que pasen tres meses,
+
+22
+00:01:49,370 --> 00:01:54,290
+la guagua a lo mejor ya va, y con la guagua me refiero al bebé, ya va a haber nacido y va
+
+23
+00:01:54,290 --> 00:02:00,330
+a pesar seis kilos, así que no me sirve. Lo que uno hace es controlar con glicemia,
+
+24
+00:02:00,330 --> 00:02:05,310
+pero en la vida real, la verdad es que sí está indicado igual pedir la hemoglobina A1C
+
+25
+00:02:05,310 --> 00:02:12,410
+cada seis a ocho semanas como una forma de objetivar el control metabólico con algo que
+
+26
+00:02:12,410 --> 00:02:17,330
+sea menos lábil que las glicemias, pero la toma de decisiones, repito, se basa en
+
+27
+00:02:17,330 --> 00:02:21,970
+los controles de glicemia en la casa, con los hemoglocoteses de la casa. Ahora,
+
+28
+00:02:21,970 --> 00:02:25,810
+¿cuál es el tratamiento de la diabetes mellitus gestacional y de la diabetes mellitus
+
+29
+00:02:25,810 --> 00:02:30,410
+pregestacional? Por lo general, se parte siempre con dieta, una dieta bien estricta,
+
+30
+00:02:30,410 --> 00:02:36,050
+con harto control glicémico, y si no anda bien, pues insulina, directamente a la insulina,
+
+31
+00:02:36,050 --> 00:02:41,450
+y el esquema habitual es NPH, que es la forma en que se inicia, de hecho,
+
+32
+00:02:41,450 --> 00:02:46,290
+habitualmente quedan solamente con NPH y con eso andan bien, en una o dos dosis al día,
+
+33
+00:02:46,290 --> 00:02:51,650
+y en los casos en que vengan con un control glicémico no óptimo con la NPH, pues se puede
+
+34
+00:02:51,650 --> 00:02:57,370
+agregar la insulina cristalina. En el embarazo ya no es tan fácil llegar y meter ni las
+
+35
+00:02:57,370 --> 00:03:01,010
+ultra rápidas ni las ultra lentas porque hay menos estudios, aunque la verdad es que los
+
+36
+00:03:01,010 --> 00:03:05,250
+pocos estudios que hay dicen que sí son seguras, pero la argina, por ejemplo,
+
+37
+00:03:05,250 --> 00:03:09,890
+se recomienda no usarla en el embarazo porque todavía no está 100% clara su seguridad,
+
+38
+00:03:09,890 --> 00:03:14,010
+en cambio la NPH queda súper clara que no tiene ningún problema en el embarazo.
+
+39
+00:03:14,690 --> 00:03:19,250
+Ahora, ¿qué pasa con los hipoglicemiantes orales? ¿Se pueden dar en el embarazo o no?
+
+40
+00:03:19,250 --> 00:03:25,090
+Y la verdad es que la evidencia es súper clara, es contundente, es abundante y
+
+41
+00:03:25,090 --> 00:03:29,450
+dice que son seguros, pero solamente esos dos que están ahí, la metformina y la
+
+42
+00:03:29,450 --> 00:03:34,450
+glivenclamida o gliburida, son los dos medicamentos que se pueden dejar antes de
+
+43
+00:03:34,450 --> 00:03:38,850
+que se embarace, se pueden mantener en el embarazo, se pueden incluso iniciar durante
+
+44
+00:03:38,850 --> 00:03:43,490
+el embarazo, pero en la práctica las recomendaciones siempre son en el embarazo,
+
+45
+00:03:43,490 --> 00:03:47,810
+prefiera insulina, aunque sepa que esos dos hipoglicemiantes sí son seguros y
+
+46
+00:03:47,810 --> 00:03:52,250
+eventualmente se pueden mantener, así que es una decisión que se toma junto
+
+47
+00:03:52,250 --> 00:03:58,090
+con la paciente y con el médico tratante. Ahora, ¿qué pasa con alguien que es
+
+48
+00:03:58,090 --> 00:04:02,890
+diabética, todavía no es embarazado y se quiere embarazar? Pues dos cosas,
+
+49
+00:04:02,890 --> 00:04:08,770
+número uno, uno le dice ojalá no se embarace todavía, espere a estar con
+
+50
+00:04:08,770 --> 00:04:13,210
+un control glicémico óptimo, ya sea con los hipoglicemiantes o idealmente con
+
+51
+00:04:13,210 --> 00:04:16,330
+insulina para que se embarace ya con insulina y cuando tenga una hemoglobina
+
+52
+00:04:16,330 --> 00:04:21,890
+licosilada bajo 7%, ahora sí embarazarse, antes idealmente no. En el
+
+53
+00:04:21,890 --> 00:04:27,250
+caso del parto, hay que saber que el parto es un momento de estrés y
+
+54
+00:04:27,250 --> 00:04:31,010
+ustedes se acuerdan que el estrés puede inducir una hiperglicemia,
+
+55
+00:04:31,010 --> 00:04:35,570
+pero además es un momento de mucho consumo de energía y eso puede
+
+56
+00:04:35,570 --> 00:04:39,730
+inducir una hipoglicemia, así que hay riesgo de las dos cosas, de que se
+
+57
+00:04:39,730 --> 00:04:42,650
+escompense hacia arriba o hacia abajo y lo más frecuente es que haga
+
+58
+00:04:42,650 --> 00:04:47,170
+hipoglicemia, así que lo importante es que durante el parto no solamente que
+
+59
+00:04:47,170 --> 00:04:52,290
+se maneje con su insulina o con lo que sea que esté siendo
+
+60
+00:04:52,290 --> 00:04:56,850
+tratada en ese momento, sino que además debe controlarse muy
+
+61
+00:04:56,850 --> 00:05:01,810
+seguidamente con hemoglucotés y aparte de eso se va a ver la
+
+62
+00:05:01,810 --> 00:05:06,210
+necesidad de dejar la insulina cristalina o no. En la práctica muchas
+
+63
+00:05:06,210 --> 00:05:09,970
+veces no se requiere dejar nada de insulina porque el mismo útero se
+
+64
+00:05:09,970 --> 00:05:14,570
+lleva toda la glucosa, así que no alcanza a subir. Y bueno, eso fue todo,
+
+65
+00:05:14,570 --> 00:05:18,930
+nos vemos en el siguiente vídeo que vamos a ver el manejo obstétrico de
+
+66
+00:05:18,930 --> 00:05:23,010
+la diabetes gestacional. Que estén bien.',
+    'El manejo de la diabetes durante el embarazo exige una precisión especial. Los objetivos metabólicos son más estrictos que fuera del embarazo, el arsenal terapéutico es más limitado y las decisiones impactan directamente sobre dos pacientes al mismo tiempo: la madre y el feto.
+
+Comencemos por los **objetivos glucémicos en el embarazo**. Las glicemias preprandiales deben mantenerse por debajo de 90 mg/dL; en algunas guías se menciona el rango de 60 a 90 o de 70 a 90, pero lo que deben retener es el tope de 90 mg/dL. Las glicemias postprandiales deben estar por debajo de 120 mg/dL, siendo el rango habitual de 80 a 120 o de 90 a 120 según la fuente. Como pueden ver, estos objetivos son considerablemente más estrictos que los de la persona no embarazada —donde los valores aceptables llegaban hasta 130-180 mg/dL postprandial—. Esta exigencia se justifica porque incluso niveles moderadamente elevados de glucosa pueden generar complicaciones fetales significativas.
+
+La forma en que se monitoriza el control glucémico en el embarazo es mediante el **hemoglucotest domiciliario**, realizado idealmente cuatro veces al día, alternando mediciones preprandiales y postprandiales en distintos horarios a lo largo de la semana. La paciente registra estas mediciones en una cartilla y acude a control cada dos semanas con ese registro. En cada visita se revisan los promedios y se decide si ajustar el tratamiento.',
+    '["Los objetivos glucémicos en el embarazo son más estrictos: preprandiales < 90 mg/dL y postprandiales < 120 mg/dL.","El monitoreo se realiza con 4 hemoglucotest diarios domiciliarios, con revisión cada 2 semanas; la HbA1c es un complemento, no la guía principal de decisiones.","El tratamiento comienza con dieta; si no se logran los objetivos, se pasa directamente a insulina NPH (una o dos dosis), con posibilidad de agregar cristalina si es necesario.","La insulina glargina debe evitarse en el embarazo por perfil de seguridad incompleto; la NPH es la de elección por su seguridad establecida.","Metformina y glibenclamida son seguras en el embarazo según la evidencia, pero la práctica estándar es preferir insulina; el embarazo debe planificarse con HbA1c < 7% previo a la concepción."]'::jsonb,
+    '[{"para":"\"Embarazo: PRE < 90, POST < 120\":","nemotecnia":"\"Embarazo: PRE < 90, POST < 120\":","explicacion":"Dos números clave. Antes de comer: bajo 90. Después de comer: bajo 120. Mucho más estricto que fuera del embarazo.\nDos números clave. Antes de comer: bajo 90. Después de comer: bajo 120. Mucho más estricto que fuera del embarazo."},{"para":"\"NPH en embarazo, Glargina afuera\":","nemotecnia":"\"NPH en embarazo, Glargina afuera\":","explicacion":"En el embarazo, la insulina de elección es la NPH. La glargina se evita porque no está 100% validada su seguridad en gestantes.En el embarazo, la insulina de elección es la NPH. La glargina se evita porque no está 100% validada su seguridad en gestantes."},{"para":"\"4 hemoglucotest al día = los ojos del embarazo diabético\":","nemotecnia":"\"4 hemoglucotest al día = los ojos del embarazo diabético\":","explicacion":"La HbA1c llega tarde. El hemoglucotest cuatro veces al día es lo que permite ver en tiempo real el control y actuar rápido.La HbA1c llega tarde. El hemoglucotest cuatro veces al día es lo que permite ver en tiempo real el control y actuar rápido."}]'::jsonb,
+    '["Los objetivos glucémicos en el embarazo son más estrictos: preprandiales < 90 mg/dL y postprandiales < 120 mg/dL.","El monitoreo se realiza con 4 hemoglucotest diarios domiciliarios, con revisión cada 2 semanas; la HbA1c es un complemento, no la guía principal de decisiones.","El tratamiento comienza con dieta; si no se logran los objetivos, se pasa directamente a insulina NPH (una o dos dosis), con posibilidad de agregar cristalina si es necesario."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones es correcta?","respuesta":"Respuesta correcta: D — El tratamiento de la diabetes en el embarazo sigue la secuencia: primero dieta, luego insulina NPH si no se logran los objetivos; la glargina se evita por datos de seguridad incompletos en la gestante."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 10: Control Obstétrico de la Diabetes en el Embarazo — Complicaciones y Manejo
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Control Obstétrico de la Diabetes en el Embarazo — Complicaciones y Manejo',
+    10,
+    398,
+    'Hola, hola. Veamos ahora el control obstétrico de la diabetes gestacional y pregestacional.
+
+Sepan que los riesgos de la diabetes mellitus gestacional, de ahí vamos a ver lo de la
+
+pregestacional, son muchos. Por un lado está la microzomía fetal, un bebé arriba de 4 kilos y
+
+medio que obliga a ser una cesárea. Aparte de esto, el riesgo más importante, la hipoglicemia
+
+neonatal, pero no es el único riesgo metabólico de el feto. También está la hipocalcemia
+
+neonatal, así que mucho cuidado en un recién nacido hijo de madre diabética que al parecer
+
+está con una hipoglicemia, pero el hemoglucotest o la glicemia le sale normal. Acuérdense que eso
+
+puede ser un problema del calcio, así que hay que medirle calcio también. Aparte de esto de
+
+acá, la distancia de hombros, al mismo peso un hijo de madre diabética tiene mayor riesgo
+
+de distancia de hombros que un hijo de madre no diabética. Aparte de esto, la poliglobulia
+
+neonatal, en el sentido en que la insulina fetal que se aumenta por la hipoglicemia materna
+
+per se actúa como un factor de crecimiento de los glóbulos rojos, puede venir con poliglobulia,
+
+que a su vez el exceso de glóbulos rojos puede agravarme la hipoglicemia, así que con
+
+muchas frecuencias se ven las dos cosas al mismo tiempo. Y finalmente hay riesgos de
+
+polihidroamnios en el sentido en que la hipoglicemia materna se traduce en hipoglicemia
+
+fetal y eso se traduce en glucosuria y poliguria fetal con el polihidroamnios también. En el caso
+
+de la diabetes gestacional y pregestacional también, además se agrega este riesgo del
+
+distancia respiratorio a través de la enfermedad de membrana yalina. De hecho, la membrana
+
+yalina es algo que se ve en los prematuros, más que en el hijo de madre diabética,
+
+pero es clásico de los menores de 34 semanas. En cambio, cuando veo una membrana yalina después
+
+de las 34 semanas, habitualmente se ve en contexto de un hijo de madre diabética y
+
+obviamente si tienen menos de 34 semanas y aparte de eso tiene diabetes gestacional,
+
+el riesgo es más alto a que si no tuviera diabetes gestacional. O sea, los riesgos son
+
+múltiples e incluye el de membrana yalina, pero los dos más importantes que hay que saber
+
+son la hipoglicemia y la macrosomía y acordarse de la hipocalcemia como la que se esconde debajo
+
+de la que parecía hipoglicemia pero que no era. Ahora, en el caso de la diabetes mellitus
+
+pregestacional tiene todos esos riesgos, todos, incluso un poquito más aumentado,
+
+pero hay que agregarle el riesgo de malformaciones en el sentido en que una diabetes desde el
+
+principio tiene efectivamente estos riesgos. Son distintos tipos de malformaciones pero
+
+los más clásicos son los defectos del tubo neural, dígase la anencefalia, el meningocéle,
+
+el mielo meningocéle y la de las disrafias espinales, dígase la espina bífida oculta
+
+y la espina bífida evidente también. Finalmente, tiene riesgo de insuficiencia
+
+placentaria en el sentido en que el exceso de azúcar durante la placentación o la implantación
+
+de la placenta puede generar esta insuficiencia placentaria que a su vez se complica con
+
+RCIU, con preeclampsia, etcétera, con oligoablio. Respecto al manejo obstétrico,
+
+cuando se interrumpe una mujer embarazada con diabetes, la verdad es que no hay un
+
+consenso pero se dice entre las 39 y las 41 semanas, desde esa edad hacia adelante
+
+ya no vale la pena que siga embarazada porque no se gana nada en específico. Antes de las 39
+
+semanas todavía uno dice esperemos que madure un poquito más. Lo habitual es que se interrumpan
+
+a las 40 semanas pero se les suele ofrecer desde las 39 semanas si quieren interrumpirlo
+
+y cuando ya cumplen 41 semanas igual que en cualquier embarazo la recomendación es
+
+hay que interrumpirlo sí o sí. ¿Por qué vía de parto? La regla general es que la diabetes no
+
+me contraindica el parto vaginal así que va por parto vaginal y la excepción es que tenga
+
+una macrosomía con un peso mayor a 4 kilos 500. En algunas partes salía antes 4 kilos 200 en
+
+las diabéticas pero la verdad es que actualmente el consenso que hay a nivel
+
+internacional es 4 kilos y medio o más, es indicación necesaria no solamente en diabética
+
+sino que en pacientes no diabéticas y la cesárea se planifica de manera electiva habitualmente
+
+a las 39 semanas. Ahora en el caso de la diabetes mellitus pre-gestacional ahí uno
+
+sí puede ser un poquito más laxo con el peso y ya desde los 4 kilos hasta 4 kilos y medio
+
+dependiendo del tamaño de la mamá se puede evaluar a ser una cesárea electiva o sea repito
+
+es parto vaginal salvo que pese más de 4 kilos y medio en que ahí es cesárea y en el caso de
+
+la pregestacional ahí se puede bajar un poquito en este peso. Ahora aparte durante todo el
+
+embarazo hay que prevenir estas malformaciones del tubo neural, los defectos del tubo neural
+
+así que hay que dejarle ácido fólico no en la dosis habitual que se deja las embarazadas
+
+que es de 0,4 miligramos al día sino que se deja una dosis 10 veces más alta, dígase 4 miligramos
+
+al día de ácido fólico. Aparte de esto acuérdense al momento de atender a un recién nacido
+
+de una madre diabética siempre hay que controlar glicemias, ya las glicemias se piden en este
+
+caso a las dos horas y se va a pedir antes si es que tiene síntomas en cambio en los recién
+
+nacidos hijos de una madre sin factores de riesgo no es obligatorio hacer una glicemia a menos claro
+
+que haya algún síntoma. La glicemia a las dos horas es porque en ese momento es cuando se
+
+logra habitualmente el nadir de la glicemia o sea el valor más bajo en promedio. En el
+
+caso de la madre una vez que ya tuvo al bebé una vez que ya fue el parto igualmente
+
+hay que controlarla con un ttgo más adelante habitualmente 6 a 12 semanas después cuando haya
+
+finalizado el puerperio y la razón de esto es que tiene riesgo de desarrollar una diabetes
+
+mellitus 2 acuérdense que la diabetes gestacional era causada por resistencia a la insulina
+
+inducida por las hormonas de contra regulación en específico el lactógeno placentario pero en
+
+este caso obviamente que haya desarrollado resistencia a la insulina en el embarazo aumenta
+
+el riesgo de que tenga resistencia a la insulina después así que hay que asegurarse
+
+que no tenga una diabetes 2 de base y bueno eso fue todo nos vemos en los siguientes vídeos',
+    '1
+00:00:03,120 --> 00:00:07,840
+Hola, hola. Veamos ahora el control obstétrico de la diabetes gestacional y pregestacional.
+
+2
+00:00:07,840 --> 00:00:13,840
+Sepan que los riesgos de la diabetes mellitus gestacional, de ahí vamos a ver lo de la
+
+3
+00:00:13,840 --> 00:00:19,960
+pregestacional, son muchos. Por un lado está la microzomía fetal, un bebé arriba de 4 kilos y
+
+4
+00:00:19,960 --> 00:00:24,840
+medio que obliga a ser una cesárea. Aparte de esto, el riesgo más importante, la hipoglicemia
+
+5
+00:00:24,840 --> 00:00:30,440
+neonatal, pero no es el único riesgo metabólico de el feto. También está la hipocalcemia
+
+6
+00:00:30,440 --> 00:00:35,680
+neonatal, así que mucho cuidado en un recién nacido hijo de madre diabética que al parecer
+
+7
+00:00:35,680 --> 00:00:40,920
+está con una hipoglicemia, pero el hemoglucotest o la glicemia le sale normal. Acuérdense que eso
+
+8
+00:00:40,920 --> 00:00:45,800
+puede ser un problema del calcio, así que hay que medirle calcio también. Aparte de esto de
+
+9
+00:00:45,800 --> 00:00:52,400
+acá, la distancia de hombros, al mismo peso un hijo de madre diabética tiene mayor riesgo
+
+10
+00:00:52,400 --> 00:00:58,600
+de distancia de hombros que un hijo de madre no diabética. Aparte de esto, la poliglobulia
+
+11
+00:00:58,600 --> 00:01:03,520
+neonatal, en el sentido en que la insulina fetal que se aumenta por la hipoglicemia materna
+
+12
+00:01:03,520 --> 00:01:08,680
+per se actúa como un factor de crecimiento de los glóbulos rojos, puede venir con poliglobulia,
+
+13
+00:01:08,680 --> 00:01:13,280
+que a su vez el exceso de glóbulos rojos puede agravarme la hipoglicemia, así que con
+
+14
+00:01:13,280 --> 00:01:17,720
+muchas frecuencias se ven las dos cosas al mismo tiempo. Y finalmente hay riesgos de
+
+15
+00:01:17,720 --> 00:01:23,160
+polihidroamnios en el sentido en que la hipoglicemia materna se traduce en hipoglicemia
+
+16
+00:01:23,160 --> 00:01:31,600
+fetal y eso se traduce en glucosuria y poliguria fetal con el polihidroamnios también. En el caso
+
+17
+00:01:31,600 --> 00:01:38,360
+de la diabetes gestacional y pregestacional también, además se agrega este riesgo del
+
+18
+00:01:38,360 --> 00:01:44,360
+distancia respiratorio a través de la enfermedad de membrana yalina. De hecho, la membrana
+
+19
+00:01:44,360 --> 00:01:48,480
+yalina es algo que se ve en los prematuros, más que en el hijo de madre diabética,
+
+20
+00:01:48,480 --> 00:01:57,000
+pero es clásico de los menores de 34 semanas. En cambio, cuando veo una membrana yalina después
+
+21
+00:01:57,000 --> 00:02:02,480
+de las 34 semanas, habitualmente se ve en contexto de un hijo de madre diabética y
+
+22
+00:02:02,480 --> 00:02:06,800
+obviamente si tienen menos de 34 semanas y aparte de eso tiene diabetes gestacional,
+
+23
+00:02:06,800 --> 00:02:11,800
+el riesgo es más alto a que si no tuviera diabetes gestacional. O sea, los riesgos son
+
+24
+00:02:11,800 --> 00:02:16,080
+múltiples e incluye el de membrana yalina, pero los dos más importantes que hay que saber
+
+25
+00:02:16,080 --> 00:02:22,120
+son la hipoglicemia y la macrosomía y acordarse de la hipocalcemia como la que se esconde debajo
+
+26
+00:02:22,120 --> 00:02:27,320
+de la que parecía hipoglicemia pero que no era. Ahora, en el caso de la diabetes mellitus
+
+27
+00:02:27,320 --> 00:02:31,840
+pregestacional tiene todos esos riesgos, todos, incluso un poquito más aumentado,
+
+28
+00:02:31,840 --> 00:02:37,440
+pero hay que agregarle el riesgo de malformaciones en el sentido en que una diabetes desde el
+
+29
+00:02:37,440 --> 00:02:41,960
+principio tiene efectivamente estos riesgos. Son distintos tipos de malformaciones pero
+
+30
+00:02:41,960 --> 00:02:47,360
+los más clásicos son los defectos del tubo neural, dígase la anencefalia, el meningocéle,
+
+31
+00:02:47,360 --> 00:02:54,240
+el mielo meningocéle y la de las disrafias espinales, dígase la espina bífida oculta
+
+32
+00:02:54,240 --> 00:02:58,960
+y la espina bífida evidente también. Finalmente, tiene riesgo de insuficiencia
+
+33
+00:02:58,960 --> 00:03:05,960
+placentaria en el sentido en que el exceso de azúcar durante la placentación o la implantación
+
+34
+00:03:06,560 --> 00:03:13,640
+de la placenta puede generar esta insuficiencia placentaria que a su vez se complica con
+
+35
+00:03:13,640 --> 00:03:21,160
+RCIU, con preeclampsia, etcétera, con oligoablio. Respecto al manejo obstétrico,
+
+36
+00:03:21,160 --> 00:03:26,320
+cuando se interrumpe una mujer embarazada con diabetes, la verdad es que no hay un
+
+37
+00:03:26,320 --> 00:03:32,480
+consenso pero se dice entre las 39 y las 41 semanas, desde esa edad hacia adelante
+
+38
+00:03:32,480 --> 00:03:39,000
+ya no vale la pena que siga embarazada porque no se gana nada en específico. Antes de las 39
+
+39
+00:03:39,000 --> 00:03:45,000
+semanas todavía uno dice esperemos que madure un poquito más. Lo habitual es que se interrumpan
+
+40
+00:03:45,000 --> 00:03:54,120
+a las 40 semanas pero se les suele ofrecer desde las 39 semanas si quieren interrumpirlo
+
+41
+00:03:54,120 --> 00:03:58,560
+y cuando ya cumplen 41 semanas igual que en cualquier embarazo la recomendación es
+
+42
+00:03:58,600 --> 00:04:03,880
+hay que interrumpirlo sí o sí. ¿Por qué vía de parto? La regla general es que la diabetes no
+
+43
+00:04:03,880 --> 00:04:08,800
+me contraindica el parto vaginal así que va por parto vaginal y la excepción es que tenga
+
+44
+00:04:08,800 --> 00:04:15,640
+una macrosomía con un peso mayor a 4 kilos 500. En algunas partes salía antes 4 kilos 200 en
+
+45
+00:04:15,640 --> 00:04:20,360
+las diabéticas pero la verdad es que actualmente el consenso que hay a nivel
+
+46
+00:04:20,360 --> 00:04:25,880
+internacional es 4 kilos y medio o más, es indicación necesaria no solamente en diabética
+
+47
+00:04:25,880 --> 00:04:31,960
+sino que en pacientes no diabéticas y la cesárea se planifica de manera electiva habitualmente
+
+48
+00:04:31,960 --> 00:04:38,000
+a las 39 semanas. Ahora en el caso de la diabetes mellitus pre-gestacional ahí uno
+
+49
+00:04:38,000 --> 00:04:45,000
+sí puede ser un poquito más laxo con el peso y ya desde los 4 kilos hasta 4 kilos y medio
+
+50
+00:04:45,000 --> 00:04:50,560
+dependiendo del tamaño de la mamá se puede evaluar a ser una cesárea electiva o sea repito
+
+51
+00:04:50,560 --> 00:04:57,080
+es parto vaginal salvo que pese más de 4 kilos y medio en que ahí es cesárea y en el caso de
+
+52
+00:04:57,080 --> 00:05:03,880
+la pregestacional ahí se puede bajar un poquito en este peso. Ahora aparte durante todo el
+
+53
+00:05:03,880 --> 00:05:09,840
+embarazo hay que prevenir estas malformaciones del tubo neural, los defectos del tubo neural
+
+54
+00:05:09,840 --> 00:05:14,360
+así que hay que dejarle ácido fólico no en la dosis habitual que se deja las embarazadas
+
+55
+00:05:14,360 --> 00:05:20,720
+que es de 0,4 miligramos al día sino que se deja una dosis 10 veces más alta, dígase 4 miligramos
+
+56
+00:05:20,720 --> 00:05:28,160
+al día de ácido fólico. Aparte de esto acuérdense al momento de atender a un recién nacido
+
+57
+00:05:28,160 --> 00:05:35,800
+de una madre diabética siempre hay que controlar glicemias, ya las glicemias se piden en este
+
+58
+00:05:35,800 --> 00:05:41,840
+caso a las dos horas y se va a pedir antes si es que tiene síntomas en cambio en los recién
+
+59
+00:05:41,880 --> 00:05:48,720
+nacidos hijos de una madre sin factores de riesgo no es obligatorio hacer una glicemia a menos claro
+
+60
+00:05:48,720 --> 00:05:55,400
+que haya algún síntoma. La glicemia a las dos horas es porque en ese momento es cuando se
+
+61
+00:05:55,400 --> 00:06:01,960
+logra habitualmente el nadir de la glicemia o sea el valor más bajo en promedio. En el
+
+62
+00:06:01,960 --> 00:06:08,080
+caso de la madre una vez que ya tuvo al bebé una vez que ya fue el parto igualmente
+
+63
+00:06:08,080 --> 00:06:13,880
+hay que controlarla con un ttgo más adelante habitualmente 6 a 12 semanas después cuando haya
+
+64
+00:06:13,880 --> 00:06:19,400
+finalizado el puerperio y la razón de esto es que tiene riesgo de desarrollar una diabetes
+
+65
+00:06:19,400 --> 00:06:24,360
+mellitus 2 acuérdense que la diabetes gestacional era causada por resistencia a la insulina
+
+66
+00:06:24,360 --> 00:06:30,720
+inducida por las hormonas de contra regulación en específico el lactógeno placentario pero en
+
+67
+00:06:30,720 --> 00:06:35,160
+este caso obviamente que haya desarrollado resistencia a la insulina en el embarazo aumenta
+
+68
+00:06:35,160 --> 00:06:38,680
+el riesgo de que tenga resistencia a la insulina después así que hay que asegurarse
+
+69
+00:06:38,680 --> 00:06:43,040
+que no tenga una diabetes 2 de base y bueno eso fue todo nos vemos en los siguientes vídeos',
+    'La diabetes durante el embarazo no solo representa un desafío metabólico: genera una constelación de complicaciones fetales y maternas que el médico debe conocer con precisión para anticiparlas, prevenirlas y manejarlas adecuadamente. En esta cápsula repasamos los riesgos asociados a la diabetes gestacional y pregestacional, y los aspectos clave del manejo obstétrico.
+
+Comencemos con los riesgos de la **diabetes gestacional**. El más conocido es la **macrosomía fetal**: un peso al nacer superior a 4,5 kilos. La hiperglicemia materna atraviesa la placenta, estimula la producción de insulina fetal —que actúa como factor de crecimiento— y genera un feto grande, lo que puede complicar el parto vaginal y aumentar el riesgo de distocia de hombros.
+
+La **hipoglicemia neonatal** es el riesgo metabólico más importante del recién nacido hijo de madre diabética. El mecanismo es el siguiente: el páncreas fetal, acostumbrado a trabajar en exceso para compensar la hiperglicemia materna, sigue secretando grandes cantidades de insulina al nacer. Al cortar el cordón umbilical, desaparece el aporte de glucosa materno, pero la insulina fetal sigue alta. Esto produce una caída brusca de la glicemia neonatal, habitualmente en las primeras 2 horas de vida, que corresponde al momento del nadir glucémico. Por esta razón, en todo recién nacido hijo de madre diabética se solicita una glicemia a las 2 horas de vida, y antes si hay síntomas.',
+    '["Las complicaciones del hijo de madre con diabetes gestacional incluyen macrosomía, hipoglicemia neonatal (a las 2 horas de vida), hipocalcemia neonatal, distocia de hombros, poliglobulia y polihidramnios.","La diabetes pregestacional agrega riesgo de malformaciones del tubo neural (anencefalia, espina bífida), insuficiencia placentaria y enfermedad de membrana hialina en recién nacidos ≥ 34 semanas.","En todo recién nacido hijo de madre diabética se solicita glicemia a las 2 horas de vida; si parece hipoglicémico pero la glicemia es normal, descartar hipocalcemia.","La interrupción del embarazo se recomienda entre las 39 y 41 semanas; la vía es vaginal salvo macrosomía > 4,5 kg (cesárea electiva a las 39 semanas).","La mujer con diabetes pregestacional necesita ácido fólico 4 mg/día (dosis 10 veces mayor a la habitual) para prevenir defectos del tubo neural; postparto, toda mujer con diabetes gestacional debe realizarse TTGO a las 6–12 semanas."]'::jsonb,
+    '[{"para":"\"HIMDB (Hijo de Madre DiaBética) = Hipoglicemia + Hipocalcemia + Hombros + Hematíes\":","nemotecnia":"\"HIMDB (Hijo de Madre DiaBética) = Hipoglicemia + Hipocalcemia + Hombros + Hematíes\":","explicacion":"Las cuatro H del recién nacido hijo de madre diabética: Hipoglicemia neonatal, Hipocalcemia, Hombros (distocia), Hematíes en exceso (poliglobulia). Más: macrosomía y polihidramnios.\nLas cuatro H del recién nacido hijo de madre diabética: Hipoglicemia neonatal, Hipocalcemia, Hombros (distocia), Hematíes en exceso (poliglobulia). Más: macrosomía y polihidramnios."},{"para":"\"Glicemia a las 2 HORAS en el recién nacido — ese es el nadir\":","nemotecnia":"\"Glicemia a las 2 HORAS en el recién nacido — ese es el nadir\":","explicacion":"El punto más bajo de la glicemia en el recién nacido hijo de madre diabética es a las 2 horas. Ahí se pide la glicemia, antes si hay síntomas.El punto más bajo de la glicemia en el recién nacido hijo de madre diabética es a las 2 horas. Ahí se pide la glicemia, antes si hay síntomas."},{"para":"\"4 mg de ácido fólico para la pregestacional = 10 veces más\":","nemotecnia":"\"4 mg de ácido fólico para la pregestacional = 10 veces más\":","explicacion":"La dosis habitual para toda embarazada es 0,4 mg. En la pregestacional se necesita 4 mg porque el riesgo de defectos del tubo neural es diez veces mayor.La dosis habitual para toda embarazada es 0,4 mg. En la pregestacional se necesita 4 mg porque el riesgo de defectos del tubo neural es diez veces mayor."}]'::jsonb,
+    '["Las complicaciones del hijo de madre con diabetes gestacional incluyen macrosomía, hipoglicemia neonatal (a las 2 horas de vida), hipocalcemia neonatal, distocia de hombros, poliglobulia y polihidramnios.","La diabetes pregestacional agrega riesgo de malformaciones del tubo neural (anencefalia, espina bífida), insuficiencia placentaria y enfermedad de membrana hialina en recién nacidos ≥ 34 semanas.","En todo recién nacido hijo de madre diabética se solicita glicemia a las 2 horas de vida; si parece hipoglicémico pero la glicemia es normal, descartar hipocalcemia."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones es correcta?","respuesta":"Respuesta correcta: C — La diabetes pregestacional aumenta el riesgo de defectos del tubo neural, por lo que se indica ácido fólico a dosis de 4 mg/día (diez veces la dosis habitual), idealmente desde el período preconcepcional."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 11: Indicaciones de Insulina en Diabetes — Cuándo, Para Quién y Con Qué Esquema
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Indicaciones de Insulina en Diabetes — Cuándo, Para Quién y Con Qué Esquema',
+    11,
+    242,
+    'Hola, hola. Este va a ser un video muy corto en que vamos a recordar todas las indicaciones de
+
+insulina y con qué insulina se deja en cada una de estas indicaciones. Así que empecemos.
+
+Número uno, la diabetes mellitus tipo 1, la diabetes Lada, las autoinmunes. Por el general
+
+siempre se manejan con insulina. ¿Y en qué esquema? Esquema intensificado, que si se
+
+acuerdan era una dosis de ultralenta o como mínimo dos dosis de NPH. En la práctica es
+
+una dosis de clargina más las tres dosis de insulina cristalina precomida. Segundo lugar,
+
+en el caso de la cetosidosis diabética o el síndrome hiperglicémico hiperosmolar,
+
+en ese caso que dejar la insulina cristalina habitualmente se deja un bolo, que la dosis
+
+suele ser o de 10 unidades o de 0,1 unidad por kilo y luego queda con un goteo de esa
+
+misma cantidad más o menos que se pasa cada hora hasta que se logra que la glicemia baje.
+
+Aparte de esto, la diabetes tipo 2, acuérdense que había ciertas indicaciones. La más
+
+importante era la hemoglobina licosilada arriba de 9%, ahí había que partir con
+
+insulina de inmediato, o bien cuando estaba con dos hipoglicemiantes orales en dosis
+
+máxima y la hemoglobina seguía arriba de 7 u 8% que era el objetivo del control
+
+metabólico y obviamente cuando están contraindicados los hipoglicemiantes orales
+
+como la insuficiencia cardiaca o en la falla renal con esos valores de corte,
+
+una crea de 1,5 o más o bien un clearance menor a 30 ml minuto.
+
+Y en este caso la diabetes dosis, ¿acuerdan qué insulina había que dejar? Era la insulina
+
+NPH que podía ser una o dos dosis y en el caso de que siguiera con un mal control
+
+metabólico de las glicemias posprandiales se agregaba la insulina cristalina.
+
+Ahora como alternativa a la NPH está la insulina ultra lenta, la glargina se deja
+
+en particular cuando había hipoglicemias, acuérdense que la NPH tenía un peak y por
+
+lo tanto tenía un riesgo de hipoglicemia más alta que la ultra lenta que viene
+
+sin peak y por lo tanto con un menor riesgo de hipoglicemia.
+
+Ahora en el paciente hospitalizado, acuérdense, se dejaba insulina cristalina endovenosa
+
+cada 6 horas ajustada por hemogluco test y más eventualmente sus medicamentos
+
+de base también pero lo más importante en el diabético tipo 2 con una enfermedad
+
+grave era el cambiarse completamente a insulina cristalina cada 6 horas más el hemogluco test
+
+que me determina finalmente la dosis que se le va a administrar.
+
+Ahora hay algunas otras indicaciones que vale la pena saber que no las vamos a ver
+
+en ninguna de las otras dispositivas que son la diabetes causada por corticoides,
+
+ejemplo alguien que está con lupus y está con prednisona y me desarrolla una
+
+diabetes seguramente se va a manejar con insulina.
+
+En el caso del embarazo, acuérdense que sí se podía usar la metformina,
+
+sí se podía usar la glivenclamida pero el tratamiento de elección sigue siendo la insulina
+
+que podría ser la NPH o la NPH más insulina cristalina.
+
+Cuando está con glicemias demasiado elevadas, una glicemia arriba de 400,
+
+si bien en la práctica muchas veces solamente se ajustan sus medicamentos,
+
+la verdad es que lo correcto desde el punto de vista médico legal es
+
+el hospitalizarlo y manejarlo con insulina al menos hasta lograr controlar esta
+
+hiperglicemia que tiene riesgo de evolucionar a una complicación más grave
+
+como un síndrome hiperglicémico o hiperosmolar por ejemplo.
+
+Igualmente cuando está con síntomas de diabetes, los síntomas de diabetes
+
+sugieren una enfermedad muy grave así que esté con baja de peso,
+
+con poliurea, con polifagia, con polidipsia, con esas cosas.
+
+De entrada va a empezar con insulina, eventualmente si se logra que se controle bien
+
+me puedo cambiar a los hipoglicemiantes siempre y cuando sea una diabetes 2
+
+porque los síntomas son más frecuentes la diabetes 1 que la diabetes 2.
+
+Y finalmente la neuropatía dolorosa o la neuropatía amiotrófica son indicaciones
+
+relativas de insulina en el sentido en que no regresa habitualmente la neuropatía
+
+pero sí se puede lograr que se rebusca un poco el dolor junto con otros medicamentos
+
+obviamente y se puede lograr que gane peso en el caso de la atrofe muscular.
+
+Y bueno eso fue todo nos vemos en la siguiente clase que estén bien.',
+    '1
+00:00:03,280 --> 00:00:07,560
+Hola, hola. Este va a ser un video muy corto en que vamos a recordar todas las indicaciones de
+
+2
+00:00:07,560 --> 00:00:11,720
+insulina y con qué insulina se deja en cada una de estas indicaciones. Así que empecemos.
+
+3
+00:00:11,720 --> 00:00:16,480
+Número uno, la diabetes mellitus tipo 1, la diabetes Lada, las autoinmunes. Por el general
+
+4
+00:00:16,480 --> 00:00:20,280
+siempre se manejan con insulina. ¿Y en qué esquema? Esquema intensificado, que si se
+
+5
+00:00:20,280 --> 00:00:25,880
+acuerdan era una dosis de ultralenta o como mínimo dos dosis de NPH. En la práctica es
+
+6
+00:00:25,880 --> 00:00:31,000
+una dosis de clargina más las tres dosis de insulina cristalina precomida. Segundo lugar,
+
+7
+00:00:31,000 --> 00:00:35,120
+en el caso de la cetosidosis diabética o el síndrome hiperglicémico hiperosmolar,
+
+8
+00:00:35,120 --> 00:00:40,120
+en ese caso que dejar la insulina cristalina habitualmente se deja un bolo, que la dosis
+
+9
+00:00:40,120 --> 00:00:46,760
+suele ser o de 10 unidades o de 0,1 unidad por kilo y luego queda con un goteo de esa
+
+10
+00:00:46,760 --> 00:00:52,240
+misma cantidad más o menos que se pasa cada hora hasta que se logra que la glicemia baje.
+
+11
+00:00:52,240 --> 00:00:56,760
+Aparte de esto, la diabetes tipo 2, acuérdense que había ciertas indicaciones. La más
+
+12
+00:00:56,760 --> 00:01:01,680
+importante era la hemoglobina licosilada arriba de 9%, ahí había que partir con
+
+13
+00:01:01,680 --> 00:01:05,760
+insulina de inmediato, o bien cuando estaba con dos hipoglicemiantes orales en dosis
+
+14
+00:01:05,760 --> 00:01:11,160
+máxima y la hemoglobina seguía arriba de 7 u 8% que era el objetivo del control
+
+15
+00:01:11,160 --> 00:01:15,840
+metabólico y obviamente cuando están contraindicados los hipoglicemiantes orales
+
+16
+00:01:15,840 --> 00:01:20,440
+como la insuficiencia cardiaca o en la falla renal con esos valores de corte,
+
+17
+00:01:20,440 --> 00:01:25,920
+una crea de 1,5 o más o bien un clearance menor a 30 ml minuto.
+
+18
+00:01:25,920 --> 00:01:30,160
+Y en este caso la diabetes dosis, ¿acuerdan qué insulina había que dejar? Era la insulina
+
+19
+00:01:30,160 --> 00:01:35,880
+NPH que podía ser una o dos dosis y en el caso de que siguiera con un mal control
+
+20
+00:01:35,880 --> 00:01:39,920
+metabólico de las glicemias posprandiales se agregaba la insulina cristalina.
+
+21
+00:01:39,920 --> 00:01:45,640
+Ahora como alternativa a la NPH está la insulina ultra lenta, la glargina se deja
+
+22
+00:01:45,640 --> 00:01:50,960
+en particular cuando había hipoglicemias, acuérdense que la NPH tenía un peak y por
+
+23
+00:01:50,960 --> 00:01:55,120
+lo tanto tenía un riesgo de hipoglicemia más alta que la ultra lenta que viene
+
+24
+00:01:55,120 --> 00:01:58,480
+sin peak y por lo tanto con un menor riesgo de hipoglicemia.
+
+25
+00:01:58,480 --> 00:02:03,480
+Ahora en el paciente hospitalizado, acuérdense, se dejaba insulina cristalina endovenosa
+
+26
+00:02:03,480 --> 00:02:08,280
+cada 6 horas ajustada por hemogluco test y más eventualmente sus medicamentos
+
+27
+00:02:08,280 --> 00:02:12,080
+de base también pero lo más importante en el diabético tipo 2 con una enfermedad
+
+28
+00:02:12,080 --> 00:02:18,240
+grave era el cambiarse completamente a insulina cristalina cada 6 horas más el hemogluco test
+
+29
+00:02:18,240 --> 00:02:21,640
+que me determina finalmente la dosis que se le va a administrar.
+
+30
+00:02:21,640 --> 00:02:25,920
+Ahora hay algunas otras indicaciones que vale la pena saber que no las vamos a ver
+
+31
+00:02:25,920 --> 00:02:33,640
+en ninguna de las otras dispositivas que son la diabetes causada por corticoides,
+
+32
+00:02:33,640 --> 00:02:37,440
+ejemplo alguien que está con lupus y está con prednisona y me desarrolla una
+
+33
+00:02:37,440 --> 00:02:40,080
+diabetes seguramente se va a manejar con insulina.
+
+34
+00:02:40,080 --> 00:02:43,680
+En el caso del embarazo, acuérdense que sí se podía usar la metformina,
+
+35
+00:02:43,680 --> 00:02:48,080
+sí se podía usar la glivenclamida pero el tratamiento de elección sigue siendo la insulina
+
+36
+00:02:48,080 --> 00:02:52,360
+que podría ser la NPH o la NPH más insulina cristalina.
+
+37
+00:02:52,360 --> 00:02:56,800
+Cuando está con glicemias demasiado elevadas, una glicemia arriba de 400,
+
+38
+00:02:56,800 --> 00:03:00,400
+si bien en la práctica muchas veces solamente se ajustan sus medicamentos,
+
+39
+00:03:00,400 --> 00:03:03,800
+la verdad es que lo correcto desde el punto de vista médico legal es
+
+40
+00:03:03,800 --> 00:03:09,040
+el hospitalizarlo y manejarlo con insulina al menos hasta lograr controlar esta
+
+41
+00:03:09,080 --> 00:03:12,240
+hiperglicemia que tiene riesgo de evolucionar a una complicación más grave
+
+42
+00:03:12,240 --> 00:03:16,080
+como un síndrome hiperglicémico o hiperosmolar por ejemplo.
+
+43
+00:03:16,080 --> 00:03:20,000
+Igualmente cuando está con síntomas de diabetes, los síntomas de diabetes
+
+44
+00:03:20,000 --> 00:03:23,320
+sugieren una enfermedad muy grave así que esté con baja de peso,
+
+45
+00:03:23,320 --> 00:03:26,520
+con poliurea, con polifagia, con polidipsia, con esas cosas.
+
+46
+00:03:26,520 --> 00:03:32,560
+De entrada va a empezar con insulina, eventualmente si se logra que se controle bien
+
+47
+00:03:32,560 --> 00:03:36,120
+me puedo cambiar a los hipoglicemiantes siempre y cuando sea una diabetes 2
+
+48
+00:03:36,160 --> 00:03:40,120
+porque los síntomas son más frecuentes la diabetes 1 que la diabetes 2.
+
+49
+00:03:40,120 --> 00:03:45,120
+Y finalmente la neuropatía dolorosa o la neuropatía amiotrófica son indicaciones
+
+50
+00:03:45,120 --> 00:03:52,800
+relativas de insulina en el sentido en que no regresa habitualmente la neuropatía
+
+51
+00:03:52,800 --> 00:03:57,280
+pero sí se puede lograr que se rebusca un poco el dolor junto con otros medicamentos
+
+52
+00:03:57,280 --> 00:04:02,360
+obviamente y se puede lograr que gane peso en el caso de la atrofe muscular.
+
+53
+00:04:02,360 --> 00:04:05,360
+Y bueno eso fue todo nos vemos en la siguiente clase que estén bien.',
+    'En esta cápsula reunimos todas las indicaciones de insulinoterapia que deben conocer para el EUNACOM, organizadas por situación clínica. Este es un tema de integración: requiere que dominen lo aprendido en las cápsulas anteriores y lo apliquen de forma ordenada.
+
+La primera y más clásica indicación es la **diabetes mellitus tipo 1 y la diabetes LADA**. Dado que ambas son de etiología autoinmune y destruyen las células beta pancreáticas, el páncreas no puede producir insulina suficiente y los hipoglicemiantes orales no sirven. El esquema estándar es el **esquema intensificado**: una dosis de insulina ultralenta —preferiblemente glargina— más tres dosis de insulina cristalina preprandiales. En la práctica, esto equivale a glargina una vez al día más insulina cristalina antes del desayuno, almuerzo y cena.
+
+La segunda indicación corresponde a las **complicaciones hiperglicémicas agudas graves**: cetoacidosis diabética y síndrome hiperglicémico hiperosmolar. En estos casos se utiliza insulina cristalina endovenosa. La forma habitual es un bolo inicial —habitualmente 10 unidades o 0,1 unidades por kilogramo de peso— seguido de un goteo continuo de la misma dosis por hora, ajustado según la respuesta glucémica, hasta lograr la estabilización.',
+    '["DM tipo 1 y LADA requieren siempre insulina en esquema intensificado (glargina + 3 dosis de cristalina preprandiales); los hipoglicemiantes orales no tienen ningún rol.","En cetoacidosis y síndrome hiperosmolar se usa insulina cristalina endovenosa: bolo inicial (10 U o 0,1 U/kg) seguido de goteo continuo.","En DM2, la insulina está indicada cuando HbA1c > 9%, cuando dos hipoglicemiantes en dosis máxima no logran el objetivo, o cuando los hipoglicemiantes están contraindicados (falla renal, falla cardíaca).","El paciente diabético grave hospitalizado se maneja con insulina cristalina subcutánea cada 6 horas ajustada por hemoglucotest.","La diabetes inducida por corticoides, la diabetes gestacional sin control con dieta, la hiperglicemia mayor a 400 mg/dL y los síntomas floridos de diabetes son indicaciones adicionales de insulina."]'::jsonb,
+    '[{"para":"\"DM1 y LADA = SIEMPRE insulina, NUNCA orales\":","nemotecnia":"\"DM1 y LADA = SIEMPRE insulina, NUNCA orales\":","explicacion":"Las formas autoinmunes no tienen páncreas funcional. No hay ningún hipoglicemiante oral que funcione si no hay células beta. Solo la insulina puede reemplazar lo que el cuerpo ya no produce.\nLas formas autoinmunes no tienen páncreas funcional. No hay ningún hipoglicemiante oral que funcione si no hay células beta. Solo la insulina puede reemplazar lo que el cuerpo ya no produce."},{"para":"\"Cetoacidosis = bolo + goteo de cristalina EV\":","nemotecnia":"\"Cetoacidosis = bolo + goteo de cristalina EV\":","explicacion":"La emergencia hiperglicémica grave no se maneja con subcutáneo. Bolo endovenoso seguido de goteo hasta resolver.La emergencia hiperglicémica grave no se maneja con subcutáneo. Bolo endovenoso seguido de goteo hasta resolver."},{"para":"\"9% de HbA1c = insulina sin dilaciones\":","nemotecnia":"\"9% de HbA1c = insulina sin dilaciones\":","explicacion":"No importa cuántos hipoglicemiantes tenga o no tenga. Con HbA1c sobre 9%, la insulina es la única respuesta clínica correcta.No importa cuántos hipoglicemiantes tenga o no tenga. Con HbA1c sobre 9%, la insulina es la única respuesta clínica correcta."}]'::jsonb,
+    '["DM tipo 1 y LADA requieren siempre insulina en esquema intensificado (glargina + 3 dosis de cristalina preprandiales); los hipoglicemiantes orales no tienen ningún rol.","En cetoacidosis y síndrome hiperosmolar se usa insulina cristalina endovenosa: bolo inicial (10 U o 0,1 U/kg) seguido de goteo continuo.","En DM2, la insulina está indicada cuando HbA1c > 9%, cuando dos hipoglicemiantes en dosis máxima no logran el objetivo, o cuando los hipoglicemiantes están contraindicados (falla renal, falla cardíaca)."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones sobre las indicaciones de insulina es correcta?","respuesta":"Respuesta correcta: B — Con clearance < 30 mL/min, la metformina y muchos hipoglicemiantes están contraindicados; sumado a HbA1c sobre el objetivo con dos fármacos en dosis máxima, la indicación de insulina NPH es clara."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 12: Aplicación Clínica del Tratamiento de la Diabetes — Integración y Casos Prácticos
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Aplicación Clínica del Tratamiento de la Diabetes — Integración y Casos Prácticos',
+    12,
+    586,
+    'Hola, hola. Vamos a ver si es que aprendieron o no el tratamiento de la
+
+diabetes con varios ejercicios en los cuales, si es que no lo han aprendido
+
+todavía, ahora ya es el momento en que se grave de manera definitiva. Así que
+
+empecemos inmediatamente con el caso 1. Es un paciente de 68 años que está
+
+con metformina 850 cada 8 horas. O sea, está con la dosis máxima ya de
+
+metformina y está con una hemoglobina A1C de 8%. Uno dice, ¿qué edad tiene?
+
+68 años. El objetivo debería ser 7% de hemoglobina glicosilada o menos,
+
+así que en este caso hay que agregar un segundo hipoglicemiante. Ahora, ¿cuál
+
+la Glivenklamida? Es el clásico en Chile cuando no hay recursos y no hay
+
+un alto riesgo de hipoglicemia. Aquí a los 68 años ya hay algo de riesgo.
+
+Así que lo ideal es que sea otro hipoglicemiante en la medida que el
+
+bolsillo lo aguante o que los recursos del sistema público lo aguante.
+
+El caso 2. 77 años. Acá ya tienen más de 75 años, así que el objetivo
+
+de la hemoglobina glicosilada es menor a 8%. Está con metformina más Glivenklamida
+
+que cada 12 horas ambos. La metformina está en 850 cada 12, así que todavía
+
+se puede subir un poco más. La Glivenklamida está en 5 miligramos cada 12,
+
+así que también se puede subir a 10 miligramos cada 12. Pero si se fijan
+
+aquí está bien controlado y no solamente que está bien controlado,
+
+sino que está demasiado bien controlado para tener 77 años. Así que la
+
+conducta más adecuada va a ser suspenda la Glivenklamida y que su hemoglobina
+
+glicosilada suba un poquito porque no pasa nada. Ahora, se podría también
+
+cambiar a la metformina 850 tres veces al día y de esa manera puedo
+
+suspender la Glivenklamida sin mayor problema. La otra forma de verlo es
+
+es un adulto mayor, bastante mayor, así que per se la Glivenklamida me da
+
+miedo. Así que incluso si es que hubiese estado con una hemoglobina
+
+glicosilada ya más al límite, ejemplo en 7,5, igualmente suspender la
+
+Glivenklamida y cambiarla por otro hipoglicemiante habría sido una buena
+
+decisión. Vamos con el caso 3, 76 años, ya sabemos el objetivo de la
+
+hemoglobina glicosilada va a ser menor a 8%, está con metformina
+
+850 cada 8, así que está en el límite máximo y está por arriba del 8%,
+
+está en 8,8%, así que debo agregar un segundo
+
+hipoglicemiante, pero por tener 76 años no le puedo dejar Glivenklamida
+
+por un alto riesgo de hipoglicemia, así que se la deja o citagliptina o
+
+alguno de los GLP-1 o de los SGLUT-2. Vamos con el caso 4, 57 años, está con
+
+metformina también tres veces al día en la dosis máxima, Glivenklamida
+
+10 miligramos dos veces al día, así que está en dosis máxima también y
+
+aún así está con una hemoglobina glicosilada arriba de 7%, que es el
+
+objetivo a los 57 años, en los menores de 75 años, así que hay que avanzar
+
+todavía más, pero como ya está con las dosis máximas de dos hipoglicemiantes
+
+orales, lo único que me queda en este momento es agregar la insulina,
+
+que acuérdense que se empieza con una dosis de NPH habitualmente en la
+
+noche. Ahora, cuando yo parto la insulina, recuerden que lo habitual es
+
+que se suspende la Glivenklamida o los hipoglicemiantes en general y se
+
+suele mantener la metformina sabiendo que es aceptable mantenerlo
+
+y suspenderlo. El caso 5, 48 años que está con metformina 8.50 cada 8,
+
+nuevamente la dosis máxima de metformina, está con la hemoglobina
+
+glicosilada en 10,8%, está arriba de 9%, está demasiado alta, ahí per se ya
+
+tiene indicación de insulina, pero aparte me dicen que tiene antecedentes
+
+de hipotiroidismo, o sea si se fijan es un paciente o una paciente
+
+relativamente joven, aparte de eso con antecedentes de autoinmunidad y
+
+con un control metabólico muy malo, hay que sospechar que no vaya a ser una
+
+diabetes autoinmune del adulto, una diabetes lada, pero ya sabemos que la
+
+conducta sí o sí es insulina y para confirmar que sea una diabetes lada
+
+va a haber que pedirle el peptidocé, que debería estar bajo, más los
+
+anticuerpos marcadores de autoinmunidad en la diabetes, digas
+
+los anticuerpos antiinsulina, los antislote, los antigat, los anti el
+
+transportador de zinc-8 y los anti la tirosinquinasa-2, ahora en el
+
+caso 6 tiene 58 años, está con metformina 1 gramo cada
+
+8 horas y que está en el límite máximo, la hemoglobina glicosilada está
+
+arriba de 7%, así que está con un mal control y tuvo un infarto hace 6
+
+meses, en este caso por estar la hemoglobina glicosilada arriba hay que
+
+partirle un hipolisemigante adicional y por haber tenido un
+
+infarto hace 6 meses hay que dejarle algunos de estos hipolisemigantes que
+
+tienen mejor rendimiento cardiovascular, dígase el algún glp1 como
+
+el liraglutide o algún esglut2 como por ejemplo la empaglifosina, así
+
+que esa sería la respuesta en este caso, ahora además las estatinas, la
+
+aspirina y todas las cosas del alto riesgo cardiovascular, en el caso 7
+
+tiene 45 años, está con una hemoglobina a1c en 8% así que está por
+
+arriba de lo aceptable, aparte de eso me dice que tiene artritis reumatoide y
+
+con eso yo digo ya tiene autoinmunidad así que no vaya a ser una diabetes
+
+slada, aunque la artritis reumatoide no se asocia tanto a diabetes slada
+
+pero aún así hay que tener cuidado, está con prednisona y acuérdense que
+
+los corticoides pudieran generarme diabetes también y con el metotexate
+
+que es el tratamiento de la artritis reumatoide y su glicemia está en
+
+200, está súper alto así que sin mucha duda hay una diabetes mal
+
+controlada y se hace una segunda hemoglobina glicosilada que está ya en
+
+el límite de 8,8%, no alcanza a ser 9% pero sea como sea, con toda
+
+esa historia hay que partir la insulina sí o sí, por tres razones, número
+
+uno porque está con corticoides, número dos porque puede ser una
+
+diabetes slada y número tres porque el control metabólico está
+
+especialmente malo aunque ese es un número un poquito más débil porque
+
+el corte para que sigo sí sea insulina es 9% no 8,8 como está ahí. Vamos con
+
+el caso 8, tiene 58 años, está con metformina en el límite máximo en un
+
+gramo cada 8 horas, la hemoglobina glicosilada está en 6,8 así que está
+
+bien controlado pero me dicen que tiene una crea de 1,3 miligramos por
+
+decilitro, si se acuerdan la falla renal me contraindicaba la
+
+metformina pero tenía que ser una crea de 1,5 o más, aquí está en 1,3 así
+
+que no me la contraindica, yo digo está bien controlado pues que se quede con su
+
+metformina en esa dosis no hay por qué hacer absolutamente ningún
+
+cambio. Vamos con el caso nuevo, el caso nueve perdón, tiene 80 años, está
+
+con metformina 8,50 cada 8 nuevamente la dosis máxima de metformina como
+
+casi todos los ejemplos porque obviamente si está con una dosis más
+
+baja de metformina hay que subirlo nomás, la glivenclamida está 5 miligramos
+
+cada 12 así que en estricto rigor se podría subir hasta 10 miligramos cada 12
+
+la hemoglobina A1C está en 8,8 entonces fíjense está demasiado alta de
+
+hecho incluso está demasiado alta para tener 80 años en el sentido en que
+
+a los 80 años uno exige que esté debajo de 8 pero puede estar
+
+arriba de 7% y me dice que aparte tiene hipoglicemias con esto yo
+
+digo tengo que quitarle sí o sí la glivenclamida porque ya me está
+
+haciendo hipoglicemia, segundo lugar está muy mal controlado a pesar de
+
+estar con dosis relativamente altas y que es un candidato a insulina así
+
+que la respuesta acá sería suspender la glivenclamida cambiarlo por otro
+
+hipoglicemiante que eventualmente ande bien como ejemplo la citaglutina
+
+pero no está notado ahí pero en este caso en particular es muy probable
+
+que requiere insulina también porque independientemente de que yo le
+
+inicie un hipoglicemente distinto va a ser difícil estando ya con esas dosis
+
+de esos medicamentos bajarla a menos de 8% pero aún así se puede intentar
+
+dejarle la citaglutina, algún glp1 o un sglut2 y ver qué es lo que pasa
+
+con la hemoglobina glicosilada antes de tomar una decisión. El caso 10
+
+tiene 58 años está con metformina un gramo cada 8 horas también así
+
+que la dosis máxima está con la hemoglobina glicosilada en 8,8 así que
+
+está bajo 9 no tiene indicación de insulina todavía pero sí está muy
+
+mal controlado y está con una crea de 1,8 como está con una crea tan
+
+elevada arriba de 1,5 para empezar está absolutamente contraindicada la
+
+metformina y lo más probable es que va a quedar con insulina. Ahora como
+
+alternativa en lugar de iniciarle insulina que es la respuesta más
+
+fácil es el suspender la metformina y cambiarlo por algunos de los
+
+medicamentos que sí se puede dejar en contexto de una falla renal que si se
+
+acuerdan eran los glp1 fundamentalmente y también me servían
+
+los sglut2 pero no funcionaban de manera tan efectiva o eficaz en la
+
+falla renal porque justamente funcionaban eliminando azúcar por
+
+la orina así que en ese caso la insulina o los agonistas del glp1
+
+van a ser la respuesta correcta. En el caso 11 65 años con una hemoglobina
+
+glicosilada en 9,5 ya estamos muy mal así que obviamente hay que partirle
+
+insulina y está con metformina 500 milígramos dos veces al día está
+
+con una dosis muy bajita se podría subir pero por la hemoglobina arriba de
+
+9% la respuesta es insulina sin ninguna duda así que quedaría con
+
+insulina nph y la metformina se puede mantener sin ningún problema se
+
+podría subir también un poquito la dosis a medida que voy ajustando la
+
+dosis de insulina nph y bueno espero que hayan aprendido porque esto es lo
+
+último que vamos a ver y de ahí directo a hacer hartos ejercicios en
+
+las pruebas que estén bien.',
+    '1
+00:00:03,220 --> 00:00:06,260
+Hola, hola. Vamos a ver si es que aprendieron o no el tratamiento de la
+
+2
+00:00:06,260 --> 00:00:09,540
+diabetes con varios ejercicios en los cuales, si es que no lo han aprendido
+
+3
+00:00:09,540 --> 00:00:13,320
+todavía, ahora ya es el momento en que se grave de manera definitiva. Así que
+
+4
+00:00:13,320 --> 00:00:17,980
+empecemos inmediatamente con el caso 1. Es un paciente de 68 años que está
+
+5
+00:00:17,980 --> 00:00:23,120
+con metformina 850 cada 8 horas. O sea, está con la dosis máxima ya de
+
+6
+00:00:23,120 --> 00:00:28,260
+metformina y está con una hemoglobina A1C de 8%. Uno dice, ¿qué edad tiene?
+
+7
+00:00:28,260 --> 00:00:33,200
+68 años. El objetivo debería ser 7% de hemoglobina glicosilada o menos,
+
+8
+00:00:33,200 --> 00:00:37,120
+así que en este caso hay que agregar un segundo hipoglicemiante. Ahora, ¿cuál
+
+9
+00:00:37,120 --> 00:00:41,240
+la Glivenklamida? Es el clásico en Chile cuando no hay recursos y no hay
+
+10
+00:00:41,240 --> 00:00:45,320
+un alto riesgo de hipoglicemia. Aquí a los 68 años ya hay algo de riesgo.
+
+11
+00:00:45,320 --> 00:00:49,600
+Así que lo ideal es que sea otro hipoglicemiante en la medida que el
+
+12
+00:00:49,600 --> 00:00:52,400
+bolsillo lo aguante o que los recursos del sistema público lo aguante.
+
+13
+00:00:52,400 --> 00:00:57,600
+El caso 2. 77 años. Acá ya tienen más de 75 años, así que el objetivo
+
+14
+00:00:58,200 --> 00:01:03,960
+de la hemoglobina glicosilada es menor a 8%. Está con metformina más Glivenklamida
+
+15
+00:01:03,960 --> 00:01:09,480
+que cada 12 horas ambos. La metformina está en 850 cada 12, así que todavía
+
+16
+00:01:09,480 --> 00:01:12,960
+se puede subir un poco más. La Glivenklamida está en 5 miligramos cada 12,
+
+17
+00:01:12,960 --> 00:01:16,640
+así que también se puede subir a 10 miligramos cada 12. Pero si se fijan
+
+18
+00:01:16,640 --> 00:01:19,760
+aquí está bien controlado y no solamente que está bien controlado,
+
+19
+00:01:19,760 --> 00:01:24,480
+sino que está demasiado bien controlado para tener 77 años. Así que la
+
+20
+00:01:24,520 --> 00:01:29,360
+conducta más adecuada va a ser suspenda la Glivenklamida y que su hemoglobina
+
+21
+00:01:29,360 --> 00:01:33,080
+glicosilada suba un poquito porque no pasa nada. Ahora, se podría también
+
+22
+00:01:33,080 --> 00:01:38,000
+cambiar a la metformina 850 tres veces al día y de esa manera puedo
+
+23
+00:01:38,000 --> 00:01:41,800
+suspender la Glivenklamida sin mayor problema. La otra forma de verlo es
+
+24
+00:01:41,800 --> 00:01:45,860
+es un adulto mayor, bastante mayor, así que per se la Glivenklamida me da
+
+25
+00:01:45,860 --> 00:01:49,800
+miedo. Así que incluso si es que hubiese estado con una hemoglobina
+
+26
+00:01:49,800 --> 00:01:54,480
+glicosilada ya más al límite, ejemplo en 7,5, igualmente suspender la
+
+27
+00:01:54,480 --> 00:01:57,840
+Glivenklamida y cambiarla por otro hipoglicemiante habría sido una buena
+
+28
+00:01:57,840 --> 00:02:02,400
+decisión. Vamos con el caso 3, 76 años, ya sabemos el objetivo de la
+
+29
+00:02:02,400 --> 00:02:06,880
+hemoglobina glicosilada va a ser menor a 8%, está con metformina
+
+30
+00:02:06,880 --> 00:02:11,640
+850 cada 8, así que está en el límite máximo y está por arriba del 8%,
+
+31
+00:02:11,640 --> 00:02:15,840
+está en 8,8%, así que debo agregar un segundo
+
+32
+00:02:15,840 --> 00:02:19,560
+hipoglicemiante, pero por tener 76 años no le puedo dejar Glivenklamida
+
+33
+00:02:19,560 --> 00:02:23,480
+por un alto riesgo de hipoglicemia, así que se la deja o citagliptina o
+
+34
+00:02:23,480 --> 00:02:30,080
+alguno de los GLP-1 o de los SGLUT-2. Vamos con el caso 4, 57 años, está con
+
+35
+00:02:30,080 --> 00:02:33,400
+metformina también tres veces al día en la dosis máxima, Glivenklamida
+
+36
+00:02:33,400 --> 00:02:36,960
+10 miligramos dos veces al día, así que está en dosis máxima también y
+
+37
+00:02:36,960 --> 00:02:41,080
+aún así está con una hemoglobina glicosilada arriba de 7%, que es el
+
+38
+00:02:41,080 --> 00:02:46,320
+objetivo a los 57 años, en los menores de 75 años, así que hay que avanzar
+
+39
+00:02:46,320 --> 00:02:50,320
+todavía más, pero como ya está con las dosis máximas de dos hipoglicemiantes
+
+40
+00:02:50,320 --> 00:02:54,280
+orales, lo único que me queda en este momento es agregar la insulina,
+
+41
+00:02:54,280 --> 00:02:58,360
+que acuérdense que se empieza con una dosis de NPH habitualmente en la
+
+42
+00:02:58,360 --> 00:03:02,080
+noche. Ahora, cuando yo parto la insulina, recuerden que lo habitual es
+
+43
+00:03:02,080 --> 00:03:05,560
+que se suspende la Glivenklamida o los hipoglicemiantes en general y se
+
+44
+00:03:05,560 --> 00:03:09,840
+suele mantener la metformina sabiendo que es aceptable mantenerlo
+
+45
+00:03:09,840 --> 00:03:15,680
+y suspenderlo. El caso 5, 48 años que está con metformina 8.50 cada 8,
+
+46
+00:03:15,680 --> 00:03:20,240
+nuevamente la dosis máxima de metformina, está con la hemoglobina
+
+47
+00:03:20,240 --> 00:03:25,840
+glicosilada en 10,8%, está arriba de 9%, está demasiado alta, ahí per se ya
+
+48
+00:03:25,840 --> 00:03:30,280
+tiene indicación de insulina, pero aparte me dicen que tiene antecedentes
+
+49
+00:03:30,280 --> 00:03:34,960
+de hipotiroidismo, o sea si se fijan es un paciente o una paciente
+
+50
+00:03:34,960 --> 00:03:39,160
+relativamente joven, aparte de eso con antecedentes de autoinmunidad y
+
+51
+00:03:39,160 --> 00:03:42,520
+con un control metabólico muy malo, hay que sospechar que no vaya a ser una
+
+52
+00:03:42,520 --> 00:03:46,000
+diabetes autoinmune del adulto, una diabetes lada, pero ya sabemos que la
+
+53
+00:03:46,000 --> 00:03:49,960
+conducta sí o sí es insulina y para confirmar que sea una diabetes lada
+
+54
+00:03:49,960 --> 00:03:53,560
+va a haber que pedirle el peptidocé, que debería estar bajo, más los
+
+55
+00:03:53,560 --> 00:03:57,760
+anticuerpos marcadores de autoinmunidad en la diabetes, digas
+
+56
+00:03:57,760 --> 00:04:01,800
+los anticuerpos antiinsulina, los antislote, los antigat, los anti el
+
+57
+00:04:01,800 --> 00:04:10,920
+transportador de zinc-8 y los anti la tirosinquinasa-2, ahora en el
+
+58
+00:04:10,920 --> 00:04:15,560
+caso 6 tiene 58 años, está con metformina 1 gramo cada
+
+59
+00:04:15,560 --> 00:04:19,920
+8 horas y que está en el límite máximo, la hemoglobina glicosilada está
+
+60
+00:04:19,920 --> 00:04:24,320
+arriba de 7%, así que está con un mal control y tuvo un infarto hace 6
+
+61
+00:04:24,320 --> 00:04:28,880
+meses, en este caso por estar la hemoglobina glicosilada arriba hay que
+
+62
+00:04:28,880 --> 00:04:33,760
+partirle un hipolisemigante adicional y por haber tenido un
+
+63
+00:04:33,760 --> 00:04:37,640
+infarto hace 6 meses hay que dejarle algunos de estos hipolisemigantes que
+
+64
+00:04:37,640 --> 00:04:43,480
+tienen mejor rendimiento cardiovascular, dígase el algún glp1 como
+
+65
+00:04:43,480 --> 00:04:48,160
+el liraglutide o algún esglut2 como por ejemplo la empaglifosina, así
+
+66
+00:04:48,160 --> 00:04:53,200
+que esa sería la respuesta en este caso, ahora además las estatinas, la
+
+67
+00:04:53,200 --> 00:04:57,520
+aspirina y todas las cosas del alto riesgo cardiovascular, en el caso 7
+
+68
+00:04:57,640 --> 00:05:02,760
+tiene 45 años, está con una hemoglobina a1c en 8% así que está por
+
+69
+00:05:02,760 --> 00:05:07,840
+arriba de lo aceptable, aparte de eso me dice que tiene artritis reumatoide y
+
+70
+00:05:07,840 --> 00:05:11,480
+con eso yo digo ya tiene autoinmunidad así que no vaya a ser una diabetes
+
+71
+00:05:11,480 --> 00:05:15,600
+slada, aunque la artritis reumatoide no se asocia tanto a diabetes slada
+
+72
+00:05:15,600 --> 00:05:19,400
+pero aún así hay que tener cuidado, está con prednisona y acuérdense que
+
+73
+00:05:19,400 --> 00:05:23,160
+los corticoides pudieran generarme diabetes también y con el metotexate
+
+74
+00:05:23,160 --> 00:05:26,880
+que es el tratamiento de la artritis reumatoide y su glicemia está en
+
+75
+00:05:26,880 --> 00:05:33,440
+200, está súper alto así que sin mucha duda hay una diabetes mal
+
+76
+00:05:33,440 --> 00:05:37,160
+controlada y se hace una segunda hemoglobina glicosilada que está ya en
+
+77
+00:05:37,160 --> 00:05:43,080
+el límite de 8,8%, no alcanza a ser 9% pero sea como sea, con toda
+
+78
+00:05:43,080 --> 00:05:47,040
+esa historia hay que partir la insulina sí o sí, por tres razones, número
+
+79
+00:05:47,040 --> 00:05:51,840
+uno porque está con corticoides, número dos porque puede ser una
+
+80
+00:05:51,840 --> 00:05:54,840
+diabetes slada y número tres porque el control metabólico está
+
+81
+00:05:54,840 --> 00:05:58,360
+especialmente malo aunque ese es un número un poquito más débil porque
+
+82
+00:05:58,360 --> 00:06:04,920
+el corte para que sigo sí sea insulina es 9% no 8,8 como está ahí. Vamos con
+
+83
+00:06:04,920 --> 00:06:09,440
+el caso 8, tiene 58 años, está con metformina en el límite máximo en un
+
+84
+00:06:09,440 --> 00:06:13,520
+gramo cada 8 horas, la hemoglobina glicosilada está en 6,8 así que está
+
+85
+00:06:13,520 --> 00:06:17,800
+bien controlado pero me dicen que tiene una crea de 1,3 miligramos por
+
+86
+00:06:17,800 --> 00:06:21,080
+decilitro, si se acuerdan la falla renal me contraindicaba la
+
+87
+00:06:21,080 --> 00:06:26,240
+metformina pero tenía que ser una crea de 1,5 o más, aquí está en 1,3 así
+
+88
+00:06:26,240 --> 00:06:30,000
+que no me la contraindica, yo digo está bien controlado pues que se quede con su
+
+89
+00:06:30,000 --> 00:06:32,960
+metformina en esa dosis no hay por qué hacer absolutamente ningún
+
+90
+00:06:32,960 --> 00:06:39,520
+cambio. Vamos con el caso nuevo, el caso nueve perdón, tiene 80 años, está
+
+91
+00:06:39,520 --> 00:06:43,880
+con metformina 8,50 cada 8 nuevamente la dosis máxima de metformina como
+
+92
+00:06:43,880 --> 00:06:46,520
+casi todos los ejemplos porque obviamente si está con una dosis más
+
+93
+00:06:46,520 --> 00:06:50,200
+baja de metformina hay que subirlo nomás, la glivenclamida está 5 miligramos
+
+94
+00:06:50,200 --> 00:06:53,840
+cada 12 así que en estricto rigor se podría subir hasta 10 miligramos cada 12
+
+95
+00:06:53,840 --> 00:07:01,060
+la hemoglobina A1C está en 8,8 entonces fíjense está demasiado alta de
+
+96
+00:07:01,060 --> 00:07:06,080
+hecho incluso está demasiado alta para tener 80 años en el sentido en que
+
+97
+00:07:06,080 --> 00:07:10,480
+a los 80 años uno exige que esté debajo de 8 pero puede estar
+
+98
+00:07:10,480 --> 00:07:14,640
+arriba de 7% y me dice que aparte tiene hipoglicemias con esto yo
+
+99
+00:07:14,640 --> 00:07:20,600
+digo tengo que quitarle sí o sí la glivenclamida porque ya me está
+
+100
+00:07:20,600 --> 00:07:24,640
+haciendo hipoglicemia, segundo lugar está muy mal controlado a pesar de
+
+101
+00:07:24,640 --> 00:07:28,160
+estar con dosis relativamente altas y que es un candidato a insulina así
+
+102
+00:07:28,160 --> 00:07:33,160
+que la respuesta acá sería suspender la glivenclamida cambiarlo por otro
+
+103
+00:07:33,160 --> 00:07:37,240
+hipoglicemiante que eventualmente ande bien como ejemplo la citaglutina
+
+104
+00:07:37,240 --> 00:07:41,560
+pero no está notado ahí pero en este caso en particular es muy probable
+
+105
+00:07:42,000 --> 00:07:45,920
+que requiere insulina también porque independientemente de que yo le
+
+106
+00:07:45,920 --> 00:07:51,840
+inicie un hipoglicemente distinto va a ser difícil estando ya con esas dosis
+
+107
+00:07:51,840 --> 00:07:56,920
+de esos medicamentos bajarla a menos de 8% pero aún así se puede intentar
+
+108
+00:07:56,920 --> 00:08:03,200
+dejarle la citaglutina, algún glp1 o un sglut2 y ver qué es lo que pasa
+
+109
+00:08:03,200 --> 00:08:06,720
+con la hemoglobina glicosilada antes de tomar una decisión. El caso 10
+
+110
+00:08:06,720 --> 00:08:10,720
+tiene 58 años está con metformina un gramo cada 8 horas también así
+
+111
+00:08:10,720 --> 00:08:15,160
+que la dosis máxima está con la hemoglobina glicosilada en 8,8 así que
+
+112
+00:08:15,160 --> 00:08:21,240
+está bajo 9 no tiene indicación de insulina todavía pero sí está muy
+
+113
+00:08:21,240 --> 00:08:27,160
+mal controlado y está con una crea de 1,8 como está con una crea tan
+
+114
+00:08:27,160 --> 00:08:30,960
+elevada arriba de 1,5 para empezar está absolutamente contraindicada la
+
+115
+00:08:30,960 --> 00:08:35,320
+metformina y lo más probable es que va a quedar con insulina. Ahora como
+
+116
+00:08:35,320 --> 00:08:39,760
+alternativa en lugar de iniciarle insulina que es la respuesta más
+
+117
+00:08:39,760 --> 00:08:43,680
+fácil es el suspender la metformina y cambiarlo por algunos de los
+
+118
+00:08:43,680 --> 00:08:48,280
+medicamentos que sí se puede dejar en contexto de una falla renal que si se
+
+119
+00:08:48,280 --> 00:08:52,480
+acuerdan eran los glp1 fundamentalmente y también me servían
+
+120
+00:08:52,480 --> 00:08:58,300
+los sglut2 pero no funcionaban de manera tan efectiva o eficaz en la
+
+121
+00:08:58,300 --> 00:09:02,440
+falla renal porque justamente funcionaban eliminando azúcar por
+
+122
+00:09:02,440 --> 00:09:08,320
+la orina así que en ese caso la insulina o los agonistas del glp1
+
+123
+00:09:08,320 --> 00:09:14,680
+van a ser la respuesta correcta. En el caso 11 65 años con una hemoglobina
+
+124
+00:09:14,680 --> 00:09:18,440
+glicosilada en 9,5 ya estamos muy mal así que obviamente hay que partirle
+
+125
+00:09:18,440 --> 00:09:22,480
+insulina y está con metformina 500 milígramos dos veces al día está
+
+126
+00:09:22,480 --> 00:09:25,960
+con una dosis muy bajita se podría subir pero por la hemoglobina arriba de
+
+127
+00:09:25,960 --> 00:09:29,640
+9% la respuesta es insulina sin ninguna duda así que quedaría con
+
+128
+00:09:29,640 --> 00:09:34,680
+insulina nph y la metformina se puede mantener sin ningún problema se
+
+129
+00:09:34,720 --> 00:09:38,440
+podría subir también un poquito la dosis a medida que voy ajustando la
+
+130
+00:09:38,440 --> 00:09:43,280
+dosis de insulina nph y bueno espero que hayan aprendido porque esto es lo
+
+131
+00:09:43,280 --> 00:09:46,880
+último que vamos a ver y de ahí directo a hacer hartos ejercicios en
+
+132
+00:09:46,880 --> 00:09:49,760
+las pruebas que estén bien.',
+    'Esta cápsula es de integración. Vamos a aplicar todo lo aprendido sobre el tratamiento de la diabetes a través de una serie de casos clínicos que reproducen el estilo de pregunta habitual del EUNACOM. El objetivo es que desarrollen el razonamiento clínico que les permita resolver estos escenarios con seguridad y rapidez.
+
+**Caso 1.** Paciente de 68 años con metformina 850 mg cada 8 horas y hemoglobina glicosilada del 8%. Con metformina en dosis máxima y HbA1c sobre el objetivo de 7% que corresponde a su edad, la conducta es agregar un segundo hipoglicemiante. La pregunta es cuál. A los 68 años el riesgo de hipoglicemia empieza a ser relevante, por lo que si los recursos lo permiten, se prefiere una gliptina como la sitagliptina. Si no hay recursos disponibles, la glibenclamida es aceptable pero con vigilancia.
+
+**Caso 2.** Paciente de 77 años en metformina 850 mg cada 12 horas más glibenclamida 5 mg cada 12 horas, con hemoglobina glicosilada del 6,5%. A los 77 años el objetivo de HbA1c es menor al 8%, no al 7%. Con HbA1c de 6,5%, este paciente está demasiado bien controlado para su edad: hay riesgo de hipoglicemia. La conducta más adecuada es **suspender la glibenclamida**. Se podría compensar subiendo la metformina a tres veces al día para mantener control, pero lo crítico es retirar el fármaco que genera hipoglicemia en un adulto mayor.',
+    '["En mayores de 75 años el objetivo de HbA1c es < 8%; un control excesivamente estricto es tan peligroso como el mal control, por el riesgo de hipoglicemia.","La glibenclamida está contraindicada en adultos mayores, en pacientes con hipoglicemias previas y en falla renal o cardíaca grave.","Una HbA1c > 9% obliga a iniciar insulina independientemente del tratamiento previo; no se esperan más escalones de hipoglicemiantes.","En paciente joven con mal control + autoinmunidad (hipotiroidismo, artritis reumatoide) + diabetes resistente a metformina, siempre sospechar LADA y estudiar con péptido C y anticuerpos.","Creatinina ≥ 1,5 mg/dL o clearance < 30 mL/min contraindican la metformina; en ese contexto, la insulina o los agonistas GLP-1 son las alternativas más seguras."]'::jsonb,
+    '[{"para":"\"HbA1c > 9% = insulina AHORA\":","nemotecnia":"\"HbA1c > 9% = insulina AHORA\":","explicacion":"No importa si está con uno o dos hipoglicemiantes, si recién fue diagnosticado o lleva años. Cuando la HbA1c supera el 9%, la insulina no admite demoras.\nNo importa si está con uno o dos hipoglicemiantes, si recién fue diagnosticado o lleva años. Cuando la HbA1c supera el 9%, la insulina no admite demoras."},{"para":"\"Adulto mayor + glibenclamida = alarma roja\":","nemotecnia":"\"Adulto mayor + glibenclamida = alarma roja\":","explicacion":"En mayores de 75 años la glibenclamida es peligrosa. Si la ven en un adulto mayor con buen control, suspendan. Si la ven con mal control, cambien a otra alternativa.En mayores de 75 años la glibenclamida es peligrosa. Si la ven en un adulto mayor con buen control, suspendan. Si la ven con mal control, cambien a otra alternativa."},{"para":"\"Autoinmunidad + joven + resistente a orales = ¡LADA!\":","nemotecnia":"\"Autoinmunidad + joven + resistente a orales = ¡LADA!\":","explicacion":"Cuando un adulto joven con otra enfermedad autoinmune no responde a la metformina y tiene hiperglicemia severa, no es una diabetes tipo 2 difícil de controlar: probablemente es una LADA. Pidan anticuerpos.Cuando un adulto joven con otra enfermedad autoinmune no responde a la metformina y tiene hiperglicemia severa, no es una diabetes tipo 2 difícil de controlar: probablemente es una LADA. Pidan anticuerpos."}]'::jsonb,
+    '["En mayores de 75 años el objetivo de HbA1c es < 8%; un control excesivamente estricto es tan peligroso como el mal control, por el riesgo de hipoglicemia.","La glibenclamida está contraindicada en adultos mayores, en pacientes con hipoglicemias previas y en falla renal o cardíaca grave.","Una HbA1c > 9% obliga a iniciar insulina independientemente del tratamiento previo; no se esperan más escalones de hipoglicemiantes."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones es correcta?","respuesta":"Respuesta correcta: C — La combinación de edad joven, enfermedad autoinmune concomitante y diabetes severamente mal controlada resistente a metformina es el escenario clásico de diabetes LADA; la conducta inmediata es insulina, y el estudio con péptido C y anticuerpos confirma el diagnóstico."}]'::jsonb,
     NOW(),
     TRUE,
     FALSE  -- first 3 free preview
@@ -10539,5 +13398,1726 @@ Las hipoglicemias provocadas son aquellas que tienen una causa farmacológica cl
     ai_processed_at  = NOW(),
     is_available     = TRUE;
 
-  RAISE NOTICE 'Diabetes lessons seeded: 16 lessons';
+  -- Cápsula 22: Tratamiento de las Dislipidemias — Enfoque Práctico y Estratificación de Riesgo
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Tratamiento de las Dislipidemias — Enfoque Práctico y Estratificación de Riesgo',
+    22,
+    709,
+    'Hola, hola, ¿cómo están? Hablemos del manejo de las dilipidemias y dentro de él vamos a ver qué
+
+son las dilipidemias y todo ese tipo de cosas que son importantes más allá del manejo. Ahora,
+
+a grandes rasgos, el tratamiento no farmacológico hay que indicarlo siempre. De hecho,
+
+la vida sana, la dieta, el ejercicio, es algo que no solamente aplica a las
+
+personas con enfermedades, sino que a todas las personas en general. En el caso de la
+
+hipercolesterolemia LDL, que es la más mala de todas por su caso, habitualmente se le deja
+
+una dieta baja en grasas saturadas, dado que no solamente el colesterol que se consume,
+
+sino que en particular las grasas saturadas es lo que más eleva los niveles de LDL. Ahora,
+
+hay que ir a buscar, además, dentro de otras causas secundarias, el hipotiroidismo. El
+
+hipotiroidismo habitualmente se asocia a la hipercolesterolemia LDL al punto que alguien
+
+con dilipidemia y un hipotiroidismo subclínico hay que tratar el hipotiroidismo
+
+subclínico. Siguiendo acá, la hipertriliseridemia y la hipocolesterolemia HDL, o simplemente el
+
+HDL bajo que se llama, habitualmente son causados por resistencia a la insulina,
+
+así que si se le deja alguna dieta, es una dieta baja en azúcares refinados, baja en
+
+carbohidratos de absorción rápida por el general. Como cosa importante, además, es muy
+
+importante reducir el alcohol. De hecho, alguien con una hipertriliseridemia alta,
+
+si es que está muy alta, no solamente que tiene riesgo de pancreatitis, sino que al estar con
+
+consumo de alcohol que me eleva los triglicéridos, el consumo de alcohol per se me aumenta el
+
+riesgo de pancreatitis también. Así que muchas veces la primera medida en alguien con
+
+una hipertriliseridemia grave es suspender el alcohol, como la medida más urgente,
+
+y además la hipertriliseridemia suele responder bastante mejor que las
+
+hipercolesterolemia al cambio en el estilo de vida. De hecho, son como bien agradecidas
+
+de que uno haga dieta, la verdad. Respecto a los fármacos que uno usa, pues la verdad es que
+
+todos los fármacos hipolipemiantes sirven en todas las dilipidemias. Así que quede bien
+
+claro, la evidencia dice que las estatinas, los fibratos, el ácido nicotínico, la resina,
+
+el cetemib, etcétera, todos sirven para el manejo de todas las dilipidemias, para el
+
+LDL alto, los triglicéridos altos y el HDL bajo. Hay algunos que sirven más para uno o
+
+más para otros, pero sepan que la regla general es que las estatinas lo que más hacen es bajar
+
+el LDL, aunque también tienen impacto en mejorar los triglicéridos y el HDL. Ahora,
+
+cuando las estatinas no sirven o no son suficientes, ejemplo en una hipertriliseridemia
+
+familiar o bien cuando están contraindicadas porque hacen una randomiólisis, por ejemplo,
+
+en ese caso para el LDL sirve el cetemib. Acuérdense que el cetemib es un medicamento
+
+que evita la absorción en específico del colesterol a nivel intestinal. No es lo
+
+mismo que las resinas. Las resinas lo que hacen es absorber los lípidos en general y me las
+
+bajan todas, pero el cetemib es específico para el colesterol LDL y de hecho su impacto
+
+en los otros lípidos es bastante menor. Respecto a los triglicéridos lo que más
+
+se usa son los fibratos, al menos como un medicamento específico para la hipertriliseridemia,
+
+pero en la práctica, dado que la prioridad es el LDL, en la práctica la inmensa mayoría
+
+de las hipertriliseridemias se manejan en verdad con estatinas manejando simultáneamente
+
+el LDL, pero repito, los fibratos inciden mayormente en los triglicéridos, así que
+
+serían de elección en una hipertriliseridemia muy severa, por ejemplo, que lo vamos a ver
+
+ahora pronto. En el caso del HDL bajo lo que más sirve es la niacina, que es lo
+
+mismo que el ácido nicotínico, pero sepan que en verdad no hay tanta evidencia respecto
+
+a su utilidad, así que si bien mejoran los niveles de HDL y los elevan, que lo
+
+bueno en este caso es que estén alto, la verdad es que no se ha demostrado que
+
+eso sirva para algo desde el punto de vista clínico. Ahora, ¿cuál es la prioridad
+
+del manejo de las dilipidemias en el sentido en que con mucha frecuencia no
+
+solamente tiene un lípido malo, sino que varios de estos lípidos malos? Es el LDL,
+
+el bajar el LDL es siempre lo más importante, así que habitualmente se maneja con
+
+estatinas. Ahora, luego vienen los triglicéridos y finalmente el HDL, sabiendo que el
+
+manejo del HDL habitualmente es el manejo de los otros lípidos, porque no hay
+
+evidencia que manejarlo de manera específica sirva para algo. Hay una gran
+
+excepción que son los triglicéridos arriba de 500, esto no tiene tanta
+
+evidencia científica, de hecho hay gente que dice que aunque estén arriba de
+
+500 hay que manejar el LDL igual, pero la recomendación más general es que
+
+cuando están arriba de 500 hay que partir con fibratos porque ahí el
+
+riesgo de la pancretitis sería un poquito más alto al riesgo de los
+
+infartos a largo plazo del LDL. Ahora, cuando yo inicie un fármaco la
+
+verdad es que va a depender de varias cosas, en el caso del LDL alto
+
+de la hipercolesterolemia LDL, lo primero antes de ver si es que vaya a
+
+partir un fármaco o no, es determinar el riesgo cardiovascular y eso se hace
+
+con el score de Framingham viendo los distintos factores de riesgo,
+
+cierto, y de esa manera se calcula finalmente cuál es su factor de
+
+riesgo, cuál es su nivel de riesgo, perdón, y si es que tiene un riesgo
+
+cardiovascular alto o muy alto, arriba de 20% de probabilidad de tener un
+
+infarto de aquí a 10 años, eso se considera alto, o bien si es que es
+
+moderado, entre 10 y 20%, o bien si es que es bajo, menor a 10% de riesgo de un
+
+infarto de aquí a 10 años, es la forma en que yo voy a determinar el
+
+objetivo de los niveles del LDL, de manera de determinar igualmente si es
+
+que le dejo estatinas o no. Ahora, ¿se dejan estatinas sí o no? En el caso
+
+del riesgo cardiovascular alto la verdad es que se dejan estatinas
+
+siempre, independiente de los niveles de LDL, aunque los LDL estén muy
+
+bajos, que sería muy raro que simultáneamente tuviera un riesgo
+
+cardiovascular tan alto, pero en ese caso le dejo estatinas igual, sabiendo que
+
+el óptimo ahí va a ser que tenga un LDL bajo 70. Si es que es moderado, la
+
+verdad que lo más probable es que va a quedar con estatinas igual, en este
+
+caso ya no es obligatorio, sino que se evalúa el riesgo beneficio con
+
+el paciente, pero se le ofrece, y el objetivo ideal del LDL va a ser
+
+bajo 100, bajo 130 sale en algunas partes, pero actualmente se se prefiere
+
+dejar las estatinas nomás porque son baratas, son seguras, y la verdad es que
+
+son bien toleradas por el paciente y disminuye el riesgo. Y finalmente, si
+
+el riesgo cardiovascular es bajo, en ese caso las estatinas por el
+
+general no se dan, a menos claro que el LDL está demasiado alto, arriba
+
+de 190, ahí de entrada parto con estatinas, o bien cuando está arriba
+
+de 160 después de tres meses de dieta. O sea, en resumen, las estatinas van
+
+casi siempre en riesgo alto, en riesgo moderado, y en el riesgo bajo solamente
+
+cuando está arriba de 60 y no responde, o cuando está arriba de 190.
+
+Ese es como el gran resumen. Ahora, en el caso de los triliséridos altos,
+
+por el general yo siempre empiezo con dieta y con el suspender el hábito
+
+alcohólico, recordando que responde bastante bien, y si es que no anda
+
+bien, pues ahí recién voy a ver si es que está arriba de 500, en ese caso le
+
+dejo un fibrato, sabiendo que los fibratos que se usan habitualmente son
+
+el genfibrocilo y el fenofibrato. En cambio, si es que está abajo de
+
+500, por el general voy a ir a ver el LDL. Si es que el LDL está
+
+alto, en ese caso manda el LDL, así que le voy a dejar estatinas. Así que
+
+en resumen, número uno siempre es la intervención no farmacológica. Ahora,
+
+obviamente, si es que ya hacía una buena dieta y no consumía tanto alcohol,
+
+si está arriba de 500, voy directamente a los fibratos. Volvamos acá a la
+
+arriba de 500. En general, el riesgo de pancreatitis empieza a disparar desde
+
+500 hacia arriba, pero es muy raro si es que está bajo 1000 o bajo 1500,
+
+la verdad. En cambio, arriba de 1000 o 1500, el riesgo ya es muchísimo más
+
+alto, así que ahí incluso, si es que está arriba de 1500 o 1600, eventualmente
+
+se hospitaliza y se maneja con insulina, en el sentido en que eso es algo que
+
+baja también muy rápido la trigliceridemia. Siguiendo acá, ¿qué cosa
+
+pasa si es que estuviera con triglicéridos menor a 500? O sea, uno
+
+dice, hasta ahí al menos per se, no voy con los fibratos al tiro, con un
+
+LDL que está normal, así que tampoco me da mucha gana de darle
+
+estatina por el LDL y con un riesgo cardiovascular que está bajo, así que
+
+tampoco tiene indicación de estatina ahí per se. Bueno, en ese caso evaluo si
+
+luego hay fibratos o no. Si le dejo solamente dieta o si es que le dejo un
+
+fibrato además en el caso de que no ande bien con la dieta. Dejando bien
+
+claro esto, no hay tanta evidencia de que los fibratos disminuyan
+
+efectivamente las complicaciones de la hipertrigliceridemia, así que se
+
+dejan cuando hay riesgos de pancreatitis, pero desde el punto de
+
+vista del riesgo cardiovascular, el impacto de los triglicéridos no es tan
+
+grande y por lo mismo es que el LDL es la prioridad casi siempre. Un poquito
+
+enredado, pero espero que seáis entendidos. Ahora, respecto al HDL
+
+bajo, en ese caso no hay evidencia de que el manejo dirigido sirva para
+
+algo, así que en la práctica lo que uno hace es manejar el LDL que es
+
+lo más importante, los triglicéridos y obviamente la resistencia a la
+
+insulina que suele ser la causa tanto de la hipertrigliceridemia como del
+
+HDL bajo. Ahora, recuerden que el objetivo del HDL es que sea mayor a
+
+50 en las mujeres y mayor a 40 en los hombres y a las personas que está
+
+arriba de 60, por lo que la general es un factor protector, así que mucho
+
+cuidado cuando alguien llega con o tengo el colesterol muy alto, porque
+
+si es el colesterol total, la verdad queda absolutamente igual, lo que
+
+importa en ese caso es ver cómo está el LDL, cómo ',
+    '1
+00:00:03,150 --> 00:00:07,910
+Hola, hola, ¿cómo están? Hablemos del manejo de las dilipidemias y dentro de él vamos a ver qué
+
+2
+00:00:07,910 --> 00:00:12,270
+son las dilipidemias y todo ese tipo de cosas que son importantes más allá del manejo. Ahora,
+
+3
+00:00:12,270 --> 00:00:16,630
+a grandes rasgos, el tratamiento no farmacológico hay que indicarlo siempre. De hecho,
+
+4
+00:00:16,630 --> 00:00:20,190
+la vida sana, la dieta, el ejercicio, es algo que no solamente aplica a las
+
+5
+00:00:20,190 --> 00:00:24,470
+personas con enfermedades, sino que a todas las personas en general. En el caso de la
+
+6
+00:00:24,470 --> 00:00:30,310
+hipercolesterolemia LDL, que es la más mala de todas por su caso, habitualmente se le deja
+
+7
+00:00:30,310 --> 00:00:35,270
+una dieta baja en grasas saturadas, dado que no solamente el colesterol que se consume,
+
+8
+00:00:35,270 --> 00:00:41,750
+sino que en particular las grasas saturadas es lo que más eleva los niveles de LDL. Ahora,
+
+9
+00:00:41,750 --> 00:00:46,070
+hay que ir a buscar, además, dentro de otras causas secundarias, el hipotiroidismo. El
+
+10
+00:00:46,070 --> 00:00:51,830
+hipotiroidismo habitualmente se asocia a la hipercolesterolemia LDL al punto que alguien
+
+11
+00:00:51,830 --> 00:00:55,750
+con dilipidemia y un hipotiroidismo subclínico hay que tratar el hipotiroidismo
+
+12
+00:00:55,830 --> 00:01:03,550
+subclínico. Siguiendo acá, la hipertriliseridemia y la hipocolesterolemia HDL, o simplemente el
+
+13
+00:01:03,550 --> 00:01:08,470
+HDL bajo que se llama, habitualmente son causados por resistencia a la insulina,
+
+14
+00:01:08,470 --> 00:01:13,470
+así que si se le deja alguna dieta, es una dieta baja en azúcares refinados, baja en
+
+15
+00:01:13,470 --> 00:01:18,390
+carbohidratos de absorción rápida por el general. Como cosa importante, además, es muy
+
+16
+00:01:18,390 --> 00:01:22,710
+importante reducir el alcohol. De hecho, alguien con una hipertriliseridemia alta,
+
+17
+00:01:22,910 --> 00:01:27,750
+si es que está muy alta, no solamente que tiene riesgo de pancreatitis, sino que al estar con
+
+18
+00:01:27,750 --> 00:01:31,830
+consumo de alcohol que me eleva los triglicéridos, el consumo de alcohol per se me aumenta el
+
+19
+00:01:31,830 --> 00:01:35,910
+riesgo de pancreatitis también. Así que muchas veces la primera medida en alguien con
+
+20
+00:01:35,910 --> 00:01:41,750
+una hipertriliseridemia grave es suspender el alcohol, como la medida más urgente,
+
+21
+00:01:41,750 --> 00:01:45,950
+y además la hipertriliseridemia suele responder bastante mejor que las
+
+22
+00:01:45,950 --> 00:01:50,550
+hipercolesterolemia al cambio en el estilo de vida. De hecho, son como bien agradecidas
+
+23
+00:01:50,550 --> 00:01:56,350
+de que uno haga dieta, la verdad. Respecto a los fármacos que uno usa, pues la verdad es que
+
+24
+00:01:56,350 --> 00:02:01,790
+todos los fármacos hipolipemiantes sirven en todas las dilipidemias. Así que quede bien
+
+25
+00:02:01,790 --> 00:02:06,950
+claro, la evidencia dice que las estatinas, los fibratos, el ácido nicotínico, la resina,
+
+26
+00:02:06,950 --> 00:02:12,150
+el cetemib, etcétera, todos sirven para el manejo de todas las dilipidemias, para el
+
+27
+00:02:12,150 --> 00:02:18,030
+LDL alto, los triglicéridos altos y el HDL bajo. Hay algunos que sirven más para uno o
+
+28
+00:02:18,030 --> 00:02:24,430
+más para otros, pero sepan que la regla general es que las estatinas lo que más hacen es bajar
+
+29
+00:02:24,430 --> 00:02:30,230
+el LDL, aunque también tienen impacto en mejorar los triglicéridos y el HDL. Ahora,
+
+30
+00:02:30,230 --> 00:02:36,550
+cuando las estatinas no sirven o no son suficientes, ejemplo en una hipertriliseridemia
+
+31
+00:02:36,550 --> 00:02:41,630
+familiar o bien cuando están contraindicadas porque hacen una randomiólisis, por ejemplo,
+
+32
+00:02:41,630 --> 00:02:48,830
+en ese caso para el LDL sirve el cetemib. Acuérdense que el cetemib es un medicamento
+
+33
+00:02:48,830 --> 00:02:53,670
+que evita la absorción en específico del colesterol a nivel intestinal. No es lo
+
+34
+00:02:53,670 --> 00:02:59,510
+mismo que las resinas. Las resinas lo que hacen es absorber los lípidos en general y me las
+
+35
+00:02:59,510 --> 00:03:04,990
+bajan todas, pero el cetemib es específico para el colesterol LDL y de hecho su impacto
+
+36
+00:03:04,990 --> 00:03:10,550
+en los otros lípidos es bastante menor. Respecto a los triglicéridos lo que más
+
+37
+00:03:10,550 --> 00:03:15,390
+se usa son los fibratos, al menos como un medicamento específico para la hipertriliseridemia,
+
+38
+00:03:15,390 --> 00:03:21,750
+pero en la práctica, dado que la prioridad es el LDL, en la práctica la inmensa mayoría
+
+39
+00:03:21,750 --> 00:03:26,670
+de las hipertriliseridemias se manejan en verdad con estatinas manejando simultáneamente
+
+40
+00:03:26,670 --> 00:03:33,110
+el LDL, pero repito, los fibratos inciden mayormente en los triglicéridos, así que
+
+41
+00:03:33,110 --> 00:03:36,910
+serían de elección en una hipertriliseridemia muy severa, por ejemplo, que lo vamos a ver
+
+42
+00:03:36,910 --> 00:03:42,630
+ahora pronto. En el caso del HDL bajo lo que más sirve es la niacina, que es lo
+
+43
+00:03:42,630 --> 00:03:47,350
+mismo que el ácido nicotínico, pero sepan que en verdad no hay tanta evidencia respecto
+
+44
+00:03:47,350 --> 00:03:53,390
+a su utilidad, así que si bien mejoran los niveles de HDL y los elevan, que lo
+
+45
+00:03:53,390 --> 00:03:57,630
+bueno en este caso es que estén alto, la verdad es que no se ha demostrado que
+
+46
+00:03:57,630 --> 00:04:01,910
+eso sirva para algo desde el punto de vista clínico. Ahora, ¿cuál es la prioridad
+
+47
+00:04:01,910 --> 00:04:06,230
+del manejo de las dilipidemias en el sentido en que con mucha frecuencia no
+
+48
+00:04:06,230 --> 00:04:11,950
+solamente tiene un lípido malo, sino que varios de estos lípidos malos? Es el LDL,
+
+49
+00:04:11,950 --> 00:04:17,270
+el bajar el LDL es siempre lo más importante, así que habitualmente se maneja con
+
+50
+00:04:17,270 --> 00:04:23,710
+estatinas. Ahora, luego vienen los triglicéridos y finalmente el HDL, sabiendo que el
+
+51
+00:04:23,710 --> 00:04:27,670
+manejo del HDL habitualmente es el manejo de los otros lípidos, porque no hay
+
+52
+00:04:27,670 --> 00:04:32,070
+evidencia que manejarlo de manera específica sirva para algo. Hay una gran
+
+53
+00:04:32,070 --> 00:04:36,350
+excepción que son los triglicéridos arriba de 500, esto no tiene tanta
+
+54
+00:04:36,350 --> 00:04:40,950
+evidencia científica, de hecho hay gente que dice que aunque estén arriba de
+
+55
+00:04:40,950 --> 00:04:46,270
+500 hay que manejar el LDL igual, pero la recomendación más general es que
+
+56
+00:04:46,270 --> 00:04:49,630
+cuando están arriba de 500 hay que partir con fibratos porque ahí el
+
+57
+00:04:49,630 --> 00:04:52,910
+riesgo de la pancretitis sería un poquito más alto al riesgo de los
+
+58
+00:04:52,910 --> 00:04:57,510
+infartos a largo plazo del LDL. Ahora, cuando yo inicie un fármaco la
+
+59
+00:04:57,510 --> 00:05:01,230
+verdad es que va a depender de varias cosas, en el caso del LDL alto
+
+60
+00:05:01,230 --> 00:05:05,070
+de la hipercolesterolemia LDL, lo primero antes de ver si es que vaya a
+
+61
+00:05:05,070 --> 00:05:09,830
+partir un fármaco o no, es determinar el riesgo cardiovascular y eso se hace
+
+62
+00:05:09,830 --> 00:05:12,630
+con el score de Framingham viendo los distintos factores de riesgo,
+
+63
+00:05:12,630 --> 00:05:16,470
+cierto, y de esa manera se calcula finalmente cuál es su factor de
+
+64
+00:05:16,470 --> 00:05:21,150
+riesgo, cuál es su nivel de riesgo, perdón, y si es que tiene un riesgo
+
+65
+00:05:21,150 --> 00:05:26,390
+cardiovascular alto o muy alto, arriba de 20% de probabilidad de tener un
+
+66
+00:05:26,390 --> 00:05:30,470
+infarto de aquí a 10 años, eso se considera alto, o bien si es que es
+
+67
+00:05:30,470 --> 00:05:35,910
+moderado, entre 10 y 20%, o bien si es que es bajo, menor a 10% de riesgo de un
+
+68
+00:05:35,910 --> 00:05:38,990
+infarto de aquí a 10 años, es la forma en que yo voy a determinar el
+
+69
+00:05:38,990 --> 00:05:44,350
+objetivo de los niveles del LDL, de manera de determinar igualmente si es
+
+70
+00:05:44,350 --> 00:05:49,750
+que le dejo estatinas o no. Ahora, ¿se dejan estatinas sí o no? En el caso
+
+71
+00:05:49,750 --> 00:05:53,030
+del riesgo cardiovascular alto la verdad es que se dejan estatinas
+
+72
+00:05:53,030 --> 00:05:58,150
+siempre, independiente de los niveles de LDL, aunque los LDL estén muy
+
+73
+00:05:58,150 --> 00:06:03,790
+bajos, que sería muy raro que simultáneamente tuviera un riesgo
+
+74
+00:06:03,790 --> 00:06:08,230
+cardiovascular tan alto, pero en ese caso le dejo estatinas igual, sabiendo que
+
+75
+00:06:08,230 --> 00:06:14,350
+el óptimo ahí va a ser que tenga un LDL bajo 70. Si es que es moderado, la
+
+76
+00:06:14,350 --> 00:06:17,310
+verdad que lo más probable es que va a quedar con estatinas igual, en este
+
+77
+00:06:17,310 --> 00:06:20,390
+caso ya no es obligatorio, sino que se evalúa el riesgo beneficio con
+
+78
+00:06:20,390 --> 00:06:25,150
+el paciente, pero se le ofrece, y el objetivo ideal del LDL va a ser
+
+79
+00:06:25,150 --> 00:06:31,350
+bajo 100, bajo 130 sale en algunas partes, pero actualmente se se prefiere
+
+80
+00:06:31,350 --> 00:06:35,110
+dejar las estatinas nomás porque son baratas, son seguras, y la verdad es que
+
+81
+00:06:35,110 --> 00:06:38,710
+son bien toleradas por el paciente y disminuye el riesgo. Y finalmente, si
+
+82
+00:06:38,710 --> 00:06:42,870
+el riesgo cardiovascular es bajo, en ese caso las estatinas por el
+
+83
+00:06:42,870 --> 00:06:46,990
+general no se dan, a menos claro que el LDL está demasiado alto, arriba
+
+84
+00:06:46,990 --> 00:06:52,150
+de 190, ahí de entrada parto con estatinas, o bien cuando está arriba
+
+85
+00:06:52,190 --> 00:06:56,830
+de 160 después de tres meses de dieta. O sea, en resumen, las estatinas van
+
+86
+00:06:56,830 --> 00:07:01,630
+casi siempre en riesgo alto, en riesgo moderado, y en el riesgo bajo solamente
+
+87
+00:07:01,630 --> 00:07:06,590
+cuando está arriba de 60 y no responde, o cuando está arriba de 190.
+
+88
+00:07:06,590 --> 00:07:10,830
+Ese es como el gran resumen. Ahora, en el caso de los triliséridos altos,
+
+89
+00:07:10,830 --> 00:07:15,750
+por el general yo siempre empiezo con dieta y con el suspender el hábito
+
+90
+00:07:15,750 --> 00:07:19,630
+alcohólico, recordando que responde bastante bien, y si es que no anda
+
+91
+00:07:19,670 --> 00:07:23,950
+bien, pues ahí recién voy a ver si es que está arriba de 500, en ese caso le
+
+92
+00:07:23,950 --> 00:07:29,430
+dejo un fibrato, sabiendo que los fibratos que se usan habitualmente son
+
+93
+00:07:29,430 --> 00:07:34,390
+el genfibrocilo y el fenofibrato. En cambio, si es que está abajo de
+
+94
+00:07:34,390 --> 00:07:39,790
+500, por el general voy a ir a ver el LDL. Si es que el LDL está
+
+95
+00:07:39,790 --> 00:07:44,750
+alto, en ese caso manda el LDL, así que le voy a dejar estatinas. Así que
+
+96
+00:07:44,870 --> 00:07:49,670
+en resumen, número uno siempre es la intervención no farmacológica. Ahora,
+
+97
+00:07:49,670 --> 00:07:53,710
+obviamente, si es que ya hacía una buena dieta y no consumía tanto alcohol,
+
+98
+00:07:53,710 --> 00:07:58,950
+si está arriba de 500, voy directamente a los fibratos. Volvamos acá a la
+
+99
+00:07:58,950 --> 00:08:02,910
+arriba de 500. En general, el riesgo de pancreatitis empieza a disparar desde
+
+100
+00:08:02,910 --> 00:08:07,830
+500 hacia arriba, pero es muy raro si es que está bajo 1000 o bajo 1500,
+
+101
+00:08:07,830 --> 00:08:11,910
+la verdad. En cambio, arriba de 1000 o 1500, el riesgo ya es muchísimo más
+
+102
+00:08:11,910 --> 00:08:18,190
+alto, así que ahí incluso, si es que está arriba de 1500 o 1600, eventualmente
+
+103
+00:08:18,190 --> 00:08:22,310
+se hospitaliza y se maneja con insulina, en el sentido en que eso es algo que
+
+104
+00:08:22,310 --> 00:08:27,790
+baja también muy rápido la trigliceridemia. Siguiendo acá, ¿qué cosa
+
+105
+00:08:27,790 --> 00:08:32,270
+pasa si es que estuviera con triglicéridos menor a 500? O sea, uno
+
+106
+00:08:32,270 --> 00:08:36,870
+dice, hasta ahí al menos per se, no voy con los fibratos al tiro, con un
+
+107
+00:08:36,870 --> 00:08:40,750
+LDL que está normal, así que tampoco me da mucha gana de darle
+
+108
+00:08:40,750 --> 00:08:44,870
+estatina por el LDL y con un riesgo cardiovascular que está bajo, así que
+
+109
+00:08:44,870 --> 00:08:50,350
+tampoco tiene indicación de estatina ahí per se. Bueno, en ese caso evaluo si
+
+110
+00:08:50,350 --> 00:08:54,630
+luego hay fibratos o no. Si le dejo solamente dieta o si es que le dejo un
+
+111
+00:08:54,630 --> 00:08:58,070
+fibrato además en el caso de que no ande bien con la dieta. Dejando bien
+
+112
+00:08:58,070 --> 00:09:01,950
+claro esto, no hay tanta evidencia de que los fibratos disminuyan
+
+113
+00:09:01,950 --> 00:09:05,590
+efectivamente las complicaciones de la hipertrigliceridemia, así que se
+
+114
+00:09:05,590 --> 00:09:08,430
+dejan cuando hay riesgos de pancreatitis, pero desde el punto de
+
+115
+00:09:08,430 --> 00:09:11,830
+vista del riesgo cardiovascular, el impacto de los triglicéridos no es tan
+
+116
+00:09:11,830 --> 00:09:16,230
+grande y por lo mismo es que el LDL es la prioridad casi siempre. Un poquito
+
+117
+00:09:16,230 --> 00:09:20,510
+enredado, pero espero que seáis entendidos. Ahora, respecto al HDL
+
+118
+00:09:20,510 --> 00:09:26,830
+bajo, en ese caso no hay evidencia de que el manejo dirigido sirva para
+
+119
+00:09:26,830 --> 00:09:31,270
+algo, así que en la práctica lo que uno hace es manejar el LDL que es
+
+120
+00:09:31,270 --> 00:09:34,790
+lo más importante, los triglicéridos y obviamente la resistencia a la
+
+121
+00:09:34,790 --> 00:09:38,430
+insulina que suele ser la causa tanto de la hipertrigliceridemia como del
+
+122
+00:09:38,430 --> 00:09:43,990
+HDL bajo. Ahora, recuerden que el objetivo del HDL es que sea mayor a
+
+123
+00:09:43,990 --> 00:09:47,790
+50 en las mujeres y mayor a 40 en los hombres y a las personas que está
+
+124
+00:09:47,790 --> 00:09:52,630
+arriba de 60, por lo que la general es un factor protector, así que mucho
+
+125
+00:09:52,630 --> 00:09:56,990
+cuidado cuando alguien llega con o tengo el colesterol muy alto, porque
+
+126
+00:09:56,990 --> 00:10:00,790
+si es el colesterol total, la verdad queda absolutamente igual, lo que
+
+127
+00:10:00,790 --> 00:10:04,570
+importa en ese caso es ver cómo está el LDL, cómo está el
+
+128
+00:10:04,570 --> 00:10:08,390
+triglicérido y cómo está el HDL, porque si es que yo tengo una
+
+129
+00:10:08,390 --> 00:10:13,670
+hipercolesterolemia total a expensas solamente de HDL, eso es bueno, no es
+
+130
+00:10:13,670 --> 00:10:19,470
+malo, sino que es un factor protector. Ahora, veamos el listado de las cosas
+
+131
+00:10:19,470 --> 00:10:24,550
+que tienen un riesgo cardiovascular máximo o muy alto por el solo hecho
+
+132
+00:10:24,550 --> 00:10:27,670
+de existir y son todas las cosas que se relacionan a enfermedad
+
+133
+00:10:27,670 --> 00:10:31,750
+coronaria, dígase un infarto previo, o que se haya demostrado enfermedad
+
+134
+00:10:31,750 --> 00:10:34,870
+coronaria en una coronareografía, en un test de esfuerzo, con una gina
+
+135
+00:10:34,870 --> 00:10:39,670
+crónica, aunque no haya tenido un infarto previo, eso es número uno. Dos, todos
+
+136
+00:10:39,670 --> 00:10:43,230
+los equivalentes coronarios que son las otras arterias que están enfermas,
+
+137
+00:10:43,230 --> 00:10:47,550
+las otras arterias que están tapadas, dígase un anurisma de la horta
+
+138
+00:10:47,550 --> 00:10:51,390
+abdominal, porque acuérdense que el anurisma órtico es causado
+
+139
+00:10:51,390 --> 00:10:54,470
+habitualmente por una placa ateromatosa, lo mismo que la
+
+140
+00:10:54,470 --> 00:10:58,030
+claudicación intermitente o la enfermedad arterial periférica, peor
+
+141
+00:10:58,030 --> 00:11:03,510
+todavía si es que es una isquemia crítica, la enfermedad de las carótidas,
+
+142
+00:11:03,510 --> 00:11:08,030
+la enfermedad carotidia, obviamente de causa arteriosclerótica, y
+
+143
+00:11:08,030 --> 00:11:11,430
+finalmente la diabetes y la subrayo acá, porque la diabetes mellitus
+
+144
+00:11:11,430 --> 00:11:15,910
+tiene un riesgo muy muy similar a haber tenido un infarto previo para el
+
+145
+00:11:15,910 --> 00:11:19,750
+riesgo de tener uno de infarto, así que en la práctica, cualquiera que
+
+146
+00:11:19,750 --> 00:11:23,710
+tenga cualquiera de esas cosas, va a quedar con estatina sí o sí, va a
+
+147
+00:11:23,710 --> 00:11:29,230
+quedar con un objetivo de LDL de menos de 70, así que lo más probable es que
+
+148
+00:11:29,230 --> 00:11:33,390
+va a quedar con una dosis de estatina relativamente alta, así ejemplo
+
+149
+00:11:33,390 --> 00:11:37,910
+atorvastatina entre 40 y 80 milígramos al día, y va a quedar con
+
+150
+00:11:37,910 --> 00:11:41,430
+aspirina obviamente para reducir el riesgo de infarto también, y bueno
+
+151
+00:11:41,430 --> 00:11:45,710
+eso fue Dilipidemia al menos del manejo general, en otro vídeo vamos a ver
+
+152
+00:11:45,710 --> 00:11:49,150
+algunos detalles o algunas cosas un poquito más específicas, así que ahí
+
+153
+00:11:49,150 --> 00:11:51,830
+nos vemos, que estén bien.',
+    'En esta cápsula abordaremos el manejo de las dislipidemias, un tema que combina epidemiología cardiovascular, farmacología y criterios de tratamiento basados en evidencia. Es un tema frecuente en el EUNACOM y requiere que dominen tanto los conceptos básicos como los umbrales específicos de intervención.
+
+Comencemos con lo más fundamental: el tratamiento no farmacológico es siempre la base, independiente del tipo de dislipidemia y del riesgo cardiovascular del paciente. La dieta y el ejercicio se recomiendan a toda persona, no solo a quienes tienen patología. En la hipercolesterolemia con LDL elevado, la intervención dietética específica es reducir las grasas saturadas, que son el principal estímulo para la síntesis hepática de LDL. Y en este contexto, siempre hay que buscar causas secundarias: el hipotiroidismo es la causa secundaria más frecuente de hipercolesterolemia LDL, y un hipotiroidismo subclínico puede ser el responsable de una dislipidemia que no responde bien al tratamiento estándar.
+
+En la hipertrigliceridemia y el HDL bajo, la causa más frecuente es la resistencia a la insulina. La dieta indicada aquí es baja en azúcares refinados y carbohidratos de absorción rápida. Además, la reducción del consumo de alcohol es una medida prioritaria, porque el alcohol eleva los triglicéridos de manera directa. De hecho, en alguien con triglicéridos muy elevados que consume alcohol regularmente, la primera medida terapéutica más urgente es suspender el alcohol.',
+    '["La prioridad siempre es el LDL. Las estatinas son el fármaco de primera línea. LDL menor a 70 en riesgo alto; menor a 100 en riesgo moderado.","Fibratos (gemfibrozilo, fenofibrato) son la elección específica para triglicéridos elevados, especialmente sobre 500 mg/dL por riesgo de pancreatitis.","Riesgo cardiovascular alto (Framingham >20%): estatinas siempre. Riesgo moderado (10-20%): estatinas habitualmente. Riesgo bajo (<10%): solo si LDL >190 o >160 sin respuesta a dieta.","La diabetes es equivalente a haber tenido un infarto: riesgo cardiovascular máximo → estatinas siempre + objetivo LDL <70 + aspirina.","HDL bajo sin evidencia de beneficio clínico al tratarlo directamente. El objetivo es HDL >40 hombres y >50 mujeres. HDL alto es factor protector, no problema."]'::jsonb,
+    '[{"para":"\"LDL primero SIEMPRE → ESTATINAS. TG >500 → FIBRATOS urgente. HDL bajo → trata lo demás\"","nemotecnia":"\"LDL primero SIEMPRE → ESTATINAS. TG >500 → FIBRATOS urgente. HDL bajo → trata lo demás\"","explicacion":"La jerarquía del manejo lipídico. No hay excepción al orden: LDL es la prioridad salvo triglicéridos mayores a 500 donde el riesgo de pancreatitis urge.\nLa jerarquía del manejo lipídico. No hay excepción al orden: LDL es la prioridad salvo triglicéridos mayores a 500 donde el riesgo de pancreatitis urge."},{"para":"\"DIABÉTICO = RIESGO MÁXIMO = ESTATINA + LDL<70 + ASPIRINA (sin calcular Framingham)\"","nemotecnia":"\"DIABÉTICO = RIESGO MÁXIMO = ESTATINA + LDL<70 + ASPIRINA (sin calcular Framingham)\"","explicacion":"La diabetes tiene el mismo riesgo que un infarto previo. No se necesita Framingham. Va directo a estatinas y objetivo estricto de LDL.La diabetes tiene el mismo riesgo que un infarto previo. No se necesita Framingham. Va directo a estatinas y objetivo estricto de LDL."},{"para":"\"FRAMINGHAM: >20% → estatina siempre. 10-20% → estatina probablemente. <10% → solo si LDL>190\"","nemotecnia":"\"FRAMINGHAM: >20% → estatina siempre. 10-20% → estatina probablemente. <10% → solo si LDL>190\"","explicacion":"Los tres niveles de riesgo cardiovascular y sus umbrales de tratamiento. Fácil de memorizar en tres rangos porcentuales.Los tres niveles de riesgo cardiovascular y sus umbrales de tratamiento. Fácil de memorizar en tres rangos porcentuales."}]'::jsonb,
+    '["La prioridad siempre es el LDL. Las estatinas son el fármaco de primera línea. LDL menor a 70 en riesgo alto; menor a 100 en riesgo moderado.","Fibratos (gemfibrozilo, fenofibrato) son la elección específica para triglicéridos elevados, especialmente sobre 500 mg/dL por riesgo de pancreatitis.","Riesgo cardiovascular alto (Framingham >20%): estatinas siempre. Riesgo moderado (10-20%): estatinas habitualmente. Riesgo bajo (<10%): solo si LDL >190 o >160 sin respuesta a dieta."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones sobre el tratamiento de las dislipidemias es correcta?","respuesta":"Respuesta correcta: D — En riesgo cardiovascular bajo, las estatinas se indican cuando el LDL supera 190 mg/dL de entrada, o cuando supera 160 mg/dL tras tres meses de dieta sin respuesta. Un LDL de 200 sin respuesta a dieta es indicación. Los fibratos se indican con triglicéridos >500 (no 350); la niacina no tiene beneficio cardiovascular demostrado claro; el diabético siempre tiene indicación de estatinas independiente del LDL; y las estatinas actúan inhibiendo la HMG-CoA reductasa hepática (no absorción intestinal, que es el mecanismo del ezetimibe)."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 23: Miopatía por Estatinas — Diagnóstico y Manejo
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Miopatía por Estatinas — Diagnóstico y Manejo',
+    23,
+    344,
+    'Hola, hola. Hablemos de las miopatías por estatinas. Al menos en medicina siempre
+
+nos enseñan que las estatinas tienen riesgos de mialgia, de randomiólisis, de cosas
+
+relacionadas con los músculos, pero adelantemos que son bastante infrecuentes
+
+y que por el general las estatinas son fármacos eficaces, que reducen la
+
+mortalidad por infarto y por patología cardiovascular, y son
+
+bastante seguras, pero sepan que hay dos tipos de miopatías o de síntomas
+
+relacionados a daño muscular por estatinas. Por un lado están las no
+
+severas, dígase miálgias, un poquito de debilidad, y con las secas que pueden
+
+estar absolutamente normales o bien un poquito elevadas, y las otras son las
+
+más severas, que la más importante son la randomiólisis y aparte de eso la
+
+mionecrosis, que puede ser una especie de reacción inmune y que
+
+en el caso de que esté mediada por estatinas, obviamente hay que suspenderlas
+
+En estos dos casos suele venir con la seca muy elevada, y de hecho el solo
+
+hecho que la seca esté muy elevada en contexto del uso de estatinas ya me
+
+hace sospechar fuertemente que hay una complicación severa. Ahora, ¿cuál es
+
+el manejo de esto? Número uno, buscar otra causa. Al menos en las no
+
+severas yo tengo tiempo para buscar una causa antes de suspender las
+
+estatinas, y en ese caso le puedo pedir una TCH en busca de hipotiroidismo,
+
+que es una causa de miopatía bien frecuente, y los niveles de vitamina D
+
+también, que si está bajo eso me puede generar mialgias, etcétera. Ahora, luego
+
+de eso se suspende y veo si es que se mejoran los síntomas, porque si no se
+
+mejoran nunca, obviamente era causado o por una enfermedad
+
+autoinmune, por ejemplo una polimiositis, una polimiaje aromática,
+
+o por alguna cosa que produzca dolor sin nada mucho más grave como
+
+una fibromialgia. Así que es muy importante que antes de creerle al
+
+paciente que la causa de su mialgia son las estatinas, se busque otra causa
+
+y se vea que los síntomas desaparezcan al suspender el medicamento.
+
+Ahora, una vez que se suspenden y que desaparecen lo ideal es iniciar una
+
+estatina diferente, y dentro de esas la fluvastatina, la pravastatina y la
+
+pitavastatina son las que tienen menos riesgo de mialgia por el
+
+general, pero tienen un problema que si bien tienen un bajísimo riesgo de
+
+mialgia no son tan potentes para bajar el LDL, así que muchas veces uno se
+
+queda con la duda acá y si le dejo su bastatina mejor que tiene un poquito
+
+menos de riesgo de mialgia, pero el impacto en el LDL es un poquito
+
+mejor, así que tengo esas dos opciones y la última opción que hay
+
+también es bajarle la dosis. Ejemplo, el sistema público a lo
+
+mejor no haya suficientes recursos como para darle algo diferente a la
+
+atorvastatina, así que en ese caso simplemente si estaba con 80 milígramos
+
+se lo bajo a 40 milígramos y veo cómo va. En el caso de la recurrencia, a
+
+pesar de haber hecho estas cosas, de haber cambiado por una estatina
+
+distinta o haber bajado esta dosis, pues no me queda más que
+
+cambiarme de medicamento al Estimide, que acuérdense que impedía la
+
+absorción a nivel intestinal del LDL, así que sirve bastante, pero
+
+recordando que es un poquito menos eficaz que las estatinas. Ahora, si es
+
+que viene con una de estas complicaciones más severa, aquí estoy
+
+obligado a suspender sí o sí y no lo puedo reiniciar, sino que por el
+
+contrario hay que hacer el manejo de la rhabdomiólisis, de la
+
+mionecrosis, en el caso de la rhabdomiólisis con todo el
+
+manejo de la falla renal, con la hidratación con serofisiológico y
+
+en la mionecrosis obviamente con corticoides endovenoso, etcétera, y
+
+aparte de eso tengo que ver si no estará interactuando con algún
+
+otro fármaco, dado que es muy infrecuente que haya una
+
+rhabdomiólisis por estatina, así que igualmente hay que ver que
+
+no haya alguna otra causa que sea evidente y ver con qué fármaco
+
+pueda estar interactuando, y dentro de esto el ejemplo más
+
+clásico son los fibratos, de hecho la típica pregunta es ¿puedo
+
+yo mezclar una estatina con un fibrato? y la respuesta es, con
+
+el higienfibroxilo no, en el sentido en que se dispara el
+
+riesgo de rhabdomiólisis, pero sí se puede con el fenofibrato
+
+con mucho cuidado y solamente se hace en casos de
+
+hipercolesterolemia, con una hipertirolemia muy alta que
+
+no baja suficientemente con la estatina sola, en este
+
+caso que dice que después de suspender en el caso de una
+
+complicación severa, pues el único fármaco que me queda
+
+para seguir manejándolo es el escetimide, así que
+
+finalmente el escetimide se deja en lugar de la estatina
+
+cuando hay que suspenderla de manera definitiva, ya sea
+
+porque tuvo una complicación severa o ya sea porque tuvo
+
+una complicación no tan severa, pero que no hubo cómo
+
+manejarla con otras estatinas o con una dosis más baja.
+
+Ahora, la última cosa es, yo le pido secada de control a
+
+los pacientes con estatinas que están sin ningún síntoma,
+
+sin ninguna cosa, y la respuesta es no, solamente se
+
+piden en los pacientes que tienen síntomas, que tienen
+
+mialgia, que tienen alguna otra cosa o bien en los
+
+pacientes que vienen con falla renal, en el sentido en
+
+que ahí aumenta un poquito el riesgo, pero que quede bien
+
+claro que andar pidiendo seca por pedirlas no está
+
+indicado, aunque siempre sirve el tener una seca
+
+basal antes de iniciar el tratamiento con estatinas
+
+como para tener alguna idea general que no venga con
+
+alguna otra miopatía, por ejemplo. Así que solo sí
+
+síntomas, ese es el resumen. Y bueno, eso fue todo de esta
+
+clase muy corta, así que nos vemos en el siguiente video.
+
+Que estén bien.',
+    '1
+00:00:03,220 --> 00:00:08,020
+Hola, hola. Hablemos de las miopatías por estatinas. Al menos en medicina siempre
+
+2
+00:00:08,020 --> 00:00:13,020
+nos enseñan que las estatinas tienen riesgos de mialgia, de randomiólisis, de cosas
+
+3
+00:00:13,020 --> 00:00:16,900
+relacionadas con los músculos, pero adelantemos que son bastante infrecuentes
+
+4
+00:00:16,900 --> 00:00:20,980
+y que por el general las estatinas son fármacos eficaces, que reducen la
+
+5
+00:00:20,980 --> 00:00:24,300
+mortalidad por infarto y por patología cardiovascular, y son
+
+6
+00:00:24,300 --> 00:00:29,700
+bastante seguras, pero sepan que hay dos tipos de miopatías o de síntomas
+
+7
+00:00:29,700 --> 00:00:35,020
+relacionados a daño muscular por estatinas. Por un lado están las no
+
+8
+00:00:35,020 --> 00:00:39,660
+severas, dígase miálgias, un poquito de debilidad, y con las secas que pueden
+
+9
+00:00:39,660 --> 00:00:44,100
+estar absolutamente normales o bien un poquito elevadas, y las otras son las
+
+10
+00:00:44,100 --> 00:00:48,700
+más severas, que la más importante son la randomiólisis y aparte de eso la
+
+11
+00:00:48,700 --> 00:00:53,940
+mionecrosis, que puede ser una especie de reacción inmune y que
+
+12
+00:00:53,940 --> 00:00:58,620
+en el caso de que esté mediada por estatinas, obviamente hay que suspenderlas
+
+13
+00:00:59,420 --> 00:01:03,980
+En estos dos casos suele venir con la seca muy elevada, y de hecho el solo
+
+14
+00:01:03,980 --> 00:01:08,820
+hecho que la seca esté muy elevada en contexto del uso de estatinas ya me
+
+15
+00:01:08,820 --> 00:01:12,700
+hace sospechar fuertemente que hay una complicación severa. Ahora, ¿cuál es
+
+16
+00:01:12,700 --> 00:01:17,600
+el manejo de esto? Número uno, buscar otra causa. Al menos en las no
+
+17
+00:01:17,600 --> 00:01:21,540
+severas yo tengo tiempo para buscar una causa antes de suspender las
+
+18
+00:01:21,540 --> 00:01:25,940
+estatinas, y en ese caso le puedo pedir una TCH en busca de hipotiroidismo,
+
+19
+00:01:25,940 --> 00:01:29,460
+que es una causa de miopatía bien frecuente, y los niveles de vitamina D
+
+20
+00:01:29,460 --> 00:01:34,460
+también, que si está bajo eso me puede generar mialgias, etcétera. Ahora, luego
+
+21
+00:01:34,460 --> 00:01:38,420
+de eso se suspende y veo si es que se mejoran los síntomas, porque si no se
+
+22
+00:01:38,420 --> 00:01:42,860
+mejoran nunca, obviamente era causado o por una enfermedad
+
+23
+00:01:42,860 --> 00:01:46,820
+autoinmune, por ejemplo una polimiositis, una polimiaje aromática,
+
+24
+00:01:46,820 --> 00:01:51,180
+o por alguna cosa que produzca dolor sin nada mucho más grave como
+
+25
+00:01:51,180 --> 00:01:54,620
+una fibromialgia. Así que es muy importante que antes de creerle al
+
+26
+00:01:54,620 --> 00:01:58,980
+paciente que la causa de su mialgia son las estatinas, se busque otra causa
+
+27
+00:01:58,980 --> 00:02:05,060
+y se vea que los síntomas desaparezcan al suspender el medicamento.
+
+28
+00:02:05,060 --> 00:02:09,740
+Ahora, una vez que se suspenden y que desaparecen lo ideal es iniciar una
+
+29
+00:02:09,740 --> 00:02:15,380
+estatina diferente, y dentro de esas la fluvastatina, la pravastatina y la
+
+30
+00:02:15,380 --> 00:02:19,100
+pitavastatina son las que tienen menos riesgo de mialgia por el
+
+31
+00:02:19,100 --> 00:02:23,420
+general, pero tienen un problema que si bien tienen un bajísimo riesgo de
+
+32
+00:02:23,420 --> 00:02:29,060
+mialgia no son tan potentes para bajar el LDL, así que muchas veces uno se
+
+33
+00:02:29,060 --> 00:02:33,540
+queda con la duda acá y si le dejo su bastatina mejor que tiene un poquito
+
+34
+00:02:33,540 --> 00:02:40,340
+menos de riesgo de mialgia, pero el impacto en el LDL es un poquito
+
+35
+00:02:40,340 --> 00:02:43,740
+mejor, así que tengo esas dos opciones y la última opción que hay
+
+36
+00:02:43,740 --> 00:02:47,220
+también es bajarle la dosis. Ejemplo, el sistema público a lo
+
+37
+00:02:47,220 --> 00:02:52,740
+mejor no haya suficientes recursos como para darle algo diferente a la
+
+38
+00:02:52,740 --> 00:02:56,860
+atorvastatina, así que en ese caso simplemente si estaba con 80 milígramos
+
+39
+00:02:56,860 --> 00:03:02,140
+se lo bajo a 40 milígramos y veo cómo va. En el caso de la recurrencia, a
+
+40
+00:03:02,140 --> 00:03:05,900
+pesar de haber hecho estas cosas, de haber cambiado por una estatina
+
+41
+00:03:05,900 --> 00:03:09,500
+distinta o haber bajado esta dosis, pues no me queda más que
+
+42
+00:03:09,500 --> 00:03:15,140
+cambiarme de medicamento al Estimide, que acuérdense que impedía la
+
+43
+00:03:15,140 --> 00:03:19,540
+absorción a nivel intestinal del LDL, así que sirve bastante, pero
+
+44
+00:03:19,700 --> 00:03:25,900
+recordando que es un poquito menos eficaz que las estatinas. Ahora, si es
+
+45
+00:03:25,900 --> 00:03:29,580
+que viene con una de estas complicaciones más severa, aquí estoy
+
+46
+00:03:29,580 --> 00:03:33,780
+obligado a suspender sí o sí y no lo puedo reiniciar, sino que por el
+
+47
+00:03:33,780 --> 00:03:37,540
+contrario hay que hacer el manejo de la rhabdomiólisis, de la
+
+48
+00:03:37,540 --> 00:03:40,260
+mionecrosis, en el caso de la rhabdomiólisis con todo el
+
+49
+00:03:40,260 --> 00:03:43,380
+manejo de la falla renal, con la hidratación con serofisiológico y
+
+50
+00:03:43,380 --> 00:03:47,780
+en la mionecrosis obviamente con corticoides endovenoso, etcétera, y
+
+51
+00:03:47,900 --> 00:03:51,660
+aparte de eso tengo que ver si no estará interactuando con algún
+
+52
+00:03:51,660 --> 00:03:54,940
+otro fármaco, dado que es muy infrecuente que haya una
+
+53
+00:03:54,940 --> 00:03:58,780
+rhabdomiólisis por estatina, así que igualmente hay que ver que
+
+54
+00:03:58,780 --> 00:04:02,940
+no haya alguna otra causa que sea evidente y ver con qué fármaco
+
+55
+00:04:03,940 --> 00:04:07,380
+pueda estar interactuando, y dentro de esto el ejemplo más
+
+56
+00:04:07,380 --> 00:04:12,340
+clásico son los fibratos, de hecho la típica pregunta es ¿puedo
+
+57
+00:04:12,340 --> 00:04:15,660
+yo mezclar una estatina con un fibrato? y la respuesta es, con
+
+58
+00:04:15,660 --> 00:04:19,100
+el higienfibroxilo no, en el sentido en que se dispara el
+
+59
+00:04:19,100 --> 00:04:22,620
+riesgo de rhabdomiólisis, pero sí se puede con el fenofibrato
+
+60
+00:04:22,620 --> 00:04:25,820
+con mucho cuidado y solamente se hace en casos de
+
+61
+00:04:25,820 --> 00:04:29,180
+hipercolesterolemia, con una hipertirolemia muy alta que
+
+62
+00:04:29,180 --> 00:04:33,900
+no baja suficientemente con la estatina sola, en este
+
+63
+00:04:33,900 --> 00:04:37,420
+caso que dice que después de suspender en el caso de una
+
+64
+00:04:37,420 --> 00:04:40,220
+complicación severa, pues el único fármaco que me queda
+
+65
+00:04:40,220 --> 00:04:43,500
+para seguir manejándolo es el escetimide, así que
+
+66
+00:04:43,580 --> 00:04:48,380
+finalmente el escetimide se deja en lugar de la estatina
+
+67
+00:04:48,380 --> 00:04:51,340
+cuando hay que suspenderla de manera definitiva, ya sea
+
+68
+00:04:51,340 --> 00:04:53,900
+porque tuvo una complicación severa o ya sea porque tuvo
+
+69
+00:04:53,900 --> 00:04:56,780
+una complicación no tan severa, pero que no hubo cómo
+
+70
+00:04:56,780 --> 00:04:59,180
+manejarla con otras estatinas o con una dosis más baja.
+
+71
+00:05:00,220 --> 00:05:03,980
+Ahora, la última cosa es, yo le pido secada de control a
+
+72
+00:05:03,980 --> 00:05:07,260
+los pacientes con estatinas que están sin ningún síntoma,
+
+73
+00:05:07,260 --> 00:05:10,620
+sin ninguna cosa, y la respuesta es no, solamente se
+
+74
+00:05:10,620 --> 00:05:13,580
+piden en los pacientes que tienen síntomas, que tienen
+
+75
+00:05:13,580 --> 00:05:16,700
+mialgia, que tienen alguna otra cosa o bien en los
+
+76
+00:05:16,700 --> 00:05:19,260
+pacientes que vienen con falla renal, en el sentido en
+
+77
+00:05:19,260 --> 00:05:23,100
+que ahí aumenta un poquito el riesgo, pero que quede bien
+
+78
+00:05:23,100 --> 00:05:26,780
+claro que andar pidiendo seca por pedirlas no está
+
+79
+00:05:26,780 --> 00:05:30,540
+indicado, aunque siempre sirve el tener una seca
+
+80
+00:05:30,540 --> 00:05:33,100
+basal antes de iniciar el tratamiento con estatinas
+
+81
+00:05:33,100 --> 00:05:36,060
+como para tener alguna idea general que no venga con
+
+82
+00:05:36,060 --> 00:05:39,340
+alguna otra miopatía, por ejemplo. Así que solo sí
+
+83
+00:05:39,340 --> 00:05:42,620
+síntomas, ese es el resumen. Y bueno, eso fue todo de esta
+
+84
+00:05:42,620 --> 00:05:44,620
+clase muy corta, así que nos vemos en el siguiente video.
+
+85
+00:05:44,620 --> 00:05:45,100
+Que estén bien.',
+    'En esta cápsula abordaremos las miopatías asociadas al uso de estatinas. Es un tema que a menudo genera confusión porque existe la tendencia a sobredimensionar el riesgo muscular de estos fármacos. Empecemos por aclarar lo fundamental: las estatinas son medicamentos eficaces, seguros y bien tolerados que reducen la mortalidad cardiovascular. Las complicaciones musculares existen, pero son bastante infrecuentes. Dicho esto, saber reconocerlas y manejarlas es imprescindible.
+
+Las miopatías por estatinas se dividen en dos grupos según su gravedad. Las formas no severas incluyen las mialgias, es decir, el dolor muscular sin evidencia de daño, una leve debilidad y puede acompañarse de niveles normales o ligeramente elevados de creatinkinasa, la CK o CPK. Las formas severas son las más peligrosas: la rabdomiólisis y la mionicrosis. En estas dos últimas la CK suele estar muy elevada, lo que en sí mismo ya es una señal de alarma significativa cuando aparece en el contexto del uso de estatinas.
+
+Ante una miopatía no severa, lo primero no es suspender el fármaco de inmediato, sino buscar otras causas. Las más importantes a descartar son el hipotiroidismo, que es una causa frecuente de miopatía y que se evalúa con TSH, y el déficit de vitamina D, que puede generar dolor muscular. Si se descartan estas causas y la sospecha recae en la estatina, entonces sí se suspende el medicamento y se observa si los síntomas desaparecen. Si los síntomas persisten tras la suspensión, hay que considerar otras causas musculares como la polimiositis, la polimialgia reumática o la fibromialgia.',
+    '["Miopatía no severa: mialgias, debilidad leve, CK normal o levemente elevada. Buscar otras causas (hipotiroidismo, déficit de vitamina D) antes de suspender.","Miopatía severa: rabdomiólisis o mionicrosis, CK muy elevada. Suspensión definitiva obligatoria. Manejo: hidratación (rabdomiólisis) o corticoides (mionicrosis).","Si la estatina causa miopatía no severa: cambiar a fluvastatina, pravastatina o pitavastatina (menor riesgo muscular), o reducir la dosis de la estatina actual.","Cuando ninguna estatina es tolerada: ezetimibe como alternativa. Menos potente, pero sin riesgo muscular.","No pedir CK de rutina. Solo con síntomas musculares o insuficiencia renal. Gemfibrozilo + estatina: evitar por riesgo de rabdomiólisis. Fenofibrato + estatina: posible con precaución."]'::jsonb,
+    '[{"para":"\"SEVERA → SUSPENDE para siempre → EZETIMIBE. NO SEVERA → busca causa → cambia estatina o baja dosis\"","nemotecnia":"\"SEVERA → SUSPENDE para siempre → EZETIMIBE. NO SEVERA → busca causa → cambia estatina o baja dosis\"","explicacion":"El algoritmo de manejo en dos ramas. Las complicaciones severas cierran la puerta a las estatinas definitivamente. Las leves permiten re-intentar con otra opción.\nEl algoritmo de manejo en dos ramas. Las complicaciones severas cierran la puerta a las estatinas definitivamente. Las leves permiten re-intentar con otra opción."},{"para":"\"FLUVASTA-PRAVASTA-PITAVASTA = las TRES seguras para los músculos\"","nemotecnia":"\"FLUVASTA-PRAVASTA-PITAVASTA = las TRES seguras para los músculos\"","explicacion":"Las tres estatinas con menor miotoxicidad. Son menos potentes pero más seguras. Fácil: las tres terminan en -vastatin y no tienen la \"a\" de Atorva ni la \"o\" de Rosu.Las tres estatinas con menor miotoxicidad. Son menos potentes pero más seguras. Fácil: las tres terminan en -vastatin y no tienen la \"a\" de Atorva ni la \"o\" de Rosu."},{"para":"\"GEMFIBROZILO + ESTATINA = PELIGRO. FENOFIBRATO + ESTATINA = con CUIDADO\"","nemotecnia":"\"GEMFIBROZILO + ESTATINA = PELIGRO. FENOFIBRATO + ESTATINA = con CUIDADO\"","explicacion":"La regla de los fibratos: gemfibrozilo nunca con estatinas. Fenofibrato puede ser en casos muy seleccionados con monitorización estrecha.La regla de los fibratos: gemfibrozilo nunca con estatinas. Fenofibrato puede ser en casos muy seleccionados con monitorización estrecha."}]'::jsonb,
+    '["Miopatía no severa: mialgias, debilidad leve, CK normal o levemente elevada. Buscar otras causas (hipotiroidismo, déficit de vitamina D) antes de suspender.","Miopatía severa: rabdomiólisis o mionicrosis, CK muy elevada. Suspensión definitiva obligatoria. Manejo: hidratación (rabdomiólisis) o corticoides (mionicrosis).","Si la estatina causa miopatía no severa: cambiar a fluvastatina, pravastatina o pitavastatina (menor riesgo muscular), o reducir la dosis de la estatina actual."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes afirmaciones sobre las miopatías por estatinas es correcta?","respuesta":"Respuesta correcta: C — Ante una miopatía no severa, se deben buscar primero causas alternativas como hipotiroidismo o déficit de vitamina D antes de atribuir los síntomas a la estatina y suspenderla. La CK no se pide de rutina; el fenofibrato puede usarse con cautela (no está absolutamente contraindicado); la rabdomiólisis implica suspensión definitiva (no reinicio); y el ezetimibe es alternativa, no primera línea (las estatinas son más potentes)."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  -- Cápsula 24: Dislipidemias Genéticas — Reconocimiento Clínico y Manejo
+  INSERT INTO lessons (
+    specialty_id, title, order_index, duration_seconds,
+    txt_content, srt_content,
+    ai_summary, ai_key_concepts, ai_mnemonics,
+    ai_high_yield, ai_algorithms, ai_review_qs,
+    ai_processed_at, is_available, is_free_preview
+  ) VALUES (
+    v_specialty_id,
+    'Dislipidemias Genéticas — Reconocimiento Clínico y Manejo',
+    24,
+    167,
+    'Hola, hola, ¿cómo están? Vamos a ver un tema bien específico, pero hay que saber
+
+identificar que son las dilipidemias de origen genético, que habitualmente hay
+
+que reconocerlas por su clínica y que lo más importante es que son severas,
+
+así ejemplo, un LDL arriba de 500, unos triglicéridos arriba de mil y tanto,
+
+en ese caso inmediatamente se sospechan, segundo lugar suelen venir con
+
+marcados antecedentes familiares porque suelen ser autosómicas dominantes,
+
+es muy frecuente que los niveles de los lípidos son tan altos que viene con estas
+
+manifestaciones cutáneas como los santomas o los antelasmas y finalmente es
+
+muy frecuente que en su familia hay mucha gente que se haya infartado o que
+
+haya venido con una enfermedad ateromatosa muy joven o bien el
+
+mismo el mismo paciente se infarta a los 35-40 años, en ese caso yo
+
+dirigidamente debo ir a buscar una de estas dilipidemias empezando con un
+
+perfil lipídico, ahora el diagnóstico se hace con el perfil lipídico que me
+
+objetiva que hay una dilipidemia más los distintos test genéticos yendo a
+
+buscar la mutación específica de cada una de ésta, en el caso de la
+
+hiper colesterolemia familiar se hacen unos test genéticos, en el caso de la
+
+hipertrigliceridemia familiar se hacen unos test genéticos distintos
+
+por su caso, el manejo de esto hay que saberlo a grandes rasgos es con
+
+fármacos y no con uno sino que con bastantes fármacos, dígase estatinas en
+
+altas dosis, ejemplo 80 miligramos de atropastatina al día más el
+
+escetimibes, más las dos cosas, o sea de esa manera intento bajar a toda
+
+costa el nivel de LDL, si yo lo consigo bajar el paciente anda bien
+
+si es que no lo más probable es que se muere de infarto relativamente
+
+joven, ahora una vez que ya diagnostico a un paciente hay que
+
+pedirle al menos el perfil lipídico a toda la familia y
+
+obviamente en los que esté alterado le hago el test genético en busca de la
+
+causa genética también, aquí se ven los santomas en un niño por ejemplo
+
+uno dice este es una guagua o un niño de pocos años con esas manchas
+
+amarillas ahí o en las rodillas por ejemplo inmediatamente hay que
+
+sospechar una dilipidemia genética, una dilipidemia hereditaria y hay que
+
+ir a pedirle exámenes, en este caso en los ojos se ven esas manchas
+
+amarillas que se llaman santelasmas y reflejan exactamente lo mismo y
+
+finalmente está el arco senil que es ese anillo como poquito más claro
+
+alrededor del iris que es característico de los adultos mayores
+
+por si acaso no es algo anormal pero si es que ocurre en alguien muy
+
+joven antes de los 40 o de los 50 años en ese caso hay que ir a pedirle
+
+un perfil lipídico por si acaso no no vaya a ver alguna de estas
+
+dilipidemia muy importante y bueno eso fue todo así que nos vemos en
+
+los siguientes temas que estén bien',
+    '1
+00:00:02,960 --> 00:00:07,120
+Hola, hola, ¿cómo están? Vamos a ver un tema bien específico, pero hay que saber
+
+2
+00:00:07,120 --> 00:00:12,080
+identificar que son las dilipidemias de origen genético, que habitualmente hay
+
+3
+00:00:12,080 --> 00:00:15,640
+que reconocerlas por su clínica y que lo más importante es que son severas,
+
+4
+00:00:15,640 --> 00:00:20,720
+así ejemplo, un LDL arriba de 500, unos triglicéridos arriba de mil y tanto,
+
+5
+00:00:20,720 --> 00:00:24,860
+en ese caso inmediatamente se sospechan, segundo lugar suelen venir con
+
+6
+00:00:24,860 --> 00:00:28,400
+marcados antecedentes familiares porque suelen ser autosómicas dominantes,
+
+7
+00:00:28,960 --> 00:00:34,720
+es muy frecuente que los niveles de los lípidos son tan altos que viene con estas
+
+8
+00:00:34,720 --> 00:00:39,400
+manifestaciones cutáneas como los santomas o los antelasmas y finalmente es
+
+9
+00:00:39,400 --> 00:00:43,220
+muy frecuente que en su familia hay mucha gente que se haya infartado o que
+
+10
+00:00:43,220 --> 00:00:48,320
+haya venido con una enfermedad ateromatosa muy joven o bien el
+
+11
+00:00:48,320 --> 00:00:52,600
+mismo el mismo paciente se infarta a los 35-40 años, en ese caso yo
+
+12
+00:00:52,600 --> 00:00:56,720
+dirigidamente debo ir a buscar una de estas dilipidemias empezando con un
+
+13
+00:00:56,720 --> 00:01:01,000
+perfil lipídico, ahora el diagnóstico se hace con el perfil lipídico que me
+
+14
+00:01:01,000 --> 00:01:05,760
+objetiva que hay una dilipidemia más los distintos test genéticos yendo a
+
+15
+00:01:05,760 --> 00:01:10,840
+buscar la mutación específica de cada una de ésta, en el caso de la
+
+16
+00:01:10,840 --> 00:01:15,400
+hiper colesterolemia familiar se hacen unos test genéticos, en el caso de la
+
+17
+00:01:15,400 --> 00:01:18,920
+hipertrigliceridemia familiar se hacen unos test genéticos distintos
+
+18
+00:01:18,920 --> 00:01:23,020
+por su caso, el manejo de esto hay que saberlo a grandes rasgos es con
+
+19
+00:01:23,020 --> 00:01:27,900
+fármacos y no con uno sino que con bastantes fármacos, dígase estatinas en
+
+20
+00:01:27,900 --> 00:01:32,780
+altas dosis, ejemplo 80 miligramos de atropastatina al día más el
+
+21
+00:01:32,780 --> 00:01:37,740
+escetimibes, más las dos cosas, o sea de esa manera intento bajar a toda
+
+22
+00:01:37,740 --> 00:01:42,020
+costa el nivel de LDL, si yo lo consigo bajar el paciente anda bien
+
+23
+00:01:42,020 --> 00:01:44,740
+si es que no lo más probable es que se muere de infarto relativamente
+
+24
+00:01:44,740 --> 00:01:49,140
+joven, ahora una vez que ya diagnostico a un paciente hay que
+
+25
+00:01:49,140 --> 00:01:51,620
+pedirle al menos el perfil lipídico a toda la familia y
+
+26
+00:01:51,620 --> 00:01:55,220
+obviamente en los que esté alterado le hago el test genético en busca de la
+
+27
+00:01:55,220 --> 00:02:00,140
+causa genética también, aquí se ven los santomas en un niño por ejemplo
+
+28
+00:02:00,140 --> 00:02:04,700
+uno dice este es una guagua o un niño de pocos años con esas manchas
+
+29
+00:02:04,700 --> 00:02:08,420
+amarillas ahí o en las rodillas por ejemplo inmediatamente hay que
+
+30
+00:02:08,420 --> 00:02:14,220
+sospechar una dilipidemia genética, una dilipidemia hereditaria y hay que
+
+31
+00:02:14,220 --> 00:02:18,260
+ir a pedirle exámenes, en este caso en los ojos se ven esas manchas
+
+32
+00:02:18,300 --> 00:02:23,100
+amarillas que se llaman santelasmas y reflejan exactamente lo mismo y
+
+33
+00:02:23,100 --> 00:02:27,500
+finalmente está el arco senil que es ese anillo como poquito más claro
+
+34
+00:02:27,500 --> 00:02:30,780
+alrededor del iris que es característico de los adultos mayores
+
+35
+00:02:30,780 --> 00:02:34,500
+por si acaso no es algo anormal pero si es que ocurre en alguien muy
+
+36
+00:02:34,500 --> 00:02:39,100
+joven antes de los 40 o de los 50 años en ese caso hay que ir a pedirle
+
+37
+00:02:39,100 --> 00:02:43,020
+un perfil lipídico por si acaso no no vaya a ver alguna de estas
+
+38
+00:02:43,020 --> 00:02:47,060
+dilipidemia muy importante y bueno eso fue todo así que nos vemos en
+
+39
+00:02:47,060 --> 00:02:50,060
+los siguientes temas que estén bien',
+    'En esta cápsula abordaremos las dislipidemias de origen genético. Es un tema específico, pero muy relevante para el EUNACOM porque permite identificar en la clínica un grupo de pacientes con riesgo cardiovascular extremo que requieren un enfoque diagnóstico y terapéutico particular.
+
+Las dislipidemias genéticas deben sospecharse cuando nos enfrentamos a valores de lípidos llamativamente elevados: piensen en un LDL por encima de 500 miligramos por decilitro o unos triglicéridos que superan los 1.000 o incluso 1.500 miligramos por decilitro. Estos valores no se alcanzan habitualmente con los factores ambientales o con la resistencia a la insulina. Cuando aparecen, hay que pensar en genética.
+
+Un segundo elemento clave para la sospecha es el patrón familiar. La mayoría de estas enfermedades tienen transmisión autosómica dominante, lo que significa que con una sola copia del gen mutado el paciente ya desarrolla la enfermedad. Por eso, es muy frecuente encontrar múltiples familiares afectados en la misma generación y en generaciones anteriores. Cuando el paciente relata que su padre, un tío y un abuelo tuvieron infartos o murieron de causa cardiovascular a edades jóvenes, la sospecha de una dislipidemia genética debe ser alta.',
+    '["Sospechar dislipidemia genética con LDL >500 mg/dL o triglicéridos >1.000 mg/dL, especialmente con historia familiar de enfermedad cardiovascular precoz.","Transmisión autosómica dominante en la mayoría. Múltiples familiares afectados en varias generaciones.","Manifestaciones cutáneas: xantomas (nódulos amarillentos en piel y tendones) y xantelasmas (depósitos en párpados). En niños o adultos jóvenes = alarma.","Arco corneal senil en menores de 40-50 años = señal de alarma → solicitar perfil lipídico.","Manejo: estatina en dosis máximas (atorvastatina 80 mg) + ezetimibe. Tamizaje de toda la familia con perfil lipídico y test genético en afectados."]'::jsonb,
+    '[{"para":"\"LDL >500 o TG >1.000 + Familia infartada joven + Xantomas = GENÉTICA hasta demostrar lo contrario\"","nemotecnia":"\"LDL >500 o TG >1.000 + Familia infartada joven + Xantomas = GENÉTICA hasta demostrar lo contrario\"","explicacion":"La tríada de sospecha clínica. Valores extremos + historia familiar + depósitos lipídicos cutáneos = dislipidemia hereditaria.\nLa tríada de sospecha clínica. Valores extremos + historia familiar + depósitos lipídicos cutáneos = dislipidemia hereditaria."},{"para":"\"XANTOMA en rodilla o tendón = colesterol en piel. XANTELASMA = colesterol en párpado. ARCO joven = alarma lipídica\"","nemotecnia":"\"XANTOMA en rodilla o tendón = colesterol en piel. XANTELASMA = colesterol en párpado. ARCO joven = alarma lipídica\"","explicacion":"Los tres hallazgos físicos que deben disparar la sospecha. En adultos mayores el arco corneal es normal; en jóvenes es patológico.Los tres hallazgos físicos que deben disparar la sospecha. En adultos mayores el arco corneal es normal; en jóvenes es patológico."},{"para":"\"ATORVA 80 + EZETIMIBE = el DÚO máximo para bajar el LDL genético\"","nemotecnia":"\"ATORVA 80 + EZETIMIBE = el DÚO máximo para bajar el LDL genético\"","explicacion":"El tratamiento de la dislipidemia genética siempre es combinado: estatina de alta intensidad más ezetimibe. No basta con una estatina sola.El tratamiento de la dislipidemia genética siempre es combinado: estatina de alta intensidad más ezetimibe. No basta con una estatina sola."}]'::jsonb,
+    '["Sospechar dislipidemia genética con LDL >500 mg/dL o triglicéridos >1.000 mg/dL, especialmente con historia familiar de enfermedad cardiovascular precoz.","Transmisión autosómica dominante en la mayoría. Múltiples familiares afectados en varias generaciones.","Manifestaciones cutáneas: xantomas (nódulos amarillentos en piel y tendones) y xantelasmas (depósitos en párpados). En niños o adultos jóvenes = alarma."]'::jsonb,
+    '[]'::jsonb,
+    '[{"pregunta":"¿Cuál de las siguientes situaciones clínicas debe hacer sospechar una dislipidemia de origen genético?","respuesta":"Respuesta correcta: C — El LDL de 520 mg/dL es un valor extremo que no se alcanza con causas adquiridas, los xantomas tendinosos en un adulto joven son patognomónicos de hipercolesterolemia familiar, y el infarto paterno a los 42 años confirma la historia familiar de enfermedad cardiovascular precoz. Las demás opciones tienen explicaciones adquiridas más probables: el arco corneal en 65 años es normal; la mujer de 55 tiene un perfil de síndrome metabólico; la hipercolesterolemia puede ser secundaria al hipotiroidismo; y la hipertrigliceridemia por alcohol es causa conocida."}]'::jsonb,
+    NOW(),
+    TRUE,
+    FALSE  -- first 3 free preview
+  ) ON CONFLICT (specialty_id, order_index)
+  DO UPDATE SET
+    title            = EXCLUDED.title,
+    duration_seconds = EXCLUDED.duration_seconds,
+    txt_content      = EXCLUDED.txt_content,
+    srt_content      = EXCLUDED.srt_content,
+    ai_summary       = EXCLUDED.ai_summary,
+    ai_key_concepts  = EXCLUDED.ai_key_concepts,
+    ai_mnemonics     = EXCLUDED.ai_mnemonics,
+    ai_high_yield    = EXCLUDED.ai_high_yield,
+    ai_review_qs     = EXCLUDED.ai_review_qs,
+    ai_processed_at  = NOW(),
+    is_available     = TRUE;
+
+  RAISE NOTICE 'Diabetes lessons seeded: 24 lessons';
 END $$;

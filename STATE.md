@@ -25,12 +25,12 @@ _Last updated: 2026-03-12 | Branch: claude/fix-gitignore-MlQtm_
   - 24 SRTs del Dr. Guevara procesados como cápsulas profesionales
   - Guion reescrito + resumen + nemotecnia + pregunta EUNACOM por cápsula
   - `content/transcripts/01-diabetes/` — 24 TXTs listos para `process-audio.ts`
-  - `content/diabetes/` — 21/24 cápsulas .md generadas
+  - `content/diabetes/` — **24/24 cápsulas .md completas** ✅
   - `supabase/migrations/002_seed_lessons_diabetes.sql` — seed listo para ejecutar
   - `scripts/seed-lessons-from-capsules.ts` — script para regenerar SQL desde MDs
-  - ⏳ Pendiente: cápsulas 08-12, 22-24 (en generación)
-  - ⏳ Pendiente: ejecutar seed SQL en Supabase
-  - ⏳ Pendiente: subir MP3s y actualizar `video_url`
+  - ⏳ Pendiente: ejecutar seed SQL en Supabase SQL editor
+  - ⏳ Pendiente: subir MP3s a Vimeo/R2 y actualizar `video_url`
+  - ⏳ Siguiente: repetir ciclo para Cap. 2 Endocrinología
 
 ## Known Issues / Tech Debt
 

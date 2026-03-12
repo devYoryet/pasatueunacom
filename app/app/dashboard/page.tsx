@@ -244,15 +244,14 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
                     }`}>
                       {spec.exams.filter(e => e.completed).length}/{spec.exams.length}
                     </span>
-                    <Link
-                      href={`/app/specialties/${spec.code}`}
-                      className="ml-auto"
-                      onClick={(e) => e.stopPropagation()}
-                    >
-                      <Button size="sm" variant="ghost" className="h-6 text-[11px] px-2.5 text-blue-600 hover:text-blue-700 hover:bg-blue-50">
+                    <Button asChild size="sm" variant="ghost" className="h-6 text-[11px] px-2.5 text-blue-600 hover:text-blue-700 hover:bg-blue-50 ml-auto">
+                      <Link
+                        href={`/app/specialties/${spec.code}`}
+                        onClick={(e) => e.stopPropagation()}
+                      >
                         Ver todo →
-                      </Button>
-                    </Link>
+                      </Link>
+                    </Button>
                   </div>
 
                   {/* Quiz rows */}
@@ -290,19 +289,20 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
                             </span>
                           )}
 
-                          <Link href={`/app/exam/${exam.id}`} onClick={(e) => e.stopPropagation()}>
-                            <Button
-                              size="sm"
-                              variant={exam.completed ? 'outline' : 'default'}
-                              className={`h-6 text-[10px] px-2.5 flex-shrink-0 ${
-                                !exam.completed
-                                  ? 'bg-amber-500 hover:bg-amber-600 text-white border-0'
-                                  : 'border-slate-200 text-slate-600'
-                              }`}
-                            >
+                          <Button
+                            asChild
+                            size="sm"
+                            variant={exam.completed ? 'outline' : 'default'}
+                            className={`h-6 text-[10px] px-2.5 flex-shrink-0 ${
+                              !exam.completed
+                                ? 'bg-amber-500 hover:bg-amber-600 text-white border-0'
+                                : 'border-slate-200 text-slate-600'
+                            }`}
+                          >
+                            <Link href={`/app/exam/${exam.id}`} onClick={(e) => e.stopPropagation()}>
                               {exam.completed ? 'Repasar' : 'Iniciar'}
-                            </Button>
-                          </Link>
+                            </Link>
+                          </Button>
                         </div>
                       ))
                     )}

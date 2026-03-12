@@ -21,11 +21,11 @@ export default function TopBar({ profile, onMenuClick, streak = 0 }: TopBarProps
   })
 
   return (
-    <header className="bg-white border-b border-slate-200 px-4 sm:px-6 h-16 flex items-center justify-between sticky top-0 z-20">
+    <header className="bg-white border-b border-slate-200 px-4 sm:px-6 h-14 flex items-center justify-between sticky top-0 z-20">
       <div className="flex items-center gap-4">
         <button
           onClick={onMenuClick}
-          className="lg:hidden p-2 rounded-xl hover:bg-slate-100 transition-colors"
+          className="lg:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors"
         >
           <Menu className="w-5 h-5 text-slate-600" />
         </button>
@@ -44,11 +44,11 @@ export default function TopBar({ profile, onMenuClick, streak = 0 }: TopBarProps
             {streak} días seguidos
           </Badge>
         )}
-        <button className="p-2 rounded-xl hover:bg-slate-100 transition-colors relative">
-          <Bell className="w-5 h-5 text-slate-500" />
+        <button className="p-2 rounded-lg hover:bg-slate-100 transition-colors relative">
+          <Bell className="w-5 h-5 text-slate-400" />
         </button>
-        <div className="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center">
-          <span className="text-blue-700 font-semibold text-sm">
+        <div className="w-8 h-8 rounded-full bg-slate-200 flex items-center justify-center">
+          <span className="text-slate-700 font-semibold text-sm">
             {profile.full_name.charAt(0).toUpperCase()}
           </span>
         </div>

@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useMemo } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import {
   TrendingUp, BookOpen, CheckCircle, Circle, Clock, Flame, Target,
   Trophy, ChevronRight, ChevronDown, ChevronUp, Play,
@@ -153,6 +154,7 @@ function MiniCalendar({ testDates }: { testDates: TestDate[] }) {
 
 function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_COLORS[keyof typeof CHAPTER_COLORS] }) {
   const [expanded, setExpanded] = useState(false)
+  const router = useRouter()
   const s = STATUS[row.status]
   const pct = row.totalExams > 0 ? Math.round((row.completedExams / row.totalExams) * 100) : 0
   const isCurrent = row.status === 'en_curso'
@@ -162,17 +164,17 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
   return (
     <>
       <tr
-        className={`border-b border-slate-50 last:border-0 transition-colors ${
-          isCurrent ? color.bg : expanded ? 'bg-slate-50/60' : 'hover:bg-slate-50/50'
+        className={`border-b border-slate-100 last:border-0 transition-colors ${
+          isCurrent ? color.bg : expanded ? 'bg-slate-50/40' : 'hover:bg-slate-50/30'
         } ${hasContent ? 'cursor-pointer select-none' : ''}`}
         onClick={() => hasContent && setExpanded(!expanded)}
       >
         {/* Week # */}
-        <td className="py-3 pl-4 pr-2 text-xs font-mono text-slate-400 w-8">{row.week.week}</td>
+        <td className="py-3 pl-4 pr-2 text-xs font-mono text-slate-300 w-8">{row.week.week}</td>
 
         {/* Topic */}
         <td className="py-3 pr-3">
-          <div className={`text-sm font-medium leading-tight ${isCurrent ? color.text : 'text-slate-700'}`}>
+          <div className={`text-sm font-medium ${isCurrent ? color.text : 'text-slate-700'}`}>
             {row.week.topic}
           </div>
           <div className="text-xs text-slate-400 mt-0.5 hidden sm:block">{formatWeekRange(row.week.start, row.week.end)}</div>
@@ -180,23 +182,23 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
 
         {/* Objetivo */}
         <td className="py-3 pr-3 hidden md:table-cell">
-          <span className="text-xs text-slate-400">{row.totalExams > 0 ? `${row.totalExams} cuest.` : '—'}</span>
+          <span className="text-xs text-slate-400">{row.totalExams > 0 ? `${row.totalExams}` : '—'}</span>
         </td>
 
         {/* Completado */}
         <td className="py-3 pr-3">
           {row.totalExams > 0 ? (
             <div className="flex items-center gap-2">
-              <span className={`text-xs font-semibold tabular-nums ${
+              <span className={`text-xs font-medium tabular-nums ${
                 row.completedExams >= row.totalExams ? 'text-green-600' :
-                isOverdue ? 'text-red-500' : 'text-slate-600'
+                isOverdue ? 'text-red-400' : 'text-slate-500'
               }`}>
                 {row.completedExams}/{row.totalExams}
               </span>
-              <div className="w-10 hidden sm:block">
-                <Progress value={pct} className={`h-1.5 ${
-                  row.completedExams >= row.totalExams ? '[&>div]:bg-green-500' :
-                  isOverdue ? '[&>div]:bg-red-400' : color.progress
+              <div className="w-12 hidden sm:block">
+                <Progress value={pct} className={`h-1 ${
+                  row.completedExams >= row.totalExams ? '[&>div]:bg-green-400' :
+                  isOverdue ? '[&>div]:bg-red-300' : color.progress
                 }`} />
               </div>
             </div>
@@ -209,103 +211,74 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
         <td className="py-3 pr-3">
           <div className="flex items-center gap-1.5">
             <span className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${s.dot}`} />
-            <span className={`inline-flex px-1.5 py-0.5 rounded-full text-[11px] font-medium ${s.badge}`}>
-              {s.label}
-            </span>
+            <span className="text-xs text-slate-500">{s.label}</span>
           </div>
         </td>
 
-        {/* Expand chevron */}
+        {/* Chevron */}
         <td className="py-3 pr-4 text-right">
           {hasContent && (
             expanded
-              ? <ChevronUp className="w-4 h-4 text-slate-300 inline" />
-              : <ChevronDown className="w-4 h-4 text-slate-300 inline" />
+              ? <ChevronUp className="w-3.5 h-3.5 text-slate-300 inline" />
+              : <ChevronDown className="w-3.5 h-3.5 text-slate-300 inline" />
           )}
         </td>
       </tr>
 
       {/* ── Expanded quiz panel ─────────────────────────── */}
       {expanded && hasContent && (
-        <tr className="border-b border-slate-100">
-          <td colSpan={6} className="px-3 pb-3 pt-0">
-            <div className="mt-2 space-y-2">
+        <tr>
+          <td colSpan={6} className="px-4 pb-4 pt-1 bg-slate-50/40">
+            <div className="space-y-2">
               {row.specs.map((spec) => (
-                <div key={spec.id} className="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
+                <div key={spec.id} className="bg-white rounded-lg border border-slate-200 overflow-hidden">
 
                   {/* Spec header */}
-                  <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-50/80 border-b border-slate-100">
-                    {spec.icon && <span className="text-base leading-none">{spec.icon}</span>}
-                    <span className="text-xs font-semibold text-slate-800">{spec.name}</span>
-                    <span className={`text-[10px] px-1.5 py-0.5 rounded-full font-semibold ml-0.5 ${
-                      spec.exams.length > 0 && spec.exams.every(e => e.completed)
-                        ? 'bg-green-100 text-green-700'
-                        : 'bg-slate-200 text-slate-500'
-                    }`}>
+                  <div className="flex items-center gap-2 px-4 py-2 border-b border-slate-100">
+                    {spec.icon && <span className="text-sm leading-none">{spec.icon}</span>}
+                    <span className="text-xs font-medium text-slate-600">{spec.name}</span>
+                    <span className="text-xs text-slate-400 ml-0.5">
                       {spec.exams.filter(e => e.completed).length}/{spec.exams.length}
                     </span>
-                    <Button asChild size="sm" variant="ghost" className="h-6 text-[11px] px-2.5 text-blue-600 hover:text-blue-700 hover:bg-blue-50 ml-auto">
-                      <Link
-                        href={`/app/specialties/${spec.code}`}
-                        onClick={(e) => e.stopPropagation()}
-                      >
-                        Ver todo →
-                      </Link>
-                    </Button>
+                    <button
+                      className="ml-auto text-xs text-slate-400 hover:text-slate-700 transition-colors"
+                      onClick={(e) => { e.stopPropagation(); router.push(`/app/specialties/${spec.code}`) }}
+                    >
+                      Ver todo →
+                    </button>
                   </div>
 
                   {/* Quiz rows */}
                   <div className="divide-y divide-slate-50">
                     {spec.exams.length === 0 ? (
-                      <div className="px-4 py-3 text-xs text-slate-400 italic">
-                        Sin cuestionarios disponibles aún
-                      </div>
-                    ) : (
-                      spec.exams.map((exam) => (
-                        <div
-                          key={exam.id}
-                          className={`flex items-center gap-3 px-4 py-2.5 transition-colors ${
-                            exam.completed ? 'bg-green-50/40' : 'hover:bg-amber-50/30'
+                      <p className="px-4 py-3 text-xs text-slate-400">Sin cuestionarios disponibles aún</p>
+                    ) : spec.exams.map((exam) => (
+                      <div key={exam.id} className="flex items-center gap-3 px-4 py-2.5">
+                        {exam.completed
+                          ? <CheckCircle className="w-3.5 h-3.5 text-green-500 flex-shrink-0" />
+                          : <Circle className="w-3.5 h-3.5 text-slate-300 flex-shrink-0" />}
+
+                        <span className="text-xs text-slate-700 flex-1 min-w-0 truncate">{exam.title}</span>
+
+                        {exam.bestScore !== null && (
+                          <span className={`text-xs tabular-nums flex-shrink-0 ${
+                            exam.bestScore >= 70 ? 'text-green-600' :
+                            exam.bestScore >= 50 ? 'text-amber-600' : 'text-red-400'
+                          }`}>{exam.bestScore}%</span>
+                        )}
+
+                        <button
+                          className={`text-xs flex-shrink-0 px-2.5 py-1 rounded border transition-colors ${
+                            exam.completed
+                              ? 'border-slate-200 text-slate-500 hover:border-slate-300 hover:text-slate-700'
+                              : 'border-slate-800 bg-slate-800 text-white hover:bg-slate-700'
                           }`}
+                          onClick={(e) => { e.stopPropagation(); router.push(`/app/exam/${exam.id}`) }}
                         >
-                          {exam.completed
-                            ? <CheckCircle className="w-4 h-4 text-green-500 flex-shrink-0" />
-                            : <Circle className="w-4 h-4 text-amber-400 flex-shrink-0" />}
-
-                          <span className="text-xs text-slate-700 flex-1 min-w-0 truncate">{exam.title}</span>
-
-                          {/* Best score badge */}
-                          {exam.bestScore !== null && (
-                            <span className={`text-[11px] font-bold px-1.5 py-0.5 rounded-full flex-shrink-0 ${
-                              exam.bestScore >= 70 ? 'bg-green-100 text-green-700' :
-                              exam.bestScore >= 50 ? 'bg-amber-100 text-amber-700' :
-                              'bg-red-100 text-red-600'
-                            }`}>{exam.bestScore}%</span>
-                          )}
-
-                          {exam.attemptCount > 0 && (
-                            <span className="text-[10px] text-slate-400 flex-shrink-0 hidden sm:inline">
-                              {exam.attemptCount} int.
-                            </span>
-                          )}
-
-                          <Button
-                            asChild
-                            size="sm"
-                            variant={exam.completed ? 'outline' : 'default'}
-                            className={`h-6 text-[10px] px-2.5 flex-shrink-0 ${
-                              !exam.completed
-                                ? 'bg-amber-500 hover:bg-amber-600 text-white border-0'
-                                : 'border-slate-200 text-slate-600'
-                            }`}
-                          >
-                            <Link href={`/app/exam/${exam.id}`} onClick={(e) => e.stopPropagation()}>
-                              {exam.completed ? 'Repasar' : 'Iniciar'}
-                            </Link>
-                          </Button>
-                        </div>
-                      ))
-                    )}
+                          {exam.completed ? 'Repasar' : 'Iniciar'}
+                        </button>
+                      </div>
+                    ))}
                   </div>
                 </div>
               ))}

@@ -2,6 +2,7 @@
 
 import { useEffect, useState, use, useMemo } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import { createClient } from '@/lib/supabase/client'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -402,6 +403,7 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
   }
 
   const color = data.chapterColor ? CHAPTER_COLORS[data.chapterColor] : CHAPTER_COLORS.blue
+  const router = useRouter()
   const watchedCount = data.lessons.filter((l) => l.isWatched).length
   const lessonPct = data.lessons.length > 0 ? Math.round((watchedCount / data.lessons.length) * 100) : 0
   const completedExams = data.exams.filter((e) => e.completedCount > 0).length
@@ -533,97 +535,63 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
                 </div>
               )}
 
-              {/* Weak area callout */}
-              {analytics && analytics.worstExam.bestScore !== null && analytics.worstExam.bestScore < 70 && (
-                <div className="flex items-center gap-3 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3">
-                  <Zap className="w-4 h-4 text-amber-500 flex-shrink-0" />
-                  <div className="flex-1 min-w-0">
-                    <p className="text-xs font-semibold text-amber-800">Área de mejora detectada</p>
-                    <p className="text-xs text-amber-700 truncate">{analytics.worstExam.title} — mejor puntaje: <strong>{analytics.worstExam.bestScore}%</strong></p>
-                  </div>
-                  <Button asChild size="sm" className="flex-shrink-0 h-7 text-xs bg-amber-500 hover:bg-amber-600 text-white border-0">
-                    <Link href={`/app/exam/${analytics.worstExam.id}`}>Repasar</Link>
-                  </Button>
-                </div>
-              )}
-
-              {/* Header actions */}
+              {/* Header */}
               <div className="flex items-center justify-between">
-                <p className="text-sm text-slate-500">
-                  {data.exams.length} cuestionarios · ~{data.exams.length * 15} preguntas
+                <p className="text-xs text-slate-400">
+                  {completedExams}/{data.exams.length} completados
+                  {analytics && <> · promedio <span className={scoreCx(analytics.avgBest)}>{analytics.avgBest}%</span></>}
                 </p>
-                <Button size="sm" className="gap-2" onClick={() => setConfigOpen(true)}>
-                  <Play className="w-3.5 h-3.5" />
+                <button
+                  className="text-xs px-3 py-1.5 rounded border border-slate-200 text-slate-600 hover:border-slate-300 hover:text-slate-800 transition-colors"
+                  onClick={() => setConfigOpen(true)}
+                >
                   Practicar todo
-                </Button>
+                </button>
               </div>
 
-              {/* Quiz cards */}
-              {data.exams.map((exam) => (
-                <div
-                  key={exam.id}
-                  className={`flex items-center gap-4 p-4 rounded-xl border-2 transition-all ${
-                    exam.completedCount > 0
-                      ? 'border-green-200 bg-green-50/30 hover:bg-green-50/60'
-                      : 'border-slate-200 bg-white hover:border-amber-200 hover:bg-amber-50/20'
-                  }`}
-                >
-                  <div className="flex-shrink-0">
+              {/* Quiz list */}
+              <div className="border border-slate-200 rounded-xl overflow-hidden divide-y divide-slate-100">
+                {data.exams.map((exam) => (
+                  <div key={exam.id} className="flex items-center gap-3 px-4 py-3 bg-white hover:bg-slate-50/60 transition-colors">
                     {exam.completedCount > 0
-                      ? <CheckCircle2 className="w-5 h-5 text-green-500" />
-                      : <Circle className="w-5 h-5 text-amber-300" />}
-                  </div>
+                      ? <CheckCircle2 className="w-4 h-4 text-green-500 flex-shrink-0" />
+                      : <Circle className="w-4 h-4 text-slate-300 flex-shrink-0" />}
 
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center gap-2 flex-wrap">
-                      <p className="text-sm font-medium text-slate-800">{exam.title}</p>
-                      {exam.bestScore !== null && (
-                        <span className={`text-[11px] font-bold px-1.5 py-0.5 rounded-full ${scoreCx(exam.bestScore, 'badge')}`}>
-                          {exam.bestScore}%
-                        </span>
-                      )}
+                    <div className="flex-1 min-w-0">
+                      <p className="text-sm text-slate-800">{exam.title}</p>
+                      <div className="flex items-center gap-2 mt-0.5">
+                        <span className="text-xs text-slate-400">{exam.question_count} preguntas</span>
+                        {exam.attemptCount > 0 && (
+                          <span className="text-xs text-slate-400">· {exam.attemptCount} intento{exam.attemptCount > 1 ? 's' : ''}</span>
+                        )}
+                        {exam.scoreHistory.length >= 2 && (() => {
+                          const diff = exam.lastScore! - exam.scoreHistory[0]
+                          if (diff > 3) return <span className="text-[10px] text-green-600">↑ +{diff}%</span>
+                          if (diff < -3) return <span className="text-[10px] text-red-400">↓ {diff}%</span>
+                          return null
+                        })()}
+                      </div>
                     </div>
 
-                    <div className="flex items-center gap-3 mt-0.5 flex-wrap">
-                      <span className="text-xs text-slate-400">{exam.question_count} preguntas</span>
-                      {exam.attemptCount > 0 && (
-                        <span className="text-xs text-slate-400">{exam.attemptCount} intento{exam.attemptCount > 1 ? 's' : ''}</span>
-                      )}
-                      {/* Score history trail */}
-                      {exam.scoreHistory.length >= 2 && (
-                        <div className="flex items-center gap-1 text-[10px]">
-                          {exam.scoreHistory.slice(-4).map((s, i) => (
-                            <span key={i} className="flex items-center gap-0.5">
-                              {i > 0 && <span className="text-slate-300 mx-0.5">→</span>}
-                              <span className={scoreCx(s)}>{s}%</span>
-                            </span>
-                          ))}
-                          {exam.scoreHistory.length >= 2 && (() => {
-                            const diff = exam.lastScore! - exam.scoreHistory[0]
-                            if (diff > 3) return <TrendingUp className="w-3 h-3 text-green-500 ml-1" />
-                            if (diff < -3) return <TrendingDown className="w-3 h-3 text-red-400 ml-1" />
-                            return <Minus className="w-3 h-3 text-slate-300 ml-1" />
-                          })()}
-                        </div>
-                      )}
-                    </div>
-                  </div>
+                    {exam.bestScore !== null && (
+                      <span className={`text-xs font-medium tabular-nums flex-shrink-0 ${scoreCx(exam.bestScore)}`}>
+                        {exam.bestScore}%
+                      </span>
+                    )}
 
-                  <Button
-                    asChild
-                    size="sm"
-                    variant={exam.completedCount > 0 ? 'outline' : 'default'}
-                    className={`gap-1.5 flex-shrink-0 ${
-                      exam.completedCount === 0 ? 'bg-blue-600 hover:bg-blue-700' : ''
-                    }`}
-                  >
-                    <Link href={`/app/exam/${exam.id}`}>
-                      <Play className="w-3.5 h-3.5" />
+                    <button
+                      className={`flex-shrink-0 text-xs px-3 py-1 rounded border transition-colors ${
+                        exam.completedCount > 0
+                          ? 'border-slate-200 text-slate-500 hover:border-slate-300 hover:text-slate-700'
+                          : 'border-slate-700 bg-slate-800 text-white hover:bg-slate-700'
+                      }`}
+                      onClick={() => router.push(`/app/exam/${exam.id}`)}
+                    >
                       {exam.completedCount > 0 ? 'Repetir' : 'Iniciar'}
-                    </Link>
-                  </Button>
-                </div>
-              ))}
+                    </button>
+                  </div>
+                ))}
+              </div>
             </>
           )}
         </TabsContent>
@@ -720,9 +688,12 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
                       {analytics.worstExam.bestScore}%
                     </p>
                     {analytics.worstExam.bestScore !== null && analytics.worstExam.bestScore < 70 && (
-                      <Button asChild size="sm" className="h-7 text-xs bg-amber-500 hover:bg-amber-600 text-white border-0">
-                        <Link href={`/app/exam/${analytics.worstExam.id}`}>Repasar →</Link>
-                      </Button>
+                      <button
+                        className="text-xs px-3 py-1 rounded border border-slate-300 text-slate-600 hover:border-slate-400 hover:text-slate-800 transition-colors"
+                        onClick={() => router.push(`/app/exam/${analytics.worstExam.id}`)}
+                      >
+                        Repasar →
+                      </button>
                     )}
                   </div>
                 </div>

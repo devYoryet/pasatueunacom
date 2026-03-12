@@ -250,6 +250,7 @@ function ReviewQuestion({ question }: { question: { pregunta: string; respuesta:
 
 export default function SpecialtyDetailPage({ params }: { params: Promise<{ code: string }> }) {
   const { code } = use(params)
+  const router = useRouter()
   const [data, setData] = useState<SpecialtyData | null>(null)
   const [loading, setLoading] = useState(true)
   const [configOpen, setConfigOpen] = useState(false)
@@ -403,7 +404,6 @@ export default function SpecialtyDetailPage({ params }: { params: Promise<{ code
   }
 
   const color = data.chapterColor ? CHAPTER_COLORS[data.chapterColor] : CHAPTER_COLORS.blue
-  const router = useRouter()
   const watchedCount = data.lessons.filter((l) => l.isWatched).length
   const lessonPct = data.lessons.length > 0 ? Math.round((watchedCount / data.lessons.length) * 100) : 0
   const completedExams = data.exams.filter((e) => e.completedCount > 0).length

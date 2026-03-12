@@ -14,18 +14,18 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 
 const schema = z.object({
-  email: z.string().email('Email inválido'),
-  password: z.string().min(6, 'La contraseña debe tener al menos 6 caracteres'),
+  email: z.string().email('Email invalido'),
+  password: z.string().min(6, 'La contrasena debe tener al menos 6 caracteres'),
 })
 
 type FormData = z.infer<typeof schema>
 
 const quotes = [
-  '"El médico del futuro no dará medicamentos, sino que educará a sus pacientes en el cuidado del cuerpo humano." — Thomas Edison',
+  '"El medico del futuro no dara medicamentos, sino que educara a sus pacientes en el cuidado del cuerpo humano." — Thomas Edison',
   '"La medicina es una ciencia de la incertidumbre y un arte de la probabilidad." — William Osler',
-  '"El primer deber del médico es educar a las masas para que no necesiten médico." — Martin H. Fischer',
-  '"La salud no lo es todo, pero sin salud, todo lo demás es nada." — Arthur Schopenhauer',
-  '"El EUNACOM es el primer paso hacia servir a Chile con excelencia médica."',
+  '"El primer deber del medico es educar a las masas para que no necesiten medico." — Martin H. Fischer',
+  '"La salud no lo es todo, pero sin salud, todo lo demas es nada." — Arthur Schopenhauer',
+  '"El EUNACOM es el primer paso hacia servir a Chile con excelencia medica."',
 ]
 
 export default function LoginPage() {
@@ -58,9 +58,9 @@ export default function LoginPage() {
 
       if (error) {
         if (error.message.includes('Invalid login credentials')) {
-          toast.error('Email o contraseña incorrectos')
+          toast.error('Email o contrasena incorrectos')
         } else {
-          toast.error('Error al iniciar sesión. Intenta de nuevo.')
+          toast.error('Error al iniciar sesion. Intenta de nuevo.')
         }
         return
       }
@@ -78,24 +78,24 @@ export default function LoginPage() {
   return (
     <div className="min-h-screen flex">
       {/* LEFT — Branding */}
-      <div className="hidden lg:flex lg:w-1/2 bg-gradient-to-br from-slate-900 to-blue-900 p-12 flex-col justify-between relative overflow-hidden">
+      <div className="hidden lg:flex lg:w-1/2 bg-gradient-to-br from-slate-950 to-slate-800 p-12 flex-col justify-between relative overflow-hidden">
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
-          <div className="absolute -top-20 -right-20 w-96 h-96 rounded-full bg-blue-700/20 blur-3xl" />
-          <div className="absolute -bottom-20 -left-20 w-80 h-80 rounded-full bg-indigo-700/20 blur-3xl" />
+          <div className="absolute -top-20 -right-20 w-96 h-96 rounded-full bg-teal-700/10 blur-3xl" />
+          <div className="absolute -bottom-20 -left-20 w-80 h-80 rounded-full bg-blue-700/10 blur-3xl" />
         </div>
 
         <div className="relative">
           <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center">
-              <span className="text-emerald-600 font-bold text-lg font-mono">Go</span>
+            <div className="w-10 h-10 bg-gradient-to-br from-teal-500 to-blue-600 rounded-xl flex items-center justify-center">
+              <span className="text-white font-bold text-lg font-mono">EG</span>
             </div>
             <span className="font-heading font-bold text-white text-xl">EunacomGo</span>
           </Link>
         </div>
 
         <div className="relative">
-          <div className="text-6xl mb-6">🩺</div>
-          <blockquote className="text-blue-100 text-lg leading-relaxed italic mb-4">
+          <div className="w-12 h-0.5 bg-teal-400 mb-6" />
+          <blockquote className="text-slate-300 text-lg leading-relaxed italic mb-4">
             {quotes[quoteIndex]}
           </blockquote>
           <div className="flex gap-2 mt-4">
@@ -103,15 +103,15 @@ export default function LoginPage() {
               <div
                 key={i}
                 className={`h-1 rounded-full transition-all duration-500 ${
-                  i === quoteIndex ? 'w-6 bg-white' : 'w-2 bg-white/30'
+                  i === quoteIndex ? 'w-6 bg-teal-400' : 'w-2 bg-white/20'
                 }`}
               />
             ))}
           </div>
         </div>
 
-        <div className="relative text-blue-300 text-sm">
-          Construido para médicos chilenos 🇨🇱
+        <div className="relative text-slate-500 text-sm">
+          Para medicos que ejercen en Chile
         </div>
       </div>
 
@@ -119,8 +119,8 @@ export default function LoginPage() {
       <div className="flex-1 flex items-center justify-center p-6 sm:p-12 bg-white">
         <div className="w-full max-w-md">
           <div className="lg:hidden flex items-center gap-2 mb-8">
-            <div className="w-8 h-8 bg-emerald-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm font-mono">Go</span>
+            <div className="w-9 h-9 bg-gradient-to-br from-teal-500 to-blue-600 rounded-xl flex items-center justify-center">
+              <span className="text-white font-bold text-sm font-mono">EG</span>
             </div>
             <span className="font-heading font-bold text-slate-900">EunacomGo</span>
           </div>
@@ -149,12 +149,12 @@ export default function LoginPage() {
             </div>
 
             <div className="space-y-1.5">
-              <Label htmlFor="password">Contraseña</Label>
+              <Label htmlFor="password">Contrasena</Label>
               <div className="relative">
                 <Input
                   id="password"
                   type={showPassword ? 'text' : 'password'}
-                  placeholder="Tu contraseña"
+                  placeholder="Tu contrasena"
                   autoComplete="current-password"
                   {...register('password')}
                   className={`pr-10 ${errors.password ? 'border-red-400 focus:ring-red-300' : ''}`}
@@ -162,7 +162,7 @@ export default function LoginPage() {
                 <button
                   type="button"
                   onClick={() => setShowPassword(!showPassword)}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600"
+                  className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 min-h-[44px] min-w-[44px] flex items-center justify-center"
                 >
                   {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
                 </button>
@@ -174,7 +174,7 @@ export default function LoginPage() {
 
             <Button
               type="submit"
-              className="w-full"
+              className="w-full bg-teal-600 hover:bg-teal-500 text-white min-h-[44px]"
               size="lg"
               disabled={loading}
             >
@@ -184,15 +184,15 @@ export default function LoginPage() {
                   Ingresando...
                 </>
               ) : (
-                'Iniciar sesión'
+                'Iniciar sesion'
               )}
             </Button>
           </form>
 
           <p className="text-center text-sm text-slate-500 mt-6">
-            ¿No tienes cuenta?{' '}
-            <Link href="/register" className="text-blue-600 font-medium hover:underline">
-              Regístrate gratis
+            No tienes cuenta?{' '}
+            <Link href="/register" className="text-teal-600 font-medium hover:underline">
+              Registrate gratis
             </Link>
           </p>
         </div>

@@ -4,10 +4,11 @@
 -- Run in Supabase SQL editor AFTER schema.sql + 001_course_editions_and_lessons.sql
 -- ================================================
 
--- Ensure unique constraint exists so ON CONFLICT works
-ALTER TABLE lessons
-  ADD CONSTRAINT IF NOT EXISTS lessons_specialty_order_unique
-  UNIQUE (specialty_id, order_index);
+-- Ensure unique index exists so ON CONFLICT (specialty_id, order_index) works.
+-- NOTE: ALTER TABLE ADD CONSTRAINT IF NOT EXISTS NO existe en PostgreSQL.
+--       La forma correcta e idempotente es CREATE UNIQUE INDEX IF NOT EXISTS.
+CREATE UNIQUE INDEX IF NOT EXISTS lessons_specialty_order_unique
+  ON lessons(specialty_id, order_index);
 
 -- Get specialty ID for diabetes
 DO $$

@@ -92,3 +92,31 @@ The EUNACOM consists of:
 ## Development Branch Pattern
 
 All feature work goes to `claude/<feature-name>-<session-id>` branches, then PR to master.
+
+## DB Gotchas — PostgreSQL / Supabase
+
+> **IMPORTANTE: Leer `supabase/schema.sql` Y `supabase/migrations/001_*.sql` ANTES de escribir cualquier SQL.**
+> El schema real de la BD puede diferir del código si ya se corrieron migraciones anteriores.
+
+### Restricciones idempotentes
+
+| Objetivo | Forma CORRECTA | Forma INCORRECTA (no existe en PG) |
+|---|---|---|
+| Índice único idempotente | `CREATE UNIQUE INDEX IF NOT EXISTS` | `ALTER TABLE ADD CONSTRAINT IF NOT EXISTS` |
+| Índice normal idempotente | `CREATE INDEX IF NOT EXISTS` | — |
+| Tabla idempotente | `CREATE TABLE IF NOT EXISTS` | — |
+
+### `ON CONFLICT` requiere índice/constraint ÚNICO
+
+- `ON CONFLICT (col1, col2) DO UPDATE` solo funciona si existe un `UNIQUE INDEX` o `UNIQUE CONSTRAINT` sobre `(col1, col2)`.
+- Un `INDEX` normal (no único) no alcanza — PostgreSQL lanza `42P10`.
+- Para migraciones idempotentes usar `CREATE UNIQUE INDEX IF NOT EXISTS` antes del INSERT.
+
+### `lessons` table — constraint única
+
+La tabla `lessons` tiene `UNIQUE INDEX lessons_specialty_order_unique ON (specialty_id, order_index)`.
+Seeds que hacen upsert deben asegurar este índice antes con:
+```sql
+CREATE UNIQUE INDEX IF NOT EXISTS lessons_specialty_order_unique
+  ON lessons(specialty_id, order_index);
+```

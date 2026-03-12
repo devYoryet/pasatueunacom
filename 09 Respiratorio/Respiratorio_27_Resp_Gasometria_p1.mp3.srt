@@ -1,0 +1,195 @@
+1
+00:00:02,990 --> 00:00:08,790
+Hola, hola. Vamos a ver gasometría arterial y vamos a empezar con la parte fácil que es la función respiratoria.
+
+2
+00:00:08,790 --> 00:00:13,590
+Luego, en otro video vamos a hablar de la parte más difícil que es el equilibrio ácido-base.
+
+3
+00:00:13,590 --> 00:00:18,190
+En la función respiratoria las cosas a interpretar son la presión arterial de oxígeno,
+
+4
+00:00:18,190 --> 00:00:22,390
+la presión arterial de CO2 y la diferencia al violo arterial que si bien tiene una fórmula
+
+5
+00:00:22,390 --> 00:00:29,990
+para poder calcularla, al menos la presión al violar de oxígeno y luego la comparo con el informe
+
+6
+00:00:29,990 --> 00:00:32,990
+del gas arterial que me dan la presión arterial de oxígeno.
+
+7
+00:00:32,990 --> 00:00:37,390
+La verdad es que en la práctica viene eso informado en el mismo examen,
+
+8
+00:00:37,390 --> 00:00:39,990
+al menos con el valor de esta diferencia al violo arterial.
+
+9
+00:00:39,990 --> 00:00:47,390
+Respecto al oxígeno, lo normal es que la presión arterial esté entre 75 y 100 milímetros de mercurio
+
+10
+00:00:47,390 --> 00:00:53,590
+de presión arterial de oxígeno. Cuando está baja, abajo de 75, uno habla de hipoxemia,
+
+11
+00:00:53,590 --> 00:00:58,390
+o sea que habría algún grado de disminución, que no hay que confundirlo con hipoxia,
+
+12
+00:00:58,590 --> 00:01:05,590
+que esa es la falta de oxígeno en los tejidos, en cambio la hipoxemia es en la sangre arterial,
+
+13
+00:01:05,590 --> 00:01:11,990
+y aparte de eso el valor de corte de 60 milímetros de mercurio es para hablar de insuficiencia respiratoria,
+
+14
+00:01:11,990 --> 00:01:15,790
+o sea cuando yo tengo una hipoxemia, pero que es muy severa, que está abajo de 60,
+
+15
+00:01:15,790 --> 00:01:20,590
+en ese momento se cumple con el criterio de una insuficiencia respiratoria.
+
+16
+00:01:20,590 --> 00:01:27,590
+Ahora, el punto de corte de 60 es más o menos equivalente a 90% de saturación arterial de oxígeno
+
+17
+00:01:28,190 --> 00:01:33,390
+medido con un saturómetro, y digo más o menos porque es algo que varía mucho de un paciente a otro,
+
+18
+00:01:33,390 --> 00:01:38,790
+pero ya saben, la definición de insuficiencia respiratoria por el oxígeno es menor a 60,
+
+19
+00:01:38,790 --> 00:01:44,590
+y cuando alguien está saturando menos de 90%, es muy probable que sí esté en insuficiencia respiratoria.
+
+20
+00:01:44,590 --> 00:01:50,190
+Respecto al CO2, el valor normal es 40 milímetros de mercurio más menos 5,
+
+21
+00:01:50,190 --> 00:01:55,390
+así que si está bajo 35, uno habla de que hay una hiperventilación,
+
+22
+00:01:55,390 --> 00:01:59,990
+acuérdense que la ventilación es lo que excreta más rápidamente al CO2,
+
+23
+00:01:59,990 --> 00:02:04,990
+así que hiperventilación es sinónimo de hipocarbia o de hipocapnia,
+
+24
+00:02:04,990 --> 00:02:08,790
+y en el caso de que esté arriba de 45, o sea de que esté elevada,
+
+25
+00:02:08,790 --> 00:02:12,590
+de que hay una hipercarbia, en ese caso se habla de una hipoventilación,
+
+26
+00:02:12,590 --> 00:02:18,590
+entonces fíjense, hipoventilación es lo mismo que hipercarbia y es lo mismo que hipercapnia,
+
+27
+00:02:18,590 --> 00:02:23,790
+en cambio hipocarbia o hipocarbia es lo mismo que hiperventilación,
+
+28
+00:02:23,790 --> 00:02:27,790
+eso es algo que a veces al leerlo rápido uno se confunde.
+
+29
+00:02:27,790 --> 00:02:35,590
+Cuando la hipercarbia es muy alta, cuando hay más de 49 milímetros de mercurio de CO2,
+
+30
+00:02:35,590 --> 00:02:38,190
+en ese caso se habla de una insuficiencia respiratoria,
+
+31
+00:02:38,190 --> 00:02:44,590
+y si se dan cuenta, tengo el concepto de insuficiencia respiratoria tanto para el oxígeno como para el CO2,
+
+32
+00:02:44,590 --> 00:02:49,390
+en el caso del oxígeno ya dijimos, abajo a 60, en el caso del CO2 arriba de 49,
+
+33
+00:02:49,590 --> 00:02:53,990
+y se habla de una insuficiencia respiratoria global cuando se cumple con ambos requisitos,
+
+34
+00:02:53,990 --> 00:02:58,990
+en cambio va a ser una insuficiencia respiratoria parcial cuando solamente se cumple con uno de ellos,
+
+35
+00:02:58,990 --> 00:03:00,390
+habitualmente el oxígeno.
+
+36
+00:03:00,390 --> 00:03:06,990
+Finalmente la diferencia al violo arterial, lo normal es que sea muy pequeña, que sea baja,
+
+37
+00:03:06,990 --> 00:03:12,790
+pero el límite va aumentando con la edad y se dice que el máximo es la edad dividido 3,
+
+38
+00:03:12,990 --> 00:03:19,590
+así que alguien que tiene hasta 30 años esta diferencia, lo más probable es que esté hasta 10,
+
+39
+00:03:19,590 --> 00:03:23,390
+si es que tiene ya más 60 años por ejemplo, va a ser hasta 20,
+
+40
+00:03:23,390 --> 00:03:27,190
+y lo importante es que cuando está elevada esta diferencia al violo arterial,
+
+41
+00:03:27,190 --> 00:03:29,590
+refleja que hay un daño en el parénquima pulmonar,
+
+42
+00:03:29,590 --> 00:03:33,390
+así que por ejemplo, en el caso de que hay una insuficiencia respiratoria
+
+43
+00:03:33,390 --> 00:03:37,790
+debido a una enfermedad neuromuscular como una enfermedad de Guillain-Barré
+
+44
+00:03:37,790 --> 00:03:41,190
+o un síntrome de Guillain-Barré, en ese caso no hay daño en los pulmones,
+
+45
+00:03:41,190 --> 00:03:45,990
+simplemente hay un problema de ventilación, así que la diferencia al violo arterial va a estar normal,
+
+46
+00:03:45,990 --> 00:03:51,790
+en cambio en el caso de una neumonía, de un EPOC o alguna otra enfermedad
+
+47
+00:03:51,790 --> 00:03:54,990
+que sí altere el tejido pulmonar, el parénquima pulmonar,
+
+48
+00:03:54,990 --> 00:03:58,790
+en ese caso sí se va a ver un aumento de esta diferencia al violo arterial.
+
+49
+00:03:58,790 --> 00:04:01,990
+Y eso es todo, pero en el siguiente video viene lo difícil, ha sido base.

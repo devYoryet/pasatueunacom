@@ -1,0 +1,471 @@
+1
+00:00:00,000 --> 00:00:07,860
+Siguiendo con anemias, veamos las hemoglobinopatías que son estas patologías genéticas que afectan
+
+2
+00:00:07,860 --> 00:00:12,380
+a la hemoglobina y las que hay que saber que existen y hay que saber identificarlas son
+
+3
+00:00:12,380 --> 00:00:16,880
+las talasemias y la anemia por células falciformes o anemia drepanocítica.
+
+4
+00:00:16,880 --> 00:00:22,580
+Empecemos con las talasemias y recordemos que su clínica es muy variada, en general
+
+5
+00:00:22,580 --> 00:00:25,780
+viene siempre con una anemia de tipo crónica como buena enfermedad genética que puede
+
+6
+00:00:25,780 --> 00:00:31,060
+ser desde muy leve, ejemplo una mutación de solamente una de las cuatro globinas
+
+7
+00:00:31,060 --> 00:00:38,140
+de la hemoglobina, cierto, hasta una muy severa, ejemplo una mutación severa de homosigota
+
+8
+00:00:38,140 --> 00:00:44,720
+puede ser o incluso a veces se afectan tanto las cadenas alfa como las vetas, o sea
+
+9
+00:00:44,720 --> 00:00:48,780
+puede venir una alfa talasemia más una beta talasemia por ejemplo y ser todavía
+
+10
+00:00:48,780 --> 00:00:49,780
+más grave.
+
+11
+00:00:49,780 --> 00:00:51,640
+Ahora, ¿cuándo inicia?
+
+12
+00:00:51,640 --> 00:00:55,180
+Puede iniciar inútero en el caso de la alfa talasemia porque acuérdense que
+
+13
+00:00:55,180 --> 00:00:59,580
+la hemoglobina fetal viene con dos globinas alfa y dos globinas F así que cuando
+
+14
+00:00:59,580 --> 00:01:04,080
+está afectada la alfa ya desde la hemoglobina fetal se produce algún grado de anemia o
+
+15
+00:01:04,080 --> 00:01:08,540
+bien en el caso de la beta talasemia es desde los seis meses o al menos desde los
+
+16
+00:01:08,540 --> 00:01:13,700
+tres meses en el sentido en que la hemoglobina adulta recién se va recambiando, cierto,
+
+17
+00:01:13,700 --> 00:01:17,980
+en ese rango de edad desde los dos meses en adelante y habitualmente a los seis
+
+18
+00:01:17,980 --> 00:01:23,420
+meses ya hay muy poquita hemoglobina fetal y se produce este efecto de anemia.
+
+19
+00:01:23,420 --> 00:01:27,580
+O sea, repito, la alfa talasemia está presente desde el nacimiento, la beta
+
+20
+00:01:27,580 --> 00:01:31,300
+talasemia está presente habitualmente desde los seis meses en adelante.
+
+21
+00:01:31,300 --> 00:01:35,220
+Segundo lugar puede venir con o sin antecedentes familiares en el sentido que es una
+
+22
+00:01:35,220 --> 00:01:39,460
+enfermedad genética pero muchas veces esa sintomática o a veces requiere una
+
+23
+00:01:39,460 --> 00:01:43,220
+mutación autosómica recesiva que hace que no se vea la historia familiar hacia
+
+24
+00:01:43,220 --> 00:01:44,220
+atrás.
+
+25
+00:01:44,220 --> 00:01:46,420
+Ahora, ¿cuáles son los exámenes que uno pide?
+
+26
+00:01:46,420 --> 00:01:50,260
+En primer lugar el hemograma, cierto, y acuérdense que suele ser una anemia
+
+27
+00:01:50,260 --> 00:01:54,220
+microsítica y eso hace que se confunda con la anemia ferropénica pero hay por
+
+28
+00:01:54,220 --> 00:01:57,340
+lo menos dos diferencias que vamos a ver y que hay que saberlas porque lo
+
+29
+00:01:57,340 --> 00:02:00,940
+más importante de la talasemia es saber diferenciarla de una anemia
+
+30
+00:02:00,940 --> 00:02:02,740
+ferropénica y no confundirla.
+
+31
+00:02:02,740 --> 00:02:06,380
+Y en primer lugar es que las talasemias vienen con isocitosis.
+
+32
+00:02:06,380 --> 00:02:09,540
+Dígase, todas las células, aunque son pequeñas, aunque son microsíticas,
+
+33
+00:02:09,540 --> 00:02:11,340
+son de tamaños similares.
+
+34
+00:02:11,340 --> 00:02:14,980
+Dígase, hay una dispersión eritrocitaria o un I de índice de
+
+35
+00:02:14,980 --> 00:02:17,420
+dispersión eritrocitaria que es normal.
+
+36
+00:02:17,420 --> 00:02:21,220
+O sea, no hay anisocitosis sino que isocitosis.
+
+37
+00:02:21,220 --> 00:02:25,380
+En cambio, en la ferropénica hay anisocitosis o un aumento en el
+
+38
+00:02:25,380 --> 00:02:29,660
+índice de dispersión eritrocitaria porque los tamaños son distintos.
+
+39
+00:02:29,660 --> 00:02:33,260
+Segundo lugar, en la talasemia suele haber un aumento en el número de
+
+40
+00:02:33,260 --> 00:02:34,700
+glóbulos rojos.
+
+41
+00:02:34,700 --> 00:02:38,060
+Dígase, la hemoglobina cae porque hay una anemia, obviamente,
+
+42
+00:02:38,060 --> 00:02:40,780
+pero la cantidad de glóbulos rojos, si yo los cuento, puede estar
+
+43
+00:02:40,780 --> 00:02:44,380
+aumentada, ejemplo, cinco millones, seis millones, incluso más,
+
+44
+00:02:44,380 --> 00:02:46,380
+por milímetro cúbico, obviamente.
+
+45
+00:02:46,380 --> 00:02:50,100
+Acuérdense que el normal es más o menos cuatro a cinco millones
+
+46
+00:02:50,100 --> 00:02:54,140
+según si es que seas mujer o si es que seas hombre.
+
+47
+00:02:54,180 --> 00:02:57,660
+Aparte, es una anemia de tipo hemolítica, así que viene con todas
+
+48
+00:02:57,660 --> 00:03:00,020
+las alteraciones del hemólisis, pero obviamente con un cuadro
+
+49
+00:03:00,020 --> 00:03:02,660
+clínico bien particular y con exámenes bien particulares.
+
+50
+00:03:02,660 --> 00:03:06,060
+Y, finalmente, puede que el perfil de hierro sea normal o bien
+
+51
+00:03:06,060 --> 00:03:08,900
+que haya una sobrecarga de hierro con una hemocromatosis
+
+52
+00:03:08,900 --> 00:03:11,940
+secundaria a esta talasemia.
+
+53
+00:03:11,940 --> 00:03:13,780
+¿Cómo se hace el diagnóstico de las talasemias?
+
+54
+00:03:13,780 --> 00:03:17,060
+Pues, con una electroforesis de la hemoglobina, una
+
+55
+00:03:17,060 --> 00:03:20,340
+electroforesis de proteína para hemoglobina o bien con algún
+
+56
+00:03:20,380 --> 00:03:23,540
+otro examen que vaya a buscar directamente la estructura
+
+57
+00:03:23,540 --> 00:03:25,860
+de la hemoglobina, ejemplo, una cromatografía.
+
+58
+00:03:25,860 --> 00:03:28,940
+Y aparte de eso, me sirven también los análisis genéticos
+
+59
+00:03:28,940 --> 00:03:32,460
+que van directamente a buscar las alteraciones genéticas que
+
+60
+00:03:32,460 --> 00:03:35,180
+se asocian a los distintos tipos de talasemia.
+
+61
+00:03:35,180 --> 00:03:37,900
+El tratamiento de las talasemias habitualmente es
+
+62
+00:03:37,900 --> 00:03:41,540
+observar en los casos leves hasta las transfusiones que
+
+63
+00:03:41,540 --> 00:03:44,700
+se hacen de manera periódica en los casos más graves.
+
+64
+00:03:44,700 --> 00:03:47,060
+Y, además, si es que viene con una sobrecarga de hierro
+
+65
+00:03:47,060 --> 00:03:50,140
+para evitar el daño que produce el depósito de hierro
+
+66
+00:03:50,180 --> 00:03:54,380
+en esta hemocromatosis secundaria, se agregan estos
+
+67
+00:03:54,380 --> 00:03:55,260
+esquelantes de hierro.
+
+68
+00:03:55,260 --> 00:03:57,460
+Que no hay que saber el nombre, pero sí hay que saber que
+
+69
+00:03:57,460 --> 00:04:00,340
+eventualmente se da también la talasemia.
+
+70
+00:04:00,340 --> 00:04:03,140
+Vemos ahora la anemia drepanocítica o anemia de
+
+71
+00:04:03,140 --> 00:04:05,100
+células falsiformes que son sinónimos.
+
+72
+00:04:05,100 --> 00:04:08,220
+Falsiformes significa en forma de os.
+
+73
+00:04:08,220 --> 00:04:11,500
+Acuérdense que en inglés se dice sickle cell.
+
+74
+00:04:11,500 --> 00:04:13,860
+Sickle es en forma de una os.
+
+75
+00:04:13,860 --> 00:04:17,420
+Y acuérdense que su clínica es una triada.
+
+76
+00:04:17,460 --> 00:04:20,900
+Anemia, más infecciones, más trombosis.
+
+77
+00:04:20,900 --> 00:04:22,420
+Esas tres cosas.
+
+78
+00:04:22,420 --> 00:04:25,740
+Y, asociado a los fenómenos trombóticos,
+
+79
+00:04:25,740 --> 00:04:27,260
+puede venir con un montón de síntomas.
+
+80
+00:04:27,260 --> 00:04:29,540
+Dígase, con un priapismo isquémico,
+
+81
+00:04:29,540 --> 00:04:31,540
+con un infarto buroalmitocardio,
+
+82
+00:04:31,540 --> 00:04:33,220
+accidente vascular encefálico,
+
+83
+00:04:33,220 --> 00:04:35,740
+con infartos renales que se traducen en insuficiencia
+
+84
+00:04:35,740 --> 00:04:38,620
+renal aguda y luego en insuficiencia renal crónica,
+
+85
+00:04:38,620 --> 00:04:41,220
+con osteoporosis por el daño isquémico de los huesos,
+
+86
+00:04:41,220 --> 00:04:42,060
+etcétera.
+
+87
+00:04:42,060 --> 00:04:45,900
+Pero, repito, anemia, infecciones y trombosis es
+
+88
+00:04:46,660 --> 00:04:49,020
+y con un cuadro bien florido que puede ser bastante
+
+89
+00:04:49,020 --> 00:04:50,580
+inespecífico también.
+
+90
+00:04:50,580 --> 00:04:52,340
+Ahora, ¿cómo se hace el diagnóstico?
+
+91
+00:04:52,340 --> 00:04:54,580
+Nuevamente con el análisis de la hemoglobina,
+
+92
+00:04:54,580 --> 00:04:59,380
+ya sea con una cromatografía o con una electroforesis
+
+93
+00:04:59,380 --> 00:05:02,500
+que se informa como hemoglobina S,
+
+94
+00:05:02,500 --> 00:05:04,780
+que es la hemoglobina sickle,
+
+95
+00:05:04,780 --> 00:05:06,940
+versus los estudios genéticos que van nuevamente
+
+96
+00:05:06,940 --> 00:05:08,940
+a buscar directamente estas mutaciones
+
+97
+00:05:08,940 --> 00:05:10,700
+que se asocian a esta enfermedad.
+
+98
+00:05:10,700 --> 00:05:13,140
+Ahora, en el hemograma, además en el frotis,
+
+99
+00:05:13,140 --> 00:05:16,820
+aparte de la anemia, puedo ver las células falciformes
+
+100
+00:05:16,820 --> 00:05:18,860
+o los drepanocitos que se ven en forma
+
+101
+00:05:18,860 --> 00:05:21,380
+de una semiluna o de una os.
+
+102
+00:05:21,380 --> 00:05:22,700
+¿Cuál es el tratamiento de la anemia
+
+103
+00:05:22,700 --> 00:05:24,420
+de células falciformes?
+
+104
+00:05:24,420 --> 00:05:25,340
+Esto hay que saberlo.
+
+105
+00:05:25,340 --> 00:05:28,260
+Sirve en la hidroxiguria o hidroxigurea
+
+106
+00:05:28,260 --> 00:05:30,620
+y aparte de eso, el manejo de la anemia en sí
+
+107
+00:05:30,620 --> 00:05:32,460
+puede ser desde la simple observación
+
+108
+00:05:32,460 --> 00:05:33,540
+en los casos más leves
+
+109
+00:05:33,540 --> 00:05:35,980
+hasta las transfusiones también periódicas
+
+110
+00:05:35,980 --> 00:05:37,540
+en el caso de anemia más severa.
+
+111
+00:05:37,540 --> 00:05:39,580
+Y además, hay que evaluar si es que requiere
+
+112
+00:05:39,580 --> 00:05:42,900
+algún antiagregante o algún antitrombótico,
+
+113
+00:05:42,900 --> 00:05:45,140
+y eso va a depender del caso concreto.
+
+114
+00:05:45,140 --> 00:05:46,340
+Y eso es todo lo que hay que saber.
+
+115
+00:05:46,340 --> 00:05:47,820
+Hay que saber que existe y hay que saber
+
+116
+00:05:47,820 --> 00:05:50,980
+identificarla en el hemograma en particular.
+
+117
+00:05:50,980 --> 00:05:51,940
+Nos vemos en el siguiente video.
+
+118
+00:05:51,940 --> 00:05:52,940
+Que estén bien.

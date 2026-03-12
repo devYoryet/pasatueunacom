@@ -1,0 +1,211 @@
+1
+00:00:03,280 --> 00:00:07,560
+Hola, hola. Este va a ser un video muy corto en que vamos a recordar todas las indicaciones de
+
+2
+00:00:07,560 --> 00:00:11,720
+insulina y con qué insulina se deja en cada una de estas indicaciones. Así que empecemos.
+
+3
+00:00:11,720 --> 00:00:16,480
+Número uno, la diabetes mellitus tipo 1, la diabetes Lada, las autoinmunes. Por el general
+
+4
+00:00:16,480 --> 00:00:20,280
+siempre se manejan con insulina. ¿Y en qué esquema? Esquema intensificado, que si se
+
+5
+00:00:20,280 --> 00:00:25,880
+acuerdan era una dosis de ultralenta o como mínimo dos dosis de NPH. En la práctica es
+
+6
+00:00:25,880 --> 00:00:31,000
+una dosis de clargina más las tres dosis de insulina cristalina precomida. Segundo lugar,
+
+7
+00:00:31,000 --> 00:00:35,120
+en el caso de la cetosidosis diabética o el síndrome hiperglicémico hiperosmolar,
+
+8
+00:00:35,120 --> 00:00:40,120
+en ese caso que dejar la insulina cristalina habitualmente se deja un bolo, que la dosis
+
+9
+00:00:40,120 --> 00:00:46,760
+suele ser o de 10 unidades o de 0,1 unidad por kilo y luego queda con un goteo de esa
+
+10
+00:00:46,760 --> 00:00:52,240
+misma cantidad más o menos que se pasa cada hora hasta que se logra que la glicemia baje.
+
+11
+00:00:52,240 --> 00:00:56,760
+Aparte de esto, la diabetes tipo 2, acuérdense que había ciertas indicaciones. La más
+
+12
+00:00:56,760 --> 00:01:01,680
+importante era la hemoglobina licosilada arriba de 9%, ahí había que partir con
+
+13
+00:01:01,680 --> 00:01:05,760
+insulina de inmediato, o bien cuando estaba con dos hipoglicemiantes orales en dosis
+
+14
+00:01:05,760 --> 00:01:11,160
+máxima y la hemoglobina seguía arriba de 7 u 8% que era el objetivo del control
+
+15
+00:01:11,160 --> 00:01:15,840
+metabólico y obviamente cuando están contraindicados los hipoglicemiantes orales
+
+16
+00:01:15,840 --> 00:01:20,440
+como la insuficiencia cardiaca o en la falla renal con esos valores de corte,
+
+17
+00:01:20,440 --> 00:01:25,920
+una crea de 1,5 o más o bien un clearance menor a 30 ml minuto.
+
+18
+00:01:25,920 --> 00:01:30,160
+Y en este caso la diabetes dosis, ¿acuerdan qué insulina había que dejar? Era la insulina
+
+19
+00:01:30,160 --> 00:01:35,880
+NPH que podía ser una o dos dosis y en el caso de que siguiera con un mal control
+
+20
+00:01:35,880 --> 00:01:39,920
+metabólico de las glicemias posprandiales se agregaba la insulina cristalina.
+
+21
+00:01:39,920 --> 00:01:45,640
+Ahora como alternativa a la NPH está la insulina ultra lenta, la glargina se deja
+
+22
+00:01:45,640 --> 00:01:50,960
+en particular cuando había hipoglicemias, acuérdense que la NPH tenía un peak y por
+
+23
+00:01:50,960 --> 00:01:55,120
+lo tanto tenía un riesgo de hipoglicemia más alta que la ultra lenta que viene
+
+24
+00:01:55,120 --> 00:01:58,480
+sin peak y por lo tanto con un menor riesgo de hipoglicemia.
+
+25
+00:01:58,480 --> 00:02:03,480
+Ahora en el paciente hospitalizado, acuérdense, se dejaba insulina cristalina endovenosa
+
+26
+00:02:03,480 --> 00:02:08,280
+cada 6 horas ajustada por hemogluco test y más eventualmente sus medicamentos
+
+27
+00:02:08,280 --> 00:02:12,080
+de base también pero lo más importante en el diabético tipo 2 con una enfermedad
+
+28
+00:02:12,080 --> 00:02:18,240
+grave era el cambiarse completamente a insulina cristalina cada 6 horas más el hemogluco test
+
+29
+00:02:18,240 --> 00:02:21,640
+que me determina finalmente la dosis que se le va a administrar.
+
+30
+00:02:21,640 --> 00:02:25,920
+Ahora hay algunas otras indicaciones que vale la pena saber que no las vamos a ver
+
+31
+00:02:25,920 --> 00:02:33,640
+en ninguna de las otras dispositivas que son la diabetes causada por corticoides,
+
+32
+00:02:33,640 --> 00:02:37,440
+ejemplo alguien que está con lupus y está con prednisona y me desarrolla una
+
+33
+00:02:37,440 --> 00:02:40,080
+diabetes seguramente se va a manejar con insulina.
+
+34
+00:02:40,080 --> 00:02:43,680
+En el caso del embarazo, acuérdense que sí se podía usar la metformina,
+
+35
+00:02:43,680 --> 00:02:48,080
+sí se podía usar la glivenclamida pero el tratamiento de elección sigue siendo la insulina
+
+36
+00:02:48,080 --> 00:02:52,360
+que podría ser la NPH o la NPH más insulina cristalina.
+
+37
+00:02:52,360 --> 00:02:56,800
+Cuando está con glicemias demasiado elevadas, una glicemia arriba de 400,
+
+38
+00:02:56,800 --> 00:03:00,400
+si bien en la práctica muchas veces solamente se ajustan sus medicamentos,
+
+39
+00:03:00,400 --> 00:03:03,800
+la verdad es que lo correcto desde el punto de vista médico legal es
+
+40
+00:03:03,800 --> 00:03:09,040
+el hospitalizarlo y manejarlo con insulina al menos hasta lograr controlar esta
+
+41
+00:03:09,080 --> 00:03:12,240
+hiperglicemia que tiene riesgo de evolucionar a una complicación más grave
+
+42
+00:03:12,240 --> 00:03:16,080
+como un síndrome hiperglicémico o hiperosmolar por ejemplo.
+
+43
+00:03:16,080 --> 00:03:20,000
+Igualmente cuando está con síntomas de diabetes, los síntomas de diabetes
+
+44
+00:03:20,000 --> 00:03:23,320
+sugieren una enfermedad muy grave así que esté con baja de peso,
+
+45
+00:03:23,320 --> 00:03:26,520
+con poliurea, con polifagia, con polidipsia, con esas cosas.
+
+46
+00:03:26,520 --> 00:03:32,560
+De entrada va a empezar con insulina, eventualmente si se logra que se controle bien
+
+47
+00:03:32,560 --> 00:03:36,120
+me puedo cambiar a los hipoglicemiantes siempre y cuando sea una diabetes 2
+
+48
+00:03:36,160 --> 00:03:40,120
+porque los síntomas son más frecuentes la diabetes 1 que la diabetes 2.
+
+49
+00:03:40,120 --> 00:03:45,120
+Y finalmente la neuropatía dolorosa o la neuropatía amiotrófica son indicaciones
+
+50
+00:03:45,120 --> 00:03:52,800
+relativas de insulina en el sentido en que no regresa habitualmente la neuropatía
+
+51
+00:03:52,800 --> 00:03:57,280
+pero sí se puede lograr que se rebusca un poco el dolor junto con otros medicamentos
+
+52
+00:03:57,280 --> 00:04:02,360
+obviamente y se puede lograr que gane peso en el caso de la atrofe muscular.
+
+53
+00:04:02,360 --> 00:04:05,360
+Y bueno eso fue todo nos vemos en la siguiente clase que estén bien.

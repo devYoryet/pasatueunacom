@@ -1,0 +1,169 @@
+Hola, hola vamos a ver un tema que es difícil que es la gasometría tanto arterial como venosa para ver el equilibrio ácido base y la
+
+idea de esto es que quede todo bien claro. Ahora, fíjense, arterial o venosa porque el equilibrio ácido base se puede evaluar
+
+tanto en sangre arterial como en sangre venosa, a diferencia del estado respiratorio que requiere gases arteriales. Así que vamos a
+
+ver acá cómo se interpreta, que repito, independientemente de que sea una muestra venosa o una muestra arterial, se interpretan de la misma manera
+
+tanto para ver si hay una acidosis o una calosis, si es que es metabólica o respiratoria.
+
+El pH, P-A-CO2, el bicarbonato o HCO3 y el base excess son los cuatro parámetros que hay que saber interpretar.
+
+Acuérdense que el pH normal es
+
+7,4 más menos 0,04, o sea entre 7,36 y 7,44.
+
+Si es que está debajo de eso hay una acidemia, si es que está arriba de eso hay una alcalemia.
+
+Acidemia y alcalemia son el término que se usa para referirse al hallazgo del examen de sangre,
+
+pero detrás de ellas habitualmente hay una acidosis o una calosis, respectivamente, que son las enfermedades que generan estas alternaciones.
+
+En el caso del CO2 ya dijimos que lo normal era de 40 más menos 5, o sea entre 35 y 45 y en el
+
+caso del bicarbonato el normal es que sea 24 más menos 3 o más menos 2 según donde uno lo busque.
+
+Finalmente el base excess, el normal es que sea 0 más menos 3. Ahora en algunas partes sale más menos 2 y
+
+me interesa detenerme un poco a saber cómo interpretar el base excess, que es muy muy sencillo en el sentido en que me refleja
+
+exclusivamente el componente metabólico. No muestra nada de lo respiratorio, se altera siempre en las alteraciones
+
+metabólicas y no se altera en las alteraciones respiratorias. Así que si yo tengo un base excess que está aumentado, yo digo desde el punto de vista
+
+metabólico me sobra base, así que tengo una alcalosis metabólica y si que en cambio está disminuido, si está menor a 3, yo digo desde el punto de vista
+
+metabólico me falta base, o sea me sobra ácido, o sea tengo una acidosis metabólica.
+
+Repito, base excess igual componente metabólico y nada respiratorio.
+
+Veamos un poquito la fisiopatología
+
+tanto de las acidosis como de las alcalosis, tanto metabólicas como respiratorias, de manera que quede mucho más claro cómo interpretar estos gases
+
+y la pregunta que uno se hace es, ¿qué es lo primero que pasa? ¿qué es lo que ocurre en
+
+primer lugar? Sabiendo que en lo metabólico habitualmente se afecta el bicarbonato y en lo respiratorio lo que se afecta en primer lugar
+
+es el CO2, en el sentido en que o se retiene o se excreta demasiado CO2. En el caso de la acidosis
+
+metabólica, lo que ocurre habitualmente es que se pierde mucho bicarbonato, así que cae mucho el
+
+bicarbonato y eso es lo que ocurre primero. En el caso de la
+
+alcalosis metabólica, en cambio, lo que ocurre es todo lo contrario, aumenta mucho el bicarbonato, en lo respiratorio lo que ocurre en primer lugar
+
+es que se altera el CO2, en el caso de una cidosis respiratoria, el CO2 es ácido, así que aumenta
+
+el CO2 y ahí se produce esta cidosis respiratoria, y en el caso de la alcalosis respiratoria, lo que ocurre en primer lugar
+
+es que cae mucho el CO2, o sea, hay una hiperventilación con pérdida de CO2.
+
+Por lo tanto, una vez que yo ya sé lo que ocurre en primer lugar, tengo que saber
+
+que en segundo lugar, por un simple equilibrio químico, sin que haya una compensación real,
+
+el CO2 siempre sigue al bicarbonato y el bicarbonato siempre sigue al CO2, así que si es que el CO2 bajo mucho, el
+
+bicarbonato va a bajar un poco, si es que el bicarbonato bajó mucho, el CO2 va a bajar un poco, así que esa es la
+
+forma en que habitualmente se ven, cuando el bicarbonato baja, el CO2 baja, y cuando el CO2
+
+baja, el bicarbonato baja, y cuando suben, ocurre exactamente lo mismo, entonces fíjense,
+
+la cidosis metabólica viene con CO2 y con bicarbonato bajo, con las dos cosas, al igual que la
+
+alcalosis respiratoria, y por otro lado, la cidosis
+
+respiratoria viene con el CO2 y el bicarbonato alto, al igual que la alcalosis,
+
+así que justamente hay que ver ahí el valor del pH muchas veces para ver la diferencia.
+
+Respecto al base excess, ya dijimos solo se altera en lo metabólico,
+
+baja en la cidosis metabólica, sube la alcalosis metabólica, en cambio no se altera lo respiratorio, ahí el base excess va a estar siempre normal.
+
+Vamos con algunos ejemplos de qué enfermedades son las que generan una cidosis metabólica,
+
+por ejemplo, y ahí está la diarrea, que se pierde bicarbonato a las deposiciones, la insuficiencia relacrónica, que se pierde por vía urinaria,
+
+la acetoacidosis diabética o la acidosis láctica, en que aparece un ácido orgánico que
+
+libera un protón y que se consume el bicarbonato, la acidosis tubular renal, en que igualmente se pierde bicarbonato en la orina.
+
+Respecto a las alcalosis metabólicas que hay que saber, están los vómitos, en que obviamente
+
+se pierde ácido por el mismo vómito, o el hiper aldosteronismo, en el sentido en que se genera
+
+un aumento de la excreción renal de protones y de potasio también, pero de los protones también, así que los hiper aldosteronismos
+
+habitualmente vienen con una alcalosis metabólica más una hipocalemia.
+
+En el caso de la acidosis respiratoria, cualquier cosa que produzca hipoventilación, ejemplo,
+
+intoxicación por benzogazepina o por barbitúrico o por opiáceo, las enfermedades
+
+neuromusculares como el síndrome de Guillain-Barré,
+
+la esclerosis lateral amiotrópica o el agotamiento muscular en el caso de un paciente con insuficiencia respiratoria,
+
+y finalmente las alcaloses
+
+respiratorias, cualquier cosa que produzca hiperventilación, como ejemplo, una crisis de pánico o un caso con una insuficiencia
+
+respiratoria que sea importante también.
+
+En el caso de la acidosis metabólica, hay dos detalles
+
+adicionales que hay que saber, número uno, ver el anion gap, en el sentido en que se
+
+subdivide en con anion gap aumentado y con anion gap normal, y segundo lugar, ver si es que tiene alguna
+
+alteración respiratoria concomitante a esta acidosis metabólica. Esas son preguntas que, repito, solo se hacen en las acidosis
+
+metabólicas, no en ninguna de las otras alteraciones.
+
+En el caso del anion gap hay que saber la fórmula, el anion gap se calcula como el sodio menos el cloro y menos el
+
+bicarbonato. Recuerden que el sodio es el principal cation, o sea, el
+
+principal ion positivo, el cloro y el bicarbonato son los principales aniones, y el anion gap son justamente
+
+los otros aniones que finalmente logran el equilibrio entre los cationes y los aniones.
+
+El valor normal del anion gap es 10 más menos 2, o sea, entre 8 y 12, y va a estar
+
+aumentado cuando esté arriba de 12 y eso va a reflejar que la acidosis es causada por un ácido orgánico.
+
+Ejemplo, cetoácidos, ácido láctico, los ácidos derivados de los alcoholes, ya sea el metanol o del etanol,
+
+y el ácido salicílico o acetil salicílico en las intoxicaciones por aspirinas u otros salicilatos.
+
+Por otro lado, la otra pregunta que habíamos dicho es si es que hay alguna alteración
+
+respiratoria o no, y en ese caso lo que se hace es para hacerlo rápido, porque hay algunas fórmulas
+
+matemáticas muy complejas que no vale la pena saberlos y que no hay tiempo como para analizarlo, pero
+
+lo que yo puedo hacer de manera muy rápida es comparar el número que está después de la coma en el pH, el 7, algo,
+
+con el valor del CO2, así que si yo digo tiene un pH de 7,33, lo comparo con
+
+la presión arterial de CO2 que, ejemplo, puede estar en 35, y ahí veo si es que se parecen o no.
+
+Si es que el CO2 se parece mucho al número después de la coma, yo digo esto es solamente
+
+una acidosis metabólica y no hay ningún componente respiratorio, así que el CO2 es mucho mayor al número que está después de
+
+la coma en el pH, yo digo en este caso además hay una acidosis respiratoria, o sea habría una acidosis
+
+mixta, porque hay una acidosis metabólica, estamos hablando de acidosis metabólica, más este componente
+
+respiratorio con acidosis respiratoria también. Y finalmente, si es que el CO2 está mucho más bajo
+
+que ese número, en ese caso yo digo aquí hay una hiperventilación, hay una alcalosis respiratoria
+
+concomitante a esta acidosis metabólica. Si no quedó claro, va a quedar claro en el siguiente video
+
+porque vamos a ver unos ejemplos y ahí ya no debería haber ninguna duda, es difícil, pero se puede que estén bien.

@@ -1,0 +1,271 @@
+1
+00:00:03,220 --> 00:00:08,020
+Hola, hola. Veamos cómo se maneja la hipertensión en los diabéticos que hay
+
+2
+00:00:08,020 --> 00:00:11,540
+harta evidencia, hartas cosas que hay que tomar en consideración y sirve como
+
+3
+00:00:11,540 --> 00:00:15,700
+repaso para los anti hipertensivos también. Así que empecemos con cuál es
+
+4
+00:00:15,700 --> 00:00:20,340
+el objetivo de presión arterial en el diabético. Pues existen dos grandes
+
+5
+00:00:20,340 --> 00:00:24,300
+corrientes. Uno que dicen 130-80 que es la más aceptada a nivel
+
+6
+00:00:24,300 --> 00:00:28,900
+internacional y la otra que dice 140-90 que más de algún documento del
+
+7
+00:00:29,340 --> 00:00:34,540
+aquí en Chile sugiere el 140-90, pero hay otros que dicen 130-80. Así que subrayo
+
+8
+00:00:34,540 --> 00:00:39,100
+ese y quédense con ese valor si es que los obligan a elegir entre uno u otro.
+
+9
+00:00:39,100 --> 00:00:44,380
+Ahora, cuando hay nefropatía, ya sea la caída del clearance o ya sea la
+
+10
+00:00:44,380 --> 00:00:49,380
+microalbuminuria o macroalbuminuria o una proteínuria en un rango más
+
+11
+00:00:49,380 --> 00:00:53,860
+alto, cuando hay daño renal, en ese caso, el 130-80 es obligatorio. Ese
+
+12
+00:00:53,860 --> 00:00:57,660
+es el que hay que elegir. Segundo lugar, qué anti hipertensivo hay que
+
+13
+00:00:57,660 --> 00:01:03,100
+dejar y pues hay que saber cuáles son los beneficios y los daños que
+
+14
+00:01:03,100 --> 00:01:05,860
+puede generar en el paciente diabético cada una de las familias de
+
+15
+00:01:05,860 --> 00:01:10,260
+anti hipertensivos. Y empecemos con qué dice la evidencia. La evidencia
+
+16
+00:01:10,260 --> 00:01:14,940
+dice todos los anti hipertensivos sirven en la diabetes, pero hay que
+
+17
+00:01:14,940 --> 00:01:20,060
+tener cuidado con cuáles son los potenciales como efectos negativos. Y
+
+18
+00:01:20,060 --> 00:01:23,020
+segundo lugar, hay que tener alto cuidado con las comorbilidades porque
+
+19
+00:01:23,020 --> 00:01:26,460
+hay algunas veces en que tiene diabetes, pero aparte de eso tiene una
+
+20
+00:01:26,460 --> 00:01:29,740
+serie de otras enfermedades que me obligan a dejarle algún
+
+21
+00:01:29,740 --> 00:01:33,660
+anti hipertensivo que no le habría dejado a un diabético. Ejemplo, tengo
+
+22
+00:01:33,660 --> 00:01:36,860
+un paciente que tiene una falla cardíaca importante, seguramente le voy
+
+23
+00:01:36,860 --> 00:01:40,180
+a dejar un beta bloqueo, aunque no me gusta dejárselo a alguien que sea
+
+24
+00:01:40,180 --> 00:01:43,180
+diabético, pero con eso le voy a aumentar su sobrevía. Así que
+
+25
+00:01:43,180 --> 00:01:47,340
+nuevamente hay que meter en una balanza esta decisión. Pero vemos
+
+26
+00:01:47,340 --> 00:01:51,660
+cada una de las familias. Los YECA y los ARA2 suelen ser los de
+
+27
+00:01:51,660 --> 00:01:56,860
+elección en la diabetes. Ahora pongo en ese mismo cuadro al Diltiazem, a
+
+28
+00:01:56,860 --> 00:02:01,060
+los bloqueadores del calcio no dihidropiridínicos. ¿Por qué? Porque
+
+29
+00:02:01,060 --> 00:02:05,060
+tienen el efecto que es bueno en la diabetes de disminuir la
+
+30
+00:02:05,060 --> 00:02:08,740
+proteinuria, de disminuir la albuminuria y por lo tanto de
+
+31
+00:02:08,740 --> 00:02:11,220
+disminuir la progresión de la insuficiencia renal y de la
+
+32
+00:02:11,220 --> 00:02:15,420
+nefropatía diabética. Así que YECA y ARA2, cualquiera de los dos, son
+
+33
+00:02:15,420 --> 00:02:20,100
+el tratamiento de elección en el diabético con hipertensión, sabiendo
+
+34
+00:02:20,140 --> 00:02:23,340
+que el Diltiazem eventualmente me puede ayudar también. Segundo
+
+35
+00:02:23,340 --> 00:02:27,660
+lugar, las T-Acidas son buenas, se usan, pero aumentan la
+
+36
+00:02:27,660 --> 00:02:29,940
+resistencia a la insulina. Así que hay que saber que si le voy
+
+37
+00:02:29,940 --> 00:02:33,340
+a dejar una T-Acida a un diabético, eventualmente se me puede
+
+38
+00:02:33,340 --> 00:02:35,580
+descompensar del punto de vista metabólico. O bien, si
+
+39
+00:02:35,580 --> 00:02:40,420
+tengo un paciente diabético mal controlado, no le de una
+
+40
+00:02:40,420 --> 00:02:44,620
+T-Acida o un diurético, sino que busque otro medicamento.
+
+41
+00:02:44,620 --> 00:02:47,420
+En el caso del beta bloqueo sirve en la diabetes, pero
+
+42
+00:02:47,460 --> 00:02:50,660
+tiene lo malo que me ocultan los síntomas de hipoglicemia.
+
+43
+00:02:50,660 --> 00:02:54,860
+En específico, los síntomas simpático miméticos, que son
+
+44
+00:02:54,860 --> 00:02:57,580
+los iniciales, los que anteceden a los más graves, que
+
+45
+00:02:57,580 --> 00:03:01,460
+son los neuroglucopénicos, ¿cierto? Así que me da miedo
+
+46
+00:03:01,460 --> 00:03:06,460
+dejarle el Atenolol o algún otro beta bloqueante a un
+
+47
+00:03:06,460 --> 00:03:09,660
+diabético que tenga riesgo de hipoglicemia. Así que me va
+
+48
+00:03:09,660 --> 00:03:12,740
+quedando solamente el Amludipino, que es de la
+
+49
+00:03:12,740 --> 00:03:17,180
+familia de los bloqueadores del calcio sí dihidropiridínicos.
+
+50
+00:03:17,180 --> 00:03:21,100
+El Diltiazem y el Merapamilio son los no dihidropiridínicos.
+
+51
+00:03:21,100 --> 00:03:24,020
+El Amludipino, el Nifedipino, que casi no se usa.
+
+52
+00:03:24,020 --> 00:03:27,020
+Y el Nitrendipino, que casi no se usa tampoco, porque
+
+53
+00:03:27,020 --> 00:03:30,180
+ha sido desplazado por el Amludipino, que dura más.
+
+54
+00:03:30,180 --> 00:03:31,580
+No es ni bueno ni malo la diabetes.
+
+55
+00:03:31,580 --> 00:03:34,260
+Así que se puede dejar en la diabetes si es que
+
+56
+00:03:34,260 --> 00:03:35,540
+tengo que dejarle algo más.
+
+57
+00:03:35,540 --> 00:03:37,020
+Así que, ¿cuál es la conclusión?
+
+58
+00:03:37,020 --> 00:03:38,980
+¿Cuál es el resumen de todo esto?
+
+59
+00:03:38,980 --> 00:03:40,940
+Y que valía la pena explicarlo.
+
+60
+00:03:40,940 --> 00:03:43,780
+Así que por eso es que los obligué a dedicar algo de
+
+61
+00:03:43,780 --> 00:03:44,660
+tiempo a esto.
+
+62
+00:03:44,700 --> 00:03:47,420
+Pero la conclusión es deje que llegue aguardado.
+
+63
+00:03:47,420 --> 00:03:49,820
+Y si hay que agregar algo más, pues agrégale un bloqueador
+
+64
+00:03:49,820 --> 00:03:50,620
+de calcio.
+
+65
+00:03:50,620 --> 00:03:53,820
+Idealmente el Diltiazem si es que viene con albuminuria o
+
+66
+00:03:53,820 --> 00:03:57,140
+bien el Amludipino si es que viene sin albuminuria.
+
+67
+00:03:57,140 --> 00:04:00,220
+O si es que es más barato y está disponible.
+
+68
+00:04:00,220 --> 00:04:02,460
+Así que eso, que estén bien.

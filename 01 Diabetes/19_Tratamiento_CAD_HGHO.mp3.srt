@@ -1,0 +1,391 @@
+1
+00:00:03,250 --> 00:00:08,450
+Hola, hola, ¿cómo están? Veamos el tratamiento del acetoacidosis y del síndrome hiperlisémico-hiperhomolar
+
+2
+00:00:08,450 --> 00:00:12,150
+que les adelanto que en ambos es prácticamente igual, tiene unas poquitas diferencias,
+
+3
+00:00:12,150 --> 00:00:15,250
+pero en ambos casos se basa en cuatro pilares.
+
+4
+00:00:15,250 --> 00:00:20,050
+Número uno, dar suero fisiológico, reponer la bolemia, acuérdense que están muy deshidratados.
+
+5
+00:00:20,050 --> 00:00:23,650
+Número dos, la insulina, aquí le falta mucha insulina en ambos casos.
+
+6
+00:00:23,650 --> 00:00:27,950
+Número tres, el potasio, y ahí va con un asterisco porque es fundamental.
+
+7
+00:00:27,950 --> 00:00:32,850
+Si a mí se me olvida esto, si lo hago mal, puedo matar al paciente, así que mucho cuidado.
+
+8
+00:00:32,950 --> 00:00:39,250
+Y número cuatro, el bicarbonato, que vamos a ver que se deja en muy escasas ocasiones,
+
+9
+00:00:39,250 --> 00:00:43,050
+y solamente el acetoacidosis, pero que va dentro de los pilares igual.
+
+10
+00:00:43,050 --> 00:00:47,250
+Ahora, el suero fisiológico, harto suero, abundante y rápido.
+
+11
+00:00:47,250 --> 00:00:52,850
+Dígase, varios bolos de un litro o de 20cc por kilo, a pasar, tan rápido como pueda pasar,
+
+12
+00:00:52,850 --> 00:00:57,550
+hasta que se recupere el estado hemodinámico, hasta que se recupere la hipotensión arterial
+
+13
+00:00:57,650 --> 00:01:03,150
+o la taquicardia, el shock hipoblemico en el que se encuentra.
+
+14
+00:01:03,150 --> 00:01:08,350
+Ahora, luego eso puede cambiar un poco a medida que voy haciendo los distintos exámenes,
+
+15
+00:01:08,350 --> 00:01:14,150
+pero por el general, al menos se pasa un bolo rápido al principio y luego un bolo más por hora.
+
+16
+00:01:14,150 --> 00:01:20,850
+Así, 20cc por kilo por hora, y voy controlando en la medida de lo posible
+
+17
+00:01:20,850 --> 00:01:24,350
+con medición invasiva, así con un catéter venoso central,
+
+18
+00:01:24,950 --> 00:01:27,550
+o si no, al menos con la clínica.
+
+19
+00:01:27,550 --> 00:01:32,550
+Respecto a la insulina, se usa insulina cristalina, esa es la de elección,
+
+20
+00:01:32,550 --> 00:01:39,550
+y habitualmente se deja o 10 unidades, o bien, un poquito más preciso es dejar 0,1cc por kilo de peso,
+
+21
+00:01:39,550 --> 00:01:43,550
+eso es muy importante en los niños, pero aplique también a los adultos,
+
+22
+00:01:43,550 --> 00:01:47,550
+y lo más frecuente es que se deje un bolo, y luego queda con un goteo de la misma dosis,
+
+23
+00:01:47,550 --> 00:01:51,550
+de 0,1cc por kilo, que va a ir pasando cada hora,
+
+24
+00:01:51,750 --> 00:01:56,750
+y obviamente voy a ir ajustándolo luego a medida que voy recibiendo las glicemias de vuelta.
+
+25
+00:01:56,750 --> 00:02:00,550
+El potasio, hay que saber en primer lugar el rango normal,
+
+26
+00:02:00,550 --> 00:02:06,750
+y el rango normal para estos efectos es desde 3,3 hasta 5,3 mil equivalentes por litro,
+
+27
+00:02:06,750 --> 00:02:10,950
+y que quede bien claro, hay que saberlo, y hay que diferenciarlo del rango normal
+
+28
+00:02:10,950 --> 00:02:16,150
+en otros exámenes, el que sale que es desde 3,5 hasta 5,0
+
+29
+00:02:16,150 --> 00:02:22,150
+para efectos de la cetoacidosis y del síntrome hiperglicémico es desde 3,3 hasta 5,3,
+
+30
+00:02:22,150 --> 00:02:28,150
+si es que está por sobre 5,3, ejemplo 5,4, en ese caso no le doy potasio porque ya tiene suficiente,
+
+31
+00:02:28,150 --> 00:02:33,150
+y si le doy más eventualmente le puedo desencadenar una arritmia, así que nada más.
+
+32
+00:02:33,150 --> 00:02:39,150
+Si es que está normal, debo darle por dos razones, una porque el potasio total de este paciente está disminuido,
+
+33
+00:02:39,150 --> 00:02:45,150
+y segundo lugar porque la insulina baja la calemia, y eventualmente si es que le doy insulina sin darle potasio,
+
+34
+00:02:45,150 --> 00:02:50,150
+puede ser que haga una hipocalemia y me va a hacer una arritmia también, una torsión de punta y se va a morir.
+
+35
+00:02:50,150 --> 00:02:56,150
+Finalmente si es que está bajo, si es que está menor a 3,3, ejemplo 3, 2,9 o 3,2,
+
+36
+00:02:56,150 --> 00:03:02,150
+en ese caso le doy una dosis un poquito más alta del potasio, 2 a 3 gramos de KCl,
+
+37
+00:03:02,150 --> 00:03:06,150
+y en este caso está absolutamente contraindicada la insulina ya que de lo contrario se puede morir,
+
+38
+00:03:06,150 --> 00:03:12,150
+así que dos cosas importantes acá, número uno, el potasio siempre va en goteo,
+
+39
+00:03:12,150 --> 00:03:18,150
+el paciente le pasa un bolo de potasio endovenoso a un paciente, el paciente se muere ahí mismo y me hace un paro en asistolía,
+
+40
+00:03:18,150 --> 00:03:25,150
+así que acuérdense de que se inyecta en la bolsa de suero y no en la vía venosa directamente, harto cuidado.
+
+41
+00:03:25,150 --> 00:03:33,150
+Segundo lugar, yo no puedo darle ni insulina ni potasio hasta que no me haya llegado el resultado de los exámenes en específico,
+
+42
+00:03:33,150 --> 00:03:38,150
+hasta que no me haya llegado el resultado del potasio, porque si es que está alto no le doy potasio,
+
+43
+00:03:38,150 --> 00:03:44,150
+y si está bajo no le doy insulina y si lo hago mal eventualmente el paciente se puede morir, así que mucho cuidado con eso también.
+
+44
+00:03:44,150 --> 00:03:49,150
+Ahora, ¿qué es lo que sí le puedo dar desde el momento inicial sin tener ningún examen más que el hemogluco test?
+
+45
+00:03:49,150 --> 00:03:55,150
+Pues el suero fisiológico, ese va de entrada, hay que darlo y es como lo más urgente.
+
+46
+00:03:55,150 --> 00:04:03,150
+Ahora, el bicarbonato solamente se da cuando el pH está menor a 6,9, o sea cuando hay un acetoacidosis muy severa,
+
+47
+00:04:04,150 --> 00:04:12,150
+se define como severa con un pH menor a 7, así que en la práctica es raro que se dé el bicarbonato en la acetoacidosis
+
+48
+00:04:12,150 --> 00:04:17,150
+y habitualmente nunca se da en el síndrome hipelicémico hiperosmolar, así que hay una pequeña diferencia.
+
+49
+00:04:17,150 --> 00:04:25,150
+Lo que sí, hay que acordarse que la forma en que se da el bicarbonato puede ser ya sea con las ampollas de bicarbonato
+
+50
+00:04:25,150 --> 00:04:33,150
+que van directamente al suero o ya sea con un matras aparte que suele venir al 2 tercio molar 250cc en goteo
+
+51
+00:04:33,150 --> 00:04:38,150
+que esos son más o menos 160 o un poquito más de 150 mil equivalentes.
+
+52
+00:04:38,150 --> 00:04:42,150
+Finalmente, hay que hacer el tratamiento de la causa.
+
+53
+00:04:42,150 --> 00:04:47,150
+Acuérdense que tanto la acetoacidosis como el síndrome hipelicémico habitualmente son descompensaciones
+
+54
+00:04:47,150 --> 00:04:54,150
+por alguna otra enfermedad, en particular las infecciones, esas son la primera causa en ambas.
+
+55
+00:04:54,150 --> 00:05:00,150
+En un niño diabético mal manejado que se infecta con una neumonía, por ejemplo,
+
+56
+00:05:00,150 --> 00:05:05,150
+es muy frecuente que se desencadena una acetoacidosis
+
+57
+00:05:05,150 --> 00:05:09,150
+y lo mismo ocurre en los adultos mayores, por ejemplo, con el síndrome hipelicémico.
+
+58
+00:05:09,150 --> 00:05:16,150
+También un mal tratamiento, ya sea que lo abandonó o que no lo sigue bien, esa es la segunda causa
+
+59
+00:05:16,150 --> 00:05:20,150
+y finalmente es muy frecuente que se vea también en el debut de la diabetes.
+
+60
+00:05:20,150 --> 00:05:25,150
+Así no tenía idea que tenía diabetes hasta que llegó con un coma diabético a la urgencia.
+
+61
+00:05:25,150 --> 00:05:31,150
+Como cosa final, el infarto, el accidente vascular encefálico, etcétera,
+
+62
+00:05:31,150 --> 00:05:34,150
+así que no basta con hacer el manejo completo que hay que hacerlo,
+
+63
+00:05:34,150 --> 00:05:39,150
+aparte tengo que ir a pedirle un electrocardiograma, eventualmente un TAC de cerebro,
+
+64
+00:05:39,150 --> 00:05:41,150
+si es que viene con signos focales, etcétera.
+
+65
+00:05:41,150 --> 00:05:45,150
+O sea, es importante aquí actuar en busca de la causa para manejarla también.
+
+66
+00:05:45,150 --> 00:05:52,150
+Algunos detalles que son importantes en este manejo, si es que viene con hipernatremia o con hiponatremia
+
+67
+00:05:52,150 --> 00:05:56,150
+hay que hacer eventualmente algunos ajustes.
+
+68
+00:05:56,150 --> 00:06:02,150
+Si viene con hipernatremia, en primer lugar voy a manejar la volemia con suero fisiológico,
+
+69
+00:06:02,150 --> 00:06:06,150
+aunque el suero fisiológico me aumente la natremia, mientras venga hipovolémico,
+
+70
+00:06:06,150 --> 00:06:09,150
+la prioridad es la volemia, así que le doy igual nomás,
+
+71
+00:06:09,150 --> 00:06:13,150
+y luego de que la volemia ya se estabiliza, que la frecuencia cardiaca
+
+72
+00:06:13,150 --> 00:06:19,150
+y que la presión arterial está más o menos bien, en ese caso me voy a un suero no isotónico,
+
+73
+00:06:19,150 --> 00:06:24,150
+sino que hipotónico, que es el suero al medio que se llama, que es el NACL,
+
+74
+00:06:24,150 --> 00:06:27,150
+pero no al 0,9, sino que al 0,45%.
+
+75
+00:06:27,150 --> 00:06:31,150
+Y en el caso de que haya una hiponatremia, pues ahí le doy suero fisiológico sin miedo,
+
+76
+00:06:31,150 --> 00:06:34,150
+en el sentido en que tiende a elevar la natremia.
+
+77
+00:06:34,150 --> 00:06:40,150
+Cuando la glicemia no baja, a pesar de que estoy con la insulina, con el bolo y con el goteo,
+
+78
+00:06:40,150 --> 00:06:45,150
+y en una hora no me baja mínimo 50 milígramos por decilitro,
+
+79
+00:06:45,150 --> 00:06:49,150
+en ese caso yo digo, sabes qué, voy a duplicar la dosis de insulina,
+
+80
+00:06:49,150 --> 00:06:55,150
+y en vez de 0,1 milígramos por kilo, le voy a dar 0,2 milígramos por kilo en este siguiente goteo,
+
+81
+00:06:55,150 --> 00:06:59,150
+y ahí voy controlando y eventualmente la bajo después.
+
+82
+00:06:59,150 --> 00:07:04,150
+Lo otro, cuando al fin la glicemia baja de 200 y deja de cumplir el criterio
+
+83
+00:07:05,150 --> 00:07:11,150
+por ejemplo, en ese caso ya no le sigo dando el suero fisiológico,
+
+84
+00:07:11,150 --> 00:07:13,150
+sino que me cambio al suero glucosalino,
+
+85
+00:07:13,150 --> 00:07:17,150
+que habitualmente es como mitad de suero glucosado más mitad de suero fisiológico,
+
+86
+00:07:17,150 --> 00:07:23,150
+y ahí queda suero glucosalino, que se puede llamar también suero de NACL al 0,45%,
+
+87
+00:07:23,150 --> 00:07:27,150
+más suero glucosado al 2,5%.
+
+88
+00:07:27,150 --> 00:07:31,150
+Finalmente, los electronitos plasmáticos, la glicemia,
+
+89
+00:07:31,150 --> 00:07:36,150
+los gases venosos para ver el pH y el nitrógeno ureico como para ver la función renal,
+
+90
+00:07:36,150 --> 00:07:40,150
+se piden cada dos horas, o sea, no basta con manejarlo,
+
+91
+00:07:40,150 --> 00:07:45,150
+sino que tengo que estar ahí al lado de ese paciente que se me puede descompensar
+
+92
+00:07:45,150 --> 00:07:48,150
+en cualquier momento y hay que manejarlo así muy muy activamente.
+
+93
+00:07:48,150 --> 00:07:52,150
+Como última cosa, hay que pedir todos los exámenes en busca de la causa,
+
+94
+00:07:52,150 --> 00:07:56,150
+en el sentido en que ya sabemos el manejar el descompensante
+
+95
+00:07:56,150 --> 00:07:59,150
+es uno de los pilares fundamentales del manejo de estas complicaciones.
+
+96
+00:07:59,150 --> 00:08:04,150
+Y dentro de eso, hemograma y la proteína C reactiva en búsqueda de infecciones,
+
+97
+00:08:04,150 --> 00:08:06,150
+y obviamente electrocardiograma, etcétera.
+
+98
+00:08:06,150 --> 00:08:08,150
+Y bueno, eso fue todo, que estén bien.

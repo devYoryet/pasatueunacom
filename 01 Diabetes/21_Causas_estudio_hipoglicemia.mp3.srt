@@ -1,0 +1,467 @@
+1
+00:00:03,310 --> 00:00:07,030
+Hola, hola, ¿cómo están? Ya vimos cómo manejar una hipoglicemia y dentro de eso
+
+2
+00:00:07,030 --> 00:00:11,110
+había que buscar la causa y manejarla y en este caso vamos a ver justamente
+
+3
+00:00:11,110 --> 00:00:14,350
+cuáles son las causas y cómo se estudia etiológicamente una hipoglicemia.
+
+4
+00:00:14,350 --> 00:00:19,350
+Recordando que su clasificación más importante o más básica es dividirlas
+
+5
+00:00:19,350 --> 00:00:23,270
+en espontáneas, que son las que no son provocadas por ningún fármaco y
+
+6
+00:00:23,270 --> 00:00:27,730
+las provocadas que son en las cuales yo tengo una causa evidente
+
+7
+00:00:27,730 --> 00:00:31,310
+farmacológica detrás. Dentro de las espontáneas a su vez se
+
+8
+00:00:31,310 --> 00:00:35,230
+subdividen en reactivas y de ayuno. Las reactivas son las que ocurren
+
+9
+00:00:35,230 --> 00:00:39,590
+algunas horas después de comer, las de ayuno en cambio son las que ocurren
+
+10
+00:00:39,590 --> 00:00:43,550
+de algunas horas después de no comer. Ahora, lo más frecuente es que las
+
+11
+00:00:43,550 --> 00:00:47,150
+reactivas sean dos a cuatro horas después de haber comido alguna
+
+12
+00:00:47,150 --> 00:00:50,910
+comida de cualquier tipo y las de ayuno en cambio lo más frecuente es
+
+13
+00:00:50,910 --> 00:00:54,630
+que sean después de cuatro a seis horas de ayuno, incluso puede ser
+
+14
+00:00:54,630 --> 00:00:58,590
+algún ayuno más prolongado y que quede bien claro lo normal es
+
+15
+00:00:58,590 --> 00:01:02,910
+incluso en algunos ayunos de muchas horas de incluso de algunos días que
+
+16
+00:01:02,910 --> 00:01:06,870
+nunca se llega el corte de una hipoglicemia. Dentro de las espontáneas
+
+17
+00:01:06,870 --> 00:01:09,790
+la causa más frecuente de las reactivas es la resistencia a la
+
+18
+00:01:09,790 --> 00:01:13,550
+insulina. Hay un montón de otras causas pero esta es la más importante y
+
+19
+00:01:13,550 --> 00:01:17,550
+lo que ocurre acá fisiopatológicamente es más o menos lo
+
+20
+00:01:17,550 --> 00:01:21,190
+siguiente. Tengo a un paciente que tiene resistencia a la insulina, eso
+
+21
+00:01:21,190 --> 00:01:25,270
+hace que tienda a tener un exceso de insulina y mantener las
+
+22
+00:01:25,270 --> 00:01:29,390
+glicemias altas y le ocurre que se come algo de absorción muy rápida,
+
+23
+00:01:29,390 --> 00:01:32,830
+ejemplo un pay de limón, la insulina se le sube mucho, la glicemia se le
+
+24
+00:01:32,830 --> 00:01:37,470
+sube mucho, luego la insulina mete el azúcar dentro de las células y
+
+25
+00:01:37,470 --> 00:01:42,270
+finalmente le sobra insulina al punto que algunas horas después me hace
+
+26
+00:01:42,270 --> 00:01:47,050
+una alguna hipoglicemia ya sea con síntomas o no pero finalmente le
+
+27
+00:01:47,050 --> 00:01:50,270
+baja el azúcar más de lo que debería debido a este
+
+28
+00:01:50,270 --> 00:01:53,350
+hiperinsulinismo debido a la resistencia a la insulina. ¿Quedó más o
+
+29
+00:01:53,350 --> 00:01:57,070
+menos claro? Esperemos que sí. Las de ayuno en cambio las más frecuentes
+
+30
+00:01:57,070 --> 00:02:00,510
+son las causadas por un insulinoma, por algunos cánceres grandes que
+
+31
+00:02:00,510 --> 00:02:04,670
+simplemente se llevan todo el azúcar como por ejemplo un sarcoma muy
+
+32
+00:02:04,670 --> 00:02:08,790
+grande, un linfoma que esté diseminado y hay algunas más raras como las
+
+33
+00:02:08,790 --> 00:02:12,910
+autoinmunes con anticuerpos en contra de la insulina pero que en
+
+34
+00:02:12,910 --> 00:02:18,070
+vez de destruir a la insulina la la la protegen y hacen que dure más
+
+35
+00:02:18,070 --> 00:02:21,630
+tiempo o bien en contra del receptor de insulina y que actúan
+
+36
+00:02:21,670 --> 00:02:27,510
+como un anticuerpo pero actúa en el receptor como si fuera la insulina misma
+
+37
+00:02:27,510 --> 00:02:31,670
+y obviamente genera esta hipoglicemia. Dentro de las provocadas las más
+
+38
+00:02:31,670 --> 00:02:35,350
+frecuentes son por insulina y por los hipoglicemia anterzorales en
+
+39
+00:02:35,350 --> 00:02:38,870
+específico por las sulfonilurias, por la glivenclamida y por las
+
+40
+00:02:38,870 --> 00:02:42,510
+meticlinidas por las de esa familia que actuaban de una manera muy
+
+41
+00:02:42,510 --> 00:02:46,470
+similar a las sulfonilurias y a su vez las provocadas se
+
+42
+00:02:46,470 --> 00:02:50,030
+subdividen en las que son una reacción adversa a los medicamentos
+
+43
+00:02:50,070 --> 00:02:53,630
+en el tratamiento del paciente diabético y las que son facticias, las
+
+44
+00:02:53,630 --> 00:02:57,350
+que son de un paciente que no sabemos que está con la insulina que no
+
+45
+00:02:57,350 --> 00:03:00,350
+sabemos que está con el hipoglicemiante pero que aún así está
+
+46
+00:03:00,350 --> 00:03:05,950
+desencadenando estas hipoglicemias y las menciono estas aparte porque en
+
+47
+00:03:05,950 --> 00:03:10,230
+la clínica suelen manifestarse como una hipoglicemia espontánea si bien
+
+48
+00:03:10,230 --> 00:03:15,590
+son provocadas por estos fármacos el paciente no me cuenta así que
+
+49
+00:03:15,590 --> 00:03:18,350
+finalmente tengo que ser capaz de detectar estas hipoglicemias
+
+50
+00:03:18,350 --> 00:03:21,710
+facticias también con los antecedentes clínicos que eventualmente yo pueda
+
+51
+00:03:21,710 --> 00:03:27,670
+obtener desde el paciente ahora en el caso de las que son causadas por un
+
+52
+00:03:27,670 --> 00:03:31,350
+medicamento aparte de manejarlas luego de eso debo hacer un ajuste en el
+
+53
+00:03:31,350 --> 00:03:34,670
+tratamiento del paciente diabético nada más en cambio las espontáneas
+
+54
+00:03:34,670 --> 00:03:37,950
+es importante estudiarlas como para saber exactamente cuál es la causa
+
+55
+00:03:37,950 --> 00:03:41,590
+que hay detrás dentro de los exámenes que yo le pido a una
+
+56
+00:03:41,590 --> 00:03:44,910
+hipoglicemia espontánea habitualmente está el peptido C que si
+
+57
+00:03:44,910 --> 00:03:49,190
+se acuerdan refleja los niveles de insulina endógena o sea si es que yo
+
+58
+00:03:49,190 --> 00:03:54,630
+produzco más insulina el peptido C se eleva se pide además la insulina en el
+
+59
+00:03:54,630 --> 00:03:58,390
+sentido en que me refleja no solamente la insulina endógena sino
+
+60
+00:03:58,390 --> 00:04:02,550
+que la insulina exógena también ejemplo en una hipoglicemia facticia
+
+61
+00:04:02,550 --> 00:04:06,430
+por insulina eventualmente no me la detecta el peptido C pero si los
+
+62
+00:04:06,430 --> 00:04:11,470
+niveles de insulina plasmática y aparte de esto muchas veces cuando yo
+
+63
+00:04:11,470 --> 00:04:16,150
+identifico un desencadenante como las comidas o el ayuno por ejemplo yo puedo
+
+64
+00:04:16,150 --> 00:04:20,150
+hacer alguna prueba que intente repetir este desencadenante como para
+
+65
+00:04:20,150 --> 00:04:24,350
+poder objetivar la hipoglicemia en el examen de laboratorio
+
+66
+00:04:24,350 --> 00:04:27,870
+acuérdense que la treada de Whipple exigía no solamente los síntomas
+
+67
+00:04:27,870 --> 00:04:32,390
+sino que además el medir la glicemia y que estuviera baja y además que se
+
+68
+00:04:32,390 --> 00:04:37,870
+mejoraran estos síntomas con el azúcar ahora dentro de eso existen
+
+69
+00:04:37,870 --> 00:04:43,070
+dos pruebas una es la prueba de tolerancia a la comida mixta que es
+
+70
+00:04:43,070 --> 00:04:46,070
+justamente para buscar las hipoglicemias reactivas en el sentido en
+
+71
+00:04:46,070 --> 00:04:51,910
+que le doy un plato de comida que se prepara de una forma bien
+
+72
+00:04:51,910 --> 00:04:56,030
+estandarizada y voy siguiéndolo con hemogluco test o con glicemia durante
+
+73
+00:04:56,030 --> 00:05:00,110
+varias horas y veo si es que se produce efectivamente esta hipoglicemia
+
+74
+00:05:00,110 --> 00:05:04,470
+alguna hora después y lo otro que existe es la prueba de ayuno en la
+
+75
+00:05:04,470 --> 00:05:08,990
+cual yo lo someto a un ayuno de varias horas y voy midiendo
+
+76
+00:05:08,990 --> 00:05:12,550
+justamente las glicemias de manera de ver si es que se produce la hipoglicemia
+
+77
+00:05:12,550 --> 00:05:16,990
+o no ahora qué pasa con este test de tolerancia en la glucosa oral de
+
+78
+00:05:16,990 --> 00:05:21,710
+tipo prolongado que era el examen que habitualmente se pedía en las
+
+79
+00:05:21,710 --> 00:05:25,430
+hipoglicemias reactivas la verdad que actualmente ha sido desplazado por
+
+80
+00:05:25,430 --> 00:05:28,870
+la prueba de tolerancia a la comida mixta en el sentido en que esta
+
+81
+00:05:28,870 --> 00:05:33,150
+última prueba tiene menos falsos positivos que el test de tolerancia a
+
+82
+00:05:33,150 --> 00:05:39,510
+la glucosa alargado que es un poquito más artificial ahora aparte de esto de
+
+83
+00:05:39,510 --> 00:05:42,990
+acá como hay algunas otras causas como los insulinomas el cáncer etcétera
+
+84
+00:05:42,990 --> 00:05:46,510
+hay que pedirle exámenes generales en busca de alguna otra cosa que me
+
+85
+00:05:46,510 --> 00:05:50,390
+oriente a la etiología de esta hipoglicemia espontánea
+
+86
+00:05:50,390 --> 00:05:54,630
+vamos a ver un cuadro respecto al peptidoseya la insulina de
+
+87
+00:05:54,630 --> 00:05:59,630
+distintas causas de hipoglicemia de manera que nos las aprendamos y
+
+88
+00:05:59,630 --> 00:06:04,270
+podamos identificar un cuadro clínico si está con insulina exógena obviamente
+
+89
+00:06:04,270 --> 00:06:08,750
+el peptidosee va a estar bajo porque mide solamente la insulina endógena en
+
+90
+00:06:08,750 --> 00:06:13,510
+cambio la insulina plasmática si va a estar elevada así que ese va a ser
+
+91
+00:06:13,510 --> 00:06:17,270
+el clásico patrón de hiperinsulinismo pero con el peptidosee
+
+92
+00:06:17,270 --> 00:06:23,030
+bajo es por administración de insulina exógena en el caso de
+
+93
+00:06:23,030 --> 00:06:27,750
+las sulfonilubrias de la glivianclamida obviamente se induce una
+
+94
+00:06:27,750 --> 00:06:31,910
+liberación pancreática de insulina así que tanto el peptidosee como la
+
+95
+00:06:31,910 --> 00:06:36,150
+insulina van a estar ambos elevados en el caso del insulina igualmente hay un
+
+96
+00:06:36,150 --> 00:06:41,070
+tumor que está en el páncreas y que va liberando y produciendo insulina así
+
+97
+00:06:41,070 --> 00:06:44,990
+que nuevamente tanto el peptidosee como la insulina van a estar elevadas
+
+98
+00:06:44,990 --> 00:06:49,710
+entonces como hago para diferenciar una insulina facticia por
+
+99
+00:06:49,710 --> 00:06:54,630
+sulfonilubrias de un insulina bueno midiendo directamente niveles
+
+100
+00:06:54,630 --> 00:07:00,750
+plasmáticos de sulfonilubrias en sangre ahora la resistencia a la insulina
+
+101
+00:07:00,750 --> 00:07:05,230
+la reactiva obviamente hay un hiperinsulinismo y una hipersecreción
+
+102
+00:07:05,230 --> 00:07:09,310
+de insulina así que lo más probable es que el peptidosee y la insulina van a
+
+103
+00:07:09,310 --> 00:07:13,070
+estar altas ahora no siempre hay algunas veces en que están dentro de
+
+104
+00:07:13,070 --> 00:07:16,190
+rango normal por si acaso pero lo más frecuente es que todas estas
+
+105
+00:07:16,190 --> 00:07:21,230
+estén altas y finalmente las que son de ayuno por algo que se lleva
+
+106
+00:07:21,230 --> 00:07:26,470
+la glucosa como un cáncer por ejemplo en ese caso al no haber azúcar
+
+107
+00:07:26,470 --> 00:07:29,990
+seguramente no va a haber secreción de insulina tampoco y el peptidosee va a
+
+108
+00:07:29,990 --> 00:07:33,750
+estar bajo así que en este caso ambas van a estar bajas igual
+
+109
+00:07:33,750 --> 00:07:37,710
+eso es todo lo importante es saber reconocerlos pero seguramente no en
+
+110
+00:07:37,710 --> 00:07:41,390
+ese orden sino que al revés si es que yo les digo tiene la insulina
+
+111
+00:07:41,390 --> 00:07:45,870
+alta y el peptidosee bajo insulina exógena tiene la insulina alta y
+
+112
+00:07:45,870 --> 00:07:49,910
+el peptidosee alto pues cualquier cosa que genere secreción de insulina
+
+113
+00:07:49,910 --> 00:07:56,190
+las sulfoniluria, un insulinoma y las reactivas también y qué pasa si están
+
+114
+00:07:56,190 --> 00:08:01,150
+todos bajos pues en ese caso hay algo que se está llevando la glucosa por
+
+115
+00:08:01,150 --> 00:08:04,390
+cuenta propia como ejemplo un tumor así que ahí queda más o menos claro
+
+116
+00:08:04,390 --> 00:08:07,550
+y nos vemos en los siguientes vídeos que ya vamos a entrar a Dislipidemia
+
+117
+00:08:07,550 --> 00:08:09,910
+que estén bien

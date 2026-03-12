@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:07,590
+Hola, ¿cómo están? En este video vamos a hablar de las leucemias, que es un tema un poco difícil,
+
+2
+00:00:07,590 --> 00:00:12,590
+así que lo vamos a dividir en dos, y comencemos recordando que su clínica cambia, varía,
+
+3
+00:00:12,590 --> 00:00:18,590
+según el tipo de leucemia que haya. Por ejemplo, la leucemia linfática aguda es la más frecuente de los niños,
+
+4
+00:00:18,590 --> 00:00:23,590
+así que habitualmente se ve en la edad pediátrica, o bien puede verse en adolescentes y adultos jóvenes también,
+
+5
+00:00:23,590 --> 00:00:26,590
+pero es más raro, lo más frecuente es que sea en niños.
+
+6
+00:00:27,590 --> 00:00:32,590
+Segundo lugar, su clínica es bien florida, habitualmente viene con síntomas B, fiebre, baja de peso,
+
+7
+00:00:32,590 --> 00:00:37,590
+sudoración nocturna, síntomas de insuficiencia medular, anemia, apetequias, etc.
+
+8
+00:00:37,590 --> 00:00:42,590
+Adenopatías, porque es una leucemia linfática, es plenomegalia, como buena leucemia aguda,
+
+9
+00:00:42,590 --> 00:00:45,590
+cefalea, malestar general, etc.
+
+10
+00:00:45,590 --> 00:00:50,590
+En el caso de la leucemia myeloide aguda, la clínica es muy, muy similar, síntomas B,
+
+11
+00:00:50,590 --> 00:00:54,590
+insuficiencia medular, es plenomegalia, de hecho es imposible diferenciarla,
+
+12
+00:00:54,590 --> 00:00:58,590
+más la edad me orienta más si es un niño que es una leucemia aguda y si es un adulto mayor,
+
+13
+00:00:58,590 --> 00:01:01,590
+por ejemplo, lo más probable es que sea una leucemia myeloide aguda,
+
+14
+00:01:01,590 --> 00:01:04,590
+pero en cuanto al resto de la clínica son bastante similares.
+
+15
+00:01:04,590 --> 00:01:08,590
+Las adenopatías orientan un poco más a la leucemia linfática aguda,
+
+16
+00:01:08,590 --> 00:01:12,590
+pero la verdad que la única forma de diferenciarla es con exámenes,
+
+17
+00:01:12,590 --> 00:01:16,590
+ni siquiera el hemograma, porque a veces las células se ven muy, muy feas,
+
+18
+00:01:16,590 --> 00:01:23,590
+y uno no sabe bien si es un cáncer de tipo olifocítico o de tipo neutrofílico, por ejemplo.
+
+19
+00:01:23,590 --> 00:01:28,590
+Aparte está la leucemia linfática crónica, que tiene un cuadro clínico bien característico,
+
+20
+00:01:28,590 --> 00:01:34,590
+de hecho suele ser asintomática en un adulto mayor, suele ser un hallazgo en el hemograma,
+
+21
+00:01:34,590 --> 00:01:38,590
+suele ser del adulto mayor, eso es súper importante recordarlo,
+
+22
+00:01:38,590 --> 00:01:42,590
+arriba de 60 años por regla general, y a medida que va pasando el tiempo
+
+23
+00:01:42,590 --> 00:01:47,590
+pueden ir apareciendo estos síntomas de insuficiencia medular, en particular la anemia,
+
+24
+00:01:47,590 --> 00:01:54,590
+y finalmente como buena patología linfática puede venir con adenopatías generalizadas,
+
+25
+00:01:54,590 --> 00:01:57,590
+habitualmente no muy grandes.
+
+26
+00:01:57,590 --> 00:02:02,590
+Finalmente está la leucemia mieloide crónica, que en este caso suele venir también
+
+27
+00:02:02,590 --> 00:02:05,590
+con síntomas B y bastante marcados, esto hay que saberlo,
+
+28
+00:02:05,590 --> 00:02:08,590
+aparte de eso un espleno megalia importante.
+
+29
+00:02:08,590 --> 00:02:12,590
+Los síndromes mieloproliferativos en general, y en particular la leucemia mieloide crónica
+
+30
+00:02:12,590 --> 00:02:16,590
+y la mielofibrosis son las que tienen más espleno megalia,
+
+31
+00:02:16,590 --> 00:02:22,590
+y lo más frecuente es que ésta no tenga síntomas de insuficiencia medular,
+
+32
+00:02:22,590 --> 00:02:25,590
+en el sentido en que la leucemia mieloide crónica, por el contrario,
+
+33
+00:02:25,590 --> 00:02:29,590
+tiende a aumentar las plaquetas, por ejemplo, a venir sin una trombopenia
+
+34
+00:02:29,590 --> 00:02:32,590
+y suele venir además sin anemia.
+
+35
+00:02:32,590 --> 00:02:36,590
+Ahora, al final, cuando ya empiezan con las crisis blásticas que se llaman,
+
+36
+00:02:36,590 --> 00:02:40,590
+en ese caso puede verse exactamente igual a una leucemia mieloide agúa,
+
+37
+00:02:40,590 --> 00:02:42,590
+pero ahí son varios años después.
+
+38
+00:02:42,590 --> 00:02:46,590
+El diagnóstico de las leucemias por el general se inicia con el hemograma,
+
+39
+00:02:46,590 --> 00:02:50,590
+hay algunas pocas situaciones en que el hemograma sí es diagnóstico,
+
+40
+00:02:50,590 --> 00:02:56,590
+ejemplos es que viene con un porcentaje de blastos arriba de 20% o arriba de 5%,
+
+41
+00:02:56,590 --> 00:02:58,590
+lo más probable es que eso sea una leucemia,
+
+42
+00:02:58,590 --> 00:03:02,590
+pero la verdad es que el examen confirmatorio es la biopsia de médula ósea,
+
+43
+00:03:02,590 --> 00:03:06,590
+y la verdad es que siempre se debe hacer una biopsia de médula ósea
+
+44
+00:03:06,590 --> 00:03:10,590
+o al menos un mielograma, que es el frote de médula ósea,
+
+45
+00:03:10,590 --> 00:03:15,590
+en el sentido en que hay que hacer un estudio citogenético bastante completo
+
+46
+00:03:15,590 --> 00:03:18,590
+para ver qué tipo específico de leucemia es.
+
+47
+00:03:18,590 --> 00:03:23,590
+Ahora, vamos a ver un poco respecto al hemograma de cada una.
+
+48
+00:03:23,590 --> 00:03:27,590
+En el caso de la leucemia linfática aguda y la leucemia mieloide aguda,
+
+49
+00:03:27,590 --> 00:03:30,590
+lo más frecuente es que vengan con leucocitosis,
+
+50
+00:03:30,590 --> 00:03:33,590
+o sea, con leucemia, con elevación de los glóbulos blancos,
+
+51
+00:03:33,590 --> 00:03:36,590
+obviamente son glóbulos blancos anormales,
+
+52
+00:03:36,590 --> 00:03:39,590
+pero en las agudas, y solo en las agudas, no en las crónicas,
+
+53
+00:03:39,590 --> 00:03:43,590
+solo en las agudas, hay un 10% en que vienen por el contrario
+
+54
+00:03:43,590 --> 00:03:45,590
+con una baja en los glóbulos blancos.
+
+55
+00:03:45,590 --> 00:03:48,590
+O sea, uno habla de una leucemia aleucemica,
+
+56
+00:03:48,590 --> 00:03:51,590
+que viene habitualmente con una pancitopenia,
+
+57
+00:03:51,590 --> 00:03:53,590
+porque estos glóbulos blancos no alcanzan a salir de la médula,
+
+58
+00:03:53,590 --> 00:03:54,590
+se quedan ahí.
+
+59
+00:03:54,590 --> 00:03:58,590
+Ahora, es muy frecuente que venga además con anemia y con plaquetopenia,
+
+60
+00:03:58,590 --> 00:04:00,590
+ósea, las dos formas en que se ve son,
+
+61
+00:04:00,590 --> 00:04:04,590
+leucocitosis más una bicitopenia, anemia y plaquetopenia,
+
+62
+00:04:04,590 --> 00:04:07,590
+o bien una pancitopenia con las tres que están disminuidas,
+
+63
+00:04:07,590 --> 00:04:10,590
+que están disminuidas, que eso solamente se ve en el 10% de los casos.
+
+64
+00:04:10,590 --> 00:04:13,590
+En el caso de la leucemia mieloide aguda,
+
+65
+00:04:13,590 --> 00:04:15,590
+a diferencia de la leucemia mieloide crónica,
+
+66
+00:04:15,590 --> 00:04:16,590
+y esto lo vamos a ver después,
+
+67
+00:04:16,590 --> 00:04:20,590
+se ve un fenómeno que se conoce como el hiato leucemico,
+
+68
+00:04:20,590 --> 00:04:24,590
+en que se salta alguna de las formas inmaduras de los glóbulos blancos,
+
+69
+00:04:24,590 --> 00:04:26,590
+en particular de los neutrófilos.
+
+70
+00:04:26,590 --> 00:04:28,590
+Repito, eso lo vamos a ver después,
+
+71
+00:04:28,590 --> 00:04:31,590
+pero el hiato leucemico se ve en la leucemia mieloide aguda.
+
+72
+00:04:31,590 --> 00:04:35,590
+Y finalmente, para diferenciarla igualmente de la crónica,
+
+73
+00:04:35,590 --> 00:04:41,590
+la crónica habitualmente tiene más de 5 o más de 20% de blastos en sangre periférica.
+
+74
+00:04:41,590 --> 00:04:45,590
+La leucemia crónica suele venir siempre con menos de 5%,
+
+75
+00:04:45,590 --> 00:04:48,590
+la leucemia mieloide crónica con menos de 5% de blastos,
+
+76
+00:04:48,590 --> 00:04:50,590
+así que si es que está arriba de eso,
+
+77
+00:04:50,590 --> 00:04:52,590
+lo más probable es que sea una leucemia mieloide aguda,
+
+78
+00:04:52,590 --> 00:04:54,590
+y si está arriba de 20%,
+
+79
+00:04:54,590 --> 00:04:59,590
+pues directamente hace el diagnóstico de una leucemia mieloide aguda.
+
+80
+00:04:59,590 --> 00:05:01,590
+En el caso de la leucemia linfática crónica,
+
+81
+00:05:01,590 --> 00:05:03,590
+¿cómo se ve el hemograma?
+
+82
+00:05:03,590 --> 00:05:06,590
+Pues nuevamente con una leucocitosis,
+
+83
+00:05:06,590 --> 00:05:08,590
+en este caso de tipo linfocítica,
+
+84
+00:05:08,590 --> 00:05:10,590
+así que hay una linfocitosis,
+
+85
+00:05:10,590 --> 00:05:17,590
+y se puede describir a veces las sombras de Gumprecht en el frotis,
+
+86
+00:05:17,590 --> 00:05:21,590
+y como última cosa, en las etapas finales o cuando ya hay síntomas,
+
+87
+00:05:21,590 --> 00:05:23,590
+puede venir con anemia y con trombopenia también,
+
+88
+00:05:23,590 --> 00:05:26,590
+en el sentido en que se va destruyendo la mediuna ósea.
+
+89
+00:05:26,590 --> 00:05:30,590
+Y finalmente, el hemograma de la leucemia mieloide crónica,
+
+90
+00:05:30,590 --> 00:05:32,590
+que es el que hay que saberse de memoria,
+
+91
+00:05:32,590 --> 00:05:35,590
+así que lo vamos a repetir varias veces y se pregunta mucho,
+
+92
+00:05:35,590 --> 00:05:38,590
+viene con una marcada leucocitosis,
+
+93
+00:05:38,590 --> 00:05:41,590
+entonces fíjense, las crónicas siempre vienen con leucocitosis,
+
+94
+00:05:41,590 --> 00:05:44,590
+en este caso con una importantísima desviación izquierda,
+
+95
+00:05:44,590 --> 00:05:46,590
+o sea, aparecen las formas inmaduras,
+
+96
+00:05:46,590 --> 00:05:49,590
+los baciliformes, los mielocitos, los promielocitos,
+
+97
+00:05:49,590 --> 00:05:51,590
+hasta pueden aparecer blastos,
+
+98
+00:05:51,590 --> 00:05:53,590
+pero en este caso no hay guía toleucénico,
+
+99
+00:05:53,590 --> 00:05:56,590
+o sea, no se salta ninguna de las formas inmaduras,
+
+100
+00:05:56,590 --> 00:05:59,590
+sino que va desde la más madura hacia la más inmadura disminuyendo.
+
+101
+00:05:59,590 --> 00:06:03,590
+Viene sin anemia, al menos no en la mayoría de las fases,
+
+102
+00:06:03,590 --> 00:06:06,590
+viene con las plaquetas habitualmente aumentadas,
+
+103
+00:06:06,590 --> 00:06:08,590
+con menos de 5% de blastos,
+
+104
+00:06:08,590 --> 00:06:11,590
+obviamente para no ser una leucemia mieloide aguda,
+
+105
+00:06:11,590 --> 00:06:14,590
+aunque ya en las etapas finales los blastos aumentan,
+
+106
+00:06:14,590 --> 00:06:17,590
+y de hecho ahí uno habla de las crisis plásticas,
+
+107
+00:06:17,590 --> 00:06:20,590
+y finalmente puede elevar todo lo mieloide,
+
+108
+00:06:20,590 --> 00:06:22,590
+digas monocitos, eosinófilos, los fasófilos,
+
+109
+00:06:22,590 --> 00:06:26,590
+y bueno, las mismas plaquetas y los glóbulos rojos que son mieloides también.
+
+110
+00:06:26,590 --> 00:06:29,590
+O sea, la leucemia mieloide crónica viene con una leucocitosis,
+
+111
+00:06:29,590 --> 00:06:32,590
+con trombocitosis, y con defección izquierda sin guía toleucénico.
+
+112
+00:06:32,590 --> 00:06:35,590
+Y todo esto es lo que vamos a ver en este video,
+
+113
+00:06:35,590 --> 00:06:38,590
+pero en el siguiente video todavía queda más de leucemia,
+
+114
+00:06:38,590 --> 00:06:39,590
+así que ahí nos vemos.

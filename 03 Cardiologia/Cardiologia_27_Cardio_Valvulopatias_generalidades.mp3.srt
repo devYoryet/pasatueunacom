@@ -1,0 +1,203 @@
+1
+00:00:00,000 --> 00:00:07,180
+Hola, ¿cómo están? En este video vamos a hablar de las valbulopatías, vamos a ver
+
+2
+00:00:07,180 --> 00:00:11,420
+las generalidades en el sentido que en otro video vamos a entrar a los detalles de cada
+
+3
+00:00:11,420 --> 00:00:16,020
+una de ellas. Acuérdense que su clínica por el general viene con insuficiencia cardíaca,
+
+4
+00:00:16,020 --> 00:00:20,780
+ya sea izquierda o derecha, según el tipo de válvula que esté afectada. Suelen
+
+5
+00:00:20,780 --> 00:00:25,260
+venir con soplo, que las características del soplo cambian igualmente según qué
+
+6
+00:00:25,260 --> 00:00:30,000
+válvula sea la afectada y según el tipo de afectación, si es una insuficiencia
+
+7
+00:00:30,000 --> 00:00:36,400
+o una estenosis, más cada una de ellas viene con sus propias alteraciones específicas
+
+8
+00:00:36,400 --> 00:00:39,640
+desde el punto de vista semiológico, que hay que saberlas por si acaso, así que,
+
+9
+00:00:39,640 --> 00:00:43,640
+insisto, las vamos a ver con bastante detalle después. El diagnóstico de todas ellas,
+
+10
+00:00:43,640 --> 00:00:47,600
+afortunadamente sencillo, se hace con el eco-cardiograma, que me muestra la
+
+11
+00:00:47,600 --> 00:00:52,800
+válvula afectada, el tipo de valbulopatía y la severidad además, lo cual me sirve
+
+12
+00:00:52,800 --> 00:00:57,640
+para el tratamiento en el sentido en que cuando son leves, moderadas en un paciente
+
+13
+00:00:57,640 --> 00:01:02,480
+asintomático, que según PLAESO, que sea no severa y que sea asintomático, se manejan
+
+14
+00:01:02,480 --> 00:01:06,500
+con el tratamiento médico general de la insuficiencia cardíaca, dígase los
+
+15
+00:01:06,500 --> 00:01:12,640
+IECA, los diuréticos, el beta bloqueo, etcétera. En cambio, los casos que
+
+16
+00:01:12,640 --> 00:01:16,680
+son severos en la ECO, o bien que vienen con síntomas, que vienen con
+
+17
+00:01:16,680 --> 00:01:20,480
+disnea de esfuerzo, que vienen con ortomnea, etcétera, en ese caso se
+
+18
+00:01:20,480 --> 00:01:24,760
+manejan con cirugía. ¿Qué tipo de cirugía? La verdad es que depende si es
+
+19
+00:01:24,760 --> 00:01:28,600
+una válvula reparable, eventualmente se puede intentar su reparación con una
+
+20
+00:01:28,600 --> 00:01:32,320
+válvula plastía, en cambio si es una válvula que ya está muy dañada, en
+
+21
+00:01:32,320 --> 00:01:36,360
+ese caso no queda otra que reemplazarla por una prótesis en una cirugía de
+
+22
+00:01:36,360 --> 00:01:41,320
+reemplazo válvular, que acuérdense que hay dos tipos de prótesis, por
+
+23
+00:01:41,320 --> 00:01:45,200
+un lado las biológicas que se hacen con válvula órtica de cerdo, por
+
+24
+00:01:45,200 --> 00:01:50,880
+ejemplo, o con donante humano cadáver, o bien con pericardio, ya
+
+25
+00:01:50,880 --> 00:01:55,120
+sea de humano o de algún animal, y en este caso vienen con algo malo, que es
+
+26
+00:01:55,120 --> 00:01:59,600
+que no duran mucho tiempo, duran ejemplo 10 años, pero vienen con algo muy
+
+27
+00:01:59,600 --> 00:02:03,040
+bueno, que es que no requieren anticoagulación, así que en general
+
+28
+00:02:03,040 --> 00:02:07,840
+cuando es un paciente que tiene una edad más avanzada, se suele elegir la
+
+29
+00:02:07,840 --> 00:02:13,520
+prótesis biológica sobre la prótesis mecánica, y las otras son
+
+30
+00:02:13,520 --> 00:02:18,880
+las mecánicas que vienen como cosas muy buenas, que son de por vida,
+
+31
+00:02:18,880 --> 00:02:23,120
+habitualmente duran muchos años, más de lo que dura el paciente por la
+
+32
+00:02:23,120 --> 00:02:27,920
+general, pero vienen con la cosa mala que requieren de anticoagulantes,
+
+33
+00:02:27,920 --> 00:02:32,480
+en particular con cummerínicos por ese caso, a un INR de una
+
+34
+00:02:32,480 --> 00:02:38,080
+anticoagulación relativamente alta, dígase el INR entre 3 hasta 3,5,
+
+35
+00:02:38,080 --> 00:02:42,400
+incluso en algunos casos se requiere que llegue hasta 4.
+
+36
+00:02:42,400 --> 00:02:47,240
+Las prótesis mecánicas por la general se usan en los menores de 70
+
+37
+00:02:47,240 --> 00:02:53,320
+años cuando son las prótesis mecánica de la válvula mitral, en el
+
+38
+00:02:53,320 --> 00:02:58,320
+sentido en que suelen durar cerca de 10 años las biológicas mitrálicas, y
+
+39
+00:02:58,320 --> 00:03:02,240
+por lo mismo si es que es un paciente que ya tiene 80 años, uno asume que
+
+40
+00:03:02,240 --> 00:03:05,760
+va a vivir menos de 10 años y se deja una biológica, en cambio en las
+
+41
+00:03:05,760 --> 00:03:09,960
+aórticas en las que las biológicas duran un tiempo más, la verdad que
+
+42
+00:03:09,960 --> 00:03:14,240
+las mecánicas se prefieren en particular en los pacientes jóvenes de
+
+43
+00:03:14,240 --> 00:03:18,800
+menos de 55 años. Ahora, ¿qué pasa si tengo un paciente que tiene
+
+44
+00:03:18,800 --> 00:03:23,960
+contraindicación de la anticoagulación, ejemplo porque es alérgico o porque
+
+45
+00:03:23,960 --> 00:03:28,400
+viene con alguna otra enfermedad? En ese caso estoy obligado a manejarlo
+
+46
+00:03:28,400 --> 00:03:31,280
+con una prótesis biológica independientemente de la edad, y que
+
+47
+00:03:31,280 --> 00:03:35,440
+quede eso bien claro porque las mecánicas requieren sí o sí del taco,
+
+48
+00:03:35,440 --> 00:03:38,480
+ya que de lo contrario hacen fenómenos embólicos y el paciente
+
+49
+00:03:38,480 --> 00:03:41,880
+queda secuelado o se muere. Y bueno, eso es todo lo que hay que saber por
+
+50
+00:03:41,920 --> 00:03:47,160
+ahora. En las siguientes diapos vamos a entrar en los detalles semiológicos,
+
+51
+00:03:47,160 --> 00:03:49,520
+que insisto, hay que saberlos bastante bien. Que estén bien.

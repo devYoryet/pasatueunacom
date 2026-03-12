@@ -1,0 +1,231 @@
+1
+00:00:03,340 --> 00:00:09,240
+Hola, hola. Vamos a ver un tema muy corto pero importante, que cuáles son los objetivos de laboratorio o en general
+
+2
+00:00:09,380 --> 00:00:14,720
+en el manejo de una diabetes mellito. Y el objetivo hacia grandes rasgos, lo que uno busca
+
+3
+00:00:14,720 --> 00:00:21,540
+al tratar a un paciente diabético, es evitar las complicaciones agudas. Dígase, la cetoacidosis, el síndrome hiperglicémico, hiperosmolar,
+
+4
+00:00:22,340 --> 00:00:31,740
+la cipolisemia, y las complicaciones crónicas. Dígase, la retinopatía diabética, el pie diabético, la nefropatía diabética, la neuropatía diabética, etcétera.
+
+5
+00:00:31,740 --> 00:00:39,340
+Ese es como el objetivo clínico, el objetivo más importante, pero esto se traduce en los exámenes que uno pide,
+
+6
+00:00:39,340 --> 00:00:48,340
+en que tenga una hemoglobina glicosilada menor a 7%. ¿Y por qué menor a 7%? Porque bajo ese rango, la verdad es que no tiene complicaciones crónicas
+
+7
+00:00:48,340 --> 00:00:54,940
+y es muy raro que tenga complicaciones agudas, salvo obviamente la hipoglicemia, que acuérdense que el precio para un buen control metabólico
+
+8
+00:00:54,940 --> 00:01:05,140
+es hacer al menos alguna hipoglicemia al año. Ahora, este corte de menor a 7% cambia en algunos casos y cambia a ser un poquito más laxo,
+
+9
+00:01:05,140 --> 00:01:14,940
+a ser un poco más permisivo con las hiperglicemias, y el corte ahí queda en 8%, y eso se hace cuando el paciente está con mucha hipoglicemia.
+
+10
+00:01:14,940 --> 00:01:22,340
+Alguien que de verdad me hace hipoglicemias a cada rato, con síntomas neuroglucopénicos que eventualmente se ponen en peligro su vida,
+
+11
+00:01:22,340 --> 00:01:28,740
+uno dice, sumando y restando, mejor que quede con un control no tan estricto, con tal de que no haga las hipoglicemias.
+
+12
+00:01:28,740 --> 00:01:34,740
+Lo mismo ocurre con los niños muy pequeños, porque justamente son más desordenados con las comidas, con las insulinas,
+
+13
+00:01:34,740 --> 00:01:41,940
+y eventualmente tienen riesgo de hipoglicemia. Ahora, un niño que ya sigue las instrucciones bien y que aprende a manejar su diabetes uno bien,
+
+14
+00:01:41,940 --> 00:01:50,740
+que es lo más frecuente. Los niños pueden aprender perfectamente a manejar sus comidas, sus insulinas, y todas esas cosas ya quedan con el objetivo
+
+15
+00:01:50,940 --> 00:01:57,940
+de que sea menor a 7, pero un niño muy chico que todavía no sigue estas instrucciones uno se queda con el corte de menor a 8.
+
+16
+00:01:57,940 --> 00:02:05,340
+Cuando yo tengo un paciente que yo creo que va a vivir menos de 10 años, que tiene una expectativa de vida o de sobrevida menor a 10 años,
+
+17
+00:02:05,340 --> 00:02:13,940
+en ese caso igualmente el objetivo es 8% porque en 10 años no va a avanzar tanto ni la nefropatía, ni la retinopatía,
+
+18
+00:02:14,140 --> 00:02:22,140
+ni la neuropatía como para estar tan estricto, y en esta misma línea alguien mayor de 75 años a menos que esté demasiado bien
+
+19
+00:02:22,140 --> 00:02:29,140
+o alguien con comorbilidades muy severas que me hacen pensar que va a fallecer pronto, en esos casos igualmente el corte es 8%.
+
+20
+00:02:29,140 --> 00:02:37,140
+Dedicamos harto tiempo a esto, a la hemoglobina glicosilada porque ese es el objetivo más importante en el manejo de la diabetes,
+
+21
+00:02:37,340 --> 00:02:44,340
+en el control metabólico de la diabetes y acuérdense que se pide cada tres meses y cuando ya logra niveles estables
+
+22
+00:02:44,340 --> 00:02:49,340
+en el tiempo y que están dentro de rango puedo espaciarlo cada seis meses, pero en la práctica cada tres meses
+
+23
+00:02:49,340 --> 00:02:55,340
+hay que pedirle este examen y los pacientes le dicen el examen acusete o el examen chismoso en el sentido
+
+24
+00:02:55,340 --> 00:03:02,340
+en que cuenta la verdad de los últimos dos meses a diferencia de las glicemias que me hablan de las últimas horas nomás.
+
+25
+00:03:02,540 --> 00:03:10,540
+Ahora, el objetivo respecto a las glicemias, ya las preprandiales y las postprandiales no hay un valor único,
+
+26
+00:03:10,540 --> 00:03:19,540
+aquí yo pongo las preprandiales menor a 130 pero en algunas partes sale menor a 100 y las postprandiales menor a 180
+
+27
+00:03:19,540 --> 00:03:27,540
+y que en algunos lugares sale menor a 130 y menciono estos valores, las preprandiales menor a 100 a 130
+
+28
+00:03:27,740 --> 00:03:34,740
+y las postprandiales menor a 130 a 180 porque de una u otra forma me sirven para ajustar los niveles de insulina
+
+29
+00:03:34,740 --> 00:03:40,740
+o de los hipoglicemiantes orales en relación a tener una hemoglobina glicosilada alta
+
+30
+00:03:40,740 --> 00:03:47,740
+pero las glicemias malas con la hemoglobina glicosilada dentro de rango la verdad es que manda la hemoglobina glicosilada
+
+31
+00:03:47,740 --> 00:03:51,740
+y me da lo mismo que haya una postprandial en 190 por ejemplo.
+
+32
+00:03:51,940 --> 00:04:00,940
+Ahora, la presión arterial igualmente tiene un objetivo, no hay acuerdo en algunas partes sale menor a 130 a 80
+
+33
+00:04:00,940 --> 00:04:06,940
+en otras partes sale menor a 140 a 90 y la verdad es que si viene con nefropatía
+
+34
+00:04:06,940 --> 00:04:13,940
+ya sea como incipiente con una simple microalbuminuria ya me quedo con los 130 a 80.
+
+35
+00:04:13,940 --> 00:04:18,940
+La mayoría de las guías internacionales hablan del 130 a 80, la guía MSAL dependiendo cual de las guías
+
+36
+00:04:19,140 --> 00:04:24,140
+se queda con alguno de esos dos valores menor a 140 a 90 o menor a 130 a 80.
+
+37
+00:04:24,140 --> 00:04:33,140
+Ahora, como para los pacientes en la vida real lo ideal es intentar que estén menor a 130 a 80
+
+38
+00:04:33,140 --> 00:04:37,140
+sabiendo que uno ve el riesgo-beneficio con los farmas, con los costos, etcétera
+
+39
+00:04:37,140 --> 00:04:42,140
+eventualmente uno puede ser un poquito más permisivo siempre y cuando no tenga nefropatía
+
+40
+00:04:42,340 --> 00:04:47,340
+entonces que hay nefropatía ya sea falla renal o proteinuria en ese caso me quedo con ese rango que está ahí
+
+41
+00:04:47,340 --> 00:04:50,340
+de los 130 a 80, quedo claro.
+
+42
+00:04:50,340 --> 00:04:58,340
+Aparte de eso el perfil lipídico uno le exige los triliserios abajo de 150 idealmente bajo 100
+
+43
+00:04:58,340 --> 00:05:05,340
+el HDL que esté en rango normal digase en los hombres arriba de 40 y en las mujeres arriba de 50
+
+44
+00:05:05,340 --> 00:05:11,340
+acuérdense que el HDL bajo es una dislipidemia que aumenta levemente el riesgo cardiovascular
+
+45
+00:05:11,540 --> 00:05:19,540
+y los triliserios altos más el HDL bajo son las dos complicaciones clásicas desde el punto de vista lipídico
+
+46
+00:05:19,540 --> 00:05:24,540
+de la diabetes, pero lo más importante sigue siendo el manejo del colesterol LDL
+
+47
+00:05:24,540 --> 00:05:31,540
+ahora el colesterol LDL no se altera con la diabetes, eso es importante, la diabetes no me eleva
+
+48
+00:05:31,540 --> 00:05:36,540
+los niveles del LDL, pero el LDL es lo que me determina el riesgo cardiovascular
+
+49
+00:05:36,740 --> 00:05:42,740
+y en este caso los diabéticos tienen máximo riesgo cardiovascular así que se le pide que esté abajo de 70
+
+50
+00:05:42,740 --> 00:05:47,740
+ahora si que ya está con estatinas y anda relativamente bien y está entre 70 y 100
+
+51
+00:05:47,740 --> 00:05:52,740
+eventualmente me quedo tranquilo, pero lo ideal es si es que está arriba de 70
+
+52
+00:05:52,740 --> 00:05:58,740
+iniciar con estatinas de inmediato y en la práctica a los diabéticos se les inicia estatinas casi siempre
+
+53
+00:05:58,740 --> 00:06:04,740
+ahora, aparte dentro de los objetivos está el manejar los otros factores de riesgo cardiovascular
+
+54
+00:06:04,940 --> 00:06:09,940
+las otras enfermedades crónicas y dentro de eso que no fume, que haga dieta, que haga deporte
+
+55
+00:06:09,940 --> 00:06:12,940
+que maneje todas sus otras enfermedades, etcétera
+
+56
+00:06:12,940 --> 00:06:18,940
+pero lo más importante es la hemoglobina glicosilada y eso hay que saberlo bien sabiendo las excepciones
+
+57
+00:06:18,940 --> 00:06:22,940
+y nos vemos en el siguiente video, ahí vamos a ver un poco más del manejo de la diabetes 2
+
+58
+00:06:22,940 --> 00:06:23,940
+que estén bien

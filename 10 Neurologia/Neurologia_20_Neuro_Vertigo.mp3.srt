@@ -1,0 +1,571 @@
+1
+00:00:02,740 --> 00:00:06,520
+Hola, hola. Hablemos de vértigo, de las generalidades. En otro video vamos a
+
+2
+00:00:06,520 --> 00:00:10,380
+entrar a las causas específicas, pero empecemos con una breve definición. El
+
+3
+00:00:10,380 --> 00:00:13,240
+vértigo es la sensación de que las cosas giran a mi alrededor, que el mundo
+
+4
+00:00:13,240 --> 00:00:17,340
+gira y eso se llama vértigo objetivo. O bien de que yo giro en mi propio
+
+5
+00:00:17,340 --> 00:00:21,460
+eje y eso se conoce como el vértigo subjetivo, que el resto del mundo está
+
+6
+00:00:21,460 --> 00:00:24,740
+quieto pero yo estoy girando. Es importante diferenciar el vértigo de
+
+7
+00:00:24,740 --> 00:00:28,860
+otras causas de mareo, en el sentido en que muchas veces el paciente dice
+
+8
+00:00:28,860 --> 00:00:32,740
+vengo con vértigo o tengo mareo y hay que ver que no sea una hipotemia o
+
+9
+00:00:32,740 --> 00:00:36,360
+alguna otra cosa, sino que sea esta sensación de giro, que es lo
+
+10
+00:00:36,360 --> 00:00:38,740
+característico y lo que define y lo que diferencia el vértigo de otras
+
+11
+00:00:38,740 --> 00:00:42,860
+causas de mareo. Su clasificación es lo más importante en el
+
+12
+00:00:42,860 --> 00:00:46,220
+enfrentamiento clínico, así que hay que saberlo. Se divide en vértigo
+
+13
+00:00:46,220 --> 00:00:52,180
+periférico y vértigo central. Dentro de las características del
+
+14
+00:00:52,180 --> 00:00:56,460
+vértigo periférico es que viene asociado muchas veces a un nistagmo, que
+
+15
+00:00:56,460 --> 00:01:01,420
+son los movimientos del ojo rítmico, cierto, que es horizontal u horizontal
+
+16
+00:01:01,420 --> 00:01:06,860
+rotatorio. Aparte de eso, puede venir en el caso de una neuronitia estibular,
+
+17
+00:01:06,860 --> 00:01:10,340
+por ejemplo, alguna otra cosa un poco más grave, con lateropulsiones hacia
+
+18
+00:01:10,340 --> 00:01:13,100
+el lado enfermo, se cae hacia el lado enfermo.
+
+19
+00:01:13,100 --> 00:01:17,140
+Puede venir además con síntomas auditivos, que lo más importante son
+
+20
+00:01:17,140 --> 00:01:21,660
+la hipocusia, el tinnitus. Incluso puede venir con otalgia. Ejemplo, en la
+
+21
+00:01:21,660 --> 00:01:25,100
+misma enfermedad de Menier, el mismo hidro puede generar algún grado de
+
+22
+00:01:25,100 --> 00:01:30,340
+dolor también. Ahora, como cosa importante, para recordar hacia dónde
+
+23
+00:01:30,340 --> 00:01:34,140
+se cae, se dice que en cada uno de los oídos hay un enanito que empuja
+
+24
+00:01:34,140 --> 00:01:37,980
+para el otro lado y cuando uno de los enanitos se muere, el otro va y me
+
+25
+00:01:37,980 --> 00:01:41,420
+empuja para ese lado. Eso hace que me caiga hacia ese lado y que los
+
+26
+00:01:41,420 --> 00:01:45,420
+ojos se me vayan para ese lado, pero la corrección es lo que define al
+
+27
+00:01:45,420 --> 00:01:49,860
+nombre del nistagmo. O sea, si yo tengo un problema del lado izquierdo,
+
+28
+00:01:49,860 --> 00:01:54,460
+voy a tener lateropulsiones hacia el mismo lado izquierdo, pero voy a
+
+29
+00:01:54,460 --> 00:01:59,180
+tener un nistagmo con fase rápida a derecha o nistagmo a
+
+30
+00:01:59,180 --> 00:02:04,780
+derecha. Ahora, el central, que hay que saberlo porque son causas mucho más
+
+31
+00:02:04,780 --> 00:02:08,580
+graves, habitualmente viene con un nistagmo que es vertical o más
+
+32
+00:02:08,580 --> 00:02:11,900
+frecuente todavía que es de tipo multidireccional y que los ojos se
+
+33
+00:02:11,900 --> 00:02:15,820
+mueven para cualquier lado. Viene con lateropulsiones igualmente
+
+34
+00:02:15,820 --> 00:02:19,220
+bilaterales o multidireccionales. O sea, me caigo no solo para el lado
+
+35
+00:02:19,220 --> 00:02:22,420
+enfermo, sino que para todos los lados. Y muchas veces viene con
+
+36
+00:02:22,460 --> 00:02:26,620
+signos cerebelosos cuando hay un infarto cerebeloso o una lesión
+
+37
+00:02:26,620 --> 00:02:31,740
+cerebelosa que está explicando a este vértigo central. La ataxia,
+
+38
+00:02:31,740 --> 00:02:36,180
+eso de caminar como borracho. La dismetría también conocida como
+
+39
+00:02:36,180 --> 00:02:39,300
+temblor de intención, que es la dificultad para hacer un
+
+40
+00:02:39,300 --> 00:02:42,660
+movimiento repetitivo como tocarme la nariz y lo otro y lo hago así
+
+41
+00:02:42,660 --> 00:02:45,660
+con un temblor de intención. La adiodocosinesia es la
+
+42
+00:02:45,660 --> 00:02:49,380
+imposibilidad de hacer movimientos alternantes y lo hago así muy,
+
+43
+00:02:49,420 --> 00:02:53,700
+muy desorganizado. Y finalmente, también orienta muy fortemente
+
+44
+00:02:53,700 --> 00:02:56,500
+un vértigo central que tenga signos focales porque obviamente
+
+45
+00:02:56,500 --> 00:02:58,820
+eso es algo que sugiere un infarto de tronco encéfalo o un
+
+46
+00:02:58,820 --> 00:03:01,780
+infarto cerebral o alguna cosa de ese tipo. Así que signo
+
+47
+00:03:01,780 --> 00:03:05,060
+cerebeloso, signo focales y el nistagmo multidireccional son
+
+48
+00:03:05,060 --> 00:03:07,460
+los signos de alarma que inmediatamente me dicen esto es una
+
+49
+00:03:07,460 --> 00:03:10,940
+causa central. Ahora, ¿cuáles son las típicas causas de
+
+50
+00:03:10,940 --> 00:03:13,460
+vértigo periférico? Que las vamos a ver con algún detalle
+
+51
+00:03:13,460 --> 00:03:16,500
+más adelante. El vértigo postural paroxístico benigno,
+
+52
+00:03:16,540 --> 00:03:19,340
+la enfermedad de Meniag, el neurinoma del acústico,
+
+53
+00:03:19,340 --> 00:03:22,780
+el aneuronitis vestibular más algunas otras. ¿Cuáles son las
+
+54
+00:03:22,780 --> 00:03:25,740
+causas de vértigo central en cambio? Infarto de cerebelo,
+
+55
+00:03:25,740 --> 00:03:28,740
+una lesión tronco encefálica, ya sea un infarto,
+
+56
+00:03:28,740 --> 00:03:31,100
+un tumor o alguna cosa similar, accidentes vasculares
+
+57
+00:03:31,100 --> 00:03:33,860
+encefálicos como causa general, la esclerosis múltiple
+
+58
+00:03:33,860 --> 00:03:37,860
+también que son enfermedades del sistema nervioso central.
+
+59
+00:03:37,860 --> 00:03:41,100
+El manejo del vértigo periférico por la general
+
+60
+00:03:41,100 --> 00:03:43,860
+incluye un examen físico y una historia clínica bien
+
+61
+00:03:43,900 --> 00:03:46,780
+detallada, pero como examen complementario puedo hacer el
+
+62
+00:03:46,780 --> 00:03:50,220
+examen de octavo par, que es un examen que incluye varias
+
+63
+00:03:50,220 --> 00:03:53,300
+cosas. Dentro de eso está la audiometría, que ejemplo,
+
+64
+00:03:53,300 --> 00:03:56,420
+puede estar alterada en la enfermedad de Meniag o en una
+
+65
+00:03:56,420 --> 00:04:00,340
+parálisis vestíbulo coclear. La prueba calórica que
+
+66
+00:04:00,340 --> 00:04:03,460
+ve justamente el funcionamiento de cada uno de
+
+67
+00:04:03,460 --> 00:04:07,140
+los oídos, en la cual yo le irrigo agua fría y
+
+68
+00:04:07,140 --> 00:04:10,740
+después agua tibia y veo si es que se produce un
+
+69
+00:04:10,820 --> 00:04:14,180
+instagmo o no y esto que quede bien claro, lo normal es que
+
+70
+00:04:14,180 --> 00:04:17,900
+sí se produzca un instagmo al irrigar el oído con agua
+
+71
+00:04:17,900 --> 00:04:20,100
+caliente o con agua fría, pero si es que este
+
+72
+00:04:20,100 --> 00:04:23,020
+instagmo está disminuido, uno habla de una parecia
+
+73
+00:04:23,020 --> 00:04:26,180
+vestibular y si es que está totalmente abolido,
+
+74
+00:04:26,180 --> 00:04:30,140
+en ese caso uno habla de una plegia vestibular.
+
+75
+00:04:30,140 --> 00:04:33,500
+Y finalmente las distintas pruebas vestibulares o las
+
+76
+00:04:33,500 --> 00:04:37,380
+pruebas de provocación vestibular que son un montón
+
+77
+00:04:37,380 --> 00:04:39,660
+de cosas que se hacen en el examen físico y que el
+
+78
+00:04:39,660 --> 00:04:42,500
+técnico justamente lo empuja hacia un lado, lo hace
+
+79
+00:04:42,500 --> 00:04:45,740
+caminar con ojos cerrados, lo hace caminar en tándem,
+
+80
+00:04:45,740 --> 00:04:49,460
+etcétera y es una especie de examen neurológico,
+
+81
+00:04:49,460 --> 00:04:54,140
+pero muy dirigido a la parte vestibular con distintas
+
+82
+00:04:54,140 --> 00:04:56,740
+pruebas que intentan hacer que se caiga, etcétera,
+
+83
+00:04:56,740 --> 00:04:59,220
+con movimientos de la cabeza, etcétera.
+
+84
+00:04:59,220 --> 00:05:01,500
+En el caso del vértigo central, en cambio, yo
+
+85
+00:05:01,500 --> 00:05:04,340
+digo aquí tengo un infarto o algún problema
+
+86
+00:05:04,340 --> 00:05:06,180
+del sistema nervioso central, así que obviamente
+
+87
+00:05:06,180 --> 00:05:08,500
+tengo que ir a una neuroimagen dentro de las
+
+88
+00:05:08,500 --> 00:05:10,500
+cuales la resonancia magnética suele ser de
+
+89
+00:05:10,500 --> 00:05:13,140
+elección, porque acuérdense que la fosa posterior en
+
+90
+00:05:13,140 --> 00:05:17,980
+donde está el cerebelo y en donde está el tronco
+
+91
+00:05:17,980 --> 00:05:20,620
+encéfalo, muchas veces no se viene en la TAC,
+
+92
+00:05:20,620 --> 00:05:23,420
+pero la TAC también me puede servir al menos como
+
+93
+00:05:23,420 --> 00:05:25,940
+el examen inicial para el manejo de urgencia,
+
+94
+00:05:25,940 --> 00:05:28,460
+en particular si sospecho ejemplo una hemorragia
+
+95
+00:05:28,460 --> 00:05:31,780
+cerebelosa o un infarto cerebeloso grande que sí
+
+96
+00:05:31,780 --> 00:05:34,860
+se puede ver en la TAC, pero si la TAC estuviera
+
+97
+00:05:34,860 --> 00:05:37,700
+normal, igual me voy a ir a la resonancia magnética
+
+98
+00:05:37,700 --> 00:05:40,180
+ante un vértigo central, repito, porque la
+
+99
+00:05:40,180 --> 00:05:42,980
+resonancia ve mejor la fosa posterior que la TAC.
+
+100
+00:05:44,660 --> 00:05:46,620
+Como un tema general, veamos cuáles son los
+
+101
+00:05:46,620 --> 00:05:49,780
+fármacos antivertiginosos y número uno están
+
+102
+00:05:49,780 --> 00:05:53,260
+los antistamínicos, dentro de eso el dimedrinato,
+
+103
+00:05:53,260 --> 00:05:57,220
+la difenidramina y la meclisina, siendo la
+
+104
+00:05:57,220 --> 00:06:00,940
+meclisina el que tiene el mayor efecto
+
+105
+00:06:00,940 --> 00:06:03,300
+antivertiginoso, aparte de eso está la
+
+106
+00:06:03,300 --> 00:06:05,180
+frunaricina y la sinaricina, que no solo
+
+107
+00:06:05,180 --> 00:06:07,580
+son antistamínicos, sino que son bloqueadores
+
+108
+00:06:07,620 --> 00:06:10,140
+del calcio también y que son dentro de los
+
+109
+00:06:10,140 --> 00:06:13,140
+clásicos antivertiginosos, aparte de eso tengo
+
+110
+00:06:13,140 --> 00:06:16,700
+las benzodiazepinas, todas las de acción rápida,
+
+111
+00:06:16,700 --> 00:06:20,140
+el alprasolam y clonazepam, y también se
+
+112
+00:06:20,140 --> 00:06:22,740
+puede usar el diazepam que tienen un efecto
+
+113
+00:06:22,740 --> 00:06:25,460
+antivertiginoso bastante grande y esos dos
+
+114
+00:06:25,460 --> 00:06:28,820
+grupos de fármacos son habitualmente los que
+
+115
+00:06:29,660 --> 00:06:33,020
+se usan en la crisis aguda actualmente, aparte
+
+116
+00:06:33,020 --> 00:06:35,060
+de eso le puedo dejar antieméticos que no
+
+117
+00:06:35,060 --> 00:06:37,180
+solamente que reducen los síntomas de
+
+118
+00:06:37,180 --> 00:06:39,060
+vómitos, que es algo que suele asociarse al
+
+119
+00:06:39,060 --> 00:06:41,420
+vértigo, sino que además me sirven para el
+
+120
+00:06:41,420 --> 00:06:43,180
+vértigo mismo y dentro de eso está la
+
+121
+00:06:43,180 --> 00:06:46,020
+domperidona, la metoclopramida, el
+
+122
+00:06:46,020 --> 00:06:48,740
+ondacentrón y la prometacina que a
+
+123
+00:06:48,740 --> 00:06:50,860
+veces aparecen en las alternativas y
+
+124
+00:06:50,860 --> 00:06:53,540
+hay que saber qué son, y finalmente
+
+125
+00:06:53,540 --> 00:06:55,380
+tengo algunos otros antivertiginosos
+
+126
+00:06:55,380 --> 00:06:58,020
+como ejemplo el difenidol que es un
+
+127
+00:06:58,020 --> 00:07:00,100
+anticolinérgico y que durante mucho
+
+128
+00:07:00,100 --> 00:07:01,740
+tiempo era el que más se usaba pero
+
+129
+00:07:01,740 --> 00:07:03,340
+ahora se está tendiendo a usar un
+
+130
+00:07:03,340 --> 00:07:04,900
+poco más las benzodiazepinas más los
+
+131
+00:07:04,900 --> 00:07:07,020
+antiestamínicos. Finalmente sepan que
+
+132
+00:07:07,020 --> 00:07:10,100
+como manejo del vértigo en los casos
+
+133
+00:07:10,100 --> 00:07:11,780
+más crónicos me sirve también la
+
+134
+00:07:11,780 --> 00:07:13,940
+rehabilitación vestibular que son una
+
+135
+00:07:13,940 --> 00:07:17,060
+serie de ejercicios para mejorar la
+
+136
+00:07:17,060 --> 00:07:19,820
+propia excepción y evitar las caídas
+
+137
+00:07:19,820 --> 00:07:21,460
+en las personas que tienen alguna
+
+138
+00:07:21,460 --> 00:07:24,860
+patología irreversible o permanente
+
+139
+00:07:24,860 --> 00:07:26,860
+y que afecta al sistema vestibular.
+
+140
+00:07:26,860 --> 00:07:29,220
+Bueno esa fue esta clase, en la
+
+141
+00:07:29,220 --> 00:07:30,300
+siguiente vamos a ver las causas
+
+142
+00:07:30,300 --> 00:07:32,380
+específicas de cada uno de los
+
+143
+00:07:32,380 --> 00:07:35,380
+tipos de vértigos. ¡Que estén bien!

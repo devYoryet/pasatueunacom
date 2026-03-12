@@ -1,0 +1,527 @@
+1
+00:00:03,220 --> 00:00:06,260
+Hola, hola. Vamos a ver si es que aprendieron o no el tratamiento de la
+
+2
+00:00:06,260 --> 00:00:09,540
+diabetes con varios ejercicios en los cuales, si es que no lo han aprendido
+
+3
+00:00:09,540 --> 00:00:13,320
+todavía, ahora ya es el momento en que se grave de manera definitiva. Así que
+
+4
+00:00:13,320 --> 00:00:17,980
+empecemos inmediatamente con el caso 1. Es un paciente de 68 años que está
+
+5
+00:00:17,980 --> 00:00:23,120
+con metformina 850 cada 8 horas. O sea, está con la dosis máxima ya de
+
+6
+00:00:23,120 --> 00:00:28,260
+metformina y está con una hemoglobina A1C de 8%. Uno dice, ¿qué edad tiene?
+
+7
+00:00:28,260 --> 00:00:33,200
+68 años. El objetivo debería ser 7% de hemoglobina glicosilada o menos,
+
+8
+00:00:33,200 --> 00:00:37,120
+así que en este caso hay que agregar un segundo hipoglicemiante. Ahora, ¿cuál
+
+9
+00:00:37,120 --> 00:00:41,240
+la Glivenklamida? Es el clásico en Chile cuando no hay recursos y no hay
+
+10
+00:00:41,240 --> 00:00:45,320
+un alto riesgo de hipoglicemia. Aquí a los 68 años ya hay algo de riesgo.
+
+11
+00:00:45,320 --> 00:00:49,600
+Así que lo ideal es que sea otro hipoglicemiante en la medida que el
+
+12
+00:00:49,600 --> 00:00:52,400
+bolsillo lo aguante o que los recursos del sistema público lo aguante.
+
+13
+00:00:52,400 --> 00:00:57,600
+El caso 2. 77 años. Acá ya tienen más de 75 años, así que el objetivo
+
+14
+00:00:58,200 --> 00:01:03,960
+de la hemoglobina glicosilada es menor a 8%. Está con metformina más Glivenklamida
+
+15
+00:01:03,960 --> 00:01:09,480
+que cada 12 horas ambos. La metformina está en 850 cada 12, así que todavía
+
+16
+00:01:09,480 --> 00:01:12,960
+se puede subir un poco más. La Glivenklamida está en 5 miligramos cada 12,
+
+17
+00:01:12,960 --> 00:01:16,640
+así que también se puede subir a 10 miligramos cada 12. Pero si se fijan
+
+18
+00:01:16,640 --> 00:01:19,760
+aquí está bien controlado y no solamente que está bien controlado,
+
+19
+00:01:19,760 --> 00:01:24,480
+sino que está demasiado bien controlado para tener 77 años. Así que la
+
+20
+00:01:24,520 --> 00:01:29,360
+conducta más adecuada va a ser suspenda la Glivenklamida y que su hemoglobina
+
+21
+00:01:29,360 --> 00:01:33,080
+glicosilada suba un poquito porque no pasa nada. Ahora, se podría también
+
+22
+00:01:33,080 --> 00:01:38,000
+cambiar a la metformina 850 tres veces al día y de esa manera puedo
+
+23
+00:01:38,000 --> 00:01:41,800
+suspender la Glivenklamida sin mayor problema. La otra forma de verlo es
+
+24
+00:01:41,800 --> 00:01:45,860
+es un adulto mayor, bastante mayor, así que per se la Glivenklamida me da
+
+25
+00:01:45,860 --> 00:01:49,800
+miedo. Así que incluso si es que hubiese estado con una hemoglobina
+
+26
+00:01:49,800 --> 00:01:54,480
+glicosilada ya más al límite, ejemplo en 7,5, igualmente suspender la
+
+27
+00:01:54,480 --> 00:01:57,840
+Glivenklamida y cambiarla por otro hipoglicemiante habría sido una buena
+
+28
+00:01:57,840 --> 00:02:02,400
+decisión. Vamos con el caso 3, 76 años, ya sabemos el objetivo de la
+
+29
+00:02:02,400 --> 00:02:06,880
+hemoglobina glicosilada va a ser menor a 8%, está con metformina
+
+30
+00:02:06,880 --> 00:02:11,640
+850 cada 8, así que está en el límite máximo y está por arriba del 8%,
+
+31
+00:02:11,640 --> 00:02:15,840
+está en 8,8%, así que debo agregar un segundo
+
+32
+00:02:15,840 --> 00:02:19,560
+hipoglicemiante, pero por tener 76 años no le puedo dejar Glivenklamida
+
+33
+00:02:19,560 --> 00:02:23,480
+por un alto riesgo de hipoglicemia, así que se la deja o citagliptina o
+
+34
+00:02:23,480 --> 00:02:30,080
+alguno de los GLP-1 o de los SGLUT-2. Vamos con el caso 4, 57 años, está con
+
+35
+00:02:30,080 --> 00:02:33,400
+metformina también tres veces al día en la dosis máxima, Glivenklamida
+
+36
+00:02:33,400 --> 00:02:36,960
+10 miligramos dos veces al día, así que está en dosis máxima también y
+
+37
+00:02:36,960 --> 00:02:41,080
+aún así está con una hemoglobina glicosilada arriba de 7%, que es el
+
+38
+00:02:41,080 --> 00:02:46,320
+objetivo a los 57 años, en los menores de 75 años, así que hay que avanzar
+
+39
+00:02:46,320 --> 00:02:50,320
+todavía más, pero como ya está con las dosis máximas de dos hipoglicemiantes
+
+40
+00:02:50,320 --> 00:02:54,280
+orales, lo único que me queda en este momento es agregar la insulina,
+
+41
+00:02:54,280 --> 00:02:58,360
+que acuérdense que se empieza con una dosis de NPH habitualmente en la
+
+42
+00:02:58,360 --> 00:03:02,080
+noche. Ahora, cuando yo parto la insulina, recuerden que lo habitual es
+
+43
+00:03:02,080 --> 00:03:05,560
+que se suspende la Glivenklamida o los hipoglicemiantes en general y se
+
+44
+00:03:05,560 --> 00:03:09,840
+suele mantener la metformina sabiendo que es aceptable mantenerlo
+
+45
+00:03:09,840 --> 00:03:15,680
+y suspenderlo. El caso 5, 48 años que está con metformina 8.50 cada 8,
+
+46
+00:03:15,680 --> 00:03:20,240
+nuevamente la dosis máxima de metformina, está con la hemoglobina
+
+47
+00:03:20,240 --> 00:03:25,840
+glicosilada en 10,8%, está arriba de 9%, está demasiado alta, ahí per se ya
+
+48
+00:03:25,840 --> 00:03:30,280
+tiene indicación de insulina, pero aparte me dicen que tiene antecedentes
+
+49
+00:03:30,280 --> 00:03:34,960
+de hipotiroidismo, o sea si se fijan es un paciente o una paciente
+
+50
+00:03:34,960 --> 00:03:39,160
+relativamente joven, aparte de eso con antecedentes de autoinmunidad y
+
+51
+00:03:39,160 --> 00:03:42,520
+con un control metabólico muy malo, hay que sospechar que no vaya a ser una
+
+52
+00:03:42,520 --> 00:03:46,000
+diabetes autoinmune del adulto, una diabetes lada, pero ya sabemos que la
+
+53
+00:03:46,000 --> 00:03:49,960
+conducta sí o sí es insulina y para confirmar que sea una diabetes lada
+
+54
+00:03:49,960 --> 00:03:53,560
+va a haber que pedirle el peptidocé, que debería estar bajo, más los
+
+55
+00:03:53,560 --> 00:03:57,760
+anticuerpos marcadores de autoinmunidad en la diabetes, digas
+
+56
+00:03:57,760 --> 00:04:01,800
+los anticuerpos antiinsulina, los antislote, los antigat, los anti el
+
+57
+00:04:01,800 --> 00:04:10,920
+transportador de zinc-8 y los anti la tirosinquinasa-2, ahora en el
+
+58
+00:04:10,920 --> 00:04:15,560
+caso 6 tiene 58 años, está con metformina 1 gramo cada
+
+59
+00:04:15,560 --> 00:04:19,920
+8 horas y que está en el límite máximo, la hemoglobina glicosilada está
+
+60
+00:04:19,920 --> 00:04:24,320
+arriba de 7%, así que está con un mal control y tuvo un infarto hace 6
+
+61
+00:04:24,320 --> 00:04:28,880
+meses, en este caso por estar la hemoglobina glicosilada arriba hay que
+
+62
+00:04:28,880 --> 00:04:33,760
+partirle un hipolisemigante adicional y por haber tenido un
+
+63
+00:04:33,760 --> 00:04:37,640
+infarto hace 6 meses hay que dejarle algunos de estos hipolisemigantes que
+
+64
+00:04:37,640 --> 00:04:43,480
+tienen mejor rendimiento cardiovascular, dígase el algún glp1 como
+
+65
+00:04:43,480 --> 00:04:48,160
+el liraglutide o algún esglut2 como por ejemplo la empaglifosina, así
+
+66
+00:04:48,160 --> 00:04:53,200
+que esa sería la respuesta en este caso, ahora además las estatinas, la
+
+67
+00:04:53,200 --> 00:04:57,520
+aspirina y todas las cosas del alto riesgo cardiovascular, en el caso 7
+
+68
+00:04:57,640 --> 00:05:02,760
+tiene 45 años, está con una hemoglobina a1c en 8% así que está por
+
+69
+00:05:02,760 --> 00:05:07,840
+arriba de lo aceptable, aparte de eso me dice que tiene artritis reumatoide y
+
+70
+00:05:07,840 --> 00:05:11,480
+con eso yo digo ya tiene autoinmunidad así que no vaya a ser una diabetes
+
+71
+00:05:11,480 --> 00:05:15,600
+slada, aunque la artritis reumatoide no se asocia tanto a diabetes slada
+
+72
+00:05:15,600 --> 00:05:19,400
+pero aún así hay que tener cuidado, está con prednisona y acuérdense que
+
+73
+00:05:19,400 --> 00:05:23,160
+los corticoides pudieran generarme diabetes también y con el metotexate
+
+74
+00:05:23,160 --> 00:05:26,880
+que es el tratamiento de la artritis reumatoide y su glicemia está en
+
+75
+00:05:26,880 --> 00:05:33,440
+200, está súper alto así que sin mucha duda hay una diabetes mal
+
+76
+00:05:33,440 --> 00:05:37,160
+controlada y se hace una segunda hemoglobina glicosilada que está ya en
+
+77
+00:05:37,160 --> 00:05:43,080
+el límite de 8,8%, no alcanza a ser 9% pero sea como sea, con toda
+
+78
+00:05:43,080 --> 00:05:47,040
+esa historia hay que partir la insulina sí o sí, por tres razones, número
+
+79
+00:05:47,040 --> 00:05:51,840
+uno porque está con corticoides, número dos porque puede ser una
+
+80
+00:05:51,840 --> 00:05:54,840
+diabetes slada y número tres porque el control metabólico está
+
+81
+00:05:54,840 --> 00:05:58,360
+especialmente malo aunque ese es un número un poquito más débil porque
+
+82
+00:05:58,360 --> 00:06:04,920
+el corte para que sigo sí sea insulina es 9% no 8,8 como está ahí. Vamos con
+
+83
+00:06:04,920 --> 00:06:09,440
+el caso 8, tiene 58 años, está con metformina en el límite máximo en un
+
+84
+00:06:09,440 --> 00:06:13,520
+gramo cada 8 horas, la hemoglobina glicosilada está en 6,8 así que está
+
+85
+00:06:13,520 --> 00:06:17,800
+bien controlado pero me dicen que tiene una crea de 1,3 miligramos por
+
+86
+00:06:17,800 --> 00:06:21,080
+decilitro, si se acuerdan la falla renal me contraindicaba la
+
+87
+00:06:21,080 --> 00:06:26,240
+metformina pero tenía que ser una crea de 1,5 o más, aquí está en 1,3 así
+
+88
+00:06:26,240 --> 00:06:30,000
+que no me la contraindica, yo digo está bien controlado pues que se quede con su
+
+89
+00:06:30,000 --> 00:06:32,960
+metformina en esa dosis no hay por qué hacer absolutamente ningún
+
+90
+00:06:32,960 --> 00:06:39,520
+cambio. Vamos con el caso nuevo, el caso nueve perdón, tiene 80 años, está
+
+91
+00:06:39,520 --> 00:06:43,880
+con metformina 8,50 cada 8 nuevamente la dosis máxima de metformina como
+
+92
+00:06:43,880 --> 00:06:46,520
+casi todos los ejemplos porque obviamente si está con una dosis más
+
+93
+00:06:46,520 --> 00:06:50,200
+baja de metformina hay que subirlo nomás, la glivenclamida está 5 miligramos
+
+94
+00:06:50,200 --> 00:06:53,840
+cada 12 así que en estricto rigor se podría subir hasta 10 miligramos cada 12
+
+95
+00:06:53,840 --> 00:07:01,060
+la hemoglobina A1C está en 8,8 entonces fíjense está demasiado alta de
+
+96
+00:07:01,060 --> 00:07:06,080
+hecho incluso está demasiado alta para tener 80 años en el sentido en que
+
+97
+00:07:06,080 --> 00:07:10,480
+a los 80 años uno exige que esté debajo de 8 pero puede estar
+
+98
+00:07:10,480 --> 00:07:14,640
+arriba de 7% y me dice que aparte tiene hipoglicemias con esto yo
+
+99
+00:07:14,640 --> 00:07:20,600
+digo tengo que quitarle sí o sí la glivenclamida porque ya me está
+
+100
+00:07:20,600 --> 00:07:24,640
+haciendo hipoglicemia, segundo lugar está muy mal controlado a pesar de
+
+101
+00:07:24,640 --> 00:07:28,160
+estar con dosis relativamente altas y que es un candidato a insulina así
+
+102
+00:07:28,160 --> 00:07:33,160
+que la respuesta acá sería suspender la glivenclamida cambiarlo por otro
+
+103
+00:07:33,160 --> 00:07:37,240
+hipoglicemiante que eventualmente ande bien como ejemplo la citaglutina
+
+104
+00:07:37,240 --> 00:07:41,560
+pero no está notado ahí pero en este caso en particular es muy probable
+
+105
+00:07:42,000 --> 00:07:45,920
+que requiere insulina también porque independientemente de que yo le
+
+106
+00:07:45,920 --> 00:07:51,840
+inicie un hipoglicemente distinto va a ser difícil estando ya con esas dosis
+
+107
+00:07:51,840 --> 00:07:56,920
+de esos medicamentos bajarla a menos de 8% pero aún así se puede intentar
+
+108
+00:07:56,920 --> 00:08:03,200
+dejarle la citaglutina, algún glp1 o un sglut2 y ver qué es lo que pasa
+
+109
+00:08:03,200 --> 00:08:06,720
+con la hemoglobina glicosilada antes de tomar una decisión. El caso 10
+
+110
+00:08:06,720 --> 00:08:10,720
+tiene 58 años está con metformina un gramo cada 8 horas también así
+
+111
+00:08:10,720 --> 00:08:15,160
+que la dosis máxima está con la hemoglobina glicosilada en 8,8 así que
+
+112
+00:08:15,160 --> 00:08:21,240
+está bajo 9 no tiene indicación de insulina todavía pero sí está muy
+
+113
+00:08:21,240 --> 00:08:27,160
+mal controlado y está con una crea de 1,8 como está con una crea tan
+
+114
+00:08:27,160 --> 00:08:30,960
+elevada arriba de 1,5 para empezar está absolutamente contraindicada la
+
+115
+00:08:30,960 --> 00:08:35,320
+metformina y lo más probable es que va a quedar con insulina. Ahora como
+
+116
+00:08:35,320 --> 00:08:39,760
+alternativa en lugar de iniciarle insulina que es la respuesta más
+
+117
+00:08:39,760 --> 00:08:43,680
+fácil es el suspender la metformina y cambiarlo por algunos de los
+
+118
+00:08:43,680 --> 00:08:48,280
+medicamentos que sí se puede dejar en contexto de una falla renal que si se
+
+119
+00:08:48,280 --> 00:08:52,480
+acuerdan eran los glp1 fundamentalmente y también me servían
+
+120
+00:08:52,480 --> 00:08:58,300
+los sglut2 pero no funcionaban de manera tan efectiva o eficaz en la
+
+121
+00:08:58,300 --> 00:09:02,440
+falla renal porque justamente funcionaban eliminando azúcar por
+
+122
+00:09:02,440 --> 00:09:08,320
+la orina así que en ese caso la insulina o los agonistas del glp1
+
+123
+00:09:08,320 --> 00:09:14,680
+van a ser la respuesta correcta. En el caso 11 65 años con una hemoglobina
+
+124
+00:09:14,680 --> 00:09:18,440
+glicosilada en 9,5 ya estamos muy mal así que obviamente hay que partirle
+
+125
+00:09:18,440 --> 00:09:22,480
+insulina y está con metformina 500 milígramos dos veces al día está
+
+126
+00:09:22,480 --> 00:09:25,960
+con una dosis muy bajita se podría subir pero por la hemoglobina arriba de
+
+127
+00:09:25,960 --> 00:09:29,640
+9% la respuesta es insulina sin ninguna duda así que quedaría con
+
+128
+00:09:29,640 --> 00:09:34,680
+insulina nph y la metformina se puede mantener sin ningún problema se
+
+129
+00:09:34,720 --> 00:09:38,440
+podría subir también un poquito la dosis a medida que voy ajustando la
+
+130
+00:09:38,440 --> 00:09:43,280
+dosis de insulina nph y bueno espero que hayan aprendido porque esto es lo
+
+131
+00:09:43,280 --> 00:09:46,880
+último que vamos a ver y de ahí directo a hacer hartos ejercicios en
+
+132
+00:09:46,880 --> 00:09:49,760
+las pruebas que estén bien.

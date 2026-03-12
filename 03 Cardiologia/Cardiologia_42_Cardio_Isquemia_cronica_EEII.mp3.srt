@@ -1,0 +1,263 @@
+1
+00:00:00,000 --> 00:00:05,510
+Hola, ¿cómo están? Hablemos ahora de la isquemia crónica de extremidades
+
+2
+00:00:05,510 --> 00:00:09,330
+inferiores. Ya vimos la aguda, la crónica es distinta por su caso y lo
+
+3
+00:00:09,330 --> 00:00:12,570
+más importante acá es saber si es que es una isquemia no crítica o bien si es
+
+4
+00:00:12,570 --> 00:00:17,530
+que es una isquemia que sí es crítica y esto se diferencia en base a la
+
+5
+00:00:17,530 --> 00:00:21,090
+clínica. Así que, repito, el diagnóstico de isquemia no crítica y de
+
+6
+00:00:21,090 --> 00:00:25,250
+isquemia crítica es absolutamente clínico. En el caso de la no crítica
+
+7
+00:00:25,250 --> 00:00:28,130
+lo más importante es que viene con clavificación intermitente, dígase
+
+8
+00:00:28,130 --> 00:00:33,010
+este dolor en las pantorrillas, cierto, que aparece al caminar cierta cantidad
+
+9
+00:00:33,010 --> 00:00:36,810
+de metros. Si es que no le duele las pantorrillas sino que le duele por
+
+10
+00:00:36,810 --> 00:00:40,010
+delante la pierna, en ese caso lo más probable es que sea otro tipo de
+
+11
+00:00:40,010 --> 00:00:45,050
+clavificación, ejemplo de causa neurológica como en una raki estenosis,
+
+12
+00:00:45,050 --> 00:00:50,330
+por ejemplo, pero en la isquemia o en la clavificación de causa
+
+13
+00:00:50,330 --> 00:00:55,530
+isquémica, cierto, suele ser dolor en los gemelos, en los gastronomios.
+
+14
+00:00:55,570 --> 00:00:59,130
+En el caso de la isquemia crítica los dos criterios clínicos más importantes
+
+15
+00:00:59,130 --> 00:01:03,250
+son el dolor que se vuelve de reposo y segundo lugar el que se desarrolle una
+
+16
+00:01:03,250 --> 00:01:06,730
+úlcera isquémica o úlcera arterial que vamos a ver después con una imagen
+
+17
+00:01:06,730 --> 00:01:11,770
+con algún detalle. Segundo lugar el famoso índice tobillo brazo que el
+
+18
+00:01:11,770 --> 00:01:16,650
+valor normal es que esté de uno o más. El índice tobillo brazo es la
+
+19
+00:01:16,650 --> 00:01:21,850
+división entre la presión arterial del tobillo y la del brazo, por si
+
+20
+00:01:21,850 --> 00:01:26,530
+caso, repito, lo normal es que la del tobillo sea más alta, así que que el
+
+21
+00:01:26,530 --> 00:01:31,250
+índice tobillo brazo sea mayor a uno o al menos uno, pero si está desde 0,9
+
+22
+00:01:31,250 --> 00:01:36,490
+hacia abajo, en ese caso se confirma que hay una isquemia crónica y si es
+
+23
+00:01:36,490 --> 00:01:41,370
+que está abajo de 0.5, o sea desde 0.4 hacia abajo, en ese caso se
+
+24
+00:01:41,370 --> 00:01:44,770
+confirma que hay un criterio de isquemia crítica. Así que repito
+
+25
+00:01:44,770 --> 00:01:48,410
+cuáles son los tres criterios de isquemia crítica, número 1 dolor de
+
+26
+00:01:48,410 --> 00:01:52,570
+reposo, número 2 úlcera arterial y número 3 el índice tobillo brazo
+
+27
+00:01:52,570 --> 00:01:57,450
+abajo de 0.5. Las diferencias son fundamentales para el manejo en el
+
+28
+00:01:57,450 --> 00:02:01,650
+sentido en que el manejo de la no crítica es que se deje un programa de
+
+29
+00:02:01,650 --> 00:02:04,610
+ejercicio más el manejo general de los factores de riesgo
+
+30
+00:02:04,610 --> 00:02:08,290
+cardiovascular. Los ejercicios fomentan el desarrollo de arterias colaterales
+
+31
+00:02:08,290 --> 00:02:14,250
+cierto y que finalmente disminuye el dolor y el paciente anda bien, pero
+
+32
+00:02:14,250 --> 00:02:18,330
+obviamente se tiene que quedar con aspirina, con estatinas y con cosas
+
+33
+00:02:18,330 --> 00:02:22,090
+como para evitar que se infarte también. En cambio en la isquemia
+
+34
+00:02:22,090 --> 00:02:26,210
+crítica el manejo por regla general es quirúrgico con una cirugía de
+
+35
+00:02:26,210 --> 00:02:31,650
+revascularización. Dentro de esto se puede hacer un bypass arterio
+
+36
+00:02:31,650 --> 00:02:37,290
+arterial, ejemplo a orto iliaco o iliaco-femoral, o bien se puede
+
+37
+00:02:37,290 --> 00:02:41,290
+hacer con un stent igualmente si es que la zona de obstrucción es
+
+38
+00:02:41,290 --> 00:02:46,610
+revascularizable con un stent. Ahora, ¿qué exámenes se piden? Y que
+
+39
+00:02:46,610 --> 00:02:50,050
+quede esto bien claro lo más importante es la clínica y dentro de
+
+40
+00:02:50,050 --> 00:02:53,450
+eso el índice tobillo brazo es lo que me da más información, pero
+
+41
+00:02:53,450 --> 00:02:57,570
+algunos exámenes complementarios eventualmente me pueden ayudar de
+
+42
+00:02:57,570 --> 00:03:03,650
+algo. Dentro de esto está la PBR, la pletimografía de volumen cierto que
+
+43
+00:03:03,650 --> 00:03:07,810
+me puede ser útil en ambas. No es algo que me cambie especialmente la
+
+44
+00:03:07,810 --> 00:03:11,970
+conducta, pero sí me puede decir más o menos a qué nivel está la
+
+45
+00:03:11,970 --> 00:03:17,450
+obstrucción arterial. Y número dos, la engeografía que repito no me sirve
+
+46
+00:03:17,450 --> 00:03:21,010
+para el diagnóstico, el diagnóstico es absolutamente clínico, no me sirve
+
+47
+00:03:21,010 --> 00:03:24,770
+para la diferencia entre la isquemia crítica y la no crítica, en ese
+
+48
+00:03:24,770 --> 00:03:28,810
+caso es una diferencia absolutamente clínica, pero sí me sirve previo a la
+
+49
+00:03:28,810 --> 00:03:33,730
+cirugía como para definir bien en qué lugar voy a hacer el bypass o
+
+50
+00:03:33,770 --> 00:03:38,370
+en qué lugar voy a instalar el STED. Ahora, como cosa adicional pero muy
+
+51
+00:03:38,370 --> 00:03:42,770
+relacionado con esto, veamos las úlceras vasculares de las extremidades
+
+52
+00:03:42,770 --> 00:03:47,250
+inferiores y hay que ver la diferencia entre la úlcera venosa que se ve de
+
+53
+00:03:47,250 --> 00:03:51,650
+esa forma con las úlceras arteriales en cambio que se ven de esta
+
+54
+00:03:51,650 --> 00:03:56,330
+otra forma. La venosa es lo más importante, no duele, repito no duele
+
+55
+00:03:56,330 --> 00:04:00,130
+o duele muy poco. Segundo lugar, la ubicación más frecuente, maliolo
+
+56
+00:04:00,130 --> 00:04:05,690
+interno tal como se ve en esa imagen y en tercer lugar viene con el fondo más
+
+57
+00:04:05,690 --> 00:04:10,590
+violacio, más como hiperémico y lo que circunda con estos cambios
+
+58
+00:04:10,590 --> 00:04:14,890
+clásicos del síndrome post flebítico cierto con hiperpigmentación. En cambio
+
+59
+00:04:14,890 --> 00:04:19,330
+en el caso de la úlcera arterial o isquémica lo más importante duelen
+
+60
+00:04:19,330 --> 00:04:23,130
+son muy dolorosas por el a general, vienen con un borde
+
+61
+00:04:23,130 --> 00:04:27,450
+isquémico desde que se fijan se ve como bien bien pálido y el lugar
+
+62
+00:04:27,450 --> 00:04:32,610
+más frecuente es justamente en el maliolo externo además de en los
+
+63
+00:04:32,610 --> 00:04:39,050
+ortejos así que fíjense el color la ubicación y el aspecto general me
+
+64
+00:04:39,050 --> 00:04:43,170
+ayudan a diferenciarlas pero repito lo más importante es el dolor. Bueno
+
+65
+00:04:43,170 --> 00:04:46,090
+eso es todo lo que hay que saber nos vemos en el siguiente tema que estén
+
+66
+00:04:46,090 --> 00:04:48,210
+bien

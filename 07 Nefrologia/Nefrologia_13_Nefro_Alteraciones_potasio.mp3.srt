@@ -1,0 +1,175 @@
+1
+00:00:00,000 --> 00:00:06,100
+Hola, hola. En este video muy brevemente vamos a hablar de la
+
+2
+00:00:06,100 --> 00:00:09,780
+cardiopatía hipertensiva, que simplemente hay que saber identificarla
+
+3
+00:00:09,780 --> 00:00:13,340
+y sospecharla. Así que empecemos con su clínica. Es una insuficiencia
+
+4
+00:00:13,340 --> 00:00:17,260
+cardíaca del lado izquierdo. Y acuérdense que la insuficiencia izquierda
+
+5
+00:00:17,260 --> 00:00:20,900
+venía habitualmente con disnea, ortopnea, disnea peroxística nocturna,
+
+6
+00:00:20,900 --> 00:00:24,980
+en el sentido en que se asocia a congestión pulmonar y a síntomas por
+
+7
+00:00:24,980 --> 00:00:29,020
+lo mismo de tipo respiratorio, aunque sabemos que la disnea puede ser
+
+8
+00:00:29,020 --> 00:00:33,180
+cardíaca o respiratoria. Segundo lugar es una insuficiencia con difunción
+
+9
+00:00:33,180 --> 00:00:38,500
+diastólica, aunque en las etapas ya más tardías eventualmente puede
+
+10
+00:00:38,500 --> 00:00:43,420
+evolucionar a una difunción sistólica también y ahí pongo dos flechas en
+
+11
+00:00:43,420 --> 00:00:46,980
+el sentido en que suele pasar muchos años para que eso ocurra, suele ser
+
+12
+00:00:46,980 --> 00:00:51,620
+diastólica lo más importante. Además en el electrocardiograma se suelen
+
+13
+00:00:51,620 --> 00:00:54,340
+ver signos de hipertrofia de ventrículo izquierdo que vamos a
+
+14
+00:00:54,340 --> 00:00:58,140
+ver una imagen después, pero la radiografía de tórax en cambio se
+
+15
+00:00:58,140 --> 00:01:01,660
+suele ver normal, porque no es una hipertrofia excéntrica con
+
+16
+00:01:01,660 --> 00:01:05,380
+cardiomigalia, eso solo se ve en los estadíos más tardíos, sino que es una
+
+17
+00:01:05,380 --> 00:01:11,020
+hipertrofia concéntrica, cierto, con un engrosamiento de la pared del
+
+18
+00:01:11,020 --> 00:01:14,180
+ventrículo que hace que finalmente se traduzca en esta insuficiencia
+
+19
+00:01:14,180 --> 00:01:18,500
+diastólica y en esta insuficiencia cardíaca en general. El diagnóstico de
+
+20
+00:01:18,500 --> 00:01:21,700
+la cardiopatía hipertensiva, igual que en todas las causas de
+
+21
+00:01:21,700 --> 00:01:25,540
+insuficiencia cardíaca, en general se establece con el ecocardiograma que
+
+22
+00:01:25,740 --> 00:01:30,340
+no solamente me da el diagnóstico con la hipertrofia concéntrica más la
+
+23
+00:01:30,340 --> 00:01:34,580
+difusión diastólica, sino que además me da la severidad al calcular la
+
+24
+00:01:34,580 --> 00:01:37,620
+fracción de inyección, que si se acuerdan era el factor pronóstico más
+
+25
+00:01:37,620 --> 00:01:41,860
+importante en las insuficiencias cardíacas en general y la
+
+26
+00:01:41,860 --> 00:01:45,180
+cardiopatía hipertensiva no es la excepción. Ahora, ¿cuál es el
+
+27
+00:01:45,180 --> 00:01:48,540
+tratamiento de la cardiopatía hipertensiva? Muy rápido, es el
+
+28
+00:01:48,540 --> 00:01:51,860
+tratar la hipertensión por un lado, que es la causa, y el tratar la
+
+29
+00:01:51,860 --> 00:01:55,380
+insuficiencia cardíaca, además. Acuérdense que muchos de los
+
+30
+00:01:55,380 --> 00:01:58,900
+fármacos me sirven para ambas, como los Yeca, los Haradov, el
+
+31
+00:01:58,900 --> 00:02:03,140
+Betabloqueo, cierto, los diuréticos son fármacos que sirven para ambas,
+
+32
+00:02:03,140 --> 00:02:06,620
+pero en este caso la forma en que yo lo voy a ajustar es justamente
+
+33
+00:02:06,620 --> 00:02:10,300
+pensando en tratar ambas patologías y dejarlo de manera
+
+34
+00:02:10,300 --> 00:02:14,220
+óptima. Veamos aquí una imagen, este es un electrocardiograma
+
+35
+00:02:14,220 --> 00:02:17,740
+que me muestra una hipertrofia ventrícula izquierda, que
+
+36
+00:02:17,740 --> 00:02:21,260
+acuérdense que se veía con el índice de Sokolov que tenía que
+
+37
+00:02:21,300 --> 00:02:25,660
+estar arriba de 35 milímetros para hacer ese diagnóstico. ¿Y cómo se
+
+38
+00:02:25,660 --> 00:02:31,940
+calcula eso? Con las ondas S, las ondas S en B1 o en B2, la que
+
+39
+00:02:31,940 --> 00:02:36,140
+sea más larga, que en este caso la más profunda es la de B2, y
+
+40
+00:02:36,140 --> 00:02:41,140
+eso se suma con la más alta de las ondas R de B5 y B6, que en
+
+41
+00:02:41,140 --> 00:02:45,580
+este caso la más alta es la de B6, así que si sumo la de B2
+
+42
+00:02:45,860 --> 00:02:49,580
+más la de B6, en ese caso me da mucho más de 35 milímetros,
+
+43
+00:02:49,820 --> 00:02:53,900
+así que sin ninguna duda hay una hipertrofia ventricular. Eso es
+
+44
+00:02:53,900 --> 00:02:55,940
+todo, nos vemos en el siguiente video, que estén bien.

@@ -1,0 +1,775 @@
+1
+00:00:00,000 --> 00:00:08,180
+Sigamos con insuficiencia renal, pero ahora de tipo crónica y recordemos que
+
+2
+00:00:08,180 --> 00:00:11,540
+la definición era la caída en la filtración glomerular o en la función
+
+3
+00:00:11,540 --> 00:00:14,980
+renal, cierto, que lleva más de tres meses, que su diagnóstico por la
+
+4
+00:00:14,980 --> 00:00:18,700
+general es con el clínese de creatinina igual que el insuficiencia renal al agua,
+
+5
+00:00:18,700 --> 00:00:22,380
+con la diferencia que acá lleva más de tres meses, como ya se dijo. Y el clínese
+
+6
+00:00:22,380 --> 00:00:26,100
+además me sirve para ver la etapa en la cual se encuentra, que va desde
+
+7
+00:00:26,100 --> 00:00:30,220
+la etapa 1 hasta la etapa 5. Recordando que la etapa 1 es la que
+
+8
+00:00:30,220 --> 00:00:35,660
+viene con un clínese normal, arriba de 90, pero que viene con algún daño renal
+
+9
+00:00:35,660 --> 00:00:40,860
+que todavía no se traduce en una caída en la filtración. Ejemplo, viene con un
+
+10
+00:00:40,860 --> 00:00:45,700
+factor de riesgo más la presencia de proteínuria, alguna alteración en las
+
+11
+00:00:45,700 --> 00:00:49,780
+imágenes, la nefropatía diabética inicial que venga con diabetes más
+
+12
+00:00:49,780 --> 00:00:53,700
+la microalbuminuria, etcétera. O sea, hay una alteración, va a
+
+13
+00:00:53,700 --> 00:00:56,940
+evolucionar a una caída en el clínese, a una insuficiencia renal, pero
+
+14
+00:00:56,940 --> 00:01:00,940
+todavía el clínese está dentro de rango normal. La etapa 2 es cuando ya
+
+15
+00:01:00,940 --> 00:01:07,820
+baja de 90, la etapa 3 cuando baja de 60, va de 30 en 30 bajando, y este
+
+16
+00:01:07,820 --> 00:01:11,140
+momento es importante porque ya empiezan las complicaciones más
+
+17
+00:01:11,140 --> 00:01:15,500
+frecuentes, que sería la anemia asociada a enfermedad renal crónica,
+
+18
+00:01:15,500 --> 00:01:21,940
+y el daño asociado al calcio, la paratormona, los huesos y el fósforo
+
+19
+00:01:21,940 --> 00:01:26,300
+cierto, el hiperparatiluidismo secundario, insuficiencia renal. Cuando
+
+20
+00:01:26,300 --> 00:01:30,660
+está abajo de 30, que ahí ya es la etapa 4, aparecen las complicaciones
+
+21
+00:01:30,660 --> 00:01:34,820
+ya un poco más graves, dígase la hipercalemia, la acidosis, y cuando
+
+22
+00:01:34,820 --> 00:01:40,180
+ya está en esa etapa habitualmente se hace la fístula arteriovenosa como
+
+23
+00:01:40,180 --> 00:01:45,660
+para alistarse a una eventual diálisis, como el manejo ya más
+
+24
+00:01:45,660 --> 00:01:49,100
+estable y más crónico de la insuficiencia renal crónica. Y
+
+25
+00:01:49,100 --> 00:01:52,100
+finalmente está la etapa 5, que es cuando está con un clínese
+
+26
+00:01:53,100 --> 00:01:57,660
+que en ese momento es cuando habitualmente se inicia ya de manera
+
+27
+00:01:57,660 --> 00:02:02,740
+definitiva la terapia de soporte renal o la terapia dialítica, la
+
+28
+00:02:02,740 --> 00:02:06,060
+diálisis. Ahora, ¿cuál es el tratamiento de la insuficiencia
+
+29
+00:02:06,060 --> 00:02:09,020
+renal crónica? Número uno, hay que cuidar los riñones, que no
+
+30
+00:02:09,020 --> 00:02:12,860
+sigue empeorando, hay que evitar la progresión, y para eso sirve
+
+31
+00:02:12,860 --> 00:02:16,060
+el tratar la causa, por ejemplo, si es secundario a hipertensión o a
+
+32
+00:02:16,060 --> 00:02:19,460
+diabetes, hay que tratarlo. Y en segundo lugar, el manejar los
+
+33
+00:02:19,500 --> 00:02:21,980
+factores de riesgo, en el sentido en que si la causa de la falla
+
+34
+00:02:21,980 --> 00:02:24,860
+renal fue la exposición a fármaco, igualmente hay que
+
+35
+00:02:24,860 --> 00:02:28,380
+tener cuidado con la diabetes, con la hipertensión, hay que
+
+36
+00:02:28,380 --> 00:02:31,380
+tratarlo sí o sí para evitar que siga avanzando.
+
+37
+00:02:31,380 --> 00:02:34,020
+Segundo lugar, evitar los nefrotóxicos, que igualmente
+
+38
+00:02:34,020 --> 00:02:37,860
+son un factor de riesgo. Dentro de los nefrotóxicos lo
+
+39
+00:02:37,860 --> 00:02:40,660
+más importante son los aines, así que en este
+
+40
+00:02:40,660 --> 00:02:42,740
+caso están contraindicados, hay que dejarle algún
+
+41
+00:02:42,740 --> 00:02:45,380
+otro tipo de analgésico. Segundo lugar, los
+
+42
+00:02:45,380 --> 00:02:48,020
+aminoblicósidos, cierto, hay que buscar algún tipo de
+
+43
+00:02:48,020 --> 00:02:52,780
+antibiótico diferente, y si bien no es lo mismo que cuidar
+
+44
+00:02:52,780 --> 00:02:56,100
+los riñones, siempre hay que acordarse de ajustar las
+
+45
+00:02:56,100 --> 00:02:59,940
+dosis de algunos fármacos que se excretan por la orina,
+
+46
+00:02:59,940 --> 00:03:02,220
+en el sentido que de lo contrario eventualmente puedo
+
+47
+00:03:02,220 --> 00:03:05,700
+intoxicar al paciente. O sea, no solamente se evitan los
+
+48
+00:03:05,700 --> 00:03:08,140
+nefrotóxicos, sino que aparten todo paciente con
+
+49
+00:03:08,140 --> 00:03:10,460
+insuficiencia rara crónica, al cual yo le voy a
+
+50
+00:03:10,460 --> 00:03:13,900
+dejar algún fármaco, antes es recomendable revisar si
+
+51
+00:03:13,900 --> 00:03:17,740
+requiere ajuste por función renal. Segundo lugar,
+
+52
+00:03:17,740 --> 00:03:21,260
+disminuir la proteinuria. Cuando hay proteinuria asociada
+
+53
+00:03:21,260 --> 00:03:23,940
+a la falla renal crónica, habitualmente avanza más
+
+54
+00:03:23,940 --> 00:03:27,700
+rápido, si yo logro disminuirla el lentesco la
+
+55
+00:03:27,700 --> 00:03:30,620
+progresión. Y para esto lo que más me sirve son los
+
+56
+00:03:30,620 --> 00:03:34,180
+yecas y los arados. Los yecas como el enalapril,
+
+57
+00:03:34,180 --> 00:03:36,740
+los arados como el los artan, recordando que
+
+58
+00:03:36,740 --> 00:03:39,420
+actualmente se puede usar cualquiera de los dos de
+
+59
+00:03:39,420 --> 00:03:42,660
+manera indistinta. Ambos tienen las mismas
+
+60
+00:03:42,660 --> 00:03:44,660
+contraindicaciones, dentro de las cuales las más
+
+61
+00:03:44,660 --> 00:03:48,780
+importantes son la hiperpotasemia arriba de 6 y el
+
+62
+00:03:48,780 --> 00:03:51,820
+clínense de creatinina abajo de 30. Y las explicaciones
+
+63
+00:03:51,820 --> 00:03:54,540
+que pueden elevar el potasio todavía más en el
+
+64
+00:03:54,540 --> 00:03:57,300
+sentido en que son ahorradores de potasio. Y
+
+65
+00:03:57,300 --> 00:04:00,740
+segundo lugar, pueden igualmente hacer que baje un
+
+66
+00:04:00,740 --> 00:04:04,980
+poquito más la filtración glomerular y agravar una
+
+67
+00:04:04,980 --> 00:04:07,820
+insuficiencia renal que ya es grave, que ya viene
+
+68
+00:04:07,820 --> 00:04:10,420
+con un clínense abajo de 30. Ahora, algo importante,
+
+69
+00:04:10,420 --> 00:04:12,900
+desde el momento en que ya empieza con diálisis,
+
+70
+00:04:12,900 --> 00:04:16,540
+ahí sí se pueden dejar los yecas y los arados ya no
+
+71
+00:04:16,540 --> 00:04:18,300
+para el manejo de la falla renal que ya está en
+
+72
+00:04:18,300 --> 00:04:21,180
+etapa terminal, sino que para el manejo de otras
+
+73
+00:04:21,180 --> 00:04:23,100
+patologías que eventualmente haya que tratar,
+
+74
+00:04:23,100 --> 00:04:26,380
+como insuficiencia cardiaca o la hipertensión
+
+75
+00:04:26,380 --> 00:04:30,300
+arterial también. Ahora, cuando no anda bien con
+
+76
+00:04:30,300 --> 00:04:32,020
+los yecas o cuando están contraindicados,
+
+77
+00:04:32,020 --> 00:04:34,740
+eventualmente se puede usar el Diltiazem, que
+
+78
+00:04:34,740 --> 00:04:37,660
+es un bloqueador de calcio no dihidropiridínico
+
+79
+00:04:37,660 --> 00:04:39,940
+y que sirve también para disminuir la cantidad
+
+80
+00:04:39,940 --> 00:04:42,420
+de proteínas que se pierde por orina.
+
+81
+00:04:42,420 --> 00:04:44,500
+En tercer lugar está todo el tratamiento de las
+
+82
+00:04:44,500 --> 00:04:49,580
+complicaciones y finalmente hay que saber cuando se va
+
+83
+00:04:49,580 --> 00:04:52,460
+a diálisis, ya sea una hemodiálisis o una
+
+84
+00:04:52,460 --> 00:04:56,620
+peritoneodiálisis. Igualmente, eventualmente se
+
+85
+00:04:56,620 --> 00:04:58,980
+puede manejar con un trasplante renal ya como un
+
+86
+00:04:58,980 --> 00:05:00,820
+tratamiento más definitivo.
+
+87
+00:05:00,820 --> 00:05:04,420
+Ahora, cuando se va a la terapia de soporte renal,
+
+88
+00:05:04,420 --> 00:05:09,860
+ya sea diálisis y o el trasplante renal,
+
+89
+00:05:09,860 --> 00:05:12,980
+es desde que el clín está abajo de 5.
+
+90
+00:05:12,980 --> 00:05:15,620
+Fíjense, o sea, muy, muy bajito o desde que está
+
+91
+00:05:15,620 --> 00:05:18,300
+abajo de 15 más síntomas que eso es lo más habitual.
+
+92
+00:05:18,300 --> 00:05:20,620
+Así que se lo dejo subrayado en el sentido que
+
+93
+00:05:20,620 --> 00:05:24,660
+la etapa 5 era desde 15 hacia abajo y la etapa 5
+
+94
+00:05:24,660 --> 00:05:26,460
+habitualmente viene con síntomas.
+
+95
+00:05:26,460 --> 00:05:29,180
+Así que abajo de 15, lo más habitual es que sí
+
+96
+00:05:29,180 --> 00:05:30,740
+esté en diálisis.
+
+97
+00:05:30,740 --> 00:05:33,260
+Pero si es que es un paciente que está muy bien,
+
+98
+00:05:33,260 --> 00:05:35,580
+que está absolutamente estable, eventualmente se
+
+99
+00:05:35,580 --> 00:05:39,580
+puede aguantar hasta 10, incluso hasta 5.
+
+100
+00:05:39,620 --> 00:05:42,500
+Veamos muy someramente el manejo de las complicaciones.
+
+101
+00:05:42,500 --> 00:05:45,700
+En cada una de ellas se va a ver con mayor detalle en
+
+102
+00:05:45,700 --> 00:05:48,900
+otro video, pero la anemia por la general se trataba
+
+103
+00:05:48,900 --> 00:05:51,740
+en primer lugar con fierro, habitualmente por vía
+
+104
+00:05:51,740 --> 00:05:55,100
+endovenosa en la falla ranal más la eritropoyetina,
+
+105
+00:05:55,100 --> 00:05:58,700
+cierto, hasta lograr un hematocrito arriba de 10.
+
+106
+00:05:58,700 --> 00:06:01,900
+En el caso del hiperparatiroidismo secundario,
+
+107
+00:06:01,900 --> 00:06:05,220
+el tratamiento es con vitamina D más la dieta baja
+
+108
+00:06:05,220 --> 00:06:08,420
+en fósforo más los quelantes de fósforo que
+
+109
+00:06:08,420 --> 00:06:10,500
+habitualmente es el mismo calcio,
+
+110
+00:06:10,500 --> 00:06:12,980
+más eventualmente darle un poco más de calcio hasta
+
+111
+00:06:12,980 --> 00:06:14,060
+normalizar el calcio.
+
+112
+00:06:14,060 --> 00:06:15,980
+Esto lo vamos a ver con más detalle,
+
+113
+00:06:15,980 --> 00:06:19,100
+pero vitamina D y calcio es lo más importante.
+
+114
+00:06:19,100 --> 00:06:21,660
+El manejo de la acidosis por el general es con
+
+115
+00:06:21,660 --> 00:06:24,020
+bicarbonato de sodio, ya sea vía oral si es que es
+
+116
+00:06:24,020 --> 00:06:27,420
+leve o ya sea endovenosa si es que es más severa.
+
+117
+00:06:27,420 --> 00:06:30,740
+El manejo de la hiperbolemia es con la dieta con la
+
+118
+00:06:30,740 --> 00:06:33,380
+restricción hidrosalina, como para que justamente no le
+
+119
+00:06:33,380 --> 00:06:36,260
+entre tanta sal y tanta agua que aumente la bolemia.
+
+120
+00:06:36,260 --> 00:06:38,740
+Eventualmente los diuréticos, ¿cierto?
+
+121
+00:06:38,740 --> 00:06:40,980
+Más el manejo de las complicaciones que se asocian
+
+122
+00:06:40,980 --> 00:06:44,460
+a la hiperbolemia como el edema pulmonaragüo,
+
+123
+00:06:44,460 --> 00:06:47,380
+que en este caso es con furosemida, vasodilatadores y
+
+124
+00:06:47,380 --> 00:06:49,220
+eventualmente ventilación mecánica.
+
+125
+00:06:49,220 --> 00:06:52,220
+El manejo de la hiponatremia que por la general se
+
+126
+00:06:52,220 --> 00:06:54,820
+maneja simplemente con restricción de agua libre en
+
+127
+00:06:54,820 --> 00:06:58,660
+el sentido en que cuando se toma más agua se diluye
+
+128
+00:06:58,660 --> 00:07:02,020
+más y las natremias dependen del balance del agua mucho
+
+129
+00:07:02,020 --> 00:07:03,980
+más que del balance del sodio.
+
+130
+00:07:03,980 --> 00:07:07,740
+En el caso de la hipercalemia, que si es que es leve,
+
+131
+00:07:07,740 --> 00:07:10,020
+se maneja habitualmente con una dieta baja en potasio y
+
+132
+00:07:10,020 --> 00:07:11,820
+eventualmente con resinas de intercambio.
+
+133
+00:07:11,820 --> 00:07:14,500
+Si es que ya más grave en cambio hay que estabilizar la
+
+134
+00:07:14,500 --> 00:07:16,820
+membrana miocárdica con gluconato de calcio,
+
+135
+00:07:16,820 --> 00:07:20,460
+o sea, el calcio es el manejo de la hiperpotasemia.
+
+136
+00:07:20,460 --> 00:07:24,100
+Más la insulina, el salbutamol y otras cosas que
+
+137
+00:07:24,100 --> 00:07:28,020
+eventualmente me ayuden a meter el potasio dentro de
+
+138
+00:07:28,020 --> 00:07:29,300
+la célula.
+
+139
+00:07:29,300 --> 00:07:31,700
+Ahora, hablemos muy brevemente de la terapia de
+
+140
+00:07:31,700 --> 00:07:35,660
+reemplazo renal que ya dijimos que se indicaba habitualmente
+
+141
+00:07:35,660 --> 00:07:38,420
+con el clínense abajo de 5 o más frecuentemente abajo de
+
+142
+00:07:38,420 --> 00:07:39,820
+15 más síntomas.
+
+143
+00:07:39,820 --> 00:07:41,780
+Y en este caso tengo la hemodiálisis,
+
+144
+00:07:41,780 --> 00:07:45,020
+la peritoneodiálisis y finalmente el trasplante renal.
+
+145
+00:07:45,020 --> 00:07:47,620
+En el caso de la hemodiálisis es la más frecuente que se
+
+146
+00:07:47,620 --> 00:07:50,740
+da, es la que está más disponible.
+
+147
+00:07:50,740 --> 00:07:53,860
+En Chile es gratuita y habitualmente se idealizan 3
+
+148
+00:07:53,860 --> 00:07:56,460
+veces por semana y entre medio tienen que tener muchos
+
+149
+00:07:56,460 --> 00:07:58,580
+cuidados, pero lunes, martes y miércoles,
+
+150
+00:07:58,580 --> 00:08:03,620
+por ejemplo, o, perdón, lunes, miércoles y viernes, ahí sí,
+
+151
+00:08:03,620 --> 00:08:06,700
+o martes, jueves y sábado.
+
+152
+00:08:06,700 --> 00:08:11,500
+Luego está la peritoneodiálisis que la calidad de
+
+153
+00:08:11,500 --> 00:08:14,100
+vida mejora bastante, pero es más cara y la forma en que
+
+154
+00:08:14,100 --> 00:08:18,540
+funciona es que se compra una máquina de peritoneodiálisis
+
+155
+00:08:18,540 --> 00:08:21,540
+que yo la tengo en mi propia casa y me idealizo todas las
+
+156
+00:08:21,540 --> 00:08:24,700
+noches, pero tengo que aprender a usarla y tengo que
+
+157
+00:08:24,700 --> 00:08:29,620
+comprar todos los sueros y las cosas que hay que ir
+
+158
+00:08:29,620 --> 00:08:31,700
+cambiándoles como para ir ajustándola.
+
+159
+00:08:31,700 --> 00:08:35,220
+Y finalmente el trasplante renal viene con una calidad de
+
+160
+00:08:35,220 --> 00:08:37,540
+vida óptima porque no me tengo que conectar a ninguna
+
+161
+00:08:37,540 --> 00:08:42,420
+máquina de diálisis, pero requiere que haya un donante
+
+162
+00:08:42,420 --> 00:08:45,460
+compatible que no siempre es fácil de conseguir y segundo
+
+163
+00:08:45,460 --> 00:08:49,380
+lugar, siempre viene con el riesgo del rechazo al riñón,
+
+164
+00:08:49,380 --> 00:08:52,860
+al trasplante, es cierto, más la inmunodepresión que
+
+165
+00:08:52,860 --> 00:08:55,980
+viene asociada a los fármacos que se dan justamente para
+
+166
+00:08:55,980 --> 00:08:58,220
+evitar este rechazo.
+
+167
+00:08:58,220 --> 00:09:01,740
+Ahora, aumentan la sobrevida alguno de esto y la verdad es
+
+168
+00:09:01,740 --> 00:09:04,740
+que es similar en todas ellas, por lo tanto la
+
+169
+00:09:04,740 --> 00:09:07,780
+diferencia entre hemodiálisis, peritoneodiálisis y
+
+170
+00:09:07,780 --> 00:09:10,260
+trasplante renal es fundamentalmente la calidad de
+
+171
+00:09:10,260 --> 00:09:10,980
+vida.
+
+172
+00:09:10,980 --> 00:09:13,500
+Algunos estudios nuevos dicen que eventualmente sí
+
+173
+00:09:13,500 --> 00:09:16,500
+podría aumentar levemente la sobrevida en el
+
+174
+00:09:16,500 --> 00:09:19,900
+trasplante, pero repito, lo más importante es que puede
+
+175
+00:09:19,900 --> 00:09:23,460
+mejorar significativamente la calidad de vida.
+
+176
+00:09:23,460 --> 00:09:27,540
+Unas breves palabras al rechazo del trasplante renal y
+
+177
+00:09:27,540 --> 00:09:30,660
+sepan que hay de tres tipos, el hiperagudo en que viene con
+
+178
+00:09:30,660 --> 00:09:33,780
+una reacción muy, muy rápida, el agudo que es rápida y
+
+179
+00:09:33,780 --> 00:09:38,260
+finalmente el crónico que es algo más lento y que todos
+
+180
+00:09:38,260 --> 00:09:41,220
+ellos eventualmente se manejan con inmunosupresores,
+
+181
+00:09:41,220 --> 00:09:44,380
+con corticoides, etcétera y sepan cuál es la clínica de
+
+182
+00:09:44,380 --> 00:09:45,100
+cada uno.
+
+183
+00:09:45,100 --> 00:09:47,500
+El hiperagudo viene con un cuadro de inflamación
+
+184
+00:09:47,540 --> 00:09:51,060
+sistémica, con un SIRS, con fiebre y con una falla renal
+
+185
+00:09:51,060 --> 00:09:55,740
+que se presenta y se instala muy, muy rápido en cosas de
+
+186
+00:09:55,740 --> 00:09:57,060
+muy pocos días.
+
+187
+00:09:57,060 --> 00:09:59,900
+El agudo, en cambio, viene con una insuficiencia renal aguda
+
+188
+00:09:59,900 --> 00:10:03,180
+que por definición es menos de tres meses y el crónico es
+
+189
+00:10:03,180 --> 00:10:05,620
+simplemente una insuficiencia renal crónica que se va
+
+190
+00:10:05,620 --> 00:10:07,860
+instaurando cierto y que demora más de tres meses.
+
+191
+00:10:07,860 --> 00:10:10,260
+Y eso es todo lo que hay que saber de trasplante renal y
+
+192
+00:10:10,260 --> 00:10:12,820
+en los siguientes temas vamos a ir viendo los detalles
+
+193
+00:10:12,820 --> 00:10:14,460
+del manejo de la insuficiencia renal crónica.
+
+194
+00:10:14,460 --> 00:10:15,460
+Así que nos vemos ahí.

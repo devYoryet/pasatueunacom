@@ -1,0 +1,195 @@
+1
+00:00:03,280 --> 00:00:08,280
+Hola, ¿cómo están? Vamos a ver muy brevemente cuáles son los fármacos que se usan en el asma
+
+2
+00:00:08,280 --> 00:00:15,280
+y que son habitualmente los mismos que se usan en el EPOC, aunque les adelanto que a veces se administran en un orden diferente.
+
+3
+00:00:15,280 --> 00:00:21,280
+Empecemos con los broncodilatadores. Acuérdense que se dividen en beta-agonistas y anticolinérgicos
+
+4
+00:00:21,280 --> 00:00:25,280
+y que a su vez se subdividen en de acción corta y de acción larga.
+
+5
+00:00:25,280 --> 00:00:30,280
+Los beta-agonistas, el más conocido es el salbutamol, que el otro nombre que tiene es albuterol,
+
+6
+00:00:30,280 --> 00:00:33,280
+aunque en Chile se usa mucho más la palabra salbutamol.
+
+7
+00:00:33,280 --> 00:00:41,280
+Y aparte está el enantiomero activo de este albuterol o salbutamol, que es el leva-albuterol o levo-salbutamol.
+
+8
+00:00:41,280 --> 00:00:48,280
+De los anticolinérgicos, el único que hay que saber es el hipatropio, como de los de acción corta.
+
+9
+00:00:48,280 --> 00:00:53,280
+Y de los de acción larga, los que más se usan, de los beta-agonistas está el formoterol y el salmeterol,
+
+10
+00:00:53,280 --> 00:00:58,280
+aparte del vilanterol, pero los dos primeros son los que habitualmente hay que saber,
+
+11
+00:00:58,280 --> 00:01:01,280
+los dos son los que comercialmente son más fáciles de conseguir.
+
+12
+00:01:01,280 --> 00:01:09,280
+Y si bien ambos tienen una acción larga, sepan que el inicio de acción, la velocidad con la que tiene efecto del formoterol,
+
+13
+00:01:09,280 --> 00:01:12,280
+es rápida, o sea, inicia rápido y dura mucho tiempo.
+
+14
+00:01:12,280 --> 00:01:17,280
+En cambio, el salmeterol tiene una acción larga, pero demora un poco más en empezar a actuar.
+
+15
+00:01:17,280 --> 00:01:23,280
+Y de los anticolinérgicos, el más conocido es el tiotropio, pero sepan que no es el único.
+
+16
+00:01:23,280 --> 00:01:29,280
+Aparte están esos otros dos con nombre un poco más raro, el humeglidinio y el glicopironio.
+
+17
+00:01:29,280 --> 00:01:35,280
+Así que sepan que el tiotropio no es el único tío con un nombre raro, aparte están esos otros dos.
+
+18
+00:01:35,280 --> 00:01:39,280
+Dentro de los otros fármacos que se usan están los corticoides,
+
+19
+00:01:39,280 --> 00:01:43,280
+en este caso se dividen en los inhalados, los orales y los endovenosos.
+
+20
+00:01:43,280 --> 00:01:49,280
+Los inhalados que más se usan son la frútica zona, la buda sonida y la mometa zona, esos tres.
+
+21
+00:01:49,280 --> 00:01:53,280
+Hay otros más, pero aprendiéndose esos tres nombres ya estamos bien.
+
+22
+00:01:53,280 --> 00:01:58,280
+Dentro de los orales, el que más se usa es la prednisona, aunque sepan que los que vienen en ampolla
+
+23
+00:01:58,280 --> 00:02:03,280
+eventualmente se pueden tomar por vida oral también y dentro de eso está la dexametasona.
+
+24
+00:02:03,280 --> 00:02:08,280
+Es raro que en el asma en particular se use el cortisol o la hidrocortisona,
+
+25
+00:02:08,280 --> 00:02:12,280
+se suelen usar para otro tipo de patologías.
+
+26
+00:02:12,280 --> 00:02:15,280
+Ahora, los corticoides orales en el asma van de última línea,
+
+27
+00:02:15,280 --> 00:02:19,280
+pero en las crisis asmáticas y en el EPOC eventualmente sí se pueden usar.
+
+28
+00:02:19,280 --> 00:02:24,280
+Y en el caso de los endovenosos, los que más se usan son la metilprednisolona,
+
+29
+00:02:24,280 --> 00:02:28,280
+que es más o menos equivalente a la prednisona respecto a su potencia
+
+30
+00:02:28,280 --> 00:02:32,280
+y finalmente la dexametasona igualmente se suele usar por vida endovenosa
+
+31
+00:02:32,280 --> 00:02:35,280
+o por vida inyectable en general. No solamente endovenosa,
+
+32
+00:02:35,280 --> 00:02:41,280
+la forma en que más se usan los corticoides en el asma y en el EPOC
+
+33
+00:02:41,280 --> 00:02:45,280
+por vía ya sea oral en los casos más graves o por vía intramuscular.
+
+34
+00:02:45,280 --> 00:02:49,280
+No es obligatorio que sea por vía endovenosa, sino que sea sistémica en algunos casos,
+
+35
+00:02:49,280 --> 00:02:53,280
+que vamos a ver, hay casos inhalados y hay casos en que sea por vía sistémica.
+
+36
+00:02:53,280 --> 00:02:58,280
+Aparte de eso están los inhibidores de los leucotrienos, simplemente hay que saber que existen,
+
+37
+00:02:58,280 --> 00:03:03,280
+hay que saber que algunos bloquean el receptor de leucotrienos y esos son los famosos lucast,
+
+38
+00:03:03,280 --> 00:03:05,280
+el monte lucast y el zafir lucast.
+
+39
+00:03:05,280 --> 00:03:09,280
+Y aparte están los inhibidores de la secreción de los leucotrienos
+
+40
+00:03:09,280 --> 00:03:13,280
+en el sentido en que evitan la degranulación de los mastocitos,
+
+41
+00:03:13,280 --> 00:03:18,280
+que son estas células que vienen cargadas con histamina y con leucotrienos.
+
+42
+00:03:18,280 --> 00:03:22,280
+Y el más clásico de esto es el sileutón.
+
+43
+00:03:22,280 --> 00:03:26,280
+Y finalmente, actualmente existen algunos fármacos biológicos,
+
+44
+00:03:26,280 --> 00:03:31,280
+algunos anticuerpos monoclonales que atacan a la interleucina 4, interleucina 10, interleucina 5,
+
+45
+00:03:31,280 --> 00:03:35,280
+que son justamente las interleucinas del área alérgica
+
+46
+00:03:36,280 --> 00:03:40,280
+y solamente hay que saber los nombres que son el dupilumaf,
+
+47
+00:03:40,280 --> 00:03:43,280
+el mepolizumaf y el homalizumaf.
+
+48
+00:03:43,280 --> 00:03:45,280
+Con que sepan que existen, estamos bien.
+
+49
+00:03:45,280 --> 00:03:48,280
+Y bueno, eso es todo, nos vemos en los siguientes videos con más detalles.

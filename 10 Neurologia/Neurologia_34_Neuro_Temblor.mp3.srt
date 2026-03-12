@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:07,720
+Hola, hola. ¿Cómo están? En este video vamos a hablar de temblor, que es un tema que hay
+
+2
+00:00:07,720 --> 00:00:12,940
+que saber y que las causas más frecuentes, al menos las tres que hay que identificar,
+
+3
+00:00:12,940 --> 00:00:17,060
+porque son muchas, son el temblor esencial, la enfermedad de Parkinson y el síndrome
+
+4
+00:00:17,060 --> 00:00:21,840
+cerebeloso. Ahora, hay muchas otras causas, pero que se ven en un contexto clínico
+
+5
+00:00:21,840 --> 00:00:27,120
+bien claro, ¿cierto? Como en contexto de frío, de miedo, el uso de algunas drogas
+
+6
+00:00:27,120 --> 00:00:32,480
+como los adrenérgicos, los estimulantes, ¿cierto? En el hipertiroidismo o en el uso de
+
+7
+00:00:32,480 --> 00:00:37,600
+salbutamol o algún otro beta agonista en los pacientes con asma, por ejemplo, etcétera.
+
+8
+00:00:37,600 --> 00:00:42,400
+Pero el temblor esencial, la enfermedad de Parkinson y el síndrome cerebeloso son los
+
+9
+00:00:42,400 --> 00:00:47,800
+que habitualmente llegan a la consulta con el motivo de consulta de temblor propiamente tal.
+
+10
+00:00:47,800 --> 00:00:53,920
+El manejo del temblor, por el general, es buscar y tratar la causa y para buscarla,
+
+11
+00:00:53,920 --> 00:00:59,240
+una de las cosas más importantes es el examen neurológico y la historia clínica teniendo bien
+
+12
+00:00:59,240 --> 00:01:03,720
+claro qué es lo que aumenta el temblor y qué es lo que lo disminuye. Veamos ahora rápidamente
+
+13
+00:01:03,720 --> 00:01:09,200
+en resumen el temblor esencial, el Parkinson y el síndrome cerebeloso en una frase. El
+
+14
+00:01:09,200 --> 00:01:14,640
+temblor esencial es un temblor postural, dígase que aumenta al adoptar una postura o
+
+15
+00:01:14,640 --> 00:01:19,720
+al tomar un objeto, en cambio que disminuye con el reposo. La enfermedad de Parkinson,
+
+16
+00:01:19,720 --> 00:01:24,560
+en cambio en una frase es un temblor de reposo, cierto, que aumenta con el reposo y en
+
+17
+00:01:24,560 --> 00:01:31,320
+cambio disminuye al tomar un objeto. El síndrome cerebeloso, en cambio, es un temblor de intención
+
+18
+00:01:31,320 --> 00:01:36,400
+que al momento de no moverse no hay nada de temblor pero que aparece con el movimiento,
+
+19
+00:01:36,400 --> 00:01:41,360
+cierto, y que el otro nombre que tiene es dismetría y que suele ser bastante más
+
+20
+00:01:41,360 --> 00:01:46,480
+marcado. El temblor esencial, veamos el cuadro clínico completo, recordando que su
+
+21
+00:01:46,800 --> 00:01:52,040
+etiología la verdad es que es multifactorial con un componente psicológico importante pero lo
+
+22
+00:01:52,040 --> 00:01:57,280
+más importante es que suele venir con alguna base genética, es más frecuente en el adulto
+
+23
+00:01:57,280 --> 00:02:01,040
+mayor, por su caso que en el paciente joven, pero se ve también en pacientes jóvenes,
+
+24
+00:02:01,040 --> 00:02:04,600
+en particular cuando tienen antecedentes familiares de temblor esencial en gente
+
+25
+00:02:04,600 --> 00:02:09,720
+joven también. El cuadro clínico suele ser un temblor bilateral habitualmente simétrico,
+
+26
+00:02:09,720 --> 00:02:14,640
+aunque no siempre es simétrico, así que la asimetría, si bien es algo que me orienta
+
+27
+00:02:14,680 --> 00:02:19,960
+a la enfermedad de Parkinson no es algo que sea tan categórico si viene con el resto de la
+
+28
+00:02:19,960 --> 00:02:24,720
+clínica de temblor esencial, en ese caso sigue siendo un temblor esencial, y ya dijimos lo más
+
+29
+00:02:24,720 --> 00:02:29,840
+importante es que el temblor esencial aumenta al tomar un objeto o al adoptar una postura,
+
+30
+00:02:29,840 --> 00:02:34,680
+cierto, además es muy frecuente que venga con temblor de la voz y de la cabeza y suele
+
+31
+00:02:34,680 --> 00:02:40,760
+ser el típico adulto mayor que se le mueve un poquito la voz así más temblorosa y la
+
+32
+00:02:40,760 --> 00:02:46,280
+cabeza se le mueve un poquito también. El resto del examen neurológico está estrictamente normal,
+
+33
+00:02:46,280 --> 00:02:50,720
+no hay debilidad, no hay alteración de la coordinación, no hay síntomas sensitivos,
+
+34
+00:02:50,720 --> 00:02:56,680
+no hay rigidez, no hay absolutamente nada, es un examen neurológico absolutamente normal y
+
+35
+00:02:56,680 --> 00:03:00,920
+lo único que uno ve es este temblor que aumenta al adoptar una postura y nada más.
+
+36
+00:03:00,920 --> 00:03:06,520
+El diagnóstico absolutamente clínico no requiere de ningún tipo de imagen y el
+
+37
+00:03:06,520 --> 00:03:11,360
+tratamiento aparte de la educación que es lo más importante, el explicarle que lo que tiene
+
+38
+00:03:11,360 --> 00:03:15,720
+es algo frecuente y que no es grave, eventualmente si es muy intenso se le puede dejar beta
+
+39
+00:03:15,720 --> 00:03:21,440
+bloqueadores como el propanolol dado que justamente me disminuyen el temblor y que
+
+40
+00:03:21,440 --> 00:03:26,160
+es lo contrario que los beta agonistas como el salbutamol que en cambio uno de los efectos
+
+41
+00:03:26,160 --> 00:03:30,880
+adversos era que aumentaba en el temblor. Cuando están contraindicados, ejemplo en un
+
+42
+00:03:30,880 --> 00:03:36,320
+paciente con EPOC o con asma o con miastinia grave y cierto en ese caso se le puede dejar la
+
+43
+00:03:36,320 --> 00:03:41,200
+primidona que igualmente es un fármaco que disminuye la intensidad del temblor esencial.
+
+44
+00:03:41,200 --> 00:03:46,760
+Aparte está la enfermedad de Parkinson que acuérdense que su etiología es de
+
+45
+00:03:46,760 --> 00:03:53,960
+tipo neurodegenerativa en el cual hay formación de cuerpos del levy en las
+
+46
+00:03:53,960 --> 00:03:59,680
+distintas núcleos de la base que están encargados justamente de la coordinación
+
+47
+00:03:59,760 --> 00:04:05,600
+de los movimientos y en este caso lo más frecuente es que sea por depósito de la
+
+48
+00:04:05,600 --> 00:04:11,280
+alfa asinucleína al igual que en la demensa por cuerpos de levy cierto aunque hay algunos
+
+49
+00:04:11,280 --> 00:04:17,480
+algunos casos que son por depósito de otro tipo de amilóide también. El cuadro clínico
+
+50
+00:04:17,480 --> 00:04:22,080
+sepan que viene con una triada y esta es súper importante hay que saberla cierto la
+
+51
+00:04:22,080 --> 00:04:27,840
+triada del Parkinson es brady-cinesia rigidez y temblor de reposo la brady-cinesia son
+
+52
+00:04:27,840 --> 00:04:33,480
+movimientos lentos cierto el paciente se vuelve más lento al momento de hacer sus actividades
+
+53
+00:04:33,480 --> 00:04:40,160
+la rigidez se describe como una rigidez en rueda dentada a diferencia de la rigidez del
+
+54
+00:04:40,160 --> 00:04:47,000
+síndrome piramidal cierto que era una rigidez espástica en este caso el Parkinson es parte
+
+55
+00:04:47,000 --> 00:04:53,960
+de los síndromes extra piramidales y es una rigidez en rueda dentada y finalmente el
+
+56
+00:04:54,160 --> 00:05:01,280
+temblor de reposo este temblor de reposo suele ser bastante asimétrico en particular
+
+57
+00:05:01,280 --> 00:05:07,480
+en los primeros estadios cierto y ya dijimos que aumentaba con el reposo y disminuía
+
+58
+00:05:07,480 --> 00:05:13,560
+al tomar un objeto pero no solamente que aparece este movimiento involuntario anormal
+
+59
+00:05:13,560 --> 00:05:17,840
+que sería el temblor sino que disminuyen los movimientos involuntarios normales
+
+60
+00:05:17,840 --> 00:05:22,920
+como ejemplo el braseo al caminar cierto el pestañeo la expresión facial así
+
+61
+00:05:22,920 --> 00:05:28,640
+que muchas veces va y camina como un poquito más doblado cierto lento con los brazos al lado
+
+62
+00:05:28,640 --> 00:05:36,360
+sin que se brusca el el braseo y la expresión facial se vuelve mucho más más pobre cierto
+
+63
+00:05:36,360 --> 00:05:42,840
+con disminución del pestañeo también la hipomimia es el término neurológico cierto para
+
+64
+00:05:42,840 --> 00:05:47,400
+hablar de la disminución de la expresión facial aparte de esto es muy frecuente que
+
+65
+00:05:47,400 --> 00:05:54,680
+venga con marcha insegura con pasos cortos a veces sufren caídas también y dentro de los
+
+66
+00:05:54,680 --> 00:05:59,840
+pasos cortos en particular al principio cuando empiezan a caminar empiezan muy lento cierto y
+
+67
+00:05:59,840 --> 00:06:06,360
+luego de eso pueden como ir agarrando una velocidad un poquito más más alta se asocia
+
+68
+00:06:06,360 --> 00:06:13,360
+a demencia y la respuesta es sí acuérdense la enfermedad de parkinson ya de manera muy
+
+69
+00:06:13,360 --> 00:06:19,240
+tardía eventualmente si produce demencia en cambio la demencia por cuerpos de levy es la que
+
+70
+00:06:19,240 --> 00:06:26,160
+empieza con demencia y con algunos síntomas de como de extra piramidalismo o de parkinsonismo
+
+71
+00:06:26,160 --> 00:06:32,400
+desde el principio así que si predomina la demencia el diagnóstico es una demencia por
+
+72
+00:06:32,400 --> 00:06:37,080
+cuerpos de ley si es que lo que predomina en cambio es el síndrome extra piramidal el
+
+73
+00:06:37,080 --> 00:06:41,200
+diagnóstico sería una enfermedad de parkinson el diagnóstico es absolutamente clínico así
+
+74
+00:06:41,200 --> 00:06:45,880
+que no hay que pedir ninguna imagen sino que basta con que tenga esta treada de bradycinecia
+
+75
+00:06:45,880 --> 00:06:51,480
+rigidez y temblor de reposo para inmediatamente hacer el diagnóstico más la disminución de los
+
+76
+00:06:51,480 --> 00:06:57,160
+movimientos involuntarios normales cuál es el tratamiento de la enfermedad de parkinson como
+
+77
+00:06:57,160 --> 00:07:02,760
+médico general hay que saber que suele ser con agonistas dopaminérgicos que lo que hace es
+
+78
+00:07:02,760 --> 00:07:07,800
+disminuir los síntomas dado que como una enfermedad auto inmune cierto o sea no es una
+
+79
+00:07:07,800 --> 00:07:13,560
+enfermedad degenerativa perdón es algo que no tiene un tratamiento que se haya identificado
+
+80
+00:07:13,560 --> 00:07:18,600
+al menos hasta el momento y el tratamiento sintomático farmacológico se suele hacer con
+
+81
+00:07:18,600 --> 00:07:23,720
+levodopa que es un agonista dopaminérgico dado que los núcleos de la base justamente
+
+82
+00:07:23,720 --> 00:07:29,720
+son productores de dopamina y es lo que se está degenerando y eventualmente se puede
+
+83
+00:07:29,720 --> 00:07:36,760
+mezclar también con carbidopa que la carbidopa es un inhibidor de la enzima que degrada a la
+
+84
+00:07:36,760 --> 00:07:43,120
+dopamina cierto así que hace que aumente la cantidad de levodopa que está disponible para
+
+85
+00:07:43,120 --> 00:07:49,560
+luego transformarse en dopamina vemos como último tema el síndrome cerebeloso aquí acuérdense que
+
+86
+00:07:49,560 --> 00:07:54,360
+la etiología puede ser bien variada lo más frecuente son los accidentes vasculares en
+
+87
+00:07:54,360 --> 00:07:59,720
+cefálico aunque puede ser secundario un tumor también como por ejemplo los médulos las tomas
+
+88
+00:07:59,720 --> 00:08:05,120
+que suelen afectar el cuarto ventrículo y el cerebelo también la esclerosis múltiple que
+
+89
+00:08:05,120 --> 00:08:09,760
+puede afectar cualquier parte del sistema nervioso central cierto y está también la
+
+90
+00:08:09,760 --> 00:08:16,280
+cerebilitis posvaricela que la vamos a ver en algunos segundos más más las encefalitis
+
+91
+00:08:16,280 --> 00:08:22,120
+autoinmunes que eventualmente se complican también con una cerebilitis autoinmune también el
+
+92
+00:08:22,120 --> 00:08:26,960
+cuadro clínico es el síndrome cerebeloso completo cierto que suele venir con la
+
+93
+00:08:26,960 --> 00:08:32,600
+dismetría o temblor de intención que uno le dice a ver haga este movimiento cierto
+
+94
+00:08:33,080 --> 00:08:40,400
+toque se la nariz y el dedo del examinador y no puede cierto así van con con con algún grau
+
+95
+00:08:40,400 --> 00:08:46,360
+de coordinación bien importante con un temblor de intención bien intenso la otra es la
+
+96
+00:08:46,360 --> 00:08:51,160
+ávia dococinesia lo normal es que uno le diga haga estos movimientos alternantes cierto
+
+97
+00:08:51,160 --> 00:08:55,640
+y que los pueda hacer sin ningún problema pero en el caso de un síndrome cerebeloso no
+
+98
+00:08:55,640 --> 00:09:01,920
+lo puede como coordinar bien y no puede cierto y aparte de esto son síntomas de
+
+99
+00:09:01,920 --> 00:09:07,920
+tipo y lateral al hemisferio cerebeloso que está afectado y aquí hay que entender esto el
+
+100
+00:09:07,920 --> 00:09:12,720
+cerebelo se comunica con el lado contrario del cerebro que a su vez se comunica con el
+
+101
+00:09:12,720 --> 00:09:18,560
+lado contrario del cuerpo así que una lesión en el hemisferio cerebeloso del lado derecho
+
+102
+00:09:18,560 --> 00:09:23,840
+por ejemplo se traduce en dismetría y ádio dococinesia y laterales en el lado derecho
+
+103
+00:09:23,840 --> 00:09:30,040
+también ya ahora además con mucha frecuencia viene con ataxia que el que camina como como
+
+104
+00:09:30,040 --> 00:09:37,560
+borracho cierto con vértigo o con nixtambo que en este en este caso es de características
+
+105
+00:09:37,560 --> 00:09:42,520
+centrales cierto con lateropulsiones bilaterales ántero y retro pulsiones y el
+
+106
+00:09:42,520 --> 00:09:47,980
+nixtambo multidireccional a diferencia del vértigo periférico y que venía con las
+
+107
+00:09:47,980 --> 00:09:53,400
+lateropulsiones solamente hacia un lado cierto y con el nixtambo que se iba de
+
+108
+00:09:53,400 --> 00:09:59,600
+manera horizontal hacia contralateral y aparte de esto muchas veces viene con disartria que
+
+109
+00:09:59,600 --> 00:10:03,720
+no me lo confundan con las fases cierto la disartria es que habla como borracho también así
+
+110
+00:10:03,720 --> 00:10:09,200
+que camina como borracho habla como borracho y viene con esta descoordinación súper importante
+
+111
+00:10:09,200 --> 00:10:15,720
+de las extremidades ahora el síndrome cerebeloso habitualmente viene con hipotonía también a
+
+112
+00:10:15,720 --> 00:10:20,400
+diferencia del síndrome piramidal que viene con hipertonía y del síndrome extra piramidal
+
+113
+00:10:20,400 --> 00:10:24,440
+que viene con la rigidez en rueda dentada que ya lo vimos en la enfermedad de parkins
+
+114
+00:10:25,400 --> 00:10:32,320
+finalmente el síndrome cerebeloso tiene síntomas sensitivos y la respuesta es un rotundo no el
+
+115
+00:10:32,320 --> 00:10:37,720
+cerebelo no cumple ningún tipo de función en la sensibilidad ni siquiera la propia excepción
+
+116
+00:10:37,720 --> 00:10:44,840
+aunque si utiliza la información sensitiva para la coordinación de los movimientos finalmente el
+
+117
+00:10:44,840 --> 00:10:48,800
+diagnóstico del síndrome cerebeloso es absolutamente clínico pero hay que estudiar
+
+118
+00:10:48,800 --> 00:10:53,520
+los sí con una resonancia magnética nuclear para ver la causa de bases y que hay una
+
+119
+00:10:53,520 --> 00:10:58,120
+creosís múltiple un tumor o lo que sea y acuérdense que el cerebelo está en la
+
+120
+00:10:58,120 --> 00:11:03,680
+fosa posterior que no se ve tan bien en la tac así que de elección en este caso si es
+
+121
+00:11:03,680 --> 00:11:08,640
+la resonancia magnética nuclear finalmente el tratamiento del síndrome cerebeloso va a
+
+122
+00:11:08,640 --> 00:11:15,080
+depender de la causa y veamos un único caso clínico en esta clase cierto niño de seis
+
+123
+00:11:15,080 --> 00:11:19,880
+años con ataxia aguda dismetría y nixtacmo que inician siete días después de una
+
+124
+00:11:19,880 --> 00:11:24,960
+varicela y en este caso el diagnóstico más probable es una cerebelitis pos varicela que
+
+125
+00:11:24,960 --> 00:11:28,520
+hay que saber que es una de las pocas complicaciones inmunológicas que ocurren
+
+126
+00:11:28,520 --> 00:11:33,240
+después de la varicela y que el diagnóstico es absolutamente clínico no hay que pedirle
+
+127
+00:11:33,240 --> 00:11:38,200
+ningún examen y simplemente es un síndrome cerebeloso en contexto de un paciente que tuvo
+
+128
+00:11:38,200 --> 00:11:44,400
+varicela hace una a dos semanas atrás y el tratamiento por la general es simplemente
+
+129
+00:11:44,400 --> 00:11:48,840
+observarlo debido a que es un cuadro autolimitado que suele durar dos a cuatro
+
+130
+00:11:48,840 --> 00:11:54,000
+máximo seis semanas y luego de eso se mejora también ya así que bueno eso es lo importante
+
+131
+00:11:54,000 --> 00:11:59,880
+el saber diferenciar el temblor esencial que se maneja con propanolol de el parkinson que
+
+132
+00:11:59,880 --> 00:12:05,080
+se maneja con los agonistas dopaminérgicos del síndrome cerebeloso que se maneja según
+
+133
+00:12:05,080 --> 00:12:09,880
+la causa que tenga y ya vieron en el caso de la pos varicela se maneja simplemente con la
+
+134
+00:12:09,880 --> 00:12:12,480
+observación ya nos vemos en los siguientes temas que estén bien

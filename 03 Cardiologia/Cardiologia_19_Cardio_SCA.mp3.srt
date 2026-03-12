@@ -1,0 +1,935 @@
+1
+00:00:00,000 --> 00:00:06,470
+Hola, ¿cómo están? En este vídeo vamos a hablar del síndrome coronario Hugo, que
+
+2
+00:00:06,470 --> 00:00:10,830
+es un tema muy importante, que hay que saber con mucho detalle y que hay que
+
+3
+00:00:10,830 --> 00:00:14,670
+saber que hay que sospecharlo y tratarlo de manera urgente porque tiempo
+
+4
+00:00:14,670 --> 00:00:18,670
+es corazón, y que hace cada minuto que yo me demoro en diagnosticarlo o en
+
+5
+00:00:18,670 --> 00:00:23,370
+manejarlo bien, es un minuto en el cual se mueren más cardimidiosito
+
+6
+00:00:23,370 --> 00:00:26,270
+cierto y el paciente queda con una insuficiencia cardíaca más grave o se
+
+7
+00:00:26,270 --> 00:00:29,510
+muere el paciente también. Y como cosa importante, los tribunales suelen
+
+8
+00:00:29,510 --> 00:00:34,430
+no perdonarle mucho al médico, ya sea que se le pase un síndrome coronario o
+
+9
+00:00:34,430 --> 00:00:38,830
+que se demore en su manejo. Vemos ahora el diagnóstico, acuérdense que era con
+
+10
+00:00:38,830 --> 00:00:43,030
+la clínica típica. Síndrome es un conjunto de síntomas y signos, así
+
+11
+00:00:43,030 --> 00:00:46,910
+que si viene con dolor, torácico, opresivo, intenso, precordial o retro
+
+12
+00:00:46,910 --> 00:00:51,550
+esternal, irradiado, alguna parte, etcétera, se confirma inmediatamente el
+
+13
+00:00:51,550 --> 00:00:54,770
+diagnóstico del síndrome coronario Hugo. Y la segunda es que venga con una
+
+14
+00:00:54,770 --> 00:00:58,510
+clínica atípica, ejemplo algún dolor no tan intenso, sin las
+
+15
+00:00:58,510 --> 00:01:02,190
+características de un paciente coronario, pero que venga o con las
+
+16
+00:01:02,190 --> 00:01:05,910
+alteraciones electrocardiográficas de isquemia, las alteraciones de la onda T,
+
+17
+00:01:05,910 --> 00:01:10,310
+del segmento ST o de la onda Q, o bien con los marcadores de
+
+18
+00:01:10,310 --> 00:01:15,110
+isquemia miocárdica, digase la troponina arriba de 0,04 en el caso
+
+19
+00:01:15,110 --> 00:01:19,790
+de la troponina I o arriba de 0,01 en el caso de la troponina T. En el
+
+20
+00:01:19,790 --> 00:01:22,950
+caso del infarto de pared inferior puede venir con una clínica un poco
+
+21
+00:01:22,950 --> 00:01:27,390
+distinta, en particular puede venir con dolor abdominal en vez de torácico
+
+22
+00:01:27,950 --> 00:01:33,590
+y es parte del diagnóstico diferencial del dolor epigástrico, así que
+
+23
+00:01:33,590 --> 00:01:37,110
+acuérdense, un paciente que viene con factores de riesgo cardiovascular, que
+
+24
+00:01:37,110 --> 00:01:40,910
+llega con dolor epigástrico, no solamente hay que pensar en las
+
+25
+00:01:40,910 --> 00:01:43,910
+causas digestivas, sino que hay que pedirle un electrocardiograma como un
+
+26
+00:01:43,910 --> 00:01:47,510
+examen fundamental. En el caso del infarto ventrículo derecho, que se
+
+27
+00:01:47,510 --> 00:01:51,030
+asocia al de pared inferior, por su caso viene con hipotensión arterial
+
+28
+00:01:51,030 --> 00:01:55,710
+más ingurgitación yugular como los dos síntomas más importantes y
+
+29
+00:01:55,710 --> 00:01:59,870
+además suele venir con epátome y galia y sin alteraciones pulmonares en
+
+30
+00:01:59,870 --> 00:02:03,830
+el sentido en que no tiende al edema pulmonar a diferencia del infarto de
+
+31
+00:02:03,830 --> 00:02:06,870
+ventrículo izquierdo que sí puede hacerlo. En el caso de los
+
+32
+00:02:06,870 --> 00:02:10,710
+diabéticos muchas veces vienen sin dolor, vienen con una neuropatía
+
+33
+00:02:10,710 --> 00:02:15,190
+cierto, que hace que a veces no le duelen no solamente las heridas
+
+34
+00:02:15,190 --> 00:02:18,910
+de las piernas, sino que igualmente los infartos y sí pueden venir con
+
+35
+00:02:18,910 --> 00:02:23,310
+una clínica inespecífica como su oración, frialdad, que se sientan
+
+36
+00:02:23,310 --> 00:02:28,110
+mal y uno piensa esto es hipoglicemia y el primer examen efectivamente
+
+37
+00:02:28,110 --> 00:02:32,950
+es descartar una hipoglicemia con una glicemia capilar, pero si se
+
+38
+00:02:32,950 --> 00:02:36,550
+descarta inmediatamente debo ir al electrocardiograma como segundo
+
+39
+00:02:36,550 --> 00:02:40,270
+examen más importante. Y a veces debutan con una descompensación de la
+
+40
+00:02:40,270 --> 00:02:43,670
+diabetes, ejemplo con un síndrome hiperglicémico y hiperosmolar y hay
+
+41
+00:02:43,670 --> 00:02:47,630
+que recordar todo paciente con una diabetes demasiado descompensada con
+
+42
+00:02:47,630 --> 00:02:52,270
+un cuadro agudo como un síndrome hiperglicémico como una cetoacidosis
+
+43
+00:02:52,270 --> 00:02:55,750
+diabética, uno de los exámenes que hay que pedirle es el electrocardiograma
+
+44
+00:02:55,750 --> 00:02:59,990
+como para descartar que no esté con un infarto detrás. Finalmente los pacientes
+
+45
+00:02:59,990 --> 00:03:03,910
+adultos mayores, muchas veces no hacen las clínicas clásicas de las
+
+46
+00:03:03,910 --> 00:03:08,830
+distintas enfermedades graves que hay, sino que simplemente se presentan
+
+47
+00:03:08,830 --> 00:03:11,870
+como un delirium, como un síndrome confucional agudo, como un paciente que
+
+48
+00:03:11,870 --> 00:03:15,670
+se compromete de conciencia y se desorienta, así que parte básica del
+
+49
+00:03:15,670 --> 00:03:19,550
+estudio del síndrome confucional agudo es justamente el electrocardiograma y
+
+50
+00:03:19,550 --> 00:03:23,950
+las troponinas. Veamos el manejo del síndrome coronario agudo, lo vamos a ver
+
+51
+00:03:23,950 --> 00:03:27,870
+con mucho detalle, empecemos con el manejo básico independiente si es con
+
+52
+00:03:27,870 --> 00:03:32,630
+supranivel o sin supranivel del ST, antes siempre se le daba la mano al
+
+53
+00:03:32,630 --> 00:03:36,350
+paciente, se le daba morfina, aspirina que es el fármaco más
+
+54
+00:03:36,350 --> 00:03:39,750
+importante, la nitrolicerina que sirve para el dolor cierto y el
+
+55
+00:03:39,750 --> 00:03:43,190
+oxígeno. Hace algunos años se eliminó la morfina, se vio que
+
+56
+00:03:43,190 --> 00:03:47,550
+eventualmente podía aumentar el riesgo de que se choquee o de que
+
+57
+00:03:47,550 --> 00:03:52,750
+se muera, así que quedó solamente con la aspirina, la nitrolicerina y el
+
+58
+00:03:52,750 --> 00:03:57,030
+oxígeno, lamentablemente me echaron a perder la neumotecnia de la mano y
+
+59
+00:03:57,030 --> 00:04:00,950
+quedó muy fea como para que se las explique de otra forma, así que
+
+60
+00:04:00,950 --> 00:04:06,110
+sigamos nomás. Aparte me sirven los fármacos antiagregantes de otra
+
+61
+00:04:06,110 --> 00:04:11,110
+familia distinta a la aspirina, como los inhibidores P2 y P2, que el
+
+62
+00:04:11,110 --> 00:04:14,390
+más importante o el más conocido es el clópido grela, aunque hay que
+
+63
+00:04:14,390 --> 00:04:17,990
+saber que actualmente hay algunos un poco más modernos, van con un
+
+64
+00:04:17,990 --> 00:04:21,590
+asterisco ahí en el sentido en que no siempre se indican de inmediato, a veces
+
+65
+00:04:21,590 --> 00:04:26,030
+hay que esperar un poco, porque al momento de hacerle una angioplastía a
+
+66
+00:04:26,030 --> 00:04:28,910
+un paciente que está con un síndrome coronario, eventualmente puede
+
+67
+00:04:28,910 --> 00:04:32,070
+aumentar el riesgo de sangrado, así que si es un paciente que con una
+
+68
+00:04:32,070 --> 00:04:35,830
+alta probabilidad se va a hacer una angioplastía muy muy pronto, uno
+
+69
+00:04:35,830 --> 00:04:40,590
+espera a iniciarle el clópido grela, la aspirina sí va de entrada, pero
+
+70
+00:04:40,910 --> 00:04:44,830
+eventualmente ahí se espera y finalmente la eparina de bajo peso
+
+71
+00:04:44,830 --> 00:04:48,390
+molecular o el tratamiento anticoagulante es parte de los pilares
+
+72
+00:04:48,390 --> 00:04:53,350
+también. Ahora, como cosa adicional todo paciente con un síndrome coronario, ya
+
+73
+00:04:53,350 --> 00:04:57,190
+sea que sea con supranivel del ST, sin supranivel del ST, ya sea que
+
+74
+00:04:57,190 --> 00:05:01,070
+venga con el electroalterado o normal, en ese caso siempre se debe
+
+75
+00:05:01,070 --> 00:05:05,670
+seguir con los electrocardiogramas seriados y con la estroponina
+
+76
+00:05:05,670 --> 00:05:10,230
+seriadas, igualmente que se va repitiendo cada una a dos horas. En el
+
+77
+00:05:10,230 --> 00:05:15,830
+caso del manejo oracilmase específico, se divide en el síndrome coronario
+
+78
+00:05:15,830 --> 00:05:18,830
+agudo con supranivel del ST, que el equivalente es que venga con un
+
+79
+00:05:18,830 --> 00:05:23,910
+bloqueo completo de rama izquierda, por su caso, y el síndrome coronario
+
+80
+00:05:23,910 --> 00:05:27,750
+sin supranivel del ST. Y aquí me detengo un poco porque hay algunos
+
+81
+00:05:27,750 --> 00:05:31,390
+que se confunden en el consupra desnivel y el con infra desnivel y
+
+82
+00:05:31,390 --> 00:05:34,630
+eso no es correcto en el sentido en que lo que importa es si es con o
+
+83
+00:05:34,830 --> 00:05:38,630
+sin supranibel. Si es que tiene infra desnivel y aparte de eso tiene supranivel
+
+84
+00:05:38,630 --> 00:05:41,910
+del ST, en ese caso es con supranivel del ST, si es que solamente
+
+85
+00:05:41,910 --> 00:05:45,470
+tiene infra desnivel del ST y no tiene supranivel del ST.
+
+86
+00:05:45,710 --> 00:05:49,870
+En ese caso es sin supranivel del ST y si es que no tiene ni
+
+87
+00:05:49,990 --> 00:05:53,270
+infra desnivel del ST ni supranivel del ST, no tiene ninguno de
+
+88
+00:05:53,270 --> 00:05:55,590
+los dos, ejemplo, si tiene un electrocardiograma absolutamente
+
+89
+00:05:55,630 --> 00:05:58,510
+normal, en ese caso es sin supranivel del ST.
+
+90
+00:05:58,670 --> 00:06:01,990
+O sea, repito, lo que importa es que tiene o no supranivel
+
+91
+00:06:01,990 --> 00:06:06,050
+desnivel del ST y no, si es que tiene o no, infra desnivel del ST. Eso sí puede ser importante
+
+92
+00:06:06,050 --> 00:06:10,270
+para algo más, pero lo vamos a ver en unos minutos. En el caso del consupra desnivel
+
+93
+00:06:10,270 --> 00:06:14,330
+del ST, el manejo es la revascularización inmediata, que habitualmente se hace con
+
+94
+00:06:14,330 --> 00:06:19,090
+angioplastía, o bien se puede hacer con trombólisis. Tengo las dos opciones. En
+
+95
+00:06:19,090 --> 00:06:24,130
+cambio, en el caso del sinsupra desnivel del ST, se decide entre la angioplastía
+
+96
+00:06:24,130 --> 00:06:27,790
+y el manejo conservador. Pero fíjense, ahí no está la trombólisis, porque la
+
+97
+00:06:27,790 --> 00:06:31,830
+trombólisis está absolutamente contraindicada en los pacientes sinsupra desnivel del ST,
+
+98
+00:06:31,830 --> 00:06:36,270
+porque incluso puede aumentar el riesgo de muerte. Ahora, repito una cosa que
+
+99
+00:06:36,270 --> 00:06:42,710
+dijimos hace algún rato, el bloqueo completo de rama izquierda reciente, que no estaba en
+
+100
+00:06:42,710 --> 00:06:48,190
+algún examen anterior. En ese caso se maneja con angioplastía o con trombólisis, porque,
+
+101
+00:06:48,190 --> 00:06:54,390
+repito, es equivalente a que tenga supersnivel del ST. Veamos con algo más de detalle respecto
+
+102
+00:06:54,390 --> 00:06:59,230
+a elegir entre la angioplastía y la trombólisis. En general, la angioplastía es mejor, así que si yo
+
+103
+00:06:59,230 --> 00:07:05,350
+tengo disponible la angioplastía en el centro en el cual estoy recibiendo al paciente,
+
+104
+00:07:05,350 --> 00:07:09,950
+la elijo por sobre la trombólisis. Y si es que no la tengo, pero si la tengo en algún
+
+105
+00:07:09,950 --> 00:07:14,790
+centro asistencial cercano, a menos de 90 minutos desde que estoy tomando esta decisión,
+
+106
+00:07:14,790 --> 00:07:20,430
+hasta que le estén haciendo la angioplastía, lo derivo. Repito, la angioplastía es mejor
+
+107
+00:07:20,430 --> 00:07:25,110
+porque la trombólisis y la indicación de trombólisis es que no tengo la angioplastía
+
+108
+00:07:25,110 --> 00:07:31,350
+ni aquí ni en ningún centro cercano a menos de 90 minutos. Segundo lugar, incluso cuando no
+
+109
+00:07:31,350 --> 00:07:35,390
+tengo la angioplastía casi, que está más de 90 minutos, si es que está contraindicada la
+
+110
+00:07:35,390 --> 00:07:39,670
+trombólisis, ejemplo por un hemorragio cerebral o por un hemorragio digestiva, en ese caso
+
+111
+00:07:39,670 --> 00:07:44,750
+debo derivarlo a la angioplastía igual, no lo puedo trombolizar. Si es que la trombólisis
+
+112
+00:07:44,750 --> 00:07:51,350
+yo se la doy en el sentido en que estaba indicado y falla y no responde en 90 minutos,
+
+113
+00:07:51,350 --> 00:07:56,310
+fíjense acá es 90 minutos, pero son otros 90 minutos. Son 90 minutos desde que yo ya
+
+114
+00:07:56,310 --> 00:08:02,150
+le administré su streptokinasa o subactivador del plasminógeno, cierto? Y voy a ver si es que
+
+115
+00:08:02,150 --> 00:08:06,870
+mejora y si es que no mejora en 90 minutos, yo digo, falló la trombólisis, solamente me
+
+116
+00:08:06,870 --> 00:08:11,230
+queda la angioplastía y debo derivarlo. Y finalmente cuando se me reinfarta en que lo
+
+117
+00:08:11,230 --> 00:08:18,470
+trombolisé, mejoró, anduvo bien, pero luego de eso empieza con el dolor nuevamente y con
+
+118
+00:08:18,470 --> 00:08:23,710
+el superdesnivel que reaparece, en ese caso no me queda más que el trasladarlo al lugar
+
+119
+00:08:23,710 --> 00:08:28,870
+donde se puede hacer la angioplastía. En el caso del sin superdesnivel del ST, la
+
+120
+00:08:28,870 --> 00:08:33,310
+indicación es que venga con un paciente de alto riesgo, ya sea por la clínica que venga
+
+121
+00:08:33,310 --> 00:08:38,910
+choqueado o con edema pulmonaragudo, ya sea que venga con alto riesgo por los distintos
+
+122
+00:08:38,910 --> 00:08:43,750
+score que hay que los vamos a ver después, el score de Timmy y el score de Grace o ya sea
+
+123
+00:08:43,750 --> 00:08:49,990
+porque viene con difunción sistólica en el caso del ecocardiograma, con una caída en la
+
+124
+00:08:49,990 --> 00:08:56,230
+fracción de eyección o en el caso de que hayan dado todo súper bien, que lo haya manejado de
+
+125
+00:08:56,230 --> 00:09:01,790
+manera absolutamente conservadora con la aspirina, la nitrolicerina, el oxígeno, la heparina,
+
+126
+00:09:01,790 --> 00:09:05,590
+eclopidogrel, con todas esas cosas, con betabloqueo, con las estatinas, con todas
+
+127
+00:09:05,590 --> 00:09:10,910
+esas cosas, si es que anda muy bien, yo igual, antes de mandarlo para su casa, antes de darlo
+
+128
+00:09:10,910 --> 00:09:14,830
+de alta, le pido un test de esfuerzo y si es que el test de esfuerzo está alterado, en ese
+
+129
+00:09:14,830 --> 00:09:20,790
+caso le hago angioplastía igual. Veamos con más detalle la thrombólisis, acuérdense y
+
+130
+00:09:20,790 --> 00:09:24,670
+como cosa súper importante, la angioplastía es mejor que la thrombólisis, así que sí que
+
+131
+00:09:24,670 --> 00:09:29,630
+está disponible angioplastía gana y los fármacos que se usan son, por un lado, los
+
+132
+00:09:29,630 --> 00:09:35,030
+activadores del plasminógeno recombinantes, que son mejores que la streptokinasa, ¿cierto?
+
+133
+00:09:35,030 --> 00:09:40,310
+Los que más se usan son el tecneplase y el retemplase, que son un poco más modernos y
+
+134
+00:09:40,310 --> 00:09:43,750
+el alteplase, que es un poquito más antiguo pero más barato y a veces es el que está
+
+135
+00:09:43,750 --> 00:09:48,030
+disponible. Los más modernos son un poquito mejor, así que al menos las recomendaciones
+
+136
+00:09:48,030 --> 00:09:53,230
+internacionales dicen, elijan los que están disponibles. Y en el caso de la streptokinasa
+
+137
+00:09:53,230 --> 00:09:57,070
+es el más barato, así que en algunos centros del sistema público, por ejemplo, es lo único
+
+138
+00:09:57,070 --> 00:10:02,710
+que hay, así que toca dar eso y es mucho mejor que no dar nada y es mucho mejor que
+
+139
+00:10:02,710 --> 00:10:07,350
+manejarlo simplemente con aspirina. Ahora, las contraindicaciones de la thrombólisis
+
+140
+00:10:07,350 --> 00:10:11,230
+hay que saberlas, hay que saberlas con cierto detalle. La más importante que venga con
+
+141
+00:10:11,230 --> 00:10:15,550
+ausencia de supradesnivel del STO o bloqueo completo de rami izquierda reciente, ¿cierto?
+
+142
+00:10:15,550 --> 00:10:19,710
+En el sentido que en ese caso sería uno sin supradesnivel, que dijimos que estaba
+
+143
+00:10:19,710 --> 00:10:24,310
+absolutamente contraindicado porque aumenta la mortalidad. Segundo lugar, que venga
+
+144
+00:10:24,310 --> 00:10:29,310
+con supradesnivel chockeado en el sentido que la thrombólisis tiende a hipotensar
+
+145
+00:10:29,310 --> 00:10:33,670
+y si ya está hipotenso se me puede hipotensar mucho más y el paciente se puede morir,
+
+146
+00:10:33,670 --> 00:10:39,350
+que esté con dolor que lleve más de 12 horas y aquí me detengo a explicar esto
+
+147
+00:10:39,350 --> 00:10:43,590
+un poquito mejor. Después de 12 horas la thrombólisis ya no me sirve. Durante
+
+148
+00:10:43,590 --> 00:10:47,390
+las primeras tres horas la thrombólisis es cuando más sirve, es casi tan buena
+
+149
+00:10:47,390 --> 00:10:51,870
+como la angioplastia que solamente es un poquito mejor. Después de tres horas
+
+150
+00:10:51,910 --> 00:10:57,390
+la angioplastia es bastante mejor que la thrombólisis y después de 12 horas la angioplastia
+
+151
+00:10:57,390 --> 00:11:03,110
+ya no sirve tanto porque ya ha pasado mucho pero de algo sirve todavía. En cambio
+
+152
+00:11:03,110 --> 00:11:08,670
+la thrombólisis ya no sirve absolutamente de nada. El coágulo o el trombo ya se organizó,
+
+153
+00:11:08,670 --> 00:11:15,270
+ya no se va a deshacer con fármaco. En el caso de las hemorragias, ejemplo
+
+154
+00:11:15,270 --> 00:11:19,870
+una hemorragia digestiva alta o una hemorragia cerebral, igualmente me contraindican la
+
+155
+00:11:19,870 --> 00:11:24,550
+thrombólisis y el caso clásico ahí es el paciente que me hace una hemorragia digestiva
+
+156
+00:11:24,550 --> 00:11:31,750
+masiva, grave, se choquea y por lo mismo se infarta con sus arterias coronarias que ya
+
+157
+00:11:31,750 --> 00:11:36,550
+estaban como medias tapadas, cierto, al estar con el choque hipovolémico hemorrágico,
+
+158
+00:11:36,550 --> 00:11:42,590
+cierto, se infarta. En ese caso no le puedo dar los thrombolíticos, estoy obligado a
+
+159
+00:11:42,590 --> 00:11:47,430
+manejarlo con la angioplastia y si es que hay que hacer alguna otra cosa será el manejo
+
+160
+00:11:47,430 --> 00:11:51,150
+con la hemorragia digestiva y el manejo general del infarto. Y como última cosa,
+
+161
+00:11:51,150 --> 00:11:58,070
+cuando tiene alguna alergia demostrada al streptokinasa o al rtpa o a los fármaco
+
+162
+00:11:58,070 --> 00:12:04,030
+de la thrombólisis, que es raro ese antecedente, o bien cuando ha recibido streptokinasa
+
+163
+00:12:04,030 --> 00:12:07,270
+hace menos de un año en el sentido en que se espera que haya anticuerpos que
+
+164
+00:12:07,270 --> 00:12:11,910
+puedan inutilizar al fármaco, en ese caso igualmente está absolutamente contraindicado
+
+165
+00:12:11,910 --> 00:12:18,310
+y lo que se indica es o bien otro fármaco thrombolítico como el Tecneplase o bien el
+
+166
+00:12:18,310 --> 00:12:23,910
+derivarlo a la angioplastia si es que no tengo nada más. Como cosa importante hay que saber
+
+167
+00:12:23,910 --> 00:12:28,830
+los criterios de éxito de la thrombólisis, lo más importante es desde el punto de vista
+
+168
+00:12:28,830 --> 00:12:34,110
+clínico que disminuya el dolor o bien desde el punto de vista electrocardiográfico que
+
+169
+00:12:34,110 --> 00:12:41,230
+disminuya el supraves nivel del ST que se tienda a normalizar y finalmente del punto
+
+170
+00:12:41,230 --> 00:12:46,550
+de vista general igualmente clínico si la hemodinamia mejora esos son criterios de éxito,
+
+171
+00:12:46,550 --> 00:12:51,630
+o sea en resumen la clínica que mejore y el electrocardiograma que mejore son las cosas
+
+172
+00:12:51,630 --> 00:12:56,510
+que me dicen que seguramente funcionó la thrombólisis que yo le di. La falla en
+
+173
+00:12:56,510 --> 00:13:01,350
+cambio es cuando han pasado 90 minutos desde que yo administré el fármaco y que no tenga
+
+174
+00:13:01,350 --> 00:13:05,350
+éxito o sea que siga con el mismo dolor o que esté peor con la hemodinamia mala
+
+175
+00:13:05,350 --> 00:13:12,190
+cierto y que el supraves nivel del ST siga y en más empieza a aparecer una onda Q cierto,
+
+176
+00:13:12,190 --> 00:13:17,230
+de necrosilla definitiva, en ese caso yo digo no tuvo éxito y no me queda ninguna
+
+177
+00:13:17,230 --> 00:13:24,430
+otra cosa más que la angioplastia. Como cosa adicional dentro del éxito se solía mencionar
+
+178
+00:13:24,430 --> 00:13:31,550
+al PIC precoz de las enzimas en el sentido en que es algo que eventualmente me refleja
+
+179
+00:13:31,550 --> 00:13:35,910
+que sí se revascularizó un poquito antes y por lo mismo es que estos marcadores salen
+
+180
+00:13:35,910 --> 00:13:43,510
+a la sangre un poco antes. Veamos finalmente el tema del riesgo en el infarto sin supraves
+
+181
+00:13:43,510 --> 00:13:47,790
+nivel del ST. Habíamos dicho que había una serie de parámetros como para ver si
+
+182
+00:13:47,790 --> 00:13:51,630
+es que era de alto riesgo, si es de alto riesgo ya dijimos se tenía que hacer una
+
+183
+00:13:51,630 --> 00:13:56,310
+angioplastia en vez de el tratamiento simplemente conservador y repito estamos
+
+184
+00:13:56,310 --> 00:14:01,710
+hablando en el sin supraves nivel del ST. Número uno está el score de Timmy, número 12 el score
+
+185
+00:14:01,710 --> 00:14:07,470
+de Grace que es un poco más nuevo y es un poquito más certero. Ninguno de los dos es óptimo
+
+186
+00:14:07,470 --> 00:14:12,590
+por si acaso. El score de Timmy tiene siete variables que vale la pena saberse que tenga
+
+187
+00:14:12,590 --> 00:14:16,990
+más de 65 años, que tenga antecedentes de enfermedad coronaria previa, que tenga factores
+
+188
+00:14:16,990 --> 00:14:22,830
+de riesgo cardiovascular ya sea 3 o más, que haya tenido angina estable o inestable en
+
+189
+00:14:22,830 --> 00:14:28,150
+las últimas 24 horas, que sea usuario de aspirina y que aún así se ha infartado, que venga con
+
+190
+00:14:28,150 --> 00:14:32,550
+alteraciones en el electrocardiograma, aquí estamos hablando sin supraves nivel del ST,
+
+191
+00:14:32,550 --> 00:14:38,030
+así que su alteración sería un infra de nivel del ST y finalmente las troponinas, aunque les
+
+192
+00:14:38,030 --> 00:14:44,430
+menciono que esos dos en la actualidad per se, así como por sí solo, ya hay algunos que
+
+193
+00:14:44,430 --> 00:14:49,670
+consideran que deberían ser manejados con angioplastia y no de manera conservadora.
+
+194
+00:14:50,430 --> 00:14:57,870
+En el caso del score de Grace, no me pide el parámetro como sí o no, sino que el parámetro
+
+195
+00:14:57,870 --> 00:15:03,510
+cuantitativo y el software me da un cálculo acerca de si es de alto, medio o bajo riesgo,
+
+196
+00:15:05,510 --> 00:15:13,030
+se pide la edad, se pide si es que está con taquicardia o no o con alteraciones en la
+
+197
+00:15:13,030 --> 00:15:17,750
+frecuencia cardiaca y el valor, las presiones arteriales, los niveles de creatinina,
+
+198
+00:15:17,750 --> 00:15:22,910
+porque acuérdense que la enfermedad renal crónica igualmente es un factor pronóstico en
+
+199
+00:15:22,910 --> 00:15:29,630
+el infarto y aparte de eso acuérdense que la falla cardíaca, la insuficiencia cardíaca se
+
+200
+00:15:29,630 --> 00:15:35,870
+puede traducir en una insuficiencia renal de tipo priorrenal. El QLIP, que es el índice
+
+201
+00:15:35,870 --> 00:15:39,910
+de gravedad de la insuficiencia cardíaca, si es que cayó en paro cardiorespiratorio que
+
+202
+00:15:39,910 --> 00:15:47,070
+tuvo que ser manejado o no y finalmente la presencia del infra del nivel del ST y de
+
+203
+00:15:47,070 --> 00:15:52,950
+las troponinas y con su valor exacto desde el punto de vista cuantitativo. Ahora recordemos que
+
+204
+00:15:52,950 --> 00:15:58,270
+en la clínica igualmente por sí sola me podía indicar que era un caso de alto riesgo en este
+
+205
+00:15:58,270 --> 00:16:02,350
+cuadro sin superar el nivel del ST, ejemplo si venía choqueado, si venía en edema pulmonar
+
+206
+00:16:02,350 --> 00:16:07,190
+agudo, si está con arritmas ventriculares por ejemplo o si está con hemodinamia inestable,
+
+207
+00:16:07,190 --> 00:16:11,550
+en cualquiera de esos casos va directo a la angioplastía y respecto de algunos otros
+
+208
+00:16:11,550 --> 00:16:17,750
+exámenes habíamos dicho que por sí solo en la actualidad el infra del nivel del ST hace que
+
+209
+00:16:17,750 --> 00:16:22,790
+se recomiende la geoplastía, igualmente por sí solo la elevación de las troponinas en la
+
+210
+00:16:22,790 --> 00:16:28,290
+actualidad hace que se maneje de manera más agresiva e invasiva con la geoplastía, que
+
+211
+00:16:28,290 --> 00:16:33,190
+el eco cardiograma me mostrara esta caída de la fracción de eyección y finalmente el test
+
+212
+00:16:33,190 --> 00:16:37,190
+de esfuerzo que se hacía antes del alta que está alterado. O sea fíjense en resumen
+
+213
+00:16:37,190 --> 00:16:42,470
+cómo se maneja el infarto sin superar el nivel del ST y se maneja con la geoplastía,
+
+214
+00:16:42,470 --> 00:16:48,310
+a menos claro que no parezca un infarto y ejemplo el paciente llega bien, está clínicamente
+
+215
+00:16:48,310 --> 00:16:53,630
+bien, está con el dolor, le hago el manejo general, el electro nunca me muestra un infra,
+
+216
+00:16:53,630 --> 00:16:59,790
+las troponinas nunca se elevan y yo digo esta es una gina inestable y hasta a lo mejor
+
+217
+00:16:59,790 --> 00:17:05,350
+nunca fue, si quiere una gina inestable, si no quiere un espasmo esofágico, ese es el
+
+218
+00:17:05,350 --> 00:17:12,270
+único que finalmente queda sin angioplastía y aún así antes de mandarlo para la casa
+
+219
+00:17:12,270 --> 00:17:18,190
+le hago un test de esfuerzo como prestar 100% seguro de que no requiere una angioplastía.
+
+220
+00:17:18,190 --> 00:17:23,430
+Como tema ya final para cerrar esto, hablemos del manejo posterior del infarto, número
+
+221
+00:17:23,430 --> 00:17:27,190
+uno hay que prevenir que no tenga un nuevo infarto, así que hay que darle aspirina
+
+222
+00:17:27,190 --> 00:17:32,470
+como el fármaco más importante post infarto, las estatinas obviamente como para ayudar
+
+223
+00:17:32,470 --> 00:17:36,910
+a disminuir un poco esta placa de ateroma, más el manejo completo de los factores de
+
+224
+00:17:36,910 --> 00:17:41,870
+riesgo cardiovascular, que deje de fumar, que maneje bien su diabetes o su hipertensión
+
+225
+00:17:41,870 --> 00:17:46,350
+arterial, el manejo de la insuficiencia cardíaca con la que queda el paciente que
+
+226
+00:17:46,350 --> 00:17:50,270
+se ha infartado, diga se va a quedar con YECA, con el beta bloqueo y con los fármacos
+
+227
+00:17:50,270 --> 00:17:54,470
+generales de la insuficiencia cardíaca y como medida final a todo paciente que
+
+228
+00:17:54,470 --> 00:17:59,310
+ha tenido un infarto hay que controlarlo con un ecocardiograma, con una ecocardiografía
+
+229
+00:17:59,310 --> 00:18:04,190
+en sentido que es el examen que me da el pronóstico y lo más importante es la
+
+230
+00:18:04,190 --> 00:18:08,110
+función ventricular con la que queda, diga se la fracción de YECCIÓN, mientras más
+
+231
+00:18:08,110 --> 00:18:12,630
+baja está es más probable que evolucione a una insuficiencia cardíaca y que
+
+232
+00:18:12,630 --> 00:18:17,750
+finalmente quede igualmente con secuelas y que su vida sea un poco más corta.
+
+233
+00:18:17,750 --> 00:18:21,550
+Y bueno eso es todo lo que hay que saber, les dije que era una clase larga y difícil
+
+234
+00:18:21,550 --> 00:18:26,870
+y agotadora, pero hay que sabérsela con cierto detalle, así que aprendan que estén bien.

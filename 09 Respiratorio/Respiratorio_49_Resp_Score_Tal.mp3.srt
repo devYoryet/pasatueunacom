@@ -1,0 +1,155 @@
+1
+00:00:03,180 --> 00:00:08,180
+Hola, ¿cómo están? En este video vamos a hablar del score de TAL, que acuérdense que servía para
+
+2
+00:00:08,180 --> 00:00:13,660
+ver la severidad del SBO y que iba a ser leve cuando había 0 a 5 puntos en el score de TAL,
+
+3
+00:00:13,660 --> 00:00:18,420
+va a ser moderado cuando había 6 a 8 puntos y era severo cuando había 9 a 12 puntos que es el
+
+4
+00:00:18,420 --> 00:00:23,420
+máximo. Ahora, las variables que mide son esas cuatro que están ahí, frecuencia respiratoria,
+
+5
+00:00:23,420 --> 00:00:28,780
+el uso de musculatura accesoria, la presencia de cianosis y la presencia de sibilancia y
+
+6
+00:00:28,780 --> 00:00:34,860
+va a recibir desde 0 hasta 3 puntos según si es que no tiene nada y está todo normal, en ese
+
+7
+00:00:34,860 --> 00:00:39,540
+caso 0 puntos, si es que tiene un poquito 1 punto, si es que tiene más 2 puntos y si es que tiene
+
+8
+00:00:39,540 --> 00:00:45,020
+mucho 3 puntos. Ahora, veámoslo con algún detalle, pero con que entiendan la lógica,
+
+9
+00:00:45,020 --> 00:00:50,940
+lo más probable es que van a aprendérselo ya un poco más rápido. Ahora, la frecuencia
+
+10
+00:00:50,940 --> 00:00:55,180
+respiratoria va a hacer 0 puntos cuando es menor a 30 respiraciones por minuto,
+
+11
+00:00:55,180 --> 00:01:01,700
+o sea cuando está normal en los lactantes, cuando esté arriba de 30 desde que está un
+
+12
+00:01:01,700 --> 00:01:08,740
+poco alterada, en ese caso 1 punto, arriba de 45 2 puntos y arriba de 60 3 puntos y fíjense que
+
+13
+00:01:08,740 --> 00:01:15,260
+es 30 y 60 y va subiendo de 15 en 15. Ahora, en el caso de que tenga menos de 6 meses los
+
+14
+00:01:15,260 --> 00:01:20,780
+puntos de corte cambian y esto hay que saberlo, en este caso todos los valores se les suma 10,
+
+15
+00:01:20,780 --> 00:01:27,980
+o sea sería 40, 55 y 70 los puntos de corte, pero con que uno sepa, empiezan 30, suben de 15 en
+
+16
+00:01:27,980 --> 00:01:32,820
+15 y en el menor de 6 meses se les suma 10, con eso se aprende más rápido y se recuerda mejor.
+
+17
+00:01:32,820 --> 00:01:37,740
+En el caso de la musculatura accesoria, sepan que los síntomas van de abajo hacia arriba,
+
+18
+00:01:37,740 --> 00:01:43,620
+va a hacer 0 puntos si es que no usa ningún músculo y respira bien, va a hacer 1 punto
+
+19
+00:01:43,620 --> 00:01:50,100
+cuando es subcostal, o sea la parte de más abajo, 2 puntos cuando es intercostal un poquito
+
+20
+00:01:50,100 --> 00:01:54,660
+más arriba y 3 puntos cuando hay tiraje cervical y como cosa importante, la laryngitis
+
+21
+00:01:54,660 --> 00:02:02,380
+obstructiva en cambio era al revés, era un punto de severidad el tiraje, 2 intercostal y 3 subcostal,
+
+22
+00:02:02,380 --> 00:02:07,740
+así que en el SBO de abajo hacia arriba, en la laryngitis obstructiva de arriba hacia abajo en
+
+23
+00:02:07,740 --> 00:02:12,820
+cambio. En el caso de la xenosis, si es que no hay 0 puntos, si es que hay solamente alrededor
+
+24
+00:02:12,820 --> 00:02:18,260
+de la boca con el llanto 1 punto, si es que hay alrededor de la boca de manera constante,
+
+25
+00:02:18,260 --> 00:02:23,340
+en ese caso son 2 puntos y finalmente si es que hay xenosis generalizada son 3 puntos.
+
+26
+00:02:23,340 --> 00:02:28,100
+Y lo último, la sibilancia, obviamente si es que no hay sibilancia, sería 0 punto,
+
+27
+00:02:28,100 --> 00:02:32,580
+si las sibilancias son solamente expiratorias, en ese caso sería 1 punto,
+
+28
+00:02:32,580 --> 00:02:36,460
+si es que además tiene sibilancias inspiratorias, en ese caso son 2 puntos
+
+29
+00:02:36,460 --> 00:02:40,900
+y finalmente cuando se escuchan sin necesidad de usar el fonetoscopio,
+
+30
+00:02:40,900 --> 00:02:45,740
+ahí serían 3 puntos y lo mismo aplica cuando hay silencio pulmonar, dígase,
+
+31
+00:02:45,780 --> 00:02:49,020
+cuando no escucho absolutamente ninguna sibilancia. Ahora alguien me dice,
+
+32
+00:02:49,020 --> 00:02:53,540
+pero ahí le doy 0 puntos o le doy 3 puntos, porque es lo mismo y va a depender de las
+
+33
+00:02:53,540 --> 00:02:56,700
+otras cosas. Si me dice el niño está súper bien con un poquito de tos y nada más y
+
+34
+00:02:56,700 --> 00:03:01,460
+sin sibilancia, uno dice, ni siquiera tiene un SBO, tiene 0 puntos y si es que no hay
+
+35
+00:03:01,460 --> 00:03:07,420
+sibilancia, en ese caso tiene un refriego. Pero si es que está azul, súper tequimnético,
+
+36
+00:03:07,420 --> 00:03:12,380
+que se le hunden todos los músculos y no se escucha nada, en ese caso uno dice,
+
+37
+00:03:12,420 --> 00:03:17,540
+está gradísimo y tiene seguramente un SBO muy muy severo. Y bueno,
+
+38
+00:03:17,540 --> 00:03:20,940
+eso fue todo en este video, nos vemos en el siguiente que vamos a ver el
+
+39
+00:03:20,940 --> 00:03:22,860
+síndrome bronquial obstructivo recurrente.

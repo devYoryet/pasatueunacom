@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:06,840
+Hola, ¿cómo están? Vamos a ver ahora la fibromialgia, que por si acaso no es una
+
+2
+00:00:06,840 --> 00:00:11,160
+enfermedad autoinmune, su fisiopatología es distinta. Su clínica, y que hay que
+
+3
+00:00:11,160 --> 00:00:14,000
+saberla bien, suele venir con alteraciones del sueño, de hecho
+
+4
+00:00:14,000 --> 00:00:18,200
+probablemente su fisiopatología se relacione de alguna manera con un mal
+
+5
+00:00:18,200 --> 00:00:21,800
+dormir o con una mala regulación neuromuscular durante el sueño, lo
+
+6
+00:00:21,800 --> 00:00:25,440
+cual hace que finalmente aumente la atención sobre los músculos y el
+
+7
+00:00:25,440 --> 00:00:30,280
+dolor. Muchas veces viene con fatiga, astenia, esa sensación de que no
+
+8
+00:00:30,280 --> 00:00:34,240
+tengo fuerzas para nada y se asocia mucho con morbilidad psiquiátrica,
+
+9
+00:00:34,240 --> 00:00:37,600
+ejemplo de depresión, trastornos ansiosos también, pero lo más
+
+10
+00:00:37,600 --> 00:00:42,200
+importante, la clave de su clínica, lo más importante para su diagnóstico
+
+11
+00:00:42,200 --> 00:00:45,920
+además, es que viene con dolor generalizado, pero que quede claro no
+
+12
+00:00:45,920 --> 00:00:49,480
+es dolor articular, sino que es dolor muscular generalizado. ¿En qué
+
+13
+00:00:49,480 --> 00:00:52,600
+músculo? En los trapecios, los supraspinosos, los pectorales, los
+
+14
+00:00:52,600 --> 00:00:55,280
+glúteos, la cara interna de las rodillas, los muslos, la parte
+
+15
+00:00:55,280 --> 00:00:58,960
+lateral del codo, la parte anterior del antebrazo, los brazos, el
+
+16
+00:00:58,960 --> 00:01:02,240
+otro cáncer en el cuello, etcétera. Cualquiera de los grupos
+
+17
+00:01:02,240 --> 00:01:05,840
+musculares, antes se hablaba de algunos puntos específicos que son
+
+18
+00:01:05,840 --> 00:01:09,160
+fundamentalmente los que están ahí, pero actualmente se considera que
+
+19
+00:01:09,160 --> 00:01:12,560
+puede doler cualquier músculo, la verdad. El diagnóstico es
+
+20
+00:01:12,560 --> 00:01:17,320
+absolutamente clínico y justamente se basa en que hay dolor
+
+21
+00:01:17,320 --> 00:01:20,920
+generalizado, sin otra causa que lo explique y muchas veces viene
+
+22
+00:01:20,920 --> 00:01:23,960
+con este dolor que se reproduce a la compresión de estos grupos
+
+23
+00:01:23,960 --> 00:01:27,560
+musculares. Como cosa importante, sus exámenes de sangre están todos
+
+24
+00:01:27,560 --> 00:01:31,720
+normales por regla general y como mínimo se recomienda pedir
+
+25
+00:01:31,720 --> 00:01:35,880
+un hemograma y una PCR para descartar que haya patología
+
+26
+00:01:35,880 --> 00:01:40,120
+inflamatoria, porque si está la VHS muy alta y la proteína se
+
+27
+00:01:40,120 --> 00:01:42,760
+reactiva está elevada también, en ese caso obviamente se
+
+28
+00:01:42,760 --> 00:01:46,560
+sospecha una patología diferente. Y finalmente pedir una
+
+29
+00:01:46,560 --> 00:01:49,120
+TCH, porque el hipotiroidismo acuérdense que se puede
+
+30
+00:01:49,320 --> 00:01:52,760
+manifestar con mialgias también, y una CK para asegurarnos
+
+31
+00:01:52,760 --> 00:01:56,400
+que no hay una polimiositis o una polimialgia aromática
+
+32
+00:01:56,400 --> 00:01:59,240
+de base, recordando que la polimialgia aromática me eleva
+
+33
+00:01:59,240 --> 00:02:02,760
+la VHS y por lo tanto me altera el hemograma también. Ahora la
+
+34
+00:02:02,760 --> 00:02:06,200
+gran pregunta es, y le pido a algún marcador inmunológico,
+
+35
+00:02:06,200 --> 00:02:09,000
+algún anticuerpo, a una factor rheumatoide o algo así,
+
+36
+00:02:09,000 --> 00:02:11,800
+la respuesta es no. No, acuérdense, el cuadro clínico
+
+37
+00:02:11,800 --> 00:02:14,400
+de la fioromialgia es distinto a la artritis
+
+38
+00:02:14,400 --> 00:02:16,720
+rheumatoide que viene con compromiso articular o al
+
+39
+00:02:16,720 --> 00:02:19,720
+lupus que viene con un montón de otras cosas diferentes
+
+40
+00:02:19,720 --> 00:02:22,320
+o a cualquiera de las otras enfermedades autoinmunes
+
+41
+00:02:22,320 --> 00:02:25,280
+anapositivos y por lo tanto no hay que pedirle exámenes
+
+42
+00:02:25,280 --> 00:02:28,120
+demás, los exámenes ya dijimos, era el hemograma, la
+
+43
+00:02:28,120 --> 00:02:33,240
+PCR, la CK y la TCH y nada más. Ahora, algo importante,
+
+44
+00:02:33,240 --> 00:02:35,760
+el tratamiento, lo más importante es educar, que el
+
+45
+00:02:35,760 --> 00:02:38,800
+paciente entienda que lo que tiene se llama fibromialgia,
+
+46
+00:02:39,080 --> 00:02:42,040
+que está muy relacionado con el estrés y con el ciclo
+
+47
+00:02:42,040 --> 00:02:44,640
+circadiano que tiene que dormir mejor y tiene que hacer
+
+48
+00:02:44,640 --> 00:02:46,640
+deporte en el sentido en que el ejercicio tanto de
+
+49
+00:02:46,640 --> 00:02:49,480
+estiramiento muscular como de fortalecimiento muscular ha
+
+50
+00:02:49,480 --> 00:02:52,320
+demostrado disminuir el dolor y ahí uno le explica
+
+51
+00:02:52,320 --> 00:02:54,960
+a ese que quiere si le va a doler todo el cuerpo, que
+
+52
+00:02:54,960 --> 00:02:59,080
+sea porque hizo ejercicio y no porque sí. Sirven los
+
+53
+00:02:59,080 --> 00:03:01,760
+neuromoduladores por si acaso y hay que saber los
+
+54
+00:03:01,760 --> 00:03:04,440
+más utilizados que han demostrado servir son los
+
+55
+00:03:04,440 --> 00:03:07,000
+antidepresivos tricíclicos, ejemplo la metriotilina en
+
+56
+00:03:07,000 --> 00:03:10,040
+una dosis bajita, aparte de esto sirve la pregabalina,
+
+57
+00:03:10,040 --> 00:03:12,960
+la gabapentina que son los moduladores del dolor
+
+58
+00:03:12,960 --> 00:03:16,160
+también y me sirven los pacientes que tienen con
+
+59
+00:03:16,160 --> 00:03:18,040
+reindicación de los tricíclicos, por ejemplo,
+
+60
+00:03:18,040 --> 00:03:20,840
+porque son cardiópatas o porque son adultos mayores,
+
+61
+00:03:20,880 --> 00:03:23,760
+algunos otros antidepresivos más seguros como la
+
+62
+00:03:23,760 --> 00:03:28,200
+duloxetina o el minal ciprán, que son antidepresivos
+
+63
+00:03:28,200 --> 00:03:31,800
+duales. Como cosa final, recuerden no pedir
+
+64
+00:03:31,800 --> 00:03:34,840
+exámenes de más, no pedir exámenes inútiles. Eso
+
+65
+00:03:34,840 --> 00:03:38,480
+es algo que se enseña mucho al médico al momento
+
+66
+00:03:38,480 --> 00:03:40,040
+de enfrentar la fibromialgia porque es muy
+
+67
+00:03:40,040 --> 00:03:42,680
+frecuente que ocurra. Es un paciente que puede
+
+68
+00:03:42,680 --> 00:03:45,080
+venir con alguna alteración psiquiátrica de base,
+
+69
+00:03:45,080 --> 00:03:48,000
+ser muy demandante, medico muchos síntomas reales
+
+70
+00:03:48,000 --> 00:03:50,880
+que le son muy molesto y que no queda conforme
+
+71
+00:03:50,880 --> 00:03:53,640
+con esa explicación y exige que se le hagan
+
+72
+00:03:53,640 --> 00:03:55,720
+exámenes de más. Y la respuesta es en este
+
+73
+00:03:55,720 --> 00:03:57,600
+caso no hay ningún signo de alarma para pedir
+
+74
+00:03:57,600 --> 00:03:59,920
+ningún examen adicional. Eso es todo.
+
+75
+00:03:59,920 --> 00:04:01,720
+Nos vemos en los siguientes temas. Que estén bien.

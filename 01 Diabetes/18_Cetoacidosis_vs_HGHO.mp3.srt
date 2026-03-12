@@ -1,0 +1,471 @@
+1
+00:00:03,280 --> 00:00:11,280
+Hola, hola, ¿cómo están? Hablemos de las complicaciones agudas de la diabetes, en específico vamos a ver la cetoacidosis diabética y el síndrome hiperglicémico-hiperosmolar
+
+2
+00:00:11,280 --> 00:00:17,280
+que a ambos en la cultura popular o en el lenguaje de los pacientes hablan del coma diabético.
+
+3
+00:00:17,280 --> 00:00:21,280
+Ahora, el coma diabético puede ser también una hipoglicemia, así que, ¡harto cuidado!
+
+4
+00:00:21,280 --> 00:00:28,280
+Empecemos con las diferencias clínicas de ambas, si bien comparten muchas cosas, tienen algunas diferencias que vale la pena saber.
+
+5
+00:00:28,280 --> 00:00:32,280
+Antes sepan que la cetoacidosis suele ser mucho más frecuente en la diabetes tipo 1,
+
+6
+00:00:32,280 --> 00:00:37,280
+en cambio el síndrome hiperglicémico-hiperosmolar suele ser mucho más frecuente en la diabetes tipo 2.
+
+7
+00:00:37,280 --> 00:00:42,280
+Respecto a la clínica de la cetoacidosis, es muy frecuente la sintomatología gastrointestinal,
+
+8
+00:00:42,280 --> 00:00:47,280
+en específico el dolor abdominal, pero puede venir además con náuseas, con vómitos,
+
+9
+00:00:47,280 --> 00:00:53,280
+y es de hecho una de las causas de abdomen agudo, así como algo raro de origen metabólico,
+
+10
+00:00:53,280 --> 00:00:57,280
+así que mucho cuidado con los pacientes que vengan con dolor de guata, jóvenes,
+
+11
+00:00:57,280 --> 00:01:01,280
+con algo medio raro, medio hipotenso, puede ser eventualmente una cetoacidosis.
+
+12
+00:01:01,280 --> 00:01:06,280
+Segundo lugar, algo que no es tan frecuente, pero que es muy característico,
+
+13
+00:01:06,280 --> 00:01:10,280
+el aliento cetónico, un aliento como a manzana que se describe,
+
+14
+00:01:10,280 --> 00:01:15,280
+la respiración de Kussmaul, que es una respiración bien profunda,
+
+15
+00:01:15,280 --> 00:01:21,280
+que es una especie de compensación de la acidosis metabólica que se compensa respiratoriamente
+
+16
+00:01:21,280 --> 00:01:28,280
+intentando excretar más CO2 y de esa manera subir un poquito el pH que está muy bajo.
+
+17
+00:01:28,280 --> 00:01:31,280
+Aparte de esto, es frecuente que venga con compromisos de conciencia,
+
+18
+00:01:31,280 --> 00:01:36,280
+aunque eso no me hace la diferencia con el síndrome hiperglicémico-hiperosmolar,
+
+19
+00:01:36,280 --> 00:01:39,280
+y finalmente es muy frecuente que venga con mucha deshidratación.
+
+20
+00:01:39,280 --> 00:01:43,280
+Pero esto también se ve en el síndrome hiperglicémico-hiperosmolar,
+
+21
+00:01:43,280 --> 00:01:46,280
+que de hecho lo más frecuente es que viene con compromisos de conciencia,
+
+22
+00:01:46,280 --> 00:01:51,280
+ya sea con confusión, con coma, o bien con incluso signos focales,
+
+23
+00:01:51,280 --> 00:01:57,280
+cuando la hormonalidad es demasiado alta, incluso puede venir no solamente con este compromiso
+
+24
+00:01:57,280 --> 00:02:01,280
+de conciencia general, sino que con signos neurológico-focales como emiparesia, por ejemplo.
+
+25
+00:02:01,280 --> 00:02:06,280
+Así que mucho cuidado con un signo focal que va a sugerir un accidente vascular,
+
+26
+00:02:06,280 --> 00:02:11,280
+si es que viene con un hemoglucotés demasiado alto, eventualmente puede ser
+
+27
+00:02:11,280 --> 00:02:14,280
+un síndrome hiperglicémico-hiperosmolar también.
+
+28
+00:02:14,280 --> 00:02:19,280
+Aparte de esto, la deshidratación suele ser mucho mayor en este caso,
+
+29
+00:02:19,280 --> 00:02:26,280
+con una hormonalidad tan alta, eventualmente el paciente pierde mucho líquido a través de la orina
+
+30
+00:02:26,280 --> 00:02:30,280
+o se le sale de las células en general y es algo que puede afectarlo bastante.
+
+31
+00:02:30,280 --> 00:02:34,280
+Y finalmente, dada esta gran deshidratación, puede haber compromiso homodinámico también
+
+32
+00:02:34,280 --> 00:02:36,280
+con hipotensión, con taquicárbida.
+
+33
+00:02:36,280 --> 00:02:41,280
+Algo importante es que existen cuadros mixtos en que mezclan estas dos cosas,
+
+34
+00:02:41,280 --> 00:02:45,280
+incluso hay veces que se cumplen los criterios tanto de la cetoacidosis
+
+35
+00:02:45,280 --> 00:02:47,280
+como del síndrome hiperglicémico-hiperosmolar.
+
+36
+00:02:47,280 --> 00:02:51,280
+Y como otra cosa importante, ambas suelen venir con algún descompensante,
+
+37
+00:02:51,280 --> 00:02:55,280
+ejemplo una infección severa o alguna cosa así, que per se puede venir
+
+38
+00:02:55,280 --> 00:02:59,280
+con el compromiso de conciencia, con el compromiso hemodinámico,
+
+39
+00:02:59,280 --> 00:03:05,280
+así que hay que tener harto cuidado de no confundir la causa con la consecuencia.
+
+40
+00:03:05,280 --> 00:03:09,280
+Ejemplo, el accidente vascular puede generarme también un síndrome
+
+41
+00:03:09,280 --> 00:03:13,280
+hiperglicémico-hiperosmolar, así que aunque tenga el síndrome hiperglicémico-hiperosmolar
+
+42
+00:03:13,280 --> 00:03:17,280
+no puedo descartar el accidente vascular hasta que no haya pedido las imágenes
+
+43
+00:03:17,280 --> 00:03:19,280
+y haber hecho el manejo completo.
+
+44
+00:03:19,280 --> 00:03:23,280
+Siguiendo con esto, veamos los criterios diagnósticos que afortunadamente
+
+45
+00:03:23,280 --> 00:03:27,280
+son muy sencillos porque son iguales al nombre de la cetoacidosis diabética
+
+46
+00:03:27,280 --> 00:03:30,280
+y del síndrome hiperglicémico-hiperosmolar.
+
+47
+00:03:30,280 --> 00:03:35,280
+La parte ceto es que tenga cuerpos cetónicos que estén elevados
+
+48
+00:03:35,280 --> 00:03:39,280
+ya sea en sangre o en orina, habitualmente se miden en ambas partes
+
+49
+00:03:39,280 --> 00:03:43,280
+pero basta con que yo lo mida en una parte y que identifique esta cetonemia
+
+50
+00:03:43,280 --> 00:03:45,280
+como para ya cumplir con ese criterio.
+
+51
+00:03:45,280 --> 00:03:51,280
+En segundo lugar, que venga con acidosis y aquí sí no puede ser cualquier tipo de acidosis,
+
+52
+00:03:51,280 --> 00:03:56,280
+tiene que ser una acidosis importante con un pH menor a 7,3
+
+53
+00:03:56,280 --> 00:03:59,280
+de tipo metabólica, dígase con el bicarbonato bajo,
+
+54
+00:03:59,280 --> 00:04:04,280
+abajo de 15 y en algunas partes sale abajo de 18 mil equivalentes por litro
+
+55
+00:04:04,280 --> 00:04:10,280
+y con un anion gap que esté aumentado en el sentido en que las acidosis metabólicas
+
+56
+00:04:10,280 --> 00:04:13,280
+con anion gap normal habitualmente son por otras causas como por ejemplo
+
+57
+00:04:13,280 --> 00:04:17,280
+diarrea, por falla renal, por ese tipo de cosas, pero en este caso
+
+58
+00:04:17,280 --> 00:04:22,280
+como es por un ácido orgánico distinto, los cetoacidos, en ese caso
+
+59
+00:04:22,280 --> 00:04:26,280
+el anion gap aumenta. Acuérdense que el anion gap habitualmente refleja
+
+60
+00:04:26,280 --> 00:04:33,280
+la presencia de otro ácido orgánico, ejemplo acidosis láctica, acidosis alcohólica,
+
+61
+00:04:33,280 --> 00:04:38,280
+la cetoacidosis diabética, etc. Y finalmente la parte diabética
+
+62
+00:04:38,280 --> 00:04:43,280
+que es que tenga una glicemia arriba de 250, aunque en algunos lugares
+
+63
+00:04:43,280 --> 00:04:47,280
+aparece arriba de 200 y de hecho en pediatría el corte habitualmente
+
+64
+00:04:47,280 --> 00:04:50,280
+es arriba de 200, pero en resumen que haya cuerpos cetónicos,
+
+65
+00:04:50,280 --> 00:04:53,280
+que haya una acidosis metabólica con anion gap aumentado
+
+66
+00:04:53,280 --> 00:04:58,280
+arriba de 12 o al menos arriba de 10 y finalmente que venga con hiperglicemia
+
+67
+00:04:58,280 --> 00:05:02,280
+arriba de 200 que es lo característico de la diabetes. En el caso del síndrome
+
+68
+00:05:02,280 --> 00:05:06,280
+hiperglicémico-hiperosmolar debe ser hiperglicémico con una glicemia
+
+69
+00:05:06,280 --> 00:05:11,280
+arriba de 600 y segundo lugar debe ser hiperosmolar con una
+
+70
+00:05:11,280 --> 00:05:15,280
+osmolaridad plasmática arriba de 320 miliosmoles por litro.
+
+71
+00:05:15,280 --> 00:05:19,280
+Ahora, algo importante es que habitualmente si tengo una glicemia
+
+72
+00:05:19,280 --> 00:05:24,280
+arriba de 600 tengo una hiperosmolaridad de ese tipo, así que con que uno vea
+
+73
+00:05:24,280 --> 00:05:29,280
+la glicemia así de alta ya me puedo ahorrar eventualmente el calcular
+
+74
+00:05:29,280 --> 00:05:34,280
+la osmolaridad plasmática. Recuerden que hay cuadros mixtos que
+
+75
+00:05:34,280 --> 00:05:39,280
+algunas veces son incompletos para una o bien a veces son concordantes
+
+76
+00:05:39,280 --> 00:05:43,280
+con ambos, pero eso no importa mucho porque el manejo es el mismo
+
+77
+00:05:43,280 --> 00:05:47,280
+o casi el mismo que lo vamos a ver en su respectivo video.
+
+78
+00:05:47,280 --> 00:05:52,280
+Ahora, un pequeño recordatorio de fisiotatología antes de terminar
+
+79
+00:05:52,280 --> 00:05:56,280
+este video. Número uno, los cuerpos cetónicos que hay que saber son dos.
+
+80
+00:05:56,280 --> 00:06:01,280
+Uno es el ácido acetoacético o el acetoacetato y en segundo lugar
+
+81
+00:06:01,280 --> 00:06:06,280
+el ácido hidroxibutírico o hidroxibutirato. Esos son, lo ideal
+
+82
+00:06:06,280 --> 00:06:10,280
+es medir los dos en el sentido en que hay algunos cuadros de
+
+83
+00:06:10,280 --> 00:06:14,280
+cetoacidosis que elevan mucho más uno que el otro y si es que yo solamente
+
+84
+00:06:14,280 --> 00:06:17,280
+he medido uno eventualmente puedo tener un falso negativo.
+
+85
+00:06:17,280 --> 00:06:21,280
+Segundo lugar, la osmolaridad plasmática se calculaba con esa fórmula que está ahí
+
+86
+00:06:21,280 --> 00:06:26,280
+2 multiplicado por el sodio más la glicemia dividido por 18
+
+87
+00:06:26,280 --> 00:06:31,280
+y eso era porque el peso molecular de la glucosa es 180
+
+88
+00:06:31,280 --> 00:06:35,280
+así que como para llevarlo a los mil osmoles por litro se divide por 18
+
+89
+00:06:35,280 --> 00:06:39,280
+más el boom dividido por 2,8 porque el peso molecular de la urea
+
+90
+00:06:39,280 --> 00:06:44,280
+era 28. Ahora no importa tanto eso, la fórmula esa aprendásela de memoria
+
+91
+00:06:44,280 --> 00:06:48,280
+pero lo importante es que la osmolaridad plasmática efectiva
+
+92
+00:06:48,280 --> 00:06:52,280
+que es la que me interesa y la que yo tengo que calcular en este caso
+
+93
+00:06:52,280 --> 00:06:56,280
+no toma en cuenta la urea en el sentido en que la urea
+
+94
+00:06:56,280 --> 00:07:00,280
+es un componente apolar que pasa muy fácil la barrera celular
+
+95
+00:07:00,280 --> 00:07:04,280
+la membrana celular así que cuando sube mucho simplemente se va
+
+96
+00:07:04,280 --> 00:07:08,280
+hacia dentro de las células y se estabiliza la osmolaridad en ambos lados.
+
+97
+00:07:08,280 --> 00:07:12,280
+En cambio el sodio y los electrolitos que lo acompañan como el cloro
+
+98
+00:07:12,280 --> 00:07:16,280
+y el bicarbonato y la glicemia tienen más dificultades
+
+99
+00:07:16,280 --> 00:07:20,280
+para entrar y salir de las células y eso hace que determinen la osmolaridad
+
+100
+00:07:20,280 --> 00:07:24,280
+efectiva. Así que ya saben en el síndrome hiperglicémico
+
+101
+00:07:24,280 --> 00:07:28,280
+hiperosmolar tiene que ser mayor a 320 pero calculada de esa forma
+
+102
+00:07:28,280 --> 00:07:32,280
+solamente 2 por el sodio más la glicemia dividido por 18
+
+103
+00:07:32,280 --> 00:07:36,280
+recordándonos que si estaba arriba de 600 lo más probable es que estuviera
+
+104
+00:07:36,280 --> 00:07:40,280
+con la hiperosmolaridad igual. Finalmente el anion gap
+
+105
+00:07:40,280 --> 00:07:44,280
+como se calculaba esto? Se calculaba con el sodio menos el cloro
+
+106
+00:07:44,280 --> 00:07:48,280
+menos el bicarbonato en el sentido en que el sodio es el principal
+
+107
+00:07:48,280 --> 00:07:52,280
+cation o ion positivo en cambio el cloro y el bicarbonato
+
+108
+00:07:52,280 --> 00:07:56,280
+son los dos principales aniones digamos
+
+109
+00:07:56,280 --> 00:08:00,280
+los iones negativos y obviamente la diferencia entre el sodio
+
+110
+00:08:00,280 --> 00:08:04,280
+y los otros dos aniones va a ser el anion gap que va a estar ocupada por
+
+111
+00:08:04,280 --> 00:08:08,280
+otros ácidos por otros aniones que obviamente cuando hay presencia
+
+112
+00:08:08,280 --> 00:08:12,280
+de algún ácido orgánico esto aumenta y se aumenta el gap
+
+113
+00:08:12,280 --> 00:08:16,280
+así que aumenta el anion gap en estas acidosis causadas
+
+114
+00:08:16,280 --> 00:08:20,280
+por ácidos orgánicos en general. Y bueno así que acuérdense
+
+115
+00:08:20,280 --> 00:08:24,280
+la fisioterapia es algo que se puede olvidar pero hay que
+
+116
+00:08:24,280 --> 00:08:28,280
+recordarla aunque sea un poquito y vamos a ver en el siguiente video el manejo
+
+117
+00:08:28,280 --> 00:08:32,280
+específico de estas dos complicaciones del acetoacidosis y del síndrome hiperglicémico
+
+118
+00:08:32,280 --> 00:08:34,280
+que nos vemos.

@@ -1,0 +1,171 @@
+1
+00:00:00,000 --> 00:00:08,130
+Hablemos del hipotiroidismo en el embarazo muy brevemente, recordando que la importancia
+
+2
+00:00:08,130 --> 00:00:14,210
+es que se asocia a que haya una alteración o algún daño en el desarrollo cerebral
+
+3
+00:00:14,210 --> 00:00:15,210
+del feto.
+
+4
+00:00:15,210 --> 00:00:19,330
+Así que es muy importante diagnosticarlo a tiempo y se hace screening con TCH a todas
+
+5
+00:00:19,330 --> 00:00:25,890
+las mujeres embarazadas y en segundo lugar habitualmente aumentan un poco los requerimientos
+
+6
+00:00:25,890 --> 00:00:30,610
+de hormonas tiroideas durante el embarazo, eso en un embarazo fisiológico y aplica
+
+7
+00:00:30,610 --> 00:00:33,610
+también al caso de que haya un diagnóstico de hipotiroidismo.
+
+8
+00:00:33,610 --> 00:00:37,210
+¿Qué evidencia hay respecto a las recomendaciones que vamos a dar?
+
+9
+00:00:37,210 --> 00:00:42,530
+La verdad que bastante débil, pero ante la angustia que produce este riesgo del daño
+
+10
+00:00:42,530 --> 00:00:46,930
+cerebral, sumado a que en general las hormonas tiroideas son relativamente seguras
+
+11
+00:00:46,930 --> 00:00:50,930
+durante el embarazo, muchas veces se recomienda darlas, así que vamos a ir viendo qué
+
+12
+00:00:50,930 --> 00:00:54,050
+cosas hacer en cada uno de los escenarios.
+
+13
+00:00:54,050 --> 00:01:00,050
+El manejo en general, y esto hay que saberlo, tiene como objetivo una TCH más estricta
+
+14
+00:01:00,130 --> 00:01:06,130
+que no va entre 0,4 y 4, sino que va entre 0,4 y 2,5, así que si es que está con
+
+15
+00:01:06,130 --> 00:01:11,130
+una TCH que está en 3, por ejemplo, se suele aumentar la dosis de leotiroxida.
+
+16
+00:01:11,130 --> 00:01:16,130
+Pero vamos viendo lo que ocurre según el resultado de la TCH en screening.
+
+17
+00:01:16,130 --> 00:01:21,130
+Si es que la TCH en screening está en el rango que yo busco, o sea, abajo de
+
+18
+00:01:21,130 --> 00:01:26,130
+2,5 y la T4 libre está normal, en ese caso el diagnóstico es un embarazo sano
+
+19
+00:01:26,210 --> 00:01:30,210
+y la conducta es simplemente observar, no pasa nada, está normal, está dentro de
+
+20
+00:01:30,210 --> 00:01:35,210
+rango. Si es que está entre 2,6 y 4 con una T4 libre que está normal, ahí queda
+
+21
+00:01:35,210 --> 00:01:39,210
+la duda cuál es el diagnóstico. Será un hipotiroidismo subclínico, tomando en
+
+22
+00:01:39,210 --> 00:01:43,210
+cuenta que pusimos el corte en 2,5, o será un embarazo normal, tomando en
+
+23
+00:01:43,210 --> 00:01:47,210
+cuenta que está dentro del rango normal para una mujer no embarazada, y la
+
+24
+00:01:47,210 --> 00:01:51,210
+verdad es que la conducta ahí queda la duda. Algunos dicen hay que tratarlo
+
+25
+00:01:51,290 --> 00:01:56,090
+igual, el riesgo del daño cerebral es mayor que el riesgo de la hormona
+
+26
+00:01:56,090 --> 00:01:59,090
+tiroides, así que se va a tratar igual aunque no tenga ninguna evidencia,
+
+27
+00:01:59,090 --> 00:02:03,090
+mientras otros dicen no hay evidencia, obsérvelo no más.
+
+28
+00:02:03,090 --> 00:02:09,090
+Si es que estuviera arriba de 4 con la T4 libre normal, en ese caso una
+
+29
+00:02:09,090 --> 00:02:13,090
+TCH elevada con T4 libre normal, es diagnóstica de un hipotiroidismo
+
+30
+00:02:13,090 --> 00:02:16,090
+subclínico y habíamos dicho que en el embarazo hay que tratarlo si o si,
+
+31
+00:02:16,090 --> 00:02:20,090
+así que ahí no queda ninguna duda. La duda, por lo tanto, está en ese
+
+32
+00:02:20,090 --> 00:02:26,090
+caso en la TCH entre 2,6 y 4. Y finalmente, si es que está con una
+
+33
+00:02:26,090 --> 00:02:30,090
+TCH que está arriba de 4 con la T4 libre que está baja, el diagnóstico
+
+34
+00:02:30,090 --> 00:02:34,090
+sin ninguna duda es un hipotiroidismo propiamente tal y ahí hay que tratarlo
+
+35
+00:02:34,090 --> 00:02:38,090
+sí o sí con leotiroxina. Si es que alguien tiene un diagnóstico
+
+36
+00:02:38,090 --> 00:02:42,090
+previo de hipotiroidismo y luego de eso se embaraza, el diagnóstico
+
+37
+00:02:42,090 --> 00:02:46,090
+sigue siendo hipotiroidismo y el cambio que se suele hacer acá son
+
+38
+00:02:46,090 --> 00:02:51,090
+dos cosas. Número uno, se suele aumentar en un 30% la dosis y número dos,
+
+39
+00:02:51,090 --> 00:02:55,090
+lo más importante, se ajusta luego esta dosis para que la TCH esté entre
+
+40
+00:02:55,090 --> 00:02:59,090
+0,4 y 2,5 que habíamos dicho que era el objetivo en este caso.
+
+41
+00:02:59,090 --> 00:03:04,090
+Eso es todo, algo complicado, pero en resumen va a haber un hipotiroidismo
+
+42
+00:03:04,090 --> 00:03:09,090
+si es que está con la TCH arriba de 2,5 y hay que tratarlo en el
+
+43
+00:03:09,090 --> 00:03:11,090
+embarazo. Que estén bien.

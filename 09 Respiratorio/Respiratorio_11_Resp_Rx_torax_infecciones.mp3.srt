@@ -1,0 +1,679 @@
+1
+00:00:03,570 --> 00:00:08,210
+Ahora, ¿cómo están? Veamos radiografías de tórax en las distintas infecciones.
+
+2
+00:00:08,210 --> 00:00:13,290
+Sepan que la radiografía de tórax es un examen que el médico general debe saber interpretar con bastante detalle.
+
+3
+00:00:13,290 --> 00:00:18,210
+Aquí no vamos a ver todos los tipos de radiografías, simplemente las relacionadas con infecciones respiratorias.
+
+4
+00:00:18,210 --> 00:00:30,610
+Y la fuente es radiopedia.org, que es una página web que tiene imágenes de distintos exámenes radiológicos, ultrasonográficos, etcétera,
+
+5
+00:00:30,610 --> 00:00:34,650
+que son bastante buenos y que afortunadamente es de libre acceso.
+
+6
+00:00:34,650 --> 00:00:38,090
+Así que gracias, radiopedia, por permitirme hacer esta clase.
+
+7
+00:00:38,090 --> 00:00:47,170
+Ahora, empecemos con esto. Uno dice ¿qué tiene? Y uno dice, entrecierro los ojos un poquito y veo que hay una mancha blanca en esa zona que está ahí.
+
+8
+00:00:47,170 --> 00:00:52,090
+Así que lo que tiene es una neumonía. Esa es un síndrome neumónico.
+
+9
+00:00:52,090 --> 00:00:58,370
+Uno se queda con lo grande. Eventualmente puede que tenga alguna otra cosa, pero si uno ve lo evidente uno dice, en este caso, hay una neumonía.
+
+10
+00:00:58,410 --> 00:01:06,610
+Ahora, habitualmente viene esto con un cuadro clínico y se me dicen fiebre, tos y expectoración y los crépitos ahí uno dice, bueno, neumonía.
+
+11
+00:01:06,610 --> 00:01:10,930
+En este caso, fíjense, la silueta cardíaca del lado derecho se borró.
+
+12
+00:01:10,930 --> 00:01:15,650
+Así que lo más probable es que sea del lóbulo medio y esa es la ubicación clásica de las neumonías del lóbulo medio.
+
+13
+00:01:15,650 --> 00:01:19,250
+Así que ese sería el diagnóstico que hay acá.
+
+14
+00:01:19,250 --> 00:01:25,290
+Bueno, me imagino que lo vieron rápido, pero es una lateral y se ve ahí nuevamente que hay una neumonía.
+
+15
+00:01:25,290 --> 00:01:27,890
+Eso también es una neumonía clásica del lóbulo medio.
+
+16
+00:01:27,890 --> 00:01:37,210
+Así se ve y fíjense, las neumonías lomares, que son las clásicas por el neumococo, afectan un lóbulo y quedan como bien delimitadas hasta esa zona.
+
+17
+00:01:37,210 --> 00:01:42,050
+Así que sería la misma neumonía anterior, pero mirada en la reografía lateral.
+
+18
+00:01:42,050 --> 00:01:46,010
+¿Qué es eso? ¿Qué es lo que se ve ahí? Un poco difícil, ¿cierto?
+
+19
+00:01:46,010 --> 00:01:53,370
+Por un lado, veo la mancha blanca grande, que es media difusa en varias partes porque hay algo de engrosamiento bronquial también.
+
+20
+00:01:53,370 --> 00:01:56,690
+Pero está en esa zona y uno dice, bueno, ¿y eso qué lóbulo es?
+
+21
+00:01:56,970 --> 00:02:04,210
+Fíjense, la silueta cardíaca se ve en el lado derecho sin ningún problema, así que no es una neumonía del lóbulo medio.
+
+22
+00:02:04,210 --> 00:02:09,810
+Y la silueta diafragmática se ve, así que tampoco es una neumonía del lóbulo inferior,
+
+23
+00:02:09,810 --> 00:02:18,210
+sino que es una neumonía de la parte de más adelante del lóbulo superior, o sea, de la parte de más abajo, perdón, del lóbulo superior.
+
+24
+00:02:18,210 --> 00:02:26,210
+Entonces, fíjense, en este caso es una neumonía del lóbulo superior derecho, pero sin afectación de la parte más apical.
+
+25
+00:02:26,890 --> 00:02:33,050
+¿Qué se ve acá? Nuevamente tengo en este lado algo grande, dos cosas.
+
+26
+00:02:33,050 --> 00:02:39,810
+En el lado izquierdo no hay lóbulo medio, así que la neumonía iba a ser o del lóbulo superior o del lóbulo inferior, nada más.
+
+27
+00:02:39,810 --> 00:02:47,810
+La silueta cardíaca izquierda está borrada, así que lo que cubre la silueta derecha, dijimos que era el lóbulo medio.
+
+28
+00:02:47,810 --> 00:02:53,090
+Lo que cubre la silueta izquierda, en cambio, es la língula, que es parte del lóbulo superior.
+
+29
+00:02:53,210 --> 00:03:00,810
+Así que, en este caso, lo que tiene es una neumonía del lóbulo superior, porque fíjense que la silueta cardíaca está borrada,
+
+30
+00:03:00,810 --> 00:03:06,010
+en cambio, la silueta diafragmática que se ve abajo está absolutamente conservada.
+
+31
+00:03:06,010 --> 00:03:16,410
+Así que sería nuevamente una neumonía del lóbulo superior, pero con una afectación solamente de la parte más abajo del lóbulo superior.
+
+32
+00:03:16,410 --> 00:03:20,410
+Esto es un poquito difícil, igual que la anterior de acá,
+
+33
+00:03:20,530 --> 00:03:26,130
+pero la verdad es que para el manejo mismo, que es lo que habitualmente se pregunta en las pruebas, da lo mismo.
+
+34
+00:03:26,130 --> 00:03:32,130
+Da lo mismo de qué parte sea la neumonía, hay que dejar la antibiótico y no va a depender de la localización,
+
+35
+00:03:32,130 --> 00:03:38,130
+sino que de la severidad, de la edad, de la comorbididad y de otros antecedentes, finalmente, que antibiótico y que manejo le dejo.
+
+36
+00:03:38,130 --> 00:03:45,530
+Ahora, en este caso de acá, se ve esa línea, fíjense, y en esa línea uno dice de ahí hacia arriba está el lóbulo superior,
+
+37
+00:03:45,650 --> 00:03:51,450
+de ahí hacia abajo está el lóbulo inferior, y el lóbulo superior es el que está un poquito más blanco, que está con neumonía,
+
+38
+00:03:51,450 --> 00:03:55,450
+así que es una neumonía del lóbulo superior, en este caso derecho.
+
+39
+00:03:55,450 --> 00:03:57,450
+Ahora, ¿qué es eso?
+
+40
+00:03:57,450 --> 00:04:03,450
+Dice, oh, ni siquiera me dan ningún antecedente, pero se ven ambos pulmones que están afectados,
+
+41
+00:04:03,450 --> 00:04:11,450
+ambos se ven un poquito más blancos, ambos se ven con este patrón como interticial, un poquito de relleno puede haber con esta sombra,
+
+42
+00:04:12,370 --> 00:04:16,370
+así que es una neumonía probablemente por neumociste, ya sí que sería por neumociste girovechi,
+
+43
+00:04:16,370 --> 00:04:21,370
+pero obviamente eso sin ningún problema puede ser por COVID-19 o por micoplasma,
+
+44
+00:04:21,370 --> 00:04:27,370
+y la forma de saber que es una neumonía por neumociste girovechi es que yo tenga algún antecedente adicional,
+
+45
+00:04:27,370 --> 00:04:33,370
+ejemplo, que me diga un paciente con antecedente de baja de peso, de promiscuidad sexual o alguna cosa de ese tipo,
+
+46
+00:04:33,370 --> 00:04:35,370
+o con candidacia oral.
+
+47
+00:04:35,370 --> 00:04:37,370
+En esta imagen sí ya se puede ver un poquito mejor,
+
+48
+00:04:38,290 --> 00:04:43,290
+esta es un ataque y ese es el patrón más característico de la neumonía por neumociste, por si acaso,
+
+49
+00:04:43,290 --> 00:04:49,290
+si se fijan ambos pulmones están con este patrón como un poquito más en vidrio esmerilado,
+
+50
+00:04:49,290 --> 00:04:53,290
+como más blanco, como con un reticulado blanco,
+
+51
+00:04:53,290 --> 00:05:01,290
+así que neumonía por neumociste girovechi más clásico, que fíjense en este caso es distinto al ataque del COVID-19,
+
+52
+00:05:01,290 --> 00:05:04,290
+que lo vamos a ver después, o del COVID-19, perdón, que lo vamos a ver después.
+
+53
+00:05:05,210 --> 00:05:11,210
+¿Qué se ve ahí? Este tiene que ser capaz de verlo, ustedes, y lo que se ve es eso que está ahí.
+
+54
+00:05:11,210 --> 00:05:17,210
+¿Qué es eso? Que tiene, si se fijan, una línea, un nivel hidroaéreo, eso es un absceso pulmonar,
+
+55
+00:05:17,210 --> 00:05:19,210
+así que eso es un poquito más fácil.
+
+56
+00:05:19,210 --> 00:05:24,210
+¿Qué se ve acá? Igualmente se ve que hay algo raro en el lado izquierdo, si se fijan.
+
+57
+00:05:24,210 --> 00:05:30,210
+Para empezar están esas dos cosas que están ahí, más que se ve un poco blanco alrededor,
+
+58
+00:05:31,130 --> 00:05:37,130
+o sea, hay zonas de relleno al violar, más estas dos zonas cavitadas con un nivel hidroaéreo nuevamente,
+
+59
+00:05:37,130 --> 00:05:41,130
+así que es una neumonía que está abcedada y hay dos abscesos pulmonares.
+
+60
+00:05:41,130 --> 00:05:46,130
+¿Qué se ve acá? Está muy fácil, así que vamos a darle dos segundos para verla,
+
+61
+00:05:46,130 --> 00:05:49,130
+y bueno, si bien se ven varias cosas, lo más importante es eso,
+
+62
+00:05:49,130 --> 00:05:54,130
+lo que está en esa zona nuevamente un absceso con el nivel hidroaéreo.
+
+63
+00:05:55,050 --> 00:06:01,050
+Ahora, en este caso, ¿qué hay? Es un poco más difícil, nuevamente tengo esta afectación bilateral
+
+64
+00:06:01,050 --> 00:06:06,050
+con infiltrados, cierto, que en este caso son un poco más intensos en las bases,
+
+65
+00:06:06,050 --> 00:06:12,050
+los bronquios se ven un poquito más engrosados, está este patrón un poco más al violar hacia abajo
+
+66
+00:06:12,050 --> 00:06:17,050
+y un poco más intersticial en el resto, lo más probable es que sea una neumonía por micoplasma,
+
+67
+00:06:17,050 --> 00:06:22,050
+aunque nuevamente eso puede ser una neumonía por neumocistis giroveche sin ningún problema,
+
+68
+00:06:22,970 --> 00:06:27,970
+o puede ser igualmente una neumonía por COVID-19 o por influenza sin ningún problema también,
+
+69
+00:06:27,970 --> 00:06:33,970
+así que va a ser el antecedente, si es que me dicen una paciente de 15 años
+
+70
+00:06:33,970 --> 00:06:37,970
+que está con tos hace tres semanas y que ha ido empeorando y ahora está con disnea,
+
+71
+00:06:37,970 --> 00:06:41,970
+pues una neumonía típica por micoplasma y la conducta es dele inmediatamente
+
+72
+00:06:41,970 --> 00:06:44,970
+un macrólido como la citromisita.
+
+73
+00:06:44,970 --> 00:06:47,970
+¿Qué es esto? Esta es una imagen bien clásica, hay que saberla,
+
+74
+00:06:48,890 --> 00:06:52,890
+el paciente llegó grave y lleva dos meses con síntomas y aparte vive en la calle,
+
+75
+00:06:52,890 --> 00:06:54,890
+pues es una tuberculosis más clásica.
+
+76
+00:06:54,890 --> 00:06:58,890
+Fíjense que en este caso hay un patrón de relleno al violar multifocal
+
+77
+00:06:58,890 --> 00:07:01,890
+y lo más importante y mucho compromiso de los lóbulos superiores,
+
+78
+00:07:01,890 --> 00:07:04,890
+que es una de las cosas más características de la tuberculosis,
+
+79
+00:07:04,890 --> 00:07:06,890
+así que ese es el diagnóstico ahí.
+
+80
+00:07:06,890 --> 00:07:10,890
+¿Qué es esto? Uno dice, bueno, la radiografía está un poco blanca en general,
+
+81
+00:07:10,890 --> 00:07:13,890
+el corazón se ve un poquito ancho, el mediastino,
+
+82
+00:07:14,810 --> 00:07:17,810
+si se fijan está ancho en este caso porque hay adenopatía,
+
+83
+00:07:17,810 --> 00:07:21,810
+aparte de eso se ve esto que está acá arriba que es una cavitación
+
+84
+00:07:21,810 --> 00:07:25,810
+y lo que tiene nuevamente es una tuberculosis, en este caso cavitada.
+
+85
+00:07:25,810 --> 00:07:31,810
+El mediastino se ve ancho y el resto, algo de fibrosis hay en las zonas más abajo,
+
+86
+00:07:31,810 --> 00:07:35,810
+en el lóbulo derecho también, así que al lado de la aurícula derecha
+
+87
+00:07:35,810 --> 00:07:39,810
+se ven algunas bandas de fibrosis,
+
+88
+00:07:39,810 --> 00:07:43,810
+pero lo más fácil de ver es la cavitación que está arriba y el mediastino ancho.
+
+89
+00:07:44,730 --> 00:07:45,730
+¿Qué es eso?
+
+90
+00:07:45,730 --> 00:07:50,730
+Si se fijan, se parece bastante a la anterior, nuevamente hay hartas zonas con fibrosis,
+
+91
+00:07:50,730 --> 00:07:56,730
+hay harto como engrosamiento intersticial, los hílios están bien prominentes también,
+
+92
+00:07:56,730 --> 00:08:00,730
+el mediastino tiene alguna zona en que queda la duda si es que hay una adenopatía o no,
+
+93
+00:08:00,730 --> 00:08:03,730
+pero lo más fácil de ver son esas cosas que están allá arriba,
+
+94
+00:08:03,730 --> 00:08:08,730
+que nuevamente son cavitaciones, así que lo que tiene es una TBC cavitada.
+
+95
+00:08:08,730 --> 00:08:12,730
+Ahora, si me dicen que tiene una clínica de un absceso, eventualmente pueden ser abscesos,
+
+96
+00:08:12,730 --> 00:08:17,730
+pero esa imagen, fíjense, sin el nivel hidroaéreo es más de una cavitación que de un absceso.
+
+97
+00:08:18,730 --> 00:08:22,730
+¿Qué es eso? No está tan fácil, la imagen que hay que ver es esa,
+
+98
+00:08:22,730 --> 00:08:25,730
+fíjense, no es un absceso porque no viene con un nivel hidroaéreo,
+
+99
+00:08:25,730 --> 00:08:29,730
+no es la cavitación más clásica porque tiene algo adentro,
+
+100
+00:08:29,730 --> 00:08:33,730
+esto de acá es lo que se conoce como aspergilloma,
+
+101
+00:08:33,730 --> 00:08:35,730
+y es algo que se ha preguntado algún par de veces,
+
+102
+00:08:35,730 --> 00:08:39,730
+y el aspergilloma tiene esa imagen, así que apréndansela bien,
+
+103
+00:08:39,730 --> 00:08:43,730
+esa es la imagen más característica y habitualmente se ve en un paciente que
+
+104
+00:08:43,730 --> 00:08:46,730
+tenía antes una cavitación por una tuberculosis,
+
+105
+00:08:46,730 --> 00:08:48,730
+ejemplo, una tuberculosis que fue tratada,
+
+106
+00:08:48,730 --> 00:08:51,730
+y que empieza ahora con la misma clínica de la tuberculosis, igualitas,
+
+107
+00:08:51,730 --> 00:09:00,730
+y fiebre, baja de peso, tos, broncorrea, y aparte de eso, hemoptisis,
+
+108
+00:09:00,730 --> 00:09:04,730
+pero que al hacerle la radiografía se ve eso y las vaciloscopías están negativas,
+
+109
+00:09:04,730 --> 00:09:08,730
+y en ese caso uno dice, esto no es una nueva tuberculosis que se reinfectó,
+
+110
+00:09:08,730 --> 00:09:12,730
+que se reactivó, sino que es una infección por aspergilloma.
+
+111
+00:09:12,730 --> 00:09:17,730
+¿Qué es eso, radiografía, que casi ya no se ve pero que es bien característica?
+
+112
+00:09:17,730 --> 00:09:22,730
+Esa es una tuberculosis miliar, y la característica es que hay un patrón
+
+113
+00:09:22,730 --> 00:09:28,730
+bien difuso pero puntiforme, son como un puntito al lado del otro,
+
+114
+00:09:28,730 --> 00:09:32,730
+son como miles de puntos, miles de granulomas que se forman en los pulmones,
+
+115
+00:09:32,730 --> 00:09:35,730
+esa es la imagen clásica de la TBC miliar.
+
+116
+00:09:35,730 --> 00:09:38,730
+Ahora, ¿hay otras cosas que pueden verse así?
+
+117
+00:09:38,730 --> 00:09:46,730
+Pues sí, algunas de las neumopatías interticiales o de las neumopatías
+
+118
+00:09:46,730 --> 00:09:51,730
+granulomatosas, eventualmente se pueden ver muy muy similar a eso.
+
+119
+00:09:51,730 --> 00:09:56,730
+¿Qué es eso? Es un cuadro en que tiene afectación bilateral,
+
+120
+00:09:56,730 --> 00:10:00,730
+mayor en las bases, tiene como bastante infiltrado,
+
+121
+00:10:00,730 --> 00:10:03,730
+se ven ahí algunos vasos sanguíneos y algunos bronquios también,
+
+122
+00:10:03,730 --> 00:10:06,730
+pero lo más importante es esta infiltración bilateral,
+
+123
+00:10:06,730 --> 00:10:10,730
+y si les digo como antecedente, es un paciente de 80 años,
+
+124
+00:10:10,730 --> 00:10:14,730
+diabético hipertenso que empezó con tos hace cuatro o cinco días
+
+125
+00:10:14,730 --> 00:10:17,730
+y ahora está con una dificultad respiratoria muy muy grave,
+
+126
+00:10:17,730 --> 00:10:20,730
+pues en ese caso sería una neumonía por COVID-19.
+
+127
+00:10:20,730 --> 00:10:23,730
+En este caso no lo es, es una neumonía por influenza,
+
+128
+00:10:23,730 --> 00:10:27,730
+pero ¿por qué? Porque la neumonía por influenza en la radiografía
+
+129
+00:10:27,730 --> 00:10:30,730
+se ve exactamente igual que la de COVID-19.
+
+130
+00:10:30,730 --> 00:10:34,730
+Y si les digo en cambio, es un paciente que viene con 20 años
+
+131
+00:10:34,730 --> 00:10:38,730
+y que está con tos, fiebre, miálgica, expectoración,
+
+132
+00:10:38,730 --> 00:10:41,730
+muy escasa y luego de eso evoluciona con dificultad respiratoria,
+
+133
+00:10:41,730 --> 00:10:44,730
+puede ser una neumonía por influenza, pero al menos en contexto de pandemia,
+
+134
+00:10:44,730 --> 00:10:47,730
+lo más probable es que sea una neumonía por COVID-19 también.
+
+135
+00:10:47,730 --> 00:10:51,730
+Y esa imagen podría ser sin ningún problema un neumocistis girobeci también.
+
+136
+00:10:51,730 --> 00:10:54,730
+Ahora, en este caso sigue siendo una neumonía por influenza,
+
+137
+00:10:54,730 --> 00:10:58,730
+se ven los pulmones bastante blancos, en este caso una neumonía severa,
+
+138
+00:10:58,730 --> 00:11:02,730
+exactamente igual se puede ver una neumonía por COVID-19.
+
+139
+00:11:02,730 --> 00:11:06,730
+Ahora, esta ya sí es una neumonía por COVID-19, fíjense,
+
+140
+00:11:06,730 --> 00:11:10,730
+es igual a la de la tuberculosis, es igual a la de la influenza,
+
+141
+00:11:10,730 --> 00:11:14,730
+ahora en este caso el cuadro clínico es el que me hace la diferencia,
+
+142
+00:11:14,730 --> 00:11:18,730
+y la COVID grave eventualmente se ve así, con mucho relleno,
+
+143
+00:11:18,730 --> 00:11:21,730
+con mucha afectación multifocal y difusa también,
+
+144
+00:11:21,730 --> 00:11:25,730
+no solamente con el patrón intersticial como más característico
+
+145
+00:11:25,730 --> 00:11:29,730
+de las infecciones virales, sino que aparte con estas zonas de relleno
+
+146
+00:11:29,730 --> 00:11:33,730
+que incluso puede evolucionar a un pulmón absolutamente blanco.
+
+147
+00:11:33,730 --> 00:11:38,730
+Ahora, en este caso sí no queda ninguna duda, esto es una COVID-19,
+
+148
+00:11:38,730 --> 00:11:41,730
+en la TAC sí está esta imagen bien característica,
+
+149
+00:11:41,730 --> 00:11:44,730
+que si se fijan se ven zonas blancas multifocales
+
+150
+00:11:44,730 --> 00:11:47,730
+que están alternadas con otras zonas que están limpias,
+
+151
+00:11:47,730 --> 00:11:51,730
+así que ahí sí no queda ninguna duda, eso no es influenza,
+
+152
+00:11:51,730 --> 00:11:53,730
+eso es COVID-19 seguro.
+
+153
+00:11:53,730 --> 00:11:58,730
+Lo mismo ocurre en este otro corte, que es un corte coronal,
+
+154
+00:11:58,730 --> 00:12:02,730
+en el cual se ven nuevamente en varios segmentos pulmonares
+
+155
+00:12:02,730 --> 00:12:05,730
+que está un infiltrado con una zona de relleno,
+
+156
+00:12:05,730 --> 00:12:08,730
+así que es COVID-19, y ¿qué es eso?
+
+157
+00:12:08,730 --> 00:12:10,730
+Fíjense, se ven los pulmones,
+
+158
+00:12:10,730 --> 00:12:13,730
+los pulmones deberían verse habitualmente de color negro,
+
+159
+00:12:13,730 --> 00:12:15,730
+como lo que está más cerca del corazón,
+
+160
+00:12:15,730 --> 00:12:17,730
+y todas esas zonas que están en la periferia,
+
+161
+00:12:17,730 --> 00:12:20,730
+que están con manchas en el lado izquierdo,
+
+162
+00:12:20,730 --> 00:12:23,730
+y que están ya más claras en el lado derecho,
+
+163
+00:12:23,730 --> 00:12:28,730
+en la zona más externa, más cercana a la superficie pulmonar,
+
+164
+00:12:28,730 --> 00:12:30,730
+pues eso es COVID-19 también,
+
+165
+00:12:30,730 --> 00:12:33,730
+y eso es una de las imágenes bien características
+
+166
+00:12:33,730 --> 00:12:35,730
+que hay que saber identificar.
+
+167
+00:12:35,730 --> 00:12:38,730
+Y bueno, esa fue esta clase, espero que haya quedado clara.
+
+168
+00:12:38,730 --> 00:12:42,730
+En el examen real tengan alto cuidado que las reografías son bastante chicas,
+
+169
+00:12:42,730 --> 00:12:47,730
+así que ahí hay que ponerle mucho ojo al enunciado clínico también.
+
+170
+00:12:47,730 --> 00:12:48,730
+¡Que estén bien!

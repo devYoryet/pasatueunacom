@@ -1,0 +1,323 @@
+1
+00:00:03,180 --> 00:00:07,860
+En esta clase vamos a hablar del SAUS, del famoso síndrome de apnea e hipopnea del sueño,
+
+2
+00:00:07,860 --> 00:00:12,660
+y sepan que en su clínica lo más importante es la somnolencia, que anda con somnolencia
+
+3
+00:00:12,660 --> 00:00:18,660
+durna. Se describe como sueño no reparador o poco reparador, más desconcentración,
+
+4
+00:00:18,660 --> 00:00:23,180
+por ejemplo, esto puede generar accidentes de tránsito, que se anda quedando dormido en el
+
+5
+00:00:23,180 --> 00:00:27,900
+trabajo, etcétera. Ahora muchas veces se confunde con otros síntomas como ejemplo
+
+6
+00:00:27,900 --> 00:00:34,020
+depresión o astenia, y lo que tiene en verdad es sueño. Segundo lugar, es muy frecuente que
+
+7
+00:00:34,020 --> 00:00:40,460
+venga con roncopatía o con la descripción por parte de la persona que duerme al lado del
+
+8
+00:00:40,460 --> 00:00:48,060
+paciente o de la paciente, cierto, con que se obstruye, que hace gasping, que hace apneas o
+
+9
+00:00:48,060 --> 00:00:53,460
+que ronca muy fuerte, y otras veces simplemente llega por las complicaciones, ejemplo llega
+
+10
+00:00:53,460 --> 00:00:58,820
+con poliglobulia y durante el estudio resulta que tiene una amenada del sueño, o con una
+
+11
+00:00:58,820 --> 00:01:03,100
+hipertensión arterial secundaria que no responde muy bien al tratamiento farmacológico.
+
+12
+00:01:03,100 --> 00:01:08,700
+Ahora, los factores de riesgo más importantes son esos tres, que sea hombre, que tenga
+
+13
+00:01:08,700 --> 00:01:15,620
+obesidad o sobrepeso, y la edad, mayor edad es más frecuente, más prevalente la amenada
+
+14
+00:01:15,620 --> 00:01:21,180
+del sueño. El diagnóstico se hace con la clínica por un lado, pero más la polisomnografía,
+
+15
+00:01:21,180 --> 00:01:26,220
+ese es el gold standard, es el examen de elección, y vamos a ver que lo ideal es
+
+16
+00:01:26,220 --> 00:01:31,140
+pedirlo directamente con titulación de CPAP, en el sentido en que el CPAP, que es esta máquina
+
+17
+00:01:31,140 --> 00:01:37,260
+que mete aire a presión positiva, suele ser el tratamiento definitivo de la mayoría de los
+
+18
+00:01:37,260 --> 00:01:42,300
+casos un poco más severos o que no responden, y lo ideal es que la polisomnografía
+
+19
+00:01:42,300 --> 00:01:47,220
+inmediatamente se haga, como es un examen caro, con algo que ya me permita el manejo
+
+20
+00:01:47,260 --> 00:01:51,380
+también de terminarlo por anticipación. O sea, la polisomnografía sola es solo
+
+21
+00:01:51,380 --> 00:01:56,900
+diagnóstica, la polisomnografía con titulación de CPAP es un poquito más cara y es
+
+22
+00:01:56,900 --> 00:02:02,140
+diagnóstica y terapéutica o al menos me avanza en el tratamiento. Ahora, los tres tipos
+
+23
+00:02:02,140 --> 00:02:07,620
+de eventos que se miden acá son las apneas, las hipopneas y los despertares relacionados
+
+24
+00:02:07,620 --> 00:02:13,780
+a obstrucción o a hipoxia. Y en el caso de que cualquiera de estas tres cosas ocurra
+
+25
+00:02:13,780 --> 00:02:18,820
+más de cinco veces por hora, o sea, más de una vez cada 12 minutos en promedio,
+
+26
+00:02:18,820 --> 00:02:23,060
+y sea un paciente que tiene síntomas, que viene con la somnolencia, que repito,
+
+27
+00:02:23,060 --> 00:02:27,820
+la somnolencia es el síntoma más importante en el sábado, pues en ese caso hago el
+
+28
+00:02:27,820 --> 00:02:33,180
+diagnóstico y si es asintomático, ejemplo estoy estudiando una polilogulia o un paciente
+
+29
+00:02:33,180 --> 00:02:37,100
+que ronca pero que no tiene somnolencia, en ese caso se exige que tenga por lo menos
+
+30
+00:02:37,100 --> 00:02:44,180
+15 de estos eventos por hora, o sea, uno en promedio cada cuatro minutos. La polisonografía
+
+31
+00:02:44,180 --> 00:02:47,900
+según el número de eventos por hora me sirve también para ver la severidad, va a ser leve
+
+32
+00:02:47,900 --> 00:02:52,820
+si tiene menos de 15, va a ser severo si es que tiene más de 30, uno cada dos minutos es algo
+
+33
+00:02:52,820 --> 00:02:59,220
+severo y va a ser moderado si está entre medio, entre 15 y 30, desde 15 y 30 incluidos.
+
+34
+00:02:59,540 --> 00:03:07,060
+Ahora, sirven estos test del hogar, que hay unas especies de polisonografías que no se hacen
+
+35
+00:03:07,060 --> 00:03:11,660
+en el hospital y por lo tanto son mucho más baratas y que se puede hacer con un equipo
+
+36
+00:03:11,660 --> 00:03:17,580
+transportable y la verdad es que sí sirven, pero no se usan en todos los pacientes, se usan
+
+37
+00:03:17,580 --> 00:03:22,020
+en general en pacientes que uno sospecha que no están leves en el sentido en que tienen
+
+38
+00:03:22,020 --> 00:03:26,900
+una sensibilidad un poco más bajo en los cuadros leves, segundo lugar que no está
+
+39
+00:03:26,900 --> 00:03:31,460
+complicada, dado que si viene con alguna complicación lo ideal es estudiarlo con el
+
+40
+00:03:31,460 --> 00:03:35,900
+Gold Standard y que no se sospeche ninguna otra alteración sino que solamente Saos,
+
+41
+00:03:35,900 --> 00:03:40,260
+si que se sospecha que viene con narcolepsia o con alguna otra alteración del sueño,
+
+42
+00:03:40,260 --> 00:03:45,060
+pues en ese caso hay que hacer la polisonografía porque mide más variables y es un poquito
+
+43
+00:03:45,060 --> 00:03:50,660
+más fidedigna y por último tampoco lo puedo hacer en algún paciente que tiene un riesgo
+
+44
+00:03:50,660 --> 00:03:55,100
+muy alto en el caso que se quede dormido, ejemplo el piloto del avión o el chofer del
+
+45
+00:03:55,100 --> 00:03:59,420
+bus, en ese caso obviamente se hace la polisonografía para estar totalmente seguro.
+
+46
+00:03:59,420 --> 00:04:06,740
+¿Cuál es el manejo del Saos? Pues lo más básico, la etapa uno es la educación y el
+
+47
+00:04:06,740 --> 00:04:11,100
+cambio en el estilo de vida y dentro de eso está el bajar de peso, el ejercicio,
+
+48
+00:04:11,100 --> 00:04:16,700
+sea el manejo de los factores de riesgo, aparte de esto el cambiar la posición al dormir,
+
+49
+00:04:16,700 --> 00:04:24,020
+pero esto solamente me sirve en el caso de las amneas asociadas a alguna posición que lo
+
+50
+00:04:24,020 --> 00:04:30,780
+más frecuente es que al dormir boca arriba, al dormir en supino tenga más Saos que al dormir
+
+51
+00:04:30,780 --> 00:04:36,180
+de lado o al dormir en prono, así que eventualmente si es que se asocia mucho con eso se hace
+
+52
+00:04:36,180 --> 00:04:43,620
+alguna educación para que duerma ahora de lado, evitar el consumo de alcohol y de algunos
+
+53
+00:04:43,620 --> 00:04:49,340
+fármacos como las benzodiazepinas durante la noche en el sentido en que esto aumenta en
+
+54
+00:04:49,340 --> 00:04:55,500
+el número de amneas y aumentan la relajación también de la musculatura de la vía aérea y
+
+55
+00:04:55,500 --> 00:05:01,500
+finalmente el tener algo de educación respecto al cuidado al manejar, ejemplo alguien que está
+
+56
+00:05:01,500 --> 00:05:07,420
+muy mal manejado que anda con mucha somnolencia uno le dice intente no manejar al menos hasta
+
+57
+00:05:07,420 --> 00:05:13,060
+que se haya manejado esto un poco mejor dado que puede tener un accidente. De segunda línea
+
+58
+00:05:13,060 --> 00:05:19,460
+está el CPAP ahora el CPAP se deja de entrada cuando es severa así que tiene 30 eventos por
+
+59
+00:05:19,460 --> 00:05:25,180
+hora o más o más de 30 en ese caso se va con CPAP sí o sí igualmente cuando no responde
+
+60
+00:05:25,180 --> 00:05:30,860
+al cambio en el estilo de vida en un periodo razonable en tres meses por ejemplo o antes
+
+61
+00:05:30,860 --> 00:05:35,260
+incluso si que tiene demasiados síntomas y finalmente cuando no tengo ninguna causa que
+
+62
+00:05:35,260 --> 00:05:42,140
+sea corregible ejemplo tengo alguien que es delgado y que hace deporte y que aún así está
+
+63
+00:05:42,140 --> 00:05:46,260
+con una amnida del sueño en ese caso no le puedo pedir que cambie su estilo de vida porque
+
+64
+00:05:46,260 --> 00:05:53,300
+su estilo de vida ya es adecuado así que el CPAP de entrada. Ahora existen unos dispositivos
+
+65
+00:05:53,300 --> 00:05:58,740
+orales que eventualmente son una alternativa al CPAP el CPAP es incómodo porque es una
+
+66
+00:05:58,740 --> 00:06:04,180
+máquina que suena que le va metiendo aire y que si bien le cambia la vida al paciente que
+
+67
+00:06:04,180 --> 00:06:08,460
+anda con muchos sueños muy cansado y que se siente mal y que luego se siente bastante
+
+68
+00:06:08,460 --> 00:06:14,020
+mejor eventualmente puede molestar a la pareja aunque bueno se estaba acostumbrada a los ronquidos
+
+69
+00:06:14,020 --> 00:06:18,980
+que sonaban muy fuerte eventualmente se acostumbra también al sonido del CPAP que suena un
+
+70
+00:06:18,980 --> 00:06:24,780
+poquito menos pero son una buena alternativa para las personas que uno piensa que no quieren
+
+71
+00:06:24,780 --> 00:06:30,840
+el CPAP eventualmente se puede intentar el dispositivo oral sabiendo que es algo
+
+72
+00:06:30,840 --> 00:06:36,620
+mucho más sencillo y que tiene una eficacia bastante menor pero que aún así sirven así que
+
+73
+00:06:36,620 --> 00:06:41,980
+serían una alternativa al CPAP en los casos en que no quieran usar el CPAP y sabiendo que
+
+74
+00:06:41,980 --> 00:06:46,060
+eventualmente no le va a servir y que va a terminar usando CPAP igual y lo último la
+
+75
+00:06:46,060 --> 00:06:51,380
+cirugía para el SARS y la verdad es que porque la general no está indicada la indicación más
+
+76
+00:06:51,380 --> 00:06:58,220
+importante que es la única es cuando viene con alteraciones anatómicas groseras ejemplo que
+
+77
+00:06:58,220 --> 00:07:03,560
+venga con un paladar demasiado redundante con unas amigas las grados 4 con un tumor con
+
+78
+00:07:03,560 --> 00:07:08,720
+alguna cosa de ese tipo pues en ese caso eventualmente se beneficia de la cirugía siempre
+
+79
+00:07:08,720 --> 00:07:14,520
+y cuando no le haya ido bien con el CPAP o definitivamente no quiera usar el CPAP y eso
+
+80
+00:07:14,520 --> 00:07:18,480
+es todo algo breve pero hay que saberlo y es muy frecuente por si acaso así que es
+
+81
+00:07:18,480 --> 00:07:19,680
+algo importante de saber que estén bien

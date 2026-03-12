@@ -1,0 +1,823 @@
+1
+00:00:00,000 --> 00:00:07,680
+Hola, hola, ¿cómo están? En este video vamos a hablar de los trastornos hidroelectrolíticos,
+
+2
+00:00:07,680 --> 00:00:11,680
+pero vamos a ver solamente algunas generalidades, la clínica, el diagnóstico,
+
+3
+00:00:11,680 --> 00:00:15,880
+y en otros videos vamos a hablar del manejo específico de la mayoría de ellos.
+
+4
+00:00:15,880 --> 00:00:21,080
+Y comencemos con ¿cuáles son los valores normales de los electrolitos que un médico general se tiene que saber?
+
+5
+00:00:21,080 --> 00:00:26,880
+Pues se tiene que saber los del sodio, que son de 135 a 145 mil equivalentes por litro,
+
+6
+00:00:26,880 --> 00:00:33,880
+o bien 140 a más menos 5, hay que saberse los del potasio, que es 3,5 a 5 mil equivalentes por litro,
+
+7
+00:00:33,880 --> 00:00:40,880
+las del calcio, que son 8,5 a 10,5, aquí ya no son mil equivalentes, son miligramos por decilitro,
+
+8
+00:00:40,880 --> 00:00:44,880
+y además, acuérdense que el calcio hay que corregirlo por albúmina, que lo vamos a ver después,
+
+9
+00:00:44,880 --> 00:00:49,880
+del magnesio no hay que saberlo, pero se los pongo ahí igual como para que lo vean,
+
+10
+00:00:49,880 --> 00:00:54,880
+es de 1,7 a 2,2 miligramos por decilitro también,
+
+11
+00:00:54,880 --> 00:01:01,880
+y finalmente el diagnóstico de las alteraciones hidroelectrolíticas se hace precisamente sabiéndose estos valores
+
+12
+00:01:01,880 --> 00:01:03,880
+y comparándolo con el valor que me entrega.
+
+13
+00:01:03,880 --> 00:01:09,880
+Si está por debajo del rango hay una hipocalemia, natremia, calcemia, magnesemia,
+
+14
+00:01:09,880 --> 00:01:14,880
+si está por arriba en cambio hay una hiper, igualmente natremia, calcemia, magnesemia, calcemia, etc.
+
+15
+00:01:15,880 --> 00:01:21,880
+Si la alteración es leve, por lo general se trata con algún fármaco o con algún electrolito vía oral,
+
+16
+00:01:21,880 --> 00:01:26,880
+esto de acá más el manejo de la causa, que lo más importante justamente es saber las causas específicas
+
+17
+00:01:26,880 --> 00:01:30,880
+de cada una de ellas para identificarla, buscarla y tratarla,
+
+18
+00:01:30,880 --> 00:01:34,880
+y en cambio cuando hay alguna alteración grave puede ser muy muy riesgoso,
+
+19
+00:01:34,880 --> 00:01:37,880
+ya sea con complicaciones cardiacas, cerebrales, etc.,
+
+20
+00:01:37,880 --> 00:01:40,880
+y en ese caso habitualmente se maneja con tratamiento endovenoso,
+
+21
+00:01:40,880 --> 00:01:43,880
+ya sea de aportar lo que le falta o de darle alguna otra cosa
+
+22
+00:01:43,880 --> 00:01:46,880
+para evitar que se complique con lo que le sobra.
+
+23
+00:01:46,880 --> 00:01:49,880
+Ahora, ¿qué pasa con el fósforo? ¿El fósforo hay que saberlo?
+
+24
+00:01:49,880 --> 00:01:56,880
+Pues la verdad no hay que saber el valor normal, pero sepan que es de 2,5 a 4,5 milígramos por decilitro
+
+25
+00:01:56,880 --> 00:02:00,880
+y la verdad es que la forma en que me lo aprendí yo es que me sabía la del calcio
+
+26
+00:02:00,880 --> 00:02:02,880
+y sé que es 6 menos que lo del calcio.
+
+27
+00:02:02,880 --> 00:02:06,880
+El calcio de 8,5 a 10,5 pues el fósforo 6 menos, 2,5 a 4,5.
+
+28
+00:02:06,880 --> 00:02:08,880
+Ustedes pueden aprenderlo como quieran.
+
+29
+00:02:08,880 --> 00:02:14,880
+Siga ahora, hablemos de ciertas generalidades de las alteraciones asociadas al sodio
+
+30
+00:02:15,880 --> 00:02:19,880
+y que quede bien claro, las natremias dependen del balance de agua,
+
+31
+00:02:19,880 --> 00:02:22,880
+no del balance de sal, del agua que entra y del agua que sale
+
+32
+00:02:22,880 --> 00:02:26,880
+y ¿qué me determina en cambio el balance de sodio?
+
+33
+00:02:26,880 --> 00:02:28,880
+Si yo como mucho sodio o pierdo mucho sodio,
+
+34
+00:02:28,880 --> 00:02:33,880
+eso se traduce en alteraciones no de las natremias sino que de las volemias
+
+35
+00:02:33,880 --> 00:02:36,880
+y eso hay que saberlo y hay que tenerlo bien claro
+
+36
+00:02:36,880 --> 00:02:41,880
+porque en general el sistema de la hormona antidiurética
+
+37
+00:02:41,880 --> 00:02:46,880
+y el sistema de la sed son suficientes para compensar las natremias
+
+38
+00:02:46,880 --> 00:02:50,880
+en cuanto a las variaciones de entradas y salidas de sal.
+
+39
+00:02:50,880 --> 00:02:54,880
+En cambio, no lo puede hacer de manera tan eficiente
+
+40
+00:02:54,880 --> 00:02:56,880
+cuando hay problemas de entrada y salida de agua.
+
+41
+00:02:56,880 --> 00:03:00,880
+Recapitulando, las natremias dependen del agua,
+
+42
+00:03:00,880 --> 00:03:03,880
+las volemias dependen del sodio.
+
+43
+00:03:03,880 --> 00:03:08,880
+Las alteraciones del sodio, tanto la hipernatremia como la hiponatremia
+
+44
+00:03:08,880 --> 00:03:10,880
+afectan por regla general el sistema nervioso central.
+
+45
+00:03:10,880 --> 00:03:15,880
+O sea, son regosas a nivel del cerebro, no afectan el corazón.
+
+46
+00:03:15,880 --> 00:03:19,880
+La hiponatremia, de hecho, se traduce habitualmente en edema cerebral
+
+47
+00:03:19,880 --> 00:03:23,880
+que empieza con náuseas, con cefalea y luego con compromiso de conciencia
+
+48
+00:03:23,880 --> 00:03:27,880
+y con todo un cuadro de hipertensión endocriniana,
+
+49
+00:03:27,880 --> 00:03:29,880
+por ejemplo, que está ahí entre paréntesis.
+
+50
+00:03:29,880 --> 00:03:34,880
+Las hipernatremias, en cambio, el cerebro empieza a achicarse
+
+51
+00:03:34,880 --> 00:03:37,880
+y eso hace que finalmente se puedan cortar algunos vasos sanguíneos
+
+52
+00:03:37,880 --> 00:03:41,880
+y que se produzca una hemorragia cerebral o alguna hemorragia intracranial.
+
+53
+00:03:41,880 --> 00:03:46,880
+La corrección rápida de la hiponatremia y de las natremias en general
+
+54
+00:03:46,880 --> 00:03:49,880
+se asocia también a una complicación del sistema nervioso central
+
+55
+00:03:49,880 --> 00:03:53,880
+que se llama la mielinolisis pontina, que es bastante grave por si acaso
+
+56
+00:03:53,880 --> 00:03:56,880
+y que eventualmente hace que el paciente se muera.
+
+57
+00:03:56,880 --> 00:04:00,880
+Así que hay que tener harto cuidado al momento de corregir las hiponatremias.
+
+58
+00:04:00,880 --> 00:04:03,880
+Sigamos ahora con las alteraciones del potasio.
+
+59
+00:04:04,880 --> 00:04:08,880
+En el caso del potasio, tanto la hiper como la hipocalemia
+
+60
+00:04:08,880 --> 00:04:11,880
+habitualmente vienen con debilidad, o sea, afectan los músculos
+
+61
+00:04:11,880 --> 00:04:13,880
+y con arritmia, o sea, afectan el corazón también.
+
+62
+00:04:13,880 --> 00:04:18,880
+Fíjense, el potasio no afecta al cerebro, afecta al corazón y a los músculos.
+
+63
+00:04:18,880 --> 00:04:22,880
+La hipocalemia, aparte de debilidad y arritmia, cierto,
+
+64
+00:04:22,880 --> 00:04:25,880
+una de sus alteraciones más importantes es que viene
+
+65
+00:04:25,880 --> 00:04:27,880
+con alargamiento del intervalo cuté.
+
+66
+00:04:27,880 --> 00:04:30,880
+Y acuérdense que cuando yo tengo un cuté largo
+
+67
+00:04:30,880 --> 00:04:34,880
+eventualmente se desencadena un tipo de taquicarde ventricular polimorfa
+
+68
+00:04:34,880 --> 00:04:39,880
+que se llama la torsión de puntas o torsade point en francés.
+
+69
+00:04:39,880 --> 00:04:42,880
+En el caso de la hipercalemia, aparte de la debilidad
+
+70
+00:04:42,880 --> 00:04:45,880
+y las arritmias, lo que se suele ver en el electrocardiogramo
+
+71
+00:04:45,880 --> 00:04:49,880
+son las ondas T picudas, cierto, y a medida que va pasando el tiempo
+
+72
+00:04:49,880 --> 00:04:52,880
+el QRS se va volviendo cada vez más ancho.
+
+73
+00:04:52,880 --> 00:04:55,880
+Eventualmente puede haber bloqueos también en auriculos ventriculares
+
+74
+00:04:55,880 --> 00:04:59,880
+y finalmente se desencadenan arritmias ventriculares malignas, cierto,
+
+75
+00:04:59,880 --> 00:05:02,880
+taquicarde ventricular y muerte.
+
+76
+00:05:02,880 --> 00:05:06,880
+Ahora, ¿cuál es el primer examen que yo le pido a una alteración del potasio,
+
+77
+00:05:06,880 --> 00:05:08,880
+en particular a una hipercalemia?
+
+78
+00:05:08,880 --> 00:05:11,880
+Por lo general no son los electrolitos sino que es el electrocardiograma,
+
+79
+00:05:11,880 --> 00:05:15,880
+en el sentido que inmediatamente me ha dado una información instantánea,
+
+80
+00:05:15,880 --> 00:05:17,880
+cierto, que ya me permite actuar.
+
+81
+00:05:17,880 --> 00:05:21,880
+Y en segundo lugar ahí sí voy a ver los electrolitos
+
+82
+00:05:21,880 --> 00:05:24,880
+como para ver exactamente qué nivel de potasio tiene.
+
+83
+00:05:24,880 --> 00:05:28,880
+Hablemos muy brevemente de la parálisis hipocalémica
+
+84
+00:05:28,880 --> 00:05:31,880
+que no son las hipocalemias comunes y corrientes,
+
+85
+00:05:31,880 --> 00:05:34,880
+sino que es una enfermedad bien específica
+
+86
+00:05:34,880 --> 00:05:38,880
+pero que viene con una clínica bien florida de la hipocalemia.
+
+87
+00:05:38,880 --> 00:05:41,880
+Es una enfermedad que es genética, pero a pesar de ser genética
+
+88
+00:05:41,880 --> 00:05:44,880
+no se manifiesta en la infancia temprana,
+
+89
+00:05:44,880 --> 00:05:47,880
+sino que suele iniciar en adolescentes,
+
+90
+00:05:47,880 --> 00:05:52,880
+en particular en adolescentes que empiezan a hacer actividad física más intensa.
+
+91
+00:05:52,880 --> 00:05:56,880
+Y por el general los síntomas aparecen al despertar
+
+92
+00:05:57,880 --> 00:05:59,880
+o bien después de hacer ejercicio.
+
+93
+00:05:59,880 --> 00:06:03,880
+Dormió y despierta el día siguiente y no se puede mover.
+
+94
+00:06:03,880 --> 00:06:08,880
+O bien hizo ejercicio y luego de descansar ya no se puede mover tampoco.
+
+95
+00:06:08,880 --> 00:06:11,880
+El examen neurológico por el general es normal,
+
+96
+00:06:11,880 --> 00:06:15,880
+dígase, viene con los reflejos osteotendinos absolutamente normales,
+
+97
+00:06:15,880 --> 00:06:17,880
+lo cual hace una gran diferencia,
+
+98
+00:06:17,880 --> 00:06:21,880
+ejemplo con la parálisis asociada al síndrome de Guillain-Barré.
+
+99
+00:06:21,880 --> 00:06:23,880
+Así que recuerden, esta existe,
+
+100
+00:06:23,880 --> 00:06:27,880
+y la forma en que se diagnostica finalmente es midiendo los niveles de potasio
+
+101
+00:06:27,880 --> 00:06:31,880
+y la forma en que se trata es justamente dándole potasio.
+
+102
+00:06:31,880 --> 00:06:33,880
+Aquí tengo un electrocardiograma
+
+103
+00:06:33,880 --> 00:06:39,880
+y si se fijan en las ondas T se ven súper altas y picudas
+
+104
+00:06:39,880 --> 00:06:42,880
+y eso es lo característico de la hipercalemia.
+
+105
+00:06:42,880 --> 00:06:47,880
+Así que en este caso sería una hipercalemia con las ondas T altas y picudas.
+
+106
+00:06:47,880 --> 00:06:52,880
+Y en este caso en cambio si se fijan el QRS ya se deformó completamente,
+
+107
+00:06:52,880 --> 00:06:54,880
+está súper ancho y se une con la onda T
+
+108
+00:06:54,880 --> 00:06:58,880
+y se ve como un complejo QRS-T medio raro,
+
+109
+00:06:58,880 --> 00:07:02,880
+y eso es lo característico de una hipercalemia más grave todavía.
+
+110
+00:07:02,880 --> 00:07:05,880
+O sea, empieza con las ondas T bien picudas, bien altas,
+
+111
+00:07:05,880 --> 00:07:07,880
+y se van volviendo cada vez más altas
+
+112
+00:07:07,880 --> 00:07:12,880
+a medida que se va desdibujando el QRS hasta que finalmente queda así.
+
+113
+00:07:12,880 --> 00:07:15,880
+Hablemos ahora del calcio muy rápido.
+
+114
+00:07:15,880 --> 00:07:19,880
+La hipocalcemia por el general viene con debilidad,
+
+115
+00:07:19,880 --> 00:07:23,880
+con tetánea, así que hay como contracturas muscularias, con clonus,
+
+116
+00:07:23,880 --> 00:07:29,880
+eventualmente al hacer una dorsiflexión extrema y forzada del pie, por ejemplo,
+
+117
+00:07:29,880 --> 00:07:34,880
+queda moviéndose el pie de manera repetitiva.
+
+118
+00:07:34,880 --> 00:07:36,880
+Puede venir con parestecias peribucales,
+
+119
+00:07:36,880 --> 00:07:39,880
+o sea, no solamente afecta la parte motora,
+
+120
+00:07:39,880 --> 00:07:42,880
+eventualmente puede venir con algunos pocos síntomas sensitivos también,
+
+121
+00:07:42,880 --> 00:07:47,880
+con fasciculaciones, o sea, hay como hiperactividad muscular en general.
+
+122
+00:07:48,880 --> 00:07:51,880
+Los reflejos osteotendinos se aumentan.
+
+123
+00:07:51,880 --> 00:07:55,880
+Todo esto se puede resumir en un cuadro de tetánea también, por si acaso.
+
+124
+00:07:55,880 --> 00:08:00,880
+Y viene con dos signos bien característicos de la hipocalcemia,
+
+125
+00:08:00,880 --> 00:08:04,880
+que son el signo de Chibostec, que es que se golpea la cara
+
+126
+00:08:04,880 --> 00:08:10,880
+y se contrae esa mitad de la cara porque viene con una gran irritabilidad
+
+127
+00:08:10,880 --> 00:08:16,880
+del nervio facial también, o sea, es como una hiperreflexia del nervio facial.
+
+128
+00:08:16,880 --> 00:08:23,880
+Y el signo de Tuguso, o Truceau, se pronuncia con una U y finalmente con una O,
+
+129
+00:08:23,880 --> 00:08:28,880
+así Tuguso, que se insufla el manguito de depresión arterial
+
+130
+00:08:28,880 --> 00:08:32,880
+hasta que hay cierto grado de isquemia en la extremidad superior
+
+131
+00:08:32,880 --> 00:08:38,880
+y eso hace que se contraiga la mano y se flecta de manera involuntaria.
+
+132
+00:08:38,880 --> 00:08:44,880
+Ahora, en el electrocardiograma la hipocalcemia también me alarga el cuté,
+
+133
+00:08:44,880 --> 00:08:48,880
+igual que la hipocalcemia, y eventualmente también me puede desencadenar
+
+134
+00:08:48,880 --> 00:08:52,880
+una arritmia ventricular polimorfa con contorsión de puntas.
+
+135
+00:08:52,880 --> 00:08:57,880
+En el caso de la hipercalcemia viene con debilidad también,
+
+136
+00:08:57,880 --> 00:09:00,880
+entonces fíjese, el calcio afecta a los músculos,
+
+137
+00:09:00,880 --> 00:09:02,880
+produce debilidad tanto para arriba como para abajo,
+
+138
+00:09:02,880 --> 00:09:05,880
+pero además es muy frecuente que venga con compromiso de conciencia.
+
+139
+00:09:05,880 --> 00:09:08,880
+La hipercalcemia en particular tiende a la deshidratación
+
+140
+00:09:08,880 --> 00:09:13,880
+y tiende al compromiso de conciencia, a la desorientación, al sopor, al coma, etc.
+
+141
+00:09:13,880 --> 00:09:17,880
+Es frecuente que venga con constipación además,
+
+142
+00:09:17,880 --> 00:09:21,880
+y puede venir con una diabetes insípida de tipo nefrogénica
+
+143
+00:09:21,880 --> 00:09:25,880
+que en la clínica se ve como poliuria y con tendencia a la hipernatremia además,
+
+144
+00:09:25,880 --> 00:09:29,880
+o sea la hipercalcemia se puede complicar con hipernatremia
+
+145
+00:09:29,880 --> 00:09:33,880
+y además que la diabetes insípida pierde agua,
+
+146
+00:09:33,880 --> 00:09:37,880
+lo cual agrava todavía la hipercalcemia y se produce un círculo vicioso.
+
+147
+00:09:38,880 --> 00:09:43,880
+Y como otra cosa importante es que puede venir con este cuadro de deshidratación
+
+148
+00:09:43,880 --> 00:09:49,880
+la hipercalcemia asociada justamente a que puede ser la causa,
+
+149
+00:09:49,880 --> 00:09:53,880
+la deshidratación, como que puede ser la complicación de la diabetes insípida.
+
+150
+00:09:53,880 --> 00:09:57,880
+En el caso del magnesio hay que saberlo muy brevemente,
+
+151
+00:09:57,880 --> 00:10:00,880
+la hipomagnesemia es algo raro, que no se ve mucho
+
+152
+00:10:00,880 --> 00:10:03,880
+y cuando se manifiesta se ve con el cúte largo
+
+153
+00:10:03,880 --> 00:10:05,880
+y con tendencia a la torsión de puntas también,
+
+154
+00:10:05,880 --> 00:10:08,880
+y hay que sospecharla e ir a buscarla dirigidamente
+
+155
+00:10:08,880 --> 00:10:11,880
+cuando yo tengo una hipocalemia refractaria,
+
+156
+00:10:11,880 --> 00:10:14,880
+o sea, si es que el potasio está bajo, intento corregirlo y no se soluciona
+
+157
+00:10:14,880 --> 00:10:17,880
+y no sube y no sube y se mantiene bajo,
+
+158
+00:10:17,880 --> 00:10:20,880
+a lo mejor lo que hay detrás es que el magnesio también está bajo
+
+159
+00:10:20,880 --> 00:10:23,880
+y eso me perpetúa un intercambio con el potasio.
+
+160
+00:10:24,880 --> 00:10:27,880
+¿Cuál es el tratamiento de la hipomagnesemia,
+
+161
+00:10:27,880 --> 00:10:30,880
+que esta es la única vez que vamos a hablar de hipomagnesemia
+
+162
+00:10:30,880 --> 00:10:33,880
+en todas estas dispositivas de nefrología?
+
+163
+00:10:33,880 --> 00:10:36,880
+Pues obviamente es darle magnesio, el sulfato de magnesio,
+
+164
+00:10:36,880 --> 00:10:39,880
+y en el caso de la hipermagnesemia, que es más rara todavía,
+
+165
+00:10:39,880 --> 00:10:42,880
+sepan que en general se ve como complicación del tratamiento
+
+166
+00:10:42,880 --> 00:10:44,880
+de la preeclampsia con sulfato de magnesio,
+
+167
+00:10:44,880 --> 00:10:48,880
+acuérdense que el manejo de la eclampsia y la profilaxis de la eclampsia
+
+168
+00:10:48,880 --> 00:10:52,880
+en contexto de una preeclampsia se hacía con sulfato de magnesio endovenoso
+
+169
+00:10:52,880 --> 00:10:55,880
+y cuando se me pasa la mano se produce esta hipermagnesemia
+
+170
+00:10:55,880 --> 00:10:59,880
+y sepan que por el general viene con arreflexia
+
+171
+00:10:59,880 --> 00:11:01,880
+o con disminución de los reflejos osteotendinos
+
+172
+00:11:01,880 --> 00:11:03,880
+y luego abolición completa,
+
+173
+00:11:03,880 --> 00:11:07,880
+puede venir con una disminución de la frecuencia respiratoria
+
+174
+00:11:07,880 --> 00:11:10,880
+y finalmente ya se desencadenan las arritmas también
+
+175
+00:11:10,880 --> 00:11:14,880
+y por lo mismo es que toda paciente obstétrica con preeclampsia
+
+176
+00:11:14,880 --> 00:11:16,880
+que está recibiendo sulfato de magnesio
+
+177
+00:11:16,880 --> 00:11:20,880
+siempre debe ir acompañado de evaluación de los reflejos
+
+178
+00:11:20,880 --> 00:11:22,880
+y de la frecuencia respiratoria también.
+
+179
+00:11:22,880 --> 00:11:25,880
+¿Cuál era el tratamiento de la hipermagnesemia?
+
+180
+00:11:25,880 --> 00:11:29,880
+Recordémoslo, es el calcio, el gluconato de calcio
+
+181
+00:11:29,880 --> 00:11:35,880
+al igual que la hipercalemia, la hiperpotasemia,
+
+182
+00:11:35,880 --> 00:11:37,880
+me estabiliza la membrana.
+
+183
+00:11:37,880 --> 00:11:41,880
+Así que hipermagnesemia, hipocalcemia e hipercalemia
+
+184
+00:11:41,880 --> 00:11:45,880
+las tres cosas se tratan habitualmente con gluconato de calcio.
+
+185
+00:11:45,880 --> 00:11:49,880
+Sigamos acá, ¿cuáles eran las que producían debilidad?
+
+186
+00:11:49,880 --> 00:11:55,880
+Si se acuerda eran las hiperpotasemia, calcemia y magnesemia.
+
+187
+00:11:55,880 --> 00:11:57,880
+¿Cuáles son las que producen de las hipo?
+
+188
+00:11:57,880 --> 00:12:00,880
+De las hipo, las mismas, o sea las alteraciones del potasio,
+
+189
+00:12:00,880 --> 00:12:03,880
+del calcio y del magnesio tanto para arriba como para abajo
+
+190
+00:12:03,880 --> 00:12:05,880
+eventualmente se traducen en debilidad.
+
+191
+00:12:05,880 --> 00:12:07,880
+¿Cuáles eran las que me alargaban el cuté?
+
+192
+00:12:07,880 --> 00:12:10,880
+Eran, acuérdense, las hipo y no las natremia
+
+193
+00:12:10,880 --> 00:12:12,880
+porque el sodio no afecta el corazón,
+
+194
+00:12:12,880 --> 00:12:17,880
+sino que son la hipocalemia, hipocalcemia e hipomagnesemia.
+
+195
+00:12:17,880 --> 00:12:19,880
+¿Cuáles eran las que venían con compromiso de conciencia?
+
+196
+00:12:19,880 --> 00:12:21,880
+Si se acuerda eran todas las del sodio
+
+197
+00:12:21,880 --> 00:12:23,880
+y aparte la hipercalcemia.
+
+198
+00:12:23,880 --> 00:12:26,880
+La hipercalcemia más la hipernatremia
+
+199
+00:12:26,880 --> 00:12:28,880
+que podía venir con una hemorragia, acuérdense,
+
+200
+00:12:28,880 --> 00:12:31,880
+la hiponatremia que podía venir con el edema cerebral
+
+201
+00:12:31,880 --> 00:12:34,880
+y la corrección rápida de la hiponatremia
+
+202
+00:12:34,880 --> 00:12:37,880
+que se traducía en la mielinolysis pontina.
+
+203
+00:12:37,880 --> 00:12:39,880
+¿Quedó más o menos claro? Esto fue una introducción.
+
+204
+00:12:39,880 --> 00:12:41,880
+En los siguientes temas vamos a ir viendo
+
+205
+00:12:41,880 --> 00:12:43,880
+el manejo específico de cada alteración.
+
+206
+00:12:43,880 --> 00:12:44,880
+Así que ahí nos vemos.

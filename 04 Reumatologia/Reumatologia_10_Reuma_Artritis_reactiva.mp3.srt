@@ -1,0 +1,571 @@
+1
+00:00:00,000 --> 00:00:07,150
+Siguiendo con este tema, hablemos de los tipos de glomerulonefritis.
+
+2
+00:00:07,150 --> 00:00:13,470
+Recordando que hay muchos tipos de clasificaciones y que finalmente hay que saber al menos un poco de cada una de ellas.
+
+3
+00:00:13,470 --> 00:00:18,830
+Así que empecemos. ¿Cómo se clasifican según el complemento, según la complementemia?
+
+4
+00:00:18,830 --> 00:00:23,070
+En general, es en hipocomplementémicas y normocomplementémicas.
+
+5
+00:00:23,070 --> 00:00:28,750
+Las hipocomplementémicas son aquellas mediadas por complejos inmunes, dentro de las cuales la más importante por lejos
+
+6
+00:00:28,750 --> 00:00:33,630
+en la glomerulonefritis aguda pose estreptocósica y las otras de causa pose infecciosa,
+
+7
+00:00:33,630 --> 00:00:40,270
+en el sentido en que no solamente son después de una infección por estreptococopiógenes o estreptococo grupo A,
+
+8
+00:00:40,270 --> 00:00:42,830
+sino que puede ser por otras bacterias también.
+
+9
+00:00:42,830 --> 00:00:46,750
+Pero no es la única. Puede ser secundaria endocarditis, secundaria alupus.
+
+10
+00:00:46,750 --> 00:00:49,790
+Acuérdense que el lupus baja el complemento también.
+
+11
+00:00:49,790 --> 00:00:54,030
+Secundaria la crioglobulinemia, que la vamos a mencionar muy rápido en otro video.
+
+12
+00:00:54,030 --> 00:00:57,390
+Y la mesangiocapilar, que hay que saber la glomerulonefritis.
+
+13
+00:00:57,390 --> 00:01:04,350
+Si es mesangiocapilar o membrano proliferativa, una de sus características más importantes es que es hipocomplementémica.
+
+14
+00:01:04,350 --> 00:01:08,590
+¿Y por qué es tan importante saberse esta lista de las hipocomplementémicas?
+
+15
+00:01:08,590 --> 00:01:15,710
+Justamente porque son las que se confunden con la pose estreptococica y la idea es saber identificarla y no confundirla.
+
+16
+00:01:15,710 --> 00:01:21,550
+Ahora, las normocomplementémicas son todas las demás, dentro de esas la por depósito de IGA, por ejemplo.
+
+17
+00:01:21,550 --> 00:01:25,630
+Esa es por complejos inmunes, pero de tipo IGA, esas no bajan el complemento.
+
+18
+00:01:25,710 --> 00:01:32,350
+Dígase en la enfermedad de Berger y la púlpura de Schelling-Henoch, en general son normocomplementémicas.
+
+19
+00:01:32,350 --> 00:01:36,670
+Las vasculitis, que pueden ser muy graves, son igualmente normocomplementémicas.
+
+20
+00:01:36,670 --> 00:01:41,150
+Las por anticuerpos antimembrana basal, como la enfermedad de Goodpasture, también.
+
+21
+00:01:41,150 --> 00:01:46,750
+Según el patrón de la inmunofluorescencia, en general se clasifican en lineal.
+
+22
+00:01:46,750 --> 00:01:53,550
+La más importante de las con un patrón lineal son las por anticuerpos en contra de la membrana basal.
+
+23
+00:01:53,710 --> 00:01:58,830
+Que se llama enfermedad por anticuerpos en contra de la membrana basal o síndrome de Goodpasture.
+
+24
+00:01:58,830 --> 00:02:05,470
+Las de tipo granular, que en general son depósitos de complejos inmunes en distintas partes.
+
+25
+00:02:05,470 --> 00:02:16,510
+Que dentro de eso están tanto las por lupus o las por estreptococicas, que todas esas son por depósitos de complejo inmune de tipo IGG, habitualmente.
+
+26
+00:02:16,510 --> 00:02:20,910
+Como también la de la enfermedad de Berger, la por depósito de IGA.
+
+27
+00:02:21,070 --> 00:02:29,550
+Con la diferencia que va a venir con un patrón granular A, la inmunofluorescencia en contra de la IGG o de la IGA, respectivamente.
+
+28
+00:02:29,550 --> 00:02:35,870
+O sea, no solamente me informa qué patrón tiene, sino que contra qué tipo de complejo inmune lo está dando.
+
+29
+00:02:35,870 --> 00:02:43,550
+Finalmente está la de tipo pausi-inmune, que como su nombre lo dice, es una pausa en la inmunidad.
+
+30
+00:02:43,550 --> 00:02:47,790
+Dígase que no se ve ningún patrón en particular, se ve relativamente negro.
+
+31
+00:02:47,870 --> 00:02:51,470
+Y lo más característico de las pausi-inmunes son las vasculitis.
+
+32
+00:02:51,470 --> 00:02:57,870
+Ya sea la vasculitis de Wegener, la polingitis microscópica o la vasculitis de Chuck Strauss, entre otras.
+
+33
+00:02:57,870 --> 00:03:02,190
+Como para que quede un poquito más claro, en este caso hay un patrón lineal.
+
+34
+00:03:02,190 --> 00:03:05,950
+Fíjense que está solamente en la parte de abajo, porque ahí está la ventana basal.
+
+35
+00:03:05,950 --> 00:03:13,070
+En el otro lado está con una media luna arriba, es una glomerulonefitis creséntica, en este caso con un patrón lineal.
+
+36
+00:03:13,710 --> 00:03:18,110
+En este caso se ve el patrón granular, que son los anticuerpos de distinto tipo.
+
+37
+00:03:18,110 --> 00:03:22,110
+Si es que me dijeran que eso brilla con la IgA, sería por repósito IgA.
+
+38
+00:03:22,110 --> 00:03:28,430
+Si me dicen que brilla para IgG puede ser por Lupus o por una glomerulonefitis post-streptocósica.
+
+39
+00:03:28,430 --> 00:03:31,950
+Esa sería una pausa inmune que casi no brilla.
+
+40
+00:03:31,950 --> 00:03:38,670
+Igual hay un par de líneas que hay ahí, pero en general brilla bastante menos de lo que debería, y eso es lo característico de la vasculitis.
+
+41
+00:03:39,230 --> 00:03:47,790
+Ahora, esto no es inmunofluorescencia, esa es la microscopía óptica, como para que se entienda que es esto de una glomerulonefitis creséntica,
+
+42
+00:03:47,790 --> 00:03:53,230
+que es lo que habitualmente se ve en las más graves, y es que se forma una zona en forma de media luna,
+
+43
+00:03:53,230 --> 00:04:01,710
+en que proliferan las células extracapsulares o que están afuera de glomérulo o extraglomerulares.
+
+44
+00:04:01,950 --> 00:04:07,470
+Puede estar ya sea por dentro o por fuera de las distintas capas de glomérulo,
+
+45
+00:04:07,470 --> 00:04:16,510
+pero finalmente los vasos sanguíneos se quedan todos apretados en alguna zona y lo que está alrededor, en cambio, crece en esta forma de media luna.
+
+46
+00:04:18,030 --> 00:04:23,310
+Según la causa, igualmente hay que saber que distintas patologías que generan glomérulonefritis,
+
+47
+00:04:23,310 --> 00:04:28,670
+ya habíamos mencionado antes la por repósito de complejos inmunes de tipo IgA,
+
+48
+00:04:28,750 --> 00:04:34,110
+de todo esto lo más importante es la enfermedad de Berger o simplemente nefropatía por IgA,
+
+49
+00:04:34,110 --> 00:04:39,470
+y la púrpura de Jolin Genos, que es la que viene con su clínica propia de púrpura palpable,
+
+50
+00:04:39,470 --> 00:04:43,790
+del compromiso renal, del compromiso articular y el compromiso del sistema digestivo.
+
+51
+00:04:43,790 --> 00:04:51,710
+La por IgA es la glomérulonefritis más frecuente, en específico la que viene aislada a la enfermedad de Berger.
+
+52
+00:04:52,430 --> 00:04:59,230
+Los síntomas a veces brotan durante una infección viral o puede ser después de una infección viral,
+
+53
+00:04:59,230 --> 00:05:04,830
+sin mucha diferencia de tiempo, a diferencia de la post infecciosa o post estreptocólica,
+
+54
+00:05:04,830 --> 00:05:08,270
+que suele ser algún par de semanas después o al menos una semana después,
+
+55
+00:05:08,270 --> 00:05:14,670
+acá en cambio es muy frecuente que estoy resfriado en este momento y empiezo con los síntomas de la glomérulonefritis.
+
+56
+00:05:14,670 --> 00:05:18,830
+En algunos pacientes es recurrente o fluctuante,
+
+57
+00:05:18,910 --> 00:05:25,150
+en algunos otros simplemente viene por brotes, ya sea una vez en la vida o varias veces en la vida,
+
+58
+00:05:25,150 --> 00:05:31,630
+se presenta ya sea con hematuria aislada, que es lo más frecuente, o bien con un síndrome nefrítico,
+
+59
+00:05:31,630 --> 00:05:35,390
+es más raro que se presente como un síndrome nefrítico impuro, pero puede ser también.
+
+60
+00:05:35,390 --> 00:05:42,750
+Otro tipo sería la post infecciosa, acuérdense que dentro de esta la más importante es la post estreptocólica,
+
+61
+00:05:42,750 --> 00:05:46,990
+que la sigla nape es glomérulonefritis aguda post estreptocólica,
+
+62
+00:05:47,150 --> 00:05:53,550
+y suele ocurrir una a dos semanas después de una infección, habitualmente esta sí es bien nefrítica,
+
+63
+00:05:53,550 --> 00:05:57,950
+viene con un síndrome nefrítico y la mayoría de las veces viene sin falla renal,
+
+64
+00:05:57,950 --> 00:06:02,510
+no es rápidamente progresiva, pero en algunos casos sí puede venir con insuficiencia renal aguda,
+
+65
+00:06:02,510 --> 00:06:08,750
+así que puede ser con o sin insuficiencia renal aguda y en esos casos eventualmente hay que biopsearlo
+
+66
+00:06:08,750 --> 00:06:11,550
+y puede verse una glomérulonefritis crescéntica.
+
+67
+00:06:12,110 --> 00:06:18,830
+Ahora, lo más importante habíamos dicho de esta enfermedad en particular es que era la clásica hipocomplementémica
+
+68
+00:06:18,830 --> 00:06:24,430
+y sepan además que es la glomérulonefritis con síndrome nefrítico más frecuente,
+
+69
+00:06:24,430 --> 00:06:30,350
+en cambio la porigia es la glomérulonefritis más frecuente en general, habitualmente sin síndrome nefrítico,
+
+70
+00:06:30,350 --> 00:06:36,990
+y finalmente el tratamiento de la post infecciosa suele ser simplemente el soporte eventualmente en los diuréticos.
+
+71
+00:06:37,790 --> 00:06:43,390
+La otra era la mesangiocapilar, que por si acaso era una de las que era hipocomplementémica,
+
+72
+00:06:43,390 --> 00:06:46,590
+habíamos dicho que esa era su importancia, que se puede confundir con un lupus,
+
+73
+00:06:46,590 --> 00:06:53,390
+se puede confundir con una post streptocósica, es sinónimo de glomérulonefritis membrano proliferativa
+
+74
+00:06:53,390 --> 00:06:59,230
+y sepan que tiene una clínica bien variada, igual que la EGA, que puede ir desde una hematura
+
+75
+00:06:59,790 --> 00:07:05,390
+a una hematuria con proteínuria, con o sin síndrome nefrítico, con o sin falla renal
+
+76
+00:07:05,390 --> 00:07:08,190
+y con o sin síndrome nefrótico impuro también.
+
+77
+00:07:08,190 --> 00:07:13,790
+De hecho es una de las causas de síndrome nefrótico impuro que vamos a ver en la respectiva clase.
+
+78
+00:07:13,790 --> 00:07:19,390
+Aparte está la crioglobulinemia, en este caso también era de las hipocomplementémicas
+
+79
+00:07:19,390 --> 00:07:24,190
+y sepan que se asocia en particular a hepatitis C, esa es como la causa más importante
+
+80
+00:07:24,270 --> 00:07:28,590
+pero eventualmente se puede asociar también a otras enfermedades autoinmunes
+
+81
+00:07:28,590 --> 00:07:36,190
+como ejemplo artritis romatoide, lupus, etcétera, a las gamapatías monoclonales
+
+82
+00:07:36,190 --> 00:07:40,030
+dentro de los cánceres hematológicos y a la leucemia linfática crónica
+
+83
+00:07:40,030 --> 00:07:42,270
+igualmente dentro de estos mismos cánceres.
+
+84
+00:07:42,270 --> 00:07:48,990
+Su clínica habitualmente viene con púrpura, digamos con un púrpura habitualmente palpable
+
+85
+00:07:48,990 --> 00:07:53,550
+y eventualmente con úlceras también, el lugar más frecuente son las piernas,
+
+86
+00:07:53,710 --> 00:07:57,070
+en eso se puede parecer un poquito a la púrpura de Joel Ingeno
+
+87
+00:07:57,070 --> 00:08:03,470
+pero aquí además se afectan las zonas frías, la nariz, las orejas, los dedos,
+
+88
+00:08:03,470 --> 00:08:08,270
+las zonas que habitualmente se enfrían en el sentido en que las crioglobulinas
+
+89
+00:08:08,270 --> 00:08:14,350
+son anticuerpos que se activan justamente cuando la temperatura baja de 37 grados o de 36 grados.
+
+90
+00:08:14,350 --> 00:08:19,390
+Aparte de eso el cuadro clínico completo viene no solamente con la falla renal
+
+91
+00:08:19,390 --> 00:08:22,030
+o con la glomerulonefritis hipocomplementémica y la púrpura
+
+92
+00:08:22,030 --> 00:08:26,190
+sino que puede venir con artritis y con neuropatía habitualmente distal
+
+93
+00:08:26,190 --> 00:08:28,510
+y nuevamente en las zonas que habitualmente se enfrían,
+
+94
+00:08:28,510 --> 00:08:32,270
+dígase artritis de las manos, de los pies y neuropatía de esa zona también.
+
+95
+00:08:33,550 --> 00:08:36,750
+La glomerulonefritis lupica es otra que hay que saber,
+
+96
+00:08:36,750 --> 00:08:41,150
+es causada por el lupus eritematoso sistémico, no por el lupus discoide
+
+97
+00:08:41,150 --> 00:08:44,430
+o cutáneo subagudo sino que del más grave del sistémico.
+
+98
+00:08:44,430 --> 00:08:50,670
+Acuérdense que también era hipocomplementémica y su clínica viene no solamente con la glomerulonefritis
+
+99
+00:08:50,670 --> 00:08:56,830
+sino que con toda la clínica del lupus, con la mariposa lupica, la úlcera oral, la alopecia, etcétera.
+
+100
+00:08:56,830 --> 00:09:03,710
+Y puede verse ya sea como una rápidamente progresiva que evolucione rápidamente a falla renal
+
+101
+00:09:03,710 --> 00:09:09,390
+en las más agresivas, puede verse como un síndrome nefrítico, puede verse como un síndrome nefrótico impuro,
+
+102
+00:09:09,390 --> 00:09:15,870
+eso en la tipo 5 por si acaso, y finalmente se puede ver simplemente como un aglomerulonefritis
+
+103
+00:09:15,870 --> 00:09:18,830
+con algo de maturia, con algo de proteinuria y nada más.
+
+104
+00:09:19,630 --> 00:09:24,110
+Aparte están las vasculitis, dentro de estas siempre vasculitis de vaso pequeño,
+
+105
+00:09:24,110 --> 00:09:30,590
+la poliengeitis microscópica o micropoliengeitis, la poliengeitis con granulomatosis
+
+106
+00:09:30,590 --> 00:09:36,030
+o granulomatosis de Wegener o granulomatosis con poliengeitis como quieran llamarla.
+
+107
+00:09:36,030 --> 00:09:41,710
+Y finalmente la vasculitis de Chuck Strauss, son las tres que habitualmente comprometen los riñones
+
+108
+00:09:41,710 --> 00:09:47,550
+y en este caso vienen con toda la clínica característica de la vasculitis con la mononeuritis múltiple,
+
+109
+00:09:47,550 --> 00:09:55,550
+artralgia, mialgia, con rash, etcétera. Habitualmente son graves, es muy frecuente que se presenten
+
+110
+00:09:55,550 --> 00:10:01,310
+como una aglomerulonefritis rápidamente progresiva con marcada falla renal y de hecho en la biopsia
+
+111
+00:10:01,310 --> 00:10:08,750
+se ven como una aglomerulonefritis crescéntica, que dijimos que eso se ve en casi todas las rápidamente progresivas
+
+112
+00:10:08,750 --> 00:10:14,430
+y no solamente en la vasculitis, se puede ver también en el lupus y en el good pasture, entre otros.
+
+113
+00:10:15,390 --> 00:10:22,430
+Aparte están las aglomerulonefritis por anticuerpos antimembrana basal y esto se puede presentar
+
+114
+00:10:22,430 --> 00:10:28,430
+como un síndrome de riñón pulmón que en ese caso se le solía llamar síndrome de good pasture
+
+115
+00:10:28,430 --> 00:10:33,150
+o bien como una aglomerulonefritis aislada que en ese caso se llamaba aglomerulonefritis
+
+116
+00:10:33,150 --> 00:10:38,430
+por anticuerpos antimembrana basal, pero la verdad es que en la actualidad la nomenclatura
+
+117
+00:10:38,430 --> 00:10:43,230
+que más se usa es simplemente enfermedad por anticuerpos antimembrana basal y nada más.
+
+118
+00:10:43,230 --> 00:10:48,910
+Y que eso engloba tanto el síndrome de riñón pulmón como el que viene solamente con afectación renal
+
+119
+00:10:48,910 --> 00:10:50,910
+o solamente con afectación pulmonar.
+
+120
+00:10:50,910 --> 00:10:56,110
+Ahora, ¿qué otras causas de síndrome de riñón pulmón había que recordar?
+
+121
+00:10:56,110 --> 00:11:01,550
+Pues el lupus, el lupus puede afectar los pulmones, no es tan frecuente pero puede ser.
+
+122
+00:11:01,550 --> 00:11:06,030
+La vasculitis, tanto la PAM, el Wegener, el Chupistraus.
+
+123
+00:11:06,030 --> 00:11:11,150
+El Chupistraus lo puse aparte en el sentido en que la afectación suele ser distinto,
+
+124
+00:11:11,230 --> 00:11:16,110
+suele venir con un asma de difícil manejo más que con una alveolitis hemorrágica.
+
+125
+00:11:16,110 --> 00:11:20,510
+Y finalmente veamos un ejemplo como para ver si todo esto quedó claro.
+
+126
+00:11:20,510 --> 00:11:25,790
+Este es el caso, tenemos a un paciente que tiene una poliengeitis microscópica
+
+127
+00:11:25,790 --> 00:11:29,070
+que está con hematuria, que está con hipertensión, que está con edema,
+
+128
+00:11:29,070 --> 00:11:33,790
+que está con una creatinina de 5 muy elevada y además está con 2 y hemoptisis.
+
+129
+00:11:33,790 --> 00:11:35,950
+Veamos todo lo que tiene aparte de la PAM.
+
+130
+00:11:36,830 --> 00:11:41,870
+Viene número 1 con una falla renal y aparte con una glomerulonephritis hipocomplementémica
+
+131
+00:11:41,870 --> 00:11:46,990
+o normocomplementémica, pues normocomplementémica porque las vasculitis son normocomplementémica.
+
+132
+00:11:46,990 --> 00:11:53,710
+El tercer lugar viene con una falla renal más una insuficiencia renal aguda,
+
+133
+00:11:53,710 --> 00:11:56,510
+viene con una glomerulonephritis rápidamente progresiva.
+
+134
+00:11:56,510 --> 00:12:01,390
+En la biopsia lo más probable es que va a ser creséntica dado que con una creatina de 5
+
+135
+00:12:01,470 --> 00:12:06,590
+eso está bastante grave y lo más probable es que las semilunas van a estar en la mayoría de los glomérulos.
+
+136
+00:12:06,590 --> 00:12:13,390
+Además va a ser pausa inmune en la inmunoflorescencia y aparte está con un síndrome nefrítico
+
+137
+00:12:13,390 --> 00:12:17,310
+porque está con hematuria, edema e hipertensión y está con un síndrome riñón pulmón.
+
+138
+00:12:17,310 --> 00:12:21,070
+O sea, ¿qué es lo que quiero que vean con este caso?
+
+139
+00:12:21,070 --> 00:12:24,830
+Que un mismo caso puede venir con un montón de diagnósticos distintos
+
+140
+00:12:24,830 --> 00:12:28,350
+pero que aún así, recordando la clase introductoria de los conceptos,
+
+141
+00:12:28,510 --> 00:12:33,790
+es importante que sepan diferenciar el concepto de cada uno porque eso ayuda a que todo quede más claro.
+
+142
+00:12:33,790 --> 00:12:37,790
+Y si no ha quedado claro, pues en el siguiente video va a quedar más claro con un montón de ejercicios.
+
+143
+00:12:37,790 --> 00:12:38,830
+Así que ahí nos vemos.

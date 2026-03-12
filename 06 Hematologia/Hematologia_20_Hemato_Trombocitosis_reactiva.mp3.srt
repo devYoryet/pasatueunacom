@@ -1,0 +1,311 @@
+1
+00:00:00,000 --> 00:00:07,460
+Hola, ¿cómo están? Hablemos de la trombocitosis reactiva que es la causa más
+
+2
+00:00:07,460 --> 00:00:11,540
+frecuente de trombocitosis, por si acaso, y su concepto en general es que las
+
+3
+00:00:11,540 --> 00:00:16,180
+plaquetas aumentan debido a una causa secundaria, habitualmente secundaria
+
+4
+00:00:16,180 --> 00:00:20,660
+a un proceso inflamatorio, ejemplo una infección, alguna patología
+
+5
+00:00:20,660 --> 00:00:24,420
+inflamatoria de algún otro tipo, a una persona que está quemada con
+
+6
+00:00:24,420 --> 00:00:27,960
+pancreatitis, con lo que sea, porque las plaquetas son un reactante de
+
+7
+00:00:27,960 --> 00:00:32,640
+fase aguda. Ahora, también se ve una especie de trombocitosis reactiva en
+
+8
+00:00:32,640 --> 00:00:36,760
+otras patologías no inflamatorias, como ejemplo en la ferropeña, en la pleña,
+
+9
+00:00:36,760 --> 00:00:40,560
+etcétera, y que quede bien claro, trombocitosis reactiva no es lo mismo
+
+10
+00:00:40,560 --> 00:00:45,720
+que trombocitosis esencial. La palabra esencial suena como a algo que
+
+11
+00:00:45,720 --> 00:00:49,360
+fuera algo normal, pero la trombocitosis esencial es un síndrome
+
+12
+00:00:49,360 --> 00:00:52,640
+en mielo proliferativo y no tiene nada que ver con la trombocitosis
+
+13
+00:00:52,640 --> 00:00:57,160
+reactiva, es más, es el diagnóstico diferencial de la trombocitosis reactiva
+
+14
+00:00:57,160 --> 00:01:00,440
+con la cual no hay que confundirlo. Ahora, ¿cuál es la clínica de la
+
+15
+00:01:00,440 --> 00:01:05,440
+trombocitosis reactiva? Pues ninguna, ninguna a lo más viene con la clínica
+
+16
+00:01:05,440 --> 00:01:08,560
+de la enfermedad de base. Entonces, ¿cuál es la importancia que esto
+
+17
+00:01:08,560 --> 00:01:12,160
+tiene? Simplemente que, como ya dijimos, es la primera causa de
+
+18
+00:01:12,160 --> 00:01:15,480
+trombocitosis y puede asustar cuando uno mira el hemograma y las
+
+19
+00:01:15,480 --> 00:01:19,120
+plaquetas, por ejemplo en 800 mil, en un millón, etcétera, cuando el
+
+20
+00:01:19,120 --> 00:01:26,920
+normal es en 350 mil hasta 450 mil. Ahora, ¿qué se hace? Se busca otra
+
+21
+00:01:26,920 --> 00:01:30,400
+causa en algunas situaciones, en el sentido en que en general, si es que
+
+22
+00:01:30,400 --> 00:01:33,720
+me encuentro con las plaquetas elevadas más una causa que le explique, me
+
+23
+00:01:33,720 --> 00:01:36,800
+quedo con el diagnóstico de trombocitosis reactiva, pero ¿cuándo yo
+
+24
+00:01:36,800 --> 00:01:41,640
+debo buscar una causa adicional a esta trombocitosis? Número 1, cuando
+
+25
+00:01:41,640 --> 00:01:45,320
+viene con esplenomegalia. La esplenomegalia es algo que me
+
+26
+00:01:45,320 --> 00:01:48,920
+sugiere ya alguna alteración, ejemplo neoplasica, como por ejemplo
+
+27
+00:01:48,920 --> 00:01:52,120
+una trombocitosis esencial, cuando viene con un hemograma de una
+
+28
+00:01:52,120 --> 00:01:55,240
+leucemia mieloide crónica, en el caso que la leucemia mieloide
+
+29
+00:01:55,240 --> 00:01:57,400
+crónica puede producir trombocitosis también y ahí el
+
+30
+00:01:57,400 --> 00:02:01,360
+diagnóstico es una leucemia, o bien cuando persiste la
+
+31
+00:02:01,360 --> 00:02:04,440
+trombocitosis a pesar de haber cesado la causa, ejemplo estaba con
+
+32
+00:02:04,440 --> 00:02:07,960
+la infección, yo le hice el diagnóstico y luego de un mes el
+
+33
+00:02:07,960 --> 00:02:10,520
+hemograma está igual con las plaquetas muy altas, pues en ese
+
+34
+00:02:10,520 --> 00:02:13,920
+caso lo más probable es que sí sea una trombocitosis esencial o
+
+35
+00:02:13,920 --> 00:02:18,760
+alguna otra causa ya no simplemente reactiva. Ahora, ¿cómo se
+
+36
+00:02:18,760 --> 00:02:23,680
+hace el diagnóstico de esta, ni siquiera enfermedad de esta
+
+37
+00:02:23,680 --> 00:02:27,360
+manifestación? Pues tengo una causa de base, más el hemograma
+
+38
+00:02:27,360 --> 00:02:30,960
+que está con las plaquetas arriba del normal, que repito el normal
+
+39
+00:02:30,960 --> 00:02:35,680
+es hasta 450 mil por milímetro cúbico, hay algún punto de
+
+40
+00:02:35,680 --> 00:02:38,960
+corte para las plaquetas en los cuales uno considere que ya
+
+41
+00:02:38,960 --> 00:02:42,080
+no es reactiva, ejemplo un millón, dos millones, alguna
+
+42
+00:02:42,080 --> 00:02:45,160
+cosa así y la verdad es que actualmente se dice que no,
+
+43
+00:02:45,160 --> 00:02:49,760
+en la antigüedad se decía que arriba de 600 mil lo más
+
+44
+00:02:49,760 --> 00:02:52,840
+probable es que fuera otra cosa o arriba de un millón lo
+
+45
+00:02:52,880 --> 00:02:54,800
+más probable es que definitivamente no fuera reactiva,
+
+46
+00:02:55,120 --> 00:02:58,000
+pero los estudios actuales dicen que la inmensa mayoría de
+
+47
+00:02:58,000 --> 00:03:00,560
+la trombocitosis arriba de un millón, sobre todo cuando hay
+
+48
+00:03:00,560 --> 00:03:02,840
+una causa de base que le explique, lo más probable es que
+
+49
+00:03:02,840 --> 00:03:05,600
+sea una trombocitosis reactiva común y corriente, así que
+
+50
+00:03:05,600 --> 00:03:09,720
+actualmente no hay un punto de corte. Ejemplo, si es que
+
+51
+00:03:09,760 --> 00:03:13,960
+tengo 500 mil plaquetas más una infección, pues lo que hay
+
+52
+00:03:13,960 --> 00:03:17,960
+está arriba de 450 mil que era el punto de corte, así
+
+53
+00:03:17,960 --> 00:03:21,120
+que es una trombocitosis reactiva clásica, si es que
+
+54
+00:03:21,160 --> 00:03:24,200
+está en un millón 200 mil plaquetas y está con una
+
+55
+00:03:24,200 --> 00:03:27,040
+infección, dijimos no hay un punto de corte, lo más
+
+56
+00:03:27,040 --> 00:03:30,480
+probable es que sea una trombocitosis reactiva, con la
+
+57
+00:03:30,480 --> 00:03:33,040
+diferencia que en este caso sí me va a interesar el
+
+58
+00:03:33,040 --> 00:03:35,440
+controlar el hemograma algún tiempo después para
+
+59
+00:03:35,440 --> 00:03:38,680
+asegurarme que haya normalizado. ¿Qué pasa si es
+
+60
+00:03:38,680 --> 00:03:41,600
+que está arriba de un millón de plaquetas? Ejemplo,
+
+61
+00:03:41,600 --> 00:03:45,920
+un millón 500 mil y es solamente un hallazgo en un
+
+62
+00:03:45,920 --> 00:03:48,120
+paciente que se hizo un hemograma como un chequeo,
+
+63
+00:03:48,360 --> 00:03:51,040
+pues en ese caso recién yo sí sospecho que pueda ser
+
+64
+00:03:51,040 --> 00:03:54,040
+una trombocitosis esencial. Ahora repito, hay algún
+
+65
+00:03:54,040 --> 00:03:57,880
+estudio que dice que hasta el 75% puede ser reactiva
+
+66
+00:03:57,880 --> 00:03:59,920
+igual, pero si no encuentro ninguna causa
+
+67
+00:03:59,920 --> 00:04:02,720
+suficiente que lo explique, la verdad es que lo más
+
+68
+00:04:02,720 --> 00:04:05,760
+probable es que sí sea una trombocitosis esencial y
+
+69
+00:04:05,760 --> 00:04:08,160
+voy a tener que ir a estudiarla dirigidamente con
+
+70
+00:04:08,160 --> 00:04:11,360
+los marcadores genéticos que eventualmente se ven en
+
+71
+00:04:11,360 --> 00:04:15,080
+esa patología. Ahora, ¿cuál es el tratamiento de la
+
+72
+00:04:15,080 --> 00:04:17,360
+trombocitosis reactiva? Simplemente tratar la
+
+73
+00:04:17,360 --> 00:04:19,360
+causa de base, porque es secundaria esa causa de
+
+74
+00:04:19,400 --> 00:04:22,840
+base y lo que debe ocurrir es que debe normalizar al
+
+75
+00:04:22,840 --> 00:04:25,640
+momento de que cese esa enfermedad. Y eso es todo
+
+76
+00:04:25,640 --> 00:04:27,880
+lo que hay que saber. Existe, no hay un punto de
+
+77
+00:04:27,880 --> 00:04:29,480
+corte y por favor no la confundan con la
+
+78
+00:04:29,480 --> 00:04:31,280
+trombocitosis esencial. Que estén bien.

@@ -1,0 +1,123 @@
+1
+00:00:00,000 --> 00:00:06,910
+Hola, ¿cómo están? Hablemos de las extrasístoles cardíacas, ya sea las
+
+2
+00:00:06,910 --> 00:00:10,510
+auriculares y las ventriculares, que en general no son graves, por su caso.
+
+3
+00:00:10,510 --> 00:00:15,470
+Las auriculares, perdón, se ven de esa forma, dígase, con el QRS angosto, eso es
+
+4
+00:00:15,470 --> 00:00:18,550
+lo más importante, sin pausa compensatoria. Se diagnostican con el
+
+5
+00:00:18,550 --> 00:00:22,350
+electrocardiograma y el tratamiento, por lo general, es simplemente observarlas
+
+6
+00:00:22,350 --> 00:00:27,270
+y educar que es un hallazgo no grave. En el caso de las ventriculares, lo
+
+7
+00:00:27,270 --> 00:00:31,910
+más importante es que se ven con el QRS ancho. En ese caso se ve que la
+
+8
+00:00:31,910 --> 00:00:34,790
+que es distinta y que está con el QRS ancho, que puede venir con esa forma o
+
+9
+00:00:34,790 --> 00:00:39,310
+con cualquier otra forma, por su caso, pero con el QRS ancho ya me hace el
+
+10
+00:00:39,310 --> 00:00:43,670
+diagnóstico. Se caracterizan, además, por venir con una cosa que se conoce
+
+11
+00:00:43,670 --> 00:00:48,710
+como la pausa compensatoria, dígase, el ciclo anterior y el posterior a la
+
+12
+00:00:48,710 --> 00:00:53,070
+extrasístole, si yo lo sumo y que veo esa distancia completa, es
+
+13
+00:00:53,070 --> 00:00:57,350
+exactamente igual a la suma de dos ciclos cardíacos normales, en el
+
+14
+00:00:57,350 --> 00:01:01,350
+sentido en que esta segunda parte se alarga justamente con esta
+
+15
+00:01:01,350 --> 00:01:05,430
+compensación, debido a que el ritmo auricular arriba no se ve afectado por
+
+16
+00:01:05,430 --> 00:01:09,190
+la extrasístole ventricular, a diferencia de lo que ocurre en la
+
+17
+00:01:09,190 --> 00:01:13,510
+extrasístole auricular, en que el ritmo auricular sí se ve afectado. No
+
+18
+00:01:13,510 --> 00:01:17,230
+importa entender fisiopatológicamente eso, lo que sí importa es que viene
+
+19
+00:01:17,230 --> 00:01:19,950
+con el QRS ancho, que es lo más importante, más la pausa compensatoria.
+
+20
+00:01:19,950 --> 00:01:24,030
+¿Cuál es el manejo de las extrasístoles? Si es que es un paciente
+
+21
+00:01:24,030 --> 00:01:27,990
+con corazón sano y que simplemente es un hallazgo, en ese caso no da
+
+22
+00:01:27,990 --> 00:01:32,670
+ningún miedo, simplemente se observa. Si es que es un paciente cardiópata en
+
+23
+00:01:32,670 --> 00:01:36,470
+cambio, y en particular si que viene con muchas extrasístoles, es un paciente que
+
+24
+00:01:36,470 --> 00:01:40,670
+sí tiene riesgo de evolucionar a una taquicaria ventricular, así que en ese
+
+25
+00:01:40,670 --> 00:01:43,790
+caso queda con antirrítmicos y el más importante es el beta bloqueo, por
+
+26
+00:01:43,790 --> 00:01:48,030
+ese caso, y en algunos casos se maneja con amiodarona también. O sea, en
+
+27
+00:01:48,030 --> 00:01:52,630
+resumen, las extrasístoles son normales, no dan miedo, excepto las
+
+28
+00:01:52,630 --> 00:01:55,230
+ventriculares en pacientes cardiópatas que tienen riesgo de
+
+29
+00:01:55,230 --> 00:01:58,430
+evolucionar a un arritmia un poco más grave, así que se manejan con esos
+
+30
+00:01:58,430 --> 00:02:02,670
+antirrítmicos en específico, el beta bloqueo o bien la amiodarona. Y bueno,
+
+31
+00:02:02,670 --> 00:02:06,670
+eso es todo lo que hay que saber. Nos vemos en los siguientes videos.

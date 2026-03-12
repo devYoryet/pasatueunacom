@@ -1,0 +1,451 @@
+1
+00:00:00,000 --> 00:00:07,240
+Hola, ¿cómo están? Hablemos de las valvulopatías izquierdas, de su simbología, que hay que saber con bastante detalle.
+
+2
+00:00:07,240 --> 00:00:12,240
+Vamos a ver la estenosis mitral, la insuficiencia mitral, la estenosis aórtica y la insuficiencia aórtica,
+
+3
+00:00:12,240 --> 00:00:16,240
+con todos sus detalles, empezando por el soplo.
+
+4
+00:00:16,240 --> 00:00:21,240
+Acuérdense, todas tienen soplo. En el caso de la estenosis mitral es un soplo diastólico,
+
+5
+00:00:21,240 --> 00:00:24,240
+que a veces viene con un refuerzo prehistólico también.
+
+6
+00:00:24,240 --> 00:00:29,240
+En el caso de la insuficiencia mitral es un soplo sistólico, en cambio, que se escribe como pan sistólico
+
+7
+00:00:29,240 --> 00:00:35,240
+o como holo sistólico, al igual que lo que se ve en la comunicación interventricular, por ejemplo.
+
+8
+00:00:35,240 --> 00:00:40,240
+La estenosis aórtica viene con un soplo sistólico y activo, en cambio, que se escribe también
+
+9
+00:00:40,240 --> 00:00:44,240
+como soplo meso sistólico, que se ve en los soplos funcionales
+
+10
+00:00:44,240 --> 00:00:47,240
+y se ve también en la miocardiópatía hipertrófica obstructiva.
+
+11
+00:00:47,240 --> 00:00:50,240
+Y finalmente, la insuficiencia aórtica viene con un soplo diastólico también,
+
+12
+00:00:50,240 --> 00:00:56,240
+al igual que la estenosis mitral, que son las dos causas que hay que recordar de soplo diastólico.
+
+13
+00:00:56,240 --> 00:01:00,240
+En el caso de los ruidos, acuérdense que el R1 es el que se produce
+
+14
+00:01:00,240 --> 00:01:02,240
+con el cierre de las válvulas auriculoventriculares,
+
+15
+00:01:02,240 --> 00:01:07,240
+el cierre de la válvula mitral y de la válvula tricúspide.
+
+16
+00:01:07,240 --> 00:01:11,240
+En cambio, el R2 es por el cierre de las válvulas sigmoideas,
+
+17
+00:01:11,240 --> 00:01:15,240
+la válvula aórtica y la válvula pulmonar.
+
+18
+00:01:15,240 --> 00:01:19,240
+Así que, en el caso de la estenosis mitral y de la insuficiencia mitral,
+
+19
+00:01:19,240 --> 00:01:23,240
+lo que se altera es el R1, porque justamente era por el ruido del cierre de la válvula mitral.
+
+20
+00:01:24,240 --> 00:01:28,240
+La estenosis habitualmente aumenta la intensidad del R1, ¿cierto?
+
+21
+00:01:28,240 --> 00:01:31,240
+En la insuficiencia, en cambio, disminuye esta intensidad.
+
+22
+00:01:31,240 --> 00:01:35,240
+En el caso de las alteraciones aórticas, lo que se altera es el R2,
+
+23
+00:01:35,240 --> 00:01:40,240
+pero en ambos casos se produce una disminución de la intensidad.
+
+24
+00:01:40,240 --> 00:01:44,240
+O sea, en resumen, fíjense, en todas las valvulopatías
+
+25
+00:01:44,240 --> 00:01:49,240
+se disminuye la intensidad del ruido que corresponde al cierre de la válvula afectada,
+
+26
+00:01:49,240 --> 00:01:53,240
+excepto en la estenosis de las válvulas auriculoventriculares,
+
+27
+00:01:53,240 --> 00:01:59,240
+la estenosis mitral, en este caso, en el cual aumenta, se refuerza la intensidad de ese sonido.
+
+28
+00:01:59,240 --> 00:02:03,240
+Respecto a si hay cardiomegalia o no, en el caso de la estenosis mitral,
+
+29
+00:02:03,240 --> 00:02:09,240
+habitualmente no hay, en el sentido en que al ventrículo incluso le llega poca sangre, ¿cierto?
+
+30
+00:02:09,240 --> 00:02:15,240
+En el sentido en que la válvula mitral está cerrada, está estenótica,
+
+31
+00:02:15,240 --> 00:02:20,240
+así que lo que sí se dilata y que quede bien claro que se dilata mucho es la aurícula izquierda,
+
+32
+00:02:20,240 --> 00:02:22,240
+pero el ventrículo izquierdo no.
+
+33
+00:02:22,240 --> 00:02:26,240
+En el caso de la insuficiencia mitral, en cambio, ahí sí hay cardiomegalia
+
+34
+00:02:26,240 --> 00:02:32,240
+porque la sangre se devuelve hacia la aurícula y luego viene como el doble de sangre, ¿cierto?,
+
+35
+00:02:32,240 --> 00:02:34,240
+al ventrículo y se va dilatando.
+
+36
+00:02:34,240 --> 00:02:38,240
+En el caso de la estenosis aórtica, la verdad es que no hay cardiomegalia,
+
+37
+00:02:38,240 --> 00:02:44,240
+pero el ventrículo tiene que luchar en contra de la aorta que está cerrada, ¿cierto?
+
+38
+00:02:44,240 --> 00:02:50,240
+Y así se produce una hipertrofia, pero es una hipertrofia concéntrica, no excéntrica, sin cardiomegalia
+
+39
+00:02:50,240 --> 00:02:55,240
+y finalmente la insuficiencia aórtica habitualmente es la que viene con la cardiomegalia más grande
+
+40
+00:02:55,240 --> 00:03:01,240
+de todas las valvulopatías, que uno habla de un corvobis, de un corazón de vaca, de un corazón muy grande.
+
+41
+00:03:01,240 --> 00:03:05,240
+Lo último, el electrocardiograma, acuérdense, en la estenosis mitral,
+
+42
+00:03:05,240 --> 00:03:10,240
+como lo que se dilata es la aurícula izquierda, suele venir con signos de hipertrofia de la aurícula izquierda,
+
+43
+00:03:10,240 --> 00:03:15,240
+dígase con la onda P, ancha, con la pancha, que acuérdense, la pancha era de izquierda,
+
+44
+00:03:15,240 --> 00:03:20,240
+en cambio la palta era una paltona de derecha, ¿cierto?, de la hipertrofia de la aurícula derecha
+
+45
+00:03:20,240 --> 00:03:24,240
+y se suele complicar con mucha frecuencia con fibrilación auricular,
+
+46
+00:03:24,240 --> 00:03:30,240
+de hecho la estenosis mitral es de las causas más frecuentes y más importantes de fibrilación auricular
+
+47
+00:03:30,240 --> 00:03:35,240
+y en la que más se asocia igualmente a la formación de trombos y fenómenos embólicos.
+
+48
+00:03:35,240 --> 00:03:40,240
+En el caso de la insuficiencia mitral, habitualmente viene con hipertrofia de ambas cavidades izquierdas,
+
+49
+00:03:40,240 --> 00:03:45,240
+en el sentido en que dijimos que el ventrículo se iba dilatando, ¿cierto?,
+
+50
+00:03:45,240 --> 00:03:50,240
+y además la aurícula se expone al reflujo de sangre que viene desde el ventrículo por la insuficiencia,
+
+51
+00:03:50,240 --> 00:03:52,240
+así que igualmente se dilata.
+
+52
+00:03:52,240 --> 00:03:56,240
+En el caso de la estenosis agórtica, dijimos que venía sin cardiomigalia,
+
+53
+00:03:56,240 --> 00:04:00,240
+pero sí hay signos de hipertrofia al ventrículo izquierdo por este engrosamiento de la pared,
+
+54
+00:04:00,240 --> 00:04:06,240
+por esta hipertrofia concéntrica y a medida que el ventrículo se va poniendo cada vez más rígido,
+
+55
+00:04:06,240 --> 00:04:09,240
+más grueso, se produce una difusión diastólica, ¿cierto?,
+
+56
+00:04:09,240 --> 00:04:12,240
+que termina también con hipertrofia de la aurícula izquierda
+
+57
+00:04:12,240 --> 00:04:16,240
+y finalmente la insuficiencia órtica habitualmente solo afecta al ventrículo izquierdo,
+
+58
+00:04:16,240 --> 00:04:23,240
+suele no afectarse tanto la aurícula en el sentido en que queda protegida por la válvula mitral que está buena.
+
+59
+00:04:23,240 --> 00:04:28,240
+Ahora, todas vienen con síntomas de insuficiencia cardiaca izquierda,
+
+60
+00:04:28,240 --> 00:04:33,240
+en el sentido que son las válvulas izquierda, así que todas pueden venir con disnea,
+
+61
+00:04:33,240 --> 00:04:37,240
+disnea parapsística nocturna, ortomnea, etcétera, con edema pulmonar.
+
+62
+00:04:37,240 --> 00:04:40,240
+Vamos a ver algunos detalles semiológicos adicionales.
+
+63
+00:04:40,240 --> 00:04:44,240
+En el caso de la estenosis mitral, se describen las chapetas mitrálicas
+
+64
+00:04:44,240 --> 00:04:49,240
+que son como un color un poquito más morado, violacio en las mejillas, ¿cierto?
+
+65
+00:04:49,240 --> 00:04:55,240
+Se asocia como algo raro a hemoptisis y finalmente habíamos mencionado ya
+
+66
+00:04:55,240 --> 00:05:02,240
+que el soplo puede venir con un refuerzo preshistólico que está dado justamente por la contracción auricular.
+
+67
+00:05:02,240 --> 00:05:07,240
+Ahora, el refuerzo preshistólico se pierde en el caso de que caiga en fibrilación auricular
+
+68
+00:05:07,240 --> 00:05:14,240
+dado que ahí desaparece la contracción auricular, así que desaparece el refuerzo preshistólico.
+
+69
+00:05:14,240 --> 00:05:20,240
+Si es que hay un R4, desaparece el R4 y si es que hay una onda A, desaparece también
+
+70
+00:05:20,240 --> 00:05:23,240
+porque esas tres cosas están dadas por la contracción de la aurícula
+
+71
+00:05:23,240 --> 00:05:26,240
+que, repito, desaparece al momento de haber una fibrilación auricular.
+
+72
+00:05:26,240 --> 00:05:31,240
+En el caso de la insuficiencia mitral, suele venir sin tanta cosa específica
+
+73
+00:05:31,240 --> 00:05:38,240
+a lo más que el soplo está más cercano al ápex porque ahí es donde se oculta mejor la mitral, ¿cierto?
+
+74
+00:05:38,240 --> 00:05:42,240
+Y a veces viene con un R3 por la difusión sistólica que se puede producir.
+
+75
+00:05:42,240 --> 00:05:45,240
+Ahora, ¿cómo la diferencia de la miocardiopatía dilatada?
+
+76
+00:05:45,240 --> 00:05:50,240
+¿El sentido en que la miocardiopatía al dilatarse el anillo mitrálico
+
+77
+00:05:50,240 --> 00:05:53,240
+se puede traducir igualmente en una insuficiencia mitral?
+
+78
+00:05:53,240 --> 00:05:55,240
+Y las formas son habitualmente dos formas.
+
+79
+00:05:55,240 --> 00:05:57,240
+Número uno, el estado de los velos.
+
+80
+00:05:57,240 --> 00:06:00,240
+Los velos de la válvula se ven muy sanos.
+
+81
+00:06:00,240 --> 00:06:03,240
+En ese caso, lo más probable es que no sea una insuficiencia mitral primaria,
+
+82
+00:06:03,240 --> 00:06:07,240
+sino que sea secundaria a la dilatación de la miocardiopatía dilatada.
+
+83
+00:06:07,240 --> 00:06:12,240
+Y segundo lugar, que la miocardiopatía dilatada suele afectar no solamente el lado izquierdo,
+
+84
+00:06:12,240 --> 00:06:14,240
+sino que el lado derecho también.
+
+85
+00:06:14,240 --> 00:06:19,240
+En el caso de la estenosis aórtica, esta viene con una clínica bastante florida, por su caso.
+
+86
+00:06:19,240 --> 00:06:23,240
+Es muy frecuente que por el engrosamiento del ventrículo izquierdo
+
+87
+00:06:23,240 --> 00:06:27,240
+se provoca una angina por insuficiencia coronaria.
+
+88
+00:06:27,240 --> 00:06:32,240
+Se asocia igualmente a síncopes de tipo cardiogénico,
+
+89
+00:06:32,240 --> 00:06:36,240
+los síncopes relacionados con el esfuerzo en particular,
+
+90
+00:06:36,240 --> 00:06:39,240
+y a veces es causa de muerte súbita también.
+
+91
+00:06:39,240 --> 00:06:44,240
+Y aparte de esto, es muy frecuente que venga con un pulso filiforme que se describe,
+
+92
+00:06:44,240 --> 00:06:46,240
+o Parvus et tardus.
+
+93
+00:06:46,240 --> 00:06:53,240
+Parvus es pequeño, ¿cierto? Tardus es que llega tarde que se demora un poquito en aparecer.
+
+94
+00:06:53,240 --> 00:06:56,240
+Ahora, ¿cómo diferencio esto de la miocardiopatía hipertrófica?
+
+95
+00:06:56,240 --> 00:07:00,240
+Que les adelanto que viene igualmente con angina, con síncopes,
+
+96
+00:07:00,240 --> 00:07:02,240
+con muerte súbita y con insuficiencia cardíaca izquierda,
+
+97
+00:07:02,240 --> 00:07:04,240
+y que puede venir con un soplo ejectivo también.
+
+98
+00:07:04,240 --> 00:07:06,240
+La gran diferencia es el pulso.
+
+99
+00:07:06,240 --> 00:07:11,240
+En el sentido en que la estenosis aórtica viene con un pulso Parvus et tardus,
+
+100
+00:07:11,240 --> 00:07:17,240
+en cambio la miocardiopatía hipertrófica viene con un pulso Celler, con un pulso amplio.
+
+101
+00:07:17,240 --> 00:07:21,240
+Y la segunda diferencia es que en el caso de la miocardiopatía hipertrófica,
+
+102
+00:07:21,240 --> 00:07:26,240
+el soplo aumenta con la maniobra de Valsalva y disminuye al ponerse en cuclilla.
+
+103
+00:07:26,240 --> 00:07:28,240
+En cambio, la estenosis aórtica es al revés.
+
+104
+00:07:28,240 --> 00:07:33,240
+El soplo disminuye con la maniobra de Valsalva y aumenta al ponerse en cuclilla.
+
+105
+00:07:33,240 --> 00:07:35,240
+Y la última es la insuficiencia aórtica,
+
+106
+00:07:36,240 --> 00:07:42,240
+Las alteraciones más importantes adicionales a lo que ya describimos en la tabla anterior,
+
+107
+00:07:42,240 --> 00:07:44,240
+es que viene con un pulso Celler, con un pulso muy amplio,
+
+108
+00:07:44,240 --> 00:07:46,240
+el martillo de agua que se describe,
+
+109
+00:07:46,240 --> 00:07:52,240
+y se puede ver igualmente este pulso tan amplio como una danza arterial en el cuello,
+
+110
+00:07:52,240 --> 00:07:55,240
+que se ven las arterias con el pulso arterial.
+
+111
+00:07:55,240 --> 00:07:57,240
+Y bueno, eso es lo que hay que saber por ahora.
+
+112
+00:07:57,240 --> 00:08:00,240
+En el siguiente video veremos las valvulopatías del lado derecho.
+
+113
+00:08:00,240 --> 00:08:01,240
+¡Que estén bien!

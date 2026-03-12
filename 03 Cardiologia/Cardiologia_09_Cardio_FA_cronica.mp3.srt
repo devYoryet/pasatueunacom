@@ -1,0 +1,391 @@
+1
+00:00:03,250 --> 00:00:07,810
+Hola hola vamos a los detalles del manejo de la FA crónica recordando su
+
+2
+00:00:07,810 --> 00:00:12,250
+clasificación acuérdense que se divide en paroxística persistente y permanente
+
+3
+00:00:12,250 --> 00:00:17,570
+la paroxística es la que de manera espontánea va y pasa de FA a ritmo
+
+4
+00:00:17,570 --> 00:00:22,170
+sinusal la persistente en la que después de 7 días cierto no
+
+5
+00:00:22,170 --> 00:00:27,890
+cardiovierte sigue en FA y que eventualmente sí responde y se pasa
+
+6
+00:00:27,890 --> 00:00:32,370
+a ritmo sinusal con el apoyo de fármacos ejemplo de amiodarona o de
+
+7
+00:00:32,370 --> 00:00:36,690
+propafenona y finalmente está la permanente que es la que siempre está en
+
+8
+00:00:36,690 --> 00:00:43,410
+FA e incluso con fármacos no cardiovierte o la cual ya hemos
+
+9
+00:00:43,410 --> 00:00:48,410
+renunciado al ritmo sinusal y que se ha optado por un manejo de frecuencia
+
+10
+00:00:48,410 --> 00:00:53,610
+simplemente ahora la primera pregunta que uno se hace es si es que hago el
+
+11
+00:00:53,610 --> 00:00:56,850
+control de ritmo versus el control de frecuencia recordando que el control
+
+12
+00:00:56,850 --> 00:01:01,370
+de ritmo el objetivo es que esté en ritmo sinusal en el control de
+
+13
+00:01:01,530 --> 00:01:06,290
+frecuencia en cambio el objetivo es que esté con una frecuencia cardíaca normal
+
+14
+00:01:06,290 --> 00:01:10,970
+abajo de 85 sale en algunas partes abajo de 90 sale en otras y
+
+15
+00:01:10,970 --> 00:01:16,530
+obviamente arriba de 60 para que no esté veredicárdico y en este caso se
+
+16
+00:01:16,530 --> 00:01:20,490
+dice que es un poco mejor el control de ritmo en el sentido en que
+
+17
+00:01:20,490 --> 00:01:24,650
+tendría menos síntomas incluso hay algunos pacientes en que con control
+
+18
+00:01:24,650 --> 00:01:28,290
+de frecuencia dicen que no tienen ningún síntoma pero al cambiarse al
+
+19
+00:01:28,330 --> 00:01:33,170
+control de ritmo se dan cuenta que ejemplo mejora su estado físico y su
+
+20
+00:01:33,170 --> 00:01:38,370
+tolerancia al ejercicio ahora por la general la paroxística uno intenta
+
+21
+00:01:38,370 --> 00:01:42,970
+siempre lograr el control de ritmo en el caso de la persistente igualmente
+
+22
+00:01:42,970 --> 00:01:46,250
+lo ideal es buscar el control de ritmo pero uno sabe que algunos casos
+
+23
+00:01:46,250 --> 00:01:51,090
+en que o no se puede o bien están contraindicados los fármacos así
+
+24
+00:01:51,090 --> 00:01:54,690
+que se opta por el control de frecuencia y finalmente en la
+
+25
+00:01:54,690 --> 00:01:59,130
+permanente es en la cual ya se renunció al ritmo así que solamente
+
+26
+00:01:59,130 --> 00:02:03,450
+queda hacer el control de frecuencia ahora el control de ritmo por la
+
+27
+00:02:03,450 --> 00:02:06,570
+general se hace con amiodarona y acuérdense que el corazón sano se
+
+28
+00:02:06,570 --> 00:02:11,730
+podía hacer con la propia fenona y en el caso del control de frecuencia se
+
+29
+00:02:11,730 --> 00:02:15,530
+puede hacer o con el beta bloqueo que era el atenolol el que más se usa
+
+30
+00:02:15,530 --> 00:02:19,090
+se puede usar igualmente el carbidilol en particular en pacientes con
+
+31
+00:02:19,090 --> 00:02:23,330
+insuficiencia cardíaca que se benefician del carbidilol más que
+
+32
+00:02:23,370 --> 00:02:28,650
+del atenolol o bien con el verapamilo o el Diltiazem que son fármacos bien
+
+33
+00:02:28,650 --> 00:02:32,730
+seguros en general y en el caso de que estuvieran contraindicados los
+
+34
+00:02:32,730 --> 00:02:37,690
+anteriores pues con dicocina con colos digitales igualmente se puede
+
+35
+00:02:37,690 --> 00:02:42,090
+hacer un buen control de frecuencia ahora el anticoagular y esto es super
+
+36
+00:02:42,090 --> 00:02:45,610
+importante no depende si estoy controlando ritmo frecuencia si es
+
+37
+00:02:45,610 --> 00:02:51,370
+que es paroxística si es que es permanente o persistente depende de
+
+38
+00:02:51,370 --> 00:02:55,570
+cosas totalmente distintas y lo vamos a ver ahora de qué depende el
+
+39
+00:02:55,570 --> 00:03:01,090
+anticoagular pues depende del chatz2bas si es que tiene esos factores de
+
+40
+00:03:01,090 --> 00:03:07,050
+riesgo va sumando un puntaje y si es que pasa de cierto nivel uno dice en
+
+41
+00:03:07,050 --> 00:03:12,370
+ese caso anticoagulo de lo contrario no ahora el chatz2
+
+42
+00:03:12,370 --> 00:03:16,970
+cada una de esas letras significa un factor de riesgo la C es de
+
+43
+00:03:16,970 --> 00:03:21,250
+cardiopatía cualquiera cardiopatía coronaria cardiopatía por una
+
+44
+00:03:21,250 --> 00:03:26,450
+valvulopatía la la cardiopatía hipertensiva etcétera 2 la hipertensión
+
+45
+00:03:26,450 --> 00:03:29,530
+arterial y de hecho si me dicen paciente que tiene cardiopatía
+
+46
+00:03:29,530 --> 00:03:33,290
+hipertensiva pues ahí están los dos factores inmediatamente la
+
+47
+00:03:33,290 --> 00:03:39,930
+cardiopatía y la hipertensión la a es de age de edad mayor a 75 años y
+
+48
+00:03:39,930 --> 00:03:45,410
+eso ya vale dos puntos por si acaso de hecho hay algunas personas que
+
+49
+00:03:45,410 --> 00:03:52,890
+dicen que es chatz2 con la ds2 al final ahora en el VAS va la edad arriba de
+
+50
+00:03:52,890 --> 00:03:56,130
+65 años que vale un punto también así que si le quieren dar un punto ahí
+
+51
+00:03:56,130 --> 00:04:00,410
+y otro punto luego en el VAS igualmente son dos puntos así que da
+
+52
+00:04:00,410 --> 00:04:05,090
+más o menos lo mismo pero fíjense los mayores de 75 años tienen un
+
+53
+00:04:05,090 --> 00:04:09,810
+puntaje alto y por el general anticoagula la D es de diabetes
+
+54
+00:04:09,810 --> 00:04:15,130
+mellitus ya sea tipo 1 o tipo 2 también y la S es stroke dígase un
+
+55
+00:04:15,130 --> 00:04:18,970
+accidente vascular encefálico ese vale dos puntos pero incluye no solamente
+
+56
+00:04:18,970 --> 00:04:24,130
+el accidente vascular que en inglés se llama stroke sino que puede ser
+
+57
+00:04:24,130 --> 00:04:28,090
+absolutamente cualquier evento embólico si alguien me dice nunca he
+
+58
+00:04:28,090 --> 00:04:31,330
+tenido un accidente vascular sino que hice una embolia renal o una embolia
+
+59
+00:04:31,330 --> 00:04:36,330
+mesentérica en ese caso igualmente son dos puntos en el caso del VAS la
+
+60
+00:04:36,330 --> 00:04:42,290
+D es vasculopatía ejemplo una enfermedad arterial periférica o un
+
+61
+00:04:42,290 --> 00:04:49,010
+anurismo a órtico abdominal o alguna cosa de esa índole la A es age
+
+62
+00:04:49,010 --> 00:04:56,010
+arriba de 65 años entre 65 y 74 años eso suma un punto también y la S es
+
+63
+00:04:56,010 --> 00:05:02,570
+sexo femenino y lo importante acá es que una vez que yo voy y con
+
+64
+00:05:02,570 --> 00:05:07,290
+esos factores que tengo que sabérmelos bien voy y voy sumando
+
+65
+00:05:07,290 --> 00:05:11,410
+los puntos que cada uno da sabiendo que el stroke daba dos puntos cierto
+
+66
+00:05:11,410 --> 00:05:18,170
+y en el caso de que tenga cero puntos en ese caso no lo anticoagulo ahora
+
+67
+00:05:18,170 --> 00:05:23,210
+vuelvo un poquito más acá a ese punto en que se tacha lo de sexo femenino en
+
+68
+00:05:23,210 --> 00:05:28,810
+el sentido en que actualmente no se toma en cuenta el puntaje ese para
+
+69
+00:05:28,810 --> 00:05:33,090
+definir si es que voy a anticoagular o no así que nos quedamos con el
+
+70
+00:05:33,090 --> 00:05:37,610
+chat 2 va sin la S para decir lo que estamos diciendo acá así que tiene
+
+71
+00:05:37,610 --> 00:05:43,010
+cero puntos sin tomar en cuenta el sexo en ese caso no se anticoagula si es
+
+72
+00:05:43,010 --> 00:05:47,850
+que tiene dos puntos en ese caso si se anticoagula ya sea con taco con los
+
+73
+00:05:47,850 --> 00:05:51,770
+cumarínicos o con los nuevos anticobulantes orales y los subrayos
+
+74
+00:05:51,770 --> 00:05:55,290
+porque son un poquito mejores aunque son un poco más caros y en el caso
+
+75
+00:05:55,290 --> 00:06:00,170
+de que tenga un punto es lo que se ha discutido bastante y actualmente
+
+76
+00:06:00,170 --> 00:06:05,090
+lo que se dice es decida con la edad si que tiene más de 65 años en
+
+77
+00:06:05,090 --> 00:06:09,250
+ese caso se anticoagula y si es que tiene menos de 65 años en ese caso no
+
+78
+00:06:09,250 --> 00:06:13,730
+se anticoagula entonces vienen las típicas preguntas que hay acá pero en
+
+79
+00:06:13,730 --> 00:06:16,970
+el caso de los viejitos no era que no hay que anticoagularlo porque tienen
+
+80
+00:06:16,970 --> 00:06:22,250
+riesgo de caerse de golpearse en la cabeza de hacer un tech y de morirse
+
+81
+00:06:22,250 --> 00:06:26,370
+de un hematoma subdural y la respuesta es todo lo contrario los
+
+82
+00:06:26,370 --> 00:06:30,650
+adultos mayores mientras más viejos son tienen mayor riesgo de hacer
+
+83
+00:06:30,650 --> 00:06:34,210
+embolias así que la indicación es anticoagularlos con mayor razón el
+
+84
+00:06:34,210 --> 00:06:38,090
+riesgo de el tech es mucho menor al riesgo del accidente vascular embólico
+
+85
+00:06:38,090 --> 00:06:42,330
+así que si tiene 80 años se anticoagula de entrada porque suma dos puntos de
+
+86
+00:06:42,330 --> 00:06:47,050
+entrada en el caso de la estenosis mitral aunque solamente tuviera un
+
+87
+00:06:47,050 --> 00:06:50,090
+punto eso es algo que tiene un riesgo demasiado alto de embolia así
+
+88
+00:06:50,090 --> 00:06:54,530
+que ahí se anticoagula sí o sí y habitualmente se anticoagula con los
+
+89
+00:06:54,530 --> 00:06:58,810
+cumarínicos más que con los naco y en el caso de la aspirina que antes
+
+90
+00:06:58,810 --> 00:07:02,610
+cuando no se anticoagulaba se dejaba aspirina la verdad que los
+
+91
+00:07:02,610 --> 00:07:07,810
+estudios actuales dicen que la aspirina no agrega nada especial mejor
+
+92
+00:07:07,810 --> 00:07:10,690
+así que la única razón para dejarle aspirina a alguien que está
+
+93
+00:07:10,690 --> 00:07:16,010
+anticoagulado es que tenga alguna indicación de aspirina en específico
+
+94
+00:07:16,010 --> 00:07:21,730
+no por la fa sino que ejemplo porque tiene enfermedad coronaria así que se
+
+95
+00:07:21,730 --> 00:07:25,210
+le deja como para evitar el riesgo de infarto y en ese caso al mezclar
+
+96
+00:07:25,210 --> 00:07:28,170
+ambos fármacos hay que ver justamente el riesgo de isquemia
+
+97
+00:07:28,170 --> 00:07:32,890
+versus el riesgo de hemorragia y con eso se decide si queda con ambos
+
+98
+00:07:32,890 --> 00:07:38,330
+fármacos solamente con uno y eso es todo nos vemos en el siguiente vídeo

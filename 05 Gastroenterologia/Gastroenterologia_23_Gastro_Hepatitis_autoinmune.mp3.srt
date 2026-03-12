@@ -1,0 +1,507 @@
+1
+00:00:00,000 --> 00:00:08,750
+En este video vamos a hablar de las hepatitis y las colestasias autoinmunes, que son tres.
+
+2
+00:00:08,750 --> 00:00:12,750
+La hepatitis autoinmune por un lado, que acuérdense que viene con un patrón hepatítico,
+
+3
+00:00:12,750 --> 00:00:17,750
+en cambio las otras dos, la colangitis bilia primaria y la colangitis esclerosante primaria,
+
+4
+00:00:17,750 --> 00:00:19,750
+vienen con un patrón colestásico.
+
+5
+00:00:19,750 --> 00:00:24,750
+Empecemos con la hepatitis autoinmune, que les adelanto que lo más importante es saber los marcadores
+
+6
+00:00:24,750 --> 00:00:27,750
+de autoinmunidad que se asocian a esta enfermedad.
+
+7
+00:00:27,750 --> 00:00:32,750
+Su etiología es autoinmune, obviamente, y por lo mismo el factor de riesgo más importante
+
+8
+00:00:32,750 --> 00:00:35,750
+es que venga de base con alguna otra enfermedad autoinmune,
+
+9
+00:00:35,750 --> 00:00:39,750
+como el hipotiroidismo, alguna enfermedad del tejido conectivo, etc.
+
+10
+00:00:39,750 --> 00:00:43,750
+Segundo lugar, su cuadro clínico suele ser bastante inespecífico,
+
+11
+00:00:43,750 --> 00:00:47,750
+con la clínica de las hepatitis crónicas en general,
+
+12
+00:00:47,750 --> 00:00:51,750
+náuseas, astenia, dolores en el hipocondrio derecho,
+
+13
+00:00:51,750 --> 00:00:57,750
+la elevación de las transeminazas como buena hepatitis con un patrón hepatítico,
+
+14
+00:00:57,750 --> 00:01:02,750
+pero con la gran diferencia que viene con la positividad de algunos de los marcadores
+
+15
+00:01:02,750 --> 00:01:07,750
+de autoinmunidad para hepatitis, que lo más importante son los anticuerpos antinucleares,
+
+16
+00:01:07,750 --> 00:01:13,750
+los famosos ANA, los anticuerpos antimusculo liso, que por su sigla en inglés
+
+17
+00:01:13,750 --> 00:01:18,750
+se conocen como asma, que reflejan habitualmente a los anticuerpos antiactina,
+
+18
+00:01:18,750 --> 00:01:20,750
+que habitualmente no se miden, por si acaso.
+
+19
+00:01:20,750 --> 00:01:27,750
+Y finalmente están los anticuerpos antiLKM1, que son anticuerpos antimicrosomales,
+
+20
+00:01:27,750 --> 00:01:33,750
+la L es de liver, hígado, la K de kidney, de riñón, y la M, microsomal,
+
+21
+00:01:33,750 --> 00:01:39,750
+así que se pueden resumir en antimicrosomales específicos del hígado y del riñón.
+
+22
+00:01:39,750 --> 00:01:45,750
+Y la forma de recordar esto es con esta nemotecnia, la triste historia de Ana,
+
+23
+00:01:45,750 --> 00:01:51,750
+Ana es una mujer con muy mala suerte, tiene asma, tiene hepatitis autoinmune
+
+24
+00:01:51,750 --> 00:01:54,750
+y además tiene una cosa súper rara que se llama LKM1 además.
+
+25
+00:01:54,750 --> 00:02:01,750
+O sea, en resumen, hay que saber los marcadores ANA, asma y antiLKM1
+
+26
+00:02:01,750 --> 00:02:03,750
+para la hepatitis autoinmune.
+
+27
+00:02:03,750 --> 00:02:06,750
+El diagnóstico se confirma con la biopsia en particular,
+
+28
+00:02:06,750 --> 00:02:11,750
+porque algunos de estos marcadores son poco específicos,
+
+29
+00:02:11,750 --> 00:02:14,750
+los ANA, por ejemplo, es algo que se ve en el 5% de la población sana,
+
+30
+00:02:14,750 --> 00:02:17,750
+así que hay que confirmarlo con una biopsia que muestra justamente
+
+31
+00:02:17,750 --> 00:02:20,750
+que hay infiltración por linfocitos en el hígado.
+
+32
+00:02:20,750 --> 00:02:23,750
+Y finalmente, como buena enfermedad autoinmune,
+
+33
+00:02:23,750 --> 00:02:27,750
+el tratamiento suele ser con los corticoides más los inmunomoduladores
+
+34
+00:02:27,750 --> 00:02:34,750
+y según el tipo de hepatitis autoinmune va cambiando la dosis y el tipo de fármacos que se da,
+
+35
+00:02:34,750 --> 00:02:36,750
+pero eso es algo que es solamente de manejo del especialista.
+
+36
+00:02:36,750 --> 00:02:40,750
+O sea, en resumen, que tengo que saber como médico general que existe,
+
+37
+00:02:40,750 --> 00:02:45,750
+que se estudia con estos marcadores y que los marcadores son ANA, asma y antiLKM1.
+
+38
+00:02:45,750 --> 00:02:51,750
+Vemos ahora la colangitis bilear primaria que se abrevia como CBP
+
+39
+00:02:51,750 --> 00:02:54,750
+y que su otro nombre es la cirrosis bilear primaria.
+
+40
+00:02:54,750 --> 00:02:57,750
+Actualmente se prefiere más el nombre colangitis,
+
+41
+00:02:57,750 --> 00:02:59,750
+dado que no todas evolucionan a una cirrosis,
+
+42
+00:02:59,750 --> 00:03:04,750
+pero les adelanto que las colestasias crónicas sí evolucionan en el largo plazo
+
+43
+00:03:04,750 --> 00:03:08,750
+a un daño hepático-crónico también, al igual que las hepatitis crónicas.
+
+44
+00:03:09,750 --> 00:03:12,750
+En este caso, su etiología es autoinmune
+
+45
+00:03:12,750 --> 00:03:14,750
+y el factor de riesgo más importante, hay que saberlo,
+
+46
+00:03:14,750 --> 00:03:18,750
+son mujeres multíparas en un rango de edad media, por si acaso.
+
+47
+00:03:18,750 --> 00:03:25,750
+Hay algunos que postulan, aunque hay poca evidencia al respecto,
+
+48
+00:03:25,750 --> 00:03:31,750
+que eventualmente alguna célula blanca fetal va y pasa a la circulación materna
+
+49
+00:03:31,750 --> 00:03:36,750
+y luego de eso termina por atacar al hígado de la madre, ¿cierto?
+
+50
+00:03:36,750 --> 00:03:40,750
+El cuadro clínico, hay que saberlo, muchas veces viene sin ningún síntoma
+
+51
+00:03:40,750 --> 00:03:46,750
+y simplemente con síntomas o con signos en los resultados de los exámenes, ¿cierto?
+
+52
+00:03:46,750 --> 00:03:51,750
+de una colestasia crónica, siendo la elevación de las fosfatasas alcalinas la más importante.
+
+53
+00:03:51,750 --> 00:03:56,750
+A veces viene con la bilirrubina normal o la gizquitén normal también,
+
+54
+00:03:56,750 --> 00:03:59,750
+a veces sí está elevado, pero les adelanto,
+
+55
+00:03:59,750 --> 00:04:03,750
+toda mujer en edad media con elevación importante de las fosfatasas alcalinas,
+
+56
+00:04:03,750 --> 00:04:07,750
+sin alguna otra causa que lo demuestre, eventualmente es una cirrosibilidad primaria
+
+57
+00:04:07,750 --> 00:04:11,750
+que es algo muy grave y que vale la pena diagnosticar cuanto antes.
+
+58
+00:04:11,750 --> 00:04:15,750
+Segundo lugar, el rango de edad y lo subrayo que hay que saberlo
+
+59
+00:04:15,750 --> 00:04:18,750
+son las mujeres entre 40 y 60 años, es raro que ocurra antes
+
+60
+00:04:18,750 --> 00:04:21,750
+y es raro que ocurra igualmente después.
+
+61
+00:04:21,750 --> 00:04:25,750
+Y como síntoma, suele ser un síntoma muy inespecífico, ¿cierto?
+
+62
+00:04:25,750 --> 00:04:29,750
+Pero la astenia es lo más frecuente, así que el cuadro clínico en general
+
+63
+00:04:29,750 --> 00:04:33,750
+es una mujer en edad media con astenia, con las fosfatasas alcalinas elevadas,
+
+64
+00:04:33,750 --> 00:04:35,750
+sin ninguna otra cosa más.
+
+65
+00:04:35,750 --> 00:04:40,750
+Finalmente, es infrecuente que ya evolucione con los otros síntomas de una colestasia,
+
+66
+00:04:40,750 --> 00:04:45,750
+dígase con el prohibito que suele no responder a los antihistamínicos,
+
+67
+00:04:45,750 --> 00:04:47,750
+y con la ictericia también.
+
+68
+00:04:47,750 --> 00:04:51,750
+Ahora, ¿qué anticuerpos son los que están positivos acá?
+
+69
+00:04:51,750 --> 00:04:57,750
+Son los anticuerpos antimitocondriales que se abrevían como AMA
+
+70
+00:04:57,750 --> 00:05:01,750
+y que son muy sensibles y muy específicos de esta enfermedad,
+
+71
+00:05:01,750 --> 00:05:07,750
+así que muchas veces con una clínica más un patrón de las pruebas hepáticas compatibles
+
+72
+00:05:07,750 --> 00:05:10,750
+son suficientes estos anticuerpos como para hacer el diagnóstico,
+
+73
+00:05:10,750 --> 00:05:15,750
+pero si es que me queda la duda, en ese caso se va a la biopsiepática
+
+74
+00:05:15,750 --> 00:05:20,750
+que justamente muestra la afectación de la vía biliar intrepática.
+
+75
+00:05:20,750 --> 00:05:24,750
+En este caso, las imágenes que ven la vía biliar extrepática,
+
+76
+00:05:24,750 --> 00:05:29,750
+a la vía biliar más grande suelen estar absolutamente normales
+
+77
+00:05:29,750 --> 00:05:34,750
+porque es un ataque autoinmune pero a la vía biliar más pequeña intrepática.
+
+78
+00:05:34,750 --> 00:05:38,750
+Repito, no siempre se pide la biopsia, a veces con los AMA es suficiente
+
+79
+00:05:38,750 --> 00:05:43,750
+dado que son bien específicos y las pruebas específicas por la general confirman, ¿cierto?
+
+80
+00:05:43,750 --> 00:05:46,750
+Finalmente, ¿cuál es el tratamiento de la cirrosis filia primaria?
+
+81
+00:05:46,750 --> 00:05:50,750
+La verdad es que no hay ninguno que sirva, o al menos no mucho,
+
+82
+00:05:50,750 --> 00:05:54,750
+el ácido urso de oxicólico es el de elección en el sentido en que
+
+83
+00:05:54,750 --> 00:05:58,750
+me disminuyen un poquito los síntomas y algunos creen que puede
+
+84
+00:05:58,750 --> 00:06:02,750
+como elentecer la evolución de la enfermedad también que ya dijimos
+
+85
+00:06:02,750 --> 00:06:07,750
+va evolucionando lentamente a la cirrosis hepática, al daño hepático crónico
+
+86
+00:06:07,750 --> 00:06:11,750
+y finalmente el trasplante hepático sigue siendo el tratamiento de última línea.
+
+87
+00:06:11,750 --> 00:06:15,750
+Pero repito, son mujeres que pueden vivir bastantes años,
+
+88
+00:06:15,750 --> 00:06:17,750
+es muy muy rara en los hombres en cambio.
+
+89
+00:06:17,750 --> 00:06:21,750
+Y digamos la última, la famosa CEP, la colangitis esclerosante primaria,
+
+90
+00:06:21,750 --> 00:06:25,750
+en este caso el otro nombre que tiene es colangitis fibrosante primaria
+
+91
+00:06:25,750 --> 00:06:28,750
+pero el que se usa más es esclerosante, ¿cierto?
+
+92
+00:06:28,750 --> 00:06:32,750
+Y en este caso la etiología igualmente es autoinmune pero
+
+93
+00:06:32,750 --> 00:06:36,750
+se relaciona muy fuertemente con la colitis ulcerosa.
+
+94
+00:06:36,750 --> 00:06:40,750
+Un porcentaje altísimo de los pacientes con CEP
+
+95
+00:06:40,750 --> 00:06:45,750
+efectivamente han sido diagnosticados antes de la colitis ulcerosa
+
+96
+00:06:45,750 --> 00:06:48,750
+y por lo mismo el que venga con ese antecedente
+
+97
+00:06:48,750 --> 00:06:52,750
+es algo que me orienta muy muy fuertemente a una colangitis esclerosante
+
+98
+00:06:52,750 --> 00:06:54,750
+en algún paciente que está con colestasia.
+
+99
+00:06:54,750 --> 00:06:58,750
+El cuadro clínico es el de una colestasia crónica, ¿cierto?
+
+100
+00:06:58,750 --> 00:07:02,750
+Ya dijimos, elevación de las fufatazas alcalinas, de la bilirrubina, de la GGT.
+
+101
+00:07:02,750 --> 00:07:06,750
+Nuevamente la fufataza alcalina es lo que se suele elevar antes
+
+102
+00:07:06,750 --> 00:07:11,750
+y en este caso además puede que venga con toda la clínica de la colitis ulcerosa,
+
+103
+00:07:11,750 --> 00:07:15,750
+con la diarrea, con sangre, etcétera, con pujo, tenesmo
+
+104
+00:07:15,750 --> 00:07:18,750
+y todos esos síntomas que ya vimos en la clase respectiva.
+
+105
+00:07:18,750 --> 00:07:22,750
+Los anticuerpos en este caso son los mismos de la colitis ulcerosa
+
+106
+00:07:22,750 --> 00:07:24,750
+que ya los vimos que son los ANCA
+
+107
+00:07:24,750 --> 00:07:29,750
+que se informan como en patrón perinuclear o en patrón P, ¿cierto?
+
+108
+00:07:29,750 --> 00:07:32,750
+que el otro nombre son anticuerpos anticitoplasma de neutrófilo
+
+109
+00:07:32,750 --> 00:07:36,750
+y el diagnóstico en este caso dado que los ANCA
+
+110
+00:07:36,750 --> 00:07:38,750
+se ven en otras patologías también
+
+111
+00:07:38,750 --> 00:07:41,750
+es con una imagen en específico con la colangios resonancia
+
+112
+00:07:41,750 --> 00:07:45,750
+que aquí si ve la afectación tanto de la vía biliar intrepática
+
+113
+00:07:45,750 --> 00:07:49,750
+como de la extra hepática que se suele describir
+
+114
+00:07:49,750 --> 00:07:52,750
+como un arrosariamiento de la vía biliar.
+
+115
+00:07:52,750 --> 00:07:57,750
+Ahora el tratamiento, lo más importante sigue siendo el ácido urso de oxicólico
+
+116
+00:07:57,750 --> 00:08:00,750
+con la diferencia que en este caso cuando hay mucha afectación
+
+117
+00:08:00,750 --> 00:08:02,750
+de la vía biliar extra hepática también
+
+118
+00:08:02,750 --> 00:08:05,750
+eventualmente se le puede poner algún stent o alguna otra cosa
+
+119
+00:08:05,750 --> 00:08:07,750
+para que me dilate la vía biliar
+
+120
+00:08:07,750 --> 00:08:11,750
+y que me ayude al drenaje de la vida, ¿cierto?
+
+121
+00:08:11,750 --> 00:08:14,750
+Y bueno, todo lo que hay que saber, acuérdense
+
+122
+00:08:14,750 --> 00:08:18,750
+ANA tiene asma, tiene hepatitis autoinmune y el anti-LKM1
+
+123
+00:08:18,750 --> 00:08:22,750
+en cambio la cirrosis biliar primaria son los anti-mitoconreales
+
+124
+00:08:22,750 --> 00:08:25,750
+los AMAs y la CEP son los ANCA
+
+125
+00:08:25,750 --> 00:08:27,750
+igual que las vasculitis, ¿cierto?
+
+126
+00:08:27,750 --> 00:08:29,750
+e igual que la colitis ulcerosa, ¿ya?
+
+127
+00:08:29,750 --> 00:08:31,750
+Nos vemos en el siguiente tema, que estén bien.

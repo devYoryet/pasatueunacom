@@ -1,0 +1,507 @@
+1
+00:00:00,000 --> 00:00:09,110
+Hola, ¿cómo están? Hablemos del dolor torácico, cierto, un gran tema en medicina en general.
+
+2
+00:00:09,110 --> 00:00:13,110
+Las causas son muchas, pero lo importante es que algunas de estas causas pueden ser bastante graves.
+
+3
+00:00:13,110 --> 00:00:17,950
+Por ejemplo, un infarto, un tromboembolismo pulmonar, la disección aórtica, el pneumotórax,
+
+4
+00:00:17,950 --> 00:00:23,230
+pero no son las únicas. Igualmente la pericarditis aguda, la costocondritis, la miocarditis,
+
+5
+00:00:23,230 --> 00:00:26,830
+el espasmo esofágico, las neumonías, el herpes zóster, etc.
+
+6
+00:00:26,830 --> 00:00:32,290
+O sea, la lista de causas es muy grande, pero si se fijan, infarto, TEP, disección aórtica,
+
+7
+00:00:32,290 --> 00:00:34,290
+ya son algunas que pueden ser muy graves.
+
+8
+00:00:34,290 --> 00:00:40,290
+Si es que viene con alguna clínica específica de cada una de estas, en ese caso se maneja según la clínica.
+
+9
+00:00:40,290 --> 00:00:46,790
+Ejemplo, si es que viene con dolor torácico tipo puntada de costado, con tos, fiebre y efectuación mucopurulenta,
+
+10
+00:00:46,790 --> 00:00:52,790
+se maneja como la neumonía. Si es que viene con una clínica inespecífica, con dolores en el pecho,
+
+11
+00:00:52,790 --> 00:00:58,290
+pero que no parece hacer ninguna causa tan fácil de identificar, en ese caso se estudia al menos
+
+12
+00:00:58,290 --> 00:01:03,790
+con un electrocardiograma como para ir a descartar que esté con un síndrome coronario, ¿cierto?
+
+13
+00:01:03,790 --> 00:01:09,290
+Y con la radiografía como para ir a ver algunas de las otras causas como la neumonía, entre otras.
+
+14
+00:01:09,290 --> 00:01:16,790
+Si es que el infarto ya se vuelve algo posible, ejemplo, un paciente de 50 años, diabético, hipertenso,
+
+15
+00:01:16,790 --> 00:01:23,790
+en ese caso yo estoy obligado a pedirle sí o sí un electrocardiograma más el pedirle las troponinas también
+
+16
+00:01:24,290 --> 00:01:29,290
+y no lo puedo llegar y mandar para la casa. De hecho, ¿qué pasa si es que no tengo electrocardiograma
+
+17
+00:01:29,290 --> 00:01:36,290
+en el lugar en que lo estoy atendiendo? Pues estoy obligado, obligado a derivarlo a un lugar de mayor complejidad.
+
+18
+00:01:36,290 --> 00:01:42,290
+Que esto quede bien claro, por favor que no se les pasen los infartos en el sentido en que
+
+19
+00:01:42,290 --> 00:01:47,290
+es de las razones más importantes para que se pierda un juicio de negligencia médica porque
+
+20
+00:01:47,790 --> 00:01:54,790
+en general el médico general debe ser capaz de identificarlo y manejarlo de manera muy rápida
+
+21
+00:01:54,790 --> 00:02:00,790
+aunque el manejo sea simplemente la derivación inmediata y urgente a un lugar de complejidad un poquito mayor.
+
+22
+00:02:00,790 --> 00:02:07,790
+Así que el infarto además es probable ya con un síndrome coronario agudo, con el dolor característico de un infarto,
+
+23
+00:02:07,790 --> 00:02:12,290
+en ese caso estoy obligado además a manejarlo como un síndrome coronario agudo independiente
+
+24
+00:02:12,290 --> 00:02:16,290
+del electrocardiograma, de las troponinas o de la radiografía de tórax.
+
+25
+00:02:16,790 --> 00:02:21,790
+Veamos ahora cuál es la crínica clásica del síndrome coronario agudo que hay que saberla con mucho detalle.
+
+26
+00:02:21,790 --> 00:02:27,290
+Habitualmente viene con antecedentes de los factores de riesgo cardiovascular, diabetes, hipertensión,
+
+27
+00:02:27,290 --> 00:02:31,790
+dilipidemia, la edad, el tabaquismo, los antecedentes familiares, entre otros.
+
+28
+00:02:31,790 --> 00:02:38,790
+Habitualmente es un dolor súbito, intensa, con un EVA al menos de 7, no siempre por si acaso.
+
+29
+00:02:38,790 --> 00:02:44,790
+El carácter suele ser opresivo, digase como que le aprieta el pecho o bien sordo,
+
+30
+00:02:44,790 --> 00:02:46,790
+digase como no lo puedo describir muy bien.
+
+31
+00:02:46,790 --> 00:02:54,290
+Habitualmente de localización precordial o bien retroexternal, que habitualmente se irradia hacia los brazos,
+
+32
+00:02:54,290 --> 00:02:57,290
+hacia cualquiera de los dos, el clásico que se enseña es el brazo izquierdo,
+
+33
+00:02:57,290 --> 00:03:04,290
+pero se puede irradiar sin ningún problema al brazo derecho o a los hombros, igualmente al cuello o a la mandíbula.
+
+34
+00:03:04,290 --> 00:03:11,790
+A veces viene con sensación de muerte inminente y a veces el paciente se muere, además, así que a veces es cierto.
+
+35
+00:03:11,790 --> 00:03:18,290
+Y muchas veces viene con disnea, con suboración, con síntomas neurovegetativos como náuseas, por ejemplo.
+
+36
+00:03:18,290 --> 00:03:23,290
+Y en el examen físico, a veces, no siempre se encuentra, por ejemplo, un R4,
+
+37
+00:03:23,290 --> 00:03:31,790
+en el sentido en que cae un poco la distensibilidad del corazón y se produce una difusión diastólica,
+
+38
+00:03:31,790 --> 00:03:36,790
+con un cuarto ruido, o bien con un R3 por la difusión sistólica que se puede producir igual,
+
+39
+00:03:36,790 --> 00:03:41,290
+con taquicardia, con hipertensión, a veces con hipotensión, etc.
+
+40
+00:03:41,790 --> 00:03:46,290
+En el caso de la disección aórtica, viene con una clínica que puede ser muy similar,
+
+41
+00:03:46,290 --> 00:03:49,290
+pero hay algunas veces en que hay algunas diferencias que hay que saber.
+
+42
+00:03:49,290 --> 00:03:54,290
+Es muy frecuente que viene con el antecedente de la hipertensión arterial,
+
+43
+00:03:54,290 --> 00:03:56,290
+al menos en el caso de la disección espontánea.
+
+44
+00:03:56,290 --> 00:03:59,790
+En el caso de la traumática viene con el antecedente del trauma de tórax.
+
+45
+00:03:59,790 --> 00:04:04,790
+Habitualmente es un dolor súbito, bastante intenso, igualmente de tipo lancinante,
+
+46
+00:04:04,790 --> 00:04:09,790
+que es como una lanza, cierto, que lo atraviesa, que se irradia al dorso,
+
+47
+00:04:09,790 --> 00:04:14,790
+que se describe como transfixiante, en el sentido en que va desde el pecho hacia la espalda,
+
+48
+00:04:14,790 --> 00:04:17,790
+con sensación de muerte igualmente.
+
+49
+00:04:17,790 --> 00:04:21,790
+Una de las cosas más importantes que inmediatamente me obliga a sospechar una disección aórtica
+
+50
+00:04:21,790 --> 00:04:24,790
+es que venga con un soplo diastólico de insuficiencia aórtica,
+
+51
+00:04:24,790 --> 00:04:29,790
+en el sentido en que el flap de disección llega hasta la misma raíz aórtica, cierto,
+
+52
+00:04:29,790 --> 00:04:32,790
+y me disseca la válvula aórtica.
+
+53
+00:04:32,790 --> 00:04:37,790
+La asimetría de los pulsos radiales, o la asimetría entre los pulsos superiores e inferiores,
+
+54
+00:04:37,790 --> 00:04:43,790
+en el sentido en que nuevamente el flap de disección me tapa alguna de estas arterias.
+
+55
+00:04:43,790 --> 00:04:49,790
+Si es que viene con una crisis hipertensiva, aunque eso igualmente se puede ver en contexto de un infarto,
+
+56
+00:04:49,790 --> 00:04:53,790
+pero si es que viene con presiones de 230 con 120, por ejemplo,
+
+57
+00:04:53,790 --> 00:04:58,790
+en ese caso una de las cosas que debo pensar inmediatamente es una disección aórtica,
+
+58
+00:04:58,790 --> 00:05:04,790
+y a veces, acuérdense que el nervio laryngio recurrente pasa por debajo del callado aórtica,
+
+59
+00:05:04,790 --> 00:05:13,790
+y al disecarse puede comprimirlo, así que se puede ver con difonía por una parálisis de ese nervio.
+
+60
+00:05:13,790 --> 00:05:18,790
+En el caso del TEP, acuérdense, suele ser de inicio súbito, venir con disnea,
+
+61
+00:05:18,790 --> 00:05:24,790
+con taquicardia, que suele ser el signo más frecuente, aunque bastante inespecífico,
+
+62
+00:05:24,790 --> 00:05:28,790
+suele ser de tipo pleurítico, o sea, con dolor que aumenta con la inspiración,
+
+63
+00:05:29,790 --> 00:05:35,790
+Muchas veces viene con hemoptisis, además, con los factores de riesgo para una trombosis penosa profunda,
+
+64
+00:05:35,790 --> 00:05:39,790
+ejemplo que está postoperado, que es una mujer embarazada, puérpera,
+
+65
+00:05:39,790 --> 00:05:44,790
+que hay un cáncer de base o que viene con alguna trombofilia de base,
+
+66
+00:05:44,790 --> 00:05:50,790
+y el electrocardiograma, el más clásico, es el que viene con un patrón S1 Q3 T3,
+
+67
+00:05:50,790 --> 00:05:57,790
+S1 una onda S en la derivación 1, en D1, el Q3 y el T3 que viene con una onda Q
+
+68
+00:05:57,790 --> 00:06:02,790
+y con una onda T invertida en D3. Ahora, va con un asterisco ahí,
+
+69
+00:06:02,790 --> 00:06:06,790
+en el sentido en que es un patrón bastante infrecuente,
+
+70
+00:06:06,790 --> 00:06:10,790
+y lo que se ve con mayor frecuencia es simplemente una taquicardia sinusal,
+
+71
+00:06:10,790 --> 00:06:12,790
+sin ninguna otra causa que le explique.
+
+72
+00:06:12,790 --> 00:06:17,790
+En el caso del neumotorax, igualmente es de inicio súbito, viene con disnea,
+
+73
+00:06:17,790 --> 00:06:22,790
+igualmente aumenta con la inspiración, en eso se parece un poco al TEP,
+
+74
+00:06:22,790 --> 00:06:25,790
+pero la gran diferencia son las alteraciones del examen físico,
+
+75
+00:06:25,790 --> 00:06:28,790
+dígase la hiper sonoridad a la percusión,
+
+76
+00:06:28,790 --> 00:06:31,790
+la disminución del humullo pulmonar a la ocultación,
+
+77
+00:06:31,790 --> 00:06:36,790
+y se suele describir en que son pacientes longiliños,
+
+78
+00:06:36,790 --> 00:06:42,790
+jóvenes y delgados al menos, en el sentido en que esa contextura
+
+79
+00:06:42,790 --> 00:06:45,790
+se asoce un poco a la presencia de las bulas o blebs
+
+80
+00:06:45,790 --> 00:06:47,790
+que son las que se rompen en el neumotorax.
+
+81
+00:06:47,790 --> 00:06:52,790
+En el caso de la pericarditis aguda es un inicio no necesariamente agudo,
+
+82
+00:06:52,790 --> 00:06:57,790
+puede ser subagudo, ejemplo en varias horas o en algunos días incluso,
+
+83
+00:06:57,790 --> 00:07:03,790
+suele aumentar con la inspiración y suele disminuir al inclinarse hacia adelante
+
+84
+00:07:03,790 --> 00:07:09,790
+o al quedar con una posición genupectoral que es en el fondo el que queda en cuclilla
+
+85
+00:07:09,790 --> 00:07:13,790
+con el pecho hacia las rodillas por si acaso,
+
+86
+00:07:13,790 --> 00:07:18,790
+en cambio aumenta al acostarse en supino, cierto, boca arriba.
+
+87
+00:07:18,790 --> 00:07:22,790
+El electrocardiograma en este caso es muy clásico
+
+88
+00:07:22,790 --> 00:07:27,790
+y viene con un supranivel del ST que habitualmente el supranivel
+
+89
+00:07:27,790 --> 00:07:31,790
+es un signo de esquema miocárdica pero en la pericarditis
+
+90
+00:07:31,790 --> 00:07:36,790
+se ve con un patrón bastante difuso que lo vamos a ver en su clase
+
+91
+00:07:36,790 --> 00:07:40,790
+y que se describe como cóncavo hacia arriba o en J,
+
+92
+00:07:40,790 --> 00:07:42,790
+que insisto lo vamos a ver después.
+
+93
+00:07:42,790 --> 00:07:46,790
+Efectualmente es un paciente joven, o sea si me dicen que un paciente
+
+94
+00:07:46,790 --> 00:07:49,790
+de 70 años diabético hipertenso está con esa clínica,
+
+95
+00:07:49,790 --> 00:07:51,790
+yo me quedo con la idea de que es un infarto igual,
+
+96
+00:07:51,790 --> 00:07:56,790
+pero si es que es un paciente joven que no parece ser un cuadro coronario
+
+97
+00:07:56,790 --> 00:08:00,790
+y el cuadro clínico es característico y el electro igualmente lo es,
+
+98
+00:08:00,790 --> 00:08:03,790
+en ese caso si me inclino mucho más a una pericarditis aguda.
+
+99
+00:08:03,790 --> 00:08:08,790
+En el caso de la costocondritis que es una causa bastante frecuente
+
+100
+00:08:08,790 --> 00:08:13,790
+en este caso, lo más importante es que viene con el dolor a la presión
+
+101
+00:08:13,790 --> 00:08:17,790
+o a la compresión de la unión costocondral,
+
+102
+00:08:17,790 --> 00:08:20,790
+habitualmente aumenta con la inspiración también
+
+103
+00:08:20,790 --> 00:08:24,790
+y uno habla del one finger pain en el sentido en que hay un dolor
+
+104
+00:08:24,790 --> 00:08:29,790
+que se escribe como exquisito a presionar el lugar que justamente
+
+105
+00:08:29,790 --> 00:08:31,790
+está inflamado y que justamente le duele.
+
+106
+00:08:31,790 --> 00:08:35,790
+Es muy frecuente en pacientes jóvenes y la verdad es que su causa
+
+107
+00:08:35,790 --> 00:08:40,790
+se desconoce pero se cree que es una reacción hasta cierto punto inmunológica.
+
+108
+00:08:40,790 --> 00:08:43,790
+Finalmente en el caso del espasmo esofágico,
+
+109
+00:08:43,790 --> 00:08:47,790
+acuérdense que se suele asociar al reflujo gastroesofágico
+
+110
+00:08:47,790 --> 00:08:51,790
+y suele ser postprandial en el sentido en que se produce
+
+111
+00:08:51,790 --> 00:08:54,790
+en contexto de una cantidad de reflujo importante
+
+112
+00:08:54,790 --> 00:08:58,790
+y como cosa bien importante disminuye de manera importante
+
+113
+00:08:58,790 --> 00:09:00,790
+con los nitritos, con la nitrolicerina.
+
+114
+00:09:00,790 --> 00:09:04,790
+De hecho el típico espasmo esofágico es el que llega
+
+115
+00:09:04,790 --> 00:09:06,790
+y yo lo manejo como un síndrome coronario,
+
+116
+00:09:06,790 --> 00:09:10,790
+que finalmente no encontré absolutamente nada en todo el manejo que hice,
+
+117
+00:09:10,790 --> 00:09:14,790
+que repito lo más importante es asegurarme que no sea un síndrome coronario
+
+118
+00:09:14,790 --> 00:09:17,790
+y mejor manejarlo de más como un síndrome coronario
+
+119
+00:09:17,790 --> 00:09:21,790
+que decir ah, era un espasmo esofágico y nada más
+
+120
+00:09:21,790 --> 00:09:25,790
+y que finalmente el dolor se le quitó bien temprano
+
+121
+00:09:25,790 --> 00:09:29,790
+al momento de darle la nitroglicerina
+
+122
+00:09:29,790 --> 00:09:32,790
+y luego me sale todo el estudio absolutamente normal
+
+123
+00:09:32,790 --> 00:09:36,790
+y me quedo con la idea era solamente un espasmo esofágico y nada más.
+
+124
+00:09:36,790 --> 00:09:38,790
+Y bueno, una clase un poquito larga
+
+125
+00:09:38,790 --> 00:09:40,790
+y es súper importante que se sepan esos padres clínicos
+
+126
+00:09:40,790 --> 00:09:43,790
+pero vamos a ver los manejos con más detalle más adelante.
+
+127
+00:09:43,790 --> 00:09:44,790
+Nos vemos ahí.

@@ -1,0 +1,419 @@
+1
+00:00:00,000 --> 00:00:09,260
+Hola, hola, ¿cómo están? Siguiendo con los métodos anticonceptivos, vamos a hablar ahora de los dispositivos intrauterinos.
+
+2
+00:00:09,260 --> 00:00:14,700
+Recordando que desde hace muchos años que existen, ha habido muchos tipos,
+
+3
+00:00:14,700 --> 00:00:20,380
+pero en la actualidad los dos que se siguen usando son el D.U. de Cobre y el D.U. medicado con Levon-Orgestrel,
+
+4
+00:00:20,380 --> 00:00:23,740
+que es un poco más nuevo y es un poco más efectivo.
+
+5
+00:00:23,740 --> 00:00:26,980
+Además, veamos número uno, el índice de Perl.
+
+6
+00:00:26,980 --> 00:00:30,380
+En el caso del D.U. de Cobre es de 0.8%
+
+7
+00:00:30,420 --> 00:00:34,380
+y en cambio el con Levon-Orgestrel es de 0.2%,
+
+8
+00:00:34,380 --> 00:00:39,220
+así que hasta ese punto, al menos, el mejor sería el D.U. medicado.
+
+9
+00:00:39,220 --> 00:00:41,740
+Es un poquito más caro, pero es bastante bueno.
+
+10
+00:00:41,740 --> 00:00:46,020
+Es uno de los métodos anticonceptivos más eficaces que hay, por si acaso.
+
+11
+00:00:46,020 --> 00:00:50,820
+Es mucho más efectivo que las pastillas anticonceptivas
+
+12
+00:00:50,820 --> 00:00:56,500
+debido a que justamente las pastillas anticonceptivas dependen de que la paciente se las tome,
+
+13
+00:00:56,500 --> 00:00:59,860
+de que no se le olvide tomárselas.
+
+14
+00:00:59,900 --> 00:01:04,500
+En cambio, el D.U. medicado con Levon-Orgestrel queda implantado,
+
+15
+00:01:04,500 --> 00:01:08,820
+y repito, es muy muy eficaz y muy efectivo también.
+
+16
+00:01:08,820 --> 00:01:14,020
+Segundo lugar, el efecto que el D.U. eventualmente tiene sobre el flujo menstrual
+
+17
+00:01:14,020 --> 00:01:18,700
+es muy distinto según si es una T. de Cobre o si es un D.U. medicado.
+
+18
+00:01:18,700 --> 00:01:22,900
+En el caso del D.U. de Cobre suele aumentar la cantidad de flujo menstrual,
+
+19
+00:01:22,900 --> 00:01:26,420
+así que está contraindicado en las pacientes con Hipermenorrea, por ejemplo.
+
+20
+00:01:26,460 --> 00:01:30,820
+En cambio, el con Levon-Orgestrel por la general disminuye la cantidad de flujo menstrual,
+
+21
+00:01:30,820 --> 00:01:35,340
+así que por el contrario está indicado en una paciente con una adenomiosis, por ejemplo,
+
+22
+00:01:35,340 --> 00:01:37,820
+o con una miomatosis con síntomas.
+
+23
+00:01:37,820 --> 00:01:41,900
+Segundo lugar, el efecto sobre la Dismenorrea sigue este mismo patrón,
+
+24
+00:01:41,900 --> 00:01:47,500
+habitualmente lo aumenta la T. de Cobre, en cambio lo disminuye el D.U. medicado,
+
+25
+00:01:47,500 --> 00:01:53,340
+así que nuevamente en una paciente con Dismenorrea, ya sea de tipo primaria o secundaria,
+
+26
+00:01:53,380 --> 00:01:58,020
+estaría absolutamente contraindicado el D.U. de Cobre y estaría indicado, en cambio,
+
+27
+00:01:58,020 --> 00:02:02,300
+el D.U. con Levon-Orgestrel, aunque habitualmente se maneja con anticonceptivos orales,
+
+28
+00:02:02,300 --> 00:02:04,940
+que eso ya lo vimos en la respectiva clase.
+
+29
+00:02:04,940 --> 00:02:09,980
+Además, respecto a si se pueden implantar en una paciente que nunca se ha embarazado,
+
+30
+00:02:09,980 --> 00:02:13,660
+en una paciente nuligesta, la regla general es que el D.U. de Cobre
+
+31
+00:02:13,660 --> 00:02:16,940
+estaría contraindicado en la paciente nuligesta
+
+32
+00:02:16,940 --> 00:02:20,820
+debido a que aumenta el riesgo de Dismenorrea secundaria al D.U.
+
+33
+00:02:20,820 --> 00:02:26,700
+En cambio, sí se puede usar en el caso de que sea un D.U. medicado con Levon-Orgestrel,
+
+34
+00:02:26,700 --> 00:02:30,860
+a pesar de que es una paciente que nunca se ha embarazado
+
+35
+00:02:30,860 --> 00:02:33,980
+y que por lo mismo viene con un útero que es un poco más pequeño.
+
+36
+00:02:33,980 --> 00:02:38,060
+En el caso de la promiscuidad sexual, acuérdense que es la contraindicación
+
+37
+00:02:38,060 --> 00:02:44,900
+más importante de ambos D.U. debido a que si bien no aumentan el riesgo de una infección,
+
+38
+00:02:44,900 --> 00:02:48,740
+en el caso de que se infecten con un proceso inflamatorio pélvico
+
+39
+00:02:48,740 --> 00:02:52,820
+y que no responda al tratamiento antibiótico después de dos a tres días,
+
+40
+00:02:52,820 --> 00:02:54,820
+está indicado el retirar el D.U.
+
+41
+00:02:54,820 --> 00:02:58,900
+Así que, repito, la promiscuidad sexual es la gran contraindicación
+
+42
+00:02:58,900 --> 00:03:02,100
+del uso de cualquiera de estos dispositivos intruterinos.
+
+43
+00:03:02,820 --> 00:03:07,380
+Además, respecto del cáncer de mama, esto igualmente hay que saberlo con algún detalle,
+
+44
+00:03:07,380 --> 00:03:11,980
+el D.U. de Cobre es el método anticonceptivo de elección en este caso
+
+45
+00:03:11,980 --> 00:03:14,780
+debido a que no usa ningún tipo de hormona.
+
+46
+00:03:14,820 --> 00:03:20,100
+En cambio, el con levonorgestrel, por el contrario, es algo que está absolutamente contraindicado
+
+47
+00:03:20,100 --> 00:03:24,180
+debido a que el levonorgestrel es un progestágeno
+
+48
+00:03:24,180 --> 00:03:28,420
+y el cáncer de mama me contraindica absolutamente todos los métodos que venga,
+
+49
+00:03:28,420 --> 00:03:30,980
+ya sea con estrógeno y los con progestágeno también.
+
+50
+00:03:31,580 --> 00:03:36,900
+Como cosa final, respecto al riesgo cardiovascular, ambos se pueden usar
+
+51
+00:03:36,900 --> 00:03:43,260
+debido a que el que viene con Cobre viene sin ninguna hormona que aumente el riesgo cardiovascular
+
+52
+00:03:43,300 --> 00:03:48,460
+y el que viene con levonorgestrel viene, número uno, con una dosis que es bastante baja
+
+53
+00:03:48,460 --> 00:03:52,380
+y que se queda fundamentalmente en esa misma zona local.
+
+54
+00:03:52,380 --> 00:03:56,140
+Y, segundo lugar, a que los progestágenos solos, por regla general,
+
+55
+00:03:56,140 --> 00:03:59,660
+aumentan muy, muy poquito el riesgo cardiovascular,
+
+56
+00:03:59,660 --> 00:04:03,940
+a diferencia del estrógeno más el progestágeno que sí lo puede aumentar más.
+
+57
+00:04:03,940 --> 00:04:08,260
+Así que, repito, una paciente con alto riesgo cardiovascular,
+
+58
+00:04:08,740 --> 00:04:14,540
+tanto el DIU de Cobre como el DIU medicado son una excelente opción.
+
+59
+00:04:14,540 --> 00:04:17,660
+De lo que está acá, lo más importante que tienen que recordar es
+
+60
+00:04:17,660 --> 00:04:19,780
+la promiscuidad sexual me contraindica a los dos
+
+61
+00:04:19,780 --> 00:04:25,300
+y el cáncer de mama me contraindica el con el levonorgestrel,
+
+62
+00:04:25,300 --> 00:04:29,140
+en cambio, me prefiere de elección la T de Cobre.
+
+63
+00:04:29,740 --> 00:04:33,060
+Veamos ahora este tema muy brevemente, el embarazo con DIU.
+
+64
+00:04:33,060 --> 00:04:35,980
+Acuérdense que es muy infrecuente que se embarace,
+
+65
+00:04:36,020 --> 00:04:37,180
+pero si es que se embaraza,
+
+66
+00:04:37,180 --> 00:04:40,900
+al igual que lo que ocurría en la ligadura tubárica,
+
+67
+00:04:40,900 --> 00:04:43,700
+el riesgo es que sea un embarazo etópico.
+
+68
+00:04:43,700 --> 00:04:46,380
+Ahora, si es que una paciente se embaraza con DIU,
+
+69
+00:04:46,380 --> 00:04:50,180
+la conducta es, número uno, hacerle una especuloscopía
+
+70
+00:04:50,180 --> 00:04:52,380
+como para ver si es que se ven las guías del DIU
+
+71
+00:04:52,380 --> 00:04:54,060
+que salen por el orificio cervical,
+
+72
+00:04:54,060 --> 00:04:58,900
+como para ver si es que eventualmente se pueden sacar el DIU tirando las guías,
+
+73
+00:04:58,900 --> 00:05:02,180
+más una ecografía tranvaginal que me permite ver
+
+74
+00:05:02,180 --> 00:05:05,220
+si es que hay un saco gestacional intrauterino o no,
+
+75
+00:05:05,260 --> 00:05:08,900
+y segundo lugar, la relación que hay entre el DIU y el saco.
+
+76
+00:05:08,900 --> 00:05:12,340
+Si es que se confirma que es un embarazo etópico en la EcoTV
+
+77
+00:05:12,340 --> 00:05:15,260
+o porque no se ve un saco intrauterino,
+
+78
+00:05:15,260 --> 00:05:18,340
+en ese caso se puede sacar el DIU sin ningún problema,
+
+79
+00:05:18,340 --> 00:05:21,500
+más el manejo general del embarazo etópico.
+
+80
+00:05:21,500 --> 00:05:23,980
+Si es que, en cambio, es un embarazo intrauterino,
+
+81
+00:05:23,980 --> 00:05:29,780
+va a depender de lo que se decide en conjunto con la paciente
+
+82
+00:05:29,780 --> 00:05:32,700
+si es que se saca o bien si es que se deja.
+
+83
+00:05:32,700 --> 00:05:36,660
+Al sacarlo, el riesgo que hay es que se produzca un aborto en ese mismo momento
+
+84
+00:05:36,660 --> 00:05:40,300
+debido a que el DIU al sacarlo puede romper el saco gestacional
+
+85
+00:05:40,300 --> 00:05:45,740
+y al dejarlo, en cambio, el riesgo que hay es que el embarazo se complique más adelante
+
+86
+00:05:45,740 --> 00:05:50,420
+y se ha visto, por si acaso, que el riesgo entre dejarlo y sacarlo de aborto
+
+87
+00:05:50,420 --> 00:05:56,820
+es más o menos el mismo, así que la regla general es que se intenta sacar.
+
+88
+00:05:56,820 --> 00:05:59,300
+Pero, y aquí el gran pero,
+
+89
+00:05:59,300 --> 00:06:02,580
+cuando yo veo las guías en la especuloscopía
+
+90
+00:06:02,580 --> 00:06:06,780
+y el DIU se ve que está debajo del saco gestacional,
+
+91
+00:06:06,780 --> 00:06:11,620
+la probabilidad de que el saco gestacional se rompa es un poco más baja
+
+92
+00:06:11,620 --> 00:06:15,140
+y en ese caso se recomienda que sí se saque el DIU.
+
+93
+00:06:15,140 --> 00:06:17,780
+En cambio, si es que las guías no se ven
+
+94
+00:06:17,780 --> 00:06:20,700
+o si es que el DIU está arriba del saco gestacional,
+
+95
+00:06:20,700 --> 00:06:24,380
+el riesgo de romper el saco gestacional es mucho más alto
+
+96
+00:06:24,380 --> 00:06:27,820
+y ahí se recomienda evaluar junto con la paciente
+
+97
+00:06:27,820 --> 00:06:31,460
+si es que se deja el DIU o bien si es que ella prefiere que se saque nomás
+
+98
+00:06:31,500 --> 00:06:36,540
+y eso se toma esta decisión, repito, en conjunto con ella.
+
+99
+00:06:36,540 --> 00:06:41,340
+Ahora, a grandes rasgos, lo importante es que se suele sacar el DIU
+
+100
+00:06:41,340 --> 00:06:46,660
+debido a que el riesgo de aborto es más o menos el mismo dejándolo que sacándolo,
+
+101
+00:06:46,660 --> 00:06:50,380
+pero el riesgo de aborto aumenta cuando las guías no se ven
+
+102
+00:06:50,380 --> 00:06:55,380
+porque ahí hay que dilatar el orificio cervical y meter una pinza como para poder sacarlo
+
+103
+00:06:55,380 --> 00:06:57,860
+o cuando el DIU está arriba del saco gestacional
+
+104
+00:06:57,900 --> 00:07:01,780
+debido a que ahí al sacarlo lo va a pasar a llevar y eventualmente lo puede romper.
+
+105
+00:07:01,780 --> 00:07:04,380
+Y bueno, eso es todo lo que hay que saber. Nos vemos en el siguiente tema.

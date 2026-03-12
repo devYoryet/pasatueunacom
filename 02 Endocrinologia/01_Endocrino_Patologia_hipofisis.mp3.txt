@@ -1,0 +1,359 @@
+Hola, hola, ¿cómo están? En esta clase vamos a empezar viendo el eje hipotalámico-hipoficiario,
+
+recordando que controla a varias, pero no a todas, las glándulas endocrinas que están en el cuerpo.
+
+Recordemos que por él en general el hipotálamo que está en el cerebro produce y libera a las
+
+hormonas liberadoras, a las release hormones, y acuérdense que estas viajan a través del
+
+sistema porta-hipotalámico-hipoficiario hasta la hipófisis, induciendo la producción de
+
+las tropinas o hormonas estimulantes, las que a su vez viajan a través de la sangre periférica
+
+hacia las distintas glándulas endocrinas, e inducen la producción y la liberación de las
+
+distintas hormonas, e inducen, perdón. Ahora, la hormona final es la que hace el feedback negativo
+
+no solamente ante la hipófisis, sino que además a nivel del hipotálamo. O sea,
+
+en resumen, el hipotálamo estimula al hipófisis, que a su vez estimula a las glándulas endocrinas,
+
+la que a su vez hace un feedback negativo que inhibe al hipófisis y al hipotálamo,
+
+y ahí se regula y se mantiene este equilibrio. Veamos algunos ejemplos. La CRH,
+
+hormona liberadora de corticotropina, se libera en el hipotálamo, viaja hasta la
+
+hipófisis, ahí induce la liberación de la ACTH, o adeno corticotropina, que a su vez
+
+viaja hasta las glándulas superrenales e induce la liberación de cortisol. Por otro lado,
+
+la TRH, o hormona liberadora de tirotropina, actúa a nivel del hipófisis, y se libera en
+
+ese lugar la TSH, o tirotropina, o hormona tiroestimulante, la cual a su vez actúa
+
+a nivel de la tiroides, para la liberación de T4, que es lo mismo que la tiroxina,
+
+la que queda esto bien claro. Luego se transforma en T3, trillodotironina, para actuar a nivel de
+
+los distintos órganos del cuerpo, pero es la T4, no la T3, la que produce el feedback negativo
+
+a nivel del hipófisis y del hipotálamo. Y esto, repito, es importante, va a quedar más
+
+claro después. La acción biológica la tiene la T3, pero el feedback negativo en este eje la
+
+tiene la T4, la tiroxina. La GRH, o hormona liberadora de hormona de crecimiento, que
+
+G viene de growth, que significa crecimiento en inglés, actúa a nivel del hipófisis,
+
+cierto, y ahí se libera la hormona de crecimiento, o growth hormone, y finalmente esto actúa a
+
+nivel del hígado, en donde se libera el IGF1, que significa factor de crecimiento similar
+
+a la insulina tipo 1, y el otro nombre que tiene un poco más fácil es somatomedina,
+
+y la GH también se llama somatotrofina, por si acaso. Ahora, la GNRH, o hormona liberadora
+
+de gonadotropinas, se llama también LHRH, en sentido que la hormona liberadora de LH,
+
+o hormona luteinizante, que es una de las dos gonadotropinas, esa se libera a nivel
+
+del hipotálamo, esa actúa a nivel del hipófisis para que se libere la LH, o hormona
+
+luteinizante, y la FSH, o hormona folículo estimulante, la cual a su vez actúa en
+
+las gónadas, en los ovarios, y en los testículos, en el caso de los hombres, para que se
+
+produzcan las hormonas sexuales, digasé, estradiol, y aparte de eso, la testosterona.
+
+Influyen de manera muy importante también en la producción de los gametos, digasé,
+
+en el ovocito, cierto, y el espermatozoide. Ahora, hay una gran excepción, que es
+
+la prolactina, en este caso, no hay un tono estimulante importante desde el hipotálamo,
+
+bueno, hay uno, pero no es tan importante, lo más importante es que hay un tono inhibitorio
+
+a través de la dopamina, cierto, y finalmente la prolactina va a inducir la producción
+
+de leche a nivel de la glándula mamaria. Ahora, la TRH sí tiene alguna acción estimulante,
+
+que la TRH era la que estimulaba la tirotropina, si es que se acuerdan, igualmente
+
+ayuda a estimular un poco la producción de prolactina, pero, repito, lo más importante
+
+no es este tono estimulante, sino que el tono inhibitorio de la dopamina, y eso hace
+
+que cuando hay una compresión del tallo hipoficiario, ahí se ve que aumenta la
+
+prolactina porque se pierde este tono inhibitorio de la dopamina, en cambio,
+
+sí se ve una disminución de todas las otras hormonas que se producen a nivel
+
+del hipoficio. O sea, en resumen, la compresión del tallo hipoficiario va a interferir
+
+en este eje hipotalámico-hipoficiario, va a interferir en el sistema porta-hipotalámico-hipoficiario,
+
+y eso hace que se produzca un hipopituitarismo, pero con hiperprolactinemia.
+
+Sigamos acá. Vamos a ir viendo la lesión a nivel del hipotálamo, de la hipófisis
+
+y de la glándula endocrina, cómo se ve en los niveles de las hormonas liberadoras
+
+hipotalámicas, en las hormonas estimulantes de la hipófisis y en la hormona final
+
+de las distintas glándulas. Y lo más importante es recordar qué es lo que
+
+ocurre en primer lugar. Entonces, si yo tengo una lesión en el hipotálamo,
+
+lo primero que ocurre es que cae la RH, cae la hormona liberadora y eso
+
+hace que, obviamente, no se estimule la hipófisis, así que cae igualmente la
+
+hormona estimulante y que a su vez no se estimule la glándula final y
+
+eso hace que caiga la hormona final también. Si es que se daña, en cambio,
+
+la hipófisis, en ese caso va a caer la hormona estimulante, lo cual va a ser que
+
+caiga la producción de hormona final y finalmente que se eleve porque se
+
+pierde el feedback negativo hacia el hipotálamo, así que la hormona
+
+liberadora hipotalámica, en cambio, se va a aumentar. Y finalmente, si es que
+
+yo tengo un daño en la glándula, si es que tengo una hipoproducción
+
+endocrina primaria a nivel de la glándula final, en ese caso se pierde
+
+el feedback negativo hacia la hipófisis y el hipotálamo, así que va a
+
+aumentar los niveles tanto de hormona liberadora como de las hormonas
+
+estimulantes a nivel hipoficiario. Va quedando más o menos claro. Si es que
+
+no, veamos qué pasa, en cambio, cuando hay hiperproducción a nivel del
+
+hipófisis y a nivel de la glándula. Si es que hay una hiperproducción
+
+a nivel hipoficiario, obviamente aumenta la liberación de esta
+
+hormona estimulante, lo cual va a inducir que aumente igualmente la
+
+producción de la hormona final, lo cual a su vez va a venir con un
+
+feedback negativo hacia el hipotálamo y obviamente va a caer la producción
+
+de las hormonas liberadoras hipotalámicas. En cambio, si es que
+
+hay un aumento a nivel de la producción de la glándula final, ejemplo,
+
+en un hipertiroidismo primario, en ese caso se produce el feedback
+
+negativo hacia el hipotálamo, hacia la hipófisis y obviamente va a
+
+caer la producción de las hormonas liberadoras y las hormonas
+
+estimulantes. Si no quedó claro, pues va a quedar más claro ahora con
+
+algunos casos. Vamos a ir viendo los distintos casos en el caso
+
+del eje hipotálamo-hipoficiario suprarrenal con la ACTH y con el
+
+cortisol. Y si es que yo tengo que la ACTH y el cortisol están
+
+ambos elevados, ¿qué ocurrió primero? Fue que la ACTH se elevó
+
+y estimuló al cortisol, que parece algo más obvio, o bien es
+
+que el cortisol se elevó y eso estimula a la ACTH, eso no puede
+
+ser en el sentido que el cortisol inhibe a la ACTH. Así que lo
+
+que ocurrió en primer lugar fue que la ACTH se elevó, o sea, tengo
+
+una hiperproducción de ACTH, o sea, tengo una enfermedad de
+
+Cushing, que es un tumor productor de ACTH a nivel del hipófisis.
+
+Va quedando un poquito más claro. Si es que no, veamos el
+
+segundo caso. Tengo la ACTH que está alta y tengo el cortisol
+
+que está bajo. En este caso, la única explicación que hay es que
+
+el cortisol bajó inicialmente y eso hizo que se perdiera el
+
+feedback negativo sobre la hipófisis y de esa manera se
+
+elevó la ACTH. Así que el diagnóstico es un problema de
+
+hipoproducción a nivel de la glándula suprarrenal, o sea,
+
+estamos con una enfermedad de Addison o una insuficiencia
+
+suprarrenal primaria. El tercer caso, la ACTH está baja y
+
+el cortisol está bajo también. En este caso, la única
+
+explicación es que la ACTH bajó, lo cual hizo que el
+
+cortisol no fuera estimulado y bajara. Ese es el único
+
+Así que nuevamente tengo una hipoproducción a nivel de la
+
+hipófisis, así que el diagnóstico sería una
+
+insuficiencia suprarrenal hipoficiaria o también llamada
+
+insuficiencia suprarrenal secundaria, que se puede dar
+
+ejemplo en contexto de un hipopituitarismo por alguna
+
+razón. Y finalmente, si es que tengo la ACTH baja y el
+
+cortisol que está elevado, en ese caso, al estar el
+
+cortisol elevado, eso es lo que inhibe la liberación de
+
+ACTH. Así que sin ninguna duda, tengo una hiper
+
+producción a nivel suprarrenal y el diagnóstico
+
+sería un síndrome de Cushing primario por hiper
+
+producción adrenal de cortisol. Quedó un poquito más
+
+claro. Si es que no, sigamos. Vamos a verlo ahora lo
+
+mismo con la tiroides y de esta manera, si es que ya
+
+queda totalmente claro, van a estar listos para
+
+enfrentar el resto de las clases. Pero empecemos. La
+
+TCH alta, la T4 alta, que fue en primer lugar lo que
+
+ocurrió. Sin ninguna duda, la TCH se elevó, o sea,
+
+tengo una hiper producción de TCH a nivel hipoficiario
+
+porque ahí es donde se produce la TCH. Así que el
+
+diagnóstico es un tumor productor de TCH a nivel de
+
+la hipófici o un hipertiroidismo cierto de
+
+tipo secundario de tipo hipoficiario. Si es que yo
+
+tengo la TCH que está alta y la T4 libre que está
+
+baja. En ese caso, lo que ocurrió en primer lugar
+
+es que la T4 libre bajó, lo cual a su vez hizo
+
+que no pudiera mantenerse en niveles normales la
+
+TCH porque se pierde el tono inhibitorio y por lo
+
+mismo sube. Así que lo que tengo es una hipo
+
+producción a nivel de la glándula tiroides. O
+
+sea, tengo un hipotiroidismo primario, ejemplo,
+
+una enfermedad de Hashimoto o alguna otra por
+
+el estilo. Si es que tengo la TCH baja y la T4
+
+libre que también está baja, lo que ocurrió en
+
+primer lugar, sin ninguna duda, es que cayó la
+
+producción de TCH y por lo mismo no se estimuló la
+
+tiroides y cae esta producción de T4, cierto?
+
+Así que el diagnóstico sería un hipotiroidismo a
+
+nivel hipoficiario o bien un hipotiroidismo
+
+secundario. Y finalmente, si es que tengo la TCH
+
+que está baja y la T4 libre que está alta, en
+
+ese caso, el único orden lógico es que la T4
+
+libre aumentó, lo cual a su vez inhibió a la
+
+TCH. Así que tengo una hiperproducción de T4
+
+libre, cierto, a nivel de la glándula final, o
+
+sea, tengo un hipertiroidismo de tipo primario,
+
+ejemplo, una enfermedad de Baseu Graves, si es
+
+que no quedó claro, pues va a quedar claro las
+
+siguientes clases igual. Pero veamos finalmente el
+
+último tema relacionado con el eje hipotalámico
+
+hipoficiario, que es la neurohipófisis. Lo
+
+anterior era la adenohipófisis y en este
+
+caso el hipotálamo es quien produce la
+
+hormona y la libera en la neurohipófisis, o
+
+sea, la hormona se produce arriba, pero viaja
+
+a través de los axones de algunas neuronas, no
+
+viaja a través del sistema porta, no viaja
+
+a través de la sangre, sino que viaja de
+
+manera nerviosa a través de un axón y por
+
+lo mismo que se llama neurohipófisis y ahí se
+
+liberan estas hormonas. Estas hormonas son
+
+dos, la ADH, hormona antidiurética o vasopresina
+
+y finalmente la oxitocina y lo que estimula
+
+habitualmente la producción de ADH es el
+
+aumento de la osmolaridad, la hiperosmolaridad o
+
+la hipernatremia, lo cual a su vez hace que la
+
+ADH actúe a nivel renal y aumente la
+
+reabsorción de agua, bajando un poquito esta
+
+osmolaridad plasmática. Y finalmente en el
+
+caso de la oxitocina, el estímulo más
+
+importante es la succión por parte del bebé
+
+en el pezón, cierto, lo cual hace que se
+
+probosca la inyección de leche y la oxitocina
+
+además, como bien saben, tiene algún efecto a
+
+nivel del útero, cierto, y es la encargada de
+
+las contracciones uterinas durante el
+
+parto. Y bueno, eso es todo, una clase larga
+
+pero necesaria, así que nos vemos en los
+
+siguientes temas. Que estén bien.

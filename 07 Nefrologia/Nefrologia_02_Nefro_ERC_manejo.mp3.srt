@@ -1,0 +1,519 @@
+1
+00:00:00,000 --> 00:00:06,270
+Hola, hola, ¿cómo están? En este vídeo vamos a hablar de las alteraciones del
+
+2
+00:00:06,270 --> 00:00:09,950
+sodio en específico de su manejo, tanto de la hiponatremia como la
+
+3
+00:00:09,950 --> 00:00:13,470
+hipernatremia. Y empecemos con la hiponatremia. Para saber el manejo
+
+4
+00:00:13,470 --> 00:00:18,350
+antes hay que saber sus causas. Las causas son muchas, pero se agrupan en
+
+5
+00:00:18,350 --> 00:00:22,630
+tres grupos. Las con BEC elevado. BEC es el volumen extracelular. Las con
+
+6
+00:00:22,630 --> 00:00:28,070
+BEC normal y finalmente las con BEC disminuido. Aparte de esto, las con
+
+7
+00:00:28,070 --> 00:00:31,190
+BEC aumentado, que son las que vienen con edema de extremidades inferiores,
+
+8
+00:00:31,190 --> 00:00:35,310
+por ejemplo, habitualmente se agrupan en decir que son las causadas por
+
+9
+00:00:35,310 --> 00:00:39,070
+distintas insuficiencias. Dígase insuficiencia cardíaca, insuficiencia
+
+10
+00:00:39,070 --> 00:00:42,710
+renal y daño hepático crónico, que es una insuficiencia hepática. Las con
+
+11
+00:00:42,710 --> 00:00:46,110
+BEC normal, en cambio, son las de tipo endocrina, que ahí sería el
+
+12
+00:00:46,110 --> 00:00:49,950
+SEAD, el SEAD que es síndrome de desecreción inadecuado de hormona
+
+13
+00:00:49,950 --> 00:00:53,950
+antidiurética. El hipotereoidismo, la enfermedad de Addison y otras
+
+14
+00:00:53,950 --> 00:00:57,470
+causas de hipocortisolismo también. Y finalmente las con BEC disminuido,
+
+15
+00:00:57,750 --> 00:01:01,390
+que ya son más raras dentro de esa los diuréticos teacídicos en
+
+16
+00:01:01,390 --> 00:01:05,990
+particular, como la hidroclonodiazida y algunos casos de diarrea hiperosmolar
+
+17
+00:01:05,990 --> 00:01:09,990
+en que como se pierde no solamente agua, sino que muchos
+
+18
+00:01:09,990 --> 00:01:13,030
+electrolitos por la diarrea, eventualmente puede tender a la
+
+19
+00:01:13,030 --> 00:01:17,190
+hiponatremia. Sin embargo, las deshidrataciones o las
+
+20
+00:01:17,190 --> 00:01:20,910
+hipovolenias, cierto, asociadas a hiponatremia, son mucho más
+
+21
+00:01:20,910 --> 00:01:23,430
+raras que las asociadas a hipernotremia, como vamos a ver
+
+22
+00:01:23,430 --> 00:01:27,030
+después. ¿Cuál es el tratamiento de las hiponatremias en general?
+
+23
+00:01:27,070 --> 00:01:30,750
+Que todas se tratan de alguna manera relativamente similar, pues si
+
+24
+00:01:30,750 --> 00:01:33,470
+es que es leve, se trata manejando la causa. Eso es lo más
+
+25
+00:01:33,470 --> 00:01:37,270
+importante. Y segundo lugar, dado que la anatremia depende del
+
+26
+00:01:37,270 --> 00:01:40,150
+balance de agua, le doy cierto grado de restricción de agua
+
+27
+00:01:40,350 --> 00:01:43,950
+para evitar que siga bajando el sodio. Si es que el cambio es
+
+28
+00:01:43,950 --> 00:01:46,150
+severa y la severidad se define como aquella que tiene
+
+29
+00:01:46,150 --> 00:01:49,750
+síntomas, ejemplo compromiso de conciencia, cierto, un edema
+
+30
+00:01:49,750 --> 00:01:52,750
+cerebral, un síndrome de hipertensión endocriniana o bien
+
+31
+00:01:52,750 --> 00:01:56,470
+cuando está menor a 120, aunque sea asintomática bajo ese
+
+32
+00:01:56,470 --> 00:01:59,430
+valor y ya es riesgoso, pues hay que tratarla de manera
+
+33
+00:01:59,430 --> 00:02:02,430
+endovenosa, más agresiva, cierto, con suero hipertónico,
+
+34
+00:02:02,750 --> 00:02:05,670
+pero tiene que darse de manera muy lenta, con mucho
+
+35
+00:02:05,670 --> 00:02:08,950
+cuidado. ¿Por qué? Porque existe el riesgo de la mielinolysis
+
+36
+00:02:08,950 --> 00:02:12,230
+pontina. Ahora, ¿qué significa mielinolysis pontina?
+
+37
+00:02:12,510 --> 00:02:16,550
+Que se destruye, lysis, la vaina de mielina, cierto, en
+
+38
+00:02:16,550 --> 00:02:21,070
+el puente, en el puente de barolio o protuberancia anular
+
+39
+00:02:21,310 --> 00:02:24,550
+a nivel del tronco encéfalo. ¿Cuál es la clínica y cómo
+
+40
+00:02:24,590 --> 00:02:27,110
+se hace el diagnóstico de la mielinolysis pontina? Pues su
+
+41
+00:02:27,110 --> 00:02:29,710
+clínica en general es un paciente que se deteriora
+
+42
+00:02:29,710 --> 00:02:34,750
+neurológicamente, ejemplo, entra en coma durante el
+
+43
+00:02:34,750 --> 00:02:37,910
+momento o durante el proceso de corrección de una
+
+44
+00:02:37,910 --> 00:02:40,990
+hiponatremia. O sea, se hace muy rápido y eso hace que
+
+45
+00:02:40,990 --> 00:02:43,270
+finalmente evolucione con esta complicación. Y el
+
+46
+00:02:43,270 --> 00:02:44,910
+diagnóstico, obviamente, se va a hacer con una
+
+47
+00:02:44,910 --> 00:02:47,590
+neuroimagen, en particular me sirve la resonancia
+
+48
+00:02:47,590 --> 00:02:50,990
+magnética nuclear. Ahora, ¿cómo se previene la
+
+49
+00:02:50,990 --> 00:02:53,590
+hiponatremia en una maratón? Y entendamos esto
+
+50
+00:02:53,590 --> 00:02:55,790
+bien, la gente que hace una maratón habitualmente
+
+51
+00:02:55,790 --> 00:02:58,310
+tiende a la hipernatremia, en el sentido de que se
+
+52
+00:02:58,310 --> 00:03:01,670
+deshidrata, pero cuando se hidrata tomando mucha agua,
+
+53
+00:03:01,670 --> 00:03:05,510
+que es lo más frecuente, puede hacer una hiponatremia
+
+54
+00:03:05,510 --> 00:03:07,390
+y bastante severa, en el sentido en que sigue
+
+55
+00:03:07,390 --> 00:03:11,190
+perdiendo sal, pero recupera solamente agua y va
+
+56
+00:03:11,350 --> 00:03:14,630
+tendiendo a la hiponatremia e incluso hay
+
+57
+00:03:14,630 --> 00:03:18,390
+casos de gente que se ha muerto. Pero actualmente
+
+58
+00:03:18,390 --> 00:03:20,510
+esto ya se sabe y por lo tanto la recomendación
+
+59
+00:03:20,550 --> 00:03:24,270
+de alguien que haga un deporte muy extremo es
+
+60
+00:03:24,270 --> 00:03:26,270
+no se hidrate solo con agua, tiene que hidratarse
+
+61
+00:03:26,270 --> 00:03:29,310
+con agua y sal, ejemplo con bebidas isotónicas
+
+62
+00:03:29,310 --> 00:03:31,670
+o alguna de ese tipo. Vemos ahora la
+
+63
+00:03:31,670 --> 00:03:35,070
+hipernatremia muy rápido. Las causas por
+
+64
+00:03:35,070 --> 00:03:38,270
+regla general es la deshidratación severa, lo
+
+65
+00:03:38,270 --> 00:03:41,150
+cual hace que finalmente se vuelva hiperosmolar
+
+66
+00:03:41,150 --> 00:03:43,430
+la sangre. No es que sea una deshidratación de
+
+67
+00:03:43,430 --> 00:03:45,910
+tipo hiperosmolar en sí, sino que es una
+
+68
+00:03:45,910 --> 00:03:49,310
+deshidratación severa que se llama hiperosmolar
+
+69
+00:03:49,310 --> 00:03:53,710
+por la hiperosmolaridad que se concentra en
+
+70
+00:03:53,710 --> 00:03:56,630
+el plasma, en el sentido en que la diarrea
+
+71
+00:03:56,630 --> 00:03:59,350
+hiperosmolar en cambio tendía a la hipernatremia.
+
+72
+00:03:59,350 --> 00:04:01,470
+Así que mucho cuidado ahí con no confundir
+
+73
+00:04:01,470 --> 00:04:04,110
+esos dos conceptos, pero aún así la deshidratación
+
+74
+00:04:04,110 --> 00:04:07,230
+es la causa más importante de la hipernatremia.
+
+75
+00:04:07,230 --> 00:04:09,590
+Segundo lugar, hay algunos casos mucho más
+
+76
+00:04:09,590 --> 00:04:11,710
+raros de intoxicación por sal, pero habíamos
+
+77
+00:04:11,710 --> 00:04:15,350
+dicho antes la sal en general su balance
+
+78
+00:04:15,350 --> 00:04:17,390
+determina la bolemia y no las natremias,
+
+79
+00:04:17,470 --> 00:04:19,110
+pero en el caso de que alguien ya se vaya
+
+80
+00:04:19,110 --> 00:04:21,310
+del extremo, ejemplo alguien con una patología
+
+81
+00:04:21,310 --> 00:04:23,830
+psiquiátrica se coma un kilo de sal o alguna
+
+82
+00:04:23,830 --> 00:04:26,110
+cosa de ese tipo, un vaso de sal, eventualmente
+
+83
+00:04:26,110 --> 00:04:28,030
+sí puede hacer una hipernatremia y bastante
+
+84
+00:04:28,030 --> 00:04:29,830
+severa y eventualmente se puede morir.
+
+85
+00:04:29,830 --> 00:04:31,870
+Pero las intoxicaciones por sal son
+
+86
+00:04:31,870 --> 00:04:34,710
+rarísimas y en general se dan en edad
+
+87
+00:04:34,710 --> 00:04:37,870
+pediátrica y muy raro o bien en pacientes
+
+88
+00:04:37,870 --> 00:04:40,550
+con patologías psiquiátricas severas.
+
+89
+00:04:40,550 --> 00:04:42,510
+¿Cuál es el tratamiento de la hipernatremia?
+
+90
+00:04:42,510 --> 00:04:45,070
+Por el general es hidratar, es dar el
+
+91
+00:04:45,110 --> 00:04:47,470
+agua que le falta, pero la típica pregunta
+
+92
+00:04:47,470 --> 00:04:49,310
+es con qué hidrato y aquí tengo varias
+
+93
+00:04:49,310 --> 00:04:52,190
+opciones, suero fisiológico, suero glucosalino,
+
+94
+00:04:52,190 --> 00:04:54,630
+suero glucosado y aquí hay dos cosas que
+
+95
+00:04:54,630 --> 00:04:55,590
+hay que entender.
+
+96
+00:04:55,590 --> 00:04:58,510
+Número uno, existe esta frase que dice
+
+97
+00:04:58,510 --> 00:05:00,350
+primero se corrige la bolemia, luego se
+
+98
+00:05:00,350 --> 00:05:02,230
+corrigen los electrolitos plasmáticos y eso
+
+99
+00:05:02,230 --> 00:05:04,070
+es una cosa que es importante y que por
+
+100
+00:05:04,070 --> 00:05:06,270
+la general hay que cumplir, así que si
+
+101
+00:05:06,270 --> 00:05:08,390
+el paciente viene choqueado eventualmente
+
+102
+00:05:08,390 --> 00:05:10,630
+yo le puedo dar suero fisiológico.
+
+103
+00:05:10,630 --> 00:05:12,470
+Ahora, si el paciente no viene choqueado
+
+104
+00:05:12,470 --> 00:05:14,350
+y lo que tiene simplemente es una
+
+105
+00:05:14,350 --> 00:05:16,350
+hipernatremia severa, en ese caso la
+
+106
+00:05:16,350 --> 00:05:18,550
+forma en que se aporta el agua libre no es
+
+107
+00:05:18,550 --> 00:05:20,110
+con agua destilada, porque el agua destilada
+
+108
+00:05:20,110 --> 00:05:21,870
+me produce un hemólisis, sino que se hace
+
+109
+00:05:21,870 --> 00:05:25,030
+con suero glucosado, por lo tanto en el
+
+110
+00:05:25,030 --> 00:05:26,950
+caso que venga deshidratado y con una
+
+111
+00:05:26,950 --> 00:05:28,550
+hipernatremia muy severa en la cual
+
+112
+00:05:28,550 --> 00:05:29,990
+me da miedo el suero fisiológico
+
+113
+00:05:29,990 --> 00:05:31,150
+porque el suero fisiológico puede
+
+114
+00:05:31,150 --> 00:05:33,350
+elevar la natremia, eventualmente puedo
+
+115
+00:05:33,350 --> 00:05:35,430
+echarle mano al suero glucosalino.
+
+116
+00:05:35,430 --> 00:05:38,390
+Entonces, resumen, ¿cómo corrijo la
+
+117
+00:05:38,390 --> 00:05:40,190
+bolemia? Aportando sal, ejemplo
+
+118
+00:05:40,190 --> 00:05:42,470
+suero fisiológico, suero glucosalino.
+
+119
+00:05:42,510 --> 00:05:44,950
+¿Cómo corrijo la hipernatremia?
+
+120
+00:05:44,950 --> 00:05:46,830
+Aportando agua libre con suero glucosado
+
+121
+00:05:46,830 --> 00:05:48,790
+y eventualmente con suero glucosalino.
+
+122
+00:05:48,790 --> 00:05:50,550
+¿Y qué hago con una deshidratación
+
+123
+00:05:50,550 --> 00:05:52,750
+severa asociada a una hipernatremia
+
+124
+00:05:52,750 --> 00:05:54,910
+severa? Pues eventualmente sí me da
+
+125
+00:05:54,910 --> 00:05:56,510
+miedo el suero fisiológico y le dejo
+
+126
+00:05:56,510 --> 00:05:58,950
+suero glucosalino como primera opción.
+
+127
+00:05:58,950 --> 00:06:01,190
+Evidencia de eso, pues muy escasa,
+
+128
+00:06:01,190 --> 00:06:03,030
+pero es una recomendación que se ve
+
+129
+00:06:03,030 --> 00:06:04,830
+en muchas gigas internacionales.
+
+130
+00:06:04,830 --> 00:06:06,830
+Y eso es todo, nos vemos en el siguiente tema.

@@ -1,0 +1,359 @@
+1
+00:00:03,250 --> 00:00:07,530
+Hola, hola, ¿cómo están? Uno de los temas que hay que saber es hipoglicemia, así que veamos las
+
+2
+00:00:07,530 --> 00:00:12,690
+generalidades, luego en otro vídeo vamos a hablar del estudio del enfrentamiento etiológico de las
+
+3
+00:00:12,690 --> 00:00:17,490
+mismas, pero sepan que la clínica de las hipoglicemias se subdivide en dos tipos de
+
+4
+00:00:17,490 --> 00:00:22,210
+síntomas, por un lado están los síntomas de tipo simpático-mimético, que habitualmente son
+
+5
+00:00:22,210 --> 00:00:26,930
+los iniciales y más leves, que se ven desde las hipoglicemias leves, y finalmente están los
+
+6
+00:00:26,930 --> 00:00:32,010
+síntomas neuroglucopénicos, que son aquellos más graves y que se ven en las hipoglicemias ya
+
+7
+00:00:32,010 --> 00:00:37,730
+con compromiso al sistema nervioso central y que son lo que define la severidad de la hipoglicemia.
+
+8
+00:00:37,730 --> 00:00:43,570
+Los simpático-mimético, la taquicardia, temblor, inquietud, suboración, activación
+
+9
+00:00:43,570 --> 00:00:48,690
+del sistema simpático en general, acuérdense que son los que se pueden ocultar por el
+
+10
+00:00:48,690 --> 00:00:53,810
+betabloqueo, por el atenolol, que hace poco deseable tener a un paciente diabético con
+
+11
+00:00:53,810 --> 00:00:58,330
+fármacos, por ejemplo, con este tipo de medicamento. Y los neuroglucopénicos,
+
+12
+00:00:58,330 --> 00:01:02,850
+que son los más severos, los más característicos son las convulsiones, la desorientación,
+
+13
+00:01:02,850 --> 00:01:09,010
+la agitación, el compromiso de conciencia, el actuar de alguna manera diferente a la habitual,
+
+14
+00:01:09,010 --> 00:01:15,050
+etcétera. Y obviamente, no solamente que son severos porque reflejan una glisemia menor,
+
+15
+00:01:15,050 --> 00:01:19,450
+sino que aparte porque dificultan el autotratamiento de la hipoglicemia por
+
+16
+00:01:19,450 --> 00:01:24,530
+parte del paciente, y eso es algo importante y que hace que finalmente requieran de atención,
+
+17
+00:01:24,530 --> 00:01:29,810
+sido sí. El diagnóstico de las hipoglicemias por el general se basa en la triada de Whipple,
+
+18
+00:01:29,810 --> 00:01:35,210
+en el sentido en que estos síntomas son relativamente inespecíficos, y exige tres cosas.
+
+19
+00:01:35,210 --> 00:01:42,210
+Número uno, que haya síntomas sugerentes de hipoglicemia. Número dos, que se objective
+
+20
+00:01:42,210 --> 00:01:46,850
+simultáneamente que hay una baja de la glisemia en contexto a estos síntomas. Y en
+
+21
+00:01:46,850 --> 00:01:52,530
+tercer lugar, que estos síntomas mejoren al mejorar la glisemia, al darle azúcar. De lo
+
+22
+00:01:52,530 --> 00:01:56,250
+contrario pueden ser, sin ningún problema, una crisis de pánico o alguna otra cosa de ese
+
+23
+00:01:56,250 --> 00:02:00,690
+tipo también. Así que, para estar seguro, obviamente hay que ver estas tres cosas ahora.
+
+24
+00:02:00,690 --> 00:02:06,210
+Obviamente en un paciente diabético con insulina o con hipoglicemiantes orales que me hace un
+
+25
+00:02:06,210 --> 00:02:11,170
+cuadro de este tipo en que se agita y luego compulsiona, ¿cierto? Hay que ir a descartar
+
+26
+00:02:11,170 --> 00:02:16,570
+hipoglicemia como la cosa más urgente. Ahora, ¿qué pasa si es que tiene estos síntomas,
+
+27
+00:02:16,570 --> 00:02:22,330
+pero yo le hago una elisemia o un hemogluco test y está absolutamente normal? Pues en ese
+
+28
+00:02:22,330 --> 00:02:26,530
+caso no era la hipoglicemia. Y dentro de las causas pueden ser todo el espectro psiquiátrico,
+
+29
+00:02:26,530 --> 00:02:32,930
+desde la crisis de angustia hasta los trastornos conversivos, más cualquier otra cosa que no es
+
+30
+00:02:32,930 --> 00:02:39,650
+hipoglicemia. Ahora, dentro de esas causas, acuérdense del hipertiroidismo, que puede de
+
+31
+00:02:39,650 --> 00:02:45,730
+una u otra forma verse similar a una hipoglicemia debido a que también tiene síntomas
+
+32
+00:02:45,730 --> 00:02:50,770
+simpático-miméticos y además los feochromocitomas que igualmente pueden venir con estos síntomas
+
+33
+00:02:50,770 --> 00:02:56,410
+simpático-miméticos. ¿Cuál es el punto de corte para hablar que en el laboratorio hay una
+
+34
+00:02:56,410 --> 00:03:01,330
+hipoglicemia? Y la verdad es que no hay consenso. Puede ser menor a 60 que es como lo clásico
+
+35
+00:03:01,330 --> 00:03:06,810
+que se enseña, menor a 55 que es lo que se ha dicho que tiene una mejor correlación con la
+
+36
+00:03:06,810 --> 00:03:12,250
+clínica y finalmente menor a 50 en el sentido en que una hipoglicemia aunque esté con
+
+37
+00:03:12,250 --> 00:03:16,690
+síntomas y que sea real, si está arriba de 50, es muy muy improbable que sea una hipoglicemia
+
+38
+00:03:16,690 --> 00:03:23,010
+severa, así que más o menos lo mismo que haya algo sobre ese valor. Pero la verdad es que no hay
+
+39
+00:03:23,010 --> 00:03:27,850
+consenso y no sólo eso, sino que realmente es muy variable de un paciente a otro. Ejemplo,
+
+40
+00:03:27,850 --> 00:03:32,690
+algunos pacientes con una diabetes que tiende a la hiperglicemia, cuando bajan de 60 ya
+
+41
+00:03:32,690 --> 00:03:37,090
+se pueden sentir mal y ya pueden hacer estos síntomas, incluso síntomas neuroglucopénicos.
+
+42
+00:03:37,370 --> 00:03:42,970
+Ahora, en el recién nacido, y esto lo vamos a ver en su respectiva clase, el corte es todavía
+
+43
+00:03:42,970 --> 00:03:49,490
+más bajo. Acuérdense que hasta 35, incluso 25 en algunas horas puede ser algo aguantable,
+
+44
+00:03:49,490 --> 00:03:55,610
+si es que el paciente está asintomático y los cortes clásicos son menor a 40 o a 35 en
+
+45
+00:03:55,610 --> 00:04:02,490
+las primeras 48 horas y menor a 45 o 50 después de las primeras 48 horas. Pero repito,
+
+46
+00:04:02,490 --> 00:04:06,570
+eso es muy variable y depende si es que tiene síntomas o no, y no lo vamos a ver
+
+47
+00:04:06,570 --> 00:04:10,850
+con ningún detalle en esta clase. Así que sigamos. El tratamiento de las hipoglicemias,
+
+48
+00:04:10,850 --> 00:04:15,330
+por lo general, va a depender si es que es leve o severa. Acordándonos que la diferencia
+
+49
+00:04:15,330 --> 00:04:19,010
+entre leve y severa no la da el nivel de glicemia, sino que la dan los síntomas.
+
+50
+00:04:19,010 --> 00:04:25,210
+Si es que viene con síntomas neuroglucopénicos, ya es severa. Así que cuando es leve,
+
+51
+00:04:25,210 --> 00:04:29,490
+por lo general, se le da un líquido azucarado, digamos, agua con azúcar,
+
+52
+00:04:29,490 --> 00:04:35,330
+una bebida no light, jugo de fruta, una cucharada de miel o si es que no tengo
+
+53
+00:04:35,330 --> 00:04:41,370
+nada, una cucharada de azúcar de mesa no más, pero hay que darle azúcar de absorción rápida,
+
+54
+00:04:41,370 --> 00:04:48,490
+idealmente disuelta en agua, y en cambio cuando es severa hay que darle un bolo de azúcar por
+
+55
+00:04:48,490 --> 00:04:54,770
+vía endovenosa. Habitualmente se le da glucosa que puede ir desde el 10% hasta el 50% y la
+
+56
+00:04:54,770 --> 00:05:00,970
+cantidad que se suele dar es más o menos 25 gramos en bolo endovenoso, dígase 250cc cuando
+
+57
+00:05:00,970 --> 00:05:06,370
+es al 10% o bien 50cc cuando es al 50%. La verdad es que con un poquito que yo le dé,
+
+58
+00:05:06,370 --> 00:05:12,490
+así 20cc al 20%, ya tiende a mejorar bastante, pero lo ideal es darle un bolo
+
+59
+00:05:12,490 --> 00:05:18,850
+que complete más o menos estos 25 gramos o un poquito menos, puede ser entre 12,5 y 25 gramos
+
+60
+00:05:18,850 --> 00:05:24,790
+en total. Como cosa importante, le puedo dar a una severa, igual un líquido azucarado si no
+
+61
+00:05:24,790 --> 00:05:29,250
+tengo nada más, y la verdad es que eventualmente sí se puede hacer cuando se amenaza su vida,
+
+62
+00:05:29,250 --> 00:05:33,250
+pero hay que tener mucho cuidado porque un paciente que está desorientado o eventualmente
+
+63
+00:05:33,250 --> 00:05:39,010
+en coma y puede que el manejo sea peor que la enfermedad en el sentido en que me puede hacer
+
+64
+00:05:39,010 --> 00:05:44,530
+ejemplo una neumonía aspirativa o alguna cosa de ese tipo, así que en una severa en la cual
+
+65
+00:05:44,530 --> 00:05:49,290
+yo no tengo glucosa disponible, mi alternativa más que eso es darle glucagón por vía
+
+66
+00:05:49,290 --> 00:05:54,530
+subcutánea, y de hecho es muy frecuente que los pacientes diabéticos tipo 1 por ejemplo,
+
+67
+00:05:54,530 --> 00:06:00,810
+que tienden a la hipoglicemia tengan en alguna parte guardado un lápiz o una jeringa con
+
+68
+00:06:00,810 --> 00:06:07,810
+glucagón en un caso de este tipo urgente. Ahora, cuando no mejora y sigue todavía con
+
+69
+00:06:07,810 --> 00:06:13,250
+la glicemia muy baja, se van repitiendo estos bolos, una vez que ya se logra una
+
+70
+00:06:13,250 --> 00:06:19,210
+normoglicemia, en ese caso me voy a pasar a un goteo igual y una vez que ya está bien y
+
+71
+00:06:19,210 --> 00:06:24,890
+que la glicemia está relativamente bien pues me puedo pasar a los líquidos azucarados también,
+
+72
+00:06:24,890 --> 00:06:28,890
+pero obviamente desde el momento que ya no esté comprometido de conciencia y que ya no tenga
+
+73
+00:06:28,890 --> 00:06:34,450
+riesgo de aspirar. Ahora, además debo controlarlo con hemoglucotés frecuentes, en el caso de una
+
+74
+00:06:34,450 --> 00:06:39,370
+glicemia leve no, me basta con el manejo y que se recupere clínicamente, pero en el caso
+
+75
+00:06:39,370 --> 00:06:45,490
+de una severa que es potencialmente letal, ahí estoy obligado sí o sí a controlarlo
+
+76
+00:06:45,490 --> 00:06:50,370
+con varios hemoglucotés y no solo eso, sino que aparte tengo que siempre ir a buscar y a manejar
+
+77
+00:06:50,370 --> 00:06:56,130
+la causa y eso no solamente aplica a la severa, aplica también a las leves que lo vamos a ver
+
+78
+00:06:56,130 --> 00:07:03,250
+con más detalles en otra diapositiva, en otra clase. Ahora, ¿qué pasa con las hipolisemias
+
+79
+00:07:03,250 --> 00:07:07,450
+que son generadas por gliva inclamida o por las sulfonilubrias en general? Hay que tener
+
+80
+00:07:07,450 --> 00:07:12,370
+harto cuidado porque suelen ser severas y no solamente severas sino que prolongadas
+
+81
+00:07:12,370 --> 00:07:16,810
+en el tiempo porque la vida media de la glivia inclamida de la sulfonilubria es bastante larga,
+
+82
+00:07:16,810 --> 00:07:24,170
+habitualmente es como de un día, así que obviamente no puedo llegar y manejarlo y mandarlo
+
+83
+00:07:24,170 --> 00:07:28,690
+para la casa de inmediato, sino que debo darle el bolo, el goteo, hacer los hemoglucotés
+
+84
+00:07:28,690 --> 00:07:36,410
+seriados con una frecuencia relativamente corta y finalmente debo dejarlo hospitalizado al
+
+85
+00:07:36,410 --> 00:07:40,650
+menos un día en observación completa y no lo mando para la casa hasta que no esté
+
+86
+00:07:40,690 --> 00:07:47,010
+completamente como estabilizado y obviamente tengo que ajustarle luego la dosis de su medicamento
+
+87
+00:07:47,010 --> 00:07:51,330
+para evitar que me haga una nueva hipoglicemia o bien tengo que cambiarle la glivia inclamida
+
+88
+00:07:51,330 --> 00:07:55,570
+por la citagliptina o por algún otro hipoglicemio antes que tenga menor riesgo
+
+89
+00:07:55,570 --> 00:07:59,450
+de hipoglicemia. Bueno, eso fue todo, en la siguiente clase vamos a hundar un poquito
+
+90
+00:07:59,450 --> 00:08:02,050
+más la etiología de las hipoglicemias. ¡Que estén bien!

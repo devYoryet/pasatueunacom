@@ -1,0 +1,815 @@
+1
+00:00:00,000 --> 00:00:06,680
+Hola, ¿cómo están? Hablemos de las bradearritmias y de los bloqueos
+
+2
+00:00:06,680 --> 00:00:10,080
+cardíacos con su manejo también. Vamos a ver en específico la enfermedad del
+
+3
+00:00:10,080 --> 00:00:14,320
+nuevo sinusal, los distintos tipos de bloqueo auriculoventricular, más los
+
+4
+00:00:14,320 --> 00:00:17,800
+bloqueos de rama, cierto, el bloqueo completo de rama derecha, el bloqueo
+
+5
+00:00:17,800 --> 00:00:20,760
+completo de rama izquierda, el hemibloqueo izquierdo anterior y el
+
+6
+00:00:20,760 --> 00:00:25,040
+hemibloqueo izquierdo posterior. Ahora, recordemos que en todas ellas, en
+
+7
+00:00:25,040 --> 00:00:28,720
+todas las bradearritmias y en los bloqueos, la causa más importante es
+
+8
+00:00:28,720 --> 00:00:31,640
+degenerativa, es raro que sea por causa isquémica, por ejemplo, que
+
+9
+00:00:31,640 --> 00:00:35,560
+sería la segunda causa, pero la degenerativa es la más frecuente.
+
+10
+00:00:35,560 --> 00:00:39,440
+Su clínica, por la general, son absolutamente asintomáticos o bien
+
+11
+00:00:39,440 --> 00:00:42,560
+vienen con algún síntoma que el más frecuente son los síncopes
+
+12
+00:00:42,560 --> 00:00:47,040
+cardiogénicos que se caracterizan por ser o síncopes de esfuerzo o bien
+
+13
+00:00:47,040 --> 00:00:51,120
+síncopes de reposo. Ejemplo, el abuelito está sentado en la mesa,
+
+14
+00:00:51,120 --> 00:00:56,040
+cierto, y de repente se compromete de conciencia porque hace una
+
+15
+00:00:56,040 --> 00:00:59,640
+bradecardia que dura más de cierto número de segundos, cierto, y luego
+
+16
+00:00:59,640 --> 00:01:04,080
+de eso ya revive. Ahora, en el caso específico de la enfermedad del
+
+17
+00:01:04,080 --> 00:01:07,520
+nodo sinusal, aparte de los síncopes o de ser asintomático, que es lo más
+
+18
+00:01:07,520 --> 00:01:10,800
+frecuente, puede alternarse con fibrilación auricular, lo que se
+
+19
+00:01:10,800 --> 00:01:13,600
+conoce como el síndrome de bradearritmia, taquiarritmia, por si
+
+20
+00:01:13,600 --> 00:01:16,960
+acaso, y finalmente en el caso del bloqueo aurículo ventricular de
+
+21
+00:01:16,960 --> 00:01:20,160
+tercer grado, que es el más grave de todos, por regla general el
+
+22
+00:01:20,160 --> 00:01:24,200
+paciente viene choqueado y viene con una frecuencia que suele ser
+
+23
+00:01:24,200 --> 00:01:28,080
+cercana a los 30 por minuto, a veces más que eso, a veces es menos,
+
+24
+00:01:28,080 --> 00:01:32,760
+pero hay que conocer ese cuadro clínico, el típico paciente que
+
+25
+00:01:32,760 --> 00:01:37,480
+llega hipotenso, choqueado, muy bradecardico, habitualmente viene
+
+26
+00:01:37,480 --> 00:01:40,560
+con un bloqueo a b de tercer grado o bloqueo a b completo, que
+
+27
+00:01:40,560 --> 00:01:43,680
+también se llama. El diagnóstico de todas ellas, obviamente, es
+
+28
+00:01:43,680 --> 00:01:47,680
+con el electrocardiograma y el manejo, si es que viene sin
+
+29
+00:01:47,680 --> 00:01:51,000
+síntomas, si es que es un paciente absolutamente asintomático,
+
+30
+00:01:51,000 --> 00:01:54,040
+por regla general es simplemente observar, a menos claro que
+
+31
+00:01:54,880 --> 00:01:57,720
+sea de las bradearritmias de alto riesgo, en particular de alto
+
+32
+00:01:57,720 --> 00:02:01,520
+riesgo de transformarse en un bloqueo a b de tercer grado,
+
+33
+00:02:01,520 --> 00:02:04,120
+que ya dijimos que era el más grave, que en ese caso quedan
+
+34
+00:02:04,120 --> 00:02:08,040
+con un marca paso definitivo, y en el caso de los que vienen
+
+35
+00:02:08,040 --> 00:02:11,720
+con síntomas, en particular los síncopes, por ejemplo, o
+
+36
+00:02:11,720 --> 00:02:14,400
+alguna otra cosa, en ese caso sí se manejan con marca paso,
+
+37
+00:02:14,400 --> 00:02:17,240
+o sea, en resumen, las bradearritmias y los bloqueos
+
+38
+00:02:17,240 --> 00:02:20,560
+se observan, a menos que sean de alto riesgo o que sean
+
+39
+00:02:20,560 --> 00:02:23,520
+síntomaticos, que en ese caso se manejan con marca paso.
+
+40
+00:02:23,520 --> 00:02:26,200
+Ahora, no hemos hablado de las que vienen con compromiso
+
+41
+00:02:26,200 --> 00:02:29,280
+hemodinámico, que ya lo vimos en otra clase, es cierto que
+
+42
+00:02:29,280 --> 00:02:32,240
+toda bradearritmia que viene choqueado debe manejarse con
+
+43
+00:02:32,240 --> 00:02:36,240
+droga vasoactiva, ya sea atropina o noradrenalina,
+
+44
+00:02:36,240 --> 00:02:39,520
+más la eventual instalación de un marca paso externo transitorio.
+
+45
+00:02:39,520 --> 00:02:45,560
+¿Cuáles son los ritmos o los bloqueos o las bradearritmias
+
+46
+00:02:45,560 --> 00:02:48,880
+de alto grado? Hay que saberlas, en el sentido de que
+
+47
+00:02:48,920 --> 00:02:52,400
+son las que van a marca paso. La más importante, ya dijimos,
+
+48
+00:02:52,400 --> 00:02:55,840
+el de tercer grado, o bien el bloqueo AB completo,
+
+49
+00:02:55,840 --> 00:02:57,640
+en el sentido en que suele choquearse.
+
+50
+00:02:57,640 --> 00:03:00,320
+Segundo lugar, el bloqueo AB de segundo grado,
+
+51
+00:03:00,320 --> 00:03:02,720
+tipo Mobitz II, que lo vamos a ver después,
+
+52
+00:03:02,720 --> 00:03:05,520
+en el sentido que suele progresar a uno de tercer grado
+
+53
+00:03:05,520 --> 00:03:08,760
+y hay que no arriesgarse en el fondo de que quede con su
+
+54
+00:03:08,760 --> 00:03:12,200
+marca paso. En tercer lugar, el bloqueo AB trifasicular,
+
+55
+00:03:12,200 --> 00:03:15,520
+que es el que viene con un bloqueo AB de primer grado,
+
+56
+00:03:15,560 --> 00:03:18,920
+que per se no es grave, pero cuando viene con un bloqueo
+
+57
+00:03:18,920 --> 00:03:21,440
+completo de rama derecha y viene además con un
+
+58
+00:03:21,440 --> 00:03:24,360
+EMI bloqueo izquierdo, ya sea anterior o posterior,
+
+59
+00:03:24,360 --> 00:03:27,360
+en ese caso se habla de un bloqueo trifasicular
+
+60
+00:03:27,360 --> 00:03:29,920
+que sí tiene un riesgo muy alto a evolucionar a uno
+
+61
+00:03:29,920 --> 00:03:31,560
+de tercer grado. ¿Por qué?
+
+62
+00:03:31,560 --> 00:03:35,640
+Si se fijan, la rama derecha ya se bloqueó.
+
+63
+00:03:35,640 --> 00:03:37,800
+Y de la rama izquierda, una de las dos ramas
+
+64
+00:03:37,800 --> 00:03:39,640
+ya se bloqueó también, en sentido que está con un
+
+65
+00:03:39,640 --> 00:03:42,400
+EMI bloqueo izquierdo anterior o posterior, ¿cierto?
+
+66
+00:03:42,400 --> 00:03:46,280
+Y la que sigue avanzando está lento en el sentido
+
+67
+00:03:46,280 --> 00:03:49,520
+en que además está con un bloqueo AB de primer grado
+
+68
+00:03:49,520 --> 00:03:51,960
+o de segundo grado Mobix 1.
+
+69
+00:03:51,960 --> 00:03:54,280
+En resumen, las que van con marca paso,
+
+70
+00:03:54,280 --> 00:03:56,960
+entonces son el bloqueo AB completo,
+
+71
+00:03:56,960 --> 00:04:00,520
+el bloqueo AB Mobix 2 y el bloqueo trifasicular.
+
+72
+00:04:00,520 --> 00:04:04,720
+Y recuerden que se define como el bloqueo AB de primer
+
+73
+00:04:04,720 --> 00:04:07,120
+grado o de segundo grado, más que está casi todo
+
+74
+00:04:07,120 --> 00:04:10,680
+lo demás bloqueado, le queda solamente una de las
+
+75
+00:04:10,720 --> 00:04:12,920
+dos EMI ramas izquierdas.
+
+76
+00:04:12,920 --> 00:04:14,560
+Veamos ahora la enfermedad del nodo sinusal.
+
+77
+00:04:14,560 --> 00:04:17,040
+Hay que saber reconocerla en el electrocardiograma.
+
+78
+00:04:17,040 --> 00:04:19,200
+Se ve habitualmente de esa manera.
+
+79
+00:04:19,200 --> 00:04:22,880
+Si se fijan, en ese punto hay una pausa en que el nodo
+
+80
+00:04:22,880 --> 00:04:26,640
+sinusal simplemente se olvidó de emitir su onda P.
+
+81
+00:04:26,640 --> 00:04:28,400
+En este caso, si un paciente que viene con ese
+
+82
+00:04:28,400 --> 00:04:30,520
+electro y que me dice, nunca he tenido ningún síntoma,
+
+83
+00:04:30,520 --> 00:04:31,400
+se observa.
+
+84
+00:04:31,400 --> 00:04:34,320
+Si es que en cambio hace pausas más largas y se está
+
+85
+00:04:34,320 --> 00:04:35,600
+sincopiando, ¿cierto?
+
+86
+00:04:35,600 --> 00:04:38,320
+En ese caso se maneja con un marca paso definitivo.
+
+87
+00:04:38,320 --> 00:04:41,280
+Veamos ahora los bloqueos aurículos ventricularios de
+
+88
+00:04:41,280 --> 00:04:42,160
+los distintos grados.
+
+89
+00:04:42,160 --> 00:04:43,960
+Empecemos con el de primer grado,
+
+90
+00:04:43,960 --> 00:04:45,920
+que se ve de esta forma.
+
+91
+00:04:45,920 --> 00:04:49,040
+En este caso, todas las ondas P conducen,
+
+92
+00:04:49,040 --> 00:04:52,960
+pero vienen con un intervalo PR largo que se cuenta desde
+
+93
+00:04:52,960 --> 00:04:55,680
+el inicio de la P hasta el inicio del QRS.
+
+94
+00:04:55,680 --> 00:04:57,520
+Si es más de 200 milisegundos,
+
+95
+00:04:57,520 --> 00:05:01,480
+o sea, más de un cuadrado grande, en ese caso,
+
+96
+00:05:01,480 --> 00:05:04,200
+se habla de un bloqueo AB de primer grado.
+
+97
+00:05:04,200 --> 00:05:06,600
+El ritmo habitualmente es regular. ¿Por qué?
+
+98
+00:05:06,640 --> 00:05:08,400
+Porque todas las ondas P conducen.
+
+99
+00:05:08,400 --> 00:05:10,760
+Ahí se ve el intervalo PR, ¿cierto?
+
+100
+00:05:10,760 --> 00:05:13,440
+Que está alargado, que está más de un cuadrado.
+
+101
+00:05:13,440 --> 00:05:16,520
+En este caso, está casi del tamaño de dos cuadrados
+
+102
+00:05:16,520 --> 00:05:19,160
+grandes, mucho más de 200 milisegundos.
+
+103
+00:05:19,160 --> 00:05:20,880
+¿Cuál es el manejo en este caso?
+
+104
+00:05:20,880 --> 00:05:21,440
+Observar.
+
+105
+00:05:21,440 --> 00:05:24,080
+Acuérdense que se considera de bajo riesgo.
+
+106
+00:05:24,080 --> 00:05:26,600
+En el caso del bloqueo de segundo grado,
+
+107
+00:05:26,600 --> 00:05:30,760
+Mobitz 1, que igualmente se llama el bloqueo aurículo
+
+108
+00:05:30,760 --> 00:05:32,520
+ventricular de Benkevah.
+
+109
+00:05:32,520 --> 00:05:35,600
+En ese caso viene con algunas ondas P que no
+
+110
+00:05:35,600 --> 00:05:40,280
+conducen, que en específico es la que se ve en donde está
+
+111
+00:05:40,280 --> 00:05:44,040
+esa flecha, y el PR se va alargando progresivamente.
+
+112
+00:05:44,040 --> 00:05:45,080
+Y eso es lo más importante.
+
+113
+00:05:45,080 --> 00:05:48,200
+Si se fijan, el segmento PR, en este caso,
+
+114
+00:05:48,200 --> 00:05:50,680
+está de ese tamaño, luego un poquito más grande,
+
+115
+00:05:50,680 --> 00:05:52,680
+luego un poquito más grande, luego más grande,
+
+116
+00:05:52,680 --> 00:05:58,320
+hasta que finalmente aparece una onda P que ya no conduce.
+
+117
+00:05:58,320 --> 00:06:00,800
+Al no conducir alguna onda P, en ese caso,
+
+118
+00:06:00,800 --> 00:06:03,600
+se llama bloqueo AB de segundo grado.
+
+119
+00:06:03,600 --> 00:06:06,640
+Y al producirse este alargamiento del PR,
+
+120
+00:06:06,640 --> 00:06:10,040
+en ese caso se clasifica como Mobitz 1, que acuérdense,
+
+121
+00:06:10,040 --> 00:06:12,480
+es de bajo riesgo también.
+
+122
+00:06:12,480 --> 00:06:15,720
+El Mobitz 2 se parece mucho,
+
+123
+00:06:15,720 --> 00:06:17,880
+en el sentido que algunas ondas P no conducen,
+
+124
+00:06:17,880 --> 00:06:19,960
+como en todo bloqueo de segundo grado,
+
+125
+00:06:19,960 --> 00:06:22,280
+con la diferencia que aquí el PR es constante.
+
+126
+00:06:22,280 --> 00:06:25,760
+Si se fijan, ahí hay dos ondas P que no conducen.
+
+127
+00:06:25,760 --> 00:06:31,800
+Pero los PR son del mismo largo en todos los complejos
+
+128
+00:06:31,800 --> 00:06:32,920
+en los cuales se puede ver.
+
+129
+00:06:32,920 --> 00:06:35,160
+Así que en este caso sería Mobitz 2,
+
+130
+00:06:35,160 --> 00:06:36,760
+que este sí es de alto riesgo,
+
+131
+00:06:36,760 --> 00:06:40,040
+así que hay que manejarlo con un marcapaso permanente.
+
+132
+00:06:40,040 --> 00:06:42,760
+Finalmente, el bloqueo AB de tercer grado,
+
+133
+00:06:42,760 --> 00:06:46,280
+habitualmente viene sin ninguna onda P que conduzca,
+
+134
+00:06:46,280 --> 00:06:48,960
+en el sentido que hay una disociación auriculo-ventricular,
+
+135
+00:06:48,960 --> 00:06:52,800
+hay una disociación entre las ondas P y los complejos QRS.
+
+136
+00:06:52,800 --> 00:06:55,600
+Y ya habíamos dicho antes que la frecuencia cardíaca
+
+137
+00:06:55,600 --> 00:06:59,640
+habitualmente viene cercana a los 300 por minuto regular,
+
+138
+00:06:59,640 --> 00:07:01,800
+en el sentido que hay un ritmo ventricular.
+
+139
+00:07:01,840 --> 00:07:03,960
+Ahí se ven los complejos QRS, ¿cierto?
+
+140
+00:07:03,960 --> 00:07:06,240
+Y ahí se ven las ondas P.
+
+141
+00:07:06,240 --> 00:07:07,880
+Y si se fijan, no hay ninguna relación,
+
+142
+00:07:07,880 --> 00:07:11,920
+en el sentido en que los QRS no vienen necesariamente después
+
+143
+00:07:11,920 --> 00:07:14,760
+de una onda P, sino que siguen su ritmo de manera
+
+144
+00:07:14,760 --> 00:07:16,720
+disociada o independiente.
+
+145
+00:07:16,720 --> 00:07:18,800
+Vemos ahora el bloqueo completo de rama derecha,
+
+146
+00:07:18,800 --> 00:07:21,080
+que se ve de esa manera.
+
+147
+00:07:21,080 --> 00:07:23,520
+Ahí le hacemos un zoom a B1 y B2,
+
+148
+00:07:23,520 --> 00:07:25,960
+que es en donde habitualmente se ve.
+
+149
+00:07:25,960 --> 00:07:29,880
+Y acuérdense que viene con el QRS ancho más el patrón
+
+150
+00:07:29,880 --> 00:07:34,720
+rsr', ya sea en B1 y o en B2.
+
+151
+00:07:34,720 --> 00:07:36,680
+Aquí hay una imagen de Wikipedia, ¿cierto?
+
+152
+00:07:36,680 --> 00:07:37,760
+Que se ve un poco mejor.
+
+153
+00:07:37,760 --> 00:07:40,960
+Y lo más importante es que en B1, en B2,
+
+154
+00:07:40,960 --> 00:07:44,240
+se ve con esas que se describen como las orejas de conejo,
+
+155
+00:07:44,240 --> 00:07:44,560
+¿cierto?
+
+156
+00:07:44,560 --> 00:07:47,200
+Aunque no es una buena descripción en verdad,
+
+157
+00:07:47,200 --> 00:07:49,760
+pero sí el patrón rsr'.
+
+158
+00:07:49,760 --> 00:07:54,320
+Y a veces en B5 o en B6 se ve un patrón QRS.
+
+159
+00:07:54,320 --> 00:07:57,680
+Además, en el caso del bloqueo incompleto,
+
+160
+00:07:57,680 --> 00:08:00,720
+que se subraya ahí la I por incompleto de rama derecha,
+
+161
+00:08:00,720 --> 00:08:03,400
+es exactamente igual con la diferencia que viene con el
+
+162
+00:08:03,400 --> 00:08:04,400
+QRS angosto.
+
+163
+00:08:04,400 --> 00:08:07,360
+O sea, si es que el QRS está dentro del rango normal,
+
+164
+00:08:07,360 --> 00:08:08,040
+no está ancho.
+
+165
+00:08:08,040 --> 00:08:12,760
+Pero si viene con una imagen de rsr' en B1 o en B2,
+
+166
+00:08:12,760 --> 00:08:15,880
+en ese caso se llama bloqueo incompleto de rama derecha.
+
+167
+00:08:15,880 --> 00:08:17,320
+Y acuérdense que es de bajo grado.
+
+168
+00:08:17,320 --> 00:08:19,960
+No pasa absolutamente nada, a menos que venga en contexto
+
+169
+00:08:19,960 --> 00:08:21,680
+de un bloqueo trifasicular.
+
+170
+00:08:21,680 --> 00:08:24,280
+El bloqueo completo de rama izquierda se ve de esa
+
+171
+00:08:24,280 --> 00:08:24,800
+forma.
+
+172
+00:08:24,800 --> 00:08:26,840
+Es bien característico, hay que saberlo.
+
+173
+00:08:26,840 --> 00:08:31,040
+Si es que hay que describirlo, lo más importante es el QRS
+
+174
+00:08:31,040 --> 00:08:32,000
+ancho.
+
+175
+00:08:32,000 --> 00:08:34,240
+Igual que en el bloqueo completo de rama derecha,
+
+176
+00:08:34,240 --> 00:08:35,200
+el QRS está ancho.
+
+177
+00:08:35,200 --> 00:08:38,200
+Pero lo más importante acá es que viene con una onda S bien
+
+178
+00:08:38,200 --> 00:08:40,560
+profunda en B1 y o en B2.
+
+179
+00:08:40,560 --> 00:08:44,160
+Y viene con una R alta y ancha igualmente en B5 o en
+
+180
+00:08:44,160 --> 00:08:46,920
+B6, que ahí se le hace un pequeño zoom.
+
+181
+00:08:46,920 --> 00:08:49,120
+El bloqueo incompleto de rama izquierda,
+
+182
+00:08:49,120 --> 00:08:52,320
+igualmente que el bloqueo incompleto de rama derecha,
+
+183
+00:08:52,320 --> 00:08:55,360
+la única diferencia con el bloqueo completo es que viene
+
+184
+00:08:55,360 --> 00:08:57,600
+con el QRS angosto también.
+
+185
+00:08:57,600 --> 00:09:00,720
+Veamos ahora muy rápido el hemibloqueo izquierdo anterior,
+
+186
+00:09:00,720 --> 00:09:02,640
+que no es tan importante por si acaso.
+
+187
+00:09:02,640 --> 00:09:04,920
+Pero lo más importante es que el eje se desvía hacia
+
+188
+00:09:04,920 --> 00:09:10,000
+izquierda y que viene con ese patrón RS con una S bastante
+
+189
+00:09:10,000 --> 00:09:11,960
+profunda en las derivaciones inferiores,
+
+190
+00:09:11,960 --> 00:09:14,480
+digas en D2, en D3 y ABF.
+
+191
+00:09:14,480 --> 00:09:18,040
+Acuérdense, D2 apunta hacia abajo y a la izquierda.
+
+192
+00:09:18,040 --> 00:09:21,440
+D3 hacia abajo a la derecha y ABF hacia abajo.
+
+193
+00:09:21,440 --> 00:09:24,160
+Así que se consideran las inferiores.
+
+194
+00:09:24,200 --> 00:09:27,880
+Y el hemibloqueo izquierdo posterior es al revés en el
+
+195
+00:09:27,880 --> 00:09:30,600
+sentido en que viene con el eje desviado esta vez a la
+
+196
+00:09:30,600 --> 00:09:34,400
+derecha y aparte de eso viene con una R alta en las
+
+197
+00:09:34,400 --> 00:09:37,800
+derivaciones inferiores, digas en D2, D3 y ABF.
+
+198
+00:09:37,800 --> 00:09:39,600
+Y, bueno, eso es todo lo que hay que saber.
+
+199
+00:09:39,600 --> 00:09:41,720
+Y lo más importante, tienen que saber muy bien,
+
+200
+00:09:41,720 --> 00:09:44,320
+reconocer el bloqueo de tercer grado,
+
+201
+00:09:44,320 --> 00:09:48,520
+el de segundo grado Mobitz 1 del Mobitz 2 y saber cuáles
+
+202
+00:09:48,520 --> 00:09:50,640
+requieren de marca a paso y cuáles no.
+
+203
+00:09:50,640 --> 00:09:51,160
+Que estén muy bien.
+
+204
+00:09:51,160 --> 00:09:52,560
+Nos vemos en el siguiente tema.

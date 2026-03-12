@@ -1,0 +1,77 @@
+Hola, ¿cómo están? En este video vamos a hablar del score de TAL, que acuérdense que servía para
+
+ver la severidad del SBO y que iba a ser leve cuando había 0 a 5 puntos en el score de TAL,
+
+va a ser moderado cuando había 6 a 8 puntos y era severo cuando había 9 a 12 puntos que es el
+
+máximo. Ahora, las variables que mide son esas cuatro que están ahí, frecuencia respiratoria,
+
+el uso de musculatura accesoria, la presencia de cianosis y la presencia de sibilancia y
+
+va a recibir desde 0 hasta 3 puntos según si es que no tiene nada y está todo normal, en ese
+
+caso 0 puntos, si es que tiene un poquito 1 punto, si es que tiene más 2 puntos y si es que tiene
+
+mucho 3 puntos. Ahora, veámoslo con algún detalle, pero con que entiendan la lógica,
+
+lo más probable es que van a aprendérselo ya un poco más rápido. Ahora, la frecuencia
+
+respiratoria va a hacer 0 puntos cuando es menor a 30 respiraciones por minuto,
+
+o sea cuando está normal en los lactantes, cuando esté arriba de 30 desde que está un
+
+poco alterada, en ese caso 1 punto, arriba de 45 2 puntos y arriba de 60 3 puntos y fíjense que
+
+es 30 y 60 y va subiendo de 15 en 15. Ahora, en el caso de que tenga menos de 6 meses los
+
+puntos de corte cambian y esto hay que saberlo, en este caso todos los valores se les suma 10,
+
+o sea sería 40, 55 y 70 los puntos de corte, pero con que uno sepa, empiezan 30, suben de 15 en
+
+15 y en el menor de 6 meses se les suma 10, con eso se aprende más rápido y se recuerda mejor.
+
+En el caso de la musculatura accesoria, sepan que los síntomas van de abajo hacia arriba,
+
+va a hacer 0 puntos si es que no usa ningún músculo y respira bien, va a hacer 1 punto
+
+cuando es subcostal, o sea la parte de más abajo, 2 puntos cuando es intercostal un poquito
+
+más arriba y 3 puntos cuando hay tiraje cervical y como cosa importante, la laryngitis
+
+obstructiva en cambio era al revés, era un punto de severidad el tiraje, 2 intercostal y 3 subcostal,
+
+así que en el SBO de abajo hacia arriba, en la laryngitis obstructiva de arriba hacia abajo en
+
+cambio. En el caso de la xenosis, si es que no hay 0 puntos, si es que hay solamente alrededor
+
+de la boca con el llanto 1 punto, si es que hay alrededor de la boca de manera constante,
+
+en ese caso son 2 puntos y finalmente si es que hay xenosis generalizada son 3 puntos.
+
+Y lo último, la sibilancia, obviamente si es que no hay sibilancia, sería 0 punto,
+
+si las sibilancias son solamente expiratorias, en ese caso sería 1 punto,
+
+si es que además tiene sibilancias inspiratorias, en ese caso son 2 puntos
+
+y finalmente cuando se escuchan sin necesidad de usar el fonetoscopio,
+
+ahí serían 3 puntos y lo mismo aplica cuando hay silencio pulmonar, dígase,
+
+cuando no escucho absolutamente ninguna sibilancia. Ahora alguien me dice,
+
+pero ahí le doy 0 puntos o le doy 3 puntos, porque es lo mismo y va a depender de las
+
+otras cosas. Si me dice el niño está súper bien con un poquito de tos y nada más y
+
+sin sibilancia, uno dice, ni siquiera tiene un SBO, tiene 0 puntos y si es que no hay
+
+sibilancia, en ese caso tiene un refriego. Pero si es que está azul, súper tequimnético,
+
+que se le hunden todos los músculos y no se escucha nada, en ese caso uno dice,
+
+está gradísimo y tiene seguramente un SBO muy muy severo. Y bueno,
+
+eso fue todo en este video, nos vemos en el siguiente que vamos a ver el
+
+síndrome bronquial obstructivo recurrente.

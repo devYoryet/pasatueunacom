@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:06,970
+Hola, hola, ¿cómo están? En este video vamos a hablar de la enfermedad diverticular que es lo
+
+2
+00:00:06,970 --> 00:00:11,890
+mismo que la diverticulosis pero que no es lo mismo que la diverticulitis. La diverticulitis
+
+3
+00:00:11,890 --> 00:00:17,010
+es una complicación de la diverticulosis o enfermedad diverticular. Así que empecemos
+
+4
+00:00:17,010 --> 00:00:22,850
+con la clasificación de la diverticulosis que por el general se divide en la no complicada
+
+5
+00:00:22,850 --> 00:00:28,130
+y la complicada. Dentro de la no complicada lo más frecuente es que sean pacientes
+
+6
+00:00:28,130 --> 00:00:34,410
+absolutamente asintomáticos y es algo bastante frecuente. De hecho a los 40 años cerca del
+
+7
+00:00:34,410 --> 00:00:40,490
+20% de la población tiene al menos un diverticulo en el colon y esto sube hasta un 60% a los 60
+
+8
+00:00:40,490 --> 00:00:47,670
+años y sigue subiendo a medida que avanza la edad. Y que quede bien claro es la edad el
+
+9
+00:00:47,670 --> 00:00:53,410
+factor de riesgo más importante para el desarrollo de diverticulosis y de sus complicaciones y
+
+10
+00:00:53,410 --> 00:00:58,570
+eso hace que sea habitualmente una enfermedad del adulto mayor pero no es raro que haya casos
+
+11
+00:00:58,570 --> 00:01:05,810
+a veces en pacientes jóvenes, ejemplo a los 30 años sí se pueden complicar con una diverticulitis
+
+12
+00:01:05,810 --> 00:01:12,770
+o con alguna hemorragia diverticular. Ahora un porcentaje de las no complicadas si vienen
+
+13
+00:01:12,770 --> 00:01:18,490
+con síntomas pero estos son síntomas bien inespecíficos cierto que recuerdan un poco
+
+14
+00:01:18,490 --> 00:01:24,570
+al síndrome de intestino irritable con un dolor abdominal como con gusto a poco que no
+
+15
+00:01:24,570 --> 00:01:29,010
+queda claro cuál es su causa hasta que finalmente se encuentra que hay divertículos y se descartan
+
+16
+00:01:29,010 --> 00:01:34,090
+algunas otras causas. Las no complicadas ya sea asintomáticas o asintomáticas por
+
+17
+00:01:34,090 --> 00:01:41,570
+lo general simplemente se manejan con observación sin necesidad ni de cirugía ni de exámenes ni
+
+18
+00:01:41,570 --> 00:01:47,610
+de absolutamente ninguna cosa. Ahora cómo se diagnostica la diverticulosis no complicada
+
+19
+00:01:47,610 --> 00:01:53,170
+por lo general se ve en una colonoscopía en que se pidió por alguna otra razón y se encuentran
+
+20
+00:01:53,170 --> 00:01:58,890
+estos divertículos o bien en alguna imagen que a veces por ejemplo algún ataque bien hecha
+
+21
+00:01:58,890 --> 00:02:04,010
+y bien informada puede que venga con se ven múltiples divertículos en el síntoma por
+
+22
+00:02:04,010 --> 00:02:08,530
+ejemplo. En el caso de la diverticulosis complicada hay que saber que se complica de
+
+23
+00:02:08,530 --> 00:02:14,530
+dos formas número uno con las diverticulitis y número dos con las hemorragias digestivas
+
+24
+00:02:14,530 --> 00:02:20,010
+baja que en este caso suelen ser hemorragias relativamente graves porque son de tipo
+
+25
+00:02:20,010 --> 00:02:26,370
+arterial dado que el divertículo justamente se forma en la zona en donde penetran las
+
+26
+00:02:26,370 --> 00:02:32,930
+arterias al colon debido a que es la parte más delgada de la pared muscular y justamente
+
+27
+00:02:32,930 --> 00:02:40,410
+es la parte que se va debilitando y finalmente se va formando el divertículo. Ahora las
+
+28
+00:02:40,410 --> 00:02:45,530
+diverticulitis además se pueden sub complicar cierto con algunas otras cosas ejemplo con
+
+29
+00:02:45,530 --> 00:02:50,650
+una obstrucción de colon con una perforación intestinal o con fístulas que las vamos
+
+30
+00:02:50,650 --> 00:02:55,570
+a ver después al final de esta clase dentro de las cuales la más frecuente es la
+
+31
+00:02:55,570 --> 00:03:01,410
+fístula colobesical. Vemos ahora la diverticulitis aguda con algún detalle acuérdense que
+
+32
+00:03:01,410 --> 00:03:05,610
+su cuadro clínico por el general es similar a la de una appendicitis cierto
+
+33
+00:03:05,610 --> 00:03:10,530
+pero del lado izquierdo dígase con dolor abdominal en el lado izquierdo que lo más
+
+34
+00:03:10,530 --> 00:03:15,690
+frecuente es que esté localizado ahí en el 85% de los casos en el resto en cambio puede
+
+35
+00:03:15,690 --> 00:03:21,930
+ser un poco más difuso o puede estar en el hipogastro también habitualmente viene con
+
+36
+00:03:21,930 --> 00:03:27,170
+dolor a la palpación en esa misma zona en la fosa y la izquierda y con signos peritoneales
+
+37
+00:03:27,170 --> 00:03:31,370
+que el signo de Bloomberg es el más frecuente que suele estar localizado igualmente en el
+
+38
+00:03:31,370 --> 00:03:38,130
+lado izquierdo el diagnóstico si bien se enseña que suele ser un diagnóstico clínico la verdad
+
+39
+00:03:38,130 --> 00:03:43,450
+es que se debe complementar sí o sí con un ataque dado que me confirma el diagnóstico me
+
+40
+00:03:43,450 --> 00:03:48,730
+descarta otras causas de dolor abdominal y además me determina el manejo en el sentido
+
+41
+00:03:48,730 --> 00:03:54,050
+que si es que hay una peritonitis o no y si es que hay un abceso o no y si es que está
+
+42
+00:03:54,050 --> 00:03:58,890
+roto o no es lo que me determina finalmente si lo voy a manejar de forma quirúrgica o de
+
+43
+00:03:58,890 --> 00:04:03,930
+forma médica entre otras cosas así que la tac es el examen fundamental que se pide todo
+
+44
+00:04:03,930 --> 00:04:08,930
+paciente con una clínica de diverticulitis agua ahora le puedo pedir una colonoscopía y la
+
+45
+00:04:08,930 --> 00:04:14,890
+respuesta es no al menos no en agudo no mientras esté con una diverticulitis agua ahí está
+
+46
+00:04:14,890 --> 00:04:20,890
+absolutamente contraindicada debido a que hay riesgo de que se perfora el colon en cambio si
+
+47
+00:04:20,890 --> 00:04:25,050
+se puede pedir en frío y de hecho se suele pedir en frío en el sentido en que toda
+
+48
+00:04:26,050 --> 00:04:33,450
+hay que descartar que no haya de base un cáncer de colon y que en verdad no haya sido una
+
+49
+00:04:33,450 --> 00:04:37,690
+diverticulitis sino que haya sido una microperforación de este cáncer ahora
+
+50
+00:04:37,690 --> 00:04:42,210
+cuál es el tratamiento de la diverticulitis agua esto hay que saberlo y la verdad es que
+
+51
+00:04:42,210 --> 00:04:47,690
+varía según la severidad y si es que hay complicaciones o no y en el caso de que haya
+
+52
+00:04:47,690 --> 00:04:52,810
+complicaciones que ya dijimos que era la estenosis la obstrucción la perforación y
+
+53
+00:04:52,810 --> 00:04:57,530
+las fístulas en ese caso se operan siempre en cambio si es que no eventualmente se pueden
+
+54
+00:04:57,530 --> 00:05:04,690
+manejar de manera médica y finalmente para el manejo se usa la clasificación de hinchay que
+
+55
+00:05:04,690 --> 00:05:10,170
+va desde el 1 hasta el 4 la grado 1 es la que viene solamente con edema de la pared del
+
+56
+00:05:10,170 --> 00:05:15,370
+diverticulo y del colon cierto y si es que viene con algún abceso es máximo hasta 5
+
+57
+00:05:15,370 --> 00:05:21,890
+centímetros la grado 2 en cambio es la que viene con un abceso ya más grande más de
+
+58
+00:05:21,890 --> 00:05:27,090
+5 centímetros o desde los 5 centímetros o bien que está localizado en alguna zona distal la
+
+59
+00:05:27,090 --> 00:05:32,490
+grado 3 es la que viene con una peritonitis difusa y finalmente la grado 4 es la que viene
+
+60
+00:05:32,490 --> 00:05:39,610
+con una peritonitis estercoracia digas el diverticulo se rompe cierto y salen el contenido
+
+61
+00:05:39,610 --> 00:05:45,810
+de deposición es cierto a el resto de la cavidad abdominal estercoracia viene destierco
+
+62
+00:05:45,890 --> 00:05:52,490
+por si acaso sea es con deposiciones el manejo y esto hay que saberlo con bastante detalle en
+
+63
+00:05:52,490 --> 00:05:58,970
+el caso de que sea una hinchay 1 es simplemente la analgesia de hecho los antibióticos ni
+
+64
+00:05:58,970 --> 00:06:03,450
+siquiera han demostrado que sirvan tanto pero en la práctica si se dejan y queda el
+
+65
+00:06:03,450 --> 00:06:09,170
+ciprofloxacino más el metronidazol o sea fíjense lo más importante es analgesia vía oral
+
+66
+00:06:09,170 --> 00:06:14,050
+y si es que se deja algún antibiótico es vía oral también en el caso de que sea una
+
+67
+00:06:14,050 --> 00:06:19,330
+hinchay 2 ahí si hay que hospitalizarlo hay que manejarlo con antibióticos por vía endovenosa
+
+68
+00:06:19,330 --> 00:06:26,170
+habitualmente la se flexiona más el metronidazol más el drenaje percutáneo del abceso guiado
+
+69
+00:06:26,170 --> 00:06:32,690
+habitualmente por alguna imagen en el caso de la peritonitis difusa ya es con un tratamiento
+
+70
+00:06:32,690 --> 00:06:37,730
+quirúrgico lo habitual es que se indique la cirugía de hartmann que es una cirugía bien
+
+71
+00:06:37,730 --> 00:06:43,210
+cruenta cierto y que viene con dos dos etapas en el sentido en que en algún momento queda
+
+72
+00:06:43,250 --> 00:06:49,890
+con una colostomía cierto y luego de eso ya se se opera en segunda instancia aunque en la
+
+73
+00:06:49,890 --> 00:06:57,690
+hinchay 3 es aceptable el intentar una una anastomosis primaria y resolver todo en una
+
+74
+00:06:57,690 --> 00:07:03,450
+única cirugía y finalmente en la estercorazia si o si va con cirugía de hartmann en el
+
+75
+00:07:03,450 --> 00:07:08,290
+sentido en que el riesgo de una anastomosis primaria ya es demasiado alto de que va a
+
+76
+00:07:08,290 --> 00:07:13,610
+filtrar y de que se va a complicar y va a haber que operarlo a urgencia también ahora cuando ha
+
+77
+00:07:13,610 --> 00:07:19,250
+tenido dos complicaciones aunque sean leves ejemplo dos peritonitis hinchay 1 y 2 por
+
+78
+00:07:19,250 --> 00:07:25,890
+ejemplo en ese caso está indicada la cirugía electiva de resección del segmento del colon
+
+79
+00:07:25,890 --> 00:07:30,450
+que está con divertículo como para que quede bien claro si ese es el colon en el caso
+
+80
+00:07:30,450 --> 00:07:35,330
+de la cirugía de hartmann se cortan esas dos zonas que serían las del sigmoide que
+
+81
+00:07:35,330 --> 00:07:42,330
+están con divertículos cierto y finalmente se bota el segmento que está afectado queda con
+
+82
+00:07:42,330 --> 00:07:49,050
+una colostomía en el colon descendente cierto queda con una colostomía proximal y se produce
+
+83
+00:07:49,050 --> 00:07:55,610
+ahí el cierre del muñón distal y en una segunda instancia ya se reconstruye vemos como
+
+84
+00:07:55,610 --> 00:08:00,050
+último tema las fístulas secundarias a la enfermedad diverticular y acuérdense que el
+
+85
+00:08:00,050 --> 00:08:05,610
+cuadro clínico por el general viene con alguna con un antecedente de haber tenido una diverticulitis
+
+86
+00:08:05,610 --> 00:08:11,490
+o algún cuadro que es clínicamente compatible con una diverticulitis que pudo haber pasado
+
+87
+00:08:11,490 --> 00:08:17,730
+desapercibido cierto y la más importante es la fístula colobesical que es la más frecuente
+
+88
+00:08:17,730 --> 00:08:24,210
+que obviamente al haber una comunicación entre el colon y la vejiga cierto hay neumaturia o sea
+
+89
+00:08:24,210 --> 00:08:33,530
+se bota el pipí con gas hay y tú a repetición porque obviamente la vejiga habitualmente es
+
+90
+00:08:33,530 --> 00:08:38,570
+estéril y en este caso está con una comunicación a través de la fístula con el colon que por
+
+91
+00:08:38,570 --> 00:08:44,290
+el contrario está siempre contaminado y en algunos casos hay fecaluria también en este caso
+
+92
+00:08:44,290 --> 00:08:49,370
+ya dijimos se manejan todas con cirugía la otra es la cola vaginal en que se comunica el
+
+93
+00:08:49,370 --> 00:08:54,810
+colon con la vagina cierto y en este caso lo que sale es gas y deposiciones por la vagina y
+
+94
+00:08:54,810 --> 00:09:00,450
+esos son los síntomas y se puede objetivar cierto en el examen ginecológico la última
+
+95
+00:09:00,450 --> 00:09:05,730
+es la cola entérica en que se comunica el colon con alguna parte del intestino delgado
+
+96
+00:09:05,730 --> 00:09:13,690
+y se produce como una retroinfección con una especie de cortocircuito en la parte
+
+97
+00:09:13,690 --> 00:09:18,650
+digestiva y los síntomas más importantes que queda con derrea acuasa importante así que si
+
+98
+00:09:18,650 --> 00:09:23,050
+me dicen un paciente tuvo un cuadro de dolor abdominal muy intenso a la fósil x izquierda que
+
+99
+00:09:23,050 --> 00:09:28,730
+evoluciona luego con algo de mejoría pero evoluciona con derrea crónica cuál es el
+
+100
+00:09:28,730 --> 00:09:36,330
+diagnóstico pues una fístula e colo entérica recordando que la cola vesical es siempre la
+
+101
+00:09:36,330 --> 00:09:41,650
+más frecuente y la que se pregunta con mayor frecuencia el diagnóstico de esta fístula por
+
+102
+00:09:41,650 --> 00:09:47,770
+la general se hace con un ataque que eventualmente me puede demostrar el trayecto más una
+
+103
+00:09:47,770 --> 00:09:52,610
+colonoscopía que justamente encuentra esta zona del divertículo que puede estar comunicado con
+
+104
+00:09:52,610 --> 00:09:58,850
+las distintas estructuras y finalmente el manejo de todas ellas es absolutamente quirúrgico en
+
+105
+00:09:58,850 --> 00:10:03,530
+que hay que remover esta fístula y de esa manera se soluciona y pues esto es todo lo
+
+106
+00:10:03,530 --> 00:10:07,810
+que hay que saber con bastante detalle pero son son cosas que son frecuentes y que son
+
+107
+00:10:07,810 --> 00:10:09,890
+importantes así que a aprendérsela que estén bien

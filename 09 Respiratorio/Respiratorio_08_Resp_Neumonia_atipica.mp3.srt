@@ -1,0 +1,187 @@
+1
+00:00:03,220 --> 00:00:08,300
+En esta clase vamos a hablar de las neumonías atípicas que sepan que son las causadas por
+
+2
+00:00:08,300 --> 00:00:13,980
+los microorganismos atípicos y que tienen una clínica un poquito atípica, pero que
+
+3
+00:00:13,980 --> 00:00:19,380
+sirve para identificarlas de manera bastante clara. O sea, las neumonías atípicas tienen
+
+4
+00:00:19,380 --> 00:00:23,980
+su propia clínica típica. No sé si queda claro, pero va a quedar más claro ahora
+
+5
+00:00:23,980 --> 00:00:29,820
+que veamos todo. Los microorganismos atípicos son el micoplasma neumoniae, la clamidia
+
+6
+00:00:29,820 --> 00:00:34,620
+y la legionella neumófila. Esos son los tres. Ahora el micoplasma está subrayado porque es
+
+7
+00:00:34,620 --> 00:00:39,940
+el más frecuente. Sepan que tienen una gran diferencia con los microorganismos típicos,
+
+8
+00:00:39,940 --> 00:00:44,060
+que es que no están cubiertos por los betalactámicos. Así que ni la cephalosporina,
+
+9
+00:00:44,060 --> 00:00:48,820
+ni la penicilina, ni la amoxicilina, ni el imipenem, ninguno de los betalactámicos
+
+10
+00:00:48,820 --> 00:00:53,060
+les hace absolutamente nada. Así que el tratamiento de elección es con macrólidos.
+
+11
+00:00:53,060 --> 00:00:57,700
+Y sepan que se pueden manejar igualmente con la esquinolona respiratoria, el leoflexasino,
+
+12
+00:00:57,700 --> 00:01:04,500
+que es el más clásico, o el moxi, y igualmente con las tetracyclinas, con las doxicyclinas.
+
+13
+00:01:04,500 --> 00:01:08,860
+Ahora, ¿cuál es su clínica clásica? ¿Cuál es la clínica típica de las neumonías atípicas?
+
+14
+00:01:08,860 --> 00:01:14,980
+Pues número uno es un cuadro arrastrado, un cuadro que dura varios días, habitualmente más
+
+15
+00:01:14,980 --> 00:01:21,340
+de siete días, y lo más frecuente es que consulten entre 14 o incluso hasta 20 días después.
+
+16
+00:01:22,300 --> 00:01:27,700
+Los síntomas iniciales son iguales al de una infección viral, de hecho son absolutamente
+
+17
+00:01:27,700 --> 00:01:34,620
+indistinguibles, pero afectan mayoritariamente a los niños y a los adolescentes. De hecho,
+
+18
+00:01:34,620 --> 00:01:39,420
+es muy raro que haya una neumonía atípica en alguien de más de 30 años, por ejemplo.
+
+19
+00:01:39,420 --> 00:01:44,340
+Ahora, lo importante es que empieza como este cuadro viral, pero luego queda con mucha tos.
+
+20
+00:01:44,340 --> 00:01:49,340
+El micoplasma es bien bueno para hacer harta tos, de hecho es bueno igualmente como
+
+21
+00:01:49,340 --> 00:01:55,260
+para desencadenar un asma en alguien susceptible. Y luego de esto, empieza eventualmente con
+
+22
+00:01:55,260 --> 00:01:59,260
+dignidad de esfuerzos, con ya una clínica no de infección respiratoria alta, sino que de
+
+23
+00:01:59,260 --> 00:02:05,780
+infección respiratoria baja. Al ocultarlo, en el examen físico es frecuente, número uno,
+
+24
+00:02:05,780 --> 00:02:10,740
+que no haya un foco neumónico, sino que haya encrépitos bilaterales y más difusos,
+
+25
+00:02:10,740 --> 00:02:14,620
+aunque suenen ser un poco mayores en las bases. Y lo otro es muy frecuente que viene
+
+26
+00:02:14,620 --> 00:02:20,860
+con clínica obstructiva, típico del tipo de la sibilancia. O sea, fíjense,
+
+27
+00:02:20,860 --> 00:02:26,940
+la diferencia es el cuadro clínico, que es lento, arrastrado, más que es algo bilateral,
+
+28
+00:02:26,940 --> 00:02:32,660
+cierto, más obstructivo que las neumonías clásicas, que no hay un foco neumónico,
+
+29
+00:02:32,660 --> 00:02:36,980
+así que no hay un síndrome de condensación en este caso. Ahora, algunas otras cosas que
+
+30
+00:02:36,980 --> 00:02:40,900
+se asocian al micoplasma, a la infección por micoplasma, puede haber un eritema
+
+31
+00:02:40,900 --> 00:02:46,500
+multiforme menor, que eran esas lesiones en tiro al blanco que salían en la piel. Puede venir
+
+32
+00:02:46,500 --> 00:02:51,420
+incluso con un síndrome hemolítico-brémico, ya como algo grave y raro. Y algo que se ha
+
+33
+00:02:51,420 --> 00:02:56,860
+descrito alguna vez en los pacientes es la miringitis bulosa, que es, al hacerle una
+
+34
+00:02:56,860 --> 00:03:02,060
+otoscopia, se ven algunas vesículas o algunas pequeñas bulas en el tímpano. Eso
+
+35
+00:03:02,060 --> 00:03:06,100
+se puede ver también en el adenovirus, por si acaso. Y en el caso de la radiografía,
+
+36
+00:03:06,420 --> 00:03:12,100
+igualmente hay algunos patrones bien sugerentes de micoplasma, de los germenes atípicos por
+
+37
+00:03:12,100 --> 00:03:17,980
+la general, que es que hay un patrón de tipo albiolointersticial con engrosamiento
+
+38
+00:03:17,980 --> 00:03:23,020
+peribronquial, que es bilateral y mayor en las bases. O sea, nuevamente es algo que no hay
+
+39
+00:03:23,020 --> 00:03:27,700
+una condensación, sino que hay algo que se parece un poquito más a las neumonitis virales,
+
+40
+00:03:27,700 --> 00:03:33,060
+por ejemplo, con esta afectación intersticial. Ahora, ¿qué es lo importante de las neumonías
+
+41
+00:03:33,060 --> 00:03:38,180
+atípicas? Hay que saber identificarlas desde el punto de vista clínico, hay que saber que el
+
+42
+00:03:38,180 --> 00:03:42,820
+antibiótico cambia y por lo tanto es importante diferenciarlas de dos cosas. Por un lado,
+
+43
+00:03:42,820 --> 00:03:46,700
+diferenciarlas de las neumonías clásicas, que dijimos que vienen con mucha más fiebre y con
+
+44
+00:03:46,700 --> 00:03:51,860
+este foco de condensación son mucho más agudas en su presentación. Y hay que identificarlas
+
+45
+00:03:51,860 --> 00:03:55,460
+igualmente de las infecciones respiratorias altas, en que estas parten como una
+
+46
+00:03:55,460 --> 00:03:58,900
+infección respiratoria alta, pero luego aparecen los síntomas bajos, la disnea,
+
+47
+00:03:58,900 --> 00:04:02,740
+la similancia a los crépitos, etcétera. Y bueno, eso es todo, que estén bien.

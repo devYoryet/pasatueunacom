@@ -1,0 +1,467 @@
+1
+00:00:00,000 --> 00:00:07,670
+Hola, hola, ¿cómo están? En este video vamos a hablar del síndrome polidipsico-polibúrico,
+
+2
+00:00:07,670 --> 00:00:12,430
+que polidipsico significa que tiene mucha sed, que toma mucha agua, y polibúrico significa
+
+3
+00:00:12,430 --> 00:00:17,470
+que hace mucho pipí, que orina mucho. Ahora, la típica pregunta es ¿qué ocurre? Primero,
+
+4
+00:00:17,470 --> 00:00:22,430
+si es que tiene mucha sed y toma mucha agua y por tomar tanta agua hace mucho pipí,
+
+5
+00:00:22,430 --> 00:00:27,550
+o si es que pierde mucha agua por la orina y eso hace que se deshidrate y que por
+
+6
+00:00:27,550 --> 00:00:31,590
+lo tanto le dé sed y tome mucha agua. Y eso es súper importante porque las distintas
+
+7
+00:00:31,590 --> 00:00:36,150
+causas tienen una fisiopatología diferente y requieren obviamente un tratamiento diferente.
+
+8
+00:00:36,150 --> 00:00:41,950
+¿Cómo se estudia un síndrome polidipsico-polibúrico? Se estudia con tres exámenes. Número uno
+
+9
+00:00:41,950 --> 00:00:46,890
+con la glicemia de ayuno, número dos con el test de la sed o test de la privación
+
+10
+00:00:46,890 --> 00:00:52,350
+de agua y finalmente con el test de desmopresina. Y hay que saber bien para qué sirve cada
+
+11
+00:00:52,350 --> 00:00:56,510
+uno de ellos. En el caso de la glicemia de ayuno, obviamente es el primer examen
+
+12
+00:00:56,510 --> 00:01:01,350
+para descartar la diabetes mellitus, que por ese caso es la causa más frecuente de síndrome
+
+13
+00:01:01,350 --> 00:01:06,830
+polidipsico-polibúrico y que es un gran tema que se ve en su respectiva especialidad. Luego
+
+14
+00:01:06,830 --> 00:01:10,450
+está el test de la sed, que es para los síndromes polidipsicos-polibúricos en los
+
+15
+00:01:10,450 --> 00:01:15,550
+cuales yo ya descarté la diabetes mellitus como causa y en este caso yo le hago una serie
+
+16
+00:01:15,550 --> 00:01:21,950
+de pruebas basales y post privación de agua post sed y me sirve para diferenciar la
+
+17
+00:01:21,950 --> 00:01:27,350
+polidipsia primaria o polidipsia psicógena, que es el que toma mucha agua, de la diabetes
+
+18
+00:01:27,350 --> 00:01:32,350
+insípida, que no es la diabetes mellitus, la diabetes insípida es que no actúa o no
+
+19
+00:01:32,350 --> 00:01:38,030
+se produce adecuadamente la hormona antidiurética, la ADH. Y finalmente, ¿para qué me sirve
+
+20
+00:01:38,030 --> 00:01:41,990
+el test de desmopresina? Pues una vez que yo ya concluí que hay una diabetes
+
+21
+00:01:41,990 --> 00:01:46,630
+insípida, me sirve para diferenciar la diabetes insípida de tipo central, que
+
+22
+00:01:46,630 --> 00:01:54,670
+es la que ocurre en el hipotálamo o en la neurohipófisis en que no se produce suficiente
+
+23
+00:01:54,670 --> 00:02:01,070
+vasopresina o hormona antidiurética, suficiente ADH, la diferencia de la diabetes insípida
+
+24
+00:02:01,070 --> 00:02:05,390
+de tipo nefrogénica, en cambio, en que el ADH está normal, solamente que no actúa
+
+25
+00:02:05,390 --> 00:02:10,870
+bien a nivel renal. Ahora, veamos rápidamente el test de la sed y dijimos que me diferenciaba
+
+26
+00:02:10,870 --> 00:02:15,870
+la polidipsia primaria o polidipsia psicógena de la diabetes insípida y el test de
+
+27
+00:02:15,870 --> 00:02:21,550
+la sed lo que mira son las natremias y osmolaridades plasmáticas y la
+
+28
+00:02:21,550 --> 00:02:27,310
+osmolaridad urinaria, o sea, me comparas sangre y orina y se hace tanto de manera
+
+29
+00:02:27,310 --> 00:02:33,070
+basal como después de haberlo privado de agua por varias horas. ¿Cómo se ve en la
+
+30
+00:02:33,070 --> 00:02:39,070
+polidipsia primaria o psicógena? Pues la natremia habitualmente está normal
+
+31
+00:02:39,070 --> 00:02:43,270
+en el sentido en que los mecanismos renales, cierto, aunque yo tome mucha agua,
+
+32
+00:02:43,270 --> 00:02:47,270
+no alcanzan a excretar el exceso de agua y no alcanzo a producir una hiponatremia,
+
+33
+00:02:47,270 --> 00:02:51,270
+o bien, si es que de verdad estoy tomando demasiada agua, puede haber una leve
+
+34
+00:02:51,270 --> 00:02:57,270
+hiponatremia, o sea, está diluido el cuerpo, está diluida la sangre en el sentido
+
+35
+00:02:57,270 --> 00:03:01,270
+de que estoy tomando demasiada agua. ¿Cómo está la osmolaridad en orina?
+
+36
+00:03:01,270 --> 00:03:04,270
+Obviamente va a estar disminuida porque si es que tomo mucha agua voy a orinar
+
+37
+00:03:04,270 --> 00:03:10,270
+mucha agua y voy a excretar grandes polúmenes de agua pero siempre bien diluido.
+
+38
+00:03:10,270 --> 00:03:15,270
+Al privar lo de agua, si el problema era que yo tomaba mucha agua y dejo de tomar
+
+39
+00:03:15,270 --> 00:03:19,270
+mucha agua, pues simplemente todo se normaliza y se acaba el problema.
+
+40
+00:03:19,270 --> 00:03:25,270
+La diabetes insípida en cambio, la que está más abajo, basalmente o está normal
+
+41
+00:03:25,270 --> 00:03:30,270
+la natremia porque yo compenso tomando agua y evito deshidratarme y evito
+
+42
+00:03:30,270 --> 00:03:34,270
+tender a la hipernatremia o bien viene con hipernatremia basal.
+
+43
+00:03:34,270 --> 00:03:39,270
+Y en ese caso si yo estoy haciendo mucho BB, tomando mucha agua y a pesar de eso
+
+44
+00:03:39,270 --> 00:03:42,270
+también con hipernatremia, lo más probable es que sin ninguna duda estoy
+
+45
+00:03:42,270 --> 00:03:47,270
+con una diabetes insípida. La osmolaridad urinaria obviamente está
+
+46
+00:03:47,270 --> 00:03:50,270
+disminuida en el sentido de que al no actuar la ADH pierdo mucha agua
+
+47
+00:03:50,270 --> 00:03:53,270
+y las orinas siempre están diluidas. Así que fíjense, las orinas están
+
+48
+00:03:53,270 --> 00:03:57,270
+diluidas tanto en la polidipsia primaria como en la diabetes insípida
+
+49
+00:03:57,270 --> 00:04:02,270
+pero la sangre en cambio no. La sangre está normal en ambas a veces
+
+50
+00:04:02,270 --> 00:04:06,270
+o bien puede estar diluida en el caso de la polidipsia primaria,
+
+51
+00:04:06,270 --> 00:04:10,270
+en cambio está concentrada en el caso de la diabetes insípida.
+
+52
+00:04:10,270 --> 00:04:14,270
+Al privarlo de agua lo que suele ocurrir en la diabetes insípida
+
+53
+00:04:14,270 --> 00:04:19,270
+es que aparece una hipernatremia más importante, de hecho si basalmente
+
+54
+00:04:19,270 --> 00:04:23,270
+tiene hipernatremia me da miedo el privarlo de agua y ahí hago
+
+55
+00:04:23,270 --> 00:04:26,270
+el diagnóstico de inmediato pero de lo contrario veo que aparece
+
+56
+00:04:26,270 --> 00:04:30,270
+hipernatremia, obviamente no puedo dejar que aparezca una hipernatremia
+
+57
+00:04:30,270 --> 00:04:34,270
+muy severa así que voy controlando con los electrolitos cada cierto
+
+58
+00:04:34,270 --> 00:04:38,270
+tiempo y una vez que ya veo la aparición de hipernatremia pues
+
+59
+00:04:38,270 --> 00:04:42,270
+que tomé agua, sacaba esta prueba, en cambio la hormonaridad urinaria
+
+60
+00:04:42,270 --> 00:04:46,270
+siempre sigue diluida en el sentido que aunque no esté tomando agua,
+
+61
+00:04:46,270 --> 00:04:50,270
+aunque yo lo prive de agua, no actúa bien la hormona antidiurética
+
+62
+00:04:50,270 --> 00:04:54,270
+cierto y sigue perdiendo agua por vía urinaria. Entonces fíjense
+
+63
+00:04:54,270 --> 00:04:58,270
+lo importante es que en el test de la sed la polidipsia psicógena
+
+64
+00:04:58,270 --> 00:05:03,270
+o polidipsia primaria normaliza todo al privarlo de agua
+
+65
+00:05:03,270 --> 00:05:08,270
+en cambio la diabetes insípida tiende a la hipernatremia o bien
+
+66
+00:05:08,270 --> 00:05:12,270
+tengo hipernatremia al principio y las orinas se mantienen diluidas
+
+67
+00:05:12,270 --> 00:05:15,270
+ese es como el resumen lo más importante. Al entender la
+
+68
+00:05:15,270 --> 00:05:19,270
+fisioterapia queda super claro cómo es que va a resultar
+
+69
+00:05:19,270 --> 00:05:23,270
+cada una de estas pruebas. La prueba de Desmopresina que dijimos
+
+70
+00:05:23,270 --> 00:05:27,270
+que diferenciaba la diabetes central, la diabetes insipida central
+
+71
+00:05:27,270 --> 00:05:31,270
+en la cual me falta la hormona antidiurética cierto y la
+
+72
+00:05:31,270 --> 00:05:35,270
+diferencia de la diabetes insipida de tipo nefrogénica en la cual en cambio
+
+73
+00:05:35,270 --> 00:05:39,270
+no funciona o no actúa bien a nivel renal la hormona
+
+74
+00:05:39,270 --> 00:05:43,270
+antidiurética pues yo le doy Desmopresina. Si le doy la Desmopresina
+
+75
+00:05:43,270 --> 00:05:47,270
+que se da por vía nasal y todo mejora, dígase le doy lo que le faltaba
+
+76
+00:05:47,270 --> 00:05:51,270
+porque la Desmopresina es un análogo de la vasopresina o de la ADH
+
+77
+00:05:51,270 --> 00:05:55,270
+si es que todo mejora pues el diagnóstico obviamente es central porque le doy lo que le
+
+78
+00:05:55,270 --> 00:05:59,270
+faltaba. En cambio si es que no mejora a pesar de darle la Desmopresina
+
+79
+00:05:59,270 --> 00:06:03,270
+pues obviamente el diagnóstico es una diabetes insipida de tipo nefrogénica.
+
+80
+00:06:03,270 --> 00:06:07,270
+Ahora, algo importante ¿cuál es el tratamiento de esta?
+
+81
+00:06:07,270 --> 00:06:11,270
+En la central en la cual le falta la hormona antidiurética pues
+
+82
+00:06:11,270 --> 00:06:15,270
+le dejo la Desmopresina, le dejo el análogo de lo que le falta que es
+
+83
+00:06:15,270 --> 00:06:19,270
+la hormona antidiurética. En cambio en la nefrogénica
+
+84
+00:06:19,270 --> 00:06:23,270
+pues tengo que darle agua porque si no le doy agua el paciente se me va a
+
+85
+00:06:23,270 --> 00:06:27,270
+desidratar, me va a hacer una hipernetrenia y finalmente se va a morir de una hemorragia
+
+86
+00:06:27,270 --> 00:06:31,270
+intracraniana, cierto, secundaria a la hipernetrenia tan severa.
+
+87
+00:06:31,270 --> 00:06:35,270
+Ahora, me sirve para disminuir los altos volúmenes de
+
+88
+00:06:35,270 --> 00:06:39,270
+orina, me sirve la hidroclorotiazida y
+
+89
+00:06:39,270 --> 00:06:43,270
+me sirven los aines en el sentido que ambos fármacos
+
+90
+00:06:43,270 --> 00:06:47,270
+me aumentan la reabsorción proximal de agua porque aguárense que
+
+91
+00:06:47,270 --> 00:06:51,270
+la hormona antidiurética actúa a nivel del tubulo colector
+
+92
+00:06:51,270 --> 00:06:55,270
+y en este caso yo puedo ayudar a que se reabsorba un poquito más de agua a
+
+93
+00:06:55,270 --> 00:06:59,270
+nivel más proximal en el tubulo contorneado proximal y en el tubulo contorneado distal
+
+94
+00:06:59,270 --> 00:07:03,270
+y de esa manera la cantidad de agua que va a tener que tomar
+
+95
+00:07:03,270 --> 00:07:07,270
+y la cantidad de agua que va a perder va a ser un poco menor.
+
+96
+00:07:07,270 --> 00:07:11,270
+Dentro de las causas que hay que recordar de una u otra pues de las de
+
+97
+00:07:11,270 --> 00:07:15,270
+diabetes insipida central, cualquier alteración del
+
+98
+00:07:15,270 --> 00:07:19,270
+sistema nervioso central, ejemplo un traumatismo encéfalocraniano
+
+99
+00:07:19,270 --> 00:07:23,270
+que es de las causas más importantes, o bien un tumor o una cirugía
+
+100
+00:07:23,270 --> 00:07:27,270
+del cerebro y en el caso de la diabetes insipida nefrogénica
+
+101
+00:07:27,270 --> 00:07:31,270
+la que hay que saber como muy importante es el litio
+
+102
+00:07:31,270 --> 00:07:35,270
+los pacientes ya sea que estén intoxicados con litio que ahí la diabetes insipida
+
+103
+00:07:35,270 --> 00:07:39,270
+nefrogénica agrava todavía más la intoxicación por litio
+
+104
+00:07:39,270 --> 00:07:43,270
+o bien que lo tomen de manera bien frecuente eventualmente
+
+105
+00:07:43,270 --> 00:07:47,270
+pueden desarrollar algún cierto nivel de inactividad
+
+106
+00:07:47,270 --> 00:07:51,270
+de la ADH con una diabetes insipida nefrogénica
+
+107
+00:07:51,270 --> 00:07:55,270
+la hipercalcemia, la hipercalcemia muy severa, el calcio igualmente
+
+108
+00:07:55,270 --> 00:07:59,270
+actúa a nivel renal y eventualmente hace que haya una diabetes
+
+109
+00:07:59,270 --> 00:08:03,270
+insipida de tipo nefrogénica. Ahora hay otras causas de tipo genético
+
+110
+00:08:03,270 --> 00:08:07,270
+por ejemplo entre otras. Me interesa repetir un poco la del litio
+
+111
+00:08:07,270 --> 00:08:11,270
+en el sentido en que un paciente que está con alguna patología psiquiátrica y que eventualmente
+
+112
+00:08:11,270 --> 00:08:15,270
+usa litio puede o que tenga una polidipsia psicógena
+
+113
+00:08:15,270 --> 00:08:19,270
+o bien que tenga una diabetes insipida
+
+114
+00:08:19,270 --> 00:08:23,270
+nefrogénica secundaria al litio y justamente va a haber que saber
+
+115
+00:08:23,270 --> 00:08:27,270
+diferenciarlo con los exámenes de laboratorio. Eso es todo
+
+116
+00:08:27,270 --> 00:08:31,270
+así que nos vemos en los siguientes videos con algunas otras cosas relacionadas
+
+117
+00:08:31,270 --> 00:08:35,270
+con la hormona antivirética y los electrolitos. Nos vemos ahí.

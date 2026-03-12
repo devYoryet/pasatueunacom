@@ -1,0 +1,447 @@
+1
+00:00:00,000 --> 00:00:07,230
+En este video vamos a hablar de los famosos síndromes Mielo proliferativo y
+
+2
+00:00:07,230 --> 00:00:11,870
+sepan que son cuatro, por un lado está el leucemia mieloidecrónica que aumenta
+
+3
+00:00:11,870 --> 00:00:15,230
+los glóbulos blancos como lo más importante, la trombocitosis esencial
+
+4
+00:00:15,230 --> 00:00:18,510
+que aumenta las plaquetas como lo más importante, la policitemia vera que
+
+5
+00:00:18,510 --> 00:00:21,270
+aumenta los glóbulos rojos como lo más importante y finalmente la
+
+6
+00:00:21,270 --> 00:00:24,990
+mielofibrosis que tiende a, por el contrario, bajar todo se ve como una
+
+7
+00:00:24,990 --> 00:00:30,110
+pancitopeia. Entre ellos se dice que se mezclan en el sentido en que si
+
+8
+00:00:30,150 --> 00:00:33,950
+hay una trombocitosis esencial eventualmente puede elevar un poco las otras
+
+9
+00:00:33,950 --> 00:00:37,430
+líneas, la leucemia mieloidecrónica suele venir con trombocitosis por
+
+10
+00:00:37,430 --> 00:00:41,790
+ejemplo la policitemia vera también y además puede que empiece como uno
+
+11
+00:00:41,790 --> 00:00:45,430
+como por ejemplo una trombocitosis esencial y que luego se transforme en
+
+12
+00:00:45,430 --> 00:00:49,510
+una leucemia mieloidecrónica o en una mielofibrosis. Ahora de la leucemia
+
+13
+00:00:49,510 --> 00:00:52,830
+mieloidecrónica es raro que vuelva y lo mismo desde la mielofibrosis
+
+14
+00:00:52,830 --> 00:00:56,350
+es raro que vuelva alguna de las otras pero sí pueden empezar como
+
+15
+00:00:56,350 --> 00:01:00,670
+uno y terminar como alguna de esas dos. El diagnóstico se inicia con el
+
+16
+00:01:00,670 --> 00:01:04,070
+hemograma, ahí yo ya puedo venir con una sospecha bien importante en
+
+17
+00:01:04,070 --> 00:01:06,790
+particular con la leucemia mieloidecrónica que tiene un
+
+18
+00:01:06,790 --> 00:01:10,630
+hemograma bien característico pero siempre debo confirmar esto con la
+
+19
+00:01:10,630 --> 00:01:14,650
+biopsia de médula ósea que me muestra que hay una proliferación a
+
+20
+00:01:14,650 --> 00:01:18,750
+nivel de la médula de tipo clonal, o sea hay una mielo
+
+21
+00:01:18,750 --> 00:01:23,150
+proliferación clonal y aparte de esto se buscan dirigidamente los
+
+22
+00:01:23,150 --> 00:01:26,750
+aparcadores genéticos que son parte de los criterios diagnósticos más
+
+23
+00:01:26,750 --> 00:01:30,910
+importantes de esta patología. Hay que saber por lo menos dos, el gen
+
+24
+00:01:30,910 --> 00:01:35,270
+JAK2 que se ve en la policitemia vera, la trombocitosis esencial y el
+
+25
+00:01:35,270 --> 00:01:40,010
+la mielofibrosis ósea en tres de los cuatro y finalmente está el
+
+26
+00:01:40,010 --> 00:01:44,230
+cromosoma philadelphia o traslocación 922 que es el que me hace el
+
+27
+00:01:44,230 --> 00:01:47,510
+diagnóstico de la leucemia mieloidecrónica y además acuérdense
+
+28
+00:01:47,510 --> 00:01:51,310
+que es el que produce esta tirosina kinasa que es la causa de la
+
+29
+00:01:51,310 --> 00:01:55,830
+proliferación celular y es esta misma tirosina kinasa producida por el
+
+30
+00:01:55,830 --> 00:02:00,030
+cromosoma philadelphia la que se usaba como target de el tratamiento de la
+
+31
+00:02:00,030 --> 00:02:05,790
+leucemia mieloidecrónica con el imatimib y los análogos del imatimib.
+
+32
+00:02:05,790 --> 00:02:11,470
+Ahora hay otros como el CARL y el MPL que son clásicos de la mielofibrosis
+
+33
+00:02:11,470 --> 00:02:15,910
+y que da lo mismo la verdad lo que hay que saber son el JAK2 y el
+
+34
+00:02:15,910 --> 00:02:20,110
+cromosoma philadelphia. Ahora veamos la leucemia mieloidecrónica que en
+
+35
+00:02:20,150 --> 00:02:24,030
+verdad ya la vimos así que no la vamos a ver en este vídeo de nuevo sino que
+
+36
+00:02:24,030 --> 00:02:27,470
+vamos a empezar con la thrombocitosis esencial directamente que todavía no
+
+37
+00:02:27,470 --> 00:02:31,150
+la hemos visto. Su hemograma ya dijimos viene con thrombocitosis
+
+38
+00:02:31,150 --> 00:02:35,070
+habitualmente una thrombocitosis aislada arriba de 600 mil el normal
+
+39
+00:02:35,070 --> 00:02:39,510
+acuérdense es hasta 450 mil sobre esto lo más probable es que sí
+
+40
+00:02:39,510 --> 00:02:43,230
+puede hacer una thrombocitosis esencial o bien arriba de un millón
+
+41
+00:02:43,230 --> 00:02:47,150
+también pero recordemos que había que siempre descartar las causas
+
+42
+00:02:47,190 --> 00:02:51,190
+reactivas porque la thrombocitosis reactiva era la causa más frecuente ahora
+
+43
+00:02:51,190 --> 00:02:54,910
+cuál es su clínica número uno suelen ser asintomáticos simplemente un
+
+44
+00:02:54,910 --> 00:02:58,750
+hallazgo en el hemograma así se diagnostican la gran mayoría de los
+
+45
+00:02:58,750 --> 00:03:02,630
+pacientes lo mismo pasa en la polisitemia vera y como cosa
+
+46
+00:03:02,630 --> 00:03:05,710
+importante se descarta las causas reactivas no encuentro algo que
+
+47
+00:03:05,710 --> 00:03:08,550
+explique esto acuérdense que las plaquetas son reactantes de fase
+
+48
+00:03:08,550 --> 00:03:11,750
+agúa y si tengo alguna causa inflamatoria probablemente es una
+
+49
+00:03:11,750 --> 00:03:16,010
+thrombocitosis reactiva y no una thrombocitosis esencial. Cuando
+
+50
+00:03:16,010 --> 00:03:20,170
+tienes síntomas estos síntomas suelen ser en específico cefalea astenia
+
+51
+00:03:20,170 --> 00:03:25,410
+mareos etcétera es muy frecuente que venga con esplenomegalia y es algo que
+
+52
+00:03:25,410 --> 00:03:28,050
+me orienta a que la causa efectivamente es una thrombocitosis
+
+53
+00:03:28,050 --> 00:03:32,490
+esencial es más la esplenomegalia es algo que se ve en los cuatro
+
+54
+00:03:32,490 --> 00:03:36,770
+síndromes mielo proliferativos y finalmente en algunos casos si se
+
+55
+00:03:36,770 --> 00:03:40,410
+complica con thrombosis y con hemorragia las thrombosis porque
+
+56
+00:03:40,410 --> 00:03:43,770
+tengo muchas plaquetas y las hemorragias porque si bien hay muchas
+
+57
+00:03:43,770 --> 00:03:48,330
+plaquetas muchas veces son totalmente disfuncionales así que igualmente hay
+
+58
+00:03:48,330 --> 00:03:52,610
+hemorragia. El tratamiento de la thrombocitosis esencial por el
+
+59
+00:03:52,610 --> 00:03:57,290
+general es aspirina para evitar la thrombosis y la hidroxiurea que es un
+
+60
+00:03:57,290 --> 00:04:00,210
+fármaco muy antiguo que está obsoleto para el tratamiento de la
+
+61
+00:04:00,210 --> 00:04:04,170
+leucemia y meloide crónica pero que todavía se usa en el resto de los
+
+62
+00:04:04,170 --> 00:04:07,810
+síndromes mielo proliferativos. Vemos ahora la policitemia vera
+
+63
+00:04:07,810 --> 00:04:12,010
+recordando que su hemograma viene con policitemia dígase hemoglobina
+
+64
+00:04:12,010 --> 00:04:16,090
+arriba de 18 gramos por decilitro o bien un hematocrito arriba de 55%
+
+65
+00:04:16,090 --> 00:04:21,010
+abajo de eso se considera en cambio un hematocrito normal. Segundo lugar
+
+66
+00:04:21,010 --> 00:04:24,370
+puede que aumente las plaquetas y puede que aumente un poquito los
+
+67
+00:04:24,370 --> 00:04:27,930
+glóbulos blancos nunca hasta hacer un hemograma de leucemia por si acaso
+
+68
+00:04:27,930 --> 00:04:31,250
+pero acuérdense que los síndromes mielo proliferativo se mezclan
+
+69
+00:04:31,250 --> 00:04:36,050
+entre ellos y los hemogramas pueden reflejar un poco la mielo
+
+70
+00:04:36,050 --> 00:04:41,130
+proliferación de todas las líneas celulares. Su clínica por
+
+71
+00:04:41,130 --> 00:04:45,090
+la general dijimos asintomático un hallazgo en el hemograma pero cuando
+
+72
+00:04:45,090 --> 00:04:49,290
+viene con algo son los síntomas propios de la policitemia la plétora
+
+73
+00:04:49,290 --> 00:04:52,850
+facial que se ve como una cara muy roja puede venir con cefalea con
+
+74
+00:04:52,850 --> 00:04:57,090
+prurito cierto con espleno megalia también como todos los síndromes
+
+75
+00:04:57,090 --> 00:05:00,490
+mielo proliferativo y finalmente con fenómenos trombóticos en el
+
+76
+00:05:00,490 --> 00:05:05,290
+sentido en que la hiperdiscosidad puede ser una complicación de el
+
+77
+00:05:05,290 --> 00:05:09,650
+aumento de la masa de los eritrocitos o sea la policitemia se
+
+78
+00:05:09,650 --> 00:05:13,810
+puede complicar con un síndrome de hiperdiscosidad que produce cefalea
+
+79
+00:05:13,810 --> 00:05:18,770
+trombosis etcétera. La eritropoyetina y esto es muy importante tiene que
+
+80
+00:05:18,770 --> 00:05:23,450
+estar normal o bien disminuida si la eritropoyetina está elevada en ese
+
+81
+00:05:23,450 --> 00:05:27,290
+caso lo más probable es que sea una policitemia secundaria a hipoxia
+
+82
+00:05:27,290 --> 00:05:32,010
+ejemplo a época vivir en altura o a cualquier otra causa o sea para que
+
+83
+00:05:32,010 --> 00:05:35,610
+sea una policitemia vera se requiere que se hayan descartado otras
+
+84
+00:05:35,610 --> 00:05:41,690
+causas de la de la elevación de la eritropoyetina y de la
+
+85
+00:05:41,690 --> 00:05:46,530
+consecuente elevación de la masa de glóbulos rojos también. Ahora cuál es
+
+86
+00:05:46,530 --> 00:05:50,730
+el tratamiento de la policitemia vera por el general sangrías o sea bajarle
+
+87
+00:05:50,730 --> 00:05:55,010
+un poco el nivel de glóbulos rojos para que no tenga este síndrome de
+
+88
+00:05:55,010 --> 00:05:58,570
+hiperdiscosidad y me sirve igualmente la aspirina ese es como
+
+89
+00:05:58,570 --> 00:06:03,970
+como el fármaco que se suele dejar. Finalmente me sirve la hidroxiurea y
+
+90
+00:06:04,290 --> 00:06:09,370
+también el interferón alfa como una forma de disminuir la producción de
+
+91
+00:06:09,370 --> 00:06:15,170
+glóbulos rojos. La policitemia vera aumenta el riesgo cardiovascular así
+
+92
+00:06:15,170 --> 00:06:18,330
+que se hace mucho énfasis en estos pacientes que tienen que bajar su
+
+93
+00:06:18,330 --> 00:06:22,170
+riesgo cardiovascular que no fumen que traten su diabetes su hipertensión
+
+94
+00:06:22,170 --> 00:06:27,170
+etcétera. Y la última es la mielofibrosis que recuerden que es
+
+95
+00:06:27,170 --> 00:06:31,650
+sinónimo de metaplasia mieloide en este caso su hemograma es una
+
+96
+00:06:31,650 --> 00:06:37,250
+pancitopenia muchas veces con dacriositos que son estos glóbulos
+
+97
+00:06:37,250 --> 00:06:42,050
+rojos en forma de lágrima así que se dice la médula está sufriendo y está
+
+98
+00:06:42,050 --> 00:06:48,810
+llorando cierto. Su clínica como viene con una pancitopenia se traduce en un
+
+99
+00:06:48,810 --> 00:06:53,090
+síndrome de insuficiencia medular con petequias anemia infecciones etcétera
+
+100
+00:06:53,090 --> 00:06:58,210
+y una cosa muy importante viene con una esplenomegalia gigante o sea
+
+101
+00:06:58,610 --> 00:07:03,730
+dacriositos, pancitopenia y esplenomegalia gigante eso es lo característico de la
+
+102
+00:07:03,730 --> 00:07:08,890
+mielofibrosis es la traducción más clásica. El tratamiento de la mielofibrosis
+
+103
+00:07:08,890 --> 00:07:12,810
+va desde la observación en los casos más leves hasta el trasplante de
+
+104
+00:07:12,810 --> 00:07:16,410
+médula ósea y a los casos más graves y entre medio me sirve la
+
+105
+00:07:16,410 --> 00:07:22,250
+hidroxiguria la quimioterapia y los inhibidores del gen JAK2 sabiendo
+
+106
+00:07:22,250 --> 00:07:25,490
+que lo más frecuente es que eso no se use sino que se use la
+
+107
+00:07:25,530 --> 00:07:31,690
+observación y eventualmente también me sirven las transfusiones de sangre o de
+
+108
+00:07:31,690 --> 00:07:36,610
+las células hematopolíticas que le vayan faltando o sea lo que se conoce
+
+109
+00:07:36,610 --> 00:07:42,450
+como la terapia de soporte transfusional y bueno eso es todo lo
+
+110
+00:07:42,450 --> 00:07:46,450
+que hay que saber y solamente les dejo esta imagen de los dacriositos
+
+111
+00:07:46,450 --> 00:07:50,170
+como para que sepan identificarlos en el caso de que alguna vez vean un
+
+112
+00:07:50,170 --> 00:07:54,850
+frotis. Eso es todo, nos vemos en el siguiente vídeo.

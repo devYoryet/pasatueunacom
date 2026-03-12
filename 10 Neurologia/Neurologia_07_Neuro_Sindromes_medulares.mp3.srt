@@ -1,0 +1,655 @@
+1
+00:00:00,000 --> 00:00:06,950
+Hola, hola. En este vídeo vamos a hablar de los síndromes medulares que pueden ser
+
+2
+00:00:06,950 --> 00:00:10,190
+causados por un sinnúmero de patologías, ejemplo un tumor que
+
+3
+00:00:10,190 --> 00:00:17,310
+comprima, una lesión traumática, cierto, una zona que se desmielinice, por
+
+4
+00:00:17,310 --> 00:00:23,170
+ejemplo, por una esclerosis múltiple, etcétera. Hay muchas causas, pero vamos a
+
+5
+00:00:23,170 --> 00:00:28,650
+ver cómo se ven semiológicamente según el lugar de la lesión de la
+
+6
+00:00:28,650 --> 00:00:33,330
+médula espinal. Empecemos recordando algunas nociones de la anatomía de la
+
+7
+00:00:33,330 --> 00:00:36,810
+médula. Número uno está la sustancia blanca y número dos está la sustancia
+
+8
+00:00:36,810 --> 00:00:40,810
+gris que va al centro, ¿cierto? Recuerden que la sustancia blanca son
+
+9
+00:00:40,810 --> 00:00:46,090
+tractos nerviosos, son axones neuronales, cierto, que vienen desde
+
+10
+00:00:46,090 --> 00:00:50,770
+el cerebro hacia abajo en las vías motoras o bien desde el resto
+
+11
+00:00:50,770 --> 00:00:55,050
+del cuerpo hacia arriba, ¿cierto?, en las vías sensitivas. En cambio, la
+
+12
+00:00:55,050 --> 00:01:00,890
+sustancia gris son zonas de sinapsis. En el caso de las astas posteriores son
+
+13
+00:01:00,890 --> 00:01:05,930
+sinapsis de tipo sensitiva, ¿cierto? Viene ejemplo desde la piel con la
+
+14
+00:01:05,930 --> 00:01:11,130
+neurona sensitiva que está ubicada en los ganglios de los nervios
+
+15
+00:01:11,130 --> 00:01:15,090
+periféricos, ¿cierto? Y luego de eso manda su axón hacia la médula, hace
+
+16
+00:01:15,090 --> 00:01:18,930
+sinapsis en la zona posterior y de ahí se va hacia arriba, ¿cierto?, en
+
+17
+00:01:18,930 --> 00:01:23,730
+donde va a hacer sinapsis en el tálamo contralateral antes de irse a
+
+18
+00:01:23,730 --> 00:01:29,090
+la corteza sensitiva. O sea, repito, la vía sensitiva tiene tres neuronas, una
+
+19
+00:01:29,090 --> 00:01:34,450
+que está en el ganglio nervioso, ¿cierto?, otra que está en el hasta
+
+20
+00:01:34,450 --> 00:01:39,690
+posterior de la médula y la última que está en el tálamo, ¿cierto?, y de ahí
+
+21
+00:01:39,690 --> 00:01:44,130
+se va hacia el procesamiento en la corteza cerebral sensitiva. En cambio,
+
+22
+00:01:44,130 --> 00:01:49,370
+el hasta anterior, ahí está el soma de la segunda motoneurona, las
+
+23
+00:01:49,370 --> 00:01:53,170
+neuronas motoras son solamente dos, una que está en la corteza motora,
+
+24
+00:01:53,170 --> 00:01:58,510
+¿cierto?, y de ahí baja el axón, se decusa, ¿cierto?, y viene hasta el hasta
+
+25
+00:01:58,510 --> 00:02:01,810
+anterior de la médula en donde sale hacia el nervio periférico hacia el
+
+26
+00:02:01,810 --> 00:02:05,650
+músculo. Eso es importante, así que si es que no les quedó claro,
+
+27
+00:02:05,650 --> 00:02:10,090
+retrocedan el video y lo ven de nuevo. Las lesiones a nivel de la
+
+28
+00:02:10,090 --> 00:02:14,890
+sustancia blanca me producen una afectación desde ese punto hacia abajo
+
+29
+00:02:14,890 --> 00:02:18,470
+debido a que justamente se corta el tracto nervioso. En cambio, las
+
+30
+00:02:18,470 --> 00:02:22,690
+lesiones a nivel de la sustancia gris me producen alteraciones solamente
+
+31
+00:02:22,690 --> 00:02:28,010
+en esa zona específica, en ese nivel, como una especie de faja debido a que
+
+32
+00:02:28,010 --> 00:02:33,690
+solamente se afecta el procesamiento de la información que va o a salir de
+
+33
+00:02:33,690 --> 00:02:39,410
+ahí o a entrar por ahí, pero no la que va más abajo, ¿ya? Ahora vamos a
+
+34
+00:02:39,410 --> 00:02:45,010
+sobresimplificar esto un poco, recordando que ya dijimos que la
+
+35
+00:02:45,010 --> 00:02:50,210
+zona posterior habitualmente es sensitiva y la zona anterior es
+
+36
+00:02:50,210 --> 00:02:54,290
+motora para la sustancia gris. La sustancia blanca es mucho más complejo
+
+37
+00:02:54,290 --> 00:03:00,290
+que eso por si acaso, pero lo vamos a sobresimplificar dado que eso nos va a
+
+38
+00:03:00,290 --> 00:03:04,930
+permitir entender el síndrome de emisección medular, que lo vamos a ver
+
+39
+00:03:04,930 --> 00:03:08,730
+en algunos minutos. En la parte más posterior de la médula están los
+
+40
+00:03:08,730 --> 00:03:12,530
+cordones posteriores que están encargados de la sensibilidad tanto
+
+41
+00:03:12,530 --> 00:03:17,330
+vibratoria como táctil fina como propioceptiva, eso hay que
+
+42
+00:03:17,330 --> 00:03:22,050
+saberlo, ya los cordones posteriores o el haz de goli burda o de gracilis
+
+43
+00:03:22,050 --> 00:03:25,970
+y cuniatus como quieran llamarlo, ¿cierto? son sensibilidad vibratoria
+
+44
+00:03:25,970 --> 00:03:32,530
+propioceptiva y táctil fina. Luego en la zona lateral están los haces
+
+45
+00:03:32,530 --> 00:03:37,730
+espinotalámico lateral que justamente vienen con la sensibilidad de tipo
+
+46
+00:03:37,730 --> 00:03:42,010
+termalgésica. Cuando yo digo espinotalámica es porque viene desde
+
+47
+00:03:42,010 --> 00:03:47,130
+la médula espino hacia el tálamo, o sea aquí ya vino desde el
+
+48
+00:03:47,130 --> 00:03:52,130
+nervio periférico la información sensitiva termalgésica con la
+
+49
+00:03:52,130 --> 00:03:56,050
+neurona que estaba en el ganglio nervioso que está por fuera de la
+
+50
+00:03:56,050 --> 00:04:00,010
+médula que es parte del sistema nervioso periférico, hizo sinapsis en
+
+51
+00:04:00,010 --> 00:04:06,890
+el hasta posterior de la médula y de ahí se va hacia arriba por
+
+52
+00:04:06,890 --> 00:04:10,850
+el espinotalámico hasta el tálamo, vamos a ver que se decusó en algún
+
+53
+00:04:10,850 --> 00:04:16,450
+momento y eso va a quedar claro en algunos minutos más. Y finalmente los
+
+54
+00:04:16,450 --> 00:04:22,010
+cordones anteriores, ¿cierto? son los haces motores, ¿cierto? y el más
+
+55
+00:04:22,010 --> 00:04:27,090
+importante es el tracto córtico espinal anterior que, repito, viene con
+
+56
+00:04:27,090 --> 00:04:30,010
+la información motora que habitualmente viene desde la corteza
+
+57
+00:04:30,010 --> 00:04:34,850
+cerebral, se decusa en alguna parte y luego de eso me hace, baja por el
+
+58
+00:04:34,850 --> 00:04:38,610
+córtico espinal hasta que hace sinapsis en el hasta anterior de la
+
+59
+00:04:38,610 --> 00:04:43,050
+médula y sale. ¿En dónde se decusa cada uno? Esto es súper importante, esto hay
+
+60
+00:04:43,050 --> 00:04:47,970
+que saberlo, los cordones posteriores se decusan a nivel del bulborrequídeo
+
+61
+00:04:47,970 --> 00:04:51,890
+en la decusación sensitiva que está por detrás del bulborrequídeo, así
+
+62
+00:04:51,890 --> 00:04:56,450
+que todo lo que sube es y lateral y se recusa recién en el tronco en
+
+63
+00:04:56,450 --> 00:05:00,450
+céfaro, en el bulborrequídeo. En el caso del espinotalámico en
+
+64
+00:05:00,450 --> 00:05:05,810
+cambio se decusa apenas entra a la médula, diga se entra hace sinapsis
+
+65
+00:05:05,810 --> 00:05:12,610
+en el hasta posterior e inmediatamente se decusa por por la comisura anterior
+
+66
+00:05:12,610 --> 00:05:18,570
+y de ahí se va ya decusado por el haz espinotalámico lateral y
+
+67
+00:05:18,570 --> 00:05:23,690
+finalmente la parte motora se decusa en la decusación de las pirámides
+
+68
+00:05:23,690 --> 00:05:28,170
+cierto que están en el bulborrequídeo también a nivel del tronco en
+
+69
+00:05:28,170 --> 00:05:33,970
+céfalo así que nuevamente ya viene decusada la información que va por
+
+70
+00:05:33,970 --> 00:05:37,570
+las vías motoras en la médula. Esto si no quedó claro va a quedar claro ahora
+
+71
+00:05:37,570 --> 00:05:41,850
+en unos minutos más ya. Veamos el síndrome el síndrome de emisección
+
+72
+00:05:41,850 --> 00:05:47,410
+medular o síndrome de Brown-Sequard. En este caso lo que se afecta es los
+
+73
+00:05:47,410 --> 00:05:52,330
+cordones posteriores cierto el haz espinotalámico y la parte motora
+
+74
+00:05:52,330 --> 00:05:58,090
+también con la afectación de el haz córtico espinal anterior pero lo
+
+75
+00:05:58,090 --> 00:06:02,890
+importante acá es si es que se afecta y lateral o contralateral y
+
+76
+00:06:02,890 --> 00:06:08,090
+acuérdense los cordones posteriores y el córtico espinal la parte motora
+
+77
+00:06:08,090 --> 00:06:13,970
+cierto viene con la decusación que se produce arriba por lo tanto la
+
+78
+00:06:13,970 --> 00:06:18,530
+afectación en la médula va a ser y lateral a la lesión en cambio el haz
+
+79
+00:06:18,530 --> 00:06:22,610
+espinotalámico ya se decusó abajo cierto y en ese caso la
+
+80
+00:06:22,610 --> 00:06:27,450
+sensibilidad termalgésica va a ser contralateral así que cuál sería
+
+81
+00:06:27,450 --> 00:06:33,690
+el cuadro completo de un síndrome de emisección medular es afectación de la
+
+82
+00:06:33,690 --> 00:06:38,010
+sensibilidad vibratoria tactilfina y proprioceptiva y lateral más
+
+83
+00:06:38,010 --> 00:06:42,410
+afectación de la sensibilidad termalgésica contralateral más
+
+84
+00:06:42,410 --> 00:06:46,450
+afectación motora de la zona y lateral. Si se saben esto que acabo de
+
+85
+00:06:46,450 --> 00:06:50,770
+decir ya queda absolutamente completa esta clase y ya se saben todo por si
+
+86
+00:06:50,770 --> 00:06:55,890
+acaso ya. Vemos ahora el síndrome de arteria espinal anterior que mirriga
+
+87
+00:06:55,890 --> 00:07:00,810
+toda la zona anterior cierto de manera bilateral obviamente se van a afectar
+
+88
+00:07:00,810 --> 00:07:06,890
+tanto los haz espinotalámicos laterales como la vía motora cierto así
+
+89
+00:07:06,890 --> 00:07:11,250
+que viene con alteración de la sensibilidad termalgésica y con una
+
+90
+00:07:11,250 --> 00:07:15,010
+paraparecia cierto con afectación motora pero se conserva la
+
+91
+00:07:15,010 --> 00:07:21,330
+sensibilidad táctil proprioceptiva y la sensibilidad vibratoria cierto
+
+92
+00:07:21,330 --> 00:07:24,290
+porque eso venía en la parte posterior en cambio si es que lo que
+
+93
+00:07:24,290 --> 00:07:30,330
+se afecta es la arteria espinal posterior va a ver alguna afectación de
+
+94
+00:07:30,330 --> 00:07:33,730
+los cordones posteriores cierto con afectación de la sensibilidad
+
+95
+00:07:33,730 --> 00:07:37,850
+vibratoria tactilfina y proprioceptiva pero sin afectación ni de la
+
+96
+00:07:37,850 --> 00:07:41,650
+termalgésica o al menos no una que sea muy grande y sin afectación
+
+97
+00:07:41,650 --> 00:07:46,570
+motora tampoco sea se dan cuenta el saber la anatomía de la médula me
+
+98
+00:07:46,570 --> 00:07:50,010
+permite más o menos predecir cómo se va a ver semiológicamente.
+
+99
+00:07:50,490 --> 00:07:55,890
+Finalmente está la degeneración combinada subaguda de la médula que es
+
+100
+00:07:55,890 --> 00:08:00,090
+por déficit de b12 el déficit de b12 habitualmente viene con una anemia
+
+101
+00:08:00,090 --> 00:08:05,010
+megaloblástica cierto más una pancitopenia y en algunos casos con
+
+102
+00:08:05,010 --> 00:08:09,530
+una especie de demencia cierto pero en algunos casos se afecta también la
+
+103
+00:08:09,530 --> 00:08:13,250
+médula y lo que se afecta más son tanto los cordones posteriores
+
+104
+00:08:13,250 --> 00:08:17,490
+dígase con afectación de la sensibilidad vibratoria y tactilfina
+
+105
+00:08:17,490 --> 00:08:21,330
+y proprioceptiva cierto más la afectación de la parte más anterior
+
+106
+00:08:21,330 --> 00:08:26,570
+dígase con déficit motor con eventualmente una paraparecia y en los
+
+107
+00:08:26,570 --> 00:08:29,210
+casos muy muy graves con una paraplegia también aunque eso es muy
+
+108
+00:08:29,210 --> 00:08:33,610
+muy raro y habitualmente se diagnostica mucho antes por los otros
+
+109
+00:08:33,610 --> 00:08:38,250
+síntomas que se asocian al déficit de b12 pero nuevamente el saber la
+
+110
+00:08:38,250 --> 00:08:43,370
+anatomía me recuerda que la degeneración combinada subaguda de
+
+111
+00:08:43,370 --> 00:08:48,930
+la médula me conserva la sensibilidad termalgésica dado que eso está en la
+
+112
+00:08:48,930 --> 00:08:54,570
+zona media de la médula vemos ahora la ciringomielia y vamos a ver aparte el
+
+113
+00:08:54,570 --> 00:08:59,610
+cono medular y la cauda equina en el caso de la ciringomielia
+
+114
+00:08:59,610 --> 00:09:03,930
+lo que ocurre es que el canal del epéndimo el conducto que está al
+
+115
+00:09:03,930 --> 00:09:10,010
+medio se empieza a dilatar y empieza a comprimir y a destruir las
+
+116
+00:09:10,010 --> 00:09:14,570
+estructuras de la médula que están alrededor y lo primero que se afecta es
+
+117
+00:09:14,570 --> 00:09:18,650
+la comisura anterior que justo el lugar en donde se decusa el as
+
+118
+00:09:18,650 --> 00:09:22,890
+espinotalámico lateral así que lo más frecuente es que en esa zona y
+
+119
+00:09:22,890 --> 00:09:26,650
+solamente a ese nivel se produce una alteración de la sensibilidad
+
+120
+00:09:26,650 --> 00:09:31,330
+termalgésica pero solamente en faja y nada más ya medida que va pasando el
+
+121
+00:09:31,330 --> 00:09:37,610
+tiempo cierto va a evolucionar o atender a un síndrome ya de sección
+
+122
+00:09:37,690 --> 00:09:41,330
+dado que luego ya se va afectando el resto de la sustancia gris y la
+
+123
+00:09:41,330 --> 00:09:45,170
+sustancia blanca también pero repito si es que alguien viene con una
+
+124
+00:09:45,170 --> 00:09:48,930
+alteración de la sensibilidad termalgésica y nada más en faja en
+
+125
+00:09:48,930 --> 00:09:52,450
+alguna zona del tronco por ejemplo lo que hay que pensar es en una
+
+126
+00:09:52,450 --> 00:09:56,050
+ciringomielia y hay que estudiarlo con una resonancia magnética justamente
+
+127
+00:09:56,050 --> 00:09:59,690
+como como para ver el calibre del conducto del epéndimo
+
+128
+00:09:59,690 --> 00:10:02,810
+vemos ahora el síndrome del cono medular el cono medular es la
+
+129
+00:10:02,810 --> 00:10:09,970
+última parte de la medula la que está ya en la parte de más abajo en ese
+
+130
+00:10:09,970 --> 00:10:17,570
+lugar salen las raíces de S2 a S4 más las raíces de los nervios coxígeos
+
+131
+00:10:17,570 --> 00:10:22,530
+cierto y todo esto da origen al nervio pudendo que lo que suele
+
+132
+00:10:22,530 --> 00:10:29,250
+innervar es los genitales el periné y la parte parasimpática como para
+
+133
+00:10:29,250 --> 00:10:35,130
+la defecación y la amicción así que en este caso la clínica más frecuente
+
+134
+00:10:35,130 --> 00:10:38,970
+es que venga con incontinencia urinaria o con una vejiga neurogénica en
+
+135
+00:10:38,970 --> 00:10:43,250
+algunos casos también a veces con difusión sexual también más la
+
+136
+00:10:43,250 --> 00:10:48,570
+típica anestesia perineal o anestesia en silla de montar que se suele
+
+137
+00:10:48,570 --> 00:10:52,810
+describir de esa forma finalmente el síndrome de cauda equina en este
+
+138
+00:10:52,810 --> 00:10:56,130
+caso es cuando hay una afectación ya por debajo de la médula la
+
+139
+00:10:56,130 --> 00:11:01,010
+médula llega hasta L1 respecto a las vértebras aunque obviamente las raíces
+
+140
+00:11:01,010 --> 00:11:05,290
+nerviosas siguen más abajo y van saliendo cada una por su respectivo
+
+141
+00:11:05,290 --> 00:11:11,050
+espacio entre las vértebras cierto así que en este caso cuando hay una
+
+142
+00:11:11,050 --> 00:11:14,690
+lesión debajo de L1 lo que se comprime ya no es la médula sino que
+
+143
+00:11:14,690 --> 00:11:19,130
+las raíces nerviosas que vienen desde la médula y que van a dar origen al
+
+144
+00:11:19,130 --> 00:11:25,290
+resto de los nervios periféricos cierto debajo de L1 así que se afecta
+
+145
+00:11:25,290 --> 00:11:31,770
+desde desde L2 hasta S4 más el coxígio cierto y suele ser una
+
+146
+00:11:31,770 --> 00:11:36,090
+afectación asimétrica de estas distintas raíces de hecho se ve como
+
+147
+00:11:36,090 --> 00:11:42,610
+una radiculopatía múltiple desde L2 hacia abajo cierto a veces viene con
+
+148
+00:11:42,610 --> 00:11:48,930
+dolor y con todo el dolor clásico de una radiculopatía como en una como en
+
+149
+00:11:48,930 --> 00:11:52,890
+una asiática con abolición de los reflejos cierto acuérdense que los
+
+150
+00:11:52,890 --> 00:11:57,970
+reflejos de las extremidades inferiores vienen desde L2 hasta S1 y
+
+151
+00:11:57,970 --> 00:12:02,930
+finalmente en algunos casos también viene con la afectación clínica de
+
+152
+00:12:02,930 --> 00:12:07,250
+el cono medular con la arestecia en silla de montar y esas otras cosas
+
+153
+00:12:07,250 --> 00:12:11,650
+porque justamente vienen con las raíces de S2 a S4 que pueden estar
+
+154
+00:12:11,650 --> 00:12:15,570
+afectadas también así que la gran diferencia es como diferencia el cono
+
+155
+00:12:15,570 --> 00:12:20,490
+medular de la cauda equina número 1 el cono medular es solamente S2 a
+
+156
+00:12:20,530 --> 00:12:25,450
+S4 en cambio la cauda equina puede ser con las lumbares también con el L5
+
+157
+00:12:25,450 --> 00:12:31,650
+L4 L3 y L2 también y lo otro la cauda equina suele ser muy asimétrica en
+
+158
+00:12:31,650 --> 00:12:34,610
+cambio el cono medular suele ser un poquito más simétrico también aunque
+
+159
+00:12:34,610 --> 00:12:37,770
+finalmente la única forma de saber en la vida real que lo que está
+
+160
+00:12:37,770 --> 00:12:40,730
+afectado es con una resonancia magnética nuclear que es la forma en
+
+161
+00:12:40,730 --> 00:12:44,850
+que habitualmente se estudia los síntomas medulares todos ellos por
+
+162
+00:12:44,850 --> 00:12:48,130
+si acaso ya y bueno eso es lo que hay que saber nos vemos en los
+
+163
+00:12:48,130 --> 00:12:53,530
+siguientes temas ya con algunas cosas más médicas de neurología así que
+
+164
+00:12:53,530 --> 00:12:56,690
+los espero y que estén bien

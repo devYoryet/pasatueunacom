@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:09,780
+Veamos pancitopenia en un minuto. Empecemos con el concepto, es que bajan los glóbulos rojos, los glóbulos blancos y las plaquetas
+
+2
+00:00:09,780 --> 00:00:14,780
+y obviamente se puede reflejar en la clínica como un síndrome de insuficiencia medular.
+
+3
+00:00:14,780 --> 00:00:20,780
+El estudio, si es que tengo una causa evidente, en ese caso hago un estudio dirigido.
+
+4
+00:00:20,780 --> 00:00:28,780
+Ejemplo, si es que sospecho un déficit de B12 por la clínica, por el BCM muy aumentado, por la hipersegmentación de los neutrófilos
+
+5
+00:00:28,780 --> 00:00:34,780
+en el hemograma que me mostró la pancitopenia, pues le pido niveles de B12 y lo trato directamente con niveles de B12.
+
+6
+00:00:34,780 --> 00:00:39,780
+Pero si es que no, el estudio de la pancitopenia es la biopsia de medula ósea.
+
+7
+00:00:39,780 --> 00:00:46,780
+De hecho, si puedo resumir, esta clase es pancitopenia, igual biopsia de medula ósea, con esa excepción.
+
+8
+00:00:46,780 --> 00:00:52,780
+Si es que la biopsia me muestra un montón de blastos, pues tiene una leucemia uva.
+
+9
+00:00:52,780 --> 00:00:58,780
+Si es que me muestra displacias, sería una mielodisplacia. Si es que me muestra fibrosis, pues tiene una mielofibrosis.
+
+10
+00:00:58,780 --> 00:01:06,780
+Si me muestra células plasmáticas, pues tiene un mieloma múltiple o alguna otra gamapatía monoclonal que las vamos a ver en otra clase.
+
+11
+00:01:06,780 --> 00:01:13,780
+Y finalmente, si me muestra una medula ósea vacía, en la cual no hay precursores sanguíneos hematopoieticos,
+
+12
+00:01:13,780 --> 00:01:19,780
+en ese caso estamos frente a una aplasia medular, que es una enfermedad que habitualmente es autoinmune
+
+13
+00:01:19,780 --> 00:01:23,780
+o bien secundaria a los fármacos de la quimioterapia. Y eso es todo lo que hay que saber.
+
+14
+00:01:23,780 --> 00:01:27,780
+Pancitopenia, igual biopsia. Nos vemos en el siguiente video.

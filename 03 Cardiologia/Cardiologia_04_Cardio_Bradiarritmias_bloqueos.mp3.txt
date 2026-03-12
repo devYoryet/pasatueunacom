@@ -1,0 +1,407 @@
+Hola, ¿cómo están? Hablemos de las bradearritmias y de los bloqueos
+
+cardíacos con su manejo también. Vamos a ver en específico la enfermedad del
+
+nuevo sinusal, los distintos tipos de bloqueo auriculoventricular, más los
+
+bloqueos de rama, cierto, el bloqueo completo de rama derecha, el bloqueo
+
+completo de rama izquierda, el hemibloqueo izquierdo anterior y el
+
+hemibloqueo izquierdo posterior. Ahora, recordemos que en todas ellas, en
+
+todas las bradearritmias y en los bloqueos, la causa más importante es
+
+degenerativa, es raro que sea por causa isquémica, por ejemplo, que
+
+sería la segunda causa, pero la degenerativa es la más frecuente.
+
+Su clínica, por la general, son absolutamente asintomáticos o bien
+
+vienen con algún síntoma que el más frecuente son los síncopes
+
+cardiogénicos que se caracterizan por ser o síncopes de esfuerzo o bien
+
+síncopes de reposo. Ejemplo, el abuelito está sentado en la mesa,
+
+cierto, y de repente se compromete de conciencia porque hace una
+
+bradecardia que dura más de cierto número de segundos, cierto, y luego
+
+de eso ya revive. Ahora, en el caso específico de la enfermedad del
+
+nodo sinusal, aparte de los síncopes o de ser asintomático, que es lo más
+
+frecuente, puede alternarse con fibrilación auricular, lo que se
+
+conoce como el síndrome de bradearritmia, taquiarritmia, por si
+
+acaso, y finalmente en el caso del bloqueo aurículo ventricular de
+
+tercer grado, que es el más grave de todos, por regla general el
+
+paciente viene choqueado y viene con una frecuencia que suele ser
+
+cercana a los 30 por minuto, a veces más que eso, a veces es menos,
+
+pero hay que conocer ese cuadro clínico, el típico paciente que
+
+llega hipotenso, choqueado, muy bradecardico, habitualmente viene
+
+con un bloqueo a b de tercer grado o bloqueo a b completo, que
+
+también se llama. El diagnóstico de todas ellas, obviamente, es
+
+con el electrocardiograma y el manejo, si es que viene sin
+
+síntomas, si es que es un paciente absolutamente asintomático,
+
+por regla general es simplemente observar, a menos claro que
+
+sea de las bradearritmias de alto riesgo, en particular de alto
+
+riesgo de transformarse en un bloqueo a b de tercer grado,
+
+que ya dijimos que era el más grave, que en ese caso quedan
+
+con un marca paso definitivo, y en el caso de los que vienen
+
+con síntomas, en particular los síncopes, por ejemplo, o
+
+alguna otra cosa, en ese caso sí se manejan con marca paso,
+
+o sea, en resumen, las bradearritmias y los bloqueos
+
+se observan, a menos que sean de alto riesgo o que sean
+
+síntomaticos, que en ese caso se manejan con marca paso.
+
+Ahora, no hemos hablado de las que vienen con compromiso
+
+hemodinámico, que ya lo vimos en otra clase, es cierto que
+
+toda bradearritmia que viene choqueado debe manejarse con
+
+droga vasoactiva, ya sea atropina o noradrenalina,
+
+más la eventual instalación de un marca paso externo transitorio.
+
+¿Cuáles son los ritmos o los bloqueos o las bradearritmias
+
+de alto grado? Hay que saberlas, en el sentido de que
+
+son las que van a marca paso. La más importante, ya dijimos,
+
+el de tercer grado, o bien el bloqueo AB completo,
+
+en el sentido en que suele choquearse.
+
+Segundo lugar, el bloqueo AB de segundo grado,
+
+tipo Mobitz II, que lo vamos a ver después,
+
+en el sentido que suele progresar a uno de tercer grado
+
+y hay que no arriesgarse en el fondo de que quede con su
+
+marca paso. En tercer lugar, el bloqueo AB trifasicular,
+
+que es el que viene con un bloqueo AB de primer grado,
+
+que per se no es grave, pero cuando viene con un bloqueo
+
+completo de rama derecha y viene además con un
+
+EMI bloqueo izquierdo, ya sea anterior o posterior,
+
+en ese caso se habla de un bloqueo trifasicular
+
+que sí tiene un riesgo muy alto a evolucionar a uno
+
+de tercer grado. ¿Por qué?
+
+Si se fijan, la rama derecha ya se bloqueó.
+
+Y de la rama izquierda, una de las dos ramas
+
+ya se bloqueó también, en sentido que está con un
+
+EMI bloqueo izquierdo anterior o posterior, ¿cierto?
+
+Y la que sigue avanzando está lento en el sentido
+
+en que además está con un bloqueo AB de primer grado
+
+o de segundo grado Mobix 1.
+
+En resumen, las que van con marca paso,
+
+entonces son el bloqueo AB completo,
+
+el bloqueo AB Mobix 2 y el bloqueo trifasicular.
+
+Y recuerden que se define como el bloqueo AB de primer
+
+grado o de segundo grado, más que está casi todo
+
+lo demás bloqueado, le queda solamente una de las
+
+dos EMI ramas izquierdas.
+
+Veamos ahora la enfermedad del nodo sinusal.
+
+Hay que saber reconocerla en el electrocardiograma.
+
+Se ve habitualmente de esa manera.
+
+Si se fijan, en ese punto hay una pausa en que el nodo
+
+sinusal simplemente se olvidó de emitir su onda P.
+
+En este caso, si un paciente que viene con ese
+
+electro y que me dice, nunca he tenido ningún síntoma,
+
+se observa.
+
+Si es que en cambio hace pausas más largas y se está
+
+sincopiando, ¿cierto?
+
+En ese caso se maneja con un marca paso definitivo.
+
+Veamos ahora los bloqueos aurículos ventricularios de
+
+los distintos grados.
+
+Empecemos con el de primer grado,
+
+que se ve de esta forma.
+
+En este caso, todas las ondas P conducen,
+
+pero vienen con un intervalo PR largo que se cuenta desde
+
+el inicio de la P hasta el inicio del QRS.
+
+Si es más de 200 milisegundos,
+
+o sea, más de un cuadrado grande, en ese caso,
+
+se habla de un bloqueo AB de primer grado.
+
+El ritmo habitualmente es regular. ¿Por qué?
+
+Porque todas las ondas P conducen.
+
+Ahí se ve el intervalo PR, ¿cierto?
+
+Que está alargado, que está más de un cuadrado.
+
+En este caso, está casi del tamaño de dos cuadrados
+
+grandes, mucho más de 200 milisegundos.
+
+¿Cuál es el manejo en este caso?
+
+Observar.
+
+Acuérdense que se considera de bajo riesgo.
+
+En el caso del bloqueo de segundo grado,
+
+Mobitz 1, que igualmente se llama el bloqueo aurículo
+
+ventricular de Benkevah.
+
+En ese caso viene con algunas ondas P que no
+
+conducen, que en específico es la que se ve en donde está
+
+esa flecha, y el PR se va alargando progresivamente.
+
+Y eso es lo más importante.
+
+Si se fijan, el segmento PR, en este caso,
+
+está de ese tamaño, luego un poquito más grande,
+
+luego un poquito más grande, luego más grande,
+
+hasta que finalmente aparece una onda P que ya no conduce.
+
+Al no conducir alguna onda P, en ese caso,
+
+se llama bloqueo AB de segundo grado.
+
+Y al producirse este alargamiento del PR,
+
+en ese caso se clasifica como Mobitz 1, que acuérdense,
+
+es de bajo riesgo también.
+
+El Mobitz 2 se parece mucho,
+
+en el sentido que algunas ondas P no conducen,
+
+como en todo bloqueo de segundo grado,
+
+con la diferencia que aquí el PR es constante.
+
+Si se fijan, ahí hay dos ondas P que no conducen.
+
+Pero los PR son del mismo largo en todos los complejos
+
+en los cuales se puede ver.
+
+Así que en este caso sería Mobitz 2,
+
+que este sí es de alto riesgo,
+
+así que hay que manejarlo con un marcapaso permanente.
+
+Finalmente, el bloqueo AB de tercer grado,
+
+habitualmente viene sin ninguna onda P que conduzca,
+
+en el sentido que hay una disociación auriculo-ventricular,
+
+hay una disociación entre las ondas P y los complejos QRS.
+
+Y ya habíamos dicho antes que la frecuencia cardíaca
+
+habitualmente viene cercana a los 300 por minuto regular,
+
+en el sentido que hay un ritmo ventricular.
+
+Ahí se ven los complejos QRS, ¿cierto?
+
+Y ahí se ven las ondas P.
+
+Y si se fijan, no hay ninguna relación,
+
+en el sentido en que los QRS no vienen necesariamente después
+
+de una onda P, sino que siguen su ritmo de manera
+
+disociada o independiente.
+
+Vemos ahora el bloqueo completo de rama derecha,
+
+que se ve de esa manera.
+
+Ahí le hacemos un zoom a B1 y B2,
+
+que es en donde habitualmente se ve.
+
+Y acuérdense que viene con el QRS ancho más el patrón
+
+rsr', ya sea en B1 y o en B2.
+
+Aquí hay una imagen de Wikipedia, ¿cierto?
+
+Que se ve un poco mejor.
+
+Y lo más importante es que en B1, en B2,
+
+se ve con esas que se describen como las orejas de conejo,
+
+¿cierto?
+
+Aunque no es una buena descripción en verdad,
+
+pero sí el patrón rsr'.
+
+Y a veces en B5 o en B6 se ve un patrón QRS.
+
+Además, en el caso del bloqueo incompleto,
+
+que se subraya ahí la I por incompleto de rama derecha,
+
+es exactamente igual con la diferencia que viene con el
+
+QRS angosto.
+
+O sea, si es que el QRS está dentro del rango normal,
+
+no está ancho.
+
+Pero si viene con una imagen de rsr' en B1 o en B2,
+
+en ese caso se llama bloqueo incompleto de rama derecha.
+
+Y acuérdense que es de bajo grado.
+
+No pasa absolutamente nada, a menos que venga en contexto
+
+de un bloqueo trifasicular.
+
+El bloqueo completo de rama izquierda se ve de esa
+
+forma.
+
+Es bien característico, hay que saberlo.
+
+Si es que hay que describirlo, lo más importante es el QRS
+
+ancho.
+
+Igual que en el bloqueo completo de rama derecha,
+
+el QRS está ancho.
+
+Pero lo más importante acá es que viene con una onda S bien
+
+profunda en B1 y o en B2.
+
+Y viene con una R alta y ancha igualmente en B5 o en
+
+B6, que ahí se le hace un pequeño zoom.
+
+El bloqueo incompleto de rama izquierda,
+
+igualmente que el bloqueo incompleto de rama derecha,
+
+la única diferencia con el bloqueo completo es que viene
+
+con el QRS angosto también.
+
+Veamos ahora muy rápido el hemibloqueo izquierdo anterior,
+
+que no es tan importante por si acaso.
+
+Pero lo más importante es que el eje se desvía hacia
+
+izquierda y que viene con ese patrón RS con una S bastante
+
+profunda en las derivaciones inferiores,
+
+digas en D2, en D3 y ABF.
+
+Acuérdense, D2 apunta hacia abajo y a la izquierda.
+
+D3 hacia abajo a la derecha y ABF hacia abajo.
+
+Así que se consideran las inferiores.
+
+Y el hemibloqueo izquierdo posterior es al revés en el
+
+sentido en que viene con el eje desviado esta vez a la
+
+derecha y aparte de eso viene con una R alta en las
+
+derivaciones inferiores, digas en D2, D3 y ABF.
+
+Y, bueno, eso es todo lo que hay que saber.
+
+Y lo más importante, tienen que saber muy bien,
+
+reconocer el bloqueo de tercer grado,
+
+el de segundo grado Mobitz 1 del Mobitz 2 y saber cuáles
+
+requieren de marca a paso y cuáles no.
+
+Que estén muy bien.
+
+Nos vemos en el siguiente tema.

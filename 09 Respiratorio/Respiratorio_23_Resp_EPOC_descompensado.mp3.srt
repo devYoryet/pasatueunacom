@@ -1,0 +1,159 @@
+1
+00:00:03,180 --> 00:00:07,500
+En este video muy brevemente vamos a ver el manejo del EPOC descompensado que todo
+
+2
+00:00:07,500 --> 00:00:13,000
+médico general tiene que saberlo también y vamos a ver que tiene varios pilares en el
+
+3
+00:00:13,000 --> 00:00:17,960
+tratamiento que son los que están ahí oxígeno, salbutamol, los corticoides, los antibióticos
+
+4
+00:00:17,960 --> 00:00:22,840
+y el preguntarse si es que requiere de ventilación mecánica o no pero vamos a ir viendo los uno
+
+5
+00:00:22,840 --> 00:00:27,960
+por uno con cierto detalle. El oxígeno en este caso no se da cualquier dosis sino que se da
+
+6
+00:00:27,960 --> 00:00:35,360
+al 24% con miedo en el sentido en que está este riesgo de que haya una hipercarbia, una retención
+
+7
+00:00:35,360 --> 00:00:41,040
+de CO2 y que caiga finalmente en una encefalopatía hipercárbica así que yo no le subo el oxígeno
+
+8
+00:00:41,040 --> 00:00:46,880
+sin antes haber revisado los gases arteriales al menos así que en este caso que quede bien
+
+9
+00:00:46,880 --> 00:00:51,360
+claro se piden los gases y si es que está con una hipercarbia importante simplemente no
+
+10
+00:00:51,360 --> 00:00:56,960
+se sube el oxígeno al menos no hasta haberlo conectado al ventilador mecánico. Segundo
+
+11
+00:00:56,960 --> 00:01:03,080
+lugar el salbutamol que habitualmente aquí si se da en nebulizaciones, se da una nebulización cada
+
+12
+00:01:03,080 --> 00:01:08,840
+20 minutos por tres veces o sea por una hora completa y eventualmente si es que no no no
+
+13
+00:01:08,840 --> 00:01:14,200
+tengo el salbutamol para las nebulizaciones si se puede dar en PUF también. Como alternativas
+
+14
+00:01:14,200 --> 00:01:20,400
+al salbutamol está el formoterol que dijimos que si tiene una rápida acción al menos inicial
+
+15
+00:01:20,400 --> 00:01:26,520
+y el hipatropio también. Como el tercer pilar están los corticoides que en este caso son los
+
+16
+00:01:26,520 --> 00:01:32,240
+corticoides sistémicos ejemplo vía oral puede quedar con dexametasona o comprenisona fíjense
+
+17
+00:01:32,240 --> 00:01:37,600
+que los corticoides no eran tan importantes en el epoch estable pero sí son muy importantes y
+
+18
+00:01:37,600 --> 00:01:42,920
+aumentan la sobrevida en este caso en el epoch que está descompensado así que los corticoides
+
+19
+00:01:42,920 --> 00:01:48,360
+sistémicos son importantes tanto en el asma descompensado con una crisis como en el epoch
+
+20
+00:01:48,360 --> 00:01:54,200
+con una exacerbación o con una descompensación. En cuarto lugar los antibióticos aquí sí hay
+
+21
+00:01:54,200 --> 00:02:00,320
+que dejarlos sí o sí en el epoch descompensado como ejemplo puede quedar con septaxona o con
+
+22
+00:02:00,320 --> 00:02:06,320
+leofloxacino en el sentido en que las neumonías bacterianas son una de las causas de descompensación
+
+23
+00:02:06,320 --> 00:02:11,880
+más frecuente y no solo eso sino que además la radiografía de tórax en el epoch muchas
+
+24
+00:02:11,880 --> 00:02:16,680
+veces no muestra bien las neumonías así que ante la duda mejor dejarle antibióticos a no
+
+25
+00:02:16,680 --> 00:02:21,960
+dejarle y finalmente el hacerse siempre esa pregunta lo conecto al ventilador mecánico
+
+26
+00:02:21,960 --> 00:02:28,520
+y eso se decide en base a los gases arteriales y en este caso si la pa co2 está mayor o igual
+
+27
+00:02:28,520 --> 00:02:34,520
+a 50 o sea desde el momento en que cae en rango de una insuficiencia respiratoria por el co2
+
+28
+00:02:34,520 --> 00:02:39,280
+o sea con una hipercarbia con una hipo ventilación grave dentro de rango de
+
+29
+00:02:39,280 --> 00:02:44,480
+insuficiencia respiratoria o cuando veo que está con agotamiento muscular y por lo tanto
+
+30
+00:02:44,480 --> 00:02:50,320
+que va a caer en una insuficiencia respiratoria en ese caso se conecta al ventilador mecánico
+
+31
+00:02:50,320 --> 00:02:57,720
+no invasivo al vpap de elección en el epoch actualmente es no invasivo pero hay algunas
+
+32
+00:02:57,720 --> 00:03:01,920
+indicaciones en que si va a ventilación mecánica invasiva y hay que saber que las dos más
+
+33
+00:03:01,920 --> 00:03:07,000
+importantes que hay que saberlas bien son número uno que no tolere la ventilación no invasiva
+
+34
+00:03:07,000 --> 00:03:12,680
+que esté muy ahogado muy desesperado en ese caso se lo ceda y se lo conecta al ventilador
+
+35
+00:03:12,680 --> 00:03:17,880
+al ventilador mecánico que obviamente antes hay que intubarlo y cuando está con una
+
+36
+00:03:17,880 --> 00:03:22,560
+encefalopatía hipercárvica en el sentido en que hay que cedarlo hay que conectarlo al
+
+37
+00:03:22,560 --> 00:03:28,480
+ventilador mecánico y eventualmente se puede sacar la máscara del vpap también así que
+
+38
+00:03:28,480 --> 00:03:32,320
+eso esas son los pilares y esto hay que manejarlo bien y en el siguiente vídeo
+
+39
+00:03:32,320 --> 00:03:36,480
+vamos a hacer un paralelo entre el epoch y el asma como para que todas esas cosas las
+
+40
+00:03:36,480 --> 00:03:39,320
+que uno se confunde queden totalmente claras así que ahí nos vemos

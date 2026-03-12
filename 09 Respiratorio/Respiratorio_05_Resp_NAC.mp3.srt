@@ -1,0 +1,527 @@
+1
+00:00:03,410 --> 00:00:04,330
+Hola, hola.
+
+2
+00:00:04,330 --> 00:00:07,690
+Vamos a empezar con este tema respiratorio y vamos a empezar
+
+3
+00:00:07,690 --> 00:00:09,930
+con uno de los temas más importantes que es la
+
+4
+00:00:09,930 --> 00:00:12,610
+neumonía adquirida en la comunidad, la famosa NAC.
+
+5
+00:00:12,610 --> 00:00:14,690
+Y hay que saber que es una enfermedad que hay que
+
+6
+00:00:14,690 --> 00:00:18,730
+saber diagnosticar, hay que saber manejar con una buena
+
+7
+00:00:18,730 --> 00:00:21,010
+elección del antibiótico, en el sentido en que un buen
+
+8
+00:00:21,010 --> 00:00:23,970
+manejo de una neumonía salva mucha fidelidad y, en cambio,
+
+9
+00:00:23,970 --> 00:00:26,450
+un mal manejo se puede complicar, agravar y,
+
+10
+00:00:26,450 --> 00:00:28,370
+eventualmente, el paciente puede fallecer.
+
+11
+00:00:28,370 --> 00:00:30,850
+Ahora, la clínica del síntrome neumónico,
+
+12
+00:00:30,850 --> 00:00:33,330
+hay que saberlo con todos los detalles, ¿cierto?
+
+13
+00:00:33,330 --> 00:00:36,610
+Lo más habitual es que tenga fiebre, malestar general,
+
+14
+00:00:36,610 --> 00:00:40,890
+tos y expectoración habitualmente mucopurulenta o
+
+15
+00:00:40,890 --> 00:00:43,450
+derechamente purulenta.
+
+16
+00:00:43,450 --> 00:00:46,570
+Además, puede venir con dolor torásico que uno habla de la
+
+17
+00:00:46,570 --> 00:00:49,570
+famosa puntada de costado, que es este dolor que aumenta
+
+18
+00:00:49,570 --> 00:00:51,890
+con la inspiración o con topo inspiratorio.
+
+19
+00:00:51,890 --> 00:00:56,250
+Aparte, es muy frecuente que el muño pulmonar se elimine,
+
+20
+00:00:56,250 --> 00:00:59,850
+esté negativo y que sea reemplazado por esta famosa
+
+21
+00:00:59,850 --> 00:01:02,490
+respiración soplante o respiración tubaria.
+
+22
+00:01:02,490 --> 00:01:05,450
+Y aparte de esto, de manera localizada en la zona de
+
+23
+00:01:05,450 --> 00:01:09,170
+condensación, es frecuente que haya aumento de las
+
+24
+00:01:09,170 --> 00:01:13,970
+vibraciones vocales, ya sea al ocultarlas o al palparlas,
+
+25
+00:01:13,970 --> 00:01:16,730
+más la broncofonía que es cuando uno le dice,
+
+26
+00:01:16,730 --> 00:01:20,250
+diga 33, se escucha, en vez de escucharse,
+
+27
+00:01:20,250 --> 00:01:22,050
+se escucha el 33.
+
+28
+00:01:22,050 --> 00:01:24,610
+Finalmente, es muy frecuente que tenga crepitaciones
+
+29
+00:01:24,610 --> 00:01:27,530
+localizadas y matidez.
+
+30
+00:01:27,530 --> 00:01:30,690
+Todo lo último que sale la matidez,
+
+31
+00:01:30,770 --> 00:01:35,250
+los crépitos, la broncofonía y la respiración soplante,
+
+32
+00:01:35,250 --> 00:01:38,130
+habitualmente ocurre solamente en la zona de condensación,
+
+33
+00:01:38,130 --> 00:01:39,810
+en el foco neumónico.
+
+34
+00:01:39,810 --> 00:01:42,570
+Ahora, el diagnóstico de la neumonía es un diagnóstico
+
+35
+00:01:42,570 --> 00:01:44,370
+clínico radiológico.
+
+36
+00:01:44,370 --> 00:01:46,410
+Es con la clínica más la radiografía,
+
+37
+00:01:46,410 --> 00:01:49,290
+pero queda subrayado ahí lo clínico porque es lo más
+
+38
+00:01:49,290 --> 00:01:49,890
+importante.
+
+39
+00:01:49,890 --> 00:01:52,250
+Es más, algunos autores dicen que el diagnóstico es
+
+40
+00:01:52,250 --> 00:01:55,530
+solamente clínico y que la radiografía es un examen de
+
+41
+00:01:55,530 --> 00:01:57,970
+apoyo como para el manejo.
+
+42
+00:01:57,970 --> 00:02:01,610
+Y lo más importante es que una vez que uno hace el
+
+43
+00:02:01,610 --> 00:02:05,610
+diagnóstico, el tratamiento es con antibióticos empíricos.
+
+44
+00:02:05,610 --> 00:02:08,650
+O sea, yo sin ir a buscar el agente causal por regla
+
+45
+00:02:08,650 --> 00:02:11,650
+general, voy y le dejo un esquema antibiótico que se
+
+46
+00:02:11,650 --> 00:02:15,570
+selecciona en base a algunos criterios,
+
+47
+00:02:15,570 --> 00:02:18,330
+más todo el soporte respiratorio o el soporte de
+
+48
+00:02:18,330 --> 00:02:21,410
+la infección en el caso de que sea necesario.
+
+49
+00:02:21,410 --> 00:02:23,690
+Ahora, ¿qué pasa si es que no tengo radiografía?
+
+50
+00:02:23,690 --> 00:02:26,170
+Pues, dijimos que lo más importante en el diagnóstico
+
+51
+00:02:26,170 --> 00:02:27,130
+era la parte clínica.
+
+52
+00:02:27,130 --> 00:02:30,130
+Así que si tengo una clínica de neumonía sin radiografía,
+
+53
+00:02:30,130 --> 00:02:31,730
+le parto antibióticos nomás.
+
+54
+00:02:31,730 --> 00:02:35,530
+¿Y qué pasa si es que la radiografía de tórax está
+
+55
+00:02:35,530 --> 00:02:38,210
+normal y tiene una clínica de una neumonía?
+
+56
+00:02:38,210 --> 00:02:40,810
+Pues, lo correcto es partirle antibióticos también y
+
+57
+00:02:40,810 --> 00:02:43,450
+controlar con una nueva radiografía en dos días
+
+58
+00:02:43,450 --> 00:02:46,730
+más, en el sentido en que el tiempo que puede demorar una
+
+59
+00:02:46,730 --> 00:02:49,290
+neumonía en consolidar y verse en la radiografía
+
+60
+00:02:49,290 --> 00:02:50,850
+justamente dos días.
+
+61
+00:02:50,850 --> 00:02:53,490
+O sea, repito, el diagnóstico es
+
+62
+00:02:53,490 --> 00:02:56,010
+fundamentalmente clínico y la radiografía,
+
+63
+00:02:56,010 --> 00:02:57,170
+si es que no está.
+
+64
+00:02:57,170 --> 00:03:00,290
+O si es que está normal, le parto antibióticos igual,
+
+65
+00:03:00,290 --> 00:03:04,850
+con la excepción que debo controlarlo con una nueva
+
+66
+00:03:04,850 --> 00:03:06,850
+radiografía en algún tiempo más.
+
+67
+00:03:06,850 --> 00:03:09,770
+Y en el caso de que siga normal,
+
+68
+00:03:09,770 --> 00:03:11,930
+ahí sí tengo que suspender los antibióticos y tengo que
+
+69
+00:03:11,930 --> 00:03:13,570
+seguir buscando alguna otra causa,
+
+70
+00:03:13,570 --> 00:03:15,730
+que ya no va a ser una neumonía.
+
+71
+00:03:15,730 --> 00:03:17,690
+Ahora, la clásica pregunta es,
+
+72
+00:03:17,690 --> 00:03:19,970
+¿y las neumonías se manejan de manera ambulatoria o de
+
+73
+00:03:19,970 --> 00:03:21,450
+manera hospitalizada?
+
+74
+00:03:21,450 --> 00:03:24,850
+Y eso se decide en base al famoso Curve 65,
+
+75
+00:03:24,890 --> 00:03:28,170
+que no es algo que sea tan útil y que no reemplaza a la
+
+76
+00:03:28,170 --> 00:03:32,170
+clínica, pero aún así es algo que nos estandariza un poco el
+
+77
+00:03:32,170 --> 00:03:35,090
+manejo y nos permite tomar algunas decisiones de manera
+
+78
+00:03:35,090 --> 00:03:36,250
+más rápida.
+
+79
+00:03:36,250 --> 00:03:37,970
+La C es de conciencia.
+
+80
+00:03:37,970 --> 00:03:40,650
+Si viene con compromiso de conciencia, eso suma un punto.
+
+81
+00:03:40,650 --> 00:03:43,130
+La U es de uremia, si es que viene con falla renal,
+
+82
+00:03:43,130 --> 00:03:47,130
+con una creatinina que se empieza a elevar,
+
+83
+00:03:47,130 --> 00:03:52,130
+arriba de 1.5, arriba de 2 o arriba de lo que normalmente
+
+84
+00:03:52,130 --> 00:03:54,730
+el paciente trae, uno dice tengo un segundo punto.
+
+85
+00:03:54,730 --> 00:03:57,250
+La R es la frecuencia respiratoria,
+
+86
+00:03:57,250 --> 00:04:01,170
+que tenga más de 30 respiraciones por minuto,
+
+87
+00:04:01,170 --> 00:04:03,570
+o sea que tenga una taquilinía importante.
+
+88
+00:04:03,570 --> 00:04:07,330
+La B es la presión arterial o blood pressure,
+
+89
+00:04:07,330 --> 00:04:10,810
+que esté abajo de 90 a 60.
+
+90
+00:04:10,810 --> 00:04:14,770
+Y finalmente el 65 es que tenga más de 65 años.
+
+91
+00:04:14,770 --> 00:04:18,050
+Y cada una de esas cinco cosas suma un punto.
+
+92
+00:04:18,050 --> 00:04:22,210
+Ahora, en general uno suma puntos y con eso ve cómo
+
+93
+00:04:22,210 --> 00:04:23,530
+voy a manejarlo.
+
+94
+00:04:23,530 --> 00:04:26,370
+Si es que tiene cero a un punto, uno dice se maneja de manera
+
+95
+00:04:26,370 --> 00:04:27,250
+ambulatoria.
+
+96
+00:04:27,250 --> 00:04:30,330
+Si es que tiene dos puntos, se hospitaliza de manera breve
+
+97
+00:04:30,330 --> 00:04:33,450
+en las famosas salas era, que son estas salas que manejan
+
+98
+00:04:33,450 --> 00:04:37,610
+las enfermedades respiratorias del adulto y que se arman
+
+99
+00:04:37,610 --> 00:04:41,210
+habitualmente en la campaña de invierno y que en algunos
+
+100
+00:04:41,210 --> 00:04:43,930
+centros duran todo el año también.
+
+101
+00:04:43,930 --> 00:04:46,730
+Cuando tiene tres puntos, ya se hospitaliza en sala.
+
+102
+00:04:46,730 --> 00:04:48,490
+Y cuando tiene cuatro o cinco puntos,
+
+103
+00:04:48,490 --> 00:04:50,610
+habitualmente se hospitaliza en la UCI.
+
+104
+00:04:50,610 --> 00:04:51,970
+Pero, ¿qué queda esto bien claro?
+
+105
+00:04:51,970 --> 00:04:55,290
+Ya lo dije, pero lo repito, esto no reemplaza la clínica en
+
+106
+00:04:55,290 --> 00:04:58,290
+el sentido en que, ejemplo, se está desaturando y está super
+
+107
+00:04:58,290 --> 00:05:00,850
+bien con todo lo otro, pero satura 80%,
+
+108
+00:05:00,850 --> 00:05:02,730
+se va a hospitalizar sí o sí.
+
+109
+00:05:02,730 --> 00:05:04,610
+Si la mecánica respiratoria está mala,
+
+110
+00:05:04,610 --> 00:05:06,610
+si está con cianosis, si está con una clínica de
+
+111
+00:05:06,610 --> 00:05:09,130
+insuficiencia respiratoria o con los gases arteriales muy
+
+112
+00:05:09,130 --> 00:05:11,050
+malos, se hospitaliza igual.
+
+113
+00:05:11,050 --> 00:05:12,450
+Si es que tiene un solo punto,
+
+114
+00:05:12,450 --> 00:05:14,970
+pero el punto es que si tiene compromiso de
+
+115
+00:05:14,970 --> 00:05:17,090
+conciencia, se hospitaliza igual.
+
+116
+00:05:17,090 --> 00:05:19,410
+Si es que me dicen tiene un solo punto,
+
+117
+00:05:19,410 --> 00:05:23,050
+si es que está con 60-40% de presión arterial,
+
+118
+00:05:23,050 --> 00:05:24,490
+obviamente se hospitaliza igual.
+
+119
+00:05:24,490 --> 00:05:27,890
+O sea, repito, son cosas que no sirven para estandarizar,
+
+120
+00:05:27,890 --> 00:05:30,330
+pero de ninguna manera reemplaza la clínica.
+
+121
+00:05:30,330 --> 00:05:33,530
+Y les pido, por favor, nunca manden para la casa a alguien
+
+122
+00:05:33,530 --> 00:05:39,570
+porque tenga dos puntos o un punto del curve 65 si es
+
+123
+00:05:39,570 --> 00:05:40,290
+que está grave.
+
+124
+00:05:40,290 --> 00:05:43,850
+Uno como médico tiene que aprender a ver todo el global
+
+125
+00:05:43,850 --> 00:05:45,490
+del paciente y manejarlo.
+
+126
+00:05:45,490 --> 00:05:47,650
+Lo mismo, una insuficiencia renal aguda, muy severa,
+
+127
+00:05:47,650 --> 00:05:49,850
+hay que hospitalizarlo, volumizarla,
+
+128
+00:05:49,850 --> 00:05:52,210
+estudiarla, manejarla, etcétera.
+
+129
+00:05:52,210 --> 00:05:54,930
+Ahora, la típica otra pregunta es, ¿está bien y qué
+
+130
+00:05:54,930 --> 00:05:56,050
+antibiótico le dejo?
+
+131
+00:05:56,050 --> 00:05:58,170
+Entonces, pues, lo veremos en el próximo video.
+
+132
+00:05:58,170 --> 00:06:00,530
+Así que nos vemos ahí.

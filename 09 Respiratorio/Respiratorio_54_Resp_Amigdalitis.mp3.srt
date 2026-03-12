@@ -1,0 +1,455 @@
+1
+00:00:03,120 --> 00:00:07,440
+Hola, ¿cómo están? Vamos a hablar de amigdalitis aguda, sabiendo que es algo que se pregunta mucho,
+
+2
+00:00:07,440 --> 00:00:11,840
+tanto en otorrino como en pediatría, incluso en infectología, y sepamos que lo importante es
+
+3
+00:00:11,840 --> 00:00:15,840
+diferenciar entre la amigdalitis bacteriana y la amigdalitis viral, en el sentido en que la
+
+4
+00:00:15,840 --> 00:00:19,760
+bacteriana va a recibir antibióticos, en cambio la viral solamente al tratamiento sintomático.
+
+5
+00:00:19,760 --> 00:00:25,800
+Ahora, la viral es la más frecuente, 90% de las amigdalitis son virales, entonces,
+
+6
+00:00:25,800 --> 00:00:31,360
+en general, la inmensa mayoría va a ser viral y yo tengo que saber identificar cuáles
+
+7
+00:00:31,360 --> 00:00:36,400
+son las poquitas bacterianas precisamente para dejarle el antibiótico. Y la regla general es
+
+8
+00:00:36,400 --> 00:00:40,760
+que la diferencia se hace en base a la clínica, las bacterianas suelen tener un dolor mucho más
+
+9
+00:00:40,760 --> 00:00:45,120
+intenso que inicia de manera relativamente rápido, en cosas de horas o máximo un día,
+
+10
+00:00:45,120 --> 00:00:49,240
+suelen venir con adenopatías, aparte de eso suele venir con fiebre alta,
+
+11
+00:00:49,240 --> 00:00:53,520
+arriba de 38 grados Celsius, y es muy frecuente que venga con un exudado,
+
+12
+00:00:53,520 --> 00:00:58,520
+que suele estar dentro de los surcos de las amigdalas, ya, no en la superficie de
+
+13
+00:00:58,520 --> 00:01:04,560
+las amigdalas sino que en los surcos y muchas veces con mucho eritema faríngio. Aparte de eso,
+
+14
+00:01:04,560 --> 00:01:08,600
+suelen venir sin síntomas catarrales, sin síntomas de refrío, que son la tos,
+
+15
+00:01:08,600 --> 00:01:12,680
+la difonía y la rinorrea, y además suelen venir sin conjuntivitis,
+
+16
+00:01:12,680 --> 00:01:16,000
+que es algo que orienta al adenovirus como etiología.
+
+17
+00:01:16,000 --> 00:01:21,360
+Ahora, las bacterianas habitualmente ocurren entre los 5 y los 15 años,
+
+18
+00:01:21,360 --> 00:01:25,800
+esa es la edad más frecuente, si es que tiene menos de 3 años es muy improbable que
+
+19
+00:01:26,000 --> 00:01:29,960
+sea bacteriana, puede ser, pero sería algo muy raro, y si tiene más de 45 años también es muy
+
+20
+00:01:29,960 --> 00:01:35,600
+improbable que sea bacteriana. En el caso de las virales en cambio, es todo lo contrario a la
+
+21
+00:01:35,600 --> 00:01:40,480
+lista que está ahí en la parte bacteriana, así que simplemente si es dolor intenso,
+
+22
+00:01:40,480 --> 00:01:44,200
+bueno, dolor no tan intenso, inicio agudo, inicio no tan agudo, etcétera.
+
+23
+00:01:44,200 --> 00:01:48,960
+Ahora, ¿qué pasa si me dicen que tiene un exudado no en los surcos, sino que un
+
+24
+00:01:48,960 --> 00:01:54,000
+exudado blanco, grande, adherente en la superficie de las amigdalas? Eso sugiere
+
+25
+00:01:54,000 --> 00:02:00,000
+muy fuertemente una mononucleosis, un virus de Epstein-Barr, así que el exudado, acuérdense,
+
+26
+00:02:00,000 --> 00:02:06,620
+no hace la diferencia del todo entre la bacteriana y la viral, sino que es el exudado en los
+
+27
+00:02:06,620 --> 00:02:10,960
+surcos el que sugiere más bacteriana, y el exudado blanco en la superficie puede ser de
+
+28
+00:02:10,960 --> 00:02:15,400
+un virus sin ningún problema. En el caso de los niños de menos de 3 años, lo más probable
+
+29
+00:02:15,400 --> 00:02:20,400
+es que sea por adenovirus si es que viene con exudado, ya, en general los niños de
+
+30
+00:02:20,400 --> 00:02:26,960
+menos de 3 años son por virus, pero en particular el adenovirus como una clínica
+
+31
+00:02:26,960 --> 00:02:31,040
+que sea muy parecida a una amigdalitis bacteriana. Lo mismo pasa con la conjuntivitis,
+
+32
+00:02:31,040 --> 00:02:36,480
+ya sabemos la conjuntivitis, la fiebre faringo conjuntival, es una enfermedad bastante
+
+33
+00:02:36,480 --> 00:02:40,720
+benigna, es un tipo de refrieo, de infección respiratoria alta, causada en específico
+
+34
+00:02:40,720 --> 00:02:47,040
+por el adenovirus. Cuando me queda la duda, cuando no es evidentemente viral,
+
+35
+00:02:47,040 --> 00:02:52,680
+en ese caso yo puedo aplicar los famosos criterios de center modificado, cierto, que son 5 y que
+
+36
+00:02:52,680 --> 00:02:59,280
+cada uno me da un punto. Los criterios hay que saberlos, son temperatura de más de 38 grados,
+
+37
+00:02:59,280 --> 00:03:05,680
+que tenga exudado o mucha hipertrofia o eritema de las amígdalas, que tenga adenopatías,
+
+38
+00:03:05,680 --> 00:03:09,240
+que no tenga síntomas catarrales, que no tenga los síntomas de refrieo, que ya dijimos
+
+39
+00:03:09,240 --> 00:03:15,360
+eratós, la difunía y la rinorrea, y que tenga la edad entre 3 y 5 años. Si es que no
+
+40
+00:03:15,360 --> 00:03:19,880
+tiene ningún punto, tiene máximo uno de esos puntos, en ese caso yo asumo que es viral y le
+
+41
+00:03:19,880 --> 00:03:24,840
+dejo tratamiento sintomático, si es que tiene 2 a 3 puntos, en ese caso lo que yo hago es pedir
+
+42
+00:03:24,840 --> 00:03:31,000
+un examen confirmatorio, y los dos grupos de exámenes que hay son el T-Rápido, que es el
+
+43
+00:03:31,000 --> 00:03:36,480
+test pack que me da la información inmediata, si es que hay una streptococcal, biógenes o no,
+
+44
+00:03:36,480 --> 00:03:40,640
+y los cultivos, que son el gold standard, y por lo mismo que está subrayado ahí,
+
+45
+00:03:40,640 --> 00:03:44,640
+pero si bien es el gold standard y es el que tiene mayor sensibilidad y especificidad,
+
+46
+00:03:44,640 --> 00:03:49,680
+tiene lo malo que demora habitualmente 1 a 2 días en tener el resultado, por lo tanto en
+
+47
+00:03:49,680 --> 00:03:54,880
+la práctica lo que yo hago es pido el T-Rápido, si es que el T-Rápido está positivo, le parto
+
+48
+00:03:54,880 --> 00:03:58,640
+los antibióticos, si es que está negativo, le dejo el tratamiento sintomático, pero espero
+
+49
+00:03:58,640 --> 00:04:02,240
+el cultivo, y si es que el cultivo está positivo, pues le parto los antibióticos
+
+50
+00:04:02,240 --> 00:04:07,600
+también, aunque sea algunos días después. Si es que tiene en cambio 4 o 5 puntos, en ese
+
+51
+00:04:07,600 --> 00:04:12,040
+caso yo asumo que es bacteriana, y le parto los antibióticos de inmediato. Ahora,
+
+52
+00:04:12,040 --> 00:04:16,720
+la típica pregunta es, y le pido los exámenes igual, le hago el T-Rápido igual o el cultivo
+
+53
+00:04:16,720 --> 00:04:21,440
+igual, y pues eso es bastante discutible, pero la recomendación internacional es pídalo
+
+54
+00:04:21,440 --> 00:04:25,120
+igual por último para objetivar, que efectivamente se trataba de una amigdalitis
+
+55
+00:04:25,120 --> 00:04:29,760
+pultácea, sabiendo que en el caso de que me salgan negativos el T-SPAC rápido y el
+
+56
+00:04:29,760 --> 00:04:35,440
+cultivo, eventualmente yo puedo suspender los antibióticos. El antibiótico que habitualmente
+
+57
+00:04:35,440 --> 00:04:40,760
+se da es la penicilina benzatina, acuérdense que no hay resistencia de
+
+58
+00:04:40,760 --> 00:04:44,680
+estreptopiógenes, que es la causa habitual de la amigdalitis bacteriana para los
+
+59
+00:04:44,680 --> 00:04:48,800
+betalactámicos en general, pero también se puede dejar amoxicilina, dado que la
+
+60
+00:04:48,800 --> 00:04:52,400
+penicilina benzatina duele el pinchazo intramuscular. La amoxicilina suele
+
+61
+00:04:52,400 --> 00:04:55,760
+ser más aceptada muchas veces por los padres y por los mismos niños, que en este
+
+62
+00:04:55,760 --> 00:04:59,200
+caso se da por 10 días, en cambio la penicilina benzatina es solamente una dosis,
+
+63
+00:04:59,200 --> 00:05:02,920
+y en este caso hay que saber las dosis, es de los pocos medicamentos en que hay que
+
+64
+00:05:02,920 --> 00:05:08,360
+saber las dosis. En el caso de la penicilina benzatina es 1,2 millones de
+
+65
+00:05:08,360 --> 00:05:12,120
+unidades intramusculares en los niños que pesan más de 30 kilos, cuando
+
+66
+00:05:12,120 --> 00:05:16,520
+pesan menos de 30 kilos es la mitad, son 600.000 unidades, y en el caso de la
+
+67
+00:05:16,520 --> 00:05:22,560
+amoxicilina habitualmente es una dosis estándar, dígase los 50 milígamos por
+
+68
+00:05:22,560 --> 00:05:26,840
+kilo, que se divide en dos o tres dosis y que se da por 10 días. Ahora,
+
+69
+00:05:26,840 --> 00:05:29,920
+¿qué pasa en los alérgicos? Pues eventualmente tengo otros
+
+70
+00:05:29,920 --> 00:05:34,040
+antibióticos, clindamicina, acetromicina y también el cefadroxilo,
+
+71
+00:05:34,040 --> 00:05:38,040
+las cephalosporinas de primera generación, acordándonos que la reacción
+
+72
+00:05:38,040 --> 00:05:41,520
+cruzada de la alergia a la penicilina y a las cephalosporinas es bastante
+
+73
+00:05:41,520 --> 00:05:45,360
+infrecuente. ¿Qué pasa en los casos refractarios? Pues eventualmente
+
+74
+00:05:45,360 --> 00:05:49,240
+evalúo darle amoxicilina más ácido clavulánico, sabiendo que con alguna
+
+75
+00:05:49,240 --> 00:05:53,640
+probabilidad hay no un streptococo resistente, sino que hay otras
+
+76
+00:05:53,640 --> 00:05:57,680
+bacterias que eventualmente pueden ayudar a proteger al streptococo con
+
+77
+00:05:57,680 --> 00:06:01,960
+sus propias beta-lactamasa, de esa manera disminuyen la cantidad de
+
+78
+00:06:01,960 --> 00:06:05,360
+penicilina o de amoxicilina que hay alrededor. ¿Y qué pasa con los casos
+
+79
+00:06:05,360 --> 00:06:10,400
+recurrentes? Pues lo vamos a ver en el vídeo específico, pero hay que
+
+80
+00:06:10,400 --> 00:06:13,960
+evaluar la necesidad de cirugía, pero para eso tiene que tener un número
+
+81
+00:06:13,960 --> 00:06:19,640
+bastante elevado de amigdalitis bacteriana. Veamos en el caso de qué
+
+82
+00:06:19,640 --> 00:06:23,160
+antibiótico dar con un poquito más de detalle. Ya dijimos la regla
+
+83
+00:06:23,160 --> 00:06:26,640
+general es la penicilina o la amoxicilina, pero si es que hay
+
+84
+00:06:26,640 --> 00:06:31,920
+alergia, el cefadroxilo sería de elección si es que es una alergia leve,
+
+85
+00:06:31,920 --> 00:06:35,040
+o sea no es un Steven Johnson, no es un angioedema, no es un choca
+
+86
+00:06:35,040 --> 00:06:38,840
+anafiláctico, y que no sea mediado por IgE, ejemplo que no sea una
+
+87
+00:06:38,840 --> 00:06:42,440
+urticaria o que no sea una crisis astmática, que esos son mediados por
+
+88
+00:06:42,440 --> 00:06:46,600
+IgE. El típico ejemplo de una alergia leve no mediada por IgE es
+
+89
+00:06:46,600 --> 00:06:49,840
+el rash eritematoso que aparece algunos días después de haber iniciado el
+
+90
+00:06:49,840 --> 00:06:54,720
+tratamiento antibiótico. Si es que en cambio tiene una amigdalitis y
+
+91
+00:06:54,760 --> 00:06:58,160
+está con una alergia a la penicilina que es severa o que es mediada por IgE,
+
+92
+00:06:58,160 --> 00:07:01,680
+ejemplo una urticaria por leve que sea, esa es mediada por IgE, en ese
+
+93
+00:07:01,680 --> 00:07:05,720
+caso debo dejarle la acetromicina. ¿Por qué elegir el cefadroxilo
+
+94
+00:07:05,720 --> 00:07:10,920
+sobre la acetromicina? Porque el cefadroxilo suele ser más eficaz en
+
+95
+00:07:10,920 --> 00:07:15,800
+contra del estetococopiogene que los macrólidos. Pero algo
+
+96
+00:07:15,800 --> 00:07:20,360
+importante, si no me dan ningún antecedente respecto al tipo de
+
+97
+00:07:20,360 --> 00:07:24,200
+alergia, yo debería marcar la acetromicina sin dudarlo mucho porque
+
+98
+00:07:24,520 --> 00:07:28,360
+lo que se ha enseñado siempre justamente es eso, que ante la alergia a
+
+99
+00:07:28,360 --> 00:07:32,280
+la penicilina, la amigdalitis se deja un macrólido, pero con un poquito más
+
+100
+00:07:32,280 --> 00:07:35,920
+de detalle sería diferenciando según el tipo de alergia.
+
+101
+00:07:35,920 --> 00:07:39,640
+En el caso de que sea resistente o que tenga intolerancia a los
+
+102
+00:07:39,640 --> 00:07:43,000
+macrólidos, pues en ese caso es cuando suele estar indicada la
+
+103
+00:07:43,000 --> 00:07:47,160
+clindamicina. Ejemplo, la acetromicina produce mucho dolor de
+
+104
+00:07:47,160 --> 00:07:50,560
+guata o diarrea o vómitos, en ese caso yo le puedo dejar la
+
+105
+00:07:50,600 --> 00:07:52,280
+clindamicina como una buena opción también.
+
+106
+00:07:53,560 --> 00:07:57,040
+Ahora, de la viral, no hemos hablado nada. ¿Cuáles son los virus que se
+
+107
+00:07:57,040 --> 00:08:01,080
+asocian a la amigdalitis viral? Pues todos los virus respiratorios,
+
+108
+00:08:01,080 --> 00:08:04,720
+desde la influenza para influenza y coronavirus, los adenovirus,
+
+109
+00:08:04,720 --> 00:08:08,440
+el virus insicial, el virus de Epstein-Barr, citomégalo virus,
+
+110
+00:08:08,440 --> 00:08:13,480
+el virus herpes simplex, el VIH, el Covseq IA16, que es el síndrome
+
+111
+00:08:13,480 --> 00:08:17,520
+piemanovoca, o sea cualquier virus respiratorio, más los virus de la
+
+112
+00:08:17,520 --> 00:08:22,680
+familia herpes, que está el Epstein-Barr, el citomégalo y el virus
+
+113
+00:08:22,680 --> 00:08:26,880
+herpes simplex, más otros virus además. Y bueno, esa fue esa clase.
+
+114
+00:08:26,880 --> 00:08:27,880
+Nos vemos en los siguientes videos.

@@ -1,0 +1,787 @@
+1
+00:00:03,220 --> 00:00:07,180
+En este vídeo vamos a ver cómo ajustar la insulina terapia. Vamos a hacer hartos
+
+2
+00:00:07,180 --> 00:00:10,620
+ejercicios así que va a quedar clarísimo y empecemos al tiro con
+
+3
+00:00:10,620 --> 00:00:15,700
+algunos conceptos. Cuando el paciente hace mucha hipoglicemia, en ese caso o le
+
+4
+00:00:15,700 --> 00:00:20,140
+bajo la insulina o le agrego comida, son las dos formas de subir un poquito la
+
+5
+00:00:20,140 --> 00:00:23,940
+glucosa en la sangre. Si es que me hace en cambio hiperglicemia, que lo voy a
+
+6
+00:00:23,940 --> 00:00:26,700
+ver no por la hiperglicemia que no importa mucho una hiperglicemia
+
+7
+00:00:26,700 --> 00:00:30,060
+aislada, sino que por la hemoglobina licosilada que está alta, en ese
+
+8
+00:00:30,060 --> 00:00:32,740
+caso o le subo la insulina que es lo más frecuente o le bajo la
+
+9
+00:00:32,740 --> 00:00:37,220
+comida también. Y hay que acordarse aquí de un concepto que es que el
+
+10
+00:00:37,220 --> 00:00:41,500
+costo de un buen control metabólico en una diabetes son por un lado las
+
+11
+00:00:41,500 --> 00:00:46,460
+hipoglicemias y por otro lado el alza de peso. La insulina y los
+
+12
+00:00:46,460 --> 00:00:49,100
+hipoglicemiantes hacen que las personas suban de peso y aparte
+
+13
+00:00:49,100 --> 00:00:53,860
+tienen riesgos de hipoglicemia. Y es más, se dice una persona
+
+14
+00:00:53,860 --> 00:00:58,460
+diabética bien controlada va a tener al menos una hipoglicemia más o
+
+15
+00:00:58,460 --> 00:01:02,060
+menos importante en el año y puede que esto sea más, pero lo importante
+
+16
+00:01:02,220 --> 00:01:06,940
+de saber ajustar el tratamiento y los fármacos es justamente minimizar
+
+17
+00:01:07,220 --> 00:01:10,020
+estos riesgos tanto el de la hipoglicemia como el del alza de peso.
+
+18
+00:01:10,540 --> 00:01:15,180
+Ahora, para saber cómo ajustarlo lo importante es acordarse que la
+
+19
+00:01:15,180 --> 00:01:19,460
+insulina NPH, que es la insulina lenta y las insulinas ultra
+
+20
+00:01:19,460 --> 00:01:24,020
+lentas lo que determinan son las lisemias pre-prandiales, pero no
+
+21
+00:01:24,020 --> 00:01:29,020
+la inmediata, sino que la que va a medirse varias horas después.
+
+22
+00:01:29,060 --> 00:01:34,500
+Ejemplo, la NPH nocturna me determina la lisemia pre-desayuno y la
+
+23
+00:01:34,500 --> 00:01:38,740
+NPH de la mañana me determina la lisemia pre-almuerzo y la
+
+24
+00:01:38,740 --> 00:01:41,700
+precena. Y ahí espero que con eso quede más o menos claro.
+
+25
+00:01:42,180 --> 00:01:46,100
+En cambio, las insulinas rápidas como la insulina cristalina o las
+
+26
+00:01:46,100 --> 00:01:49,900
+ultrarápidas me determinan las lisemias post-prandiales, las
+
+27
+00:01:49,900 --> 00:01:53,180
+que son después de comer, habitualmente dos horas después de
+
+28
+00:01:53,180 --> 00:01:56,980
+comer. Algo importante es que esta lisemia post-prandial también
+
+29
+00:01:57,020 --> 00:02:00,260
+está determinada por la pre-prandial, o sea, si antes de
+
+30
+00:02:00,260 --> 00:02:04,460
+comer estaba con 500 de lisemia, no se le puede pedir que la
+
+31
+00:02:04,460 --> 00:02:06,660
+post-prandial esté normal, va a estar súper elevada también.
+
+32
+00:02:07,060 --> 00:02:09,460
+Y también dependen de la comida, en el sentido en que si se
+
+33
+00:02:09,460 --> 00:02:12,100
+come una ensalada va a subir un poquito, en cambio si se come
+
+34
+00:02:12,100 --> 00:02:14,820
+un pay de limón entero, obviamente eso va a subir mucho
+
+35
+00:02:14,820 --> 00:02:18,700
+más. Entonces, que quede bien claro de qué dependen las
+
+36
+00:02:18,700 --> 00:02:22,500
+pre-prandiales de las insulinas lentas y de qué dependen
+
+37
+00:02:22,500 --> 00:02:25,060
+las post-prandiales de las insulinas rápidas, de la
+
+38
+00:02:25,100 --> 00:02:28,020
+comida y de la lisemia pre-prandial también.
+
+39
+00:02:28,620 --> 00:02:31,740
+Ahora vamos con los casos y ahí va a quedar súper claro con
+
+40
+00:02:31,780 --> 00:02:34,740
+estos ejemplos, son varios ejemplos, así que espero de
+
+41
+00:02:34,740 --> 00:02:38,300
+verdad que quede claro. En caso uno es un diabético tipo uno
+
+42
+00:02:38,300 --> 00:02:40,380
+que está con un esquema intensificado, o sea, con una
+
+43
+00:02:40,380 --> 00:02:42,580
+ultra lenta más tres refuerzos de rápida,
+
+44
+00:02:42,580 --> 00:02:45,460
+ultrarápida, y me dan estas lisemias.
+
+45
+00:02:45,540 --> 00:02:47,700
+Y aparte de darme esas lisemias me dicen que está
+
+46
+00:02:47,700 --> 00:02:50,180
+con una hemoglobina glicosilada de 8%, o sea, hasta
+
+47
+00:02:50,180 --> 00:02:53,500
+arriba del 7%, está mal controlado y hay que ver cuáles
+
+48
+00:02:53,500 --> 00:02:55,660
+son las lisemias que están malas acá, y las que uno ve
+
+49
+00:02:55,660 --> 00:02:59,940
+malas son esas dos, la post de desayuno que está en 250,
+
+50
+00:02:59,940 --> 00:03:04,180
+está arriba de 180 o arriba de 130 según el corte que uno
+
+51
+00:03:04,180 --> 00:03:07,940
+dé, pero quedémonos aquí con 180 y la post almuerzo que
+
+52
+00:03:07,940 --> 00:03:11,220
+está en 190. O sea, en este caso tenemos solamente
+
+53
+00:03:11,220 --> 00:03:14,620
+dos lisemias post comida que están malas, así que lo
+
+54
+00:03:14,620 --> 00:03:18,780
+que hay que hacer es subirle la insulina rápida de ese
+
+55
+00:03:18,780 --> 00:03:21,980
+momento, la insulina cristalina pre-desayuno y pre-almuerzo
+
+56
+00:03:21,980 --> 00:03:24,140
+porque esas son las que me determinan las lisemias
+
+57
+00:03:24,140 --> 00:03:26,860
+post desayuno y post almuerzo. ¿Quedó claro? Vamos con el
+
+58
+00:03:26,860 --> 00:03:30,140
+caso dos. Diabético tipo 1, igualmente con esquema
+
+59
+00:03:30,140 --> 00:03:33,460
+intensificado, me dan esas lisemias y me dice que
+
+60
+00:03:33,460 --> 00:03:38,140
+tiene una hemoglobina A1C de 8%, o sea, está mal
+
+61
+00:03:38,140 --> 00:03:41,060
+controlado igualmente y acá tiene varias cosas que
+
+62
+00:03:41,060 --> 00:03:43,900
+están malas, están todas relativamente malas en el
+
+63
+00:03:43,900 --> 00:03:46,100
+sentido en que están las basales arriba de 100,
+
+64
+00:03:46,100 --> 00:03:50,420
+130 y las poscargas arriba de 180 o de 130,
+
+65
+00:03:50,420 --> 00:03:52,900
+de 180, eso lo vamos a ver después cuál es el
+
+66
+00:03:52,900 --> 00:03:55,380
+óptimo que lo más importante es la hemoglobina
+
+67
+00:03:55,380 --> 00:03:58,260
+glicosilada por ese caso, pero en este caso está todo
+
+68
+00:03:58,260 --> 00:04:01,260
+alto y lo que hay que hacer es arreglar en primer
+
+69
+00:04:01,260 --> 00:04:04,820
+lugar las pre comidas, así que dígase, súbale la
+
+70
+00:04:04,820 --> 00:04:07,980
+insulina ultra lenta, súbale la gargina y una vez
+
+71
+00:04:07,980 --> 00:04:09,700
+que se hayan arreglado las pre comidas, lo más
+
+72
+00:04:09,700 --> 00:04:11,580
+probable es que se arreglen las post comidas también
+
+73
+00:04:11,580 --> 00:04:14,980
+y si no se arreglan, pues ahí recién le ajustamos
+
+74
+00:04:14,980 --> 00:04:19,340
+la dosis de las insulinas rápidas, pero en este
+
+75
+00:04:19,340 --> 00:04:22,620
+caso por estar malas las basales, en ese caso lo
+
+76
+00:04:22,620 --> 00:04:24,900
+que hay que hacer es aumentar la dosis de la
+
+77
+00:04:24,900 --> 00:04:28,380
+insulina ultra lenta. El caso 3, diabético tipo 2
+
+78
+00:04:28,380 --> 00:04:31,940
+que solamente tiene una NPH nocturna, nada más y
+
+79
+00:04:31,940 --> 00:04:35,660
+está con estas glicemias y está con esa hemoglobina
+
+80
+00:04:35,660 --> 00:04:38,620
+glicosilada que está arriba de 7%, así que hay
+
+81
+00:04:38,620 --> 00:04:41,060
+que asumir que está mal controlado y en este
+
+82
+00:04:41,060 --> 00:04:42,620
+caso veo que las que están altas son
+
+83
+00:04:42,620 --> 00:04:47,300
+justamente la pre desayuno y la post desayuno,
+
+84
+00:04:47,300 --> 00:04:50,980
+o sea la pre y post prandial de la mañana, en
+
+85
+00:04:50,980 --> 00:04:54,100
+este caso la pre desayuno dependía de la NPH
+
+86
+00:04:54,100 --> 00:04:56,980
+nocturna, entonces aquí está con NPH nocturna,
+
+87
+00:04:56,980 --> 00:04:59,260
+pues le falta, hay que subirle la dosis de la
+
+88
+00:04:59,260 --> 00:05:02,220
+NPH nocturna y con eso seguramente se va a
+
+89
+00:05:02,220 --> 00:05:06,900
+arreglar también la glicemia post desayuno.
+
+90
+00:05:06,900 --> 00:05:09,340
+Vamos con el caso 4, espero que esté quedando
+
+91
+00:05:09,340 --> 00:05:12,460
+claro porque esto es importante, la diabetes
+
+92
+00:05:12,460 --> 00:05:16,180
+tipo 2 con dos dosis de NPH, así que tiene una
+
+93
+00:05:16,180 --> 00:05:19,700
+en la mañana y otra en la tarde y me dice que
+
+94
+00:05:19,700 --> 00:05:22,180
+está con esas glicemias y que está con la
+
+95
+00:05:22,180 --> 00:05:24,700
+hemoglobina glicosilada que está elevada, está
+
+96
+00:05:24,700 --> 00:05:27,020
+arriba de 7%, así que hay que ver qué es lo
+
+97
+00:05:27,020 --> 00:05:29,460
+que está elevado acá y lo alto son las
+
+98
+00:05:29,460 --> 00:05:33,100
+pre comidas y las post comidas del almuerzo
+
+99
+00:05:33,100 --> 00:05:36,340
+y de la cena, o sea la pre almuerzo y pre
+
+100
+00:05:36,340 --> 00:05:38,380
+cena de qué dependía, de la NPH de la
+
+101
+00:05:38,380 --> 00:05:39,740
+mañana, así que lo que hay que hacer es
+
+102
+00:05:39,740 --> 00:05:42,060
+elevar la dosis de la NPH de la mañana y
+
+103
+00:05:42,060 --> 00:05:44,740
+con eso seguramente se va a arreglar también
+
+104
+00:05:44,780 --> 00:05:48,180
+las post almuerzo y post cena, ahí queda más
+
+105
+00:05:48,180 --> 00:05:50,780
+claro. Vamos con el caso 5, diabetes tipo 1
+
+106
+00:05:50,780 --> 00:05:52,980
+que está con esquema intensificado, o sea
+
+107
+00:05:52,980 --> 00:05:54,980
+está con la alergina más las tres dosis de
+
+108
+00:05:54,980 --> 00:05:58,620
+rápida o ultra rápida, me dan esas glicemias
+
+109
+00:05:58,620 --> 00:06:00,860
+que están ahí, está bien controlado en el
+
+110
+00:06:00,860 --> 00:06:02,900
+sentido en que está con una hemoglobina
+
+111
+00:06:02,900 --> 00:06:05,340
+glicosilada menor a 7%, está en 6% y
+
+112
+00:06:05,340 --> 00:06:08,460
+además tiene buen peso, en este caso lo
+
+113
+00:06:08,460 --> 00:06:11,860
+que tiene son que antes del almuerzo, en
+
+114
+00:06:11,860 --> 00:06:13,820
+el pre almuerzo está con glicemias muy
+
+115
+00:06:13,820 --> 00:06:16,180
+bajitas en torno a 60 y aparte de eso
+
+116
+00:06:16,180 --> 00:06:17,820
+está con síntomas de hipoglicemia, uno
+
+117
+00:06:17,820 --> 00:06:20,540
+dice bueno tengo dos opciones, o le doy
+
+118
+00:06:20,540 --> 00:06:25,820
+un snack y le doy como una colación en
+
+119
+00:06:25,820 --> 00:06:28,820
+buen chileno, cierto, antes del almuerzo
+
+120
+00:06:28,820 --> 00:06:29,900
+como para que no llegue con la
+
+121
+00:06:29,900 --> 00:06:31,420
+glicemia tan baja en la mitad de la
+
+122
+00:06:31,420 --> 00:06:33,260
+mañana, ejemplo a las 11 a las 11
+
+123
+00:06:33,260 --> 00:06:34,340
+de la mañana, 11 y media de la
+
+124
+00:06:34,340 --> 00:06:36,020
+mañana según la hora a la que
+
+125
+00:06:36,020 --> 00:06:38,180
+almuerce, o bien podría también
+
+126
+00:06:38,180 --> 00:06:40,820
+bajarle la dosis de NPH de la
+
+127
+00:06:40,820 --> 00:06:42,660
+mañana o en el caso de que esté
+
+128
+00:06:42,660 --> 00:06:44,620
+con glargina, bajarle la glargina, pero
+
+129
+00:06:44,620 --> 00:06:46,340
+en este caso que está todo bien y que
+
+130
+00:06:46,340 --> 00:06:47,860
+está con buen peso, lo más fácil
+
+131
+00:06:47,860 --> 00:06:49,780
+seguramente va a ser darle un snack,
+
+132
+00:06:49,780 --> 00:06:52,180
+así que la respuesta es esa, en el
+
+133
+00:06:52,180 --> 00:06:54,300
+caso 5 que está con diabetes tipo 2
+
+134
+00:06:54,300 --> 00:06:56,900
+con dos dosis de NPH igualmente y que
+
+135
+00:06:56,900 --> 00:06:58,620
+está con esas glicemias que se ven
+
+136
+00:06:58,620 --> 00:07:01,620
+ahí y está con una hemoglobina que
+
+137
+00:07:01,620 --> 00:07:04,340
+está en 6,5%, uno dice ahí está
+
+138
+00:07:04,340 --> 00:07:07,260
+todo bien desde el punto de vista del
+
+139
+00:07:07,260 --> 00:07:08,980
+control metabólico, tengo un
+
+140
+00:07:08,980 --> 00:07:12,540
+poquito baja la NPH de, o sea la
+
+141
+00:07:13,100 --> 00:07:15,580
+la pre-desayuno, la glicemia de
+
+142
+00:07:15,580 --> 00:07:17,580
+ayuno que está determinada por la
+
+143
+00:07:17,580 --> 00:07:20,300
+NPH nocturna, en este caso yo podría
+
+144
+00:07:20,300 --> 00:07:22,500
+bajarle un poquito la NPH nocturna en
+
+145
+00:07:22,500 --> 00:07:24,140
+el sentido en que no lo voy a
+
+146
+00:07:24,140 --> 00:07:25,540
+despertar una hora antes como para
+
+147
+00:07:25,540 --> 00:07:27,380
+que se coma algo, y como está bien
+
+148
+00:07:27,380 --> 00:07:28,820
+controlado no hay ningún problema en
+
+149
+00:07:28,820 --> 00:07:31,260
+bajarle un poquito su insulina, la
+
+150
+00:07:31,260 --> 00:07:35,260
+otra opción sería el despertarlo en
+
+151
+00:07:35,260 --> 00:07:36,260
+la mitad de la noche como para que
+
+152
+00:07:36,260 --> 00:07:37,260
+coma algo, pero es absolutamente
+
+153
+00:07:37,260 --> 00:07:39,060
+impractico, así que lo correcto acá
+
+154
+00:07:39,060 --> 00:07:40,460
+que está bien controlado y que por
+
+155
+00:07:40,460 --> 00:07:42,420
+lo tanto no hay ningún problema en
+
+156
+00:07:42,420 --> 00:07:44,980
+bajarle un par de unidades la NPH
+
+157
+00:07:44,980 --> 00:07:48,060
+se baja nomás. Vamos con el penúltimo
+
+158
+00:07:48,060 --> 00:07:50,180
+caso, es un diabético de 80 años
+
+159
+00:07:50,180 --> 00:07:52,060
+acuérdense que a los 80 años el
+
+160
+00:07:52,060 --> 00:07:54,140
+objetivo de la hemoglobina
+
+161
+00:07:54,140 --> 00:07:56,540
+glicosilada ya no es 7% sino que es
+
+162
+00:07:56,540 --> 00:07:58,860
+menor a 8% y está en este caso con
+
+163
+00:07:58,860 --> 00:08:01,140
+dos dosis de NPH, me dan esas
+
+164
+00:08:01,140 --> 00:08:03,060
+glicemias, me dicen que está bien
+
+165
+00:08:03,060 --> 00:08:04,580
+controlado en el sentido en que está
+
+166
+00:08:04,580 --> 00:08:06,980
+con una hemoglobina glicosilada de
+
+167
+00:08:06,980 --> 00:08:09,980
+7,5%, está con hartas glicemias que
+
+168
+00:08:09,980 --> 00:08:11,980
+están altas, que no están dentro del
+
+169
+00:08:11,980 --> 00:08:13,780
+rango óptimo que están todas elevadas
+
+170
+00:08:13,780 --> 00:08:17,020
+pero lo que manda acá es la hemoglobina
+
+171
+00:08:17,020 --> 00:08:19,300
+glicosilada que está en 7,5% que
+
+172
+00:08:19,300 --> 00:08:21,620
+para los 80 años está impecable así
+
+173
+00:08:21,620 --> 00:08:22,780
+que lo que hago es no hacer
+
+174
+00:08:22,780 --> 00:08:24,540
+absolutamente ningún cambio, le digo
+
+175
+00:08:24,540 --> 00:08:26,900
+estamos bien, nos quedamos con esas
+
+176
+00:08:26,900 --> 00:08:29,060
+dosis de insulina NPH sin variarlas.
+
+177
+00:08:29,060 --> 00:08:31,860
+En el caso 8 me dicen un diabético
+
+178
+00:08:31,860 --> 00:08:33,500
+de 60 años que está igualmente con
+
+179
+00:08:33,500 --> 00:08:36,020
+dos dosis de NPH, en este caso me
+
+180
+00:08:36,020 --> 00:08:37,940
+dan esas glicemias, me dicen que está
+
+181
+00:08:37,980 --> 00:08:42,780
+con 8,5% de la hemoglobina glicosilada,
+
+182
+00:08:42,780 --> 00:08:44,780
+o sea está mal controlado, en este
+
+183
+00:08:44,780 --> 00:08:46,940
+caso tengo que hacerle algún ajuste y
+
+184
+00:08:46,940 --> 00:08:48,260
+las glicemias que están malas son la
+
+185
+00:08:48,260 --> 00:08:50,420
+post almuerzo y la post cena pero
+
+186
+00:08:50,420 --> 00:08:52,700
+fíjense que las precomidas, las tres
+
+187
+00:08:52,700 --> 00:08:54,820
+precomidas están buenas así que en
+
+188
+00:08:54,820 --> 00:08:56,620
+este caso no hay que cambiar las
+
+189
+00:08:56,620 --> 00:08:58,820
+dosis de NPH sino que hay que subirle
+
+190
+00:08:58,820 --> 00:09:00,900
+o agregarle en este caso la
+
+191
+00:09:00,900 --> 00:09:03,300
+insulina cristalina pre almuerzo y
+
+192
+00:09:03,300 --> 00:09:05,780
+pre cena. Y eso fue el último caso,
+
+193
+00:09:06,140 --> 00:09:08,660
+si no les quedó claro revíselo, esto es
+
+194
+00:09:08,660 --> 00:09:10,420
+importante y se preguntan bastante las
+
+195
+00:09:10,420 --> 00:09:12,260
+pruebas así que mucha suerte en
+
+196
+00:09:12,260 --> 00:09:13,980
+entenderlo y en aprender a ajustar la
+
+197
+00:09:13,980 --> 00:09:16,820
+insulina. Que estén bien.

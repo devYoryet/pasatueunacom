@@ -1,0 +1,387 @@
+1
+00:00:00,000 --> 00:00:08,230
+Hablemos del síndrome hemolítico-uremico que se abre ya como SHU, que acuérdense que
+
+2
+00:00:08,230 --> 00:00:13,470
+es una de las causas importantes de la insuficiencia renal aguda en niños de
+
+3
+00:00:13,470 --> 00:00:17,070
+tipo renal y digo que es una de las causas importantes porque eventualmente
+
+4
+00:00:17,070 --> 00:00:21,830
+puede causar la muerte del niño pero si yo lo detecto a tiempo, si yo lo
+
+5
+00:00:21,830 --> 00:00:25,510
+sé identificar, lo más probable es que el niño ande bien. Así que
+
+6
+00:00:25,510 --> 00:00:29,470
+nuevamente se pregunta mucho por qué hay que saberlo por su gravedad y
+
+7
+00:00:29,470 --> 00:00:34,630
+porque cuenta con una clínica y con algunas alteraciones de laboratorio que
+
+8
+00:00:34,630 --> 00:00:38,750
+todo médico general debería ser capaz de identificar. Recordemos su causa, por
+
+9
+00:00:38,750 --> 00:00:43,190
+la general, es por infección por un tipo de Echerichia coli, la Echerichia coli
+
+10
+00:00:43,190 --> 00:00:49,670
+entero hemorrágica que también se llama la Echerichia coli O157H7 que es
+
+11
+00:00:49,670 --> 00:00:54,070
+la que produce la toxina causante de este síndrome que se llama
+
+12
+00:00:54,070 --> 00:00:59,310
+verotoxina o toxina shiga. No es la única bacteria, se puede ver por
+
+13
+00:00:59,310 --> 00:01:04,150
+infecciones por shigella e incluso por otras bacterias como el micoplasma
+
+14
+00:01:04,150 --> 00:01:07,790
+pero lo más frecuente es que sea eventualmente por la Echerichia coli.
+
+15
+00:01:07,790 --> 00:01:11,910
+Ahora, ¿cuál es su clínica? Habitualmente un niño que puede ser de
+
+16
+00:01:11,910 --> 00:01:15,790
+cualquier edad pero lo más frecuente es que tenga entre dos y cinco años
+
+17
+00:01:15,790 --> 00:01:18,990
+pero se puede ver incluso en lactantes menores o en niños más
+
+18
+00:01:18,990 --> 00:01:23,070
+grandes y un porcentaje elevado, un 70% viene con antecedentes de
+
+19
+00:01:23,070 --> 00:01:26,630
+diarrea ya sea diarrea disenterica en el sentido en que la Echerichia coli
+
+20
+00:01:26,630 --> 00:01:31,070
+entero hemorrágica habitualmente viene con algo de sangre en las
+
+21
+00:01:31,070 --> 00:01:35,190
+deposiciones o bien con diarrea acuosa, diarrea febril, etcétera. La
+
+22
+00:01:35,190 --> 00:01:39,550
+diarrea puede ser intercurrente o sea que esté simultánea ahora o puede
+
+23
+00:01:39,550 --> 00:01:43,950
+haber ocurrido y haber ya acabado. Segundo lugar suele venir con
+
+24
+00:01:43,950 --> 00:01:49,190
+insuficiencia renal aguda habitualmente grave, dígase puede
+
+25
+00:01:49,190 --> 00:01:52,630
+debutar con un síndrome urémico con un montón de complicaciones, etcétera
+
+26
+00:01:52,630 --> 00:01:57,830
+más la anemia de tipo hemolítica microangiopática, de hecho de ahí
+
+27
+00:01:57,830 --> 00:02:01,270
+viene el nombre hemolítico por la anemia molítica, urémico por el
+
+28
+00:02:01,270 --> 00:02:05,390
+síndrome urémico por el falla renal. Con plaquetopenia también en el
+
+29
+00:02:05,390 --> 00:02:09,550
+sentido en que tanto la anemia hemolítica como la plaquetopenia se
+
+30
+00:02:09,550 --> 00:02:13,070
+explican por una microangiopatía dado que el síndrome
+
+31
+00:02:13,070 --> 00:02:17,310
+hemolítico urémico su fisiopatología es justamente que esta
+
+32
+00:02:17,510 --> 00:02:21,230
+toxina actúa a nivel de los vasos sanguíneos más pequeños y se
+
+33
+00:02:21,230 --> 00:02:26,150
+produce esta microangiopatía con destrucción celular y con falla
+
+34
+00:02:26,150 --> 00:02:29,950
+renal y finalmente es muy frecuente que venga también con síntomas
+
+35
+00:02:29,950 --> 00:02:34,350
+neurológicos ya sea con compromiso de conciencia, con convulsiones,
+
+36
+00:02:34,350 --> 00:02:38,390
+con irritabilidad, etcétera. El diagnóstico por el general se
+
+37
+00:02:38,390 --> 00:02:41,910
+hace con el hemograma, dígase la anemia molítica y la plaquetopenia
+
+38
+00:02:42,190 --> 00:02:45,070
+más los exámenes de función renal más la clínica, o sea
+
+39
+00:02:45,070 --> 00:02:47,870
+exámenes que están a la mano del médico general y que hay que
+
+40
+00:02:47,870 --> 00:02:53,470
+saber interpretar y el tratamiento finalmente suele ser
+
+41
+00:02:53,470 --> 00:02:57,750
+simplemente el soporte hasta un 90 por ciento revierte por
+
+42
+00:02:57,750 --> 00:03:02,630
+completo del 10 por ciento restante la mayoría sobrevive
+
+43
+00:03:02,630 --> 00:03:07,310
+por si acaso y anda bien, pero si requiere de una terapia
+
+44
+00:03:07,310 --> 00:03:11,030
+intensiva, cierto, de diálisis de urgencia, por ejemplo,
+
+45
+00:03:11,030 --> 00:03:14,270
+que es lo más frecuente que se tenga que dar. Habíamos
+
+46
+00:03:14,270 --> 00:03:17,870
+dicho que no todo niño con una falla renal y no todo adulto
+
+47
+00:03:17,870 --> 00:03:20,350
+con falla renal tampoco requiere una diálisis de urgencia.
+
+48
+00:03:20,750 --> 00:03:23,790
+Esto mismo aplica al síndrome hemolítico urémico,
+
+49
+00:03:23,790 --> 00:03:26,270
+es solamente cuando hay una clínica de un síndrome
+
+50
+00:03:26,270 --> 00:03:28,990
+urémico establecido o cuando hay una complicación grave
+
+51
+00:03:28,990 --> 00:03:30,790
+que no responde al tratamiento médico.
+
+52
+00:03:30,790 --> 00:03:33,390
+Pero eso suele ocurrir con bastante frecuencia en esta
+
+53
+00:03:33,390 --> 00:03:35,030
+patología en específico.
+
+54
+00:03:35,030 --> 00:03:38,550
+Ahora, algo importante es cómo diferencio bien una insuficiencia
+
+55
+00:03:38,550 --> 00:03:41,990
+renal aguda de tipo pre renal de un síndrome hemolítico
+
+56
+00:03:42,070 --> 00:03:47,070
+urémico con la clínica y con algunos elementos del laboratorio
+
+57
+00:03:47,390 --> 00:03:49,670
+en el sentido en que ejemplo, si tengo un paciente que está con
+
+58
+00:03:49,670 --> 00:03:53,350
+diarrea, más oliguria, más falla renal, perfectamente puede
+
+59
+00:03:53,350 --> 00:03:57,270
+ser que se deshidrato, pero tengo que saber cuándo me
+
+60
+00:03:57,270 --> 00:04:00,150
+saltan las alarmas para decir ¿sabes qué?
+
+61
+00:04:00,150 --> 00:04:01,550
+Esto parece algo más grave.
+
+62
+00:04:01,550 --> 00:04:05,070
+Esto parece un síndrome hemolítico urémico y lo más
+
+63
+00:04:05,070 --> 00:04:07,990
+importante sería número uno, ver el hemograma.
+
+64
+00:04:07,990 --> 00:04:11,750
+El hematocrito suele estar aumentado en el caso de la
+
+65
+00:04:11,750 --> 00:04:13,990
+insuficiencia pre renal en el sentido en que hay una
+
+66
+00:04:13,990 --> 00:04:15,470
+hemoconcentración.
+
+67
+00:04:15,470 --> 00:04:18,790
+En cambio, dijimos que había una anemia hemolítica en el
+
+68
+00:04:18,790 --> 00:04:21,470
+síndrome hemolítico urémico, así que se puede ver con
+
+69
+00:04:21,470 --> 00:04:23,190
+palidez, por ejemplo.
+
+70
+00:04:23,190 --> 00:04:25,550
+Segundo lugar, las plaquetas igualmente tienden a
+
+71
+00:04:25,550 --> 00:04:29,710
+aumentar en la pre renal tanto por la hemoconcentración
+
+72
+00:04:29,710 --> 00:04:32,030
+como porque eventualmente puede haber una trombocitosis
+
+73
+00:04:32,030 --> 00:04:32,950
+reactiva.
+
+74
+00:04:32,950 --> 00:04:34,830
+En cambio, dijimos que había plaquetopenia o
+
+75
+00:04:34,830 --> 00:04:36,910
+trombocitopenia en el SHU.
+
+76
+00:04:36,910 --> 00:04:40,430
+La presión arterial en la pre renal obviamente va a tender
+
+77
+00:04:40,430 --> 00:04:43,430
+a bajar en el sentido en que está hipovolémico, está
+
+78
+00:04:43,430 --> 00:04:44,630
+choqueado, ¿cierto?
+
+79
+00:04:44,630 --> 00:04:47,190
+En cambio, en el síndrome hemolítico urémico por el
+
+80
+00:04:47,190 --> 00:04:49,710
+general aumenta porque hay una hipervolemia.
+
+81
+00:04:49,710 --> 00:04:53,110
+Todo lo contrario, que es lo mismo que dijimos ahora,
+
+82
+00:04:53,110 --> 00:04:57,110
+en la volemia se puede ver hipovolemia y signos de
+
+83
+00:04:57,110 --> 00:04:59,030
+deshidratación en la pre renal.
+
+84
+00:04:59,030 --> 00:05:01,750
+En cambio, tiende a venir con edema, ya sea de los
+
+85
+00:05:01,750 --> 00:05:04,470
+párpados o de las extremidades inferiores en el
+
+86
+00:05:04,470 --> 00:05:06,550
+caso del síndrome hemolítico urémico.
+
+87
+00:05:06,550 --> 00:05:09,270
+Y como cosa final, algunas otras alteraciones que se
+
+88
+00:05:09,270 --> 00:05:11,910
+pueden ver en la pre renal.
+
+89
+00:05:11,910 --> 00:05:14,590
+Se podía ver el FENA disminuido, el sodio urinario
+
+90
+00:05:14,590 --> 00:05:15,910
+disminuido, etcétera.
+
+91
+00:05:15,910 --> 00:05:19,710
+En cambio, en el SHU se ve que está elevado.
+
+92
+00:05:19,710 --> 00:05:22,710
+Y aparte de eso, la hetericia como una de las
+
+93
+00:05:22,710 --> 00:05:25,710
+alteraciones secundariales a la hemólisis, ¿cierto?
+
+94
+00:05:25,710 --> 00:05:27,950
+Es algo que me orienta fuertemente a un síndrome
+
+95
+00:05:27,950 --> 00:05:29,670
+hemolítico urémico también.
+
+96
+00:05:29,670 --> 00:05:30,190
+Eso es todo.
+
+97
+00:05:30,190 --> 00:05:32,470
+Nos vemos en el siguiente video.

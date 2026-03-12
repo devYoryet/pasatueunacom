@@ -1,0 +1,615 @@
+1
+00:00:00,000 --> 00:00:09,140
+Hola, ¿cómo están? En este video vamos a hablar de la apendicitis aguda, que es un tema cuyo manejo ha cambiado en los últimos años.
+
+2
+00:00:09,140 --> 00:00:13,140
+Y esto viene con implicancias médico-legales que son importantes, así que hay que saberlo.
+
+3
+00:00:13,140 --> 00:00:16,140
+Y empecemos recordando su clínica más clásica.
+
+4
+00:00:16,140 --> 00:00:22,140
+Habitualmente empieza con síntomas inespecíficos como náuseas, vómitos, anorexia, ¿cierto?
+
+5
+00:00:22,140 --> 00:00:28,140
+Fiebre, malestar general, eventualmente puede venir con un compromiso infeccioso más importante.
+
+6
+00:00:28,140 --> 00:00:36,140
+Todo eso ya empieza lo más característico que es el dolor que suele estar localizado en la zona periumbilical o en el epigastro
+
+7
+00:00:36,140 --> 00:00:41,140
+y que luego migra a la fosa ilíaca derecha en donde finalmente se localiza.
+
+8
+00:00:41,140 --> 00:00:48,140
+Y es muy frecuente que se asocie finalmente con los signos peritoniales como el signo de Bloomberg en la fosa ilíaca derecha.
+
+9
+00:00:48,140 --> 00:00:52,140
+Ahora, al final, cuando ya el apéndice se rompe, ¿cierto?
+
+10
+00:00:52,140 --> 00:00:55,140
+Evoluciona a una peritonitis difusa que ya puede ser bastante más grave.
+
+11
+00:00:55,140 --> 00:01:03,140
+El diagnóstico de la appendicitis agua siempre fue clínico, pero en la actualidad se dice que es clínico más imaginológico.
+
+12
+00:01:03,140 --> 00:01:07,140
+Hay que pedir imágenes en el sentido en que se busca evitar dos cosas.
+
+13
+00:01:07,140 --> 00:01:12,140
+Número uno, el diagnóstico tardío, que mientras más tarde yo diagnostico una appendicitis agua,
+
+14
+00:01:12,140 --> 00:01:16,140
+tengo más riesgo de que se complique con algo grave y que el paciente incluso se pueda morir.
+
+15
+00:01:16,140 --> 00:01:20,140
+Y segundo lugar, las cirugías en blanco que igualmente eran bastante frecuentes
+
+16
+00:01:20,140 --> 00:01:27,140
+Finalmente llegaba alguna paciente con un problema menstrual o con algún problema ginecológico.
+
+17
+00:01:27,140 --> 00:01:31,140
+Por ejemplo, una ovulación dolorosa, ¿cierto?
+
+18
+00:01:31,140 --> 00:01:35,140
+Y finalmente se terminaba en alguna cirugía que podría ser algo más grave.
+
+19
+00:01:35,140 --> 00:01:40,140
+Así que actualmente, repito, es clínico más imaginológico.
+
+20
+00:01:40,140 --> 00:01:43,140
+Y las imágenes de elección son la TAC.
+
+21
+00:01:43,140 --> 00:01:47,140
+Eso es la regla general en los pacientes adultos, ¿cierto?
+
+22
+00:01:47,140 --> 00:01:52,140
+Pero en el embarazo se intenta evitar la radiación de un TAC, ¿cierto?
+
+23
+00:01:52,140 --> 00:01:57,140
+Así que en ese caso de elección es la ecografía, eso hay que saberlo.
+
+24
+00:01:57,140 --> 00:02:02,140
+Y en el caso de los niños igualmente se intenta evitar la radiación.
+
+25
+00:02:02,140 --> 00:02:05,140
+Así que por el de general se usa la ecografía también.
+
+26
+00:02:05,140 --> 00:02:10,140
+Repito, de elección, ante una sospecha o con algún grado de sospecha,
+
+27
+00:02:10,140 --> 00:02:14,140
+aunque sea intermedio de una appendicitis, se pide un TAC,
+
+28
+00:02:14,140 --> 00:02:16,140
+al momento que en el embarazo y en los niños, en cambio,
+
+29
+00:02:16,140 --> 00:02:18,140
+se pide un examen distinto, que es la ecografía.
+
+30
+00:02:18,140 --> 00:02:21,140
+A esto hay que sumarle que en una mujer en edad fértil,
+
+31
+00:02:21,140 --> 00:02:26,140
+que se puede complicar con una lista bastante extensa de alteraciones ginecológicas
+
+32
+00:02:26,140 --> 00:02:30,140
+y de alteraciones obstétricas, además hay que pedirle un test de embarazo
+
+33
+00:02:30,140 --> 00:02:32,140
+y una evaluación formal por un ginecólogo
+
+34
+00:02:32,140 --> 00:02:35,140
+antes de decir que hay o no un abdomen agudo.
+
+35
+00:02:35,140 --> 00:02:40,140
+Vemos ahora una de las cosas que se usa como para determinar
+
+36
+00:02:40,140 --> 00:02:42,140
+el riesgo de que haya una appendicitis aguda,
+
+37
+00:02:42,140 --> 00:02:46,140
+que es el score de alvarado, que vale la pena saberlo.
+
+38
+00:02:46,140 --> 00:02:52,140
+La anorexia, que es algo muy inespecífico, me da un punto.
+
+39
+00:02:52,140 --> 00:02:55,140
+Las náuseas o vómitos, que nuevamente son algo inespecífico,
+
+40
+00:02:55,140 --> 00:02:56,140
+me da un punto más.
+
+41
+00:02:56,140 --> 00:02:59,140
+Que venga con fiebre, que nuevamente es algo inespecífico,
+
+42
+00:02:59,140 --> 00:03:01,140
+me da otro punto más.
+
+43
+00:03:01,140 --> 00:03:03,140
+Que el dolor migre a la fosiliaca derecha,
+
+44
+00:03:03,140 --> 00:03:06,140
+que es algo bien característico en esta enfermedad,
+
+45
+00:03:06,140 --> 00:03:08,140
+es algo que solamente me da un punto.
+
+46
+00:03:08,140 --> 00:03:10,140
+Que tenga dolor al palpar la fosiliaca derecha,
+
+47
+00:03:10,140 --> 00:03:12,140
+la fosiliaca derecha me da otro punto más
+
+48
+00:03:12,140 --> 00:03:15,140
+y lo pongo en oscuro también porque es de las cosas más característica.
+
+49
+00:03:15,140 --> 00:03:19,140
+Que venga con leucocitosis, eso es algo que ya me da dos puntos
+
+50
+00:03:19,140 --> 00:03:21,140
+y finalmente que venga con signos peritoniales,
+
+51
+00:03:21,140 --> 00:03:23,140
+es algo que me da dos puntos también.
+
+52
+00:03:23,140 --> 00:03:27,140
+Fíjense, son un, dos, tres, cuatro, cinco, seis, siete cosas
+
+53
+00:03:27,140 --> 00:03:31,140
+que en total como máximo pueden sumar nueve puntos, ¿cierto?
+
+54
+00:03:31,140 --> 00:03:34,140
+Así que tiene hasta tres puntos.
+
+55
+00:03:34,140 --> 00:03:37,140
+Las reglas generales vienen con un riesgo muy bajo
+
+56
+00:03:37,140 --> 00:03:41,140
+y por lo mismo no hay por qué hacer absolutamente nada
+
+57
+00:03:41,140 --> 00:03:42,140
+respecto a esta enfermedad.
+
+58
+00:03:42,140 --> 00:03:44,140
+No hay por qué pedirle ningún examen, ninguna imagen.
+
+59
+00:03:44,140 --> 00:03:47,140
+Así que tiene desde cuatro puntos en adelante
+
+60
+00:03:47,140 --> 00:03:49,140
+ya se pide una imagen
+
+61
+00:03:49,140 --> 00:03:52,140
+y ya dijimos que la TAC era la de elección
+
+62
+00:03:52,140 --> 00:03:56,140
+y fíjense anorexia, náuseas y gómitos, fiebre
+
+63
+00:03:56,140 --> 00:03:58,140
+y leucocitosis.
+
+64
+00:03:58,140 --> 00:04:03,140
+Hay alguien que me dice, oye, pero viene ni siquiera con dolor abdominal.
+
+65
+00:04:03,140 --> 00:04:05,140
+Bueno, pero eventualmente es algo que
+
+66
+00:04:05,140 --> 00:04:07,140
+si es que no sospecho ninguna otra cosa
+
+67
+00:04:07,140 --> 00:04:09,140
+y no viene con un cuadro clínico que me orienta
+
+68
+00:04:09,140 --> 00:04:12,140
+fuertemente a otra cosa, con eso ya estoy obligado
+
+69
+00:04:12,140 --> 00:04:14,140
+a pedirle una imagen.
+
+70
+00:04:14,140 --> 00:04:17,140
+Lo mismo si es que viene con dolor elefosa ilíaca derecha
+
+71
+00:04:17,140 --> 00:04:20,140
+sin signos peritoniales pero estuvo con vómito,
+
+72
+00:04:20,140 --> 00:04:22,140
+está con fiebre y con anorexia.
+
+73
+00:04:22,140 --> 00:04:26,140
+En ese caso estoy obligado a inmediatamente pedirle una TAC.
+
+74
+00:04:26,140 --> 00:04:29,140
+Así que tiene siete puntos o más que en ese caso
+
+75
+00:04:29,140 --> 00:04:32,140
+ya viene con el cuadro clínico de la apendicitis clínica.
+
+76
+00:04:32,140 --> 00:04:34,140
+En ese caso se pide la imagen también
+
+77
+00:04:34,140 --> 00:04:36,140
+con la diferencia que además
+
+78
+00:04:36,140 --> 00:04:38,140
+se pide la evaluación polisirujano.
+
+79
+00:04:38,140 --> 00:04:41,140
+O sea, en resumen, desde los cuatro puntos
+
+80
+00:04:41,140 --> 00:04:45,140
+ya se pide una imagen, desde los siete puntos
+
+81
+00:04:45,140 --> 00:04:48,140
+lo más probable es que sí sea
+
+82
+00:04:48,140 --> 00:04:51,140
+y se pide la evaluación polisirujano como para adelantar
+
+83
+00:04:51,140 --> 00:04:54,140
+en la toma de decisiones de inmediato.
+
+84
+00:04:54,140 --> 00:04:57,140
+Veamos ahora cuál es el tratamiento de la apendicitis aguda
+
+85
+00:04:57,140 --> 00:04:59,140
+y todo el mundo lo sabe, es cierto,
+
+86
+00:04:59,140 --> 00:05:01,140
+es un tratamiento quirúrgico, la appendisectomía
+
+87
+00:05:01,140 --> 00:05:04,140
+y obviamente más todo el manejo del abdomen agudo
+
+88
+00:05:04,140 --> 00:05:07,140
+de causa infecciosa, con antibióticos, con cerebrofisiológico,
+
+89
+00:05:07,140 --> 00:05:09,140
+con el soporte, etc.
+
+90
+00:05:09,140 --> 00:05:13,140
+Ahora, en qué casos se maneja solamente con antibióticos endovenosos
+
+91
+00:05:13,140 --> 00:05:15,140
+y se hace una cirugía no actual,
+
+92
+00:05:15,140 --> 00:05:17,140
+sino que diferida en el tiempo
+
+93
+00:05:17,140 --> 00:05:21,140
+y las indicaciones, eso hay que saberlo.
+
+94
+00:05:21,140 --> 00:05:24,140
+Sería que venga con un plastrón,
+
+95
+00:05:24,140 --> 00:05:27,140
+con una masa inflamatoria que sea muy grande.
+
+96
+00:05:27,140 --> 00:05:29,140
+Si ya ha pasado varios días,
+
+97
+00:05:29,140 --> 00:05:32,140
+en particular, si es que el paciente se ha automedicado antibiótico,
+
+98
+00:05:32,140 --> 00:05:36,140
+eventualmente se aplastrona y se palpa una masa grande
+
+99
+00:05:36,140 --> 00:05:41,140
+y en la TAC se ve un plastrón apendicular con todo pegado.
+
+100
+00:05:41,140 --> 00:05:45,140
+O bien, si es que viene con un abceso muy grande
+
+101
+00:05:45,140 --> 00:05:48,140
+que eventualmente se pueda denar por punción.
+
+102
+00:05:48,140 --> 00:05:52,140
+En esos dos casos, la cirugía viene con un riesgo
+
+103
+00:05:52,140 --> 00:05:54,140
+un poco más alto de que se complique.
+
+104
+00:05:54,140 --> 00:05:58,140
+Así que, en ese caso, estaría indicado el manejarlo con antibióticos
+
+105
+00:05:58,140 --> 00:06:00,140
+y el operarlo en frío.
+
+106
+00:06:00,140 --> 00:06:03,140
+Pero que quede bien claro, se opere igual en frío,
+
+107
+00:06:03,140 --> 00:06:06,140
+aunque se mejore, debido a que tengo dos riesgos.
+
+108
+00:06:06,140 --> 00:06:10,140
+Por un lado, el riesgo de que haya habido un cáncer de base
+
+109
+00:06:10,140 --> 00:06:13,140
+en la appendicitis y que esa sea la causa.
+
+110
+00:06:13,140 --> 00:06:16,140
+Y segundo lugar, el riesgo de que recurra en el futuro.
+
+111
+00:06:16,140 --> 00:06:19,140
+Así que, repito, las appendicitis, incluso en aquellos casos
+
+112
+00:06:19,140 --> 00:06:22,140
+que no se operan ahora, como en un plastrón apendicular,
+
+113
+00:06:22,140 --> 00:06:24,140
+sí se tienen que operar en el futuro
+
+114
+00:06:24,140 --> 00:06:28,140
+para evitar estos dos riesgos de cáncer y de recurrencia.
+
+115
+00:06:28,140 --> 00:06:32,140
+Segundo lugar, ¿cuál era la indicación más importante
+
+116
+00:06:32,140 --> 00:06:34,140
+de diferir esta cirugía?
+
+117
+00:06:34,140 --> 00:06:36,140
+Que la cirugía actualmente tenga mucho riesgo
+
+118
+00:06:36,140 --> 00:06:38,140
+debido a que está todo pegoteado
+
+119
+00:06:38,140 --> 00:06:41,140
+o con algún abceso que sea muy grande.
+
+120
+00:06:41,140 --> 00:06:44,140
+Pero siempre y cuando el paciente esté bien
+
+121
+00:06:44,140 --> 00:06:46,140
+y esté respondiendo a los antibióticos.
+
+122
+00:06:46,140 --> 00:06:48,140
+Si es que el paciente viene choqueado,
+
+123
+00:06:48,140 --> 00:06:50,140
+o si está súper séptico,
+
+124
+00:06:50,140 --> 00:06:53,140
+o no responde a los antibióticos en un par de días,
+
+125
+00:06:53,140 --> 00:06:55,140
+en ese caso no me queda ninguna opción
+
+126
+00:06:55,140 --> 00:06:57,140
+que operarlo de inmediato,
+
+127
+00:06:57,140 --> 00:07:00,140
+aunque el riesgo sea más alto
+
+128
+00:07:00,140 --> 00:07:02,140
+porque es una cirugía un poco más complicada.
+
+129
+00:07:02,140 --> 00:07:05,140
+En el sentido que si es que espero con un paciente
+
+130
+00:07:05,140 --> 00:07:08,140
+que ya viene mal, lo más probable es que se va a morir.
+
+131
+00:07:08,140 --> 00:07:11,140
+Ahora, ¿en qué casos se maneja solo con antibióticos
+
+132
+00:07:11,140 --> 00:07:14,140
+y no se hace siquiera esta cirugía diferida?
+
+133
+00:07:14,140 --> 00:07:17,140
+Pues la única indicación es que sea un paciente
+
+134
+00:07:17,140 --> 00:07:20,140
+que rechaza la cirugía y que dice
+
+135
+00:07:20,140 --> 00:07:22,140
+yo no me opero, no me quiero operar
+
+136
+00:07:22,140 --> 00:07:24,140
+y me prefiero morir,
+
+137
+00:07:24,140 --> 00:07:26,140
+y que esté no complicada,
+
+138
+00:07:26,140 --> 00:07:28,140
+en el sentido que si está complicada
+
+139
+00:07:28,140 --> 00:07:30,140
+hay que insistirle al paciente hasta el último momento
+
+140
+00:07:30,140 --> 00:07:32,140
+que se opere.
+
+141
+00:07:32,140 --> 00:07:35,140
+Pero en el caso de que el paciente entienda
+
+142
+00:07:35,140 --> 00:07:37,140
+y con un consentimiento informado,
+
+143
+00:07:37,140 --> 00:07:39,140
+o con una decisión informada,
+
+144
+00:07:39,140 --> 00:07:42,140
+rechace la cirugía,
+
+145
+00:07:42,140 --> 00:07:45,140
+eventualmente sí es aceptable
+
+146
+00:07:45,140 --> 00:07:48,140
+el manejarlo con antibióticos endovenosos.
+
+147
+00:07:48,140 --> 00:07:51,140
+Ahora, ¿qué antibiótico si es un abdomen agudo?
+
+148
+00:07:51,140 --> 00:07:54,140
+Sería al menos Ceptrexona monometroniazol,
+
+149
+00:07:54,140 --> 00:07:57,140
+aunque es aceptable dejarle alguna otra cosa
+
+150
+00:07:57,140 --> 00:07:59,140
+que cubra bien a los gram negativos
+
+151
+00:07:59,140 --> 00:08:01,140
+y a los anaerobios en general.
+
+152
+00:08:01,140 --> 00:08:03,140
+Y bueno, eso es todo, nos vemos en los siguientes temas
+
+153
+00:08:03,140 --> 00:08:05,140
+y acuérdense, las appendicitis actualmente
+
+154
+00:08:05,140 --> 00:08:07,140
+se diagnostican con imágenes. ¡Que estén bien!

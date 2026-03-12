@@ -1,0 +1,499 @@
+1
+00:00:00,000 --> 00:00:06,640
+Hola, ¿cómo están? En este video vamos a hablar de la patología abdominal de origen
+
+2
+00:00:06,640 --> 00:00:11,280
+vascular, incluyendo los abdómenes agudos de origen vascular. En específico vamos
+
+3
+00:00:11,280 --> 00:00:16,940
+a ver la embolia mesentérica, la esquemia mesentérica no oclusiva que se ve en contexto
+
+4
+00:00:16,940 --> 00:00:21,000
+de los pacientes que están choqueados, la tromposis venosa mesentérica, la colitis
+
+5
+00:00:21,000 --> 00:00:26,000
+isquémica y la angina mesentérica. Y les adelanto que estas cinco enfermedades,
+
+6
+00:00:26,000 --> 00:00:30,000
+si bien tienen varias cosas en común, vienen con un cuadro clínico que es distinto
+
+7
+00:00:30,000 --> 00:00:33,900
+y que hay que saber diferenciar. Empecemos con la más clásica y más importante,
+
+8
+00:00:33,900 --> 00:00:37,760
+cierto que la embolia mesentérica que es una urgencia. Su cuadro clínico por el
+
+9
+00:00:37,760 --> 00:00:43,360
+general viene con un dolor que es agudo y que es muy intenso habitualmente de inicio
+
+10
+00:00:43,360 --> 00:00:48,680
+súbito y que al inicio suele venir con un aumento de la peristalsis que está producida
+
+11
+00:00:48,680 --> 00:00:53,680
+por la esquemia, cierto, y eso hace que aumenten los ruidos hidroaerios que eventualmente
+
+12
+00:00:53,680 --> 00:00:57,480
+venga con vómitos y con diarrea. Ahora, a medida que va pasando el tiempo esto va
+
+13
+00:00:57,480 --> 00:01:02,760
+cambiando. En el inicio suele venir sin signos peritoniales y justamente uno habla
+
+14
+00:01:02,760 --> 00:01:08,720
+de la disociación entre el dolor súper intenso agudo, cierto, pero el examen
+
+15
+00:01:08,720 --> 00:01:14,200
+abdominal que es bastante anodino, cierto, sin signos peritoniales, sin ninguna cosa
+
+16
+00:01:14,200 --> 00:01:18,240
+que se vea especialmente grave. Aparte de esto, es frecuente que venga con hematoquesia
+
+17
+00:01:18,240 --> 00:01:23,120
+también como todas las complicaciones vasculares intestinales que vamos a ver
+
+18
+00:01:23,120 --> 00:01:28,320
+ahora. Y finalmente al final en el momento en que ya se produce el infarto del intestino,
+
+19
+00:01:28,320 --> 00:01:35,000
+la eventual perforación, ahí sí aparecen los signos peritoniales, cierto, y se produce
+
+20
+00:01:35,000 --> 00:01:40,280
+esta disminución de los ruidos hidroaerios. O sea, fíjense, al igual que la obstrucción
+
+21
+00:01:40,280 --> 00:01:44,720
+intestinal, los ruidos hidroaerios al inicio están aumentados y al final en cambio están
+
+22
+00:01:44,720 --> 00:01:48,880
+disminuidos con la gran diferencia que lo característico de la embola mesentérica que
+
+23
+00:01:48,880 --> 00:01:53,920
+es la disociación entre el dolor súbito muy intenso y en cambio el examen físico sin
+
+24
+00:01:53,920 --> 00:01:58,640
+signos peritoniales. Los factores de riesgo más importantes para la embola mesentérica es
+
+25
+00:01:58,640 --> 00:02:02,480
+cualquier cosa que produzca embolias. Dentro de esto la fibrilación auricular es lo que
+
+26
+00:02:02,480 --> 00:02:10,000
+habitualmente se ve en los pacientes, ya sea como el diagnóstico previo o ya sea como que
+
+27
+00:02:10,000 --> 00:02:16,200
+viene con el ritmo irregular en este momento. El diagnóstico por el general se pide con un
+
+28
+00:02:16,200 --> 00:02:23,680
+angiotac o con una angiografía en cuanto hay que ir a identificarlo de inmediato y en el caso
+
+29
+00:02:23,680 --> 00:02:28,160
+de que ya venga con signos peritoniales que ya estoy tarde, cierto, voy directamente a la
+
+30
+00:02:28,160 --> 00:02:33,680
+cirugía exploradora en la cual no solamente voy a ver las asas intestinales que eventualmente
+
+31
+00:02:33,680 --> 00:02:38,440
+están necróticas e infartadas, sino que igualmente hay que ir a ver de manera dirigida
+
+32
+00:02:38,440 --> 00:02:44,120
+la parte vascular y eventualmente desobstruirlo. Ahora, ¿cuál es el tratamiento de una embola
+
+33
+00:02:44,120 --> 00:02:49,040
+mesentérica como en todas las embolias? Por el general es el anticoagular con heparina,
+
+34
+00:02:49,040 --> 00:02:54,520
+cierto, más la revascularización que se puede hacer con una cirugía, cierto,
+
+35
+00:02:54,520 --> 00:02:59,120
+o bien se puede hacer con una trombolisis intra arterial también en algunos casos.
+
+36
+00:02:59,120 --> 00:03:04,200
+Además, en el caso de que venga con perforación, con necrosis, con algún infarto,
+
+37
+00:03:04,200 --> 00:03:11,400
+hay que hacer una cirugía de resección de la zona afectada, cierto, más el manejo
+
+38
+00:03:11,400 --> 00:03:20,160
+general del abdomen agudo vascular y quirúrgico, cierto, que sería con antibióticos y con
+
+39
+00:03:20,160 --> 00:03:24,760
+la zona fisiológico. Veamos ahora la isquemia mesentérica aguda no oclusiva que como su
+
+40
+00:03:24,760 --> 00:03:30,680
+nombre lo dice viene sin que se ocluye ninguna arteria ni ninguna vena tampoco. Su causa,
+
+41
+00:03:30,680 --> 00:03:35,400
+habitualmente un paciente que está choqueado por alguna otra causa, lo cual me produce
+
+42
+00:03:35,600 --> 00:03:42,680
+una vasoconstricción mesentérica o esplácnica muy marcada. Su cuadro clínico por el general
+
+43
+00:03:42,680 --> 00:03:47,520
+es un paciente que viene choqueado por alguna otra causa que evoluciona con dolor abdominal
+
+44
+00:03:47,520 --> 00:03:53,640
+y con hematoquesia, igual que en la isquemia por embolia, cierto. El diagnóstico,
+
+45
+00:03:53,640 --> 00:03:58,640
+si bien suele ser fundamentalmente clínico, se complementa con un angiotax o con una
+
+46
+00:03:58,640 --> 00:04:03,920
+angiografía igual en el sentido en que por un lado me descarta otras causas como una
+
+47
+00:04:03,920 --> 00:04:09,120
+embolia mesentérica por ejemplo y por otro lado me confirma que efectivamente hay una
+
+48
+00:04:09,120 --> 00:04:14,960
+disminución del flujo debido a que hay una vasoconstricción masiva de los vasos sanguíneos.
+
+49
+00:04:14,960 --> 00:04:21,360
+Ahora el manejo debido a que justamente la causa es la vasoconstricción es el manejo
+
+50
+00:04:21,360 --> 00:04:26,160
+de la causa de base de manera de que si es que está choqueado hay que hacer que deje de
+
+51
+00:04:26,160 --> 00:04:32,720
+estar choqueado y de esa manera salvar el intestino más el soporte. Ahora el pronóstico
+
+52
+00:04:32,720 --> 00:04:39,320
+es mucho peor debido justamente a que la causa de base suele ser mucho más grave. A esto hay que
+
+53
+00:04:39,320 --> 00:04:44,080
+sumarle el mismo manejo general que ya dijimos de la embolia mesentérica, cierto, cirugía en el
+
+54
+00:04:44,080 --> 00:04:48,840
+caso de que se perfore o de que se necroce, los antibióticos, el celo fisiológico, etcétera,
+
+55
+00:04:48,840 --> 00:04:54,040
+pero repito lo importante acá es el manejo de la causa de base. En tercer lugar veamos la
+
+56
+00:04:54,040 --> 00:04:59,240
+trombosis venosa mesentérica, en este caso su cuadro clínico es un poco más lento,
+
+57
+00:04:59,760 --> 00:05:06,600
+es un poco más larvado, de hecho en algunos casos sí viene con un cuadro agudo de dolor abdominal,
+
+58
+00:05:06,600 --> 00:05:13,520
+pero en otros casos es subagudo y demora varios días en instalarse, cierto, incluso en algunos
+
+59
+00:05:13,520 --> 00:05:19,920
+casos es un cuadro absolutamente crónico que dura varias semanas. Ahora la hematoquesia sigue
+
+60
+00:05:19,920 --> 00:05:24,680
+siendo uno de los síntomas más importantes y a esto hay que sumarle que a veces viene con
+
+61
+00:05:24,680 --> 00:05:29,960
+síntomas de hipertensión portal que lo habíamos visto en el daño hepático-crónico,
+
+62
+00:05:29,960 --> 00:05:35,160
+cierto, la cabeza de medusa, las varices esofágicas, los hemorroides, entre otros,
+
+63
+00:05:35,160 --> 00:05:42,520
+y finalmente hay que ver si es que viene con algún factor de rejo que se complique con una
+
+64
+00:05:42,520 --> 00:05:47,000
+trombosis venosa mesentérica dentro de las cuales las trombofilias, incluyendo el
+
+65
+00:05:47,000 --> 00:05:52,440
+cáncer que es una trombofilia adquirida, es la más clásica y a esto hay que sumarle
+
+66
+00:05:52,440 --> 00:05:57,000
+la pancreatitis aguda dentro de las cuales una de sus complicaciones bien característica
+
+67
+00:05:57,000 --> 00:06:03,680
+debido a la inflamación que está ahí localizada es justamente que se complique con una trombosis
+
+68
+00:06:03,680 --> 00:06:09,920
+venosa. El diagnóstico en este caso es con la TAC, no se requiere la angiotac como en las
+
+69
+00:06:09,920 --> 00:06:15,600
+causas arteriales, sino que me basta una TAC que me va a mostrar que hay un trombo en alguna
+
+70
+00:06:15,600 --> 00:06:21,440
+de las venas. Ahora, luego de eso se puede ya confirmar y ver con más detalle con una
+
+71
+00:06:21,440 --> 00:06:26,960
+resonancia magnética nuclear que se pide como una venografía por resonancia magnética nuclear.
+
+72
+00:06:26,960 --> 00:06:32,080
+Finalmente, el manejo de la trombosis venosa mesentérica, igual que en las trombosis
+
+73
+00:06:32,080 --> 00:06:36,640
+venosas profundas en general, es con la anticoagulación, habitualmente se hace con
+
+74
+00:06:36,640 --> 00:06:42,640
+heparina mínimo por seis meses, más obviamente el manejo general del abdomen agudo vascular
+
+75
+00:06:42,640 --> 00:06:47,080
+quirúrgico, la cirugía en el caso de que haya necrosis, los antibióticos, el suero,
+
+76
+00:06:47,680 --> 00:06:52,640
+etcétera. Y repito lo más importante, la anticoagulación es lo fundamental.
+
+77
+00:06:52,640 --> 00:06:59,960
+Ahora, el cuarto tema es la colitis isquémica. Este es un cuadro distinto que se ve habitualmente
+
+78
+00:06:59,960 --> 00:07:05,320
+en los adultos mayores. El cuadro clínico suele ser un dolor bastante más agudo,
+
+79
+00:07:05,320 --> 00:07:10,360
+aunque hay algunos casos en que sí es subagudo. Habitualmente viene con hematoquesia
+
+80
+00:07:10,360 --> 00:07:16,480
+también. Hasta ahí si se fijan se parece un poco al resto de los cuadros, pero lo más
+
+81
+00:07:16,480 --> 00:07:22,040
+importante muchas veces es en el ángulo esplénico del colon. Dígase en el lado
+
+82
+00:07:22,040 --> 00:07:27,680
+izquierdo del abdomen, en particular en la parte superior, debido a que el ángulo
+
+83
+00:07:27,680 --> 00:07:34,720
+esplénico del colon es la zona en la cual se unen las dos circulaciones mesentéricas,
+
+84
+00:07:34,720 --> 00:07:39,360
+de la arteria mesentérica superior y de la inferior. Así que suele ser una de las
+
+85
+00:07:39,360 --> 00:07:43,600
+áreas que más sufre al momento de haber una esquemia un poquito más crónica.
+
+86
+00:07:44,240 --> 00:07:48,280
+Ahora, lo más importante, esto viene en contexto de los factores de riesgo cardiovascular.
+
+87
+00:07:48,280 --> 00:07:53,600
+Así que habitualmente es un adulto mayor fumador, diabético, hipertenso que viene
+
+88
+00:07:53,600 --> 00:07:59,080
+con este dolor en el lado izquierdo más la hematoquesia y ese es el cuadro clínico más
+
+89
+00:07:59,080 --> 00:08:05,840
+importante. La colitis isquémica habitualmente es algo que no se agrava. Suele ser un
+
+90
+00:08:05,840 --> 00:08:11,280
+proceso autolimitado que suele durar dos a tres días y nada más, aunque hay algunos
+
+91
+00:08:11,280 --> 00:08:16,960
+casos en que sí se complica con un infarto mesentérico y el diagnóstico en este caso suele
+
+92
+00:08:16,960 --> 00:08:22,960
+ser bastante clínico, aunque se complementa igualmente con un ataque o eventualmente en
+
+93
+00:08:22,960 --> 00:08:28,560
+una segunda instancia con una colonoscopía también. El manejo es el soporte, eso es lo
+
+94
+00:08:28,560 --> 00:08:34,200
+más importante. Acuérdense, la colitis isquémica es un cuadro agudo pero autolimitado,
+
+95
+00:08:34,200 --> 00:08:39,840
+habitualmente no muy grave, más obviamente el manejo general que habíamos dicho y a eso
+
+96
+00:08:39,840 --> 00:08:45,640
+hay que sumarle el manejo de los factores de riesgo cardiovascular que deje de fumar etcétera
+
+97
+00:08:45,640 --> 00:08:51,200
+y eventualmente ver si es que requiere alguna cirugía de revascularización o alguna otra
+
+98
+00:08:51,200 --> 00:08:56,480
+cosa adicional. Como último tema, la higiene mesentérica, en este caso es un cuadro clínico
+
+99
+00:08:56,480 --> 00:09:02,120
+totalmente distinto, no es algo agudo, esto es algo crónico y su clínica es dolor abdominal
+
+100
+00:09:02,120 --> 00:09:08,080
+crónico que aparece después de comer, un dolor posprendial. Aparte de esto es muy frecuente
+
+101
+00:09:08,080 --> 00:09:14,140
+que venga con baja de peso también, en este caso es por isquemia, así que se asocia
+
+102
+00:09:14,140 --> 00:09:18,680
+fuertemente a los factores de riesgo cardiovascular igual que la colitis isquémica que acabamos
+
+103
+00:09:18,680 --> 00:09:23,400
+de ver, así que se ve en adulto mayor con hibecolesterolemia, fumador etcétera
+
+104
+00:09:23,400 --> 00:09:28,320
+y finalmente es algo que es progresivo que suele ir aumentando con el paso del tiempo
+
+105
+00:09:28,320 --> 00:09:32,680
+a medida que va aumentando el grado de estenosis de la arteria que va aumentando
+
+106
+00:09:32,680 --> 00:09:36,260
+el grado de isquemia. Ahora, ¿cómo se diferencia de la pancreatitis crónica
+
+107
+00:09:36,260 --> 00:09:42,020
+que venía con la misma clínica de baja de peso y dolor abdominal posprendial? Pues lo más
+
+108
+00:09:42,020 --> 00:09:46,980
+importante era el factor de riesgo, cierto, la pancreatitis crónica habitualmente era causado
+
+109
+00:09:46,980 --> 00:09:51,220
+por el alcoholismo, por el consumo crónico de alcohol, en cambio la isquina mesentérica es
+
+110
+00:09:51,220 --> 00:09:55,700
+causada por los factores de riesgo cardiovascular. Finalmente, el diagnóstico de isquina
+
+111
+00:09:55,700 --> 00:09:59,980
+mesentérica es algo que es absolutamente clínico, pero que se debe confirmar con
+
+112
+00:10:00,540 --> 00:10:08,780
+o con una angiografía como para ver la estenosis de la arteria mesentérica y el manejo es el
+
+113
+00:10:08,780 --> 00:10:14,020
+soporte en los casos más leves hasta la revascularización ya sea quirúrgica o con
+
+114
+00:10:14,020 --> 00:10:20,380
+un stent en el caso de los casos que son más graves. Como un tema aparte, si es que alguien
+
+115
+00:10:20,380 --> 00:10:26,100
+viene con dolores epigástricos pero en relación al ejercicio, en ese caso, ¿cuál es el
+
+116
+00:10:26,100 --> 00:10:30,060
+diagnóstico? Pues es una isquina cardíaca y no me lo confundan con la isquina mesentérica,
+
+117
+00:10:30,060 --> 00:10:35,460
+aunque le duela el abdomen, el epigastrio acuérdense la isquina en relación con el
+
+118
+00:10:35,460 --> 00:10:40,820
+ejercicio es de causa cardíaca, así que es un tema absolutamente aparte que no hay que
+
+119
+00:10:40,820 --> 00:10:46,260
+confundir. La isquina mesentérica en cambio es dolor habitualmente difuso, cierto,
+
+120
+00:10:46,260 --> 00:10:51,300
+en relación a la ingesta de alimentos, así que hay mucho cuidado con no confundir
+
+121
+00:10:51,300 --> 00:10:55,100
+una isquina mesentérica con una isquina cardíaca que es algo bastante más grave y
+
+122
+00:10:55,220 --> 00:10:59,460
+que hay que manejar de una manera radicalmente distinta. ¿Cuál era el examen de la isquina
+
+123
+00:10:59,460 --> 00:11:04,380
+cardíaca? Bueno, el electrocardiograma, cierto, pero el test de esfuerzo era el de
+
+124
+00:11:04,380 --> 00:11:08,260
+primera línea con un montón de excepciones que hay que ver en la respectiva clase.
+
+125
+00:11:08,260 --> 00:11:10,100
+Pues nos vemos más adelante, que estén bien.

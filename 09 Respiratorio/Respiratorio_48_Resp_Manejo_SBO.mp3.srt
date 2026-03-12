@@ -1,0 +1,227 @@
+1
+00:00:03,440 --> 00:00:07,940
+Hola, hola, ¿cómo están? Hablemos del manejo del síndrome bronquial obstructive, que sepan
+
+2
+00:00:07,940 --> 00:00:12,800
+que depende de la severidad. Ahora, cuando es leve, dígase un score de tal, entre 0
+
+3
+00:00:12,800 --> 00:00:17,440
+y 5 puntos, sabiendo que 0 puntos en verdad no tiene un diagnóstico siquiera de SBO,
+
+4
+00:00:17,440 --> 00:00:22,100
+pero cuando es leve hasta 5 puntos, en general se le dan dos puffs de paracetamol
+
+5
+00:00:22,100 --> 00:00:27,760
+y se lo manda de alta para su casa. Así que nada más una hoja de reconsultar en
+
+6
+00:00:27,760 --> 00:00:30,960
+caso de que aparezcan signos de alarma, que los signos de alarma más importantes
+
+7
+00:00:30,960 --> 00:00:35,440
+son obviamente todos los criterios de severidad y aparte de eso los criterios
+
+8
+00:00:35,440 --> 00:00:39,960
+de una sola infección bacteriana, ejemplo que empiece con fiebre más adelante o con
+
+9
+00:00:39,960 --> 00:00:43,360
+alguna otra cosa de ese tipo o con complejismo de estado general mucho más grave.
+
+10
+00:00:43,360 --> 00:00:47,600
+Cuando es moderado, que eso quiere decir 6 a 8 puntos del score de tal,
+
+11
+00:00:47,600 --> 00:00:53,960
+por el general ya le doy un set de puffs, dígase dos puffs cada 10 minutos y eso se
+
+12
+00:00:53,960 --> 00:00:59,040
+hace habitualmente por 5 a 6 veces, o sea por una hora completa y se revalúa en una
+
+13
+00:00:59,040 --> 00:01:03,200
+hora y se ve cómo está. Obviamente si es que se me agrava antes, se revalúa antes,
+
+14
+00:01:03,200 --> 00:01:07,880
+pero lo más habitual es que vaya mejorando a medida que le voy administrando el salgutamol.
+
+15
+00:01:07,880 --> 00:01:14,400
+Ahora, sirven las nebulizaciones y la verdad es que sí sirven, son más o menos equivalentes
+
+16
+00:01:14,400 --> 00:01:21,720
+al set de puffs, pero actualmente la recomendación es el preferir los puffs con una
+
+17
+00:01:21,720 --> 00:01:26,440
+aero cámara buena a las nebulizaciones, es más barato, es más fácil y es algo que
+
+18
+00:01:26,440 --> 00:01:30,840
+deberían saber hacer igualmente los padres. Y respecto al hipatropio,
+
+19
+00:01:30,840 --> 00:01:35,120
+sirve en lugar del salgutamol y la verdad es que sí sirve, el salgutamol es un poquito
+
+20
+00:01:35,120 --> 00:01:39,000
+mejor, pero el hipatropio se deja por el general cuando el salgutamol está con
+
+21
+00:01:39,000 --> 00:01:42,480
+mucho efecto adverso, ejemplo con mucha taquicardia, ejemplo en un niño que ya
+
+22
+00:01:42,480 --> 00:01:48,680
+viene con mucho salgutamol desde la casa, en los cardiópatas, en ese caso se elige no
+
+23
+00:01:48,680 --> 00:01:52,080
+el hipatropio solo, sino que habitualmente el hipatropio mezclado con una dosis un
+
+24
+00:01:52,080 --> 00:01:57,960
+poquito más baja de salgutamol. Ahora, cuando es severo, dígase 9 a 12 puntos del
+
+25
+00:01:57,960 --> 00:02:02,680
+escortetal, en ese caso hay que agregar oxígeno, pero el oxígeno no solamente
+
+26
+00:02:02,680 --> 00:02:07,040
+se agrega cuando es severo, sino que incluso en una sintomatología leve con
+
+27
+00:02:07,040 --> 00:02:11,640
+un escortetal más bajo, se deja que el paciente está desaturando, si está
+
+28
+00:02:11,640 --> 00:02:15,560
+con hipoxemia, si la saturación está bajo de 93. Acuérdense, esto es
+
+29
+00:02:15,560 --> 00:02:21,520
+súper importante, la primera medida y la más importante en todo el manejo
+
+30
+00:02:21,520 --> 00:02:24,760
+de todo paciente con un cuadro respiratorio agudo es corregir la
+
+31
+00:02:24,760 --> 00:02:29,000
+hipoxemia, si es que hay hipoxemia la primera medida es el oxígeno y el
+
+32
+00:02:29,000 --> 00:02:34,840
+SBO no es la excepción. Ahora, me sirven los corticoides en el manejo del SBO y
+
+33
+00:02:34,840 --> 00:02:39,040
+la respuesta es solo a veces, por regla general, se deja cuando el
+
+34
+00:02:39,040 --> 00:02:42,560
+paciente no responde en una a dos horas dependiendo de la severidad,
+
+35
+00:02:42,560 --> 00:02:49,160
+segundo lugar cuando hay un SBO recurrente, o sea cuando estamos en
+
+36
+00:02:49,160 --> 00:02:52,640
+contexto de un paciente que ha tenido muchas crisis, en ese caso sí se dejan
+
+37
+00:02:52,640 --> 00:02:56,960
+los corticoides en el sentido en que se va a evitar que tenga una nueva
+
+38
+00:02:56,960 --> 00:03:01,760
+crisis y se va a conseguir además que la duración de esta crisis de este
+
+39
+00:03:01,760 --> 00:03:05,560
+cuadro respiratorio sea un poquito más breve, aparte de eso hay que
+
+40
+00:03:05,560 --> 00:03:08,640
+dejarle los corticoides desde el momento que es suficientemente severo
+
+41
+00:03:08,640 --> 00:03:12,520
+como para hospitalizarlo. Ahora, en qué momento se hospitaliza que ya
+
+42
+00:03:12,520 --> 00:03:16,480
+dijimos, todo paciente que se decide hospitalizar por SBO va a recibir los
+
+43
+00:03:16,480 --> 00:03:21,040
+corticoides además, es en el caso de que tenga un score de tal de 11 o 12,
+
+44
+00:03:21,040 --> 00:03:25,160
+acuérdense que severo es desde 9 hacia arriba, pero desde 11 puntos uno dice
+
+45
+00:03:25,160 --> 00:03:27,960
+es un niño que se está muriendo, hay que hospitalizarlo sí o sí con
+
+46
+00:03:27,960 --> 00:03:32,680
+corticoides sí o sí. Igualmente, cuando está severo con un score de tal
+
+47
+00:03:32,680 --> 00:03:37,160
+de 9 a 10 pero ya lleva más de una hora severo que no responda, o bien
+
+48
+00:03:37,160 --> 00:03:41,120
+cuando está moderado pero lleva más de dos horas sin responder, o sea
+
+49
+00:03:41,120 --> 00:03:45,880
+acuérdense en leve no voy a ver cuántas horas porque en leve desde el
+
+50
+00:03:45,880 --> 00:03:49,920
+momento inicial lo mandé para la casa, pero el moderado y el severo que
+
+51
+00:03:49,920 --> 00:03:54,320
+quedan en observación, si no mejoran en dos o una hora respectivamente, en ese
+
+52
+00:03:54,320 --> 00:03:57,520
+caso se hospitalizan y reciben corticoides. Ahora, ¿qué es lo que dice
+
+53
+00:03:57,520 --> 00:04:02,240
+la evidencia? La evidencia solamente dice el oxígeno ha demostrado servir
+
+54
+00:04:02,240 --> 00:04:06,400
+en los cuadros graves y nada más por ese caso. Todos los demás son
+
+55
+00:04:06,400 --> 00:04:10,200
+recomendaciones con una evidencia muy muy bajita pero aún así suelen estar
+
+56
+00:04:10,200 --> 00:04:13,000
+en las guías ministeriales de casi todos los países y hay que
+
+57
+00:04:13,000 --> 00:04:15,400
+seguirlas, así que hay que sabérsela. Que estén bien.

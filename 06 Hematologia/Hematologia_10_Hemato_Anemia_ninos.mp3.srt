@@ -1,0 +1,251 @@
+1
+00:00:00,000 --> 00:00:08,050
+En este video vamos a hablar de la anemia en niños, que tiene varias diferencias con los adultos.
+
+2
+00:00:08,050 --> 00:00:13,050
+Empezando con el diagnóstico, que el diagnóstico no se hace con la hemoglobina en un punto fijo,
+
+3
+00:00:13,050 --> 00:00:17,250
+sino que se ve según la edad y se hace el diagnóstico de anemia cuando la hemoglobina está
+
+4
+00:00:17,250 --> 00:00:22,650
+debajo del percentil 3, que es equivalente a estar debajo de dos desviaciones estándar
+
+5
+00:00:22,650 --> 00:00:24,050
+para la edad del niño.
+
+6
+00:00:24,050 --> 00:00:28,650
+Y veamos acá cuál es la curva de diagnóstico de anemia,
+
+7
+00:00:28,850 --> 00:00:33,850
+porque ahí está la curva del percentil 3 para los distintos meses de edad.
+
+8
+00:00:33,850 --> 00:00:37,650
+Y vemos que al nacer el percentil 3 es un poquito bajo de 15.
+
+9
+00:00:37,650 --> 00:00:41,450
+O sea, hasta 15 es normal, bajo 15 es anemia.
+
+10
+00:00:41,450 --> 00:00:45,850
+Luego, en esa zona entre los dos y los seis meses se produce una gran caída
+
+11
+00:00:45,850 --> 00:00:48,650
+de la anemia que se conoce como anemia fisiológica.
+
+12
+00:00:48,650 --> 00:00:52,650
+Y acuérdense que ahí se produce este recambio entre la sangre fetal
+
+13
+00:00:52,650 --> 00:00:55,650
+y la sangre ya definitiva de los adultos.
+
+14
+00:00:55,650 --> 00:01:01,050
+Y luego se estabiliza en torno a más o menos los 11 gramos por decilitro
+
+15
+00:01:01,050 --> 00:01:03,050
+de los seis meses en adelante.
+
+16
+00:01:03,050 --> 00:01:05,050
+Ahora, ¿qué hay que saber de la anemia fisiológica?
+
+17
+00:01:05,050 --> 00:01:07,650
+Dos cosas, y hay que saberla bien, saber que existe.
+
+18
+00:01:07,650 --> 00:01:10,050
+Y las dos cosas que hay que saber es, número uno,
+
+19
+00:01:10,050 --> 00:01:13,450
+el rango de edad en que se produce entre los dos y seis meses de edad.
+
+20
+00:01:13,450 --> 00:01:16,650
+Y segundo lugar, el punto de corte que es hasta 9.
+
+21
+00:01:16,650 --> 00:01:19,650
+Si es 9,5 no dice bueno, anemia fisiológica.
+
+22
+00:01:19,650 --> 00:01:22,650
+Si en cambio es abajo de 9, ejemplo 8,5,
+
+23
+00:01:22,650 --> 00:01:25,650
+hay que ir a buscar directamente una causa secundaria.
+
+24
+00:01:25,650 --> 00:01:29,250
+Las causas de anemia en general dependen según la edad del niño.
+
+25
+00:01:29,250 --> 00:01:34,250
+En el recién nacido lo más frecuente es que sean como una anemia de tipo hemolítica
+
+26
+00:01:34,250 --> 00:01:39,250
+por la hemólisis que los anticuerpos maternos producen sobre la sangre del feto.
+
+27
+00:01:39,250 --> 00:01:42,250
+Ejemplo, una hemólisis por incompatibilidad de grupo clásico
+
+28
+00:01:42,250 --> 00:01:45,250
+o una hemólisis por incompatibilidad RH, ¿cierto?
+
+29
+00:01:45,250 --> 00:01:48,250
+Y en segundo lugar, pueden haber algunas anemias genéticas
+
+30
+00:01:48,250 --> 00:01:52,250
+como ejemplo la alfa-talasemia que está presente desde el nacimiento.
+
+31
+00:01:52,250 --> 00:01:55,250
+Entre los dos y seis meses de edad dijimos lo más frecuente es la anemia fisiológica
+
+32
+00:01:55,250 --> 00:02:00,250
+y luego de eso pueden ser nuevamente hemólisis genética o bien ferropénica.
+
+33
+00:02:00,250 --> 00:02:03,250
+Arriba de los seis meses lo más frecuente es que sea la anemia ferropénica
+
+34
+00:02:03,250 --> 00:02:05,250
+la causa más frecuente por lejos.
+
+35
+00:02:05,250 --> 00:02:10,250
+Y aparte de esto, si tengo un hemograma o tengo una historia que sugiere alguna otra causa,
+
+36
+00:02:10,250 --> 00:02:14,250
+pues inmediatamente tengo que ir a buscar de manera dirigida esa causa.
+
+37
+00:02:14,250 --> 00:02:19,250
+Ejemplo, si es que tengo antecedentes familiares de enfermedades genéticas,
+
+38
+00:02:19,250 --> 00:02:24,250
+si es que viene con icterice y con coluria, ahí se piensa en una anemia molítica
+
+39
+00:02:24,250 --> 00:02:28,250
+o bien si es que tengo una madre vegana y un niño que está siendo alimentado solamente
+
+40
+00:02:28,250 --> 00:02:32,250
+con lactancia materna y sin suplementos puede haber un déficit de B12
+
+41
+00:02:32,250 --> 00:02:36,250
+que es rarísimo el niño pero se ve en este contexto en particular
+
+42
+00:02:36,250 --> 00:02:40,250
+en la madre vegetariana que lo alimenta con lactancia materna y nada más.
+
+43
+00:02:40,250 --> 00:02:44,250
+Ahora, veamos unos poquitos casos y con esto va a quedar todo bien claro.
+
+44
+00:02:44,250 --> 00:02:47,250
+Número uno, tengo un recién nacido con hemoglobina de 13
+
+45
+00:02:47,250 --> 00:02:51,250
+que en un adulto sería algo normal, en el recién nacido tiene una anemia
+
+46
+00:02:51,250 --> 00:02:54,250
+porque acuérdense que el punto de corte era más o menos 15.
+
+47
+00:02:54,250 --> 00:02:58,250
+Segundo lugar, un lactante de 3 meses con una hemoglobina de 10
+
+48
+00:02:58,250 --> 00:03:02,250
+en este caso está arriba de 9, así que lo más probable entre los 2 y los 6 meses
+
+49
+00:03:02,250 --> 00:03:05,250
+es que sea una anemia fisiológica, ese sería el diagnóstico.
+
+50
+00:03:05,250 --> 00:03:10,250
+En tercer lugar, un lactante de 4 meses que está con una hemoglobina de 8,5
+
+51
+00:03:10,250 --> 00:03:14,250
+pues nuevamente está en el rango de edad de la fisiológica pero está bajo 9
+
+52
+00:03:14,250 --> 00:03:18,250
+así que ya no es una anemia fisiológica, tengo que ir a buscar una causa secundaria.
+
+53
+00:03:18,250 --> 00:03:22,250
+Y el último caso, un lactante de 12 meses que está con una hemoglobina de 10
+
+54
+00:03:22,250 --> 00:03:26,250
+y un BCM de 70, pues dijimos arriba de los 6 meses lo más probable
+
+55
+00:03:26,250 --> 00:03:29,250
+que sea ferropénica, pero veamos el corte hemoglobina de 10,
+
+56
+00:03:29,250 --> 00:03:33,250
+¿es anemia o no? Y dijimos que sí porque se estabilizaba más o menos
+
+57
+00:03:33,250 --> 00:03:37,250
+en 11 después de los 6 meses, así que en este caso hay una anemia
+
+58
+00:03:37,250 --> 00:03:41,250
+y como el BCM está abajo de 80, es microsítica, es compatible
+
+59
+00:03:41,250 --> 00:03:44,250
+con una anemia ferropénica y lo más probable es que ese sea el diagnóstico
+
+60
+00:03:44,250 --> 00:03:48,250
+y la conducta es ir y suplementarlo de manera directa.
+
+61
+00:03:48,250 --> 00:03:52,250
+Ahora, no está de más el confirmarlo, pero habitualmente como es la causa más frecuente
+
+62
+00:03:52,250 --> 00:03:55,250
+la suplementación puede iniciar en ese mismo instante.
+
+63
+00:03:55,250 --> 00:03:57,250
+Y eso es todo, nos vemos en los siguientes videos.

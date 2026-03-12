@@ -1,0 +1,363 @@
+1
+00:00:00,000 --> 00:00:07,880
+En este video vamos a hablar del hiperparatiroidismo secundario a la insuficiencia renal crónica
+
+2
+00:00:07,880 --> 00:00:12,660
+y debería quedar todo bien claro y lo más importante es entender su fisiopatología
+
+3
+00:00:12,660 --> 00:00:17,260
+dado que de esa manera uno va a saber cómo tratarlo y segundo lugar va a saber cómo
+
+4
+00:00:17,260 --> 00:00:21,500
+diagnosticarlo, qué alteraciones son las que se esperen contar en los exámenes
+
+5
+00:00:21,500 --> 00:00:22,500
+de laboratorio.
+
+6
+00:00:22,500 --> 00:00:27,420
+Empecemos que si tengo daño renal, eso se traduce en una caída de la filtración
+
+7
+00:00:27,420 --> 00:00:32,340
+de la sangre, cierto, lo cual a su vez se traduce a que haya retención de fósforo,
+
+8
+00:00:32,340 --> 00:00:36,780
+retención de fosfatos, aumenta el fósforo en sangre y el fósforo quela al calcio,
+
+9
+00:00:36,780 --> 00:00:40,460
+el calcio también quela al fósforo por su caso, pero este aumento en el fósforo
+
+10
+00:00:40,460 --> 00:00:44,220
+se traduce finalmente en una caída en el calcio.
+
+11
+00:00:44,220 --> 00:00:48,220
+Por otro lado, la insuficiencia renal, la destrucción de los riñones se traduce
+
+12
+00:00:48,220 --> 00:00:51,940
+en una caída en la vitamina D activa, porque acuérdense que en los riñones
+
+13
+00:00:51,940 --> 00:00:57,620
+se hidroxila la vitamina D y eso hace nuevamente que caiga también el calcio.
+
+14
+00:00:58,020 --> 00:01:04,740
+Las tres alteraciones juntas, la hiperfosfemia, la hipocalcemia y la caída
+
+15
+00:01:04,740 --> 00:01:08,780
+en la vitamina D, hace que aumente la paratormona, o sea, la paratormona
+
+16
+00:01:08,780 --> 00:01:13,540
+finalmente se eleva no solamente porque hay hipocalcemia, sino que se eleva
+
+17
+00:01:13,540 --> 00:01:16,620
+porque hay hipocalcemia, porque hay hipofosfemia y porque hay
+
+18
+00:01:16,620 --> 00:01:18,020
+hipovitaminosis D.
+
+19
+00:01:18,020 --> 00:01:22,700
+Y todo esto finalmente se traduce también en daño ósio.
+
+20
+00:01:22,740 --> 00:01:29,020
+Ahora, algo importante, es posible y es frecuente que yo tengo la PTH que está
+
+21
+00:01:29,020 --> 00:01:33,740
+en un rango absolutamente elevado, pero el resto de las cosas está normal
+
+22
+00:01:33,740 --> 00:01:38,900
+y esto se debe justamente a que la PTH finalmente hace que se mantenga
+
+23
+00:01:38,900 --> 00:01:41,980
+normal el nivel de calcio y el nivel de fósforo, o sea,
+
+24
+00:01:41,980 --> 00:01:46,900
+los mantiene normales en cuanto al nivel plasmático, pero lo hace
+
+25
+00:01:46,900 --> 00:01:51,180
+expensas de ir generando daño ósio, o sea, el daño ósio se genera
+
+26
+00:01:51,180 --> 00:01:54,580
+desde la elevación de la paratormona que muchas veces es la primera
+
+27
+00:01:54,580 --> 00:01:59,060
+alteración que yo identifico en sangre, pero si yo recuerdo que la
+
+28
+00:01:59,060 --> 00:02:02,460
+fisiopetología era mucho más complejo, era que aumentaba el fósforo,
+
+29
+00:02:02,460 --> 00:02:05,500
+que aquelaba el calcio, que caía la vitamina D y que finalmente
+
+30
+00:02:05,500 --> 00:02:08,820
+todo eso hacía que se elevara la paratormona, es más fácil
+
+31
+00:02:08,820 --> 00:02:11,660
+entender cómo se trata.
+
+32
+00:02:11,660 --> 00:02:12,660
+Sigamos.
+
+33
+00:02:12,660 --> 00:02:15,620
+El producto calcio-fósforo, que es la multiplicación del calcio
+
+34
+00:02:15,620 --> 00:02:20,300
+por el fósforo, tiende a elevarse y si es que pasa de 60 en ese
+
+35
+00:02:20,300 --> 00:02:23,660
+caso, aumenta el riesgo de una cosa que se llama calcifilaxis,
+
+36
+00:02:23,660 --> 00:02:26,380
+que son las calcificaciones de distintas partes del cuerpo,
+
+37
+00:02:26,380 --> 00:02:31,500
+en particular la nefrocalcinosis, lo cual se va traduciendo
+
+38
+00:02:31,500 --> 00:02:33,260
+con el tiempo en falla renal.
+
+39
+00:02:33,260 --> 00:02:36,820
+Fíjense, el calcio tendía a bajar, el fósforo tendía a subir,
+
+40
+00:02:36,820 --> 00:02:39,540
+pero la multiplicación entre ambos tiende a subir en la
+
+41
+00:02:39,540 --> 00:02:41,540
+insuficiencia renal.
+
+42
+00:02:41,540 --> 00:02:44,380
+El diagnóstico del hiperparatiroidismo secundario a la
+
+43
+00:02:44,380 --> 00:02:47,620
+falla renal se hace con todos esos exámenes que acabamos
+
+44
+00:02:47,660 --> 00:02:51,540
+de nombrar en la fisiopatología, dígase la PTH, calcio, fósforo,
+
+45
+00:02:51,540 --> 00:02:55,220
+las imágenes óseas, etcétera, recordando que la paratormona
+
+46
+00:02:55,220 --> 00:02:59,060
+suele ser lo que se altera en primer lugar desde el punto
+
+47
+00:02:59,060 --> 00:03:01,660
+de vista cronológico, pero no desde el punto de vista
+
+48
+00:03:01,660 --> 00:03:03,020
+fisiopatológico.
+
+49
+00:03:03,020 --> 00:03:05,500
+Recordemos el manejo que sigue un orden bastante
+
+50
+00:03:05,500 --> 00:03:06,540
+específico.
+
+51
+00:03:06,540 --> 00:03:09,380
+Número uno, yo tengo como objetivo lograr que la
+
+52
+00:03:09,380 --> 00:03:11,700
+vitamina D esté en rangos normales y para eso le doy
+
+53
+00:03:11,700 --> 00:03:13,300
+vitamina D via oral.
+
+54
+00:03:13,300 --> 00:03:16,220
+Segundo lugar, requiero que la fosfatemia esté normal y
+
+55
+00:03:16,220 --> 00:03:18,860
+para eso le doy quelantes de fósforo, que el más
+
+56
+00:03:18,860 --> 00:03:21,420
+importante de los quelantes de fósforo es el calcio,
+
+57
+00:03:21,420 --> 00:03:25,660
+pero no es el único y además le dejo una dieta baja en
+
+58
+00:03:25,660 --> 00:03:27,020
+fósforo.
+
+59
+00:03:27,020 --> 00:03:29,260
+Cuando el producto calcio-fósforo está arriba de
+
+60
+00:03:29,260 --> 00:03:32,620
+55, que el valor normal es que esté abajo de 40 por
+
+61
+00:03:32,620 --> 00:03:35,060
+si acaso, pero dijimos que si está arriba de 60 ya
+
+62
+00:03:35,060 --> 00:03:37,220
+tiene riesgo de calcifilaxe, cuando está arriba de
+
+63
+00:03:37,220 --> 00:03:40,940
+55 me da miedo darle calcio como quelante, así que en
+
+64
+00:03:40,940 --> 00:03:44,260
+ese caso se dan quelantes de fósforo no cálcicos,
+
+65
+00:03:44,260 --> 00:03:47,780
+como ejemplo el CBLamer o algún otro.
+
+66
+00:03:47,780 --> 00:03:50,820
+En tercer lugar, el objetivo es lograr la calcemia normal,
+
+67
+00:03:50,820 --> 00:03:54,780
+habitualmente con los fármacos que di antes es
+
+68
+00:03:54,780 --> 00:03:57,860
+suficiente, pero si no fuera suficiente, pues le doy más
+
+69
+00:03:57,860 --> 00:04:01,420
+calcio todavía, ejemplo, más carbonato de calcio.
+
+70
+00:04:01,420 --> 00:04:05,220
+En cuarto lugar, ya se busca que la paratormona también
+
+71
+00:04:05,220 --> 00:04:09,340
+esté normal, para lo cual le aumento todavía los niveles
+
+72
+00:04:09,340 --> 00:04:12,740
+de vitamina D que le había dejado para que la vitamina
+
+73
+00:04:12,740 --> 00:04:15,340
+D estuviera normal y le doy más calcio todavía.
+
+74
+00:04:15,340 --> 00:04:19,220
+Habitualmente no es necesario por si acaso, sino que con lo
+
+75
+00:04:19,220 --> 00:04:21,780
+que ya le di antes es suficiente y se cumplen todos
+
+76
+00:04:21,780 --> 00:04:23,300
+los objetivos.
+
+77
+00:04:23,300 --> 00:04:26,860
+Y finalmente, para el daño óseo, todo lo que di sirve,
+
+78
+00:04:26,860 --> 00:04:30,140
+pero si siguiera habiendo daño óseo a pesar de tener
+
+79
+00:04:30,140 --> 00:04:33,140
+todo lo demás normal, eventualmente me sirven los
+
+80
+00:04:33,140 --> 00:04:34,900
+bifofonatos como última línea.
+
+81
+00:04:34,900 --> 00:04:38,420
+Pero si tengo que resumirlo de alguna forma,
+
+82
+00:04:38,420 --> 00:04:41,420
+es calcio y vitamina D hasta que todo esté normal.
+
+83
+00:04:41,460 --> 00:04:44,940
+O sea, el tratamiento del hiperparatidismo es el calcio,
+
+84
+00:04:44,940 --> 00:04:47,020
+que me sirve para bajar la paratormona,
+
+85
+00:04:47,020 --> 00:04:50,140
+para bajar los niveles de fósforo y para subir los
+
+86
+00:04:50,140 --> 00:04:52,980
+niveles de calcio, me sirve para todo y para evitar el
+
+87
+00:04:52,980 --> 00:04:56,060
+daño óseo, más la vitamina D que igualmente cumple con
+
+88
+00:04:56,060 --> 00:04:57,500
+todas estas funciones.
+
+89
+00:04:57,500 --> 00:04:58,100
+Y eso es todo.
+
+90
+00:04:58,100 --> 00:04:59,140
+Espero que haya quedado claro.
+
+91
+00:04:59,140 --> 00:05:01,300
+Nos vemos en los siguientes videos.

@@ -1,0 +1,211 @@
+1
+00:00:00,000 --> 00:00:07,530
+Hola, ¿cómo están? En este vídeo vamos a empezar con el tema de vasculitis con un
+
+2
+00:00:07,530 --> 00:00:11,170
+pequeño esquema para organizar un poquito la mente. Así que recordemos,
+
+3
+00:00:11,170 --> 00:00:15,050
+número uno, que existen las vasculitis primarias y segundo lugar están las
+
+4
+00:00:15,050 --> 00:00:19,090
+vasculitis secundarias, ejemplo, alupus, artritis ronmatoide,
+
+5
+00:00:19,090 --> 00:00:23,570
+otras enfermedades autoinmunes de distinto tipo. Así que a grandes rasgos
+
+6
+00:00:23,570 --> 00:00:28,170
+las vasculitis pueden ser tanto una enfermedad per se como una complicación
+
+7
+00:00:28,170 --> 00:00:31,250
+de otra enfermedad, lo que no quita que habitualmente son enfermedades
+
+8
+00:00:31,250 --> 00:00:36,850
+graves, por si acaso. La primera que se enseña es la artritis de
+
+9
+00:00:36,850 --> 00:00:40,650
+Takayasu en el sentido en que es la que viene con afectación de los vasos
+
+10
+00:00:40,650 --> 00:00:44,010
+más grandes y vamos a seguir viéndolo cada vez, las que afectan vasos más
+
+11
+00:00:44,010 --> 00:00:47,570
+pequeños, sabiendo que el tamaño del vaso no es una buena forma de
+
+12
+00:00:47,570 --> 00:00:51,330
+clasificar a las vasculitis. Luego está la artritis de células gigantes o
+
+13
+00:00:51,330 --> 00:00:54,650
+artritis de la temporal, la enfermedad de Kawasaki que es una
+
+14
+00:00:54,650 --> 00:00:57,770
+vasculitis que ustedes saben que afecta a las coronarias, la
+
+15
+00:00:57,770 --> 00:01:01,930
+poli arteritis nodosa o pan arteritis nodosa, la púlpura de
+
+16
+00:01:01,930 --> 00:01:06,770
+Sholingenov, la granulomatosis de Wegener, la poliangitis
+
+17
+00:01:06,770 --> 00:01:11,130
+microscópica o micro poliangeitis y finalmente la
+
+18
+00:01:11,130 --> 00:01:15,850
+vasculitis de Schurgstrauss o granulomatosis alérgica o granulomatosis
+
+19
+00:01:15,850 --> 00:01:19,370
+o sinofílica con micro poliangeitis o con poliangeitis, como
+
+20
+00:01:19,370 --> 00:01:22,890
+quieren llamarla tiene varias formas de llamarse, pero esas son
+
+21
+00:01:22,890 --> 00:01:26,650
+las enfermedades y para rellenar un poquito más el esquema recordemos
+
+22
+00:01:26,650 --> 00:01:30,410
+que la artritis de Takayasu afecta la horta y sus ramas,
+
+23
+00:01:30,410 --> 00:01:33,930
+dígase las subclavias, la horta ascendente, descendente, las
+
+24
+00:01:33,930 --> 00:01:38,010
+carotidas, cierto, la de células gigantes habitualmente afecta
+
+25
+00:01:38,010 --> 00:01:41,010
+células un poquito más pequeñas, dígase las carotidas y sus
+
+26
+00:01:41,010 --> 00:01:43,730
+ramas, aunque puede afectar las subclavias también, la
+
+27
+00:01:43,730 --> 00:01:46,850
+enfermedad de Kawasaki, las coronarias son las arterias más
+
+28
+00:01:46,850 --> 00:01:50,770
+frecuentemente afectadas, aunque no son las únicas, la
+
+29
+00:01:50,770 --> 00:01:54,650
+poli arteritis nodosa afecta las arterias medianas, como por
+
+30
+00:01:54,650 --> 00:01:57,930
+ejemplo, arterias renales y las arterias mesentéricas, pero
+
+31
+00:01:57,930 --> 00:02:02,290
+puede afectar también algunas arterias más pequeñas, la
+
+32
+00:02:02,290 --> 00:02:05,330
+púlpura de Sholingenov es de vaso pequeño y se vio en su
+
+33
+00:02:05,330 --> 00:02:09,650
+propia clase ya, la granulomatosis de Wegener, la PAM y
+
+34
+00:02:09,650 --> 00:02:13,770
+la Schurgstrauss, esas son las tres vasculitis ancapositivo
+
+35
+00:02:13,770 --> 00:02:17,210
+que son las más graves por si acaso y que son de vaso
+
+36
+00:02:17,210 --> 00:02:19,610
+pequeño, sabiendo que en algunas oportunidades pueden
+
+37
+00:02:19,610 --> 00:02:22,090
+afectar los vasos de cualquier tamaño, pero las
+
+38
+00:02:22,090 --> 00:02:24,970
+manifestaciones más frecuentes son justamente las de vaso
+
+39
+00:02:24,970 --> 00:02:29,890
+pequeño y en particular es muy frecuente que evolucionan con
+
+40
+00:02:29,890 --> 00:02:33,690
+un aglomerulones fritis y habitualmente grave, rápidamente
+
+41
+00:02:33,690 --> 00:02:37,330
+progresiva, con falle renal aguda, afectación de la
+
+42
+00:02:37,330 --> 00:02:41,890
+vía aérea tanto superior, ejemplo rinocinusitis como la
+
+43
+00:02:41,890 --> 00:02:44,650
+vía aérea inferior, los pulmones, dígase, alveolitis
+
+44
+00:02:44,650 --> 00:02:48,250
+hemorrágica, entre otras y finalmente es frecuente que
+
+45
+00:02:48,250 --> 00:02:50,290
+vengan con mononeuritis múltiple también por
+
+46
+00:02:50,290 --> 00:02:53,370
+afectación de la base nervorum de los nervios, ahora la
+
+47
+00:02:53,370 --> 00:02:56,170
+mononeuritis múltiple también se ve en algunas de vaso
+
+48
+00:02:56,170 --> 00:03:00,490
+mediano como la polia arteritin nodosa, entre otras, así que
+
+49
+00:03:00,490 --> 00:03:03,170
+espero que haya quedado claro, esta es muy introductoria,
+
+50
+00:03:03,170 --> 00:03:05,810
+saber cuáles son las vasculitis primaria y saber que
+
+51
+00:03:05,810 --> 00:03:08,370
+existen también las vasculitis secundaria y en los
+
+52
+00:03:08,370 --> 00:03:10,370
+siguientes videos las vamos a ver una por una con
+
+53
+00:03:10,370 --> 00:03:11,890
+bastante detalle, así que nos vemos ahí.

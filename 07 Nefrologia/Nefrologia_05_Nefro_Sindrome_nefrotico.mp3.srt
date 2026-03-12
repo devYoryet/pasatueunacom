@@ -1,0 +1,207 @@
+1
+00:00:00,000 --> 00:00:06,940
+Siguiendo con el calcio, veamos ahora el manejo de las alteraciones del calcio,
+
+2
+00:00:06,940 --> 00:00:12,340
+empezando por la hipercalcemia. Y recordemos que si es que es leve, siempre se trata la causa y
+
+3
+00:00:12,340 --> 00:00:17,220
+nada más. Y en el caso del hiperparatiroidismo primario, yo les había dicho que era la cirugía,
+
+4
+00:00:17,220 --> 00:00:22,660
+y aquí hay que ver bien cuál es la causa. Si es que viene con un tumor y la causa es un tumor
+
+5
+00:00:22,660 --> 00:00:27,940
+hiperproductor de paratormona, en ese caso simplemente se hace una tumorectomía o se
+
+6
+00:00:27,940 --> 00:00:32,700
+saca solamente una de las glándulas paratiroides. En cambio, si es que viene con una hiperplasia,
+
+7
+00:00:32,700 --> 00:00:37,420
+en ese caso se sacan habitualmente todas las paratiroides o bien se deja una o un pedazo de
+
+8
+00:00:37,420 --> 00:00:41,860
+una. Y si se sacan todas, obviamente una de ellas hay que implantarla en alguna parte del cuerpo,
+
+9
+00:00:41,860 --> 00:00:47,460
+habitualmente en el antebrazo, en el sentido en que el hiperparatiroidismo, por el contrario,
+
+10
+00:00:47,460 --> 00:00:51,620
+que tiende a la hipocalcemia, igualmente puede ser muy grave y difícil de manejar con
+
+11
+00:00:51,620 --> 00:00:56,100
+tendencia a arridmias, etcétera. Así que, repito, el tratamiento del hiperparaprimario es
+
+12
+00:00:56,380 --> 00:01:01,460
+la cirugía, pero hay que tener harto cuidado de no producirle un hiperparatiroidismo definitivo.
+
+13
+00:01:01,460 --> 00:01:07,740
+Podría ser por tumor y por hiperplasia. Sigamos. En el caso de la hipercalcemia severa,
+
+14
+00:01:07,740 --> 00:01:12,900
+en este caso sigue un orden, y aquí sí, de primera línea, es el suero fisiológico.
+
+15
+00:01:12,900 --> 00:01:16,420
+El suero fisiológico endovenoso es la medida más importante para el enfrentamiento
+
+16
+00:01:16,420 --> 00:01:20,700
+de una hipercalcemia severa, ejemplo arriba de 12 o que viene con algún otro síntoma.
+
+17
+00:01:20,700 --> 00:01:25,980
+La calcitonina, si no está disponible, no importa tanto, pero actualmente se recomienda
+
+18
+00:01:25,980 --> 00:01:30,220
+dejarla igualmente desde el inicio en la hipercalcemia severa. Repito, no siempre está
+
+19
+00:01:30,220 --> 00:01:35,100
+disponible, pero la evidencia soporta darla junto con el suero fisiológico y no esperar,
+
+20
+00:01:35,100 --> 00:01:39,660
+sino que darla como parte del grupo de intervenciones de primera línea.
+
+21
+00:01:39,660 --> 00:01:44,820
+Segundo lugar, los bifosfonatos. En este caso se dan bifosfonatos endovenosos,
+
+22
+00:01:44,820 --> 00:01:50,020
+habitualmente el ácido solendrónico, en el sentido en que no solamente tengo que bajar
+
+23
+00:01:50,020 --> 00:01:54,140
+los niveles de cálcio, sino que además tengo que asegurarme que no vuelvan a subir y la
+
+24
+00:01:54,140 --> 00:01:58,060
+forma en que se hace es estabilizando el hueso justamente con un bifosfonato.
+
+25
+00:01:58,060 --> 00:02:04,460
+Ahora, como medidas adicionales que algún efecto tienen, se puede dejar furosemida,
+
+26
+00:02:04,460 --> 00:02:08,620
+que acuérdense que tendía la hipocalcemia porque pierde cálcio por vía urinaria.
+
+27
+00:02:08,620 --> 00:02:12,660
+Me sirven los corticoides, pero solamente los cánceres hematológicos asociados
+
+28
+00:02:12,660 --> 00:02:16,380
+a hipercalcemia como el mieloma múltiple, algunos linfomas también.
+
+29
+00:02:16,380 --> 00:02:22,460
+Y de última línea sepan que existe el denosumab, que son anticuerpos monoclonales en
+
+30
+00:02:22,460 --> 00:02:27,780
+contra de los osteoclásticos, de los osteoclastos, perdón, y que su utilidad
+
+31
+00:02:27,780 --> 00:02:32,260
+habitualmente es muy restringida a los pacientes que no toleran los bifosfonatos o que no
+
+32
+00:02:32,260 --> 00:02:36,540
+responden a los bifosfonatos. Sería una forma de estabilizar el hueso atacando
+
+33
+00:02:36,540 --> 00:02:40,340
+con estos anticuerpos a estas células los osteoclásticos, los osteoclastos,
+
+34
+00:02:40,340 --> 00:02:44,980
+de nuevo, perdón, que son los encargados de roer el hueso, de ir reabsorbiéndolo.
+
+35
+00:02:44,980 --> 00:02:51,460
+Vemos ahora la hipocalcemia. La hipocalcemia, acuérdense que su causa más importante es la
+
+36
+00:02:51,500 --> 00:02:56,500
+insuficiencia renal crónica y que, acuérdense, que se veía en contexto del hiperparatereodismo
+
+37
+00:02:56,500 --> 00:03:02,020
+secundario, en que si bien el hiperparatereodismo, el exceso de paratormona, tiende a elevar la
+
+38
+00:03:02,020 --> 00:03:07,020
+calcemia, en este caso la causa de la hipocalcemia venía antes en la cadena
+
+39
+00:03:07,020 --> 00:03:11,660
+fisiopatológica, cierto, y era que aumentaba el fósforo y el fósforo que lava el calcio,
+
+40
+00:03:11,660 --> 00:03:16,780
+y en este caso el aumento de la PTH no es capaz de compensar esta hipocalcemia.
+
+41
+00:03:17,220 --> 00:03:22,020
+Ahora, algunas otras causas serían algún problema de mala absorción, ejemplo la enfermedad celíaca,
+
+42
+00:03:22,020 --> 00:03:28,460
+y aparte algunos fármacos como la furosemida, por ejemplo, que ya dijimos que excreta calcio.
+
+43
+00:03:28,460 --> 00:03:33,620
+¿Cuál es el tratamiento de la hipocalcemia? Pues si es que es leve, simplemente se trata la
+
+44
+00:03:33,620 --> 00:03:38,900
+causa y se le da calcio oral, ejemplo el carbonato de calcio bioral, que es algo muy
+
+45
+00:03:38,900 --> 00:03:43,020
+clásico en los pacientes con insuficiencia renal, y en cambio si es que es severa hay
+
+46
+00:03:43,020 --> 00:03:48,220
+que darle el gluconato de calcio endovenoso de inmediato para evitar que me haga una torsión
+
+47
+00:03:48,220 --> 00:03:52,540
+de puntas o alguna otra arritmia muy grave, o sea, si que está con una tetánea por
+
+48
+00:03:52,540 --> 00:03:56,860
+hipocalcemia, obviamente hay que darle el calcio de inmediato. Ahora, ¿qué otras
+
+49
+00:03:56,860 --> 00:04:01,420
+alteraciones se trataban también con gluconato de calcio? Vía dos más, número uno la
+
+50
+00:04:01,420 --> 00:04:06,420
+hiperpotasemia o hipercalemia, y número dos la hipermagnesemia, que se veía en la
+
+51
+00:04:06,420 --> 00:04:10,680
+intoxicación por sulfato de magnesio en contexto del manejo de la eclampsia. Y eso
+
+52
+00:04:10,680 --> 00:04:12,920
+es todo, nos vemos en los siguientes videos, que estén bien.

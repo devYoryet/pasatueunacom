@@ -1,0 +1,251 @@
+1
+00:00:00,000 --> 00:00:07,620
+Hola, hola, ¿cómo están? En este video vamos a hablar de los tumores hipoficiarios, recordando
+
+2
+00:00:07,620 --> 00:00:12,700
+que su clínica es muy variada, pero lo más frecuente por lejos es que sean absolutamente
+
+3
+00:00:12,700 --> 00:00:17,140
+asintomáticos y que se detecten como hallazgo en alguna imagen que se pidió por alguna
+
+4
+00:00:17,140 --> 00:00:22,100
+otra razón. Ejemplo, por un accidente vascular, por un TEC, por una cefalera,
+
+5
+00:00:22,100 --> 00:00:26,260
+¿cierto? Se pide una resonancia magnética o un ataque y finalmente se describe en
+
+6
+00:00:26,260 --> 00:00:30,980
+el informe que hay un tumor el hipófici. La segunda forma en que se presentan es
+
+7
+00:00:30,980 --> 00:00:34,980
+con síntomas de compresión de alguna de las estructuras que están alrededor de la hipófici,
+
+8
+00:00:34,980 --> 00:00:40,420
+dentro de los cuales la compresión del quiasma óptico es lo más frecuente que está justo
+
+9
+00:00:40,420 --> 00:00:45,100
+debajo de la hipófici y se ve como una hemianopsia bitemporal o como una cuadratomsia
+
+10
+00:00:45,100 --> 00:00:50,660
+bitemporal. Segundo lugar, con parálisis de alguno de los nervios craniales que están
+
+11
+00:00:50,660 --> 00:00:55,060
+involucrados en la óculo motilidad de los movimientos del ojo, en particular el tercer,
+
+12
+00:00:55,060 --> 00:01:01,420
+cuarto y sexto nervio que se llaman respectivamente oculomotor, troclear y abducens o abducentes.
+
+13
+00:01:01,420 --> 00:01:05,700
+En tercer lugar, puede venir con hiperproducción de alguna de las hormonas de la hipófici,
+
+14
+00:01:05,700 --> 00:01:10,220
+¿cierto? En particular se puede ver como una enfermedad de Cushing, como una hiperprolactinemia,
+
+15
+00:01:10,220 --> 00:01:16,500
+como una acromegalia, como un hipertriudismo secundario, etc. En cuarto lugar, puede venir
+
+16
+00:01:16,500 --> 00:01:21,580
+con destrucción de la hipóficis en general y con un hipopituitarismo, con un déficit de
+
+17
+00:01:21,620 --> 00:01:26,220
+las distintas hormonas que están involucradas en el eje hipotalámico-hipoficiario, ¿cierto?,
+
+18
+00:01:26,220 --> 00:01:30,860
+y endocrino en general. Y finalmente con algo que vamos a ver con algo de detalle al final,
+
+19
+00:01:30,860 --> 00:01:37,100
+que es la apoplegía hipoficiaria, que es este infarto del tumor con edema y con una
+
+20
+00:01:37,100 --> 00:01:42,300
+serie de síntomas. El diagnóstico por el general se hace con una imagen de la hipófici,
+
+21
+00:01:42,300 --> 00:01:46,580
+de elección en la resonancia magnética nuclear de hipóficis o de cilla turca. Y en
+
+22
+00:01:46,580 --> 00:01:50,180
+segundo lugar me sirve también, si es que no está disponible la resonancia, ¿cierto?,
+
+23
+00:01:50,180 --> 00:01:56,260
+la TAC de cilla turca. El tratamiento de los tumores hipoficiarios depende mucho según
+
+24
+00:01:56,260 --> 00:02:01,260
+qué clínica tenga y esto hay que tenerlo muy muy claro. Si es que es totalmente asintomático
+
+25
+00:02:01,260 --> 00:02:06,100
+y viene sin hiperproducción, o sea hay que pedirle la imagen, ver que no tenga clínica,
+
+26
+00:02:06,100 --> 00:02:10,780
+hay que buscarla en una anamnesis con bastante detalle y medirle niveles plasmáticos
+
+27
+00:02:10,780 --> 00:02:18,020
+de la TCH, de la hormona de crecimiento, ¿cierto?, de la prolactina, etc. Si está todo
+
+28
+00:02:18,020 --> 00:02:23,180
+normal, o sea si es un adenoma no funcionante, en ese caso se observa y que quede muy claro,
+
+29
+00:02:23,180 --> 00:02:28,460
+esa es la forma que con mayor frecuencia se manejan los tumores de hipófici. Segundo lugar,
+
+30
+00:02:28,460 --> 00:02:32,980
+si viene con hiperprolactinemia, por el general anda muy bien con agonistas dopaminérgicos,
+
+31
+00:02:32,980 --> 00:02:37,060
+dentro de esto está la bromocriptina y la cabergolina, de elección en la actualidad
+
+32
+00:02:37,060 --> 00:02:42,300
+en la cabergolina, no solamente que evita esta hiperproducción, sino que logra que se
+
+33
+00:02:42,900 --> 00:02:48,580
+incluso que desaparezca por completo el prolactinoma. Si es que viene con síntomas
+
+34
+00:02:48,580 --> 00:02:52,780
+compresivos, la regla general es que se operan, acuérdense que la cirugía actual
+
+35
+00:02:52,780 --> 00:03:00,260
+se hace por vía nasal, transesfenoidal, ese es como el abordaje moderno del hipófici.
+
+36
+00:03:00,260 --> 00:03:06,020
+Si es que viene con hiperproducción de cualquier otra cosa que no sea de la prolactina,
+
+37
+00:03:06,020 --> 00:03:09,340
+ejemplo, si es que viene con una enfermedad de Cushing, el manejo es quirúrgico también.
+
+38
+00:03:10,100 --> 00:03:14,540
+Si es que viene con hipopituitarismo, pues hay que darle el reemplazo hormonal con las
+
+39
+00:03:14,540 --> 00:03:19,220
+hormonas finales, si es que se acuerdan bien con el cortisol, la leotiroxina,
+
+40
+00:03:19,220 --> 00:03:25,500
+la desmopresina, etcétera. Y veamos cómo un tema aparte, pero muy relacionado con esto,
+
+41
+00:03:25,500 --> 00:03:30,580
+la apoplegía hipoficiaria, que dijimos que era una complicación de los tumores hipoficiarios
+
+42
+00:03:30,580 --> 00:03:36,700
+y como para que se entienda un poco el concepto, es un infarto del tumor más edema
+
+43
+00:03:36,700 --> 00:03:41,220
+de el mismo tumor, cierto, que genera una serie de alteraciones locales, cierto,
+
+44
+00:03:41,220 --> 00:03:45,020
+que se traducen en un cuadro clínico de cefalea habitualmente de inicio súbito,
+
+45
+00:03:45,020 --> 00:03:51,420
+porque obviamente es un infarto súbito. Segundo lugar viene con el edema que comprime
+
+46
+00:03:51,420 --> 00:03:56,580
+todo lo que hay alrededor, así que cefalea súbita más diplopia, emenopsia bitemporal,
+
+47
+00:03:56,580 --> 00:04:01,420
+o sea más la compresión del quiesma óptico y de los nervios oculomotores en general,
+
+48
+00:04:01,420 --> 00:04:06,460
+eso me hace el diagnóstico inmediatamente de una apoplegía hipoficiaria. Fíjense,
+
+49
+00:04:06,460 --> 00:04:11,940
+el cuadro puede ser similar al de un accidente vascular, al menos de uno hemorrágico con
+
+50
+00:04:11,940 --> 00:04:16,780
+cefalea, pero en este caso la emenopsia bitemporal es algo que orienta muy muy
+
+51
+00:04:16,780 --> 00:04:22,060
+fuertemente a una apoplegía hipoficiaria en vez de un accidente vascular de otro tipo.
+
+52
+00:04:22,060 --> 00:04:28,180
+Además, obviamente al infartarse el tumor se infarta la hipófisis completa en algunas
+
+53
+00:04:28,180 --> 00:04:34,700
+oportunidades, así que viene más la insuficiencia suprarrenal y la insuficiencia de las distintas
+
+54
+00:04:34,700 --> 00:04:38,700
+glándulas que están controladas por la hipófisis. Finalmente, ¿cómo hago el
+
+55
+00:04:38,700 --> 00:04:43,460
+diagnóstico de un tumor hipoficiario que está con una apoplegía? Pues con la clínica
+
+56
+00:04:43,460 --> 00:04:48,060
+más la resonancia magnética, que justamente ve que hay un tumor que hay edema y que hay
+
+57
+00:04:48,060 --> 00:04:53,140
+compresión de las estructuras adyacentes, ¿cierto? Y finalmente, ¿cuál es el tratamiento
+
+58
+00:04:53,140 --> 00:05:00,180
+de una apoplegía hipoficiaria? En la actualidad es la cirugía transesfenoidal de descompresión,
+
+59
+00:05:00,180 --> 00:05:06,700
+pero mientras tanto se pueden dar los corticoides por vía endovenosa, tanto
+
+60
+00:05:06,700 --> 00:05:11,900
+para disminuir un poco el edema como para el manejo de la insuficiencia suprarrenal aguda
+
+61
+00:05:11,900 --> 00:05:18,060
+que se puede asociar. Y finalmente, obviamente, el reemplazo hormonal en el sentido en que va
+
+62
+00:05:18,060 --> 00:05:22,260
+a quedar con un hipopituitarismo. Y acuérdense que los corticoides son el primer fármaco a
+
+63
+00:05:22,260 --> 00:05:26,980
+ser administrado en este caso también. Eso es todo. Nos vemos en los siguientes videos. Que estén muy bien.

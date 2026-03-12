@@ -1,0 +1,283 @@
+1
+00:00:03,310 --> 00:00:07,830
+Hola, hola. ¿Cómo están? Vamos a hablar de la crisis asmática y de su manejo, que es algo que todo
+
+2
+00:00:07,830 --> 00:00:12,130
+médico general tiene que saber hacer y tiene que saber hacer bien con dosis, con todo. Así que
+
+3
+00:00:12,130 --> 00:00:18,270
+vemos cuáles son los pilares del tratamiento. Número uno, el oxígeno. De hecho, es la primera
+
+4
+00:00:18,270 --> 00:00:22,750
+medida en el caso de que haya una insuficiencia respiratoria o una hipoxemia. Segundo lugar,
+
+5
+00:00:22,750 --> 00:00:27,130
+el salbutamol, que es justamente el fármaco que va a acabar con la crisis en este momento.
+
+6
+00:00:27,130 --> 00:00:31,990
+Luego los corticoides, que en este caso sí aumentan la sobrevida y que se dan por
+
+7
+00:00:31,990 --> 00:00:37,990
+vía sistémica y aparte de eso que van a evitar que vuelva a caer en servicio de urgencia
+
+8
+00:00:37,990 --> 00:00:44,390
+en las próximas horas o en los próximos días. Y recordemos que el oxígeno se da solamente si
+
+9
+00:00:44,390 --> 00:00:49,630
+es que la saturación está en rango de hipoxemia, está abajo de 93% y se da la cantidad
+
+10
+00:00:49,630 --> 00:00:57,550
+suficiente para que sature 93% o más entre 93 y 95 y en este caso sin miedo, a diferencia
+
+11
+00:00:58,150 --> 00:01:04,510
+en que me da miedo darle demasiado oxígeno. El salbutamol se da habitualmente en PUF. Esa es la
+
+12
+00:01:04,510 --> 00:01:10,750
+forma de elección, no en nebulizaciones, que si bien ha sido lo histórico, actualmente si
+
+13
+00:01:10,750 --> 00:01:16,150
+que hay una buena aerocámara es lo más fácil, es lo más disponible. Así que se da 2 a 4
+
+14
+00:01:16,150 --> 00:01:21,510
+PUF que se dan cada 20 minutos o puede ser igualmente cada 10 minutos y esto por una hora.
+
+15
+00:01:21,510 --> 00:01:27,870
+Las recomendaciones internacionales por el general dicen 2 PUF cada 20 minutos,
+
+16
+00:01:27,870 --> 00:01:33,870
+ese sería un buen set. Ahora como alternativas puedo hacer PUF no con el salbutamol sino que
+
+17
+00:01:33,870 --> 00:01:39,150
+con el formoterol que acuérdense que si bien tenía una larga acción tiene una rápida
+
+18
+00:01:39,150 --> 00:01:44,710
+instalación respecto a su efecto o bien puede hacerse también con las nebulizaciones que en
+
+19
+00:01:44,710 --> 00:01:51,390
+ese caso se hacen igualmente tres nebulizaciones y se separan cada 20 minutos o sea es una hora
+
+20
+00:01:51,390 --> 00:01:58,670
+de broncodilatadores para evaluar. En el caso de los corticoides no se dejan siempre sino que
+
+21
+00:01:58,670 --> 00:02:02,950
+solamente en las crisis que vienen con cierta gravedad aunque en la práctica las que llegan
+
+22
+00:02:02,950 --> 00:02:07,190
+al servicio de urgencia en un paciente astmático que conoce su asma suelen venir con algún grau
+
+23
+00:02:07,190 --> 00:02:12,950
+de gravedad importante así que en la práctica si se suelen dejar, en este caso se mide como
+
+24
+00:02:12,950 --> 00:02:17,830
+el PEF menor al 80% o bien con la misma clínica puedo ver si es que está grave y en
+
+25
+00:02:17,830 --> 00:02:22,710
+este caso tienen que ser por vía sistémica, no me sirven los corticoides inhalados en el manejo
+
+26
+00:02:22,710 --> 00:02:26,910
+de la crisis, los corticoides inhalados son en el manejo de las más estables en la crisis
+
+27
+00:02:26,910 --> 00:02:30,870
+van por vía sistémica y la vía más frecuente es por vía oral, ahora obviamente es que el
+
+28
+00:02:30,870 --> 00:02:37,190
+paciente está muy ahogado y no tolera la vía oral pues se da o por vía sistémica
+
+29
+00:02:37,190 --> 00:02:45,550
+inyectable ya sea endovenosa o intramuscular. Como ejemplo la prednisona la dosis 20 a 40
+
+30
+00:02:45,550 --> 00:02:49,830
+milígramos al día y eso se suele dejar por cinco días porque acuérdense que lo que se evita
+
+31
+00:02:49,830 --> 00:02:55,750
+es que recurran ahora como alternativa le puedo dar la dexametasona o la betametasona también
+
+32
+00:02:55,750 --> 00:03:01,990
+vía oral. Aparte de esto en toda crisis astmática hay que ir a buscar la causa en el
+
+33
+00:03:01,990 --> 00:03:06,590
+sentido en que eventualmente está con una neumonía o con alguna otra cosa y si está
+
+34
+00:03:06,590 --> 00:03:11,270
+con una neumonía eventualmente hay que dejarle antibiótico y aparte de eso hay que educar
+
+35
+00:03:11,270 --> 00:03:18,110
+dado que una de las causas más importantes de las mismas crisis es justamente que el paciente
+
+36
+00:03:18,110 --> 00:03:25,390
+no está tomando bien sus medicamentos, sus inhaladores o bien no está tomando las medidas
+
+37
+00:03:25,390 --> 00:03:31,070
+para evitar exponerse a los desencadenantes. Si la clínica es de una neumonía se dejan
+
+38
+00:03:31,070 --> 00:03:37,670
+antibióticos acuérdense que la radiografía a veces demora en mostrar una condensación
+
+39
+00:03:37,830 --> 00:03:44,390
+pero si no tiene neumonía que quede claro en el asma no van los antibióticos y finalmente las
+
+40
+00:03:44,390 --> 00:03:51,750
+cosas más importantes de la educación son la adherencia, los desencadenantes y también el
+
+41
+00:03:51,750 --> 00:03:56,230
+aprender a manejar las crisis astmáticas en la casa en el sentido en que el salbutamol es
+
+42
+00:03:56,230 --> 00:04:02,310
+algo que los pacientes astmáticos tienen y que deberían saber utilizar para evitar llegar
+
+43
+00:04:02,310 --> 00:04:08,270
+justamente a la urgencia salvo que se agraven demasiado. Ahora la gran pregunta que hay en
+
+44
+00:04:08,270 --> 00:04:13,510
+las crisis astmáticas es si es que lo hospitalizo o no y en este caso la hospitalización está
+
+45
+00:04:13,510 --> 00:04:18,910
+indicada cuando es grave y no mejora esa es la más importante dígase que está con un
+
+46
+00:04:18,910 --> 00:04:25,670
+PEF menor a 50% y no mejora eso es es importante o bien que venga con algunos otros
+
+47
+00:04:25,670 --> 00:04:31,190
+parámetros de severidad dígase con una taquimnea muy importante arriba de 30 respiraciones
+
+48
+00:04:31,190 --> 00:04:36,570
+por minuto con una saturación de oxígeno en rango de insuficiencia respiratoria abajo de
+
+49
+00:04:36,570 --> 00:04:43,230
+90% que equivale más o menos a una PEA o dos de 60 milímetros de mercurio que esté con
+
+50
+00:04:43,230 --> 00:04:49,670
+disneas de reposo que solamente pueda decir o frases muy cortas o las palabras entrecortadas
+
+51
+00:04:49,670 --> 00:04:54,350
+o sea que uno lo vea que está realmente muy muy grave que esté con compromiso de
+
+52
+00:04:54,350 --> 00:04:58,110
+conciencia que esté con agotamiento muscular o sea que uno vea que es un paciente que
+
+53
+00:04:58,110 --> 00:05:03,670
+de verdad está muy mal y obviamente en el caso de que no esté tan grave pero no
+
+54
+00:05:03,670 --> 00:05:10,030
+mejore dígase en el caso de que llegue con un asma moderado cierto que esté obstruido
+
+55
+00:05:10,030 --> 00:05:14,670
+y luego de una hora no mejora luego de dos horas sigue sin mejorar habitualmente uno
+
+56
+00:05:14,670 --> 00:05:20,510
+lo deja al menos en observación por un día hay algunos casos en que no llegan tan grave
+
+57
+00:05:20,510 --> 00:05:24,750
+pero que uno los hospitaliza igual que son cuando viene con algún antecedente que muestra
+
+58
+00:05:24,750 --> 00:05:29,030
+que tiene un riesgo muy alto o de hacer un paro respiratorio o de caer en ventilación
+
+59
+00:05:29,030 --> 00:05:34,550
+mecánica y lo más importante es que esté con corticoides orales en la casa o sea uno dice ya
+
+60
+00:05:34,550 --> 00:05:39,310
+no tengo nada más que darle y aún así llega con una crisis al servicio de urgencia mejor
+
+61
+00:05:39,310 --> 00:05:45,350
+se hospitaliza y lo mismo cuando viene con antecedentes de que ya tuvo un paro respiratorio
+
+62
+00:05:45,350 --> 00:05:52,550
+o cardio respiratorio que ya estuvo con ventilación mecánica hace poco o que
+
+63
+00:05:52,550 --> 00:05:57,030
+ha tenido demasiadas hospitalizaciones en el último tiempo en todos esos casos se deja
+
+64
+00:05:57,030 --> 00:06:04,310
+en observación como al menos por 24 horas también ahora la típica pregunta es y en el asma se piden
+
+65
+00:06:04,310 --> 00:06:10,270
+gases arteriales como para ver el manejo y la mayoría de las veces no se pide en el sentido
+
+66
+00:06:10,270 --> 00:06:15,670
+en que suele responder relativamente rápido pero si ustedes ven que está muy grave que no
+
+67
+00:06:15,670 --> 00:06:22,030
+satura bien que viene con una clínica de mucha severidad obviamente se piden igual que
+
+68
+00:06:22,030 --> 00:06:25,990
+en toda patología respiratoria como para ver el estado respiratorio si es que está
+
+69
+00:06:25,990 --> 00:06:31,510
+en insuficiencia respiratoria o no así que repito los gases arteriales sí me sirven para
+
+70
+00:06:31,510 --> 00:06:36,710
+ver la severidad del estado respiratorio de esta crisis asmática sabiendo que la
+
+71
+00:06:36,710 --> 00:06:41,550
+severidad se mide fundamentalmente con la clínica y bueno eso es todo nos vemos en el siguiente vídeo

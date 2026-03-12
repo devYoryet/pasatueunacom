@@ -1,0 +1,351 @@
+1
+00:00:03,750 --> 00:00:06,110
+Hola, hola. En este video vamos a hablar del compromiso de
+
+2
+00:00:06,110 --> 00:00:10,190
+conciencia que se puede escribir también con ese C como compromiso de
+
+3
+00:00:10,190 --> 00:00:14,750
+conciencia. En cambio, la conciencia de que me remuerde la conciencia
+
+4
+00:00:14,750 --> 00:00:20,750
+solo se puede escribir de esa forma con C sin S, pero la conciencia
+
+5
+00:00:20,750 --> 00:00:24,270
+del compromiso de conciencia es correcta de las dos formas para el que tenga
+
+6
+00:00:24,270 --> 00:00:27,910
+dudas. Empecemos ahora recordando las causas que son muchas,
+
+7
+00:00:27,910 --> 00:00:31,590
+muchas, pero la mayoría son graves. Dígase una hipoglicemia,
+
+8
+00:00:31,590 --> 00:00:34,830
+pero una grave, ¿cierto?, una cetoseosis diabética, el síndrome
+
+9
+00:00:34,830 --> 00:00:38,110
+hiperglicémico hiperosmolar, alteraciones electroalíticas como una
+
+10
+00:00:38,110 --> 00:00:41,270
+hiponatremia grave, la hipoxia de un paciente que está choqueado,
+
+11
+00:00:41,270 --> 00:00:44,750
+un accidente vascular, hemorragia superegnidia, intoxicaciones
+
+12
+00:00:44,750 --> 00:00:47,670
+meningitis, sepsis, mixedema, hipertensión endocriniana,
+
+13
+00:00:47,670 --> 00:00:51,950
+texevero, hemorragia subdural, hematoma extradural, epilepsia,
+
+14
+00:00:51,950 --> 00:00:55,510
+insuficiencia renal aguda, crónica, daño hepático-crónico,
+
+15
+00:00:55,510 --> 00:00:58,630
+falla hepática, etcétera. Fíjense, son muchísimas,
+
+16
+00:00:58,670 --> 00:01:02,070
+pero todas ellas son suficientemente graves como para haber alterado
+
+17
+00:01:02,070 --> 00:01:05,350
+el funcionamiento del cerebro y que el paciente quede inconsciente.
+
+18
+00:01:05,350 --> 00:01:09,110
+Ahora, se suele clasificar de dos tipos en un compromiso
+
+19
+00:01:09,110 --> 00:01:11,910
+cualitativo de conciencia que suele ser un poco menos grave muchas
+
+20
+00:01:11,910 --> 00:01:15,790
+veces y el cuantitativo. Dentro del cualitativo está la
+
+21
+00:01:15,790 --> 00:01:19,670
+desorientación, la confusión, la inatención. El paciente está
+
+22
+00:01:19,670 --> 00:01:23,070
+despierto, ¿cierto?, pero no sabe en dónde está, se confunde.
+
+23
+00:01:23,070 --> 00:01:26,630
+En cambio, el cuantitativo es ya sea el que tiende a quedarse
+
+24
+00:01:26,630 --> 00:01:32,870
+dormido como un sopor superficial que es el que responde a un
+
+25
+00:01:32,870 --> 00:01:36,870
+estímulo verbal. Uno dice, oiga, señor, despierte y despierta el
+
+26
+00:01:36,870 --> 00:01:39,950
+sopor profundo que en cambio requiere un estímulo mucho
+
+27
+00:01:39,950 --> 00:01:43,070
+más fuerte para despertarlo, ejemplo, una maniobra de dolor,
+
+28
+00:01:43,070 --> 00:01:46,510
+¿cierto?, o un movimiento bien brusco y finalmente está el
+
+29
+00:01:46,510 --> 00:01:49,510
+paciente que está en coma que es el que no responde ni siquiera
+
+30
+00:01:49,510 --> 00:01:54,310
+a los estímulos dolorosos. Ahora, la escala de Glasgow es lo
+
+31
+00:01:54,350 --> 00:01:58,350
+que habitualmente uno utiliza como para ver el grado de
+
+32
+00:01:58,350 --> 00:02:02,470
+compromiso de conciencia de una forma objetiva y ahí están
+
+33
+00:02:02,470 --> 00:02:06,910
+cada uno de los puntos de la escala de Glasgow con el puntaje
+
+34
+00:02:06,910 --> 00:02:10,270
+que se le da a cada uno, pero a grandes rasgos el ocular,
+
+35
+00:02:10,270 --> 00:02:12,950
+¿cierto?, da cuatro puntos, la respuesta verbal da cinco
+
+36
+00:02:12,950 --> 00:02:16,750
+puntos y la parte motora da seis puntos. El máximo que se
+
+37
+00:02:16,750 --> 00:02:19,390
+puede obtener son 15 puntos, un paciente que está
+
+38
+00:02:19,390 --> 00:02:21,830
+absolutamente despierto y que responde, ¿cierto?, y el
+
+39
+00:02:21,870 --> 00:02:25,830
+mínimo son tres puntos que es el paciente que no abre los
+
+40
+00:02:25,830 --> 00:02:28,270
+ojos ni siquiera con un estímulo doloroso, que no
+
+41
+00:02:28,270 --> 00:02:30,550
+responde ni siquiera con un estímulo doloroso y que no
+
+42
+00:02:30,550 --> 00:02:33,990
+tiene ningún tipo de respuesta motora sin siquiera
+
+43
+00:02:33,990 --> 00:02:37,190
+un estímulo doloroso. Así que si está solamente
+
+44
+00:02:37,190 --> 00:02:39,990
+desorientado, o sea, no sabe en dónde está pero si
+
+45
+00:02:39,990 --> 00:02:42,670
+habla y si está con los ojos abiertos, en ese caso
+
+46
+00:02:42,670 --> 00:02:45,430
+tiene 14 puntos, eso hay que saberlo y si el paciente
+
+47
+00:02:45,430 --> 00:02:47,550
+está en coma y no responde a ningún tipo de estímulo,
+
+48
+00:02:47,550 --> 00:02:50,350
+en ese caso tiene tres puntos. Ahora, ¿cuál es el
+
+49
+00:02:50,390 --> 00:02:52,990
+manejo del compromiso de conciencia? Por la general es
+
+50
+00:02:52,990 --> 00:02:55,910
+el ABC porque suele ser una urgencia, un paciente que
+
+51
+00:02:55,910 --> 00:02:57,910
+está grave, ¿cierto?, más el buscar y tratar
+
+52
+00:02:57,910 --> 00:03:03,270
+activamente la causa. Lo único es que esta causa no
+
+53
+00:03:03,270 --> 00:03:05,710
+siempre es fácil de identificar porque el paciente
+
+54
+00:03:05,710 --> 00:03:09,110
+está inconsciente y no me da necesariamente una buena
+
+55
+00:03:09,110 --> 00:03:11,910
+historia clínica, pero como mínimo en un paciente
+
+56
+00:03:11,910 --> 00:03:15,150
+en que yo no tengo una causa clara es pedirle como
+
+57
+00:03:15,150 --> 00:03:18,630
+examen número uno la glicemia capilar, el hemogluco
+
+58
+00:03:18,670 --> 00:03:21,510
+test debido a que es un examen muy rápido y que si
+
+59
+00:03:21,510 --> 00:03:24,870
+está con una hipoglicemia o con un coma hiperglicémico,
+
+60
+00:03:24,870 --> 00:03:27,270
+¿cierto?, en ese caso lo puedo diagnosticar de
+
+61
+00:03:27,270 --> 00:03:29,950
+inmediato y lo puedo tratar de inmediato y aparte
+
+62
+00:03:29,950 --> 00:03:32,270
+de esto se pide un montón de otros exámenes con
+
+63
+00:03:32,270 --> 00:03:35,190
+la extensa lista que les recité hace un rato,
+
+64
+00:03:35,190 --> 00:03:37,550
+¿cierto?, así que se pide como mínimo hemograma,
+
+65
+00:03:37,550 --> 00:03:39,590
+el eclorito plasmático, función renal hepática,
+
+66
+00:03:39,590 --> 00:03:42,790
+etcétera. También hay que pedir una neuroimagen
+
+67
+00:03:42,790 --> 00:03:44,710
+en los casos en que no me queda claro yendo a
+
+68
+00:03:44,710 --> 00:03:47,430
+buscar las hemorragias, accidente vascular, etcétera,
+
+69
+00:03:47,430 --> 00:03:50,270
+¿cierto?, y se puede pedir ya sea un ataque como
+
+70
+00:03:50,270 --> 00:03:52,470
+examen inicial que puede ser más rápido o una
+
+71
+00:03:52,470 --> 00:03:54,870
+resonancia magnética nuclear como un examen que
+
+72
+00:03:54,870 --> 00:03:57,550
+dura más tiempo. Ya cuando no encuentro la causa
+
+73
+00:03:57,550 --> 00:04:00,630
+ahí empiezo a buscar algo más raro y ejemplo se
+
+74
+00:04:00,630 --> 00:04:03,150
+le pide un electroencefalograma en busca de un
+
+75
+00:04:03,150 --> 00:04:05,990
+estatus no convulsivo, etcétera. Ahora acuérdense
+
+76
+00:04:05,990 --> 00:04:08,510
+que si está la escala de Glasgow abajo de
+
+77
+00:04:08,510 --> 00:04:11,830
+nueve, como ocho o menos, en ese caso hay que
+
+78
+00:04:11,830 --> 00:04:14,550
+intubar y la gran mnemotecnia que hay acá
+
+79
+00:04:14,550 --> 00:04:19,110
+es Glasgow 8 intubate, así que en ese caso se
+
+80
+00:04:19,110 --> 00:04:22,390
+intuba desde ocho hacia abajo, ¿ya? Y por ahora
+
+81
+00:04:22,390 --> 00:04:24,510
+eso es todo, en los siguientes temas vamos a ver
+
+82
+00:04:24,510 --> 00:04:26,710
+algunas patologías que producen compromiso de
+
+83
+00:04:26,710 --> 00:04:28,870
+conciencia también, así que esto es algo que
+
+84
+00:04:28,870 --> 00:04:31,070
+da para largo, pero acuérdense buscar la
+
+85
+00:04:31,070 --> 00:04:33,790
+causa y saber que con Glasgow ocho o menos
+
+86
+00:04:33,790 --> 00:04:35,750
+se intuba y por favor nunca pongan Glasgow
+
+87
+00:04:35,750 --> 00:04:37,670
+cero porque al mínimo es tres. Nos vemos en
+
+88
+00:04:37,670 --> 00:04:38,670
+el siguiente video, que estén bien.

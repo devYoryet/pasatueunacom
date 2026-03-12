@@ -1,0 +1,947 @@
+1
+00:00:00,000 --> 00:00:06,930
+Ya vimos las generalidades de las demencias, ahora vamos a ver algunas causas
+
+2
+00:00:06,930 --> 00:00:10,290
+específicas. Vamos a ver la enfermedad de Alzheimer, la demencia vascular, la
+
+3
+00:00:10,290 --> 00:00:13,410
+demencia por cuerpos de Levy, la demencia por Parkinson, la demencia
+
+4
+00:00:13,410 --> 00:00:17,330
+frontotemporal y la hidrocefalia normotensiva. Y vamos a mencionar
+
+5
+00:00:17,330 --> 00:00:20,530
+algunas cosas de otras causas de demencia, pero de todas ellas es
+
+6
+00:00:20,530 --> 00:00:23,810
+importante saber si el cuadro clínico más o menos bien, debido a que
+
+7
+00:00:23,810 --> 00:00:27,850
+puede cambiar levemente el manejo. Empecemos con la enfermedad de
+
+8
+00:00:27,850 --> 00:00:31,210
+Alzheimer, recordando que es la demencia clásica, con la alteración
+
+9
+00:00:31,210 --> 00:00:36,250
+de la memoria reciente, la progresión lenta y la pérdida lenta
+
+10
+00:00:36,250 --> 00:00:40,650
+igualmente de las habilidades cognitivas. Y el TAC cuando se le
+
+11
+00:00:40,650 --> 00:00:44,890
+pide una imagen, habitualmente me muestra algún nivel de atrofia de la
+
+12
+00:00:44,890 --> 00:00:49,850
+corteza cerebral y puede verse un aumento del líquido eséfalo-requídeo
+
+13
+00:00:49,850 --> 00:00:53,650
+que baña las cisuras también. Ahora, ¿qué cosa pasa si es que yo tengo un
+
+14
+00:00:53,650 --> 00:00:57,650
+paciente con ese TAC, con una atrofia cerebral cierto, pero sin ningún
+
+15
+00:00:57,690 --> 00:01:01,450
+síntoma de demencia? Pues en ese caso es un paciente normal, en el
+
+16
+00:01:01,450 --> 00:01:05,090
+envejecimiento normal eventualmente sí se atrofe un poco el cerebro,
+
+17
+00:01:05,090 --> 00:01:08,290
+pero mientras no tenga síntomas, la verdad es que yo no puedo
+
+18
+00:01:08,290 --> 00:01:11,570
+diagnosticar al paciente de una demencia. Ahora, sí se le puede
+
+19
+00:01:11,570 --> 00:01:15,370
+advertir que es un marcador que eventualmente en el futuro le
+
+20
+00:01:15,370 --> 00:01:18,610
+aumenta el riesgo, pero la verdad es que eso es muchas veces
+
+21
+00:01:18,610 --> 00:01:23,050
+angustiar de manera innecesaria al paciente. Es simplemente el
+
+22
+00:01:23,050 --> 00:01:25,570
+comunicarle, usted tiene que estar pendiente de los síntomas y
+
+23
+00:01:25,570 --> 00:01:28,050
+mientras no tenga síntomas, la verdad es que usted es un paciente
+
+24
+00:01:28,050 --> 00:01:33,090
+totalmente sano. La demencia vascular en cambio, los factores de
+
+25
+00:01:33,090 --> 00:01:35,290
+riesgo que uno suele ver son los factores de riesgo
+
+26
+00:01:35,290 --> 00:01:38,890
+cardiovascular debido a que como su nombre lo dice es secundaria
+
+27
+00:01:38,890 --> 00:01:42,370
+a un evento vascular, de hecho son secundarias a accidentes
+
+28
+00:01:42,370 --> 00:01:45,370
+vasculares encefálicos, a veces viene con todos los signos
+
+29
+00:01:45,370 --> 00:01:49,610
+focales y con una clínica bastante evidente. Cierto ejemplo,
+
+30
+00:01:49,610 --> 00:01:52,410
+un paciente que tuvo un accidente vascular de arteria
+
+31
+00:01:52,410 --> 00:01:56,130
+cerebral media extenso y que quedó postrado y sin capacidad
+
+32
+00:01:56,130 --> 00:01:59,570
+de entender ni de hablar ni de hacer las cosas que
+
+33
+00:01:59,570 --> 00:02:02,810
+habitualmente hacía, pues quedó con una demencia vascular
+
+34
+00:02:02,810 --> 00:02:06,410
+secundaria al accidente vascular. Habitualmente ésta
+
+35
+00:02:06,410 --> 00:02:10,450
+viene con una progresión que es escalonada, dígase tiene un
+
+36
+00:02:10,450 --> 00:02:13,850
+accidente vascular ahora y empeora subitamente, cierto,
+
+37
+00:02:13,850 --> 00:02:17,490
+luego tiene a los pocos años o a los pocos meses un
+
+38
+00:02:17,490 --> 00:02:20,890
+segundo accidente vascular y va perdiendo otras funciones,
+
+39
+00:02:20,890 --> 00:02:25,210
+cierto, así que no se ve como una caída tan progresiva,
+
+40
+00:02:25,210 --> 00:02:28,450
+sino que es un poquito más marcada entre un accidente
+
+41
+00:02:28,450 --> 00:02:31,850
+vascular y otro. Además en algunos casos la imagen sí
+
+42
+00:02:31,850 --> 00:02:34,690
+muestra las secuelas del accidente vascular, ejemplo,
+
+43
+00:02:34,690 --> 00:02:38,010
+en un ataque o en una resonancia magnética nuclear se
+
+44
+00:02:38,010 --> 00:02:41,850
+puede ver algún área de cerebro que está faltando,
+
+45
+00:02:41,850 --> 00:02:45,810
+que se necrosó, cierto, y que se colicó después.
+
+46
+00:02:45,810 --> 00:02:49,690
+Hay que saber además un tipo de demencia vascular bien
+
+47
+00:02:49,730 --> 00:02:53,970
+específica que es la demencia vascular de tipo subcortical en
+
+48
+00:02:53,970 --> 00:02:57,770
+que lo que se afecta es la parte más interna del cerebro,
+
+49
+00:02:57,770 --> 00:03:01,210
+habitualmente con infartos bien pequeños y en este caso lo
+
+50
+00:03:01,210 --> 00:03:04,490
+más frecuente es que venga con apatía, con la habilidad
+
+51
+00:03:04,490 --> 00:03:07,810
+emocional, con lentitud mental, así como que se
+
+52
+00:03:07,810 --> 00:03:11,530
+vuelve más torpe desde el punto de vista cognitivo,
+
+53
+00:03:11,530 --> 00:03:15,770
+a veces viene con torpeza motora también y finalmente
+
+54
+00:03:15,770 --> 00:03:18,850
+lo que ya les había dicho la habilidad emocional.
+
+55
+00:03:18,850 --> 00:03:21,610
+Así que un paciente que venga con esa clínica hay que
+
+56
+00:03:21,610 --> 00:03:25,250
+saber, eso se asocia fuertemente a una demencia
+
+57
+00:03:25,250 --> 00:03:27,490
+vascular y hay que ir a buscarla dirigidamente en
+
+58
+00:03:27,490 --> 00:03:30,410
+particular, si es que de base además tiene los factores
+
+59
+00:03:30,410 --> 00:03:33,570
+de riesgo cardiovascular que habíamos dicho antes.
+
+60
+00:03:33,570 --> 00:03:36,090
+Está aparte la demencia por cuerpos de Levy que tiene
+
+61
+00:03:36,090 --> 00:03:37,810
+una clínica bien característica y que hay que
+
+62
+00:03:37,810 --> 00:03:40,090
+saberla por si acaso, que es que viene con
+
+63
+00:03:40,090 --> 00:03:43,130
+alucinaciones que muchas veces son complejas,
+
+64
+00:03:43,130 --> 00:03:47,250
+ya sea de tipo visual, como auditivas, como táctiles,
+
+65
+00:03:47,250 --> 00:03:49,050
+que pueden ser muy complejas.
+
+66
+00:03:49,050 --> 00:03:51,530
+Ejemplo, una llamada telefónica completa o una
+
+67
+00:03:51,530 --> 00:03:53,970
+conversación con una persona que no existe.
+
+68
+00:03:53,970 --> 00:03:56,210
+Segundo lugar, esta suele venir con un curso
+
+69
+00:03:56,210 --> 00:03:58,570
+fluctuante, pero a lo largo del tiempo,
+
+70
+00:03:58,570 --> 00:04:00,490
+a diferencia del lirium que tiene un curso
+
+71
+00:04:00,490 --> 00:04:03,290
+fluctuante durante el día, cierto.
+
+72
+00:04:03,290 --> 00:04:04,930
+Además, es muy frecuente que venga con
+
+73
+00:04:04,930 --> 00:04:05,770
+parkinsonismo.
+
+74
+00:04:05,770 --> 00:04:08,090
+Acuérdense que los cuerpos de Levy se ven también
+
+75
+00:04:08,090 --> 00:04:09,930
+en la enfermedad de Parkinson,
+
+76
+00:04:09,930 --> 00:04:13,530
+así que puede que venga con temblor de reposo,
+
+77
+00:04:13,970 --> 00:04:16,970
+con rigidez o con la bradicinesia,
+
+78
+00:04:16,970 --> 00:04:19,010
+la lentitud en los movimientos.
+
+79
+00:04:19,010 --> 00:04:21,290
+En el contexto del parkinsonismo se asocia
+
+80
+00:04:21,290 --> 00:04:23,610
+a caídas también, aunque las caídas son más
+
+81
+00:04:23,610 --> 00:04:26,250
+clásicas de la hidrocefalia normotensiva,
+
+82
+00:04:26,250 --> 00:04:28,130
+pero si viene con el resto de la clínica de una
+
+83
+00:04:28,130 --> 00:04:29,530
+demensa por cuerpos de Levy,
+
+84
+00:04:29,530 --> 00:04:32,130
+como las alucinaciones, hay que sospecharla.
+
+85
+00:04:32,130 --> 00:04:34,930
+Y finalmente, algo súper clásico es que empeoren
+
+86
+00:04:34,930 --> 00:04:37,010
+los síntomas con el uso de antipsicóticos.
+
+87
+00:04:37,010 --> 00:04:38,650
+Acuérdense que los antipsicóticos son
+
+88
+00:04:38,650 --> 00:04:41,330
+antidopaminérgicos y los cuerpos de Levy
+
+89
+00:04:41,330 --> 00:04:43,690
+igualmente destruyen los núcleos de la base
+
+90
+00:04:43,690 --> 00:04:46,530
+en donde se produce dopamina,
+
+91
+00:04:46,530 --> 00:04:49,290
+así que empeora tanto la demencia como
+
+92
+00:04:49,290 --> 00:04:52,570
+las alucinaciones, como el parkinsonismo
+
+93
+00:04:52,570 --> 00:04:54,570
+y habitualmente están contraindicados los
+
+94
+00:04:54,570 --> 00:04:56,530
+antipsicóticos en los pacientes con demencia
+
+95
+00:04:56,530 --> 00:04:58,010
+por cuerpos de Levy y si se les va a dejar
+
+96
+00:04:58,010 --> 00:05:00,810
+alguno quedan habitualmente con ketiapina.
+
+97
+00:05:00,810 --> 00:05:03,090
+En el caso de la demencia por Parkinson,
+
+98
+00:05:03,090 --> 00:05:05,090
+la verdad es que suele ser un paciente que tiene
+
+99
+00:05:05,090 --> 00:05:07,930
+una enfermedad de Parkinson de larga data,
+
+100
+00:05:07,930 --> 00:05:11,050
+de larga evolución y que solamente al final
+
+101
+00:05:12,050 --> 00:05:14,130
+empieza con la demencia, así que es al revés
+
+102
+00:05:14,130 --> 00:05:17,210
+y la demencia es muy importante desde el inicio,
+
+103
+00:05:17,210 --> 00:05:18,850
+en ese caso el diagnóstico es una demensa
+
+104
+00:05:18,850 --> 00:05:20,210
+por cuerpos de Levy.
+
+105
+00:05:20,210 --> 00:05:22,650
+Y si se requieren antipsicóticos en la demensa
+
+106
+00:05:22,650 --> 00:05:25,370
+por Parkinson, pues igualmente la ketiapina
+
+107
+00:05:25,370 --> 00:05:28,490
+o la clozapina son los fármacos de elección
+
+108
+00:05:28,490 --> 00:05:31,730
+debido justamente a que son los que tienen
+
+109
+00:05:31,730 --> 00:05:34,570
+menos efecto en el Parkinson,
+
+110
+00:05:34,570 --> 00:05:37,690
+menos efecto extrapiramidal.
+
+111
+00:05:37,690 --> 00:05:40,490
+Y en cambio la risperidona, el aloperidol
+
+112
+00:05:40,530 --> 00:05:42,650
+habitualmente están contraindicados en estos pacientes.
+
+113
+00:05:44,410 --> 00:05:46,250
+La otra que hay que saber y que viene igualmente
+
+114
+00:05:46,250 --> 00:05:47,850
+con un cuadro clínico bien característico
+
+115
+00:05:47,850 --> 00:05:49,850
+es la demencia frontotemporal.
+
+116
+00:05:49,850 --> 00:05:53,370
+En este caso me incluye la demencia de PIC
+
+117
+00:05:53,370 --> 00:05:55,410
+o de Newman-PIC, aunque hay otras causas
+
+118
+00:05:55,410 --> 00:05:57,290
+de demencia frontotemporal también.
+
+119
+00:05:57,290 --> 00:06:00,010
+En este caso la clínica o el síntoma
+
+120
+00:06:00,010 --> 00:06:03,290
+más importante es la desinhibición,
+
+121
+00:06:03,290 --> 00:06:06,490
+ya sea del lenguaje o de la conducta también.
+
+122
+00:06:07,570 --> 00:06:10,290
+Eventualmente puede que venga con desinhibición sexual
+
+123
+00:06:10,290 --> 00:06:12,610
+y es como un adulto mayor que se portaba
+
+124
+00:06:12,610 --> 00:06:15,290
+todo súper bien y de repente se pone
+
+125
+00:06:15,970 --> 00:06:19,890
+grosero, desubicado, empieza a manejar
+
+126
+00:06:19,890 --> 00:06:22,570
+a exceso de velocidad, a gastar dinero
+
+127
+00:06:22,570 --> 00:06:25,930
+de manera irresponsable, le agarra las piernas
+
+128
+00:06:25,930 --> 00:06:28,090
+a una persona en la calle, etcétera.
+
+129
+00:06:28,090 --> 00:06:30,170
+En ese caso hay que sospechar inmediatamente
+
+130
+00:06:30,170 --> 00:06:32,170
+una demencia frontotemporal.
+
+131
+00:06:32,170 --> 00:06:33,690
+Si es que es un paciente de 20 años
+
+132
+00:06:33,690 --> 00:06:35,770
+que está con eso, pues lo más probable
+
+133
+00:06:35,770 --> 00:06:37,010
+es que esté con un trastorno bipolar,
+
+134
+00:06:37,010 --> 00:06:39,530
+con una manía o con una hipomanía por si acaso.
+
+135
+00:06:40,690 --> 00:06:42,570
+En el caso de la demencia frontotemporal
+
+136
+00:06:42,570 --> 00:06:44,250
+es de aquellas que muchas veces viene
+
+137
+00:06:44,250 --> 00:06:46,770
+con la memoria conservada por si acaso
+
+138
+00:06:46,770 --> 00:06:51,250
+y en la TAC a veces se ve la atrofia
+
+139
+00:06:51,250 --> 00:06:54,410
+de los lóbulos frontales y temporales también,
+
+140
+00:06:54,410 --> 00:06:56,130
+que es algo que se podía ver igualmente
+
+141
+00:06:56,130 --> 00:06:58,850
+en la esquizofrenia en los pacientes más jóvenes.
+
+142
+00:06:58,850 --> 00:07:01,850
+Así que la imagen nuevamente no es lo que me hace
+
+143
+00:07:01,850 --> 00:07:04,330
+el diagnóstico, lo que hace el diagnóstico
+
+144
+00:07:04,330 --> 00:07:06,770
+es el cuadro clínico de desinhibición
+
+145
+00:07:06,770 --> 00:07:09,690
+más la afectación progresiva del resto
+
+146
+00:07:09,690 --> 00:07:11,130
+de las funciones cognitivas.
+
+147
+00:07:11,130 --> 00:07:13,010
+Recordando nuevamente que en el Alzheimer
+
+148
+00:07:13,010 --> 00:07:14,210
+se afectaba mucho la memoria,
+
+149
+00:07:14,210 --> 00:07:16,090
+en cambio en la demencia frontotemporal
+
+150
+00:07:16,090 --> 00:07:20,770
+muchas veces la memoria está bastante conservada.
+
+151
+00:07:20,770 --> 00:07:22,530
+La demencia frontotemporal es más frecuente
+
+152
+00:07:22,530 --> 00:07:24,090
+en el adulto mayor, pero igualmente
+
+153
+00:07:24,090 --> 00:07:26,650
+puede ocurrir en pacientes algo más jóvenes,
+
+154
+00:07:26,650 --> 00:07:28,810
+ejemplo en menores de 60 años,
+
+155
+00:07:28,810 --> 00:07:31,290
+pero repito lo más frecuente es que sea
+
+156
+00:07:31,290 --> 00:07:32,890
+arriba de los 65 años.
+
+157
+00:07:33,970 --> 00:07:36,530
+Finalmente está la hidrocefalia normotensiva
+
+158
+00:07:36,530 --> 00:07:38,370
+que es un cuadro clínico que hay que saber
+
+159
+00:07:38,410 --> 00:07:40,410
+con bastante detalles también,
+
+160
+00:07:40,410 --> 00:07:42,650
+que suele ser un poco más rápida
+
+161
+00:07:42,650 --> 00:07:44,810
+en su instalación, más subaguda
+
+162
+00:07:44,810 --> 00:07:46,770
+y que viene con una triada.
+
+163
+00:07:46,770 --> 00:07:49,450
+Número uno, con síntomas motores importantes
+
+164
+00:07:49,450 --> 00:07:52,490
+que son la torpeza motora, las caídas
+
+165
+00:07:52,490 --> 00:07:55,530
+y eventualmente una marcha mucho más lenta.
+
+166
+00:07:55,530 --> 00:07:58,130
+Segundo lugar, la incontinencia urinaria
+
+167
+00:07:58,130 --> 00:07:59,930
+que es algo que no siempre se ve
+
+168
+00:07:59,930 --> 00:08:03,050
+en los pacientes iniciales,
+
+169
+00:08:03,050 --> 00:08:05,690
+pero que sí se puede ver de manera más tardía
+
+170
+00:08:05,730 --> 00:08:09,570
+y finalmente la demencia, esas son la triada.
+
+171
+00:08:09,570 --> 00:08:12,730
+Dígase síntomas motores que incluye caídas,
+
+172
+00:08:12,730 --> 00:08:14,530
+incontinencia y demencia.
+
+173
+00:08:14,530 --> 00:08:16,170
+En este caso, como su nombre lo dice,
+
+174
+00:08:16,170 --> 00:08:18,730
+hidrocefalia normotensiva viene con un ataque
+
+175
+00:08:18,730 --> 00:08:21,250
+o con una resonancia que muestra hidrocefalia,
+
+176
+00:08:21,250 --> 00:08:23,370
+dígase aumento de líquido de cefalorrequídeo
+
+177
+00:08:23,370 --> 00:08:28,130
+en los ventrículos del cerebro
+
+178
+00:08:28,130 --> 00:08:32,690
+y en la zona que está alrededor del cerebro,
+
+179
+00:08:32,690 --> 00:08:34,490
+en las inconvulsiones, por ejemplo,
+
+180
+00:08:34,490 --> 00:08:37,690
+en las cizuras y finalmente la punción lumbar,
+
+181
+00:08:37,690 --> 00:08:40,850
+en este caso me muestra que hay una presión
+
+182
+00:08:40,850 --> 00:08:43,090
+de líquido de cefalorrequídeo que está normal
+
+183
+00:08:43,090 --> 00:08:45,930
+y de ahí viene el nombre hidrocefalia normotensiva
+
+184
+00:08:45,930 --> 00:08:48,010
+porque hay hidrocefalia en la imagen,
+
+185
+00:08:48,010 --> 00:08:50,290
+pero con normotensión en la punción lumbar
+
+186
+00:08:50,290 --> 00:08:53,450
+y se requiere de ambas cosas para confirmar el diagnóstico.
+
+187
+00:08:53,450 --> 00:08:55,090
+Si es que en cambio la TAC me muestra
+
+188
+00:08:55,090 --> 00:08:57,690
+alguna causa secundaria de hidrocefalia
+
+189
+00:08:57,690 --> 00:08:59,530
+o si es que está hipertensiva,
+
+190
+00:08:59,530 --> 00:09:01,570
+en ese caso dirigidamente hay que ir a buscar
+
+191
+00:09:01,610 --> 00:09:05,930
+alguna causa de obstrucción del sistema de reabsorción
+
+192
+00:09:05,930 --> 00:09:07,770
+de líquido de cefalorrequídeo, entre otras,
+
+193
+00:09:07,770 --> 00:09:09,650
+y ya deja de ser ese diagnóstico
+
+194
+00:09:09,650 --> 00:09:12,690
+y se busca una causa secundaria de hidrocefalia.
+
+195
+00:09:12,690 --> 00:09:14,490
+Ahora, no conjuntamos esto
+
+196
+00:09:14,490 --> 00:09:17,490
+con la hipertensión endocraniana idiopática
+
+197
+00:09:17,490 --> 00:09:18,650
+que era todo lo contrario,
+
+198
+00:09:18,650 --> 00:09:20,890
+en este caso era un TAC normal,
+
+199
+00:09:20,890 --> 00:09:23,890
+pero con una presión de líquido de cefalorrequídeo
+
+200
+00:09:23,890 --> 00:09:26,130
+en la punción lumbar que estaba aumentada
+
+201
+00:09:26,130 --> 00:09:27,610
+y que no venía con demencia,
+
+202
+00:09:27,610 --> 00:09:30,970
+sino que venía con un síndrome de hipertensión endocraniana
+
+203
+00:09:30,970 --> 00:09:33,810
+que si se acuerdan era cefalea, náuseas y gómitos
+
+204
+00:09:33,810 --> 00:09:36,970
+y el edema de papila también.
+
+205
+00:09:36,970 --> 00:09:39,770
+Y finalmente cuando venía con algún compromiso de algo
+
+206
+00:09:39,770 --> 00:09:41,250
+era de ciertos nervios,
+
+207
+00:09:41,250 --> 00:09:45,530
+en particular el sexto nervio cranial o abducente
+
+208
+00:09:45,530 --> 00:09:47,290
+y el nervio óptico.
+
+209
+00:09:47,290 --> 00:09:49,530
+Ahora, si un paciente está con demencia
+
+210
+00:09:49,530 --> 00:09:51,930
+que se instala muy rápido de manera subaguda,
+
+211
+00:09:51,930 --> 00:09:54,530
+hay que sospechar algunas causas un poco distintas.
+
+212
+00:09:54,530 --> 00:09:57,930
+Dentro de ésta la hidrocefalia normotensiva
+
+213
+00:09:57,930 --> 00:09:59,610
+es la clásica y es la que mencionamos ahora
+
+214
+00:09:59,610 --> 00:10:03,410
+que acuérdense venía contrapesa motora en continencia urinaria
+
+215
+00:10:03,410 --> 00:10:06,810
+y las otras dos son la por VIH y la por priones
+
+216
+00:10:06,810 --> 00:10:11,170
+que la más clásica es la enfermedad de vaca loca
+
+217
+00:10:11,170 --> 00:10:12,930
+o de Creutzfeldt-Jakob,
+
+218
+00:10:12,930 --> 00:10:16,290
+pero hay algunas otras como la por comer cesos de mono,
+
+219
+00:10:16,290 --> 00:10:18,410
+por ejemplo, así que es parte de las cosas
+
+220
+00:10:18,410 --> 00:10:19,770
+que hay que preguntarle a un paciente
+
+221
+00:10:19,770 --> 00:10:22,090
+que está con una demencia de instalación subaguda.
+
+222
+00:10:22,090 --> 00:10:25,850
+Y finalmente, si es que viene con síntomas depresivos además,
+
+223
+00:10:25,890 --> 00:10:31,530
+hay que preguntarse qué fue primero la depresión o la demencia,
+
+224
+00:10:31,530 --> 00:10:33,610
+el huevo o la gallina, ¿cierto?
+
+225
+00:10:33,610 --> 00:10:35,330
+Así que la pregunta es,
+
+226
+00:10:35,330 --> 00:10:37,850
+¿está con una pseudo demencia por depresión
+
+227
+00:10:37,850 --> 00:10:41,850
+o está con una demencia real que se complicó con una depresión?
+
+228
+00:10:41,850 --> 00:10:43,930
+Y acuérdense que la gran diferencia entre ambas
+
+229
+00:10:43,930 --> 00:10:46,250
+es que la pseudo demencia por depresión
+
+230
+00:10:46,250 --> 00:10:48,930
+responde por completo al tratamiento antidepresivo,
+
+231
+00:10:48,930 --> 00:10:53,170
+ejemplo, se le inicia la septalina o el citalopram, ¿cierto?
+
+232
+00:10:53,170 --> 00:10:55,610
+Y el paciente no solamente que mejora de su ánimo,
+
+233
+00:10:55,610 --> 00:10:57,890
+sino que mejora también de su memoria
+
+234
+00:10:57,890 --> 00:11:00,490
+y de sus funciones cognitivas superiores.
+
+235
+00:11:00,490 --> 00:11:02,490
+Y bueno, eso es todo, algo un poco largo,
+
+236
+00:11:02,490 --> 00:11:03,970
+pero espero que haya quedado claro.
+
+237
+00:11:03,970 --> 00:11:05,970
+Nos vemos en el siguiente tema, que estén bien.

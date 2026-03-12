@@ -1,0 +1,195 @@
+1
+00:00:00,000 --> 00:00:07,210
+Hola, hola, ¿cómo están? Hablemos de el coma mixedematoso que acuérdense que es la
+
+2
+00:00:07,210 --> 00:00:11,670
+forma más grave del hipotiroidismo con una alta letalidad según vamos a ver
+
+3
+00:00:11,670 --> 00:00:15,530
+después y recordemos su clínica que en general viene con todas las cosas del
+
+4
+00:00:15,530 --> 00:00:19,210
+hipotiroidismo intolerancia al frío, astenia, dinamia, constipación, etcétera
+
+5
+00:00:19,210 --> 00:00:23,730
+más que se agrava mucho y aparece compromiso de conciencia. Además es
+
+6
+00:00:23,730 --> 00:00:28,290
+muy frecuente que venga con mixedema generalizado y acuérdense que el
+
+7
+00:00:28,290 --> 00:00:32,330
+mixedema es un edema duro sin el signo de la fobia, cierto, a diferencia
+
+8
+00:00:32,330 --> 00:00:36,250
+de los edemas blandos de la insuficiencia cardiaca, por ejemplo, y se puede ver
+
+9
+00:00:36,250 --> 00:00:40,490
+igualmente con macroglosia que es porque hay mixedema a nivel de la
+
+10
+00:00:40,490 --> 00:00:45,850
+lengua también. Es muy frecuente que venga con hipotermia, con bradypnea, o sea
+
+11
+00:00:45,850 --> 00:00:49,410
+con una caída en la frecuencia respiratoria, con bradycardia a veces
+
+12
+00:00:49,410 --> 00:00:53,810
+viene choqueado, igualmente de eso se muere, con hiponatremia, con
+
+13
+00:00:53,810 --> 00:00:58,050
+hipoglicemias que se puede morir de eso igualmente, de la hiponatremia
+
+14
+00:00:58,090 --> 00:01:02,730
+de la hipoglicemia y con arreflexia habitualmente generalizada. El
+
+15
+00:01:02,730 --> 00:01:07,450
+diagnóstico se hace con la clínica más las pruebas de función tiroidea.
+
+16
+00:01:07,450 --> 00:01:11,770
+Habitualmente la T4 libre está muy disminuida, la TCH en cambio suele
+
+17
+00:01:11,770 --> 00:01:17,690
+estar muy elevada. Ahora, la gran excepción, acuérdense, es el
+
+18
+00:01:17,690 --> 00:01:22,130
+hipotiroidismo secundario de causa hipoficiaria que igualmente se puede
+
+19
+00:01:22,130 --> 00:01:25,850
+ver como un coma mixedematoso, aunque habitualmente viene con otras
+
+20
+00:01:25,850 --> 00:01:30,490
+cosas además, ejemplo con una crisis super renal asociada y en
+
+21
+00:01:30,490 --> 00:01:35,690
+este caso la TCH está baja, ¿cierto? ¿Cuál es el tratamiento? ¿Cuál es el
+
+22
+00:01:35,690 --> 00:01:40,050
+manejo del coma mixedematoso? Hay que saberlo. En primer lugar o como
+
+23
+00:01:40,050 --> 00:01:44,250
+número cero antes de hacer cualquier otra cosa, el soporte, conectar los
+
+24
+00:01:44,250 --> 00:01:48,090
+ventilador mecánico si es que es necesario, darle suero, el manejarle su
+
+25
+00:01:48,090 --> 00:01:53,010
+hipoglicemia, etcétera. Segundo lugar los corticoides endovenosos, ejemplo
+
+26
+00:01:53,010 --> 00:01:56,970
+hidrocortisona en el sentido en que muchas veces se asocia a una
+
+27
+00:01:56,970 --> 00:02:01,570
+insuficiencia super renal aguda severa también y si es que yo no le doy los
+
+28
+00:02:01,570 --> 00:02:05,810
+corticoides antes de la levotiroxina lo puedo descompensar. En tercer lugar
+
+29
+00:02:05,810 --> 00:02:10,530
+la levotiroxina que se da por vía endovenosa, si es que no hay por vía
+
+30
+00:02:10,530 --> 00:02:14,530
+endovenosa se puede dar por una sonda nasogástrica, ¿cierto? Para que
+
+31
+00:02:14,530 --> 00:02:19,010
+vaya con una dosis alta, con una carga relativamente alta, ejemplo 400
+
+32
+00:02:19,010 --> 00:02:23,490
+microgramos de una y luego de eso se mantiene por algunos días con dosis
+
+33
+00:02:23,490 --> 00:02:28,370
+altas también, no tan altas como la dosis de carga pero que quede claro no
+
+34
+00:02:28,370 --> 00:02:31,610
+es la dosis habitual de 100 miligramos al día en un hipotiroidismo
+
+35
+00:02:31,610 --> 00:02:35,870
+comunicorriente. Y finalmente se recomienda en la actualidad darle
+
+36
+00:02:35,870 --> 00:02:40,410
+triyudo tironina o T3 endovenosa además. Fíjense esta es una de las
+
+37
+00:02:40,410 --> 00:02:44,610
+pocas excepciones en que se usa la T3 como parte del manejo de alguna
+
+38
+00:02:44,610 --> 00:02:48,010
+enfermedad pero en este caso está tan grave, está tan descompensado que
+
+39
+00:02:48,010 --> 00:02:53,050
+se da tanto la T4 que es lo más importante como la T3 por vía, repito,
+
+40
+00:02:53,050 --> 00:02:57,290
+endovenosa si es que está disponible. Es un cuadro con una letalidad muy alta
+
+41
+00:02:57,290 --> 00:03:01,770
+entre 30 y 50 por ciento, en promedio un 40 por ciento y por lo mismo hay
+
+42
+00:03:01,770 --> 00:03:05,330
+que saber sospecharlo y diagnosticarlo, ejemplo en alguien con compromisos de
+
+43
+00:03:05,330 --> 00:03:09,130
+conciencia y con una hipoglicemia, no solamente hay que manejarle su
+
+44
+00:03:09,130 --> 00:03:12,650
+hipoglicemia hay que ir a buscar alguna de estas otras causas, hay
+
+45
+00:03:12,650 --> 00:03:16,170
+que tratarlo de manera urgente y hay que estar monitorizando
+
+46
+00:03:16,170 --> 00:03:20,050
+continuamente sus complicaciones en particular la hiponatremia, ¿cierto?, más
+
+47
+00:03:20,050 --> 00:03:23,890
+la hipoglicemia que son de las cosas que puede descompensarlo más, bueno,
+
+48
+00:03:23,890 --> 00:03:26,810
+más los signos vitales obviamente. Eso es todo, nos vemos en los
+
+49
+00:03:26,810 --> 00:03:29,730
+siguientes temas, que estén bien.

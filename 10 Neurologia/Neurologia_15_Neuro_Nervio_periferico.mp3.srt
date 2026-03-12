@@ -1,0 +1,363 @@
+1
+00:00:00,000 --> 00:00:07,130
+Hola, hola. En este vídeo vamos a hablar de las patologías del nervio periférico,
+
+2
+00:00:07,130 --> 00:00:11,010
+en específico las polineuropatías y la mononeuritis múltiple, que no son lo
+
+3
+00:00:11,010 --> 00:00:15,450
+mismo por si acaso. Empecemos con las polineuropatías. Recuerden que la
+
+4
+00:00:15,450 --> 00:00:19,730
+etiología es bastante variada, pero la diabetes es por lejos la causa más
+
+5
+00:00:19,730 --> 00:00:23,130
+frecuente. Algunas otras que las menciono muy rápido, las enfermedades
+
+6
+00:00:23,130 --> 00:00:28,010
+metabólicas, el alcoholismo, las asociadas a algunos fármacos o algunos
+
+7
+00:00:28,010 --> 00:00:33,250
+otros tóxicos, la por VIH, la por déficit de algunas vitaminas, que es la
+
+8
+00:00:33,250 --> 00:00:37,890
+más clásica, es la por déficit de B12 y la por déficit de B6, en
+
+9
+00:00:37,890 --> 00:00:42,890
+contexto de los pacientes que usan isoniazidia de manera crónica en el
+
+10
+00:00:42,890 --> 00:00:47,330
+tratamiento de la tuberculosis, por causas genéticas, etc.
+
+11
+00:00:47,330 --> 00:00:51,130
+La clínica, acuérdense que suele afectarse tanto la parte
+
+12
+00:00:51,130 --> 00:00:54,730
+sensitiva como la parte motora del nervio periférico, pero lo que se
+
+13
+00:00:54,730 --> 00:00:59,830
+afecta más es la sensibilidad y en específico es de predominio distal
+
+14
+00:00:59,830 --> 00:01:04,530
+tanto de la parte sensitiva como de la parte motora, así que uno habla
+
+15
+00:01:04,530 --> 00:01:09,090
+de una hipoestesia en guante y calcetín. Dígase, lo que más afecta son los
+
+16
+00:01:09,090 --> 00:01:13,310
+pies y las manos más que el resto del cuerpo. Segundo lugar, el tipo de
+
+17
+00:01:13,310 --> 00:01:17,290
+alteración sensitiva suele ser fundamentalmente con disminución de
+
+18
+00:01:17,290 --> 00:01:21,490
+la sensibilidad termalgésica, terma la temperatura,
+
+19
+00:01:21,570 --> 00:01:27,330
+y algésica, dígase, el dolor. En segundo lugar, la disminución de la
+
+20
+00:01:27,330 --> 00:01:31,570
+sensibilidad vibratoria que se hace con una prueba de diapasón y al estar
+
+21
+00:01:31,570 --> 00:01:35,370
+disminuida uno habla de una hipopalestesia, así que no me
+
+22
+00:01:35,370 --> 00:01:40,850
+confundan la parestecia, cierto, que son estas sensaciones de
+
+23
+00:01:40,850 --> 00:01:44,970
+hormigueo con la palestesia que en cambio es la sensibilidad
+
+24
+00:01:44,970 --> 00:01:49,610
+vibratoria que en este caso está disminuido, dígase, hay una hipopalestesia.
+
+25
+00:01:49,610 --> 00:01:55,250
+En segundo lugar, está lo relacionado con la debilidad, en este caso suele
+
+26
+00:01:55,250 --> 00:01:58,890
+ser una debilidad igualmente de periodomínio distal con atrofe
+
+27
+00:01:58,890 --> 00:02:03,730
+muscular hiporreflexia y en general con un síndrome de nervación, cierto, de
+
+28
+00:02:03,730 --> 00:02:06,650
+segunda motoneurona, porque lo que se está afectando justamente el
+
+29
+00:02:06,650 --> 00:02:11,290
+nervio periférico. O sea, en resumen, alteración sensitiva y motora de
+
+30
+00:02:11,290 --> 00:02:14,770
+periodomínio distal con predominio de la afectación sensitiva,
+
+31
+00:02:14,770 --> 00:02:19,650
+vibratoria y termalgésica, eso es el cuadro clínico más clásico. El
+
+32
+00:02:19,650 --> 00:02:23,730
+diagnóstico es absolutamente clínico, pero sepan que hay algunos casos en
+
+33
+00:02:23,730 --> 00:02:29,610
+que uno sí pide una electromigrafía como para objetivarlo y en resumen se
+
+34
+00:02:29,610 --> 00:02:33,530
+pide cuando no hay una causa que quede clara, ejemplo, un paciente que no es
+
+35
+00:02:33,530 --> 00:02:37,650
+diabético, cuando es muy grave o rápidamente progresiva, que me queda la
+
+36
+00:02:37,650 --> 00:02:40,490
+duda será alguna otra cosa, una mononeurotis múltiple por ejemplo,
+
+37
+00:02:40,490 --> 00:02:44,170
+cuando es de predominio motor, que ya dijimos que lo más frecuente era
+
+38
+00:02:44,170 --> 00:02:47,130
+que fuera de predominio sensitivo y cuando me queda la duda diagnóstica en
+
+39
+00:02:47,130 --> 00:02:52,410
+general. O sea, si es que no parece una clásica polineuropatía diabética leve
+
+40
+00:02:52,410 --> 00:02:56,370
+que va aumentando, que va avanzando lentamente, en ese caso se pide una
+
+41
+00:02:56,370 --> 00:03:01,050
+electromigrafía. En cambio, si es que parece una polineuropatía diabética
+
+42
+00:03:01,050 --> 00:03:06,570
+clásica y que no está severa, en ese caso no es necesario pedirla y
+
+43
+00:03:06,570 --> 00:03:09,970
+bastan las pruebas clínicas, cierto, como la prueba de diapasones, del
+
+44
+00:03:10,450 --> 00:03:16,690
+del monofilamento, etcétera, como para concluir que efectivamente es una
+
+45
+00:03:16,690 --> 00:03:21,010
+polineuropatía diabética. El tratamiento de las polineuropatías
+
+46
+00:03:21,010 --> 00:03:25,050
+por relaciones generales es el tratamiento de la causa, sabiendo que muchas veces
+
+47
+00:03:25,050 --> 00:03:29,690
+no se recupera el daño perdido, sino que simplemente uno evita que siga
+
+48
+00:03:29,690 --> 00:03:33,450
+avanzando, que siga empeorando la alteración sensitiva, la atrofe
+
+49
+00:03:33,450 --> 00:03:39,450
+muscular, etcétera, y más el soporte dentro de lo cual el cuidar los pies
+
+50
+00:03:39,450 --> 00:03:42,930
+en el caso de los pacientes diabéticos es una de las cosas fundamentales como
+
+51
+00:03:42,930 --> 00:03:47,530
+para evitar que suceren, que tengan heridas al haber disminuido la
+
+52
+00:03:47,530 --> 00:03:51,850
+sensibilidad al dolor, por ejemplo, y al asociarse además a la
+
+53
+00:03:51,850 --> 00:03:54,890
+basculopatía clásica de los pacientes diabéticos de manera de
+
+54
+00:03:54,890 --> 00:03:58,490
+evitar que justamente terminen con una amputación, con una infección, con
+
+55
+00:03:58,490 --> 00:04:02,930
+algo así. Vemos ahora el otro tema, la mononeuritis múltiple. En este caso
+
+56
+00:04:02,930 --> 00:04:07,450
+recordemos que su etiología es autoinmune, pero en particular las
+
+57
+00:04:07,450 --> 00:04:12,530
+vasculitis de vaso pequeño, ya sea las vasculitis primarias de vaso
+
+58
+00:04:12,530 --> 00:04:15,610
+pequeño como la poliengitis microscópica y la vasculitis de
+
+59
+00:04:15,610 --> 00:04:21,890
+Wegener o granulomatosis de Wegener o la poliengitis con granulomatosis o
+
+60
+00:04:21,890 --> 00:04:26,490
+granulomatosis con poliengitis, como quieran llamarla da lo mismo, como las
+
+61
+00:04:26,490 --> 00:04:30,330
+secundarias a otras enfermedades autoinmunes como la vasculitis
+
+62
+00:04:30,330 --> 00:04:35,210
+asociada a artritis rhumatoide o la vasculitis asociada a lupus. El cuadro
+
+63
+00:04:35,210 --> 00:04:40,010
+clínico es un poco distinto en el sentido en que hay una afectación que
+
+64
+00:04:40,010 --> 00:04:44,810
+es asimétrica pero de distintos nervios y raíces. De ahí viene como el nombre
+
+65
+00:04:44,810 --> 00:04:49,330
+mononeuritis múltiple en el sentido en que es una mononeuritis, ejemplo se
+
+66
+00:04:49,330 --> 00:04:54,370
+me afecta el nervio mediano de un lado, el femoral del otro, el cubital
+
+67
+00:04:54,370 --> 00:05:01,610
+del otro lado más S1 de un lado y L4 y T5 del otro, pero de manera
+
+68
+00:05:01,610 --> 00:05:07,490
+asimétrica y son múltiples raíces y múltiples nervios los que se afectan
+
+69
+00:05:07,490 --> 00:05:12,810
+debido a que justamente la vasculitis va afectando la basa nervorum de estos
+
+70
+00:05:12,810 --> 00:05:16,170
+nervios y se genera este déficit específico de cada uno de estos
+
+71
+00:05:16,170 --> 00:05:19,810
+nervios. La polineuropatía que es lo que vimos antes en cambio es una
+
+72
+00:05:19,810 --> 00:05:25,130
+afectación súper difusa. Acá es múltiple, se afecta en varios lugares
+
+73
+00:05:25,130 --> 00:05:30,650
+pero de manera bien como delimitada a cada una de estas raíces o cada uno
+
+74
+00:05:30,650 --> 00:05:34,490
+de estos nervios que están afectados. Además es frecuente que venga con
+
+75
+00:05:34,490 --> 00:05:39,650
+reflexia y con debilidad, dígase con un síndrome de segunda motoneurona pero
+
+76
+00:05:39,650 --> 00:05:43,530
+repito, localizado en estos nervios y raíces específicas que están
+
+77
+00:05:43,530 --> 00:05:48,130
+afectadas. El diagnóstico suele ser clínico también aunque en este caso
+
+78
+00:05:48,130 --> 00:05:51,890
+sí se suele pedir una electromyografía que justamente objetiva
+
+79
+00:05:51,890 --> 00:05:56,410
+la disminución de la conducción en algunos nervios. En algunos casos hay
+
+80
+00:05:56,410 --> 00:05:59,810
+que pedir además una biopsia de nervio que muestra la vasculitis de la
+
+81
+00:05:59,810 --> 00:06:04,490
+basa nervorum cierto, más los exámenes en busca de la causa. Dígase
+
+82
+00:06:04,490 --> 00:06:07,450
+hay que pedirle al menos un factor rhumatoide y unos hannas como para
+
+83
+00:06:07,450 --> 00:06:12,610
+ver la trítis rhumatoide y el lupus y unos hanka para ir a buscar las
+
+84
+00:06:12,610 --> 00:06:17,210
+vasculitis primarias como la PAM y la vasculitis de Wegener. Finalmente el
+
+85
+00:06:17,210 --> 00:06:21,570
+tratamiento es el tratamiento de la causa y lo más frecuente es que las
+
+86
+00:06:21,570 --> 00:06:25,410
+mononilitis múltiples se manejen como las vasculitis dígase con
+
+87
+00:06:25,410 --> 00:06:29,650
+corticoides más inmunosupresores como el rituximab o la ciclofosfamida.
+
+88
+00:06:30,130 --> 00:06:33,330
+Y pues bien eso es todo lo que hay que saber y de la mononilitis múltiples
+
+89
+00:06:33,330 --> 00:06:36,850
+lo más importante es saber el cuadro clínico por si acaso. Dígase
+
+90
+00:06:36,850 --> 00:06:40,850
+afectación múltiples pero localizadas en solamente algunos
+
+91
+00:06:40,850 --> 00:06:43,490
+nervios secundarios una vasculitis. Nos vemos en los siguientes temas.

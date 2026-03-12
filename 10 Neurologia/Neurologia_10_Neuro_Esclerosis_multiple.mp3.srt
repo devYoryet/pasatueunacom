@@ -1,0 +1,527 @@
+1
+00:00:00,000 --> 00:00:06,740
+Hola, hola. En este vídeo vamos a hablar de la esclerosis múltiple, que es una
+
+2
+00:00:06,740 --> 00:00:11,420
+enfermedad que hay que saber por si acaso. Su etiología es autoinmune, es una
+
+3
+00:00:11,420 --> 00:00:15,380
+enfermedad desmielinizante en la cual se afecta fundamentalmente la
+
+4
+00:00:15,380 --> 00:00:19,580
+sustancia blanca del sistema nervioso central. Recuerden que la vaina de
+
+5
+00:00:19,580 --> 00:00:24,540
+mielina al sistema nervioso central estaba hecha por los oligodendrocitos,
+
+6
+00:00:24,540 --> 00:00:28,260
+en cambio la vaina de mielina al sistema nervioso periférico era por
+
+7
+00:00:28,260 --> 00:00:34,020
+la célula de Schwann, y en este caso la esclerosis múltiple solamente afecta a
+
+8
+00:00:34,020 --> 00:00:40,700
+la mielina central, al sistema nervioso central que incluye, si bien no como
+
+9
+00:00:40,700 --> 00:00:44,580
+estructura, pero sí desde el punto de vista histológico, al nervio óptico
+
+10
+00:00:44,580 --> 00:00:49,300
+por si acaso. El cuadro clínico habitualmente son signos focales
+
+11
+00:00:49,300 --> 00:00:52,340
+justamente porque se afecta al sistema nervioso central que se va
+
+12
+00:00:52,340 --> 00:00:56,620
+desmielinizando en distintos focos. Es muy raro que tenga afacia debido
+
+13
+00:00:56,780 --> 00:01:03,580
+a que la afacia es de la sustancia gris, es de la corteza cerebral que no se
+
+14
+00:01:03,580 --> 00:01:07,260
+afecta en la esclerosis múltiple, pero sí puede venir con hemiparesia,
+
+15
+00:01:07,260 --> 00:01:11,980
+hemihipoestesia, etcétera. Segundo lugar, es extremadamente frecuente la
+
+16
+00:01:11,980 --> 00:01:16,940
+neuritis óptica debido a lo que acabamos de explicar, que la mielina
+
+17
+00:01:16,940 --> 00:01:21,060
+del nervio óptico es una mielina de tipo central con oligodendrocitos,
+
+18
+00:01:22,020 --> 00:01:27,460
+y además hay algunos síntomas que no son tan fáciles de intuir,
+
+19
+00:01:27,460 --> 00:01:31,100
+pero que se describen con cierta frecuencia en la esclerosis múltiple
+
+20
+00:01:31,100 --> 00:01:36,260
+que es la intolerancia al calor y aparte de esto un signo en que se
+
+21
+00:01:36,260 --> 00:01:39,860
+siente como un ramalazo eléctrico al hiper extender el cuello.
+
+22
+00:01:39,860 --> 00:01:43,780
+Esas dos cosas son parte de los criterios diagnósticos de hecho de la
+
+23
+00:01:43,780 --> 00:01:46,940
+esclerosis múltiple en que los síntomas eventualmente aumentan con
+
+24
+00:01:46,940 --> 00:01:51,420
+el calor y que se produce este fenómeno tan raro como una sensación
+
+25
+00:01:51,420 --> 00:01:56,580
+de descarga eléctrica del cuello. Habitualmente, como es una enfermedad
+
+26
+00:01:56,580 --> 00:02:00,620
+autoinmune, suele venir en brotes. Estos brotes suelen durar algunos
+
+27
+00:02:00,620 --> 00:02:04,540
+pocos días a unas pocas semanas. Lo más clásico es que duran una
+
+28
+00:02:04,540 --> 00:02:09,620
+o dos semanas y nada más y que estos síntomas, ejemplo una hemiparesia
+
+29
+00:02:09,620 --> 00:02:14,420
+o una amaurosis cierto, se recuperan ya sea de manera total o de
+
+30
+00:02:14,420 --> 00:02:18,740
+manera parcial. En el caso de los pacientes que se recupera solamente de
+
+31
+00:02:18,740 --> 00:02:22,700
+manera parcial van quedando con secuelas a medida que va pasando el
+
+32
+00:02:22,700 --> 00:02:26,500
+tiempo y por lo mismo es tan importante detectarla tempranamente y
+
+33
+00:02:26,500 --> 00:02:31,300
+tratarla como para evitar que se evolucione a un daño neurológico
+
+34
+00:02:31,300 --> 00:02:36,700
+permanente y severo. El diagnóstico se hace con imágenes. La imagen en
+
+35
+00:02:36,700 --> 00:02:39,780
+específico es la resonancia magnética nuclear que se pide tanto
+
+36
+00:02:39,780 --> 00:02:44,540
+de cerebro como de médula debido a que la médula es parte del sistema
+
+37
+00:02:44,540 --> 00:02:49,020
+nervioso central y se afecta también con alguna frecuencia y el TAC de
+
+38
+00:02:49,020 --> 00:02:55,140
+cerebro solo tiene una sensibilidad que es menor. La resonancia de cerebro
+
+39
+00:02:55,140 --> 00:02:59,460
+solo igualmente tiene una sensibilidad menor que la que incluye la médula.
+
+40
+00:02:59,460 --> 00:03:04,820
+O sea, en resumen, resonancia es mejor que la TAC y cerebro y médula es
+
+41
+00:03:04,820 --> 00:03:08,500
+mejor que solo cerebro o solo médula así que se piden las dos
+
+42
+00:03:08,620 --> 00:03:12,300
+independientemente del tipo de síntomas que tenga cuando se está
+
+43
+00:03:12,300 --> 00:03:16,060
+sospechando esta enfermedad. Lo que se suele ver son focos de
+
+44
+00:03:16,060 --> 00:03:24,580
+desmilinización que se ven blancas en algunas de las imágenes
+
+45
+00:03:24,580 --> 00:03:29,900
+de la resonancia magnética y como cosa final la punción lumbar
+
+46
+00:03:29,900 --> 00:03:33,140
+eventualmente me ayuda al diagnóstico debido a que puede
+
+47
+00:03:33,140 --> 00:03:37,500
+mostrar las bandas oligoclonales de inmunoglobulina en el líquido
+
+48
+00:03:38,460 --> 00:03:41,900
+La punción lumbar era algo que se pedía a veces también en la otra
+
+49
+00:03:41,900 --> 00:03:45,660
+enfermedad desmilinizante del sistema nervioso periférico que
+
+50
+00:03:45,660 --> 00:03:48,860
+era el síndrome de Guillain-Barré, pero ahí lo que mostraba era la
+
+51
+00:03:48,860 --> 00:03:51,980
+disociación albuminocitológica que la vamos a ver en la respectiva
+
+52
+00:03:51,980 --> 00:03:56,020
+clase, pero a veces se pide una punción lumbar sospechando la
+
+53
+00:03:56,020 --> 00:03:58,500
+otra enfermedad, por ejemplo, y me encuentro con estas bandas
+
+54
+00:03:58,500 --> 00:04:01,900
+oligoclonales inmediatamente hay que sospechar que pueda venir
+
+55
+00:04:01,900 --> 00:04:05,020
+con una esclerosis múltiple y pedirle la resonancia magnética
+
+56
+00:04:05,020 --> 00:04:09,420
+nuclear de cerebrimédula. El tratamiento de la esclerosis múltiple
+
+57
+00:04:09,420 --> 00:04:13,420
+sepan que existe y que es bastante bueno, así que el diagnóstico
+
+58
+00:04:13,420 --> 00:04:16,420
+temprano de la enfermedad es justamente lo más importante.
+
+59
+00:04:16,420 --> 00:04:18,900
+Por un lado, están los fármacos que yo le doy para el manejo
+
+60
+00:04:18,900 --> 00:04:21,340
+de la crisis, cuando está con los síntomas en este momento,
+
+61
+00:04:21,340 --> 00:04:24,340
+cuando está con el foco de desmilinización activo,
+
+62
+00:04:24,340 --> 00:04:27,660
+más los fármacos para evitar que tengan nuevos brotes en
+
+63
+00:04:27,660 --> 00:04:30,940
+el futuro. Se entregan ambas cosas.
+
+64
+00:04:30,940 --> 00:04:34,100
+En el caso de la crisis, lo más importante son los corticoides
+
+65
+00:04:34,100 --> 00:04:37,620
+endovenosos y en los casos en que no responde cierto,
+
+66
+00:04:37,620 --> 00:04:40,580
+eventualmente se hace una plasma férsis también, pero repito,
+
+67
+00:04:40,580 --> 00:04:44,900
+los corticoides endovenosos suele ser el manejo básico de una
+
+68
+00:04:44,900 --> 00:04:47,940
+crisis de esclerosis múltiple como buena enfermedad autoinmune.
+
+69
+00:04:47,940 --> 00:04:51,380
+En cambio, para la prevención en la actualidad se usan las
+
+70
+00:04:51,380 --> 00:04:54,180
+drogas modificadoras de la esclerosis múltiple.
+
+71
+00:04:54,180 --> 00:04:57,780
+Si se acuerdan, en la artritis romatoide se usan las
+
+72
+00:04:57,780 --> 00:05:00,380
+drogas modificadoras de la artritis romatoide.
+
+73
+00:05:00,380 --> 00:05:03,140
+En este caso existe una lista de enfermedades que me
+
+74
+00:05:03,140 --> 00:05:05,580
+cambian radicalmente el pronóstico de la esclerosis
+
+75
+00:05:05,580 --> 00:05:09,100
+múltiple y se dejan de manera permanente en el tiempo.
+
+76
+00:05:09,100 --> 00:05:12,620
+Y de esa manera se evitan las recurrencias de los brotes y
+
+77
+00:05:12,620 --> 00:05:15,020
+se evitan las secuelas neurológicas casi por
+
+78
+00:05:15,020 --> 00:05:16,100
+completo.
+
+79
+00:05:16,100 --> 00:05:20,460
+El interferón es la más clásica que se ha dejado,
+
+80
+00:05:20,460 --> 00:05:23,420
+pero no es tan eficaz como las más modernas.
+
+81
+00:05:23,420 --> 00:05:26,220
+Es un poco más barata por su caso, así que en Chile al
+
+82
+00:05:26,220 --> 00:05:27,900
+menos se sigue dando.
+
+83
+00:05:27,900 --> 00:05:30,940
+Las otras son el natalizumab, que son anticuerpos
+
+84
+00:05:30,980 --> 00:05:34,180
+monoclonales en contra de algunas proteínas bien
+
+85
+00:05:34,180 --> 00:05:37,420
+específicas que usan los glóbulos blancos para atravesar
+
+86
+00:05:37,420 --> 00:05:39,500
+la barrera hematoencefálica.
+
+87
+00:05:39,500 --> 00:05:43,300
+Y finalmente están todos los anticuerpos monoclonales en
+
+88
+00:05:43,300 --> 00:05:47,540
+contra de los linfocitos B, que el rituximab es el más
+
+89
+00:05:47,540 --> 00:05:50,460
+clásico, es el único que uno se sabe el nombre,
+
+90
+00:05:50,460 --> 00:05:54,020
+pero los otros son el ocrelizumab y el ofatumumab,
+
+91
+00:05:54,020 --> 00:05:56,500
+que eventualmente se pueden usar también.
+
+92
+00:05:56,500 --> 00:06:00,740
+Pero repito, todos ellos son fármacos modificadores de
+
+93
+00:06:00,740 --> 00:06:04,060
+la evolución natural de la enfermedad y que me mejoran
+
+94
+00:06:04,060 --> 00:06:08,180
+bruscamente el pronóstico y se empiezan a dar después de
+
+95
+00:06:08,180 --> 00:06:11,860
+que los corticoides ya han hecho efecto y ya han revertido
+
+96
+00:06:11,860 --> 00:06:15,140
+el brote actual, la crisis actual.
+
+97
+00:06:15,140 --> 00:06:18,540
+En Chile la esclerosis múltiple es una enfermedad
+
+98
+00:06:18,540 --> 00:06:22,380
+GES, que hay que saberla como médico general y que
+
+99
+00:06:22,380 --> 00:06:25,460
+hay que saber que viene con ciertos plazos que se tienen
+
+100
+00:06:25,460 --> 00:06:28,300
+que cumplir tanto para hacerle su resonancia magnética
+
+101
+00:06:28,340 --> 00:06:31,580
+como para iniciarle el tratamiento.
+
+102
+00:06:31,580 --> 00:06:35,340
+Y segundo lugar, algunos de los medicamentos están en la
+
+103
+00:06:35,340 --> 00:06:38,100
+ley Ricardo Soto, que es la ley que financia los
+
+104
+00:06:38,100 --> 00:06:40,940
+medicamentos de alto costo, debido a que justamente son
+
+105
+00:06:40,940 --> 00:06:46,180
+muy caros, pero dado que su impacto es tan radical en
+
+106
+00:06:46,180 --> 00:06:49,140
+estos pacientes, es algo que el sistema público chileno
+
+107
+00:06:49,140 --> 00:06:50,620
+se financia.
+
+108
+00:06:50,620 --> 00:06:53,700
+Aquí se ve una resonancia magnética de un paciente
+
+109
+00:06:53,700 --> 00:06:55,700
+con esclerosis múltiple.
+
+110
+00:06:55,700 --> 00:06:59,140
+En ese lugar están todos los focos de desmilinización,
+
+111
+00:06:59,140 --> 00:07:01,540
+cierto, que se pueden ver ahí.
+
+112
+00:07:01,540 --> 00:07:04,340
+Aquí hay otra más, nuevamente en la sustancia
+
+113
+00:07:04,340 --> 00:07:07,700
+blanca, no en la corteza cerebral más afuera,
+
+114
+00:07:07,700 --> 00:07:10,100
+sino que en la sustancia blanca se ven esos múltiples
+
+115
+00:07:10,100 --> 00:07:12,500
+focos de desmilinización.
+
+116
+00:07:12,500 --> 00:07:14,860
+Aquí se ve una médula que se ve un poco menos,
+
+117
+00:07:14,860 --> 00:07:17,620
+por si acaso, pero en esa zona se ven los focos de
+
+118
+00:07:17,620 --> 00:07:19,940
+desmilinización, si los quieren ver también,
+
+119
+00:07:19,940 --> 00:07:21,780
+se ven como manchitas blancas.
+
+120
+00:07:21,780 --> 00:07:24,980
+Y finalmente aquí tengo un nervio óptico que está
+
+121
+00:07:24,980 --> 00:07:28,260
+inflamado en esa zona, con los signos de neuritis
+
+122
+00:07:28,260 --> 00:07:29,900
+óptica, que es algo que se ve también con mucha
+
+123
+00:07:29,900 --> 00:07:32,740
+frecuencia en la esclerosis múltiple.
+
+124
+00:07:32,740 --> 00:07:35,060
+Y bueno, todo lo que hay que saber qué hacen con este
+
+125
+00:07:35,060 --> 00:07:37,660
+paciente en ese momento corticoides endovenoso,
+
+126
+00:07:37,660 --> 00:07:42,420
+cierto, y luego de eso, en el caso de que sea una
+
+127
+00:07:42,420 --> 00:07:44,620
+neuritis óptica en contexto de una esclerosis múltiple
+
+128
+00:07:44,620 --> 00:07:47,380
+y no por otra razón, va a quedar ya con el
+
+129
+00:07:47,380 --> 00:07:50,540
+natalizumab, con el rituximab o con el interferón
+
+130
+00:07:50,540 --> 00:07:52,780
+a permanencia en el tiempo también.
+
+131
+00:07:52,780 --> 00:07:53,780
+Bueno, todo lo que hay que saber.
+
+132
+00:07:53,780 --> 00:07:54,820
+Nos vemos en los siguientes temas.

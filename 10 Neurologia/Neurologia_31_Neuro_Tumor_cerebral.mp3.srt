@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:07,270
+Hola, hola, ¿cómo están? En este video vamos a hablar del tumor cerebral como gran tema
+
+2
+00:00:07,270 --> 00:00:12,770
+que lo más importante es saber cuándo sospecharlo, el conocer su cuadro clínico.
+
+3
+00:00:12,770 --> 00:00:18,750
+Empecemos con este, es una triada, número 1 viene con un síndrome de hipertensión endocriniana
+
+4
+00:00:18,750 --> 00:00:22,310
+que a su vez es otra triada, por si acaso, que hay que saberla.
+
+5
+00:00:22,310 --> 00:00:25,230
+Número 1, cefalea mayor en la mañana.
+
+6
+00:00:25,230 --> 00:00:30,230
+Número 2, náuseas y vómitos que también suelen ser más frecuentes en la mañana.
+
+7
+00:00:30,390 --> 00:00:36,270
+Y finalmente el edema de papila en el fondo de ojo o papiledema también se puede escribir.
+
+8
+00:00:36,270 --> 00:00:42,310
+Segundo lugar están los signos focales como la hemiparesia, hemihipoestesia, etcétera.
+
+9
+00:00:42,310 --> 00:00:45,310
+La parálisis de algún nervio craneal.
+
+10
+00:00:45,310 --> 00:00:51,870
+Y finalmente dentro de la triada son las convulsiones focales o las crisis parciales
+
+11
+00:00:51,870 --> 00:00:58,150
+en el sentido en que los tumores cerebrales son la causa más frecuente de epilepsia focal en la gente joven
+
+12
+00:00:58,310 --> 00:01:02,310
+y serían la segunda después de los accidentes vasculares encefálicos.
+
+13
+00:01:02,310 --> 00:01:07,270
+Como cosa adicional, muchas veces como el tumor va creciendo lentamente, es cierto,
+
+14
+00:01:07,270 --> 00:01:12,310
+es una clínica que va aumentando, que es progresiva en el tiempo, pero no siempre,
+
+15
+00:01:12,310 --> 00:01:18,110
+no en todos los pacientes, hay algunos que simplemente empiezan con un cuadro clínico agudo,
+
+16
+00:01:18,110 --> 00:01:24,830
+ejemplo porque el tumor se infarta o se complica con algún edema cerebral o alguna cosa así.
+
+17
+00:01:25,230 --> 00:01:30,150
+El diagnóstico de los tumores cerebrales es con neuroimágenes y dentro de estos de elección
+
+18
+00:01:30,150 --> 00:01:31,870
+es la resonancia magnética nuclear.
+
+19
+00:01:31,870 --> 00:01:35,470
+Si es que no está disponible es aceptable un ataque con contraste,
+
+20
+00:01:35,470 --> 00:01:40,750
+pero repito, la resonancia magnética es el examen de elección cuando la sospecha clínica
+
+21
+00:01:40,750 --> 00:01:44,990
+es un tumor cerebral y no otra causa de síntoma.
+
+22
+00:01:44,990 --> 00:01:49,950
+El manejo finalmente va a depender absolutamente del tipo de tumor.
+
+23
+00:01:49,990 --> 00:01:56,710
+El tipo histológico es lo más importante respecto a el manejo y a el pronóstico,
+
+24
+00:01:56,710 --> 00:01:59,990
+ejemplo un fibrolastoma multiforme es de un pronóstico muy malo,
+
+25
+00:01:59,990 --> 00:02:05,150
+un atrocitoma filocítico en cambio en un niño es algo de un pronóstico mucho mejor.
+
+26
+00:02:05,150 --> 00:02:10,630
+El manejo con cirugía, con quimioterapia, con radioterapia, el manejo paletivo, etc.
+
+27
+00:02:10,630 --> 00:02:14,310
+va a depender obviamente del tipo de tumor que haya.
+
+28
+00:02:14,350 --> 00:02:19,990
+Ahora, si es que viniera con convulsiones se dejan además los anticonvulsivantes
+
+29
+00:02:19,990 --> 00:02:23,350
+que repito solamente se indican en el caso que tenga convulsiones,
+
+30
+00:02:23,350 --> 00:02:28,470
+así que no se deja en los pacientes con un tumor sin este tipo de síntomas.
+
+31
+00:02:28,470 --> 00:02:32,830
+Y finalmente, si es que viniera con clínica de una hipertensión endocraniana
+
+32
+00:02:32,830 --> 00:02:35,950
+se puede manejar con corticoides endovenosos
+
+33
+00:02:35,950 --> 00:02:41,310
+y los anticonvulsivantes más los corticoides son parte del manejo
+
+34
+00:02:41,310 --> 00:02:45,270
+que sí debe saber dar el médico general ante un tumor cerebral
+
+35
+00:02:45,270 --> 00:02:50,430
+mientras se decide finalmente qué es lo que se hace con este paciente por parte del neurocirujano.
+
+36
+00:02:50,430 --> 00:02:56,110
+Repito, la histología es lo que me determina no solamente el manejo sino que el pronóstico
+
+37
+00:02:56,110 --> 00:03:01,510
+y dentro de la interminable lista de los distintos tipos de tumores cerebrales
+
+38
+00:03:01,510 --> 00:03:06,230
+hay que saber solamente alguno, así que vamos a ver un par de casos.
+
+39
+00:03:06,230 --> 00:03:11,110
+Número uno, un niño con un síndrome cerebeloso que serían síntomas focales,
+
+40
+00:03:11,110 --> 00:03:15,350
+más cefalea progresiva, lo que hay que sospechar es un tumor cerebral
+
+41
+00:03:15,350 --> 00:03:20,910
+y en específico por venir con afectación del cerebelo, de la fosa posterior del cuarto ventrículo,
+
+42
+00:03:20,910 --> 00:03:26,110
+hay que sospechar un médulo blastoma que es un tumor bien agresivo,
+
+43
+00:03:26,110 --> 00:03:31,470
+bastante maligno, pero que eventualmente responde bien a la quimioradioterapia,
+
+44
+00:03:31,470 --> 00:03:35,750
+así que mientras antes se diagnostique y se sospeche, pues mejor.
+
+45
+00:03:35,750 --> 00:03:39,950
+Ahora, hasta ese punto de esa historia clínica lo más importante es
+
+46
+00:03:39,990 --> 00:03:42,750
+hay que pedirle una resonancia magnética nuclear.
+
+47
+00:03:42,750 --> 00:03:48,190
+El segundo caso, hombre fumador con tos y baja de peso, hasta ahí tiene un cáncer de pulmón
+
+48
+00:03:48,190 --> 00:03:52,630
+y que viene ahora con convulsiones, pues lo que hay que sospechar son metástasis cerebrales
+
+49
+00:03:52,630 --> 00:03:58,310
+de un cáncer de pulmón, hay que pedirle obviamente una resonancia de cerebro,
+
+50
+00:03:58,310 --> 00:04:04,910
+pero aparte hay que pedirle el estudio con al menos una radiografía de tórax buscando el cáncer primario.
+
+51
+00:04:04,910 --> 00:04:08,630
+Y el último, adulto mayor con cefalea, convulsiones y una hemiparesia,
+
+52
+00:04:08,630 --> 00:04:18,030
+hasta ahí viene con la treada del tumor cerebral, que sería la cefalea o el síndrome de hipertensión endocriniano,
+
+53
+00:04:18,030 --> 00:04:22,390
+las convulsiones focales y los signos focales, mi parecia en este caso,
+
+54
+00:04:22,390 --> 00:04:26,110
+y que la resonancia me muestra un gran tumor que capta contraste en anillo,
+
+55
+00:04:26,110 --> 00:04:32,070
+que habíamos visto esa frase antes para el paciente VIH con una toxoplasmosis cerebral,
+
+56
+00:04:32,070 --> 00:04:37,550
+pues un único tumor grande que capta contraste, lo más frecuente es que sea un glidoblastoma
+
+57
+00:04:37,590 --> 00:04:41,230
+multiforme que es de los que tienen peor pronóstico por el ed general.
+
+58
+00:04:41,230 --> 00:04:47,190
+¿Qué hace un médico general en este caso que ya le hizo la resonancia magnética?
+
+59
+00:04:47,190 --> 00:04:49,950
+Pues los anticonvulsivantes, porque está con convulsiones,
+
+60
+00:04:49,950 --> 00:04:53,870
+los corticoides endovenosos como para el manejo del edema cerebral,
+
+61
+00:04:53,870 --> 00:04:56,590
+más la evaluación inmediata por el neurocirujano,
+
+62
+00:04:56,590 --> 00:05:00,350
+sabiendo que si es un glidoblastoma viene con un pronóstico muy muy malo
+
+63
+00:05:00,350 --> 00:05:03,070
+y lo más probable es que el paciente se muera en el corto plazo.
+
+64
+00:05:03,070 --> 00:05:06,270
+Y pues es todo lo que hay que saber, nos vemos en el siguiente tema.

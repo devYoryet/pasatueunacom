@@ -1,0 +1,583 @@
+1
+00:00:00,000 --> 00:00:08,300
+Hola, ¿cómo están? Hablemos de la disección aórtica, cuya importancia radica fundamentalmente en dos cosas.
+
+2
+00:00:08,300 --> 00:00:11,300
+Número uno, una enfermedad muy grave con una letalidad muy alta,
+
+3
+00:00:11,300 --> 00:00:14,300
+y número dos, muchas veces se confunde con un infarto,
+
+4
+00:00:14,300 --> 00:00:20,300
+aunque viene con diferencias, ya sea clínicas o en los exámenes que me obligan a diferenciarlo,
+
+5
+00:00:20,300 --> 00:00:24,300
+debido a que me contraindica absolutamente la aspirina, el clopidogrel,
+
+6
+00:00:24,300 --> 00:00:29,300
+los anticobulantes como la heparina y la trombólisis como la streptokinasa también.
+
+7
+00:00:29,300 --> 00:00:33,300
+Así que si es que me equivoco y manejo una disección aórtica como un infarto,
+
+8
+00:00:33,300 --> 00:00:37,300
+un paciente eventualmente se puede morir o a lo mejor se iba a morir igual
+
+9
+00:00:37,300 --> 00:00:41,300
+con la diferencia que voy a caer dentro de un problema de eneligencia médica
+
+10
+00:00:41,300 --> 00:00:44,300
+por haberlo manejado con algo que estaba absolutamente contraindicado.
+
+11
+00:00:44,300 --> 00:00:48,300
+Así que, repito, fundamental conocer el cuadro clínico y las diferencias
+
+12
+00:00:48,300 --> 00:00:53,300
+con el infarto en los exámenes y en la clínica en particular.
+
+13
+00:00:53,300 --> 00:00:58,300
+Ahora, recordemos cuál es su clínica que ya la vimos en la clase de dolor torácico
+
+14
+00:00:58,300 --> 00:01:01,300
+y es esa que está ahí que la vamos a leer muy rápidamente porque ya la vimos,
+
+15
+00:01:01,300 --> 00:01:06,300
+antecedente de hipertensión, habitualmente un dolor muy intenso, súbito, cierto,
+
+16
+00:01:06,300 --> 00:01:11,300
+lancinante como que le entierran una lanza que se irradia al dorso
+
+17
+00:01:11,300 --> 00:01:16,300
+y que se describe como transfixiante justamente porque va como desde la parte de adelante
+
+18
+00:01:16,300 --> 00:01:20,300
+del pecho hacia la espalda y luego recorre por la espalda hacia abajo
+
+19
+00:01:20,300 --> 00:01:26,300
+con sensación de muerte inminente, a veces con muerte propiamente tal también.
+
+20
+00:01:26,300 --> 00:01:30,300
+Y ahora las tres cosas más importantes que son las que me obligan a sospechar
+
+21
+00:01:30,300 --> 00:01:33,300
+que es una disección aórtica y no necesariamente un infarto,
+
+22
+00:01:33,300 --> 00:01:36,300
+el soplo diastólico de insuficiencia aórtica, segundo lugar,
+
+23
+00:01:36,300 --> 00:01:40,300
+la simetría de los pulsos radiales o la simetría entre los pulsos radiales
+
+24
+00:01:40,300 --> 00:01:44,300
+y los pulsos pedios, los pulsos de las extremidades inferiores,
+
+25
+00:01:44,300 --> 00:01:49,300
+que eso va a depender obviamente de en qué lugar esté el flap de disección.
+
+26
+00:01:49,300 --> 00:01:52,300
+En tercer lugar, que venga con una crisis hipertensiva
+
+27
+00:01:52,300 --> 00:01:56,300
+y si bien las crisis hipertensivas son algo que se puede ver en un infarto también,
+
+28
+00:01:56,300 --> 00:01:59,300
+es algo que me obliga a ir a descartar una disección aórtica.
+
+29
+00:01:59,300 --> 00:02:04,300
+Lo último, ya mucho más raro, la disponía por una parálisis del laryngio recurrente
+
+30
+00:02:04,300 --> 00:02:07,300
+recordando que este nervio al menos en el lado izquierdo
+
+31
+00:02:07,300 --> 00:02:09,300
+pasa por debajo del callado aórtico.
+
+32
+00:02:09,300 --> 00:02:14,300
+Ahora, algunas otras cosas que me obligan a sospechar una disección aórtica,
+
+33
+00:02:14,300 --> 00:02:18,300
+un electrocardiograma en contexto de algo que yo inicialmente
+
+34
+00:02:18,300 --> 00:02:20,300
+he catalogado como un síndrome coronario agudo
+
+35
+00:02:20,300 --> 00:02:26,300
+pero que viene sin isquemia o al menos sin signos de isquemia en el electrocardiograma
+
+36
+00:02:26,300 --> 00:02:29,300
+y que viene solamente con una taquicardia sinusal,
+
+37
+00:02:29,300 --> 00:02:32,300
+que no solamente se ve ese hallazgo en el infarto
+
+38
+00:02:32,300 --> 00:02:35,300
+sino que se ve también en la disección aórtica y en el T.
+
+39
+00:02:35,300 --> 00:02:39,300
+En tercer lugar, la radiografía de tórax.
+
+40
+00:02:39,300 --> 00:02:44,300
+Acuérdense que se pide como parte del estudio del dolor torácico inespecífico
+
+41
+00:02:44,300 --> 00:02:47,300
+y si me encuentro con un mediastino ancho,
+
+42
+00:02:47,300 --> 00:02:51,300
+con una aorta que se ve media rara, con un botón aórtico sobresaliente,
+
+43
+00:02:51,300 --> 00:02:55,300
+en ese caso estoy obligado igualmente a ir y solicitar los exámenes
+
+44
+00:02:55,300 --> 00:02:59,300
+que van a confirmar como directamente a la disección aórtica.
+
+45
+00:02:59,300 --> 00:03:02,300
+En algunos casos se complica con un hemopericardio,
+
+46
+00:03:02,300 --> 00:03:08,300
+en esos casos habitualmente el paciente fallece de un taponamiento agudo muy rápido
+
+47
+00:03:08,300 --> 00:03:13,300
+y finalmente en algunos casos el flap de disección va obstruyendo
+
+48
+00:03:13,300 --> 00:03:17,300
+el óstium de salida de las distintas arterias
+
+49
+00:03:17,300 --> 00:03:22,300
+y esto se puede ver con un cuadro de esquemia renal, de esquemia mesentérica,
+
+50
+00:03:22,300 --> 00:03:25,300
+incluso en algunos casos con muy mala suerte también
+
+51
+00:03:25,300 --> 00:03:28,300
+con obstrucción de las arterias coronarias
+
+52
+00:03:28,300 --> 00:03:31,300
+y en ese caso sí se ve un infarto en el electrocardiograma,
+
+53
+00:03:31,300 --> 00:03:34,300
+lamentablemente se maneja como infarto
+
+54
+00:03:34,300 --> 00:03:37,300
+y finalmente el paciente no responde, por un lado porque está disecado
+
+55
+00:03:37,300 --> 00:03:40,300
+y en segundo lugar se complica al darle la aspirina,
+
+56
+00:03:40,300 --> 00:03:43,300
+el clopidogrel, la trompólisis, etc.
+
+57
+00:03:43,300 --> 00:03:47,300
+Ahora, en ese caso no hay diligencia médica por si acaso.
+
+58
+00:03:47,300 --> 00:03:50,300
+La causa de la disección aórtica, la más frecuente,
+
+59
+00:03:50,300 --> 00:03:53,300
+es secundaria a enfermedad degenerativa de las arterias,
+
+60
+00:03:53,300 --> 00:03:56,300
+muy asociado a la hipertensión arterial,
+
+61
+00:03:56,300 --> 00:04:00,300
+pero también se ve en casos que hay un trauma torácico, por ejemplo,
+
+62
+00:04:00,300 --> 00:04:03,300
+y en este caso los tres lugares más frecuentes
+
+63
+00:04:03,300 --> 00:04:07,300
+en los cuales se produce esta disección es en las zonas de Cisaya,
+
+64
+00:04:07,300 --> 00:04:11,300
+en la zona en la cual alguna parte de la aorta se mueve independiente
+
+65
+00:04:11,300 --> 00:04:14,300
+que la otra parte que está inmediatamente por arriba
+
+66
+00:04:14,300 --> 00:04:17,300
+y el lugar más frecuente es debajo de la subclave izquierda,
+
+67
+00:04:17,300 --> 00:04:20,300
+en el sentido en que hacia arriba el arco aórtico
+
+68
+00:04:20,300 --> 00:04:24,300
+está afirmado por los grandes vasos, por las grandes arterias,
+
+69
+00:04:24,300 --> 00:04:26,300
+en cambio hacia abajo es un poquito más móvil.
+
+70
+00:04:26,300 --> 00:04:29,300
+El segundo lugar es a nivel de la raíz aórtica,
+
+71
+00:04:29,300 --> 00:04:34,300
+justamente porque el corazón se mueve de manera independiente de la aorta
+
+72
+00:04:34,300 --> 00:04:36,300
+y finalmente a la altura del diafragma,
+
+73
+00:04:36,300 --> 00:04:39,300
+en el liato aórtico diafragmático,
+
+74
+00:04:39,300 --> 00:04:41,300
+en el sentido en que la parte de arriba del tórax
+
+75
+00:04:41,300 --> 00:04:45,300
+se mueve distinta a la parte de abajo o aorta abdominal.
+
+76
+00:04:45,300 --> 00:04:49,300
+En tercer lugar, se asocia a enfermedades degenerativas
+
+77
+00:04:49,300 --> 00:04:53,300
+o enfermedades genéticas que pueden afectar las capas de las arterias,
+
+78
+00:04:53,300 --> 00:04:55,300
+como la enfermedad de Marfan,
+
+79
+00:04:55,300 --> 00:04:59,300
+que es una alteración genética recesiva,
+
+80
+00:04:59,300 --> 00:05:01,300
+aunque a veces es dominante también,
+
+81
+00:05:01,300 --> 00:05:05,300
+que afecta la lastina, la enfermedad de Erdheim,
+
+82
+00:05:05,300 --> 00:05:08,300
+la de Erles-Danlos, entre otras.
+
+83
+00:05:08,300 --> 00:05:10,300
+Ahora, el diagnóstico de disección aórtica,
+
+84
+00:05:10,300 --> 00:05:14,300
+esto hay que saberlo, se hace con el angiotact de tórax de urgencia,
+
+85
+00:05:14,300 --> 00:05:18,300
+aunque se puede hacer con el ecocardiograma,
+
+86
+00:05:18,300 --> 00:05:22,300
+pero siempre y cuando sea transesofágico de urgencia
+
+87
+00:05:22,300 --> 00:05:24,300
+y siempre y cuando esté disponible, además,
+
+88
+00:05:24,300 --> 00:05:26,300
+al lado de la cama del paciente,
+
+89
+00:05:26,300 --> 00:05:28,300
+lo cual no siempre ocurre en Chile,
+
+90
+00:05:28,300 --> 00:05:30,300
+pero en las guías internacionales
+
+91
+00:05:30,300 --> 00:05:33,300
+al menos dice que sería incluso de elección
+
+92
+00:05:33,300 --> 00:05:35,300
+este ecocardiograma transesofágico
+
+93
+00:05:35,300 --> 00:05:37,300
+en la medida que el paciente esté choqueado,
+
+94
+00:05:37,300 --> 00:05:39,300
+que esté con hemodinamia inestable
+
+95
+00:05:39,300 --> 00:05:42,300
+en el sentido en que se pierde menos tiempo
+
+96
+00:05:42,300 --> 00:05:45,300
+de lo que se pierde al llevarlo al angiotact de tórax,
+
+97
+00:05:45,300 --> 00:05:48,300
+aunque ese sigue siendo un examen bastante rápido, por si acaso.
+
+98
+00:05:48,300 --> 00:05:52,300
+El tratamiento de la disección aórtica va a depender del tipo,
+
+99
+00:05:52,300 --> 00:05:54,300
+si es tipo A o tipo B,
+
+100
+00:05:54,300 --> 00:05:56,300
+Pero algo importante, el tipo A empieza
+
+101
+00:05:56,300 --> 00:06:00,300
+disecando arriba de la subclavia izquierda,
+
+102
+00:06:00,300 --> 00:06:03,300
+la tipo B, en cambio, empieza disecando por debajo,
+
+103
+00:06:03,300 --> 00:06:05,300
+así que aquí la típica pregunta,
+
+104
+00:06:05,300 --> 00:06:07,300
+si es que alguien se le diseca toda la aorta,
+
+105
+00:06:07,300 --> 00:06:10,300
+desde el corazón hasta las arterias giliacas,
+
+106
+00:06:10,300 --> 00:06:12,300
+en ese caso es tipo A o tipo B,
+
+107
+00:06:12,300 --> 00:06:15,300
+y sería tipo A, en el sentido en que, repito,
+
+108
+00:06:15,300 --> 00:06:18,300
+lo que importa es si es que empieza,
+
+109
+00:06:18,300 --> 00:06:21,300
+si es que diseca o no arriba de la subclavia,
+
+110
+00:06:21,300 --> 00:06:23,300
+no importa hasta dónde llega,
+
+111
+00:06:23,300 --> 00:06:25,300
+lo que importa es en dónde comienza.
+
+112
+00:06:25,300 --> 00:06:27,300
+Ahora, en el caso de la tipo A,
+
+113
+00:06:27,300 --> 00:06:31,300
+necesariamente hay que manejarlo de manera quirúrgica,
+
+114
+00:06:31,300 --> 00:06:34,300
+y esta cirugía es una cirugía a pecho abierto,
+
+115
+00:06:34,300 --> 00:06:37,300
+en que se recambia la aorta que se está ahí secando,
+
+116
+00:06:37,300 --> 00:06:39,300
+que se está rompiendo,
+
+117
+00:06:39,300 --> 00:06:41,300
+y se pone una prótesis aórtica.
+
+118
+00:06:41,300 --> 00:06:44,300
+En este caso, además, hay que darle el manejo médico,
+
+119
+00:06:44,300 --> 00:06:47,300
+que es lo clásico de la tipo B.
+
+120
+00:06:47,300 --> 00:06:50,300
+La tipo B, en cambio, la regla general,
+
+121
+00:06:50,300 --> 00:06:52,300
+hay algunas excepciones que vamos a ver después,
+
+122
+00:06:52,300 --> 00:06:55,300
+pero la regla general es que se maneja de manera médica,
+
+123
+00:06:55,300 --> 00:06:58,300
+y lo más importante son los fármacos antihipertensivos
+
+124
+00:06:58,300 --> 00:07:00,300
+por vía endovenosa,
+
+125
+00:07:00,300 --> 00:07:03,300
+y en este caso el objetivo de presión arterial
+
+126
+00:07:03,300 --> 00:07:05,300
+es llevarla a valores bastante bajos,
+
+127
+00:07:05,300 --> 00:07:08,300
+a diferencia de otras emergencias hipertensivas,
+
+128
+00:07:08,300 --> 00:07:11,300
+como el accidente vascular hemorrágico, por ejemplo,
+
+129
+00:07:11,300 --> 00:07:13,300
+en que se mantiene con presiones más altas,
+
+130
+00:07:13,300 --> 00:07:16,300
+o el isquémico en que son más altas todavía.
+
+131
+00:07:16,300 --> 00:07:19,300
+En este caso, se intenta que la presión arterial
+
+132
+00:07:19,300 --> 00:07:23,300
+esté debajo de 120 con 80 milímetros de mercurio.
+
+133
+00:07:23,300 --> 00:07:26,300
+Y cuando se complica la tipo B,
+
+134
+00:07:26,300 --> 00:07:28,300
+en ese caso sí se maneja con cirugía,
+
+135
+00:07:28,300 --> 00:07:30,300
+y hay que saber que las dos complicaciones más importantes
+
+136
+00:07:30,300 --> 00:07:33,300
+son la obstrucción de alguna de las arterias,
+
+137
+00:07:33,300 --> 00:07:37,300
+porque el flap de disección obstruye el óstium de salida,
+
+138
+00:07:37,300 --> 00:07:40,300
+o bien cuando hay dolor que es persistente
+
+139
+00:07:40,300 --> 00:07:42,300
+y que no responde a los analgésicos,
+
+140
+00:07:42,300 --> 00:07:45,300
+que es parte también del manejo médico,
+
+141
+00:07:45,300 --> 00:07:47,300
+tanto de la tipo A como de la tipo B.
+
+142
+00:07:47,300 --> 00:07:49,300
+Y bueno, eso es todo lo que hay que saber.
+
+143
+00:07:49,300 --> 00:07:51,300
+El cuadro clínico es lo más importante.
+
+144
+00:07:51,300 --> 00:07:52,300
+Angiotag de Tórax.
+
+145
+00:07:52,300 --> 00:07:55,300
+Y acuérdense, la tipo A se trata con cirugía.
+
+146
+00:07:55,300 --> 00:07:56,300
+Que estén muy bien.

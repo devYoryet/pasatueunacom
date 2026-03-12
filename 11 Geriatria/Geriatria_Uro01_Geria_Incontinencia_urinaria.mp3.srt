@@ -1,0 +1,447 @@
+1
+00:00:00,000 --> 00:00:06,410
+Hola, ¿cómo están? En esta clase vamos a empezar con el tema de incontinencia urinaria.
+
+2
+00:00:06,410 --> 00:00:10,890
+Vamos a ver la clínica y las distintas causas que hay. Y empecemos con una pequeña definición
+
+3
+00:00:10,890 --> 00:00:15,170
+que por regla general es la pérdida de orina involuntaria, ¿cierto? Que afecta
+
+4
+00:00:15,170 --> 00:00:18,530
+la vida del paciente o de la paciente en el sentido que es mucho más frecuente
+
+5
+00:00:18,530 --> 00:00:22,090
+en las mujeres que en los hombres. Ahora, las dos causas más importantes son la
+
+6
+00:00:22,090 --> 00:00:26,410
+incontinencia de orina de esfuerzos y aparte de eso está la incontinencia de
+
+7
+00:00:26,410 --> 00:00:30,530
+orina de urgencia. Esas son por lejos las causas más frecuentes y la diferencia
+
+8
+00:00:30,530 --> 00:00:35,930
+entre ambas es totalmente clínica y es importante el reconocer una de la otra
+
+9
+00:00:35,930 --> 00:00:40,730
+debido a que el manejo igualmente es radicalmente diferente. Unas breves
+
+10
+00:00:40,730 --> 00:00:45,130
+palabras respecto a la epidemiología, la incontinencia de esfuerzos, el factor
+
+11
+00:00:45,130 --> 00:00:48,370
+de riesgo más importante es la multiparidad y es la causa más
+
+12
+00:00:48,370 --> 00:00:52,850
+frecuente en mujeres multíparas y en mujeres adultas mayor. En cambio la
+
+13
+00:00:52,850 --> 00:00:56,770
+incontinencia de orina de urgencia es un poco más infrecuente pero es la
+
+14
+00:00:56,770 --> 00:01:01,330
+causa más frecuente en mujeres jóvenes, por si acaso. Ahora, repito en ambas el
+
+15
+00:01:01,330 --> 00:01:05,770
+diagnóstico clínico y hacer la diferencia clínica es lo que vamos a
+
+16
+00:01:05,770 --> 00:01:09,730
+ver ahora. Respecto a la incontinencia de orina de esfuerzo, por el general
+
+17
+00:01:09,730 --> 00:01:14,170
+son escapes de pequeñas cantidades de orina que están en relación a los
+
+18
+00:01:14,170 --> 00:01:18,890
+esfuerzos. Los esfuerzos más frecuentes son el toser, el estornudar, el
+
+19
+00:01:18,890 --> 00:01:22,210
+reírse por ejemplo o efectivamente el hacer alguna fuerza física
+
+20
+00:01:22,210 --> 00:01:25,770
+levantando un mueble por ejemplo. En cambio la incontinencia de urgencia
+
+21
+00:01:25,770 --> 00:01:30,770
+suelen ser escapes de grandes cantidades de orina en relación a un
+
+22
+00:01:30,770 --> 00:01:36,330
+deseo incontrolable previo de orinar y que simplemente no alcanza a llegar y
+
+23
+00:01:36,330 --> 00:01:40,690
+no se aguanta. O sea, en resumen, la incontinencia de esfuerzo es toser y se
+
+24
+00:01:40,690 --> 00:01:44,530
+hace un poquito de pipí, en cambio la de urgencia es le dan demasiadas
+
+25
+00:01:44,530 --> 00:01:48,930
+ganas y no alcanza a llegar al baño y se hace antes. Respecto a los
+
+26
+00:01:48,930 --> 00:01:53,130
+exámenes que eventualmente se pueden pedir, habitualmente se
+
+27
+00:01:53,410 --> 00:01:58,170
+piden como exámenes de urodinamia en general y esto incluye varios
+
+28
+00:01:58,170 --> 00:02:02,210
+exámenes que incluye la manometría de la uretra, por ejemplo la de la
+
+29
+00:02:02,210 --> 00:02:06,170
+vejiga, etcétera. Y una de las cosas que se puede objetivar con cierta
+
+30
+00:02:06,170 --> 00:02:09,090
+frecuencia, recordando que el diagnóstico clínico es así, es que en
+
+31
+00:02:09,090 --> 00:02:12,490
+la incontinencia de esfuerzo el perfil uretral lo que me muestra es
+
+32
+00:02:12,490 --> 00:02:16,170
+debilidad del piso pélvico. Es mucho más raro que haya daño en el
+
+33
+00:02:16,170 --> 00:02:19,930
+esfinter. O sea, fíjense, lo más frecuente es que no haya una
+
+34
+00:02:19,930 --> 00:02:24,090
+alteración del esfinter vésico uretral, sino que está totalmente
+
+35
+00:02:24,090 --> 00:02:28,330
+normal y la alteración es un poco más abajo en el piso pélvico que
+
+36
+00:02:28,330 --> 00:02:32,850
+finalmente ha sido debilitado debido a la multiparidad. Respecto a la
+
+37
+00:02:32,850 --> 00:02:35,730
+incontinencia de urgencia, en cambio, si se hace algún examen, la
+
+38
+00:02:35,730 --> 00:02:39,490
+sistomanometría suele mostrar una cosa que se llama vejiga inestable
+
+39
+00:02:39,490 --> 00:02:43,690
+o detrusor inestable, que es lo mismo que la presencia de
+
+40
+00:02:43,690 --> 00:02:47,770
+contracciones no inhibidas del detrusor. Es frecuente que haya
+
+41
+00:02:47,770 --> 00:02:50,690
+contracción, es cierto, pero si alguna es demasiado intensa,
+
+42
+00:02:50,690 --> 00:02:55,090
+demasiado grande y no la controla la paciente, eso se conoce como una
+
+43
+00:02:55,090 --> 00:02:59,450
+contracción no inhibida. Que quede bien claro, vejiga inestable
+
+44
+00:02:59,450 --> 00:03:02,330
+muchas veces se usa como sinónimo de incontinencia de urgencia,
+
+45
+00:03:02,330 --> 00:03:05,290
+pero la incontinencia de urgencia es el cuadro clínico, así el
+
+46
+00:03:05,290 --> 00:03:10,010
+escape de grandes cantidades con deseos incontrolables de orinar.
+
+47
+00:03:10,010 --> 00:03:14,090
+En cambio, el detrusor inestable o vejiga inestable es el
+
+48
+00:03:14,090 --> 00:03:17,250
+hallazgo en la sistomanometría, que son estas contracciones no
+
+49
+00:03:17,250 --> 00:03:20,930
+inhibidas. Ahora, muchas veces son lo mismo o al menos se ven
+
+50
+00:03:20,930 --> 00:03:23,810
+en el mismo paciente, pero es lo mismo mirado desde dos
+
+51
+00:03:23,810 --> 00:03:27,370
+ópticas totalmente diferentes. Además, hay que recordar que
+
+52
+00:03:27,370 --> 00:03:30,170
+un porcentaje no despreciable de estos casos son una
+
+53
+00:03:30,170 --> 00:03:32,770
+incontinencia mixta que viene con una parte de esfuerzo y
+
+54
+00:03:32,770 --> 00:03:36,170
+con otra parte de urgencia. Y les adelanto que el manejo de
+
+55
+00:03:36,170 --> 00:03:39,690
+la mixta es sumar el manejo de las otras dos, tal como lo
+
+56
+00:03:39,690 --> 00:03:42,850
+vamos a ver en otro video. Vemos ahora algunas otras
+
+57
+00:03:42,850 --> 00:03:45,050
+causas que hay que tener presentes en el sentido en que
+
+58
+00:03:45,050 --> 00:03:47,530
+eventualmente se manejan diferente. Número uno, hay
+
+59
+00:03:47,530 --> 00:03:50,530
+que siempre ir a descartar las causas secundarias. Dentro de
+
+60
+00:03:50,530 --> 00:03:54,130
+esta la infección urinaria es la más frecuente y de
+
+61
+00:03:54,130 --> 00:03:57,330
+hecho la primera medida ante toda incontinencia urinaria
+
+62
+00:03:57,330 --> 00:04:00,210
+es siempre descartar que no hay una ITU. En segundo
+
+63
+00:04:00,210 --> 00:04:02,570
+lugar, hay otras un poco más raras como la diabetes
+
+64
+00:04:02,570 --> 00:04:05,570
+mellitus 2 o la diabetes insípida que se asocian
+
+65
+00:04:05,570 --> 00:04:08,250
+cierto no solamente a polidipsia, sino que a
+
+66
+00:04:08,250 --> 00:04:10,410
+poliuria y eventualmente por eso puede haber
+
+67
+00:04:10,410 --> 00:04:13,370
+incontinencia también. Está la incontinencia por
+
+68
+00:04:13,370 --> 00:04:16,010
+rebalse que es la característica de la
+
+69
+00:04:16,010 --> 00:04:19,890
+uropatía obstructiva baja que acuérdense que viene
+
+70
+00:04:19,890 --> 00:04:23,930
+con un aumento en el residuo postmixional cierto y que
+
+71
+00:04:23,930 --> 00:04:27,530
+es lo que hasta cierto punto en la ecografía me
+
+72
+00:04:27,530 --> 00:04:30,010
+hace el diagnóstico de melodiferencia con otras
+
+73
+00:04:30,010 --> 00:04:34,050
+causas cierto en la cual al estar la vejiga llena
+
+74
+00:04:34,050 --> 00:04:36,850
+obviamente al llenarse un poquito más se produce un
+
+75
+00:04:36,890 --> 00:04:40,370
+pequeño escape pero debido al rebalse. Ahora que
+
+76
+00:04:40,370 --> 00:04:43,330
+quede esto bien claro la uropatía obstructiva baja
+
+77
+00:04:43,330 --> 00:04:45,610
+también se asocia a incontinencia de urgencia en
+
+78
+00:04:45,610 --> 00:04:48,410
+el sentido en que al estar obstruido se produce
+
+79
+00:04:48,410 --> 00:04:51,650
+una vejiga de lucha cierto una vejiga con paredes
+
+80
+00:04:51,650 --> 00:04:55,490
+hipertróficas que eventualmente se asocia a
+
+81
+00:04:55,490 --> 00:04:59,370
+estas contracciones no inhibidas y la incontinencia
+
+82
+00:04:59,370 --> 00:05:02,170
+de urgencia también. Ahora la vejiga neurogénica
+
+83
+00:05:02,170 --> 00:05:04,690
+sería otra causa que en este caso desde el
+
+84
+00:05:04,730 --> 00:05:07,570
+punto de vista clínico al menos a que hay pequeños
+
+85
+00:05:07,570 --> 00:05:11,650
+escapes relacionados a un alto residuo postmixional
+
+86
+00:05:11,650 --> 00:05:15,330
+se parecería bastante a esa de hecho se dice que
+
+87
+00:05:15,330 --> 00:05:17,810
+la incontinencia de la vejiga neurogénica es un
+
+88
+00:05:17,810 --> 00:05:20,250
+tipo de incontinencia por rebalse también. Está
+
+89
+00:05:20,250 --> 00:05:23,250
+la incontinencia funcional que en este caso no
+
+90
+00:05:23,250 --> 00:05:26,050
+hay ningún problema en el sistema urinario sino
+
+91
+00:05:26,050 --> 00:05:28,770
+que hay algún problema funcional del paciente
+
+92
+00:05:28,770 --> 00:05:31,730
+ejemplo que viene con demencia o con movilidad
+
+93
+00:05:31,770 --> 00:05:34,530
+reducida que hace que finalmente no alcance a
+
+94
+00:05:34,530 --> 00:05:38,210
+llegar al baño y se orina también en la ropa y
+
+95
+00:05:38,210 --> 00:05:41,450
+finalmente está la fístula vésico vaginal que
+
+96
+00:05:41,450 --> 00:05:43,370
+acuérdense que suele ser o post quirúrgica
+
+97
+00:05:43,370 --> 00:05:46,010
+ejemplo después de una esterectomía o de una
+
+98
+00:05:46,010 --> 00:05:48,610
+cesárea cierto o bien puede ser congénita
+
+99
+00:05:48,610 --> 00:05:51,290
+también y que se caracteriza por un goteo
+
+100
+00:05:51,290 --> 00:05:54,530
+continuo en el sentido en que la vejiga está
+
+101
+00:05:54,530 --> 00:05:58,570
+comunicada con la vagina y finalmente va va
+
+102
+00:05:58,570 --> 00:06:01,130
+va pasando gota a gota la orina hasta los
+
+103
+00:06:01,130 --> 00:06:03,370
+genitales y finalmente cae no por el mediato
+
+104
+00:06:03,650 --> 00:06:05,730
+urinario sino que por la fístula misma y en
+
+105
+00:06:05,730 --> 00:06:07,930
+este caso el diagnóstico se hace con la
+
+106
+00:06:07,930 --> 00:06:10,330
+uretrocitografía en que justamente va a
+
+107
+00:06:10,370 --> 00:06:14,650
+dibujarse la la fístula cierto y el tratamiento
+
+108
+00:06:14,650 --> 00:06:17,050
+obviamente es quirúrgico y sería la reparación
+
+109
+00:06:17,050 --> 00:06:18,850
+de la fístula y bueno todo lo que hay que
+
+110
+00:06:18,850 --> 00:06:20,770
+saber por ahora en el siguiente video vamos
+
+111
+00:06:20,770 --> 00:06:22,330
+a ver el manejo de la incontinencia urinaria
+
+112
+00:06:22,330 --> 00:06:23,810
+así que ahí nos vemos que estén bien.

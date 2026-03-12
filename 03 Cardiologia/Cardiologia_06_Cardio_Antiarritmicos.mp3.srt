@@ -1,0 +1,415 @@
+1
+00:00:03,250 --> 00:00:07,210
+Hola, hola. ¿Cómo están? Vamos a ver un repaso de los antirrítmicos que se usan
+
+2
+00:00:07,210 --> 00:00:10,930
+en la EFA y que sirve como repaso de antirrítmicos en general.
+
+3
+00:00:10,930 --> 00:00:14,230
+Recordemos cuáles son los fármacos que me sirven para controlar la
+
+4
+00:00:14,230 --> 00:00:19,570
+frecuencia cardíaca, o sea que son bradicardizantes y vamos a ver cuáles
+
+5
+00:00:19,570 --> 00:00:23,250
+son las distintas familias que hay de estos antirrítmicos, cuáles se dan
+
+6
+00:00:23,250 --> 00:00:27,130
+por vía oral y cuáles se dan por vía endovenosa. En primer lugar está
+
+7
+00:00:27,130 --> 00:00:31,210
+el beta bloqueo que también se llaman los antirrítmicos clase 2.
+
+8
+00:00:31,210 --> 00:00:35,330
+Aparte de eso están los bloqueadores del calcio no dihidropiridínicos, que
+
+9
+00:00:35,330 --> 00:00:38,730
+también se llaman antirrítmicos de la clase 4 y finalmente están los
+
+10
+00:00:38,730 --> 00:00:42,090
+digitales como la dicoxina que también se llaman antirrítmicos
+
+11
+00:00:42,090 --> 00:00:46,130
+clase 5. Por regla general estas tres familias uno las llama por el nombre
+
+12
+00:00:46,130 --> 00:00:50,490
+y no por el número, o sea beta bloqueo los bloqueadores del
+
+13
+00:00:50,490 --> 00:00:55,210
+calcio y los digitales o glucósidos cardíacos también. En el
+
+14
+00:00:55,210 --> 00:00:58,490
+caso de los beta bloqueantes por vía oral los que más se usan son
+
+15
+00:00:58,490 --> 00:01:04,170
+también el atenolol, es el de elección que se usa también como antihipertensivo
+
+16
+00:01:04,170 --> 00:01:08,290
+en la hipertensión arterial idiopática y el carbidilol que se usa
+
+17
+00:01:08,290 --> 00:01:13,170
+también como un fármaco para la insuficiencia cardíaca y por vía
+
+18
+00:01:13,170 --> 00:01:17,050
+endovenosa el que más se usa es el propanolol por si acaso pero existe
+
+19
+00:01:17,050 --> 00:01:21,650
+el esmolol y el metoprolol también como fármacos disponibles pero el
+
+20
+00:01:21,650 --> 00:01:25,530
+atenolol y el propanolol son los que más se usan por vía oral y
+
+21
+00:01:25,530 --> 00:01:29,770
+endovenosa respectivamente en la filiación auricular al menos. De los
+
+22
+00:01:29,770 --> 00:01:33,890
+bloqueadores del calcio acuérdense que tanto el verapamilo como el diltiazem
+
+23
+00:01:33,890 --> 00:01:39,090
+son los no dihidro pyridínicos, esto en comparación con los dihidro pyridínicos
+
+24
+00:01:39,090 --> 00:01:43,610
+que se usan como antihipertensivo cierto que son los que terminan en
+
+25
+00:01:43,610 --> 00:01:48,450
+hino el antiguo nifedipino y actualmente el ambludipino que eso
+
+26
+00:01:48,450 --> 00:01:51,490
+habitualmente no se usan como antirrítmico en cambio los no
+
+27
+00:01:51,490 --> 00:01:54,650
+dihidro pyridínicos se pueden usar como antihipertensivo en particular el
+
+28
+00:01:54,650 --> 00:01:58,490
+diltiazem o como antirrítmico el verapamilo y el diltiazem y que están
+
+29
+00:01:58,490 --> 00:02:03,070
+tanto por vía oral como por vía endovenosa y de los digitales el que
+
+30
+00:02:03,070 --> 00:02:06,250
+más se usa y el que hay que saber es la digoxina sabiendo que el
+
+31
+00:02:06,250 --> 00:02:10,650
+lanatócido C igualmente existe es un digital y también se puede dar tanto
+
+32
+00:02:10,650 --> 00:02:15,890
+por vía oral como por vía endovenosa. Ahora aparte están los
+
+33
+00:02:15,890 --> 00:02:19,690
+antirrítmicos que me sirven para el control del ritmo o sea que sacan
+
+34
+00:02:19,690 --> 00:02:24,570
+al paciente de la FA y lo vuelven al ritmo sinusal y dentro de estos
+
+35
+00:02:24,570 --> 00:02:30,370
+los bloqueadores del potasio o grado 3 y los bloqueadores del sodio o
+
+36
+00:02:30,370 --> 00:02:35,610
+clase 1 no es grado 3 sino que clase 3 perdón y los bloqueadores del sodio
+
+37
+00:02:35,610 --> 00:02:39,830
+o clase 1 son los que habitualmente se usan en específico para control de
+
+38
+00:02:39,830 --> 00:02:47,490
+ritmo de la FA se usan los de clase 1c que los vamos a mencionar ahora
+
+39
+00:02:47,490 --> 00:02:50,770
+en el control de ritmo los que más se usan en la práctica es la
+
+40
+00:02:51,730 --> 00:02:56,570
+esa es existe también el zotalol y algunos otros pero son menos efectivos
+
+41
+00:02:56,570 --> 00:03:00,810
+y está menos disponible así que con que uno se sepa la amiodarona estamos y
+
+42
+00:03:00,810 --> 00:03:04,890
+finalmente la fleca inida y la propapenona son los clásicos
+
+43
+00:03:04,890 --> 00:03:09,570
+antirrítmicos de la clase 1c que igualmente sirven como el control de
+
+44
+00:03:09,570 --> 00:03:14,970
+ritmo habitualmente en de una forma S o S o sea que se administran
+
+45
+00:03:14,970 --> 00:03:19,970
+solamente en el caso en que caiga al ritmo de la FA y que alguna
+
+46
+00:03:19,970 --> 00:03:23,770
+utilidad tienen también en la práctica y en la actualidad lo que más
+
+47
+00:03:23,770 --> 00:03:28,450
+se usa sigue siendo amiodarona por en la general ahora existen algunas
+
+48
+00:03:28,450 --> 00:03:31,550
+otras intervenciones no farmacológicas que me sirven para el
+
+49
+00:03:31,550 --> 00:03:35,570
+control de ritmo también y dentro de esto la cardioversión eléctrica es
+
+50
+00:03:35,570 --> 00:03:40,170
+el que todo el mundo debería saber y aparte sepan que en el caso de la
+
+51
+00:03:40,170 --> 00:03:44,450
+de la FA a veces en algunos casos bien seleccionados sirve la
+
+52
+00:03:44,450 --> 00:03:47,210
+hableación con radiofrecuencia de algunas zonas de la aurícula
+
+53
+00:03:47,210 --> 00:03:51,650
+izquierda lo cual hace que finalmente se corten estos fenómenos de
+
+54
+00:03:51,650 --> 00:03:56,450
+reentrada auricular ahora vemos las contraindicaciones dado que ya
+
+55
+00:03:56,450 --> 00:04:00,050
+dijimos que hay fármacos para el ritmo hay fármacos para la frecuencia
+
+56
+00:04:00,050 --> 00:04:04,450
+pero con las contraindicaciones uno finalmente va a saber cuál es el que
+
+57
+00:04:04,450 --> 00:04:08,730
+hay que elegir para un paciente en concreto así que recordemos del
+
+58
+00:04:08,730 --> 00:04:12,170
+beta bloqueo el asma y el EPOC son las contraindicaciones más
+
+59
+00:04:12,170 --> 00:04:16,170
+importantes acuérdense que pueden obstruir mucho a uno de estos pacientes
+
+60
+00:04:16,930 --> 00:04:21,730
+la diabetes en particular cuando viene con riesgo de hipoglicemia no porque la
+
+61
+00:04:21,730 --> 00:04:26,410
+descompense sino porque oculta los síntomas de una hipoglicemia que los
+
+62
+00:04:26,410 --> 00:04:29,890
+síntomas iniciales son justamente simpático mimético y aquí quedan
+
+63
+00:04:29,890 --> 00:04:35,330
+bloqueados con el beta bloqueo obviamente la hipotensión la
+
+64
+00:04:35,330 --> 00:04:39,330
+insuficiencia cardiaca aguda muy descompensada en el sentido en que
+
+65
+00:04:39,330 --> 00:04:45,330
+son hipotensores y además son inotropos negativos al menos hasta
+
+66
+00:04:45,490 --> 00:04:48,330
+algún punto así que en general una insuficiencia cardiaca muy
+
+67
+00:04:48,330 --> 00:04:54,330
+descompensada se suspende el beta bloqueo al menos durante un rato en el
+
+68
+00:04:54,330 --> 00:04:58,730
+caso de los bloqueadores del calcio del Diltiazem y del verapamilo la
+
+69
+00:04:58,730 --> 00:05:02,490
+hipotensión y la insuficiencia cardiaca igualmente son las
+
+70
+00:05:02,490 --> 00:05:07,530
+contraindicaciones más importantes dado que en ese caso se puede
+
+71
+00:05:07,530 --> 00:05:10,890
+hipotensar todavía más son hipotensores en particular el
+
+72
+00:05:11,450 --> 00:05:16,970
+verapamilo si tiene un efecto hipotensor pero mucho menor y segundo
+
+73
+00:05:16,970 --> 00:05:23,090
+lugar la insuficiencia cardiaca porque el calcio sirve como un inotropo
+
+74
+00:05:23,090 --> 00:05:26,570
+positivo y por lo tanto los bloqueadores del calcio son inotropos
+
+75
+00:05:26,570 --> 00:05:30,570
+negativos y disminuyen la fuerza con la que se contrae el corazón ahora
+
+76
+00:05:30,570 --> 00:05:34,970
+los digitales por el general son un poco más tóxicos que los otros dos
+
+77
+00:05:34,970 --> 00:05:40,210
+así que la medida de lo posible no se usan pero si es que alguien está
+
+78
+00:05:40,210 --> 00:05:44,370
+con hipotensión o con falla cardiaca los digitales eventualmente sirven
+
+79
+00:05:44,370 --> 00:05:48,490
+acuérdense que son inotropos positivos de hecho se usan como parte del
+
+80
+00:05:48,490 --> 00:05:52,210
+manejo sintomático la insuficiencia cardiaca pero su contra indicación más
+
+81
+00:05:52,210 --> 00:05:56,770
+importante en la insuficiencia renal crónica son relativamente tóxicos y
+
+82
+00:05:56,770 --> 00:06:00,090
+tienen un rango terapéutico bien estrecho lo que significa que hay que
+
+83
+00:06:00,090 --> 00:06:04,090
+darle una buena dosis porque si no no hacen efecto pero si le doy un
+
+84
+00:06:04,090 --> 00:06:07,850
+poquito más de eso eventualmente se puede generar una intoxicación por
+
+85
+00:06:07,850 --> 00:06:12,290
+digitales que se traduce finalmente en otras arritmias y en falla cardiaca
+
+86
+00:06:12,290 --> 00:06:16,570
+también en el caso de los de control de ritmo las contra indicaciones más
+
+87
+00:06:16,570 --> 00:06:22,170
+importantes de la amiodarona es el wolf parkinson white el que haya
+
+88
+00:06:22,170 --> 00:06:26,170
+un fenómeno de pre excitación en el sentido en que tiene riesgo de
+
+89
+00:06:26,170 --> 00:06:31,330
+degenerar arritmias más graves y finalmente la fibroesis pulmonar
+
+90
+00:06:31,330 --> 00:06:34,370
+acordándonos que una de las clásicas complicaciones del uso
+
+91
+00:06:34,370 --> 00:06:38,770
+crónico de la amiodarona era justamente el que se podía desarrollar
+
+92
+00:06:38,770 --> 00:06:42,250
+esta fibroesis pulmonar secundaria así que en ese caso está absolutamente
+
+93
+00:06:42,250 --> 00:06:46,970
+contra indicado hay que suspenderlo y la otra complicación que se podía
+
+94
+00:06:46,970 --> 00:06:50,010
+ver era lo relacionado con el hiper o el hipotiroidismo
+
+95
+00:06:50,010 --> 00:06:55,410
+finalmente en los bloqueadores de el sodio digase en la propa fenona en la
+
+96
+00:06:55,410 --> 00:07:00,610
+en la fleca inida lo más importante es que no se pueden dar en un
+
+97
+00:07:00,610 --> 00:07:04,290
+corazón enfermo no se pueden dar en un paciente con una falla cardiaca o
+
+98
+00:07:04,290 --> 00:07:07,530
+con alguna cardiopatía de ningún tipo en el sentido en que ahí se
+
+99
+00:07:07,530 --> 00:07:11,010
+dispara el riesgo de arritmias malignas más graves como una
+
+100
+00:07:11,010 --> 00:07:14,970
+taquicardia ventricular por ejemplo así que solamente se pueden dar en
+
+101
+00:07:14,970 --> 00:07:19,450
+corazón sano y eso hace que en la práctica lo que más se usa el fa
+
+102
+00:07:19,450 --> 00:07:23,290
+como control de ritmo es la amiodarona y se usa poco la
+
+103
+00:07:23,290 --> 00:07:26,730
+propa fenona si bien insisto si se puede dar en un paciente con
+
+104
+00:07:26,730 --> 00:07:32,010
+corazón sano y ahora vamos a ir a ver los anticogulantes

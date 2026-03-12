@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:07,520
+Veamos ahora dos temas igualmente frecuentes en el adulto mayor, que son la
+
+2
+00:00:07,520 --> 00:00:12,000
+depresión y el abuso. Empecemos con la depresión en el adulto mayor, que es algo
+
+3
+00:00:12,000 --> 00:00:15,600
+que vamos a ver con cierto detalle en psiquiatría también. Los factores de
+
+4
+00:00:15,600 --> 00:00:19,280
+riesgo más importantes son la soledad, por si acaso, la pérdida de la
+
+5
+00:00:19,280 --> 00:00:23,960
+red de apoyo. Es algo que puede angustiar y deprimir bastante a un
+
+6
+00:00:23,960 --> 00:00:27,240
+adulto mayor. Las enfermedades, obviamente si está enfermo, si se
+
+7
+00:00:27,240 --> 00:00:31,400
+siente mal, si es que disminuye su autonomía, es algo que genera una
+
+8
+00:00:31,400 --> 00:00:36,400
+frustración importante y depresión también. Y la pobreza. Esos tres son los
+
+9
+00:00:36,400 --> 00:00:40,760
+factores de riesgo más importantes para que un adulto mayor se deprima. Que
+
+10
+00:00:40,760 --> 00:00:44,520
+quede esto bien claro, el envejecimiento normal no incluye
+
+11
+00:00:44,520 --> 00:00:48,000
+deprimirse, por si acaso. Así que si es que un adulto mayor está con estos
+
+12
+00:00:48,000 --> 00:00:52,040
+síntomas, es algo que hay que ir a buscar activamente y tratar
+
+13
+00:00:52,040 --> 00:00:56,760
+igualmente de manera activa. El cuadro clínico lo más frecuente es que sea
+
+14
+00:00:56,760 --> 00:01:01,480
+una depresión clásica, con la tristeza y anedonia como síntomas
+
+15
+00:01:01,480 --> 00:01:06,080
+fundamentales, más el resto de la afectación de la vida, la
+
+16
+00:01:06,080 --> 00:01:10,160
+baja de peso, el insomnio, la desconcentración, la afectación de la
+
+17
+00:01:10,160 --> 00:01:15,560
+vida sexual, etcétera. Pero en algunos casos en los adultos mayores se
+
+18
+00:01:15,560 --> 00:01:19,960
+presenta de una forma diferente, como una pseudo demencia, como una
+
+19
+00:01:19,960 --> 00:01:24,640
+depresión que me simula a una demencia con olvidos y con errores en
+
+20
+00:01:24,680 --> 00:01:28,200
+sus actividades, cierto, pero la gran diferencia es que sí responde a los
+
+21
+00:01:28,200 --> 00:01:32,240
+antidepresivos, así que en todo paciente con una aparente demencia hay
+
+22
+00:01:32,240 --> 00:01:38,160
+que evaluar activamente cómo está su ánimo. Y finalmente el adulto mayor
+
+23
+00:01:38,160 --> 00:01:41,720
+en algunos casos se presenta también como un caso mucho más severo, con
+
+24
+00:01:41,720 --> 00:01:45,400
+síntomas psicóticos, ya sea porque de base viene con algún grado de
+
+25
+00:01:45,400 --> 00:01:49,840
+daño cerebral, aunque sea orgánico menor, o bien con una
+
+26
+00:01:49,840 --> 00:01:53,720
+demencia propiamente tal, pero que al venir con esta depresión se
+
+27
+00:01:53,720 --> 00:01:57,520
+complica mucho más y viene con una depresión que puede ser muy severa, con
+
+28
+00:01:57,520 --> 00:02:01,960
+un delirio paranoide o de ruina, por ejemplo, etcétera. El delirio de
+
+29
+00:02:01,960 --> 00:02:04,440
+ruina es bien característico del adulto mayor o el delirio de
+
+30
+00:02:04,440 --> 00:02:09,200
+enfermedad, cierto, en que se convencen de manera muy categórica y
+
+31
+00:02:09,200 --> 00:02:13,920
+apodíctica, cierto, de que están con una situación que es imposible de
+
+32
+00:02:13,920 --> 00:02:17,720
+sobrellevar o con alguna enfermedad que no le han podido diagnosticar,
+
+33
+00:02:17,720 --> 00:02:21,520
+pero al indagar mucho mejor uno se da cuenta que en verdad está muy
+
+34
+00:02:21,600 --> 00:02:26,840
+deprimido, con una tristeza muy marcada, con algún grado de anedonia importante
+
+35
+00:02:26,840 --> 00:02:31,200
+y que esta psicosis es simplemente una complicación del cuadro anímico y
+
+36
+00:02:31,200 --> 00:02:35,800
+está con una depresión psicótica. El diagnóstico es absolutamente clínico,
+
+37
+00:02:35,800 --> 00:02:40,240
+aunque en los adultos mayores eventualmente se pueden hacer
+
+38
+00:02:40,240 --> 00:02:43,160
+algunas pruebas de screening y no solo que se pueden, sino que se
+
+39
+00:02:43,160 --> 00:02:46,920
+recomienda activamente hacerle pruebas de screening de depresión a
+
+40
+00:02:46,920 --> 00:02:50,800
+los adultos mayores en todas las atenciones médicas y dentro de esto
+
+41
+00:02:50,800 --> 00:02:56,920
+el más básico son el screening de dos preguntas que una va orientada a la
+
+42
+00:02:56,920 --> 00:03:02,320
+tristeza, es que es más o menos así, se siente usted triste o deprimido en
+
+43
+00:03:02,320 --> 00:03:06,560
+el último tiempo y la otra va orientada a la anedonia, es como
+
+44
+00:03:06,560 --> 00:03:11,760
+siente usted como que ya no siente placer o ganas de hacer las
+
+45
+00:03:11,760 --> 00:03:16,000
+actividades que habitualmente hace, si es que responde
+
+46
+00:03:16,000 --> 00:03:19,960
+afirmativamente a cualquiera de esas dos preguntas, pues eventualmente se
+
+47
+00:03:19,960 --> 00:03:25,600
+evalúa más a fondo y la otra forma de hacer el screening es con el famoso
+
+48
+00:03:25,600 --> 00:03:30,520
+GDS, que es la escala de depresión geriátrica, con sus siglas en inglés,
+
+49
+00:03:30,520 --> 00:03:34,240
+que hay una que viene con cinco preguntas, otra que viene con 15 y otra
+
+50
+00:03:34,240 --> 00:03:38,440
+con 30, la de 15 preguntas es la que está más estandarizada por su
+
+51
+00:03:38,440 --> 00:03:43,880
+caso y si es que obtiene una puntuación de al menos un tercio del
+
+52
+00:03:43,880 --> 00:03:51,760
+puntaje, dígase mayor o igual de 5 de 15 o mayor o igual de 10 de 30, en ese
+
+53
+00:03:51,760 --> 00:03:56,400
+caso pues debe ir a una evaluación del ánimo mucho más detallada, cierto, por
+
+54
+00:03:56,400 --> 00:03:59,560
+alguien que se dedique a salud mental, como para que veas si efectivamente
+
+55
+00:03:59,560 --> 00:04:03,280
+está con una depresión o no, y lo más probable es que sí la tenga y
+
+56
+00:04:03,280 --> 00:04:08,040
+repito el punto de corte es 5, 5 de 15 o más, en ese caso ya es un
+
+57
+00:04:08,040 --> 00:04:12,640
+screening positivo, ahora el tratamiento de la depresión en el
+
+58
+00:04:12,680 --> 00:04:16,800
+adulto mayor por la general es con psicoterapia y o los antidepresivos
+
+59
+00:04:16,800 --> 00:04:21,520
+IRS, los inhibidores de la recaptura de serotonina, que son los con una
+
+60
+00:04:21,520 --> 00:04:25,280
+menor cantidad de efectos adversos, así que suelen ser sí o sí los de
+
+61
+00:04:25,280 --> 00:04:28,960
+primera línea en el adulto mayor y dentro de estos la sertralina, el
+
+62
+00:04:28,960 --> 00:04:34,280
+citalopram y el ex citalopram son los que más se usan debido justamente a que
+
+63
+00:04:34,280 --> 00:04:37,400
+no sólo que tienen una buena tolerancia, sino que también tienen
+
+64
+00:04:37,400 --> 00:04:42,040
+una baja tasa de interacciones medicamentosas con la polifarmacia del
+
+65
+00:04:42,040 --> 00:04:46,360
+adulto mayor, ahora la floxetina se puede usar también en el adulto mayor
+
+66
+00:04:46,360 --> 00:04:50,520
+sin ningún problema, la paroxetina en cambio se prefiere no usar en el
+
+67
+00:04:50,520 --> 00:04:53,360
+adulto mayor porque eventualmente aumenta el riesgo cardiovascular, pero
+
+68
+00:04:53,360 --> 00:04:58,040
+repito sertralina y citalopram son por lejos los dos medicamentos más
+
+69
+00:04:58,040 --> 00:05:01,720
+usados en el tratamiento farmacológico de la depresión del
+
+70
+00:05:01,720 --> 00:05:06,520
+anciano, de segunda línea igual que en los pacientes jóvenes son los
+
+71
+00:05:06,520 --> 00:05:10,760
+antidepresivos duales y dentro de esto la ve la vacina y la
+
+72
+00:05:10,760 --> 00:05:13,920
+duloxetina que son los que más se usan en los pacientes jóvenes se pueden
+
+73
+00:05:13,920 --> 00:05:18,000
+igualmente usar en los pacientes adultos mayores sin ningún problema,
+
+74
+00:05:18,000 --> 00:05:22,480
+ahora si fuera muy severa si un paciente que está con ideación
+
+75
+00:05:22,480 --> 00:05:27,680
+suicida y con una depresión psicótica a los 80 años, en ese caso
+
+76
+00:05:27,680 --> 00:05:32,160
+lo que se suele recomendar es la terapia electro convulsiva, la
+
+77
+00:05:32,160 --> 00:05:38,320
+terapia electro convulsiva se le ponen electro en el cerebro cierto y se
+
+78
+00:05:38,960 --> 00:05:43,520
+resetea el cerebro de una u otra forma y eso es algo que suele quitar la
+
+79
+00:05:43,520 --> 00:05:48,440
+depresión de un momento a otro así que suele ser el tratamiento de elección en
+
+80
+00:05:48,440 --> 00:05:52,480
+los casos en los cuales se requiere sí o sí una recuperación lo antes
+
+81
+00:05:52,480 --> 00:05:56,560
+posible ejemplo con una ideación suicida muy marcada en el corto plazo
+
+82
+00:05:56,560 --> 00:06:03,160
+o con algún intento suicida en una depresión severa suele ser el manejo
+
+83
+00:06:03,160 --> 00:06:06,560
+que se suele indicar, es algo que no solamente aplica al adulto mayor
+
+84
+00:06:06,640 --> 00:06:11,160
+sino que aplica también a los pacientes jóvenes con alguna depresión extremadamente
+
+85
+00:06:11,160 --> 00:06:16,240
+severa y suele ser muy bien tolerada y más allá del estigma social que
+
+86
+00:06:16,240 --> 00:06:20,680
+genera que el resto de las personas se enteren que le hicieron una
+
+87
+00:06:20,680 --> 00:06:24,520
+terapia electro convulsiva, la verdad es que anda bastante bien así que
+
+88
+00:06:24,520 --> 00:06:28,920
+hay que ir disminuyendo un poco ese estigma, ahora que quede bien claro en
+
+89
+00:06:28,920 --> 00:06:33,360
+el adulto mayor está contraindicados los antidepresivos tricíclicos es
+
+90
+00:06:33,360 --> 00:06:36,680
+algo que no se deja ni de primera línea ni de segunda línea ni de
+
+91
+00:06:36,680 --> 00:06:40,760
+tercera línea tampoco a lo más un especialista en psiquiatría en el
+
+92
+00:06:40,760 --> 00:06:45,040
+adulto mayor podría dejarlos de cuarta línea o alguna cosa así pero la idea
+
+93
+00:06:45,040 --> 00:06:50,320
+general del médico general es que los antidepresivos tricíclicos son
+
+94
+00:06:50,320 --> 00:06:54,280
+pastillas mata viejitos y que por lo tanto no se les puede dar, vemos ahora
+
+95
+00:06:54,280 --> 00:06:58,680
+el otro tema el abuso en el adulto mayor y recordemos que los tipos de
+
+96
+00:06:58,680 --> 00:07:02,760
+abuso que habitualmente sufren son el abuso físico así les pegan los
+
+97
+00:07:02,760 --> 00:07:08,440
+amarran etcétera el abuso psicológico los maltratan los insultan los tratan
+
+98
+00:07:08,440 --> 00:07:14,040
+muy mal el abuso por abandono así la familia lo deja absolutamente de lado
+
+99
+00:07:14,040 --> 00:07:18,960
+y es una persona que queda totalmente sola y a veces sin dinero también el
+
+100
+00:07:18,960 --> 00:07:24,480
+abuso económico así se aprovechan y le roban sus bienes o se quedan con
+
+101
+00:07:24,480 --> 00:07:31,280
+su pensión y en vez de dedicarla y destinarla a las necesidades del
+
+102
+00:07:31,280 --> 00:07:35,440
+adulto mayor cierto se la gastan los hijos en alguna otra cosa y también
+
+103
+00:07:35,440 --> 00:07:38,800
+son víctimas de abuso sexual y eso algo que no hay que olvidarlo hay
+
+104
+00:07:38,800 --> 00:07:41,920
+gente que cree que solamente las personas jóvenes son son víctimas de
+
+105
+00:07:41,920 --> 00:07:45,640
+abuso sexual pero el abuso en adultos mayores y en adultos mayores con
+
+106
+00:07:45,640 --> 00:07:49,880
+demencia por ejemplo es algo que se ve con cierta frecuencia en el
+
+107
+00:07:49,880 --> 00:07:53,960
+derecho penal al menos ahora lo importante es sospecharlo y no
+
+108
+00:07:53,960 --> 00:07:58,640
+solamente que sospecharlo sino que denunciarlo al menos en chile los
+
+109
+00:07:58,640 --> 00:08:03,800
+médicos tienen la obligación legal de denunciar cualquier sospecha de un
+
+110
+00:08:03,800 --> 00:08:08,160
+delito cometido en contra de un paciente así que en el caso de que
+
+111
+00:08:08,160 --> 00:08:12,720
+lo sospechen y que tengan algún indicio de esto en ese caso hay que
+
+112
+00:08:12,720 --> 00:08:16,400
+denunciarlo a la dirección del hospital o del centro médico para
+
+113
+00:08:16,400 --> 00:08:20,420
+que haga finalmente esta denuncia a la fiscalía y que se haga una
+
+114
+00:08:20,420 --> 00:08:24,520
+investigación un poco más grande y repito no es que sea una denuncia
+
+115
+00:08:24,520 --> 00:08:30,240
+calumniosa porque uno no no comunica hay aquí un abuso sexual sino que uno
+
+116
+00:08:30,240 --> 00:08:34,480
+comunica encontré los siguientes indicios en este paciente para que
+
+117
+00:08:34,480 --> 00:08:38,560
+sea eventualmente investigado y el ejemplo clásico es el adulto mayor
+
+118
+00:08:38,560 --> 00:08:43,320
+que dice hay un complot para quitarme mis bienes y de hecho llega la
+
+119
+00:08:43,320 --> 00:08:48,240
+familia dice mire la abuelita anda ahí ya con demencia y anda con esa
+
+120
+00:08:48,240 --> 00:08:52,800
+idea que le quieren quitar sus cosas así que dele una pastilla y le pide
+
+121
+00:08:52,800 --> 00:08:57,680
+que le dejen antipsicóticos y la mantienen super sedadas cierto y por
+
+122
+00:08:57,680 --> 00:09:02,220
+estar sedadas se ve como que tuviera más demencia finalmente pero antes de
+
+123
+00:09:02,220 --> 00:09:07,480
+acceder a ese tipo de cosas no solamente hay que escuchar a los
+
+124
+00:09:07,480 --> 00:09:11,200
+familiares hay que escuchar activamente a la paciente y si la
+
+125
+00:09:11,200 --> 00:09:15,880
+paciente les dice mire hay un complot de verdad porque hasta llegó mi
+
+126
+00:09:15,880 --> 00:09:20,040
+hija con un documento para sacarme una firma de un poder en que yo le
+
+127
+00:09:20,040 --> 00:09:23,960
+daba poder para enajenar inmuebles o cualquier cosa así eventualmente sí
+
+128
+00:09:23,960 --> 00:09:27,560
+puede que haya un complot para robarle sus bienes debido a que el abuso
+
+129
+00:09:27,560 --> 00:09:31,280
+económico algo súper frecuente en esta gente así que es una de las
+
+130
+00:09:31,280 --> 00:09:35,520
+cosas que hay que ir a investigar y hay que eventualmente denunciar también
+
+131
+00:09:35,520 --> 00:09:39,400
+ya así que hay que tenerlo claro y eso es todo ya nos vemos en otros
+
+132
+00:09:39,400 --> 00:09:42,520
+temas un poquito menos escabrosos que así que
+
+133
+00:09:42,520 --> 00:09:46,840
+harto ánimo con el estudio y harta constancia con el estudio también
+
+134
+00:09:46,840 --> 00:09:50,960
+por favor ya nos saquen la vuelta que estén bien

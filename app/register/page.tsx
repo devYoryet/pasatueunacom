@@ -50,7 +50,7 @@ export default function RegisterPage() {
     setLoading(true)
     try {
       const supabase = createClient()
-      const { error } = await supabase.auth.signUp({
+      const { data: authData, error } = await supabase.auth.signUp({
         email: data.email,
         password: data.password,
         options: {
@@ -60,6 +60,16 @@ export default function RegisterPage() {
         },
       })
 
+      // Debug: ver en consola qué devuelve Supabase
+      console.log('[Register] signUp response:', {
+        user: authData?.user?.id,
+        email: authData?.user?.email,
+        identitiesCount: authData?.user?.identities?.length,
+        hasSession: !!authData?.session,
+        needsConfirmation: authData?.user && !authData?.session,
+        error: error?.message,
+      })
+
       if (error) {
         console.error('[Register] Supabase error:', error.message, error)
         if (error.message.includes('already registered') || error.message.includes('already been registered')) {
@@ -67,6 +77,13 @@ export default function RegisterPage() {
         } else {
           toast.error(error.message || 'Error al registrarse. Intenta de nuevo.')
         }
+        return
+      }
+
+      // Supabase puede devolver usuario sin sesión si pide confirmación de email
+      if (authData?.user && !authData?.session) {
+        setSuccess(true)
+        toast.success('Cuenta creada. Revisa tu email para confirmar y luego inicia sesión.')
         return
       }
 

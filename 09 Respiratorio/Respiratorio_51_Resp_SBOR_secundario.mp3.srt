@@ -1,0 +1,639 @@
+1
+00:00:03,250 --> 00:00:08,010
+Hola hola, ¿cómo están? Vamos a ver algunas causas de síndrome bronquial obstructivo secundario
+
+2
+00:00:08,010 --> 00:00:12,730
+y vamos a ver cuáles son los elementos clínicos o de la radiografía que nos hacen sospecharlo
+
+3
+00:00:12,730 --> 00:00:15,530
+y luego cómo diagnosticarlo y manejarlo en específico.
+
+4
+00:00:15,530 --> 00:00:20,450
+Solamente cuatro causas, fibrosisquística, las cardiopatías, la enfermedad de sílio inmóvil
+
+5
+00:00:20,450 --> 00:00:23,930
+o de esquinesia ciliares y finalmente la displacia broncopulmonar.
+
+6
+00:00:23,930 --> 00:00:26,650
+Así que empecemos con la cardiopatía congénita.
+
+7
+00:00:26,650 --> 00:00:31,290
+Se sospecha cuando hay un soplo, ejemplo un solo holosistólico que era de la CIB,
+
+8
+00:00:31,290 --> 00:00:37,570
+comunicación interventricular, o un soplo pan sistólico, es lo mismo por si acaso que holosistólico,
+
+9
+00:00:37,570 --> 00:00:41,730
+un soplo en maquinaria o sistodiastólico continuo que era del DAP
+
+10
+00:00:41,730 --> 00:00:48,170
+o un soplo sistólico eyectivo o mesosistólico que era lo característico de la CIA,
+
+11
+00:00:48,170 --> 00:00:49,690
+de la comunicación interauricular.
+
+12
+00:00:49,690 --> 00:00:54,890
+Ahora, todo eso lo pueden ver en la clase respectiva de las cardiopatías congénitas.
+
+13
+00:00:54,890 --> 00:00:56,890
+Ahora, segundo lugar, cardiomegalia.
+
+14
+00:00:56,890 --> 00:01:01,890
+Y acuérdense, la CIA dilata el lado derecho, la CIB dilata en cambio el lado izquierdo
+
+15
+00:01:01,890 --> 00:01:04,290
+y el ductus habitualmente dilata el lado izquierdo también.
+
+16
+00:01:04,290 --> 00:01:10,290
+Aparte de eso está la fibrosisquística, en este caso se sospecha cuando hay bronquiectasias.
+
+17
+00:01:10,290 --> 00:01:14,890
+Las bronquiectasias son esta dilatación permanente e irreversible de un bronquio
+
+18
+00:01:14,890 --> 00:01:19,090
+y que tiene el riesgo de que se va sobreinfectando luego con distintas bacterias.
+
+19
+00:01:19,090 --> 00:01:23,090
+De hecho, son muy frecuentes las neumonías por esas dos bacterias en específico,
+
+20
+00:01:23,290 --> 00:01:27,490
+además de las bacterias habituales como el hemococco o el aimófilo.
+
+21
+00:01:27,490 --> 00:01:31,490
+En este caso, que se infecte por pseudomonas o que se infecte por esta filococco
+
+22
+00:01:31,490 --> 00:01:36,290
+es algo esperable en la fibrosisquística y además es algo que per se nos obliga
+
+23
+00:01:36,290 --> 00:01:38,890
+a sospechar y a descartar una fibrosisquística.
+
+24
+00:01:38,890 --> 00:01:41,890
+Si un niño que me ha hecho dos neumonías por pseudomonas
+
+25
+00:01:41,890 --> 00:01:45,890
+hay que ir dirigidamente a buscar que no tenga una fibrosisquística de base.
+
+26
+00:01:45,890 --> 00:01:48,890
+Lo mismo si que viene con diarrea, con una mala absorción intestinal,
+
+27
+00:01:48,890 --> 00:01:52,690
+porque acuérdense que la fibrosisquística no solamente afecta los pulmones,
+
+28
+00:01:52,690 --> 00:01:57,290
+afecta también el páncreas y se produce un déficit de páncreas exocrino
+
+29
+00:01:57,290 --> 00:02:02,690
+que se traduce obviamente en un síntrome de mala absorción por la deficiencia enzimática.
+
+30
+00:02:02,690 --> 00:02:08,290
+La enfermedad de silo inmóvil, la clínica es exactamente igual a la fibrosisquística
+
+31
+00:02:08,290 --> 00:02:12,890
+al menos respecto a las bronquiectasias y a las neumonías por pseudomonas y por estáfilo,
+
+32
+00:02:12,890 --> 00:02:17,890
+pero no tiene diarrea, la diarrea es solamente de la fibrosisquística
+
+33
+00:02:18,090 --> 00:02:23,890
+y lo que sí tiene es que viene con afectación de la nariz y de los oídos,
+
+34
+00:02:23,890 --> 00:02:28,090
+viene con mucha rinitis, con rinocinusitis y con otitis media aguda recurrente
+
+35
+00:02:28,090 --> 00:02:32,890
+y la razón es que el epitelio nasal, el epitelio de los senos paranasales
+
+36
+00:02:32,890 --> 00:02:36,090
+y de la trompa de ustáquio, todo es epitelio ciliado
+
+37
+00:02:36,090 --> 00:02:40,490
+y obviamente al no funcionar los cilios tampoco funcionan esos órganos
+
+38
+00:02:40,490 --> 00:02:42,090
+y eventualmente se infectan.
+
+39
+00:02:42,090 --> 00:02:45,490
+Y además viene con dextrocardia o con unsitus inversus total,
+
+40
+00:02:45,490 --> 00:02:49,490
+puede venir también porque acuérdense que en el periodo embrionario
+
+41
+00:02:49,490 --> 00:02:56,490
+lo que define la lateralización del corazón es justamente el movimiento de algunos cilios
+
+42
+00:02:56,490 --> 00:03:00,490
+así que en el caso de la enfermedad de silo inmóvil o de las disquinesias
+
+43
+00:03:00,490 --> 00:03:07,490
+no todos los corazones rotan bien o quedan al medio o algunos otros quedan hacia el lado derecho
+
+44
+00:03:07,490 --> 00:03:09,490
+que no es lo habitual, lo habitual es que queden al izquierdo.
+
+45
+00:03:09,490 --> 00:03:13,490
+Ahora, la dextrocardia se ve en más o menos la mitad de los casos
+
+46
+00:03:13,490 --> 00:03:17,490
+o puede ser incluso un poquito menos, por si acaso, así que no es algo que deba estar
+
+47
+00:03:17,490 --> 00:03:21,490
+pero es algo que sugiere muy, muy fuertemente una enfermedad por silo inmóvil
+
+48
+00:03:21,490 --> 00:03:27,490
+que cuando viene con dextrocardia o con unsitus inversus se llama el síndrome de Cartagener, por si acaso.
+
+49
+00:03:27,490 --> 00:03:32,490
+Ahora, la última, la displasia broncopulmonar, hay que saber que viene con el antecedente
+
+50
+00:03:32,490 --> 00:03:36,490
+de la enfermedad de membrana yalina que era este distrés respiratorio severo del niño
+
+51
+00:03:36,490 --> 00:03:39,490
+con una prematureza extrema.
+
+52
+00:03:39,490 --> 00:03:44,490
+Vamos a ver su definición después, pero el antecedente de membrana yalina orienta
+
+53
+00:03:44,490 --> 00:03:48,490
+fuertemente a una displasia broncopulmonar en un niño con un SBO recurrente.
+
+54
+00:03:48,490 --> 00:03:53,490
+Vamos viendo cómo se denostica cada una, en el caso de la cardiopatía congénita,
+
+55
+00:03:53,490 --> 00:03:57,490
+si se sospecha por el soplo o por lo que sea, un ecocardiograma o una ecocardiografía
+
+56
+00:03:57,490 --> 00:04:03,490
+hace el diagnóstico, identifique inmediatamente cuál es y me permite el tratamiento específico.
+
+57
+00:04:03,490 --> 00:04:07,490
+En el caso de la fibrosis quística se hace con el test del sudor, que acuérdense que
+
+58
+00:04:07,490 --> 00:04:12,490
+lo que mide es cloro en el sudor y en los niños con fibrosis quística este cloro aumenta
+
+59
+00:04:12,490 --> 00:04:18,490
+mucho, de hecho si está arriba de 60 mil equivalentes, en ese caso uno dice
+
+60
+00:04:18,490 --> 00:04:23,490
+hago el diagnóstico de fibrosis quística y se pide igualmente los test genéticos
+
+61
+00:04:23,490 --> 00:04:28,490
+específicos como para identificar la mutación específica, estudiar a la familia
+
+62
+00:04:28,490 --> 00:04:32,490
+y eventualmente cambiar levemente el manejo.
+
+63
+00:04:32,490 --> 00:04:37,490
+En el caso en que esté entre 30 y 60 uno dice que es un valor indeterminado
+
+64
+00:04:37,490 --> 00:04:42,490
+y en este caso se pide el test genético no solamente como para identificar la higiene
+
+65
+00:04:42,490 --> 00:04:46,490
+sino que eventualmente como para hacer el diagnóstico en el sentido en que
+
+66
+00:04:46,490 --> 00:04:51,490
+si está arriba de 60 no me queda ninguna duda, el diagnóstico es una fibrosis quística
+
+67
+00:04:51,490 --> 00:04:55,490
+pero si está en este rango indeterminado debo confirmarlo con el test genético
+
+68
+00:04:55,490 --> 00:04:59,490
+o eventualmente descartarlo también y si está menor a 30 pues en este caso
+
+69
+00:04:59,490 --> 00:05:03,490
+lo más probable es que no tenga la fibrosis quística y lo correcto sería
+
+70
+00:05:03,490 --> 00:05:07,490
+descartarla a menos claro que tenga alguna sospecha demasiado alta
+
+71
+00:05:07,490 --> 00:05:10,490
+y en ese caso se va a repetir todo.
+
+72
+00:05:10,490 --> 00:05:15,490
+En el caso de la enfermedad de siglo inmóvil como el paso número uno
+
+73
+00:05:15,490 --> 00:05:19,490
+no es ir a confirmarlo sino que es descartar otras enfermedades como
+
+74
+00:05:19,490 --> 00:05:23,490
+la misma fibrosis quística y las inmunodepresiones en general, o sea
+
+75
+00:05:23,490 --> 00:05:26,490
+yo no empiezo el estudio de enfermedad de siglo inmóvil hasta no haber
+
+76
+00:05:26,490 --> 00:05:29,490
+completado el estudio de un montón de otras cosas.
+
+77
+00:05:29,490 --> 00:05:35,490
+Ahora el test inicial que se usa actualmente es el test del óxido nítrico nasal
+
+78
+00:05:35,490 --> 00:05:40,490
+en el sentido en que los pacientes con disquinesias ciliares tienen niveles
+
+79
+00:05:40,490 --> 00:05:45,490
+de óxido nítrico mucho más bajo a nivel nasal que la de los pacientes
+
+80
+00:05:45,490 --> 00:05:49,490
+sanos o sin ninguna de estas alteraciones.
+
+81
+00:05:49,490 --> 00:05:52,490
+Pero la forma en que finalmente se confirma es con la biopsia
+
+82
+00:05:52,490 --> 00:05:55,490
+que tiene que ser con la biopsia de alguno de los epitelios ciliaos
+
+83
+00:05:55,490 --> 00:05:59,490
+y los que más se usan son el epitelio nasal o el epitelio bronquial
+
+84
+00:05:59,490 --> 00:06:03,490
+y eso obviamente va a depender de la disponibilidad de un buen otorrino
+
+85
+00:06:03,490 --> 00:06:08,490
+que me haga la biopsia nasal o de un buen broncopulmonar que haga broncoscopía
+
+86
+00:06:08,490 --> 00:06:12,490
+y que me tome una buena biopsia bronquial, ambas sirven.
+
+87
+00:06:12,490 --> 00:06:17,490
+Finalmente la displacia broncopulmonar lo que la define es un niño
+
+88
+00:06:17,490 --> 00:06:21,490
+que tiene una enfermedad de membrana yalina pero que sigue requiriendo oxígeno
+
+89
+00:06:21,490 --> 00:06:25,490
+después de haber alcanzado las 36 semanas de edad gestacional.
+
+90
+00:06:25,490 --> 00:06:33,490
+Lo habitual es que la membrana yalina no ocurre después de las 34 semanas
+
+91
+00:06:33,490 --> 00:06:36,490
+sino que siempre ocurre antes de las 34 semanas.
+
+92
+00:06:36,490 --> 00:06:41,490
+Solamente en los hijos de madre diabética eventualmente se ve hasta las 35 semanas
+
+93
+00:06:41,490 --> 00:06:45,490
+y lo habitual es que a medida que va madurando una vez que ya nació
+
+94
+00:06:45,490 --> 00:06:47,490
+deje de requerir oxígeno.
+
+95
+00:06:47,490 --> 00:06:52,490
+Si es que ya llega a las 36 semanas de edad gestacional, o sea ejemplo
+
+96
+00:06:52,490 --> 00:06:56,490
+si nació a las 30 semanas y ya ha pasado 6 semanas desde que nació
+
+97
+00:06:56,490 --> 00:06:59,490
+uno esperaría que esté sin oxígeno, si es que sigue requiriéndolo
+
+98
+00:06:59,490 --> 00:07:03,490
+en ese caso yo confirmo el diagnóstico de esta displacia broncopulmonar.
+
+99
+00:07:03,490 --> 00:07:07,490
+Fíjense, la radiografía puede venir con alteraciones pero lo que hace el diagnóstico
+
+100
+00:07:07,490 --> 00:07:11,490
+es el requerimiento de oxígeno más el antecedente de la enfermedad de membrana yalina.
+
+101
+00:07:11,490 --> 00:07:13,490
+Eso es importante en su definición.
+
+102
+00:07:13,490 --> 00:07:19,490
+Pero sí se estudia y se estudia habitualmente con una ecocardiografía,
+
+103
+00:07:19,490 --> 00:07:23,490
+con un ecocardiograma, pero buscando la presencia de la complicación
+
+104
+00:07:23,490 --> 00:07:27,490
+más clásica de esta enfermedad que es la hipertensión pulmonar.
+
+105
+00:07:27,490 --> 00:07:31,490
+Ahora, respecto al manejo, en el caso de las cardiopatías congénitas
+
+106
+00:07:31,490 --> 00:07:36,490
+habitualmente se hace cirugía, ya sea una cirugía con una prótesis
+
+107
+00:07:36,490 --> 00:07:40,490
+como las de doble paragua que me permiten sellar algún defecto
+
+108
+00:07:40,490 --> 00:07:44,490
+como la bique por ejemplo, o bien una cirugía de las más avanzadas,
+
+109
+00:07:44,490 --> 00:07:49,490
+las cardiopatías más complejas y de última línea el trasplante cardíaco
+
+110
+00:07:49,490 --> 00:07:52,490
+en el sentido en que hay algunos corazones que ya no se pueden arreglar
+
+111
+00:07:52,490 --> 00:07:56,490
+pero eventualmente si encuentro un donante el niño se puede salvar
+
+112
+00:07:56,490 --> 00:08:00,490
+y en el caso específico del ductus arterioso persistente
+
+113
+00:08:00,490 --> 00:08:05,490
+los aines pueden servir como para cerrar el ductus, en particular
+
+114
+00:08:05,490 --> 00:08:08,490
+el ibuprofeno y la indometasina son los que más se usan.
+
+115
+00:08:08,490 --> 00:08:12,490
+Acuérdense que como fármaco la prostaglandina servía para mantener
+
+116
+00:08:12,490 --> 00:08:16,490
+abierto el ductus en las cardiopatías cianóticas que eran las que
+
+117
+00:08:16,490 --> 00:08:20,490
+eventualmente eran ducto dependientes y que si se cerraba el ducto
+
+118
+00:08:20,490 --> 00:08:24,490
+el paciente se podía morir, pero no es parte del tratamiento
+
+119
+00:08:24,490 --> 00:08:28,490
+de la cardiopatía sino que ese es el manejo agudo antes de haber hecho
+
+120
+00:08:28,490 --> 00:08:34,490
+la sospecha, o sea el ductus arterioso persistente se cierra
+
+121
+00:08:34,490 --> 00:08:37,490
+con aines, las prostaglandinas por el contrario lo mantienen
+
+122
+00:08:37,490 --> 00:08:41,490
+abierto y eso se elegía solamente en las cardiopatías cianóticas
+
+123
+00:08:41,490 --> 00:08:45,490
+hasta que se pudieran operar. En el caso de la feroz esquística
+
+124
+00:08:45,490 --> 00:08:50,490
+el manejo más importante es el soporte, ahora cuando se sobreinfectan
+
+125
+00:08:50,490 --> 00:08:54,490
+se les da antibióticos y estos antibióticos deben cubrir no solamente
+
+126
+00:08:54,490 --> 00:08:57,490
+los bichos habituales sino que también pseudomonas y eventualmente
+
+127
+00:08:57,490 --> 00:09:03,490
+estafilococaurios, aparte de esto han demostrado los beneficios,
+
+128
+00:09:03,490 --> 00:09:06,490
+los antibióticos profilácticos, el que más se usa en la
+
+129
+00:09:06,490 --> 00:09:09,490
+acetromicina, los macróleos y desde que empiezan con infecciones
+
+130
+00:09:09,490 --> 00:09:12,490
+con pseudomonas eventualmente se agrega algo que cubra
+
+131
+00:09:12,490 --> 00:09:16,490
+pseudomonas como una equinolona por ejemplo y finalmente
+
+132
+00:09:16,490 --> 00:09:19,490
+de última línea está el trasplante pulmonar.
+
+133
+00:09:19,490 --> 00:09:22,490
+Ahora acuérdense que el trasplante pulmonar es entre comillas
+
+134
+00:09:22,490 --> 00:09:26,490
+el tratamiento curativo de la feroz esquística pero viene
+
+135
+00:09:26,490 --> 00:09:29,490
+con una serie de otros problemas así que habitualmente uno espera
+
+136
+00:09:29,490 --> 00:09:34,490
+a que el niño tenga un daño pulmonar suficientemente avanzado
+
+137
+00:09:34,490 --> 00:09:37,490
+antes de plantear el trasplante pulmonar como el tratamiento final.
+
+138
+00:09:37,490 --> 00:09:41,490
+En el caso de la enfermedad por sí lo inmóvil el tratamiento
+
+139
+00:09:41,490 --> 00:09:44,490
+a grandes rasgos es muy muy similar al de la feroz esquística
+
+140
+00:09:44,490 --> 00:09:47,490
+en el sentido de que se infectan con los mismos bichos
+
+141
+00:09:47,490 --> 00:09:50,490
+y los antibióticos que se usan son más o menos los mismos
+
+142
+00:09:50,490 --> 00:09:53,490
+y de última línea el trasplante pulmonar igualmente sirve
+
+143
+00:09:53,490 --> 00:09:56,490
+en particular cuando ya vienen con demasiadas bronquiectasia
+
+144
+00:09:56,490 --> 00:09:58,490
+con demasiado daño.
+
+145
+00:09:58,490 --> 00:10:01,490
+Y finalmente en el caso de la displasia bronco pulmonar
+
+146
+00:10:01,490 --> 00:10:05,490
+sepan que si bien hay daño pulmonar hay un daño estructural
+
+147
+00:10:05,490 --> 00:10:09,490
+aún está en el periodo de desarrollo de los pulmones
+
+148
+00:10:09,490 --> 00:10:13,490
+así que se va mejorando solo con el tiempo
+
+149
+00:10:13,490 --> 00:10:17,490
+y como algo importante se va siguiendo, se va viendo que ande bien
+
+150
+00:10:17,490 --> 00:10:20,490
+eventualmente se suplementa oxígeno y lo que sí
+
+151
+00:10:20,490 --> 00:10:23,490
+hay que ver cuál era el grado de hipertensión pulmonar
+
+152
+00:10:23,490 --> 00:10:26,490
+en el sentido de que si es demasiado grave eventualmente
+
+153
+00:10:26,490 --> 00:10:29,490
+se beneficia de alguno de estos fármacos con acción
+
+154
+00:10:29,490 --> 00:10:32,490
+específica para la circulación pulmonar como el sildenafil
+
+155
+00:10:32,490 --> 00:10:36,490
+que si bien se usa en la disfunción eréctil en el adulto
+
+156
+00:10:36,490 --> 00:10:40,490
+me sirve también en la hipertensión pulmonar severa
+
+157
+00:10:40,490 --> 00:10:44,490
+ya sea del niño en esta situación o en la hipertensión pulmonar
+
+158
+00:10:44,490 --> 00:10:47,490
+severa de tipo primaria también.
+
+159
+00:10:47,490 --> 00:10:50,490
+Así que ahí tenemos algún uso adicional de este fármaco.
+
+160
+00:10:50,490 --> 00:10:53,490
+Y bueno, esa fue esta clase. Nos vemos en el siguiente video. ¡Que estén bien!

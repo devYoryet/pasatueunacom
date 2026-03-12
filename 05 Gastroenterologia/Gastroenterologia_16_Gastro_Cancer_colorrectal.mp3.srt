@@ -1,0 +1,399 @@
+1
+00:00:00,000 --> 00:00:06,570
+Hola, ¿cómo están? En esta clase vamos a hablar del cáncer colorectal, vamos a
+
+2
+00:00:06,570 --> 00:00:10,850
+ver el cáncer de colon y el cáncer de recto como temas aparte, empezando con
+
+3
+00:00:10,850 --> 00:00:15,050
+el cáncer de colon. Recordemos que en el cáncer de colon se recomienda
+
+4
+00:00:15,050 --> 00:00:19,290
+hacer screening, de hecho se hace con una colonoscopía completa, habitualmente
+
+5
+00:00:19,290 --> 00:00:25,050
+desde los 45 o 50 años y se hace esto cada 10 años. Ahora, en el caso de
+
+6
+00:00:25,050 --> 00:00:29,610
+que sea un paciente con antecedentes familiares de cáncer de colon, se
+
+7
+00:00:29,610 --> 00:00:35,690
+recomienda empezar 10 años antes del diagnóstico del familiar más joven o
+
+8
+00:00:35,690 --> 00:00:38,850
+bien a los 40 años, lo que sea que suceda primero, o sea, si es que el
+
+9
+00:00:38,850 --> 00:00:43,810
+familiar más joven tuvo cáncer a los 60, en ese caso se parte a los 40, si es
+
+10
+00:00:43,810 --> 00:00:47,410
+que el familiar más joven tuvo cáncer a los 40, en ese caso se empieza a
+
+11
+00:00:47,410 --> 00:00:51,050
+los 30 años, así que ahí espero que haya quedado claro. El cuadro clínico
+
+12
+00:00:51,050 --> 00:00:54,930
+del cáncer de colon por el general viene con constipación o al menos con
+
+13
+00:00:54,930 --> 00:00:59,330
+un cambio en el hábito intestinal, segundo lugar suele venir con baja de
+
+14
+00:00:59,330 --> 00:01:03,850
+peso al menos en las etapas más avanzadas, además la hematoquesia era
+
+15
+00:01:03,850 --> 00:01:09,770
+uno de los signos de alarma que podían estar incluidos y aparte de esto está
+
+16
+00:01:09,770 --> 00:01:12,930
+la anemia ferropénica en el sentido que el cáncer de colon suele venir
+
+17
+00:01:12,930 --> 00:01:16,570
+con micro hemorragia, cierto, que a veces no alcanzan a verse como
+
+18
+00:01:16,570 --> 00:01:22,010
+hematoquesia propiamente tal, pero sí alcanzan a depletar las reservas de
+
+19
+00:01:22,010 --> 00:01:26,930
+hierro del paciente. Finalmente el cáncer de colon eventualmente se
+
+20
+00:01:26,970 --> 00:01:30,770
+complica con una obstrucción intestinal, de hecho todo cáncer, incluso el
+
+21
+00:01:30,770 --> 00:01:35,370
+cáncer avanzado, se suele operar como para evitar que se complique, pero en
+
+22
+00:01:35,370 --> 00:01:38,730
+algunos casos el primer síntoma y la forma en que debuta es justamente con
+
+23
+00:01:38,730 --> 00:01:42,290
+una obstrucción de colon. El diagnóstico como en todos los
+
+24
+00:01:42,290 --> 00:01:45,210
+cánceres de tubo digestivo es con una endoscopia, en este caso una
+
+25
+00:01:45,210 --> 00:01:49,090
+colonoscopia, cierto, que se hace completa más la biopsia de la lesión
+
+26
+00:01:49,090 --> 00:01:54,290
+sospechosa y la gran pregunta es ¿y me sirve de algo la prueba de
+
+27
+00:01:54,290 --> 00:01:58,010
+sangre oculta en deposiciones? Y la verdad que hay que saber dos cosas,
+
+28
+00:01:58,010 --> 00:02:02,090
+número uno, las pruebas de sangre oculta actualmente son bastante más
+
+29
+00:02:02,090 --> 00:02:06,970
+sensibles de lo que eran antes, así que incluso se llaman una prueba de
+
+30
+00:02:06,970 --> 00:02:11,410
+sangre oculta ultra sensible, pero vienen con lo malo que siguen
+
+31
+00:02:11,410 --> 00:02:14,050
+siendo menos sensibles que la colonoscopia, así que por regla
+
+32
+00:02:14,050 --> 00:02:17,450
+general, si es que está disponible la colonoscopia, se prefiere la
+
+33
+00:02:17,450 --> 00:02:22,890
+colonoscopia como screening y la sangre oculta sería aceptable en una
+
+34
+00:02:22,890 --> 00:02:27,770
+situación en que no está disponible la colonoscopia ya sea por el precio o
+
+35
+00:02:27,770 --> 00:02:31,650
+ya sea por la forma en que funciona el sistema de salud, así que repito
+
+36
+00:02:31,650 --> 00:02:35,570
+eventualmente si sirve solamente como screening y solamente en el caso de
+
+37
+00:02:35,570 --> 00:02:39,130
+que no haya una colonoscopia disponible, en segundo lugar no me
+
+38
+00:02:39,130 --> 00:02:43,370
+sirve cuando ya viene con hematoquesia o con alguna clínica que
+
+39
+00:02:43,370 --> 00:02:47,450
+es característica de cáncer de colon dado que si ya hay sangre
+
+40
+00:02:47,450 --> 00:02:51,010
+evidente en deposiciones no hay ninguna razón para ir a buscar la
+
+41
+00:02:51,010 --> 00:02:55,330
+sangre oculta también. La otra pregunta es me sirve el famoso SEA el
+
+42
+00:02:55,330 --> 00:03:00,050
+antígeno carcino embrionario y la respuesta es por la general no, es muy
+
+43
+00:03:00,050 --> 00:03:03,890
+poco sensible, es poco específico también, así que la única utilidad que
+
+44
+00:03:03,890 --> 00:03:07,210
+tiene es en un paciente que ya tiene diagnóstico de un cáncer de colon
+
+45
+00:03:07,210 --> 00:03:10,610
+me sirve eventualmente como para el seguimiento post quirúrgico en el
+
+46
+00:03:10,610 --> 00:03:13,970
+sentido en que si es que estaba elevado en un paciente con cáncer y
+
+47
+00:03:13,970 --> 00:03:18,570
+yo lo operó es de esperar que el SEA caiga cierto, se vuelva
+
+48
+00:03:18,570 --> 00:03:22,530
+indetectable y si es que vuelve a subir en el futuro eventualmente es que
+
+49
+00:03:22,530 --> 00:03:26,770
+está con metástasis en alguna parte. Aparte hay que saber que el cáncer de
+
+50
+00:03:26,770 --> 00:03:30,650
+colon se etapifica y la forma más habitual es con la TAC en el sentido
+
+51
+00:03:30,650 --> 00:03:35,330
+en que ve muy bien las adenopatías retroperitoniales y el compromiso
+
+52
+00:03:35,330 --> 00:03:38,930
+hepático también y segundo lugar la etapificación post quirúrgica que se
+
+53
+00:03:38,930 --> 00:03:41,930
+hace en los pacientes que superan de un cáncer digestivo por la
+
+54
+00:03:41,930 --> 00:03:46,530
+general. Finalmente el tratamiento del cáncer de colon es quirúrgico y
+
+55
+00:03:46,530 --> 00:03:50,490
+la cirugía mínima que se suele hacer que se llama cirugía oncológica de
+
+56
+00:03:50,490 --> 00:03:56,530
+colon es la hemicolectomía ya sea derecha o izquierda según qué mitad del
+
+57
+00:03:56,530 --> 00:04:00,850
+colon esté afectada. En la segunda línea se suele dejar la
+
+58
+00:04:00,850 --> 00:04:04,250
+quimioterapia en el sentido en que este es uno de los cánceres que si
+
+59
+00:04:04,250 --> 00:04:09,730
+es quimiosensible así que eventualmente uno puede intentar la
+
+60
+00:04:09,730 --> 00:04:13,810
+curación en estos pacientes incluso en algunos casos en que hay
+
+61
+00:04:13,850 --> 00:04:18,530
+metástasis ya sea linfática o incluso en algunos casos de metástasis
+
+62
+00:04:18,530 --> 00:04:24,490
+hepáticas también es más les adelanto que una metástasis de
+
+63
+00:04:24,490 --> 00:04:28,810
+cáncer de colon en el hígado que es única eventualmente se reseca con
+
+64
+00:04:28,810 --> 00:04:32,490
+intención curativa del cáncer. Veamos ahora muy rápidamente el
+
+65
+00:04:32,490 --> 00:04:37,010
+cáncer de recto que les adelanto es muy parecido al cáncer de colon y
+
+66
+00:04:37,010 --> 00:04:41,090
+que por lo mismo se ve como el cáncer color rectal como un único
+
+67
+00:04:41,090 --> 00:04:45,970
+tema sepan que la histología eventualmente puede ser distinta en
+
+68
+00:04:45,970 --> 00:04:49,250
+cuanto a que el cáncer de colon por regla general es un adeno carcinoma en
+
+69
+00:04:49,250 --> 00:04:53,970
+cambio el cáncer de recto puede ser tanto un adeno carcinoma como también
+
+70
+00:04:53,970 --> 00:04:59,370
+un carcinoma de tipo espino celular. Ahora la clínica del cáncer de recto
+
+71
+00:04:59,370 --> 00:05:03,570
+es muy parecida a la del cáncer de colon con la diferencia que viene con
+
+72
+00:05:03,570 --> 00:05:07,330
+más alteraciones del bolo fecal de digase con disquexia que es el
+
+73
+00:05:07,330 --> 00:05:13,450
+dolor al desfecarlo cierto y segundo lugar con deformación de las heces del
+
+74
+00:05:13,450 --> 00:05:17,010
+bolo fecal y segundo lugar que viene con factores de riesgo que
+
+75
+00:05:17,010 --> 00:05:20,210
+eventualmente son distintas dentro de esto en la infección por virus
+
+76
+00:05:20,210 --> 00:05:24,490
+papiloma humano sería uno de los factores de riesgo más importante que
+
+77
+00:05:24,490 --> 00:05:27,770
+aumenta todavía más el riesgo cuando además hay una infección
+
+78
+00:05:27,770 --> 00:05:32,330
+crónica por VIH y segundo lugar la colitis ulcerosa que acuérdense que
+
+79
+00:05:32,330 --> 00:05:36,410
+es una enfermedad inflamatoria intestinal que siempre afecta al
+
+80
+00:05:36,410 --> 00:05:40,890
+recto y que eventualmente se complica con cáncer de recto o con
+
+81
+00:05:40,890 --> 00:05:45,010
+obstrucción del recto también. El diagnóstico del cáncer de recto es
+
+82
+00:05:45,010 --> 00:05:50,010
+igual al del cáncer de colon con la biopsia en la colonoscopía
+
+83
+00:05:50,010 --> 00:05:54,170
+la etapificación igualmente es igual al del cáncer de colon con la
+
+84
+00:05:54,170 --> 00:05:58,170
+diferencia que me sirve un poco más la resonancia magnética de pelvis
+
+85
+00:05:58,170 --> 00:06:02,330
+además dado que el recto está en estrecha relación con la vejiga y
+
+86
+00:06:02,370 --> 00:06:07,530
+con algunas otras estructuras anatómicas de la pelvis y también me
+
+87
+00:06:07,530 --> 00:06:11,770
+sirve la endosonografía el tratamiento del cáncer de recto por
+
+88
+00:06:11,770 --> 00:06:15,050
+la general también es igual a la del cáncer de colon dígase con la
+
+89
+00:06:15,050 --> 00:06:19,050
+cirugía oncológica cierto más eventualmente la quimioterapia con la
+
+90
+00:06:19,050 --> 00:06:21,690
+diferencia que en el cáncer de recto me sirve también la
+
+91
+00:06:21,690 --> 00:06:24,890
+radioterapia de hecho la radioterapia se usa poco en el
+
+92
+00:06:24,890 --> 00:06:29,530
+cáncer de colon si se usa bastante más en el cáncer de recto y la
+
+93
+00:06:29,530 --> 00:06:34,450
+otra cosa es que uno se hace dos preguntas en el cáncer de recto en el
+
+94
+00:06:34,450 --> 00:06:38,570
+paciente que se va a operar número uno se hace una cirugía por vía
+
+95
+00:06:38,570 --> 00:06:44,530
+abdominal o una cirugía tranrectal por vía anal y la segunda la segunda
+
+96
+00:06:44,530 --> 00:06:48,810
+pregunta que se hace es se preserva la defecación por vía anal o queda
+
+97
+00:06:48,810 --> 00:06:53,930
+finalmente con una con una colonoscopía definitiva ya pero a
+
+98
+00:06:53,930 --> 00:06:58,210
+grandes rasgos se maneja de manera bastante similar al cáncer de colon
+
+99
+00:06:58,210 --> 00:07:01,130
+porque es un tipo de cáncer de colon bueno nos vemos los siguientes temas
+
+100
+00:07:01,130 --> 00:07:03,490
+que estén bien

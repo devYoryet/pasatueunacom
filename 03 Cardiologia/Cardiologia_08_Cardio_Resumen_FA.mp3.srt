@@ -1,0 +1,175 @@
+1
+00:00:03,180 --> 00:00:08,420
+Hola hola, ¿cómo están? En este vídeo vamos a ver algo muy importante que es el resumen, la estructura
+
+2
+00:00:08,420 --> 00:00:13,820
+general del manejo de la FA, de la fibrilación auricular. Y recordemos que en general se
+
+3
+00:00:13,820 --> 00:00:19,300
+clasifica en de reciente diagnóstico o de reciente comienzo o aguda, si es que la quieren
+
+4
+00:00:19,300 --> 00:00:24,820
+llamar así, y la FA crónica. Y que en ambos casos lo primero a evaluar es la estabilidad
+
+5
+00:00:24,820 --> 00:00:29,740
+hemodinámica, si es que el paciente está choqueado, si es que está en edema pulmonar,
+
+6
+00:00:29,740 --> 00:00:33,940
+si es que está muy grave, en ese caso hay que hacer una cardioversión eléctrica inmediata,
+
+7
+00:00:33,940 --> 00:00:39,060
+independientemente del riesgo de embolia. En ese caso, si es que no lo manejo y no lo saco ahora,
+
+8
+00:00:39,060 --> 00:00:45,020
+el paciente se puede morir. Así que la medida ante una FA con hemodinamia inestable,
+
+9
+00:00:45,020 --> 00:00:49,100
+independientemente del tiempo que lleve, siempre es la cardioversión eléctrica. Ahora,
+
+10
+00:00:49,100 --> 00:00:53,420
+cuando está con hemodinamia estable, por lo general se maneja con fármacos, en el caso
+
+11
+00:00:53,420 --> 00:00:57,620
+de la FA de reciente diagnóstico suelen darse por vía endovenosa, en el caso de la FA
+
+12
+00:00:57,620 --> 00:01:01,980
+crónica suelen darse por vía oral, y hay que recordar cuáles son los pilares de manejo de
+
+13
+00:01:01,980 --> 00:01:08,180
+cada una, que si bien tienen similitudes, no son exactamente iguales. La primera medida en
+
+14
+00:01:08,180 --> 00:01:13,460
+la FA de reciente comienzo es siempre bajar la frecuencia cardiaca. Si es que ya viene baja
+
+15
+00:01:13,460 --> 00:01:17,980
+y está bien, en ese caso no hay que hacer nada, pero si es que viene muy rápido, si es
+
+16
+00:01:17,980 --> 00:01:23,000
+que está con algún grado de compensación que no sea suficiente para choquearlo, pero si,
+
+17
+00:01:23,000 --> 00:01:28,320
+como para que haya algún grado de falla cardiaca, lo primero es estabilizarlo, y eso se hace con
+
+18
+00:01:28,320 --> 00:01:33,960
+fármacos para bajar la frecuencia cardiaca, ejemplo el propanolol, el verapamilo, etcétera.
+
+19
+00:01:33,960 --> 00:01:39,200
+Segundo lugar, anticoagularlas, y aquí en la FA de reciente diagnóstico se anticoagulan
+
+20
+00:01:39,200 --> 00:01:44,320
+casi todas, hay un par de excepciones que vamos a ver después, que no tienen mayor
+
+21
+00:01:44,320 --> 00:01:50,080
+relevancia, o sea acá se anticoagula en casi todos los casos. En tercer lugar, hay que hacer
+
+22
+00:01:50,080 --> 00:01:54,640
+una cardioversión de tipo farmacológica habitualmente, aunque si es que me fallan los
+
+23
+00:01:54,640 --> 00:01:59,360
+fármacos luego de distintos fármacos que se intentan para volverla a ritmo sinusal,
+
+24
+00:01:59,360 --> 00:02:04,600
+en el sentido en que acaba de iniciar desde reciente diagnóstico, lo ideal es que vuelva
+
+25
+00:02:04,600 --> 00:02:10,240
+al ritmo sinusal. Si es que todo esto falla, si los fármacos fallan, en ese caso sí se
+
+26
+00:02:10,240 --> 00:02:15,920
+puede intentar una cardioversión eléctrica electiva. Y aparte de eso, la pregunta que
+
+27
+00:02:15,920 --> 00:02:22,560
+uno se hace en la FA de reciente comienzo es si es que lo cardiovierto ahora o si es
+
+28
+00:02:22,560 --> 00:02:26,880
+que me espero algún tiempo y lo cardiovierto, ejemplo, en tres o cuatro semanas más,
+
+29
+00:02:26,880 --> 00:02:32,000
+lo cual va a depender en general del riesgo de embolia, que lo vamos a ver en el video
+
+30
+00:02:32,000 --> 00:02:37,480
+correspondiente. Ahora, en el caso de la FA crónica, la primera pregunta que hay
+
+31
+00:02:37,480 --> 00:02:41,680
+que responder es si voy a hacer un manejo de ritmo, o sea de intentar mantenerlo
+
+32
+00:02:41,680 --> 00:02:46,280
+en ritmo sinusal, de que ya no esté en un ritmo arrítmico de fibrilación auricular,
+
+33
+00:02:46,280 --> 00:02:50,360
+sino que esté en el ritmo normal, en el ritmo sinusal, o si solamente voy a hacer un control
+
+34
+00:02:50,360 --> 00:02:57,120
+de la frecuencia cardíaca, dígase mantenerlo con una frecuencia entre 60 y 90 o entre 60 y 85.
+
+35
+00:02:57,120 --> 00:03:02,480
+Y la segunda pregunta que uno se hace, que en este caso no es que sea número 1 y número 2
+
+36
+00:03:02,480 --> 00:03:08,560
+de tipo cronológico, como sí ocurre en la FA aguda en que lo primero sí es el bajar la
+
+37
+00:03:08,560 --> 00:03:12,440
+frecuencia cardíaca, acá en la FA crónica, en cambio, son las dos preguntas que hay que
+
+38
+00:03:12,440 --> 00:03:17,960
+responder, ritmo versus frecuencia, y lo otro si es que anticoagulo o no, y eso se decide con
+
+39
+00:03:17,960 --> 00:03:23,400
+el chatz 2, o sea, en las FA crónicas no todas se anticoagulan, se anticoagulan solamente
+
+40
+00:03:23,400 --> 00:03:28,960
+algunas, según lo que digan esos criterios de el chatz 2 vas, que lo vamos a ver con algún
+
+41
+00:03:28,960 --> 00:03:33,840
+detalle en el otro video. Como cosa final, en ambas hay que identificar la causa y tratarla,
+
+42
+00:03:33,840 --> 00:03:39,400
+ejemplo, si es que hay una cardiopatía, un infarto, una sepsis o lo que sea, hay que
+
+43
+00:03:39,400 --> 00:03:44,360
+manejarlo porque acuérdense que la causa definía el pronóstico. Y eso es todo, vamos con los
+
+44
+00:03:44,360 --> 00:03:45,280
+detalles en los siguientes videos.

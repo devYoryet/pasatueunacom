@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:07,080
+Hola, ¿cómo están? En este video vamos a hablar de la úlcera gastroduodenal. Es un
+
+2
+00:00:07,080 --> 00:00:11,040
+tema que está lleno de detalles por su acaso, así que lo vamos a ver con algún
+
+3
+00:00:11,040 --> 00:00:14,760
+grado de profundidad y hay que saberlo bien. Y recordemos que la etiología
+
+4
+00:00:14,760 --> 00:00:18,920
+por la general son dos causas, el helicobacter pylori y el uso de
+
+5
+00:00:18,920 --> 00:00:24,380
+aines. Esos son prácticamente el 100% de los casos. En el caso de la
+
+6
+00:00:24,380 --> 00:00:28,600
+úlcera gástrica es más o menos 70% por helicobacter pylori y solamente
+
+7
+00:00:28,600 --> 00:00:33,920
+un 30% por aines. En cambio, el aduodenal es más aún el helicobacter pylori,
+
+8
+00:00:33,920 --> 00:00:39,120
+más o menos un 90% y solamente un 10% por los aines. De hecho, menos del
+
+9
+00:00:39,120 --> 00:00:42,880
+1% es por otras causas y dentro de estas la única que hay que saber es
+
+10
+00:00:42,880 --> 00:00:47,480
+el síndrome de Solinger-Ellison, que acuérdense que es un tumor
+
+11
+00:00:47,480 --> 00:00:52,000
+productor de gastrina o gastrinoma, cierto que se traduce clínicamente en
+
+12
+00:00:52,000 --> 00:00:57,320
+úlceras múltiples recurrentes y refractarias al tratamiento
+
+13
+00:00:57,320 --> 00:01:00,680
+erradicador y el retiro de los aines en el caso que esté con aines.
+
+14
+00:01:00,680 --> 00:01:05,800
+Así que repito, son muy muy raras las otras causas y en general cuando se
+
+15
+00:01:05,800 --> 00:01:10,400
+sospecha alguna causa distinta, pues cuando he erradicado, he sacado los
+
+16
+00:01:10,400 --> 00:01:15,120
+aines y aún así recurre o cuando viene con úlceras que son demasiado
+
+17
+00:01:15,120 --> 00:01:18,600
+abundantes con alguna cosa rara de ese tipo.
+
+18
+00:01:19,000 --> 00:01:22,520
+El cuadro clínico hay que saberlo porque en general viene con un síndrome
+
+19
+00:01:22,520 --> 00:01:26,720
+ulceroso que acuérdense que se caracteriza por una epigastralgia
+
+20
+00:01:26,720 --> 00:01:32,480
+urente, cierto como un ardor en la zona subcifoidea, cierto que aumenta
+
+21
+00:01:32,480 --> 00:01:36,000
+con el ayuno y que disminuye con las comidas o al menos eso es lo
+
+22
+00:01:36,000 --> 00:01:39,440
+clásico del síndrome ulceroso a diferencia por ejemplo de la dispepsia
+
+23
+00:01:39,440 --> 00:01:43,080
+funcional que los síntomas habitualmente aumentan inmediatamente
+
+24
+00:01:43,080 --> 00:01:48,520
+después de comer o en el reflujo también. Ahora el síndrome ulceroso
+
+25
+00:01:48,520 --> 00:01:52,760
+no es ni sensible ni específico por si acaso pero es lo clásico, hay que
+
+26
+00:01:52,760 --> 00:01:57,040
+saberlo igual. Segundo lugar, las complicaciones es algo que se puede ver
+
+27
+00:01:57,040 --> 00:02:01,160
+en la úlcera también y acuérdense se complica con hemorragia digestiva
+
+28
+00:02:01,160 --> 00:02:04,920
+alta, con melena, con un choque hipovolémico por ejemplo, con la
+
+29
+00:02:04,920 --> 00:02:09,520
+perforación de viscera hueca del estómago que en una clase en
+
+30
+00:02:09,520 --> 00:02:13,480
+particular se ve con detalle cuál es el cuadro clínico y cómo se maneja,
+
+31
+00:02:13,480 --> 00:02:18,000
+cierto, el síndrome pilórico acordándonos que habitualmente el
+
+32
+00:02:18,000 --> 00:02:21,520
+síndrome pilórico estos vómitos postprandiales intensos son causados por
+
+33
+00:02:21,520 --> 00:02:24,960
+cáncer gástrico más que por la úlcera pero eventualmente se puede ver en una
+
+34
+00:02:24,960 --> 00:02:28,840
+úlcera también aunque repito lo más importante es ir a descartar el cáncer
+
+35
+00:02:28,840 --> 00:02:33,400
+y finalmente la sospecha de que pueda ser un cáncer ulcerado en particular
+
+36
+00:02:33,400 --> 00:02:37,440
+en las úlceras gástricas y les adelanto esto lo vamos a ver con
+
+37
+00:02:37,440 --> 00:02:41,480
+algún algún detalle después pero la úlcera gástrica eventualmente era un
+
+38
+00:02:41,480 --> 00:02:44,600
+cáncer en cambio las úlceras duodenales por la general son
+
+39
+00:02:44,600 --> 00:02:49,480
+benignas. El diagnóstico de la úlcera gastro duodenal es habitualmente con la
+
+40
+00:02:49,480 --> 00:02:53,800
+endoscopía digestiva alta que ve perfectamente el tamaño de la úlcera
+
+41
+00:02:53,800 --> 00:02:58,000
+el aspecto la localización y el número de úlceras también y a veces
+
+42
+00:02:58,000 --> 00:03:02,120
+lo que encuentra es una úlcera cicatrizada por su acaso pero con eso
+
+43
+00:03:02,120 --> 00:03:06,160
+igual se hace el diagnóstico y se obliga a dejar algún tratamiento ahora
+
+44
+00:03:06,160 --> 00:03:09,560
+cuál es el tratamiento de la úlcera y esto hay que saberlo bien es la
+
+45
+00:03:09,560 --> 00:03:14,480
+erradicación de helicobacter pylori obviamente si es que viene con el
+
+46
+00:03:14,480 --> 00:03:18,680
+helicobacter positivo como esa es la causa se erradica con eso se cura la
+
+47
+00:03:18,680 --> 00:03:26,240
+úlcera y además de curarse se evitan las recurrencias hasta en un 90 por
+
+48
+00:03:26,240 --> 00:03:30,240
+cierto. Segundo lugar si está con aines hay que suspender estos aines en
+
+49
+00:03:30,240 --> 00:03:35,040
+particular si son aines de tipo cox-1 y en este caso se pueden
+
+50
+00:03:35,040 --> 00:03:38,720
+cambiar por aines de tipo cox-2 dentro de los cox-1 que son los que
+
+51
+00:03:38,720 --> 00:03:42,200
+se complican con úlcera cierto el ibuprofeno la aspirina el diclofenaco
+
+52
+00:03:42,200 --> 00:03:47,200
+el naproxeno cierto los cox-2 en cambio son el celecoxib el etonecoxib
+
+53
+00:03:47,200 --> 00:03:51,280
+los de ese tipo. Finalmente si queda con omeprazole con
+
+54
+00:03:51,280 --> 00:03:55,400
+esomeprazole o algún otro inhibidor de la bomba de protones pero por un
+
+55
+00:03:55,400 --> 00:03:59,760
+tiempo limitado cierto solamente 4 o 6 semanas el uso crónico de estos
+
+56
+00:03:59,760 --> 00:04:04,040
+fármacos en cambio se dejan en el reflujo y en la dispepsia funcional
+
+57
+00:04:04,040 --> 00:04:08,120
+pero en este caso lo más importante es erradicar el suspender
+
+58
+00:04:08,160 --> 00:04:13,080
+los aines es el manejar la causa y no el dejar el omeprazole que solamente se
+
+59
+00:04:13,080 --> 00:04:16,480
+deja por un periodo bien breve que es lo que demora en cicatrizar bien la
+
+60
+00:04:16,480 --> 00:04:21,640
+úlcera. Ahora qué pasa si es que es helicobacter pylori negativo y aine
+
+61
+00:04:21,640 --> 00:04:28,400
+negativo o sea no es por helicobacter y no es por aines. Tampoco en ese
+
+62
+00:04:28,400 --> 00:04:32,760
+caso recién se deja un inhibidor de la bomba de protones a
+
+63
+00:04:32,760 --> 00:04:37,120
+permanencia pero antes hay que preguntarse será un falso negativo del
+
+64
+00:04:37,120 --> 00:04:42,320
+helicobacter pylori no habrá alguna otra razón que me haya negativizado
+
+65
+00:04:42,320 --> 00:04:46,720
+este examen como el uso de antibióticos por ejemplo o el uso de
+
+66
+00:04:46,720 --> 00:04:51,760
+omeprazole previo y en ese caso se evalúa erradicarlo igual. Si es que me
+
+67
+00:04:51,760 --> 00:04:55,880
+convenzo en cambio de que es una úlcera negativa para las dos causas
+
+68
+00:04:55,880 --> 00:05:00,640
+cierto en ese caso si se deja el inhibidor de la bomba de protones a
+
+69
+00:05:00,640 --> 00:05:04,200
+permanencia a menos claro que tenga alguna causa de base identificable
+
+70
+00:05:04,200 --> 00:05:07,440
+como el síndrome de Solinger-Ellison en ese caso sí lo voy a buscar
+
+71
+00:05:07,440 --> 00:05:11,080
+dirigidamente con la gastrina plasmática y luego con la cirugía con
+
+72
+00:05:11,080 --> 00:05:17,040
+la resección del gastrinoma. Ahora si es una úlcera que es por
+
+73
+00:05:17,040 --> 00:05:20,520
+aines pero es un paciente que necesita el aines por alguna otra
+
+74
+00:05:20,520 --> 00:05:25,920
+razón ejemplo están contraindicados los COX2 porque es alérgico y lo
+
+75
+00:05:25,920 --> 00:05:28,080
+requiere porque está con mucho dolor o con alguna enfermedad
+
+76
+00:05:28,080 --> 00:05:32,040
+inflamatoria rara en ese caso pues está indicado igualmente el
+
+77
+00:05:32,040 --> 00:05:35,880
+omeprazole a permanencia o el esomeprazole o el ansoprazole a
+
+78
+00:05:35,880 --> 00:05:40,920
+permanencia o sea en resumen repito el tratamiento de la úlcera no es el
+
+79
+00:05:40,920 --> 00:05:44,360
+omeprazole a permanencia eso que quede bien claro es la erradicación
+
+80
+00:05:44,360 --> 00:05:48,880
+del helicobacter pylori o la suspensión del aire pero hay algunas
+
+81
+00:05:48,880 --> 00:05:52,480
+excepciones en las cuales sí hay que indicarla y la más importante
+
+82
+00:05:52,480 --> 00:05:56,080
+es cuando no tengo una causa identificable porque es helicobacter
+
+83
+00:05:56,080 --> 00:05:59,800
+negativo y hayna negativa o bien cuando la causa es imposible de
+
+84
+00:05:59,800 --> 00:06:05,240
+eliminar debido a que la necesita sí o sí. Ahora si tengo un paciente que
+
+85
+00:06:05,240 --> 00:06:10,440
+usó omeprazole y que tiene una úlcera duodenal y me sale helicobacter pylori
+
+86
+00:06:10,440 --> 00:06:14,960
+negativo en ese caso la indicación sería erradicar debido a que la
+
+87
+00:06:14,960 --> 00:06:19,280
+sospecha es un falso negativo debido al uso del omeprazole dado que
+
+88
+00:06:19,280 --> 00:06:22,320
+habíamos dicho que el 90% de las úlceras duodenales eran por
+
+89
+00:06:22,320 --> 00:06:25,840
+helicobacter pylori y el 10% era por aines y aquí estaba sin aines en
+
+90
+00:06:25,840 --> 00:06:29,160
+este caso inmediatamente se sospecha que es por helicobacter y si es
+
+91
+00:06:29,160 --> 00:06:33,560
+que viene con algún factor de riesgo para que me salga falsamente negativo
+
+92
+00:06:33,560 --> 00:06:38,680
+como el omeprazole inmediatamente debo erradicar también. Veamos ahora muy
+
+93
+00:06:38,680 --> 00:06:41,240
+brevemente el manejo de las complicaciones esto se ve con más
+
+94
+00:06:41,240 --> 00:06:44,760
+detalle en la clase respectiva ¿cierto? la hemorragia digestiva alta
+
+95
+00:06:44,760 --> 00:06:50,800
+acuérdense era un diagnóstico clínico con la melena en matemésis que es
+
+96
+00:06:50,800 --> 00:06:53,400
+rara la úlcera por si acaso es más frecuente de las varices
+
+97
+00:06:53,400 --> 00:06:57,880
+esofágicas que la úlcera más eventualmente si es que es masiva el
+
+98
+00:06:57,920 --> 00:07:02,320
+compromiso hemodinámico y acuérdense que lo más importante era la
+
+99
+00:07:02,320 --> 00:07:05,920
+reposición de la bolemia con cerofisiológico endovenoso más el
+
+100
+00:07:05,920 --> 00:07:08,720
+manejo endoscópico de la hemorragia digestiva alta ¿cierto? con una
+
+101
+00:07:08,720 --> 00:07:13,080
+endoscopía digestiva alta urgente ahora si se dejaba el omeprazole
+
+102
+00:07:13,080 --> 00:07:18,320
+endovenoso en este caso en que se sospechaba que era una úlcera que
+
+103
+00:07:18,320 --> 00:07:21,840
+estaba sangrando y no otra causa de hemorragia digestiva y segundo lugar
+
+104
+00:07:21,840 --> 00:07:25,240
+en el caso de la perforación acuérdense que el diagnóstico era
+
+105
+00:07:25,240 --> 00:07:29,360
+con una imagen ya sea una radiografía de abdomen o de tórax de pie
+
+106
+00:07:29,360 --> 00:07:32,080
+es cierto que me mostraba el neumoperitoneo o bien con un
+
+107
+00:07:32,080 --> 00:07:35,720
+ataque que me muestra igualmente el aire en la caudidad peritoneal
+
+108
+00:07:35,720 --> 00:07:38,680
+con la perforación de víscera hueca y obviamente el tratamiento
+
+109
+00:07:38,680 --> 00:07:42,120
+más importante es la cirugía urgente para ir a cerrar esta
+
+110
+00:07:42,120 --> 00:07:46,400
+perforación como medicamentos adicionales obviamente el suero
+
+111
+00:07:46,400 --> 00:07:49,600
+los antibióticos y el omeprazole endovenoso están indicados también
+
+112
+00:07:49,600 --> 00:07:53,040
+pero repito lo más importante en una perforación siempre es el
+
+113
+00:07:53,080 --> 00:07:56,840
+manejo quirúrgico bueno eso es todo una clase algo densa pero espero
+
+114
+00:07:56,840 --> 00:07:59,720
+que haya quedado todo claro ánimo con el estudio nos vemos pronto

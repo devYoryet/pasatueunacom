@@ -1,0 +1,239 @@
+1
+00:00:00,000 --> 00:00:07,020
+Hola, hola. ¿Cómo están? Hablemos ahora de la hemorragia digestiva alta, recordando
+
+2
+00:00:07,020 --> 00:00:12,220
+que sus causas son distintas. La más importante sería la úlcera gastro duodenal, que es
+
+3
+00:00:12,220 --> 00:00:16,340
+la causa más frecuente en general. Luego, las varices esofáquicas, que son la causa
+
+4
+00:00:16,340 --> 00:00:20,580
+más frecuente en los pacientes con daño hepático crónico que evoluciona luego
+
+5
+00:00:20,580 --> 00:00:25,300
+con hipertensión portal. Además, hay que saber que son la causa más frecuente
+
+6
+00:00:25,300 --> 00:00:29,140
+en pacientes que no tenían el diagnóstico previo de un daño hepático crónico,
+
+7
+00:00:29,140 --> 00:00:35,500
+pero sí vienen con los estigmas de esto, ya sea clínico, ejemplo que sea un paciente
+
+8
+00:00:35,500 --> 00:00:39,500
+alcohólico y que viene con hipterisia, o ya sea de laboratorio, por ejemplo, que
+
+9
+00:00:39,500 --> 00:00:45,460
+vengan con una caída en la protrombinemia, más alguna otra alteración de las pruebas
+
+10
+00:00:45,460 --> 00:00:49,540
+hepáticas. Aparte, hay otras causas que hay que saber, como el síndrome de Mallory
+
+11
+00:00:49,540 --> 00:00:56,180
+Weiss, que es una rotura del esófago debido a muchos vómitos, y el cuadro clínico
+
+12
+00:00:56,180 --> 00:01:01,180
+hay que saberlo, son vómitos alimentarios, que luego son seguidos por hematémesis,
+
+13
+00:01:01,180 --> 00:01:08,740
+o sea, empieza vomitando la comida y luego vomita sangre, y en ese caso el diagnóstico
+
+14
+00:01:08,740 --> 00:01:13,260
+casi sin ninguna duda es un síndrome de Mallory Weiss, que es algo que no suele
+
+15
+00:01:13,260 --> 00:01:17,500
+ser tan grave, pero aún así las hemorragias digestivas altas en general pueden ser
+
+16
+00:01:17,500 --> 00:01:21,540
+bastante graves. A esto hay que sumarle algunas malformaciones vasculares, como
+
+17
+00:01:21,540 --> 00:01:27,820
+por ejemplo la lesión de D'Alafois, que acuérdense que es un vaso sanguíneo que
+
+18
+00:01:27,820 --> 00:01:33,100
+muchas veces cuesta verlo y que puede ser bastante severa. Algunas otras como las
+
+19
+00:01:33,100 --> 00:01:38,980
+gastritis, las esofagitis, la fístula ortoentérica, etcétera, hay algunas que son graves
+
+20
+00:01:38,980 --> 00:01:44,420
+como la fístula ortoentérica, por ejemplo. Respecto al cuadro clínico de la hemorragia
+
+21
+00:01:44,420 --> 00:01:50,740
+digestiva alta en general, habitualmente viene o con melena, que es sangre que
+
+22
+00:01:50,740 --> 00:01:56,340
+ya viene digerida en las deposiciones, que hace que se vea de un color muy oscuro,
+
+23
+00:01:56,340 --> 00:02:05,260
+prácticamente negro, o bien con un olor también bien característico, o bien se
+
+24
+00:02:05,260 --> 00:02:09,900
+presenta con hematémesis, que es el vomitar sangre, que ya habíamos dicho que era
+
+25
+00:02:09,900 --> 00:02:13,820
+lo más característico de las varices esofágicas, que suelen ser hemorragias
+
+26
+00:02:13,820 --> 00:02:19,660
+muy grandes. Ahora, en algunos casos es una hemorragia masiva, que es la que viene con
+
+27
+00:02:19,660 --> 00:02:24,500
+un compromiso hemodinámico, así que como parte del cuadro clínico puede venir con
+
+28
+00:02:24,500 --> 00:02:29,660
+signos de choque hipo-bolémico, con hipotensión, con taquicardia, etcétera. Y finalmente
+
+29
+00:02:29,660 --> 00:02:36,100
+acuérdense que hasta un 10% se presenta con hematoquesia y puede simular una hemorragia
+
+30
+00:02:36,100 --> 00:02:41,900
+baja. El manejo de la hemorragia digestiva alta, esto hay que saberlo, por lo general
+
+31
+00:02:41,900 --> 00:02:47,020
+la medida más importante y más urgente es el reponer la bolemia. Segundo lugar,
+
+32
+00:02:47,020 --> 00:02:52,460
+hay que olvidarse del manejo de la anemia, que igualmente puede ser bastante severa en
+
+33
+00:02:52,460 --> 00:02:56,380
+algunos casos, recordando que la bolemia siempre es lo más urgente y lo más importante.
+
+34
+00:02:56,380 --> 00:03:03,980
+Y finalmente, dentro del manejo médico, antes del manejo con la endoscopia, eventualmente
+
+35
+00:03:03,980 --> 00:03:08,500
+se dan algunos fármacos dentro de esto. El omeprazol endovenoso está actualmente
+
+36
+00:03:08,500 --> 00:03:12,460
+recomendado en casi todas las causas de hemorragia digestiva alta y además si
+
+37
+00:03:12,460 --> 00:03:16,980
+es que se sospecha que es por varices esofágicas, cierto, se dejan antibióticos,
+
+38
+00:03:16,980 --> 00:03:22,940
+aunque muchas veces se dejan antibióticos en todos los casos, en particular la eritromisina
+
+39
+00:03:22,940 --> 00:03:27,340
+por vía endovenosa o por vía oral también puede ser como para aumentar el vaciamiento
+
+40
+00:03:27,340 --> 00:03:32,300
+gástrico y que la endoscopia se vea un poco mejor. Pero repito, si es que se sospechan
+
+41
+00:03:32,300 --> 00:03:36,980
+los varices esofágicos, hay que dejarle antibióticos como la profilaxis de la
+
+42
+00:03:36,980 --> 00:03:42,460
+peritonitis bacteriana espontánea más la telipresina o el octotrides, cierto,
+
+43
+00:03:42,460 --> 00:03:47,060
+que era un análogo de la somatostatina y que es parte del manejo de la hemorragia
+
+44
+00:03:47,060 --> 00:03:51,500
+varicial por la general. A esto hay que sumarle lo más importante de las hemorragias
+
+45
+00:03:51,500 --> 00:03:56,100
+digestivas, que si se fijan está subrayado arriba el manejo de la bolemia y abajo el
+
+46
+00:03:56,100 --> 00:04:03,380
+buscar la causa de manera de detener, de parar la hemorragia. Ahora, ¿cómo se hace
+
+47
+00:04:03,380 --> 00:04:08,060
+este estudio? Aquí sin ninguna duda el examen tanto para la masiva como para la
+
+48
+00:04:08,060 --> 00:04:13,100
+no masiva es la endoscopia digestiva alta y en el caso de que no lo encuentre de
+
+49
+00:04:13,100 --> 00:04:19,020
+segunda línea se hace una colonoscopia, pero repito la endoscopia digestiva alta
+
+50
+00:04:19,020 --> 00:04:25,460
+habitualmente es suficiente y luego de eso se hace el manejo dirigido de cada una de
+
+51
+00:04:25,460 --> 00:04:30,300
+las lesiones que se pueda encontrar y se maneja esta causa de base también en el
+
+52
+00:04:30,300 --> 00:04:34,300
+largo plazo. Ejemplo, si es que venía con una úlcera hay que erradicar el
+
+53
+00:04:34,300 --> 00:04:38,860
+icobacter pylori, si es que venía con varices esofásicas queda con el
+
+54
+00:04:38,860 --> 00:04:45,220
+beta bloqueo no selectivo, cierto, más la ligadura de las varices y nuevamente
+
+55
+00:04:45,220 --> 00:04:50,140
+acá si es que la endoscopia no me muestra nada y lo sigo estudiando con
+
+56
+00:04:50,140 --> 00:04:54,420
+una colonoscopia de última línea se hacen los estudios del intestino
+
+57
+00:04:54,420 --> 00:04:58,180
+delgado que son varios, por si acaso alguno de ellos puede ser la
+
+58
+00:04:58,180 --> 00:05:03,700
+entereoclisis por tac, la cápsula que va sacando fotos que se
+
+59
+00:05:03,700 --> 00:05:08,340
+puede ingerir entre algunas otras y pues bien eso es todo lo que hay que
+
+60
+00:05:08,340 --> 00:05:13,140
+saber en esta clase. Nos vemos en los siguientes temas.

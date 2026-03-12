@@ -1,0 +1,215 @@
+1
+00:00:00,000 --> 00:00:06,780
+Hola, ¿cómo están? En este vídeo vamos a ver la disección de las arterias que
+
+2
+00:00:06,780 --> 00:00:10,860
+están en el cuello, en específico la disección carotidia, cierto, y la
+
+3
+00:00:10,860 --> 00:00:15,500
+disección vertebral. Ambas comparten varias cosas desde el punto de vista clínico
+
+4
+00:00:15,500 --> 00:00:20,540
+y del manejo, aunque su clínica desde el punto de vista neurológico puede
+
+5
+00:00:20,540 --> 00:00:26,020
+ser un poco distinto. El cuadro clínico de ambas habitualmente viene
+
+6
+00:00:26,020 --> 00:00:29,700
+con algún antecedente de algo que aumenta el riesgo de que se haya
+
+7
+00:00:29,700 --> 00:00:35,240
+roto, ya sea de ejercicio, ya sea de ejercicio muy intenso o de ejercicio de
+
+8
+00:00:35,240 --> 00:00:39,580
+estiramiento del cuello como yoga, por ejemplo, o algún arte marcial, o bien
+
+9
+00:00:39,580 --> 00:00:45,140
+de trauma igualmente en el cuello, ya sea durante el ejercicio o bien en
+
+10
+00:00:45,140 --> 00:00:48,940
+algún contexto distinto. Segundo lugar, viene con dolor en el cuello, con
+
+11
+00:00:48,940 --> 00:00:54,020
+dolor cervical en cuanto a que la rotura de la arteria en sí es algo
+
+12
+00:00:54,020 --> 00:00:58,140
+que duele. Las arterias duelen al pincharlas, por ejemplo, y duelen
+
+13
+00:00:58,140 --> 00:01:03,420
+también al disecarse, más el dolor de cabeza, o sea, viene con la cefalea
+
+14
+00:01:03,420 --> 00:01:08,020
+súbita dada por la isquemia que se suele producir hacia el cerebro. O sea,
+
+15
+00:01:08,020 --> 00:01:12,700
+fíjense, me duele el cuello y me duele la cabeza. El cuello duele por la
+
+16
+00:01:12,700 --> 00:01:16,500
+arteria que se está disecando y la cabeza duele por la isquemia o por la
+
+17
+00:01:16,500 --> 00:01:20,300
+irradiación del dolor que puede llegar hasta esa zona también. Además, es
+
+18
+00:01:20,300 --> 00:01:24,300
+muy frecuente que vengan con signos focales debido a que la isquemia se
+
+19
+00:01:24,300 --> 00:01:28,940
+traduce también en un accidente cerebrovascular y, en este caso, si es
+
+20
+00:01:28,940 --> 00:01:32,860
+que lo que se diseca es la arteria carótida, porque la general viene con
+
+21
+00:01:32,860 --> 00:01:36,700
+una clínica de un accidente cerebrovascular de arteria cerebral
+
+22
+00:01:36,700 --> 00:01:41,580
+media, dígase con hemiparesia, con hemihipoestesia, eventualmente con
+
+23
+00:01:41,580 --> 00:01:46,780
+afasia, cierto? En cambio, cuando lo que se diseca es las arterias
+
+24
+00:01:46,780 --> 00:01:51,460
+vertebrales, que son las que dan origen a la arteria vacilar que
+
+25
+00:01:51,460 --> 00:01:55,060
+irriga fundamentalmente el tronco encéfalo y luego a las arterias
+
+26
+00:01:55,060 --> 00:01:58,740
+cerebrales posteriores, que son las que van a la parte occipital, cierto?
+
+27
+00:01:58,740 --> 00:02:03,900
+Viene con una clínica de alteraciones del tronco encéfalo, ejemplo un
+
+28
+00:02:03,900 --> 00:02:07,180
+síndrome alterno, cierto? O con compromiso de conciencia, o bien del
+
+29
+00:02:07,180 --> 00:02:11,340
+cerebelo con un síndrome cerebeloso y con el nistagmo
+
+30
+00:02:11,340 --> 00:02:15,820
+multidireccional, ataxia, disartia, etcétera. O bien puede venir con
+
+31
+00:02:15,820 --> 00:02:19,780
+alteraciones de la circulación posterior, cierto? Con hemianopsia o
+
+32
+00:02:19,860 --> 00:02:24,340
+con alguna cosa de ese tipo. Ahora, ¿cómo se diagnostican? La verdad es
+
+33
+00:02:24,340 --> 00:02:28,540
+que el cuadro clínico es de las cosas más importantes y de inmediato yo
+
+34
+00:02:28,540 --> 00:02:31,900
+debo ir a confirmarlo con un angiotac. Acá no me basta solamente
+
+35
+00:02:31,900 --> 00:02:36,460
+la tac de cerebro, que es la forma en que habitualmente se enfrenta un
+
+36
+00:02:36,460 --> 00:02:39,940
+accidente vascular, sino que yo le pido el angiotac de cuello, además
+
+37
+00:02:39,940 --> 00:02:43,820
+como para ver que hay una disección y el manejo es un poco
+
+38
+00:02:43,820 --> 00:02:47,380
+difícil y contraintuitivo, pero hay que saberlo, por el general es
+
+39
+00:02:47,620 --> 00:02:51,420
+anticoagulando. Y alguien me dice, espérate, ¿cómo vas a anticoagular
+
+40
+00:02:51,420 --> 00:02:54,180
+una arteria que se está ahí secando? No habíamos dicho que la
+
+41
+00:02:54,180 --> 00:02:56,940
+anticoagulación estaba absolutamente contraindicada en la disección
+
+42
+00:02:56,940 --> 00:02:59,500
+aórtica, por ejemplo. Pues bien, en la disección aórtica está
+
+43
+00:02:59,500 --> 00:03:03,140
+contraindicada, pero en la disección de las arterias cerebrales,
+
+44
+00:03:03,140 --> 00:03:07,180
+en cambio, está indicada y es la forma de evitar que haya una
+
+45
+00:03:07,180 --> 00:03:11,300
+secuela neurológica más grande. Así que o queda con heparina,
+
+46
+00:03:11,300 --> 00:03:15,300
+que es lo habitual, o bien al menos con aspirina como
+
+47
+00:03:15,340 --> 00:03:20,260
+anti agregante. Ahora, aparte de esto, hay que darle todo el manejo
+
+48
+00:03:20,260 --> 00:03:24,220
+del accidente vascular isquémico, ¿cierto? Incluyendo una eventual
+
+49
+00:03:24,220 --> 00:03:27,700
+trombólisis o incluso la trombectomía en el caso de que
+
+50
+00:03:27,700 --> 00:03:31,260
+hay un trombo muy grande y que esté tapando la carotida o la
+
+51
+00:03:31,260 --> 00:03:33,900
+arteria cerebral. En ese caso hay que ir a destapar lo urgente
+
+52
+00:03:33,900 --> 00:03:36,660
+como para evitar que quede con una secuela mayor. Bueno,
+
+53
+00:03:36,660 --> 00:03:38,460
+todo lo que hay que saber. Nos vemos en el siguiente tema.
+
+54
+00:03:38,460 --> 00:03:38,900
+Que estén bien.

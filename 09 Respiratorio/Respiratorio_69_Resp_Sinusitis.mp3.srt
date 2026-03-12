@@ -1,0 +1,583 @@
+1
+00:00:02,860 --> 00:00:07,100
+Hablemos de un problema muy frecuente que es la sinusitis. Empecemos con las
+
+2
+00:00:07,100 --> 00:00:11,180
+generalidades de todas las sinusitis en general que se diagnostican en base a su
+
+3
+00:00:11,180 --> 00:00:14,980
+clínica por lo tanto hay que saberla y los síntomas más frecuentes son
+
+4
+00:00:14,980 --> 00:00:18,980
+esta sensación de presión u opresión facial que muchas veces aumenta al
+
+5
+00:00:18,980 --> 00:00:23,740
+agacharse, rinorrea o bien descarga posterior, la rinorrea es que salen
+
+6
+00:00:23,740 --> 00:00:27,180
+mocos hacia afuera, la descarga posterior hacia adentro, obstrucción
+
+7
+00:00:27,620 --> 00:00:33,140
+que es un síntoma importante y posmia, anosmia, digase el sentir los olores
+
+8
+00:00:33,140 --> 00:00:37,900
+menos o no sentirlos en absoluto o cacosmia que es sentir un mal olor a
+
+9
+00:00:37,900 --> 00:00:43,500
+pesar de que no existe, cefalea, fiebre y uno de los síntomas que es más
+
+10
+00:00:43,500 --> 00:00:48,340
+sugerente y que es casi patonomónico es que uno ve a pus saliendo
+
+11
+00:00:48,340 --> 00:00:50,700
+desde el medato medio en el sentido en que la mayoría de los senos
+
+12
+00:00:50,700 --> 00:00:55,700
+paranasales drenan efectivamente a este medato, al medato medio. En resumen
+
+13
+00:00:55,700 --> 00:01:00,820
+hay que saberse todos estos criterios pero no de memoria sino que
+
+14
+00:01:00,820 --> 00:01:04,460
+simplemente saber identificar esto y saber que eso es una sinusitis.
+
+15
+00:01:04,460 --> 00:01:08,940
+El diagnóstico repito es clínico, se basa en la presencia de varios de estos
+
+16
+00:01:08,940 --> 00:01:13,140
+síntomas aunque uno puede complementar ya sea con un ATAC o con una
+
+17
+00:01:13,140 --> 00:01:16,980
+radiografía de senos paranasales o de cavidades paranasales sabiendo que
+
+18
+00:01:16,980 --> 00:01:20,260
+el ATAC es el examen de elección y en algunas oportunidades yo puedo
+
+19
+00:01:20,260 --> 00:01:23,740
+objetivarlo también con la endoscopia nasal que me muestra la
+
+20
+00:01:23,740 --> 00:01:26,740
+inflamación de las mucosas y eventualmente la pus saliendo del medato
+
+21
+00:01:26,740 --> 00:01:30,460
+medio. Pero repito el diagnóstico es clínico y estos exámenes se piden
+
+22
+00:01:30,460 --> 00:01:33,340
+solamente cuando yo tengo una duda diagnóstica o cuando tengo que
+
+23
+00:01:33,340 --> 00:01:37,900
+evaluar la anatomía de los senos paranasales en miras a una cirugía
+
+24
+00:01:37,900 --> 00:01:43,940
+por ejemplo. Ahora se clasifica la sinusitis en aguda subaguda o crónica
+
+25
+00:01:43,940 --> 00:01:47,220
+según el número de semanas la aguda es menos de un mes menos de
+
+26
+00:01:47,220 --> 00:01:50,740
+cuatro semanas la subaguda es desde cuatro hasta doce semanas hasta
+
+27
+00:01:50,740 --> 00:01:56,180
+casi tres meses y la crónica es más de las 12 semanas y la importancia acá
+
+28
+00:01:56,180 --> 00:02:00,140
+es la forma en que las voy a enfrentar porque en la aguda lo que me interesa
+
+29
+00:02:00,140 --> 00:02:04,380
+es si es que es viral o si es bacteriana en cambio en la crónica lo
+
+30
+00:02:04,380 --> 00:02:07,420
+que me interesa saber si es que es inespecífica o si es que es
+
+31
+00:02:07,420 --> 00:02:11,300
+infecciosa en particular porque en la aguda bacteriana y porque en la
+
+32
+00:02:11,300 --> 00:02:14,380
+crónica infecciosa hay que dar la antibiótica o a diferencia de las que
+
+33
+00:02:14,380 --> 00:02:19,100
+no son infecciosas. Ahora veamos la diferencia en la aguda en
+
+34
+00:02:19,100 --> 00:02:23,180
+específico en la renuncia en una cirugía aguda entre viral y bacteriana y la diferencia
+
+35
+00:02:23,180 --> 00:02:26,460
+fundamentalmente clínica dentro de lo cual lo más importante es el tiempo
+
+36
+00:02:26,460 --> 00:02:30,700
+tiempo de evolución. Las virales todas las de menos de siete días se asume
+
+37
+00:02:30,700 --> 00:02:34,060
+que son virales y en las que llevan más de siete días pero que se
+
+38
+00:02:34,060 --> 00:02:37,380
+empiezan a mejorar igualmente uno dice esto probablemente es viral o sea si
+
+39
+00:02:37,380 --> 00:02:41,500
+cada vez está mejor lo más probable es que sea un virus y que ya esté en
+
+40
+00:02:41,500 --> 00:02:45,620
+retirada. Aparte si viene con los otros síntomas de refrío con tos con
+
+41
+00:02:45,620 --> 00:02:50,460
+difonía etcétera y si es que no está complicada todo eso es viral. En
+
+42
+00:02:50,460 --> 00:02:54,700
+cambio si tiene más de 10 días y no está mejorando lo más probable es que
+
+43
+00:02:54,700 --> 00:02:58,860
+sea bacteriana aunque ya después de una semana uno ya evalúa dejar la
+
+44
+00:02:58,860 --> 00:03:02,540
+antibiótico en particular si que está empeorando. Segundo lugar si era
+
+45
+00:03:02,540 --> 00:03:05,820
+algo que iba mejorando porque era viral y se iba mejorando pero luego
+
+46
+00:03:05,820 --> 00:03:09,060
+empeora uno dice probablemente se sobreinfectó así que eso es algo
+
+47
+00:03:09,060 --> 00:03:11,780
+que sugiere fuertemente una infección bacteriana también en
+
+48
+00:03:11,780 --> 00:03:15,300
+particular si ya lleva más de siete días y finalmente si yo veo la pus
+
+49
+00:03:15,300 --> 00:03:18,540
+saliendo de almidato medio eso probablemente es una infección
+
+50
+00:03:18,540 --> 00:03:23,020
+bacteriana o si tiene complicaciones como la celulitis preorbitaria o la
+
+51
+00:03:23,020 --> 00:03:26,820
+celulitis orbitaria que son dentro de las complicaciones más importantes o
+
+52
+00:03:26,820 --> 00:03:30,900
+una sepsis una pneumonía bacteriana obviamente yo voy a sospechar que es
+
+53
+00:03:30,900 --> 00:03:35,920
+de causa bacteriana. Lo importante acá es el manejo en la viral es el
+
+54
+00:03:35,920 --> 00:03:38,820
+tratamiento sintomático en la bacteriana en cambio es el
+
+55
+00:03:38,820 --> 00:03:42,820
+tratamiento con antibióticos orales habitualmente. Ahora el tratamiento
+
+56
+00:03:42,820 --> 00:03:47,060
+sintomático obviamente con el paracetamol o con aines pero también
+
+57
+00:03:47,060 --> 00:03:52,180
+suele servir el hacerle lavados nasales con suelo fisiológico en particular
+
+58
+00:03:52,180 --> 00:03:55,460
+en los niños de hecho si que está sin fiebre sin dolor y lo único que
+
+59
+00:03:55,460 --> 00:04:01,540
+tiene es mucho moco el usar el lavado con agua con sal o con suelo
+
+60
+00:04:01,540 --> 00:04:04,540
+fisiológico suele ser la única indicación que uno deja sirven
+
+61
+00:04:04,540 --> 00:04:07,780
+eventualmente los descongestionantes orales que vienen en la mayoría de
+
+62
+00:04:07,780 --> 00:04:11,040
+los antigripales como la pseudoefedrina y finalmente esta
+
+63
+00:04:11,040 --> 00:04:14,360
+pregunta si le dejo no un corticoide tópico en una sinusitis aguda viral
+
+64
+00:04:14,360 --> 00:04:19,320
+la respuesta es probablemente no a menos claro que de base tenga una renitis
+
+65
+00:04:19,320 --> 00:04:23,120
+alérgica por ejemplo en el sentido en que ahí podría ayudar a disminuir los
+
+66
+00:04:23,120 --> 00:04:26,560
+síntomas de la patología de base que se exacerban en este caso con la
+
+67
+00:04:26,560 --> 00:04:30,280
+infección viral. Respecto al antibiótico dejarle en una sinusitis
+
+68
+00:04:30,280 --> 00:04:34,240
+bacteriana la regla general es amoxicilina común y corriente pero
+
+69
+00:04:34,240 --> 00:04:38,040
+otras alternativas es partirle de inmediato amoxiclabulánico en
+
+70
+00:04:38,040 --> 00:04:42,680
+particular ejemplo si es que estuvo con uso de antibióticos de tipo
+
+71
+00:04:42,680 --> 00:04:46,800
+amoxicilina de manera reciente que no dice hay alguna probabilidad de que
+
+72
+00:04:46,800 --> 00:04:51,160
+haya resistencia o bien si es un mayor de 65 años o cualquier otra cosa
+
+73
+00:04:51,160 --> 00:04:55,520
+que me haga pensar en que hay un bicho resistente o bien le puedo
+
+74
+00:04:55,520 --> 00:05:00,960
+dejar cefixima o cephodoxima que son cefalosporinas de tercera generación
+
+75
+00:05:00,960 --> 00:05:03,840
+pero que se pueden dar por vía oral y que cubre bien al neumococo al
+
+76
+00:05:04,800 --> 00:05:11,160
+los bichos que habitualmente son los causantes de la sinusitis bacteriana y
+
+77
+00:05:11,160 --> 00:05:14,920
+finalmente en el caso de que haya alergia puede usar la doxyciclina
+
+78
+00:05:14,920 --> 00:05:19,760
+fíjense en este caso que hay más bichos resistentes no me sirven
+
+79
+00:05:19,760 --> 00:05:23,360
+tanto los macrólidos que si bien son una opción suele no ser de
+
+80
+00:05:23,360 --> 00:05:28,280
+elección sino que se deja la doxyciclina o por último una
+
+81
+00:05:28,280 --> 00:05:32,800
+quinolona como el levofloxacino o el moxifloxacino pero repito de
+
+82
+00:05:32,800 --> 00:05:37,040
+elección es la amoxicilina eso es lo que se suele dejar y si no responde
+
+83
+00:05:37,040 --> 00:05:43,080
+pues le agrego el ácido clavulánico en la sinusitis crónica en este caso
+
+84
+00:05:43,080 --> 00:05:46,480
+cuando es no infecciosa o las cosas que me hacen pensar que va a ser no
+
+85
+00:05:46,480 --> 00:05:50,560
+infecciosa es que tenga obstrucción como el síntoma más importante en
+
+86
+00:05:50,560 --> 00:05:55,760
+cambio que la rinorrea no sea tan importante o sea sea no purulenta ni
+
+87
+00:05:55,760 --> 00:05:58,800
+tampoco muy abundante y aparte de eso que no tenga ningún tipo de
+
+88
+00:05:58,800 --> 00:06:01,320
+complicación en cambio lo más probable es que va a ser una
+
+89
+00:06:01,360 --> 00:06:04,760
+rinocinusitis crónica y bacteriana recordando que estamos hablando de la
+
+90
+00:06:04,760 --> 00:06:09,640
+crónica de la que tiene más de 12 semanas cuando tenga mucha rinorrea ya
+
+91
+00:06:09,640 --> 00:06:14,480
+sea abundante y purulenta cierto o bien que venga con cefalea fiebre con
+
+92
+00:06:14,480 --> 00:06:17,620
+cosas que me orientan a una infección o bien que venga con
+
+93
+00:06:17,620 --> 00:06:22,680
+complicaciones igualmente con una celulitis pre orbitaria o orbitaria o
+
+94
+00:06:22,680 --> 00:06:27,000
+con una meningitis con un absceso cerebral alguna cosa ya más grave en
+
+95
+00:06:27,000 --> 00:06:31,160
+ese caso seguro es bacteriana las bacterias que habitualmente infectan
+
+96
+00:06:31,160 --> 00:06:35,320
+la sinusitis crónica ya no son el neumococo y el hemófilus como era el
+
+97
+00:06:35,320 --> 00:06:39,240
+aguda sino que es más frecuente que haya esta filococoaureus y aparte
+
+98
+00:06:39,240 --> 00:06:42,840
+anaerobios o sea el tratamiento antibiótico seguramente va a cambiar un
+
+99
+00:06:42,840 --> 00:06:46,880
+poco en comparación con la sinusitis aguda que era amoxic o amoxiclabulánico
+
+100
+00:06:46,880 --> 00:06:52,280
+el manejo de las rinocinusitis crónicas no infecciosa o sin sospecha
+
+101
+00:06:52,280 --> 00:06:56,280
+de infección o bien inespecífica habitualmente con corticoide tópico
+
+102
+00:06:56,280 --> 00:07:00,560
+que acuérdense que me servía en la rinitis alérgica también para la
+
+103
+00:07:00,560 --> 00:07:07,240
+obstrucción y el suero fisiológico por vía nasal en el sentido en que el
+
+104
+00:07:07,240 --> 00:07:11,320
+aseo con el suero fisiológico con estas irrigaciones ayuda a que estos
+
+105
+00:07:11,320 --> 00:07:15,160
+síntomas desaparezcan ahora cuando no responde yo digo lo más probable es
+
+106
+00:07:15,160 --> 00:07:18,840
+que si sea bacteriana o sea no solamente son bacterianas la que tiene
+
+107
+00:07:18,840 --> 00:07:22,960
+clínica de una rinocinus de una rinocinus sitis infecciosa sino que
+
+108
+00:07:22,960 --> 00:07:26,920
+también las que no han respondido al tratamiento basal y ahí uno le
+
+109
+00:07:26,920 --> 00:07:31,680
+agrega los antibióticos y en los casos refractarios que no responden a
+
+110
+00:07:31,680 --> 00:07:35,520
+absolutamente nada bueno de última línea está la cirugía endoscópica
+
+111
+00:07:35,520 --> 00:07:41,800
+nasal que obviamente se va a ir a abrir la salida de los senos
+
+112
+00:07:41,800 --> 00:07:44,520
+paranasales habitualmente hay una obstrucción a
+
+113
+00:07:44,520 --> 00:07:48,160
+nivel del meato medio y eso es justamente el orificio que hay que
+
+114
+00:07:48,160 --> 00:07:51,160
+expandir que hay que abrir como para que drene un poco mejor o bien
+
+115
+00:07:51,160 --> 00:07:53,920
+si es que tiene un problema dental con una infección dental que se está
+
+116
+00:07:53,920 --> 00:07:58,560
+yendo hacia algunos de los senos paranasales hay que arreglar el problema
+
+117
+00:07:58,560 --> 00:08:03,720
+de base en este caso sería el diente ahora en las sinusitis crónicas
+
+118
+00:08:03,720 --> 00:08:07,880
+idealmente siempre buscar alguna alteración anatómica y eso se hace
+
+119
+00:08:07,880 --> 00:08:11,600
+con un ataque o sea hay que pedirle una imagen sí o sí a la crónica en
+
+120
+00:08:11,600 --> 00:08:14,920
+la aguda no es obligatoria en la crónica si lo es en el sentido en
+
+121
+00:08:14,920 --> 00:08:18,440
+que tengo que asegurarme que no haya una obstrucción del meato medio
+
+122
+00:08:18,440 --> 00:08:21,880
+algún problema del tabique o cualquier otra cosa que esté
+
+123
+00:08:21,920 --> 00:08:25,360
+produciendo esta retención de secreciones y lo ideal es contar también
+
+124
+00:08:25,360 --> 00:08:29,520
+con un cultivo porque dijimos que el espectro de bacterias en este caso es
+
+125
+00:08:29,520 --> 00:08:33,240
+mucho más amplio y de esa manera yo puedo focalizar el tratamiento
+
+126
+00:08:33,240 --> 00:08:37,520
+antibiótico ahora independientemente de eso el tratamiento mínimo que yo le
+
+127
+00:08:37,520 --> 00:08:41,840
+tengo que dejar a una rinocidina una rinocidina crónica bacteriana es
+
+128
+00:08:41,840 --> 00:08:45,640
+amoxicilina con ácido clavulánico la diferencia de la aguda que podía
+
+129
+00:08:45,640 --> 00:08:50,320
+ser amoxicilina sola ahora como cosa importante es que si es que es
+
+130
+00:08:50,360 --> 00:08:54,320
+alérgico o si es que no responde eventualmente debo intentar algún
+
+131
+00:08:54,320 --> 00:08:59,640
+otro fármaco pero que cubra al estafilo cocaóreo y a los anerovios
+
+132
+00:08:59,640 --> 00:09:02,720
+que son los que están ahí en rojo recordando que la moxy más ácido
+
+133
+00:09:02,720 --> 00:09:07,000
+clavulánico sí cubre estafilo la moxy sola no en cambio con ácido
+
+134
+00:09:07,000 --> 00:09:10,640
+clavulánico si lo hace y dentro de eso está la clindamicina que cubre
+
+135
+00:09:10,640 --> 00:09:14,200
+a los granpositivos y a los anerovios también el moxy floxacino
+
+136
+00:09:14,200 --> 00:09:17,920
+que cubre prácticamente todo cierto y el leo floxacino más metronidazol
+
+137
+00:09:17,920 --> 00:09:21,520
+porque acuérdense que el leo cubre bien a los gran negativos a los
+
+138
+00:09:21,520 --> 00:09:24,480
+gran positivos a los bichos respiratorios pero no cubre anerovios a
+
+139
+00:09:24,480 --> 00:09:27,720
+diferencia del moxy así que en ese caso se le agrega el metronidazol
+
+140
+00:09:27,720 --> 00:09:32,520
+también ahora por cuánto tiempo en el caso de la aguda solía ser una
+
+141
+00:09:32,520 --> 00:09:39,280
+semana y dos semanas si es que no no ha mejorado del todo en los siete
+
+142
+00:09:39,280 --> 00:09:42,520
+días de antibiótico en cambio en la crónica suele dejarse por más
+
+143
+00:09:42,520 --> 00:09:46,280
+tiempo algunos dicen dos semanas otros dicen tres semanas otros dicen
+
+144
+00:09:46,280 --> 00:09:49,280
+mínimo dos semanas y alargarlo hasta tres si es que no ha respondido por
+
+145
+00:09:49,280 --> 00:09:53,040
+completo y bueno esa fue esa clase de sinusitis nos vemos los siguientes
+
+146
+00:09:53,040 --> 00:09:55,600
+vídeos que estén bien

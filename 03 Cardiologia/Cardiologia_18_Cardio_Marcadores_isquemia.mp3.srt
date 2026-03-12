@@ -1,0 +1,199 @@
+1
+00:00:00,000 --> 00:00:06,990
+Hola, ¿cómo están? Hablemos de los marcadores de isquemia miocárdica, que se les suele
+
+2
+00:00:06,990 --> 00:00:11,150
+llamar enzimas cardíacas, aunque eso no es correcto, en el sentido en que las troponinas,
+
+3
+00:00:11,150 --> 00:00:16,870
+que son las más útiles, no son enzimas, son proteínas estructurales. Acuérdense,
+
+4
+00:00:16,870 --> 00:00:21,950
+en la actualidad las troponinas son de elección, han desplazado a los otros marcadores,
+
+5
+00:00:21,950 --> 00:00:25,590
+hay de dos tipos, por si acaso, y ambos suelen tener el peak no de inmediato,
+
+6
+00:00:25,590 --> 00:00:31,150
+sino que habitualmente entre cuatro a seis horas después del inicio de la isquemia.
+
+7
+00:00:31,150 --> 00:00:35,750
+Ahora, como cosa importante, uno no espera hasta ese momento, sino que se piden de inmediato,
+
+8
+00:00:35,750 --> 00:00:40,590
+apenas el paciente con síndrome coronario llega a la urgencia, se le pide el electrocardiograma,
+
+9
+00:00:40,590 --> 00:00:46,910
+se le piden las troponinas, cierto, y se inicia el manejo, y que quede esto bien claro,
+
+10
+00:00:46,910 --> 00:00:50,510
+que estén normales, no quita que pueda estar con un infarto en este momento,
+
+11
+00:00:50,510 --> 00:00:55,110
+debido a que se demora. Ahora, como al principio pueden estar normales,
+
+12
+00:00:55,110 --> 00:00:59,430
+se hace una curva con las troponinas, cierto, y se van pidiendo cada una hora,
+
+13
+00:00:59,430 --> 00:01:03,190
+o cada dos horas, y justamente se va viendo cómo se van alterando.
+
+14
+00:01:03,190 --> 00:01:08,510
+Los valores normales hay que saberlos, se expresan habitualmente en nanógramos por ML,
+
+15
+00:01:08,510 --> 00:01:15,870
+en el caso de la troponina I es menor a 0,04, y en el caso de la troponina T es menor a 0,01,
+
+16
+00:01:15,870 --> 00:01:20,830
+ambas son iguales de sensibles, iguales de específicas, ambas son muy buenas, por si acaso.
+
+17
+00:01:20,830 --> 00:01:26,550
+¿Qué pasa con la CKMB, que ha caído un poco en la obsolescencia, cierto,
+
+18
+00:01:26,550 --> 00:01:32,630
+aunque en algunos lugares es lo único que está disponible y finalmente toca usarla?
+
+19
+00:01:32,630 --> 00:01:38,630
+No es tan mala, pero algo malo es que va cayendo su sensibilidad a medida que va pasando el tiempo.
+
+20
+00:01:38,630 --> 00:01:44,230
+Ejemplo, algún infarto que viene del día antes eventualmente va a estar con la CKMB normal.
+
+21
+00:01:44,230 --> 00:01:48,550
+En el caso de la CK total es un pésimo examen, en el sentido en que,
+
+22
+00:01:48,550 --> 00:01:54,150
+además de ser menos sensible, es especialmente poco específico y se altera con cualquier cosa,
+
+23
+00:01:54,190 --> 00:01:56,750
+ejemplo con el ejercicio, con un golpe o con lo que sea.
+
+24
+00:01:56,750 --> 00:02:04,470
+Finalmente está la mioglobina, que viene con una cosa buena, que el PIC se produce a las dos horas,
+
+25
+00:02:04,470 --> 00:02:09,910
+así que viene con un periodo de ventana un poquito más corto, pero es menos específica,
+
+26
+00:02:09,910 --> 00:02:14,510
+en el sentido en que igualmente se altera con el ejercicio, con el traumatismo, con ese tipo de cosas,
+
+27
+00:02:14,510 --> 00:02:20,070
+pero eventualmente sí me puede dar algo de información en algún paciente que lleva muy poco tiempo con el dolor
+
+28
+00:02:20,070 --> 00:02:24,910
+y la puedo pedir en conjunto con las troponinas, al menos para el manejo inicial.
+
+29
+00:02:24,910 --> 00:02:28,190
+Ahora, ¿cuál es la utilidad de estos marcadores?
+
+30
+00:02:28,190 --> 00:02:34,950
+Número uno, me ayudan a confirmar el diagnóstico en el caso de que haya una clínica inespecífica de dolor torásico.
+
+31
+00:02:34,950 --> 00:02:41,190
+Segundo lugar, me ayudan a la diferencia entre un infarto agudo al miocardio y una angina inestable,
+
+32
+00:02:41,190 --> 00:02:47,550
+que la angina inestable pura se define como aquella que viene solamente con el dolor,
+
+33
+00:02:47,590 --> 00:02:52,430
+sigue siendo un síndrome coronario agudo y hay que manejarlo como un síndrome coronario agudo,
+
+34
+00:02:52,430 --> 00:02:56,670
+pero viene sin una lesión que se produzca realmente en el corazón.
+
+35
+00:02:56,670 --> 00:03:05,430
+Es uno de los criterios de severidad en el score de Timmy, cierto, del síndrome coronario sin suprar el nivel del ST.
+
+36
+00:03:05,430 --> 00:03:10,510
+Me sirve para la decisión de hacer o no una angioplastía en el caso del síndrome coronario agudo
+
+37
+00:03:10,510 --> 00:03:16,670
+sin suprar el nivel del ST, al punto que en la actualidad se recomienda que se escaltera
+
+38
+00:03:16,790 --> 00:03:22,350
+la astroponina, es mejor el tratamiento agresivo con angioplastía al tratamiento conservador
+
+39
+00:03:22,350 --> 00:03:27,470
+en el caso del síndrome coronario sin suprar el nivel del ST, que lo vamos a ver con algún detalle después.
+
+40
+00:03:27,470 --> 00:03:33,150
+Y finalmente me pueden dar algo de información respecto al éxito de la trombólisis,
+
+41
+00:03:33,150 --> 00:03:37,790
+aunque lo más importante como para ver el éxito de la trombólisis es que mejore clínicamente
+
+42
+00:03:37,790 --> 00:03:43,270
+y que mejore el electrocardiograma, pero si es que se produce un PIC precoz de las enzimas,
+
+43
+00:03:43,270 --> 00:03:50,350
+en ese caso me orienta a que la trombólisis tuvo éxito, a que logró romper el coágulo, cierto,
+
+44
+00:03:50,350 --> 00:03:52,990
+y que finalmente se revasculariza el flujo.
+
+45
+00:03:52,990 --> 00:03:57,910
+Finalmente hay que recordar que los marcadores de esquema miocárdico vienen con limitaciones
+
+46
+00:03:57,910 --> 00:04:02,910
+muy importantes y la más importante de todas es que demoran mucho en alterarse
+
+47
+00:04:02,910 --> 00:04:07,630
+y por lo mismo el electrocardiograma es el examen más importante para decidir el manejo
+
+48
+00:04:07,630 --> 00:04:09,350
+de un paciente con un síndrome coronario agudo.
+
+49
+00:04:09,350 --> 00:04:13,070
+Y bueno, eso es todo lo que hay que saber. Nos vemos en los siguientes temas con más detalles.
+
+50
+00:04:13,270 --> 00:04:16,470
+Subtítulos realizados por la comunidad de Amara.org

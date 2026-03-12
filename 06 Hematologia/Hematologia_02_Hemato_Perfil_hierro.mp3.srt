@@ -1,0 +1,435 @@
+1
+00:00:00,000 --> 00:00:07,060
+Hola, hola, ¿cómo están? En este vídeo, siguiendo con la anemia, vamos a hablar del
+
+2
+00:00:07,060 --> 00:00:11,260
+perfil de hierro o perfil de fierro, ambas palabras son correctas, y recordemos que
+
+3
+00:00:11,260 --> 00:00:15,020
+el primer parámetro a evaluar y el más importante es la ferritina. Yo les recomiendo
+
+4
+00:00:15,020 --> 00:00:21,260
+que se aprendan el valor normal, al menos de la ferritina, que va de 30 a 200 nanogramos
+
+5
+00:00:21,260 --> 00:00:25,940
+por ml, puede variar un poco según el sexo, por si acaso. Es el parámetro más
+
+6
+00:00:25,940 --> 00:00:30,780
+importante en el sentido en que, viendo el hemograma más la ferritina, lo más
+
+7
+00:00:30,780 --> 00:00:34,700
+probable es que ya tenga un diagnóstico, o al menos me oriente muy
+
+8
+00:00:34,700 --> 00:00:37,660
+fuertemente a un diagnóstico. Y lo que refleja habitualmente son los
+
+9
+00:00:37,660 --> 00:00:41,300
+depósitos de hierro, así que obviamente va a disminuir en el caso de la
+
+10
+00:00:41,300 --> 00:00:45,900
+ferropenia, pero además, y esto hay que recordarlo, es un reactante de
+
+11
+00:00:45,900 --> 00:00:48,660
+fase aguda, se eleva con la inflamación, con cualquier patología
+
+12
+00:00:48,660 --> 00:00:52,060
+inflamatoria. Veamos algunos poquitos casos, y esto va a quedar mucho más
+
+13
+00:00:52,060 --> 00:00:55,500
+claro. Si yo tengo anemia más una caída de la ferritina, más una
+
+14
+00:00:55,500 --> 00:00:58,060
+caída de los depósitos de hierro, lo más probable es que estoy en
+
+15
+00:00:58,060 --> 00:01:02,780
+contexto de una anemia ferropénica. Eso es bastante sencillo. Si yo tengo
+
+16
+00:01:02,780 --> 00:01:06,900
+una hepatitis más o un aumento de la ferritina, lo más probable es que sea
+
+17
+00:01:06,900 --> 00:01:11,060
+cualquier causa de hepatitis. ¿Por qué? Porque la ferritina, dijimos, es un
+
+18
+00:01:11,060 --> 00:01:14,060
+reactante de fase aguda, se eleva con la inflamación, y el hepatitis, por
+
+19
+00:01:14,060 --> 00:01:16,940
+cualquier causa, ya sea un NASH, un estetopatitis no alcohólico, un
+
+20
+00:01:16,940 --> 00:01:20,340
+hepatitis viral, o la razón que sea, suele producir inflamación, así que
+
+21
+00:01:20,340 --> 00:01:24,820
+eleva a la ferritina. Si yo tengo en cambio un daño hepático crónico más
+
+22
+00:01:24,860 --> 00:01:29,900
+una ferritina muy elevada, ahí recién yo pienso en una hemocromatosis. La
+
+23
+00:01:29,900 --> 00:01:33,300
+hemocromatosis que está enfermedad por depósito de hierro, cierto, por una
+
+24
+00:01:33,300 --> 00:01:36,380
+sobrecarga de hierro en el cuerpo, suele aumentar la ferritina, pero no un
+
+25
+00:01:36,380 --> 00:01:40,980
+poquito, sino que mucho. En cuarto lugar, si yo tengo artritis más un
+
+26
+00:01:40,980 --> 00:01:44,380
+aumento de la ferritina, nuevamente puede ser cualquier causa, artritis
+
+27
+00:01:44,380 --> 00:01:48,260
+ronmatoide, lupus, etcétera, en el sentido en que, repito, la ferritina
+
+28
+00:01:48,260 --> 00:01:51,660
+se eleva con cualquier causa de inflamación, pero si tengo en artritis
+
+29
+00:01:51,980 --> 00:01:56,340
+un aumento de la ferritina muy elevado, en ese caso si sospecho una
+
+30
+00:01:56,340 --> 00:01:59,700
+causa específica, que es la enfermedad de STIL de los adultos, que
+
+31
+00:01:59,700 --> 00:02:03,500
+en los niños se llama artritis ronmatoide juvenil o artritis juvenil
+
+32
+00:02:03,500 --> 00:02:08,100
+idiopática, que sí produce bastante inflamación, pero además suele
+
+33
+00:02:08,100 --> 00:02:12,380
+elevar considerablemente la ferritina en comparación con otros
+
+34
+00:02:12,380 --> 00:02:16,660
+reactantes de fase agua. Ahora, hablemos de la transferrina, ese es
+
+35
+00:02:16,660 --> 00:02:20,460
+el valor normal, no es tan importante saberlo, entre 215 a
+
+36
+00:02:20,460 --> 00:02:23,860
+370, sabiendo que suele ser un poquito más alta los hombres que
+
+37
+00:02:23,860 --> 00:02:29,500
+las mujeres, refleja el transporte de hierro y, como algo muy
+
+38
+00:02:29,500 --> 00:02:32,980
+importante, en la ferropenia tiende a elevarse, me falta hierro,
+
+39
+00:02:32,980 --> 00:02:35,180
+entonces aumenta la proteína transportadora, como con la
+
+40
+00:02:35,180 --> 00:02:37,740
+esperanza de encontrar hierro en alguna parte y llevarlo hacia
+
+41
+00:02:37,740 --> 00:02:41,460
+la médula ósea, ¿cierto? Y la inflamación la baja, dígase, se
+
+42
+00:02:41,460 --> 00:02:45,660
+considera un reactante de fase aguda negativo, o sea, repito,
+
+43
+00:02:45,660 --> 00:02:48,340
+la ferritina era un reactante de fase aguda, en cambio la
+
+44
+00:02:48,340 --> 00:02:51,540
+transferrina es un reactante de fase aguda negativo que baja
+
+45
+00:02:51,540 --> 00:02:57,020
+con la inflamación. Aparte de esto está la TIBC, la capacidad
+
+46
+00:02:57,020 --> 00:02:59,820
+total de fijación de hierro, con su sigla en inglés,
+
+47
+00:02:59,820 --> 00:03:04,060
+cierto, total iron binding capacity, y en este caso es muy
+
+48
+00:03:04,060 --> 00:03:08,220
+similar a la transferrina, dado que la transferrina refleja
+
+49
+00:03:08,220 --> 00:03:12,260
+la proporción más alta de la capacidad total de fijación
+
+50
+00:03:12,260 --> 00:03:14,380
+de hierro, y luego hay algunas otras proteínas que
+
+51
+00:03:14,380 --> 00:03:18,260
+en algo aportan, pero ya sea transferrina o TIBC me da la
+
+52
+00:03:18,260 --> 00:03:23,620
+misma información. Finalmente tengo la saturación de la
+
+53
+00:03:23,620 --> 00:03:26,940
+transferrina o la saturación de la TIBC, puede ser de
+
+54
+00:03:26,940 --> 00:03:30,140
+cualquiera de los dos, que el valor normal es entre 20% y
+
+55
+00:03:30,140 --> 00:03:34,340
+50%, que es un valor que yo también recomiendo aprenderse
+
+56
+00:03:34,340 --> 00:03:37,220
+y que en general tiende a aumentar cuando hay una
+
+57
+00:03:37,220 --> 00:03:39,940
+sobrecarga, en cambio tiende a bajar en la ferropeña.
+
+58
+00:03:39,940 --> 00:03:42,100
+O sea, cuando tengo ferropeña, dijimos que los
+
+59
+00:03:42,100 --> 00:03:44,300
+depósitos de hierro estaban bajos, tengo poco hierro,
+
+60
+00:03:44,300 --> 00:03:46,940
+pero la TIBC o la transferrina subían, así que
+
+61
+00:03:46,980 --> 00:03:49,780
+obviamente la saturación baja y en cambio cuando tengo una
+
+62
+00:03:49,780 --> 00:03:52,620
+hemocromatosis o alguna otra causa de sobrecarga de hierro,
+
+63
+00:03:52,620 --> 00:03:55,380
+se produce el efecto contrario.
+
+64
+00:03:55,380 --> 00:03:58,620
+La ferremia, que no la nombramos y que no importa
+
+65
+00:03:58,620 --> 00:04:01,940
+tanto la verdad, suele ser de poca utilidad porque no me
+
+66
+00:04:01,940 --> 00:04:04,860
+diferencia bien las distintas causas de anemia ni
+
+67
+00:04:04,860 --> 00:04:08,220
+tampoco me sirve tanto para otro tipo de patologías,
+
+68
+00:04:08,220 --> 00:04:10,580
+así que en la práctica lo que se mira es la
+
+69
+00:04:10,580 --> 00:04:12,940
+ferretina y la transferrina.
+
+70
+00:04:12,940 --> 00:04:15,900
+Ahora, veamos algunos casos o más que unos casos,
+
+71
+00:04:15,900 --> 00:04:19,460
+algunas patologías como para ver cómo se ven y la más
+
+72
+00:04:19,460 --> 00:04:22,060
+importante es la ferropeña, acuérdense que la ferretina
+
+73
+00:04:22,060 --> 00:04:24,180
+va a estar muy baja porque los depósitos de hierro están
+
+74
+00:04:24,180 --> 00:04:26,700
+bajos, la TIBC y la transferrina dijimos que
+
+75
+00:04:26,700 --> 00:04:28,140
+estaban muy altas, ¿cierto?
+
+76
+00:04:28,140 --> 00:04:30,780
+La saturación obviamente va a estar muy baja y
+
+77
+00:04:30,780 --> 00:04:34,060
+finalmente la ferremia tiende a estar baja porque
+
+78
+00:04:34,060 --> 00:04:35,780
+obviamente falta hierro.
+
+79
+00:04:35,780 --> 00:04:38,580
+En la enfermedad crónica es más o menos al revés,
+
+80
+00:04:38,580 --> 00:04:40,820
+pero no es exactamente al revés,
+
+81
+00:04:40,820 --> 00:04:43,180
+la ferretina sí aumenta porque dijimos que era un
+
+82
+00:04:43,180 --> 00:04:45,900
+reactante de fase aguda, la transferrina y la TIBC
+
+83
+00:04:45,900 --> 00:04:48,020
+bajan porque dijimos que eran reactantes de fase aguda
+
+84
+00:04:48,020 --> 00:04:50,820
+negativo, la saturación tiende a aumentar aunque no
+
+85
+00:04:50,820 --> 00:04:53,380
+siempre por si acaso y la ferremia, fíjense,
+
+86
+00:04:53,380 --> 00:04:55,940
+es igual que la ferropeña tiende a estar baja por la
+
+87
+00:04:55,940 --> 00:04:58,180
+simple razón de que la mayor cantidad de hierro de
+
+88
+00:04:58,180 --> 00:04:59,940
+la sangre no está en la ferretina,
+
+89
+00:04:59,940 --> 00:05:01,140
+no están los depósitos de hierro,
+
+90
+00:05:01,140 --> 00:05:04,380
+sino que está en la transferrina,
+
+91
+00:05:04,380 --> 00:05:06,660
+en los transportadores de hierro, así que baja.
+
+92
+00:05:06,660 --> 00:05:08,900
+Repito, la ferremia no era un buen elemento para
+
+93
+00:05:08,900 --> 00:05:11,180
+diferenciar las distintas causas de anemia por esta
+
+94
+00:05:11,180 --> 00:05:12,540
+misma razón.
+
+95
+00:05:12,540 --> 00:05:15,420
+Ahora, algunas otras causas, la hemocromatosis en que hay
+
+96
+00:05:15,420 --> 00:05:18,260
+una sobrecarga de hierro, obviamente es todo al revés
+
+97
+00:05:18,260 --> 00:05:19,620
+a como está en la ferropeña,
+
+98
+00:05:19,620 --> 00:05:22,060
+o sea la ferretina muy elevada,
+
+99
+00:05:22,060 --> 00:05:24,340
+la transferrina o TIBC baja,
+
+100
+00:05:24,340 --> 00:05:26,900
+la saturación tiende a aumentar y la ferremia está
+
+101
+00:05:26,900 --> 00:05:28,060
+elevada también.
+
+102
+00:05:28,060 --> 00:05:30,700
+Y finalmente, ¿qué es lo que pasa con las talaceñas?
+
+103
+00:05:30,700 --> 00:05:33,220
+Y esto hay que saberlo, por un lado puede verse
+
+104
+00:05:33,220 --> 00:05:35,540
+totalmente normal, sin ninguna alteración,
+
+105
+00:05:35,540 --> 00:05:38,820
+o bien puede venir con una sobrecarga de hierro y
+
+106
+00:05:38,820 --> 00:05:41,420
+se puede generar una especie de hemocromatosis secundaria
+
+107
+00:05:41,420 --> 00:05:43,260
+incluso en algunos pacientes.
+
+108
+00:05:43,260 --> 00:05:45,620
+Bueno, y eso es todo, espero que haya quedado claro.
+
+109
+00:05:45,620 --> 00:05:48,620
+Seguimos los siguientes videos con más temas de anemia.

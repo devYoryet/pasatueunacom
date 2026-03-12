@@ -1,0 +1,371 @@
+1
+00:00:00,000 --> 00:00:06,380
+Hola, hola, ¿cómo están? En este vídeo vamos a ver muy brevemente el tema
+
+2
+00:00:06,380 --> 00:00:09,280
+hectericia, al menos algunas generalidades, empezando con una
+
+3
+00:00:09,280 --> 00:00:15,140
+definición. Acuérdense que se define como el color amarillo o amarillento de
+
+4
+00:00:15,140 --> 00:00:18,420
+las escleras de la piel o de las mucosas debido a un aumento de la
+
+5
+00:00:18,420 --> 00:00:22,200
+bilirrubina plasmática. Habitualmente cuando la bilirrubina total está
+
+6
+00:00:22,200 --> 00:00:27,600
+arriba de 2 o arriba de 3, según el paciente, recién es posible que
+
+7
+00:00:27,600 --> 00:00:32,400
+clínicamente uno identifique el color amarillo, empezando por las
+
+8
+00:00:32,400 --> 00:00:35,760
+escleras y la cara y luego el resto del cuerpo. Respecto a la
+
+9
+00:00:35,760 --> 00:00:39,520
+clasificación, esto hay que saberlo porque me cambia las causas de
+
+10
+00:00:39,520 --> 00:00:44,640
+hectericia, por un lado está la de predominio indirecto o no conjugada
+
+11
+00:00:44,640 --> 00:00:50,200
+que es por aumento de la bilirrubina de tipo justamente indirecta o no
+
+12
+00:00:50,200 --> 00:00:54,480
+conjugada y por otro lado está la de predominio directo o conjugado.
+
+13
+00:00:54,480 --> 00:00:59,840
+Ahora algo súper importante, cuando yo hablo de predominio directo o indirecto
+
+14
+00:00:59,840 --> 00:01:04,800
+el punto de corte no es 50%, el punto de corte es 20%. Si la
+
+15
+00:01:04,800 --> 00:01:10,640
+bilirrubina directa está abajo del 20%, en ese caso yo hablo de una
+
+16
+00:01:10,640 --> 00:01:13,880
+hectericia de predominio indirecto. En cambio si es que la bilirrubina
+
+17
+00:01:13,880 --> 00:01:19,760
+directa está mayor o igual a 20%, en algunas partes el punto de corte lo
+
+18
+00:01:19,760 --> 00:01:24,040
+suben a 25 o a 30%, pero en la mayoría de las fuentes el punto de
+
+19
+00:01:24,040 --> 00:01:29,160
+corte es en 20%, si está desde 20% hacia arriba, por el contrario uno habla de
+
+20
+00:01:29,160 --> 00:01:35,360
+una hiper bilirrubinemia de predominio directo. La coluria y la
+
+21
+00:01:35,360 --> 00:01:39,440
+colia se ven con mucho más frecuencia en la hiper bilirrubinemia de
+
+22
+00:01:39,440 --> 00:01:44,040
+tipo directo, en el caso de la coluria es porque la bilirrubina directa es
+
+23
+00:01:44,040 --> 00:01:49,240
+hidrosoluble y por lo mismo se puede excretar en la orina y le da el
+
+24
+00:01:49,240 --> 00:01:52,640
+color bien oscuro como Coca-Cola, cierto que se describe, y en el caso
+
+25
+00:01:52,640 --> 00:01:57,040
+de la colia es debido a que la bilirrubina se excreta por la bilis y
+
+26
+00:01:57,040 --> 00:02:00,840
+en este caso hay alguna alteración que me evita excretarla hacia las
+
+27
+00:02:00,840 --> 00:02:05,520
+deposiciones y las deposiciones se ven de color blanco, cierto, la colia se
+
+28
+00:02:05,520 --> 00:02:09,720
+ve tanto en las hepatitis como en las colestasias que son justamente las
+
+29
+00:02:09,720 --> 00:02:12,840
+causas más frecuentes de hiper bilirrubinemia de tipo directo.
+
+30
+00:02:12,840 --> 00:02:17,240
+Respecto a las causas de la de predominio indirecto las dos que hay
+
+31
+00:02:17,240 --> 00:02:20,240
+que saber son el síndrome de Gilbert que los vamos a ver en unos
+
+32
+00:02:20,240 --> 00:02:25,440
+minutos más y las distintas causas de hemólisis y respecto a las causas de
+
+33
+00:02:25,440 --> 00:02:29,360
+la de predominio directo, cierto, la más importante ya las dijimos son las
+
+34
+00:02:29,360 --> 00:02:33,120
+hepatitis y las colestasias. Como para que esto quede bien claro vamos a
+
+35
+00:02:33,120 --> 00:02:37,320
+ver cinco casos de los cuales hay que ver el resto de las alteraciones de
+
+36
+00:02:37,320 --> 00:02:41,520
+las pruebas hepáticas y de esa manera se orienta fuertemente a una
+
+37
+00:02:41,520 --> 00:02:45,840
+etiología. En el caso 1 me dice que viene con una hiper bilirrubinemia
+
+38
+00:02:45,840 --> 00:02:49,760
+de predominio indirecto que dijimos que las dos causas eran hemólisis y el
+
+39
+00:02:49,760 --> 00:02:52,920
+síndrome de Gilbert y me dice que es una alteración aislada que viene con
+
+40
+00:02:52,920 --> 00:02:56,120
+todo el resto normal en las pruebas hepáticas y en la clínica y en todo
+
+41
+00:02:56,120 --> 00:03:01,000
+pues el diagnóstico más probable es un síndrome de Gilbert que es algo
+
+42
+00:03:01,000 --> 00:03:05,520
+súper frecuente que es una alteración genética autosómica
+
+43
+00:03:05,520 --> 00:03:09,920
+dominante que se ve hasta en un 5 a 10 por ciento de la población y que
+
+44
+00:03:09,920 --> 00:03:14,120
+el manejo es simplemente educar y el advertirle mire usted tiene algo
+
+45
+00:03:14,120 --> 00:03:18,120
+que es absolutamente normal que es muy frecuente que se llama síndrome de
+
+46
+00:03:18,120 --> 00:03:23,280
+Gilbert aunque el único síntoma en verdad es la ictericia cierto sepa que
+
+47
+00:03:23,280 --> 00:03:27,800
+sus pruebas hepáticas siempre le van a salir con esta alteración pero que no
+
+48
+00:03:27,800 --> 00:03:32,520
+pasa absolutamente nada no se complica con ningún problema y que a lo más si
+
+49
+00:03:32,520 --> 00:03:36,200
+es que no duerme bien se va a despertar un poco más amarillo de
+
+50
+00:03:36,200 --> 00:03:40,560
+lo habitual lo mismo es que consumen mucho alcohol. El caso 2 viene
+
+51
+00:03:40,560 --> 00:03:45,000
+igualmente con la hiper bilirubinemia de predominio indirecto más palidez
+
+52
+00:03:45,000 --> 00:03:48,920
+y anemia más las cosas que se ve en una hemólisis cierto así que en este
+
+53
+00:03:48,920 --> 00:03:53,420
+caso el diagnóstico más probable es una anemia hemolítica y con una
+
+54
+00:03:53,420 --> 00:03:56,720
+ictericia por hemólisis que habíamos dicho que era de predominio indirecto
+
+55
+00:03:56,720 --> 00:04:02,940
+también y la conducta obviamente es el pedirle todos los exámenes
+
+56
+00:04:02,940 --> 00:04:07,740
+el adh el frotis cierto eventual eventualmente la prueba de Coombs
+
+57
+00:04:07,740 --> 00:04:13,300
+directo en busca de las causas autoinmunes etcétera. El caso 3 viene
+
+58
+00:04:13,300 --> 00:04:16,740
+en cambio con la hiper bilirubinemia de predominio directo que habíamos
+
+59
+00:04:16,740 --> 00:04:20,540
+dicho que las dos causas eran las hepatitis y las colestasia y en este
+
+60
+00:04:20,540 --> 00:04:24,580
+caso lo que está elevado son las transaminazas la got y la gpt que
+
+61
+00:04:24,580 --> 00:04:28,860
+son marcadores de hepatitis cierto de daño hepato celular así que el
+
+62
+00:04:28,860 --> 00:04:34,140
+diagnóstico es una hepatitis y ahí justamente van a tener que ver la
+
+63
+00:04:34,140 --> 00:04:37,940
+clínica para ver si es aguda o crónica y hacer el estudio etiológico
+
+64
+00:04:37,940 --> 00:04:42,700
+de las hepatitis más el pedirle la protrombinemia cierto como para ver la
+
+65
+00:04:42,700 --> 00:04:47,420
+gravedad de la hepatitis también. El caso 4 viene con una hiper bilirubinemia
+
+66
+00:04:47,420 --> 00:04:51,980
+de predominio directo y viene con elevación de los marcadores de
+
+67
+00:04:51,980 --> 00:04:55,700
+colestasia cierto con las fosfatas alcalinas y con la ggt así que el
+
+68
+00:04:55,700 --> 00:04:59,500
+diagnóstico sin ninguna duda es una colestasia sabiendo que cuando las
+
+69
+00:04:59,500 --> 00:05:02,420
+colestasas vienen con mucho dolor lo más frecuente es que sea por
+
+70
+00:05:02,420 --> 00:05:07,420
+patología biliar por colidocolitis cuando en cambio vienen sin dolor lo
+
+71
+00:05:07,420 --> 00:05:12,740
+más frecuente es que sea por cáncer las típicas higtericias con
+
+72
+00:05:12,740 --> 00:05:16,940
+colestasia silentes sin dolor cierto son los distintos cánceres de la
+
+73
+00:05:16,940 --> 00:05:21,540
+biblia y del páncreas aparte de esto y otras causas ejemplo la cirrosis
+
+74
+00:05:21,540 --> 00:05:25,860
+esclerosante primaria o la colangitis esclerosante primaria aparte
+
+75
+00:05:25,860 --> 00:05:30,140
+la cirrosis biliar primaria o colangitis biliar primaria también
+
+76
+00:05:30,140 --> 00:05:35,100
+esas serían como las dos que hay que hay que saber aparte de esto
+
+77
+00:05:35,100 --> 00:05:40,700
+está el último caso cierto que sería el caso 5 que viene con una
+
+78
+00:05:40,700 --> 00:05:44,980
+hiperbirirubinemia de predominio directo pero que es aislada que viene
+
+79
+00:05:44,980 --> 00:05:48,460
+sin ninguna otra alteración ni de patitis ni de colestasia en un
+
+80
+00:05:48,460 --> 00:05:53,840
+paciente que está bien si se fijan es igual al síndrome de Gilbert con la
+
+81
+00:05:53,840 --> 00:05:57,740
+diferencia que es de predominio directo en este caso sepan que eso
+
+82
+00:05:57,740 --> 00:06:00,900
+se llama el síndrome de dubin-johnson no es el único hay
+
+83
+00:06:01,340 --> 00:06:05,780
+otras alteraciones que se pueden ver muy muy similar a esto pero el que hay
+
+84
+00:06:05,780 --> 00:06:10,180
+que saber es ese y si yo les pregunto que es un síndrome de dubin-johnson es
+
+85
+00:06:10,180 --> 00:06:14,420
+algo mucho más infrecuente en el sentido en que su prevalencia es menor
+
+86
+00:06:14,420 --> 00:06:19,300
+al cero como un por ciento en menos de uno en mil pero que es igual al
+
+87
+00:06:19,300 --> 00:06:23,340
+síndrome de Gilbert y que el manejo es educar y el advertir que no le
+
+88
+00:06:23,340 --> 00:06:26,380
+pasa absolutamente nada con la gran diferencia que es de predominio
+
+89
+00:06:26,380 --> 00:06:29,860
+directo a diferencia del Gilbert que es más frecuente y que es de
+
+90
+00:06:29,860 --> 00:06:35,180
+predominio indirecto bueno habiendo dicho eso y sabiendo que hay que
+
+91
+00:06:35,180 --> 00:06:39,340
+conocer que existe el síndrome de dubin-johnson cierto le ponemos fin a
+
+92
+00:06:39,340 --> 00:06:43,460
+este a este tema y en otros temas lo vamos a ver con más detalle en
+
+93
+00:06:43,460 --> 00:06:47,060
+otros vídeos nos vemos ahí que estén bien

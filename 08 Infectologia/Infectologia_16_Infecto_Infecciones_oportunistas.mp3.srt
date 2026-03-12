@@ -1,0 +1,787 @@
+1
+00:00:00,000 --> 00:00:07,280
+antes de entrar a ver cada una de las patologías reumatológicas en específico
+
+2
+00:00:07,280 --> 00:00:12,440
+veamos un resumen de los marcadores más importantes que si bien son son bastante
+
+3
+00:00:12,440 --> 00:00:16,000
+la lista de los que hay que saber no es tan tan larga así que aprendámoslo
+
+4
+00:00:16,000 --> 00:00:20,320
+pero recordando una cosa siempre gana la clínica los marcadores muchas veces
+
+5
+00:00:20,320 --> 00:00:24,240
+son una trampa en el sentido en que no son totalmente sensibles ni
+
+6
+00:00:24,240 --> 00:00:28,360
+totalmente específicos y por lo tanto la clínica le gana siempre a los
+
+7
+00:00:28,360 --> 00:00:31,280
+marcadores y lo vamos a ver con algunos ejemplos en otro vídeo pero
+
+8
+00:00:31,280 --> 00:00:36,320
+empecemos recordando los anticuerpos antinucleares y como su nombre lo dicen
+
+9
+00:00:36,320 --> 00:00:40,400
+en una inmunofluorescencia se ve que hay anticuerpos atacando el núcleo de
+
+10
+00:00:40,400 --> 00:00:46,200
+la célula habitualmente se usan las células ep2 que son un tipo de
+
+11
+00:00:46,200 --> 00:00:49,400
+células hepáticas que se cultivan en vitro eso no importa tanto lo que
+
+12
+00:00:49,400 --> 00:00:52,760
+importa anticuerpos en contra del núcleo y que son características de
+
+13
+00:00:52,760 --> 00:00:56,920
+las enfermedades del tejido conectivo como el lupus etcétera el patrón
+
+14
+00:00:56,920 --> 00:00:59,560
+que pueden tener en la inmunofluorescencia ya nos puede dar
+
+15
+00:00:59,600 --> 00:01:04,440
+cierta información en el sentido en que se describan como ana positivo en tal
+
+16
+00:01:04,440 --> 00:01:08,200
+patrón y en tal dilución a mayor dilución es más probable que
+
+17
+00:01:08,200 --> 00:01:12,200
+efectivamente haya una patología de base y recordemos que el patrón
+
+18
+00:01:12,200 --> 00:01:15,720
+difuso es el clásico del lupus pero no solamente en el lupus se puede
+
+19
+00:01:15,720 --> 00:01:20,040
+ver igualmente en otras patologías o incluso en gente sana el patrón
+
+20
+00:01:20,040 --> 00:01:26,080
+moteado es clásico de la enfermedad o síndrome de shogren de tipo
+
+21
+00:01:26,080 --> 00:01:29,880
+primario por su caso más el lupus y se puede ver también en otras
+
+22
+00:01:29,880 --> 00:01:34,400
+ambos son relativamente en específico luego está el patrón nuclear que
+
+23
+00:01:34,400 --> 00:01:38,360
+es el más específico y que es característico de la esclerodermia en
+
+24
+00:01:38,360 --> 00:01:42,280
+particular de la esclerodermia sistémica difusa está el patrón
+
+25
+00:01:42,280 --> 00:01:46,040
+anti centrómero que en este caso es característico de la
+
+26
+00:01:46,040 --> 00:01:50,440
+esclerodermia limitada también llamada el síndrome de crest y en
+
+27
+00:01:50,440 --> 00:01:53,880
+este caso quiero que recuerden que todos esos patrones que se indican
+
+28
+00:01:54,200 --> 00:01:57,480
+son patrones que se ven en la inmunofluorescencia no son anticuerpos
+
+29
+00:01:57,480 --> 00:02:00,760
+en contra de un antígeno en particular sino que simplemente la
+
+30
+00:02:00,760 --> 00:02:06,640
+descripción al momento de informar cómo se ve el ana en el
+
+31
+00:02:06,640 --> 00:02:10,000
+microscopio en la inmunofluorescencia ahora hay otros patrones que son
+
+32
+00:02:10,000 --> 00:02:13,760
+un poco menos importantes antes el triólogo por ejemplo pero no
+
+33
+00:02:13,760 --> 00:02:17,280
+vale la pena entrar en detalle vemos aquí una imagen lo que se
+
+34
+00:02:17,280 --> 00:02:22,160
+ve verde ahí son los núcleos de las células de estos
+
+35
+00:02:22,240 --> 00:02:25,680
+patos que se usan para determinar lo sana y ese sería un patrón
+
+36
+00:02:25,680 --> 00:02:29,880
+difuso si se fijan todo el núcleo está siendo atacado en cambio este
+
+37
+00:02:29,880 --> 00:02:34,000
+es un patrón granular que se ve como granular o moteado que
+
+38
+00:02:34,000 --> 00:02:38,320
+son sinónimo en este otro caso se ve el clásico patrón
+
+39
+00:02:38,320 --> 00:02:42,880
+antinucleolo o antinucleolar o antinuclear en distribución
+
+40
+00:02:42,880 --> 00:02:45,880
+antinucleolar puede venir con cualquiera de esas frases que
+
+41
+00:02:45,880 --> 00:02:48,320
+ya dijimos que era característico de la esclerodermia y
+
+42
+00:02:48,360 --> 00:02:52,680
+finalmente así se ve el patrón anticentrómero que se ve en el
+
+43
+00:02:52,680 --> 00:02:56,840
+otro tipo de esclerodermia en este caso en el crest y la forma
+
+44
+00:02:56,840 --> 00:03:00,720
+de recordarlo es anticentrómero anticrestómero bueno de esa
+
+45
+00:03:00,720 --> 00:03:05,040
+manera se puede recordar los ana no solamente se ven en la
+
+46
+00:03:05,040 --> 00:03:08,440
+inmunofluorescencia sino que yo puedo hacer una cosa que se
+
+47
+00:03:08,440 --> 00:03:12,040
+llama el perfil ena que ya veo una especie de elisa como
+
+48
+00:03:12,040 --> 00:03:15,280
+para ver exactamente qué antígeno del núcleo es el que
+
+49
+00:03:15,320 --> 00:03:19,560
+se está atacando por estos anticuerpos acuérdense que en
+
+50
+00:03:19,560 --> 00:03:23,360
+español significa antígenos nucleares extraíble o
+
+51
+00:03:23,360 --> 00:03:29,840
+extractables en inglés ena es de extractable nuclear
+
+52
+00:03:29,840 --> 00:03:33,840
+antigens pero da lo mismo lo que importa es que es la otra
+
+53
+00:03:33,840 --> 00:03:37,440
+cara de los ana el que me indica exactamente qué proteína
+
+54
+00:03:37,440 --> 00:03:40,640
+o qué elementos es que está siendo atacado y estos hay
+
+55
+00:03:40,640 --> 00:03:44,400
+que saber alguno cuando se ataca el DNA o ADN de dos
+
+56
+00:03:44,440 --> 00:03:48,320
+cebras esto es característico del lupus y este es un
+
+57
+00:03:48,320 --> 00:03:52,760
+anticuerpo que es específico para el lupus además está el
+
+58
+00:03:52,760 --> 00:03:56,200
+anticuerpo anti smith o anti sm que también es específico
+
+59
+00:03:56,200 --> 00:03:59,360
+para el lupus eritematoso sistémico esos dos insisto hay
+
+60
+00:03:59,360 --> 00:04:02,040
+que saberlo son los clásicos del lupus el anti
+
+61
+00:04:02,040 --> 00:04:05,160
+ron que es característico del síndrome de shogren pero
+
+62
+00:04:05,160 --> 00:04:08,400
+se ve también en el lupus discoide o a veces en el
+
+63
+00:04:08,400 --> 00:04:11,960
+lupus cutáneo subagudo también y en el bloqueo
+
+64
+00:04:12,000 --> 00:04:14,680
+aurículo ventricular congénito en el sentido en que una
+
+65
+00:04:14,680 --> 00:04:17,840
+madre embarazada que viene con la positividad de los
+
+66
+00:04:17,840 --> 00:04:20,400
+anticuerpos anti ron tiene riesgo de que su recién
+
+67
+00:04:20,400 --> 00:04:24,600
+nacido nazca con un problema en el corazón en específico
+
+68
+00:04:24,600 --> 00:04:27,200
+un bloqueo aurículo ventricular los anticuerpos
+
+69
+00:04:27,200 --> 00:04:30,320
+anti la también hay que saberlo y tienen exactamente
+
+70
+00:04:30,320 --> 00:04:32,920
+la misma distribución que los anti ron así que anti ron
+
+71
+00:04:32,920 --> 00:04:35,960
+y anti la shogren lo más importante pero ya dijimos
+
+72
+00:04:35,960 --> 00:04:40,960
+además en el lupus y en el bloqueo abe congénito el
+
+73
+00:04:40,960 --> 00:04:45,040
+anti ribonucleoproteína en particular uno de ellos
+
+74
+00:04:45,040 --> 00:04:48,560
+un subtipo de las ribonucleoproteínas es característico
+
+75
+00:04:48,560 --> 00:04:50,960
+de la enfermedad mixta del tejido conectivo y eso
+
+76
+00:04:50,960 --> 00:04:53,600
+hay que saberlo también aunque se puede ver igualmente
+
+77
+00:04:53,600 --> 00:04:56,800
+en el lupus y su presencia en el lupus tiene alguna
+
+78
+00:04:56,800 --> 00:04:59,760
+incidencia respecto al pronóstico que en general
+
+79
+00:04:59,760 --> 00:05:02,720
+disminuye el riesgo de algunas complicaciones pero
+
+80
+00:05:02,720 --> 00:05:04,880
+vamos a ver que es un poco más complejo pero hasta
+
+81
+00:05:04,880 --> 00:05:08,320
+ahora el anti rnp anti ribonucleoproteína igual
+
+82
+00:05:08,320 --> 00:05:10,400
+enfermedad mixta al tejido conectivo como lo más
+
+83
+00:05:10,400 --> 00:05:13,760
+importante el antistona que es característico del lupus
+
+84
+00:05:13,760 --> 00:05:17,760
+por droga y finalmente en esta diapositiva el dna de
+
+85
+00:05:17,760 --> 00:05:20,800
+una hebra el anti adn pero de una hebra en este caso
+
+86
+00:05:20,800 --> 00:05:22,640
+es característico del lupus por droga también a
+
+87
+00:05:22,640 --> 00:05:25,120
+diferencia del de dos hebras que es del lupus
+
+88
+00:05:25,120 --> 00:05:28,000
+eritematoso sistémico no son los únicos sigamos
+
+89
+00:05:28,000 --> 00:05:32,400
+viendo está el anti scl 70 o anti topo isomerasa
+
+90
+00:05:32,400 --> 00:05:34,800
+uno que acuérdese que este es característico de
+
+91
+00:05:34,800 --> 00:05:39,360
+la esclerodermia difusa el antijo uno o anti sintetasa
+
+92
+00:05:39,360 --> 00:05:41,920
+que es característico de la derma tomio city y no
+
+93
+00:05:41,920 --> 00:05:44,480
+solamente eso sino que además es característico del
+
+94
+00:05:44,480 --> 00:05:48,000
+síndrome anti sintetasa de la derma tomio city que
+
+95
+00:05:48,000 --> 00:05:50,240
+es el que viene con derma tomio city más una
+
+96
+00:05:50,240 --> 00:05:53,280
+firozis pulmonar el anti mi 2 que se puede ver en
+
+97
+00:05:53,280 --> 00:05:55,760
+derma tomio city y el anti srp estos son menos
+
+98
+00:05:55,760 --> 00:05:59,280
+importantes en cambio el anti jo uno ese es el que
+
+99
+00:05:59,280 --> 00:06:02,880
+hay que saber junto con el anti scl 70 de la
+
+100
+00:06:02,960 --> 00:06:07,520
+esclerodermia ahora repito una cosa súper importante
+
+101
+00:06:07,520 --> 00:06:11,040
+que se suele enseñar es que los anas son sensible
+
+102
+00:06:11,040 --> 00:06:13,600
+para lupus pero recordemos que manda la clínica y
+
+103
+00:06:13,600 --> 00:06:16,240
+no solamente eso los anticuerpos antinucleares no
+
+104
+00:06:16,240 --> 00:06:18,560
+solo se ven en el lupus también se ven en otras
+
+105
+00:06:18,560 --> 00:06:20,400
+enfermedades del tejido conectivo tal como lo
+
+106
+00:06:20,400 --> 00:06:23,920
+acabamos de desarrollar en extenso se puede ver
+
+107
+00:06:23,920 --> 00:06:26,320
+en otro tipo de enfermedades autoinmunes como
+
+108
+00:06:26,320 --> 00:06:28,480
+ejemplo de la hepatitis autoinmunes y se puede
+
+109
+00:06:28,480 --> 00:06:30,240
+ver en gente sana también porque cuérense que
+
+110
+00:06:30,240 --> 00:06:34,400
+5% de los sanos tienen los anapositivo también o
+
+111
+00:06:34,400 --> 00:06:37,600
+sea la especificidad de los anas es alta en 95%
+
+112
+00:06:37,600 --> 00:06:40,800
+pero hay un 5% de sanos repito que igualmente
+
+113
+00:06:40,800 --> 00:06:44,320
+pueden tener anapositivo vemos ahora los anca los
+
+114
+00:06:44,320 --> 00:06:47,040
+anticuerpos anti citoplasma de neutrófilo en
+
+115
+00:06:47,040 --> 00:06:49,040
+este caso son marcadores de las vasculitis
+
+116
+00:06:49,040 --> 00:06:51,520
+primarias no de todas ellas sino que en
+
+117
+00:06:51,520 --> 00:06:53,840
+particular de las de vaso pequeño más agresiva
+
+118
+00:06:53,840 --> 00:06:55,920
+dígase la granulomatosis de Wegener la
+
+119
+00:06:55,920 --> 00:06:58,480
+poliangitis microscópica y finalmente la vasculitis
+
+120
+00:06:58,480 --> 00:07:00,800
+de Churk-Strauss que tienen otros nombres además
+
+121
+00:07:00,800 --> 00:07:03,760
+que los vamos a ver en la respectiva clase y estos
+
+122
+00:07:03,760 --> 00:07:06,080
+tienen dos patrones en la inmunofluorescencia una
+
+123
+00:07:06,080 --> 00:07:09,280
+es el patrón C o patrón citoplasmático y el
+
+124
+00:07:09,280 --> 00:07:11,680
+otro es el patrón P o patrón perinuclear y
+
+125
+00:07:11,680 --> 00:07:14,640
+acuérdense que estos igualmente se correlacionan
+
+126
+00:07:14,640 --> 00:07:17,760
+con un anticuerpo específico en el elisa que
+
+127
+00:07:17,760 --> 00:07:20,320
+ataca una proteína en específico que el anca
+
+128
+00:07:20,320 --> 00:07:24,160
+C es equivalente a los anticuerpos anti PR3 en
+
+129
+00:07:24,160 --> 00:07:27,520
+cambio el ancapé es característico de los
+
+130
+00:07:27,600 --> 00:07:31,440
+anticuerpos mpo ahora los anti PR3 se asocian a la
+
+131
+00:07:31,440 --> 00:07:34,480
+enfermedad de Wegener o granulomatosis de Wegener
+
+132
+00:07:34,480 --> 00:07:37,360
+o granulomatosis con poliangitis en cambio los
+
+133
+00:07:37,360 --> 00:07:40,080
+anti mpo se asocian a las otras dos vasculitis en
+
+134
+00:07:40,080 --> 00:07:43,040
+específico a la poliangitis microscópica y a
+
+135
+00:07:43,040 --> 00:07:45,600
+el síndrome de Churk-Strauss o granulomatosis
+
+136
+00:07:45,600 --> 00:07:48,640
+alérgica ahora no solamente se asocian a
+
+137
+00:07:48,640 --> 00:07:50,160
+estas vasculitis se puede ver en otras
+
+138
+00:07:50,160 --> 00:07:52,560
+enfermedades autoinmunes también los anca como
+
+139
+00:07:52,560 --> 00:07:55,600
+ejemplo el acuolitis ulcerosa en específico
+
+140
+00:07:55,760 --> 00:07:58,560
+con un patrón ancapé o sea el anca C fíjense es
+
+141
+00:07:58,560 --> 00:08:00,800
+solamente de Wegener el ancapé es de otras
+
+142
+00:08:00,800 --> 00:08:03,120
+vasculitis y de otras patologías autoinmunes
+
+143
+00:08:03,120 --> 00:08:04,640
+aquí se ve como para que se entienda la
+
+144
+00:08:04,640 --> 00:08:07,600
+inmunofluorescencia esa sería un anca C fíjense
+
+145
+00:08:07,600 --> 00:08:09,520
+que al medio el núcleo no brilla porque estos
+
+146
+00:08:09,520 --> 00:08:12,800
+no son anti anti nucleares no son anas son
+
+147
+00:08:12,800 --> 00:08:15,040
+ancas son anti citoplasma y en este caso se ve
+
+148
+00:08:15,040 --> 00:08:17,920
+el núcleo multilobulado al medio pero de color
+
+149
+00:08:17,920 --> 00:08:19,600
+oscuro de color negro que no brilla porque
+
+150
+00:08:19,600 --> 00:08:21,360
+no hay anticuerpos en contra del núcleo pero
+
+151
+00:08:21,360 --> 00:08:24,880
+si se ve el citoplasma que está brillando y
+
+152
+00:08:25,520 --> 00:08:27,840
+en este caso en un patrón citoplasmático que
+
+153
+00:08:27,840 --> 00:08:31,920
+está en toda la zona del citoplasma anca C
+
+154
+00:08:31,920 --> 00:08:34,320
+en cambio en este otro caso se ve el ancapé que
+
+155
+00:08:34,320 --> 00:08:36,800
+si se fijan es la zona perinuclear que
+
+156
+00:08:36,800 --> 00:08:39,360
+ataca la mieloperoxidasa que está habitualmente
+
+157
+00:08:39,360 --> 00:08:42,000
+en la zona más central del citoplasma porque
+
+158
+00:08:42,000 --> 00:08:44,320
+son anti citoplasma de neutrófilo pero
+
+159
+00:08:44,320 --> 00:08:46,560
+solamente en la zona perinuclear ancapé
+
+160
+00:08:47,360 --> 00:08:49,200
+ahora hay otros anticuerpos además hay
+
+161
+00:08:49,200 --> 00:08:51,120
+que saberlos también en particular el
+
+162
+00:08:51,120 --> 00:08:52,960
+factor reumatoide es cierto que es
+
+163
+00:08:52,960 --> 00:08:55,120
+característico de la artritis reumatoide
+
+164
+00:08:55,760 --> 00:08:58,080
+no es específico eso sí en el sentido en que
+
+165
+00:08:58,080 --> 00:09:00,640
+se ve también en el síndrome de Sjögren
+
+166
+00:09:00,640 --> 00:09:02,160
+por ejemplo con una frecuencia muy muy
+
+167
+00:09:02,160 --> 00:09:05,600
+alta el 90% o al menos más del 80% son
+
+168
+00:09:06,480 --> 00:09:09,040
+con factor reumatoide que está positivo también
+
+169
+00:09:09,040 --> 00:09:10,880
+y se puede ver en gente sana también en
+
+170
+00:09:10,880 --> 00:09:13,600
+el sentido en que cerca de un 5% de la
+
+171
+00:09:13,600 --> 00:09:15,680
+población también tiene factor reumatoide
+
+172
+00:09:15,680 --> 00:09:18,720
+positivo están los anticuerpos anti ccp que
+
+173
+00:09:18,720 --> 00:09:21,920
+son anti el peptido citrulinado que en
+
+174
+00:09:22,080 --> 00:09:24,240
+este caso también son de la artritis reumatoide
+
+175
+00:09:24,240 --> 00:09:26,400
+con la diferencia que es más específico
+
+176
+00:09:26,400 --> 00:09:28,160
+para la artritis reumatoide o sea es más
+
+177
+00:09:28,160 --> 00:09:30,720
+infrecuente que haya personas sanas que
+
+178
+00:09:30,720 --> 00:09:33,760
+lo tengan positivo están los ama los
+
+179
+00:09:33,760 --> 00:09:35,840
+anti mitocondriales cierto que son
+
+180
+00:09:35,840 --> 00:09:37,760
+característicos de la colangitis bilia
+
+181
+00:09:37,760 --> 00:09:40,960
+primaria los asma o anti musculo liso
+
+182
+00:09:40,960 --> 00:09:42,480
+cierto que son característico de algunas
+
+183
+00:09:42,480 --> 00:09:45,200
+hepatitis autoinmunes los asca o anti
+
+184
+00:09:45,200 --> 00:09:46,800
+sacaromise que son característicos de
+
+185
+00:09:46,800 --> 00:09:49,200
+la enfermedad de crón los anti tgt o
+
+186
+00:09:49,200 --> 00:09:50,560
+anti trans glutaminasa que son
+
+187
+00:09:50,560 --> 00:09:52,160
+característicos de la enfermedad celíaca
+
+188
+00:09:52,160 --> 00:09:54,640
+cierto y la verdad es que hay muchos otros
+
+189
+00:09:54,640 --> 00:09:57,040
+que eventualmente son marcadores de otras
+
+190
+00:09:57,040 --> 00:09:58,480
+enfermedades que en esta clase no la
+
+191
+00:09:58,480 --> 00:10:00,640
+vamos a ver pero es importante que
+
+192
+00:10:00,640 --> 00:10:02,960
+sepan los marcadores hay que saberlos
+
+193
+00:10:02,960 --> 00:10:05,440
+al menos los de esa lista y aparte de
+
+194
+00:10:05,440 --> 00:10:07,520
+eso hay que recordar siempre que pueden
+
+195
+00:10:07,520 --> 00:10:08,720
+ser una trampa que lo que manda
+
+196
+00:10:08,720 --> 00:10:10,320
+siempre es la clínica nos vemos en
+
+197
+00:10:10,320 --> 00:10:11,040
+el siguiente vídeo

@@ -1,0 +1,323 @@
+1
+00:00:00,000 --> 00:00:06,680
+Hola hola, ¿cómo están? En este vídeo vamos a empezar con el tema de infección
+
+2
+00:00:06,680 --> 00:00:11,120
+urinaria, vamos a ver cuál es su clínica y cómo se diagnostica. Recordando que la
+
+3
+00:00:11,120 --> 00:00:15,320
+clínica es distinta según si es una ITU alta o una ITU baja. La ITU baja
+
+4
+00:00:15,320 --> 00:00:18,920
+que también se llama cistitis, todo el mundo se la sabe, ¿cierto? Viene con
+
+5
+00:00:18,920 --> 00:00:24,720
+dysuria dolorosa, o sea ardor al orinar, con poliacuria, o sea que va al
+
+6
+00:00:24,720 --> 00:00:28,560
+baño muchas veces a orinar durante el día, a veces viene con nictunia
+
+7
+00:00:28,560 --> 00:00:32,600
+también y que va varias veces durante la noche. Algo muy similar, el pujo
+
+8
+00:00:32,600 --> 00:00:37,480
+es que siente deseos de ir a orinar muchas veces durante el día y el
+
+9
+00:00:37,480 --> 00:00:41,600
+tenesmo que es que orina, pero se queda con la sensación de que todavía le
+
+10
+00:00:41,600 --> 00:00:46,880
+falta por seguir orinando a pesar de que ya terminó, que viene con mal olor,
+
+11
+00:00:46,880 --> 00:00:51,600
+dígase con olor acherichacol y con olor a deposiciones en la orina y
+
+12
+00:00:51,600 --> 00:00:55,000
+finalmente puede venir con dolor hipogástrico también. En el caso de
+
+13
+00:00:55,000 --> 00:00:59,080
+la ITU alta o piel o nefritis, los síntomas son exactamente los mismos
+
+14
+00:00:59,120 --> 00:01:03,280
+pero se agregan dos que son bien característicos solamente de la ITU alta,
+
+15
+00:01:03,280 --> 00:01:09,120
+que son la fiebre y la puño percusión, que es este dolor bien intenso al
+
+16
+00:01:09,120 --> 00:01:14,360
+golpear la espalda en la zona en donde está el riñón afectado o
+
+17
+00:01:14,360 --> 00:01:18,920
+infectado en este caso. Que quede bien claro, la diferencia entre piel o nefritis
+
+18
+00:01:18,920 --> 00:01:23,240
+y cistitis es absolutamente clínica y se basa, como ya dijimos, en la
+
+19
+00:01:23,240 --> 00:01:27,600
+fiebre y en la puño percusión, en esos dos elementos. Ahora, ¿cómo se hace
+
+20
+00:01:27,600 --> 00:01:31,920
+el diagnóstico de una infección urinares? Se hace con la clínica y que
+
+21
+00:01:31,920 --> 00:01:36,040
+bien claro requiere clínica, pero además requiere exámenes de orina, en
+
+22
+00:01:36,040 --> 00:01:39,480
+específico la orina completa y el urocultivo. El urocultivo está
+
+23
+00:01:39,480 --> 00:01:42,880
+subrayado y más oscuro porque es el elemento más importante, si es que
+
+24
+00:01:42,880 --> 00:01:46,920
+está positivo y viene con clínica, me confirma esta infección, pero como
+
+25
+00:01:46,920 --> 00:01:50,880
+el urocultivo demora habitualmente dos días en estar, la verdad es que
+
+26
+00:01:50,880 --> 00:01:54,760
+uno mira la orina completa también en el sentido en que si viene con
+
+27
+00:01:54,840 --> 00:01:59,160
+leucocitos arriba de 5 por campo, con bacterias abundantes, con algo de
+
+28
+00:01:59,160 --> 00:02:04,640
+hematuria también, si es que viene con nitritos, con un pH más alcalino, etcétera,
+
+29
+00:02:04,640 --> 00:02:10,640
+esto apoya de manera bastante fuerte la sospecha clínica. El urocultivo,
+
+30
+00:02:10,640 --> 00:02:13,640
+sepan que es el examen de elección que se puede tomar la muestra de
+
+31
+00:02:13,640 --> 00:02:16,880
+distintas formas. La forma más habitual es con la orina de segundo
+
+32
+00:02:16,880 --> 00:02:20,360
+chorro, por si acaso, pero se puede hacer por sondeo y se puede hacer por
+
+33
+00:02:20,360 --> 00:02:25,880
+función vesical igualmente. Esto en particular en niños, no se recomienda
+
+34
+00:02:25,880 --> 00:02:30,240
+las muestras por recolector en el sentido en que se contaminan casi
+
+35
+00:02:30,240 --> 00:02:34,400
+siempre y a lo más las por recolector me sirven para descartar una ITU,
+
+36
+00:02:34,400 --> 00:02:37,280
+pero jamás para confirmarla. En cambio, por orina de segundo
+
+37
+00:02:37,280 --> 00:02:40,880
+chorro, por sondeo y por función vesical, sí me sirve para confirmar.
+
+38
+00:02:40,880 --> 00:02:44,720
+Es más, en los niños muy pequeños, en los lactantes que todavía no
+
+39
+00:02:44,720 --> 00:02:48,520
+siguen las instrucciones para tomar una muestra de segundo chorro,
+
+40
+00:02:48,560 --> 00:02:54,720
+lo que uno usa es el sondeo como lo de elección para la toma de muestra
+
+41
+00:02:54,720 --> 00:02:59,040
+y sepan que las unidades formadoras de colonia o las bacterias
+
+42
+00:02:59,040 --> 00:03:03,080
+necesarias para hacer el diagnóstico por milímetro cúbico cambian
+
+43
+00:03:03,080 --> 00:03:08,160
+según cuál sea la forma en que yo tomé esta muestra.
+
+44
+00:03:08,160 --> 00:03:11,600
+Así que para confirmar una ITU en una orina de segundo chorro,
+
+45
+00:03:11,600 --> 00:03:15,720
+yo requiero que haya más de 100.000 unidades formadoras de colonia
+
+46
+00:03:15,720 --> 00:03:19,920
+para que sea en una toma de muestra que se recolectó por sonda,
+
+47
+00:03:19,920 --> 00:03:22,920
+ahí se requiere que sea arriba de 10.000 según algunas fuentes
+
+48
+00:03:22,920 --> 00:03:26,680
+o arriba de 50.000 según algunas otras fuentes.
+
+49
+00:03:26,680 --> 00:03:29,920
+En la función vesical, en cambio, algunos dicen basta que haya
+
+50
+00:03:29,920 --> 00:03:33,920
+una sola bacteria y otros dicen, en cambio, bastan recuentos
+
+51
+00:03:33,920 --> 00:03:38,000
+muy bajos, como ejemplo, arriba de mil. Pero que quede bien claro,
+
+52
+00:03:38,000 --> 00:03:43,720
+no es tan frecuente encontrar algún paciente con algo que esté
+
+53
+00:03:43,760 --> 00:03:47,160
+en el rango indeterminado y lo que se recomienda ahí habitualmente
+
+54
+00:03:47,160 --> 00:03:49,720
+es repetir el urocultivo.
+
+55
+00:03:49,720 --> 00:03:54,080
+Sigamos acá, si yo tengo un urocultivo que está positivo para una bacteria
+
+56
+00:03:54,080 --> 00:03:59,280
+clásica, ejemplo, E. coli, pseudomonas, heterobácter o alguna cosa así,
+
+57
+00:03:59,280 --> 00:04:03,400
+en ese caso yo hago el diagnóstico de una ITU siempre y cuando haya clínica.
+
+58
+00:04:03,400 --> 00:04:07,800
+Si es que el urocultivo, en cambio, está positivo para una única
+
+59
+00:04:07,800 --> 00:04:10,200
+bacteria, pero que no es frecuente que genere ITU,
+
+60
+00:04:10,240 --> 00:04:13,920
+por ejemplo, para un Staphylococcus aureus, en ese caso me queda la duda
+
+61
+00:04:13,920 --> 00:04:17,400
+de si será contaminación o no y seguramente voy a tomar alguna
+
+62
+00:04:17,400 --> 00:04:20,960
+otra medida para confirmar qué es lo que está pasando como ejemplo,
+
+63
+00:04:20,960 --> 00:04:22,600
+repetir el urocultivo.
+
+64
+00:04:22,600 --> 00:04:25,120
+Si es que tiene dos o más bacterias, ejemplo,
+
+65
+00:04:25,120 --> 00:04:28,880
+E. coli, más otra bacteria más o Staphylococcus aureus,
+
+66
+00:04:28,880 --> 00:04:32,760
+más un proteo, por ejemplo, o tres, en ese caso, yo digo,
+
+67
+00:04:32,760 --> 00:04:36,640
+está polimicrobiano y con certeza es una muestra que se contaminó.
+
+68
+00:04:36,640 --> 00:04:39,960
+O sea, que quede bien claro, el urocultivo para que esté positivo
+
+69
+00:04:39,960 --> 00:04:44,200
+debe tener una bacteria que sea clásica y solamente una.
+
+70
+00:04:44,200 --> 00:04:48,040
+Cuando no es clásica me queda la duda y cuando son dos o más,
+
+71
+00:04:48,040 --> 00:04:51,240
+definitivamente tengo que repetir el urocultivo porque está mal tomado,
+
+72
+00:04:51,240 --> 00:04:53,120
+es una muestra que se contaminó.
+
+73
+00:04:53,120 --> 00:04:55,920
+Ahora, ¿qué pasa si que tengo un urocultivo que está positivo,
+
+74
+00:04:55,920 --> 00:04:57,360
+pero no tengo clínica?
+
+75
+00:04:57,360 --> 00:05:01,320
+En ese caso, el diagnóstico es una bacteriuria asintomática cuyo manejo
+
+76
+00:05:01,320 --> 00:05:04,680
+vamos a ver después y que les adelanto que habitualmente no requiere
+
+77
+00:05:05,520 --> 00:05:09,680
+a diferencia de las ITUs ya con clínica,
+
+78
+00:05:09,680 --> 00:05:11,680
+cierto que eso sí requieren antibióticos.
+
+79
+00:05:11,680 --> 00:05:14,040
+Eso es todo por ahora, nos vemos en el siguiente video
+
+80
+00:05:14,040 --> 00:05:17,720
+en que vamos a adentrarnos en las infecciones urinarias.
+
+81
+00:05:17,720 --> 00:05:18,720
+Que estén bien.

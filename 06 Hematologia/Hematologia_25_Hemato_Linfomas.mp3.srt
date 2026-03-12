@@ -1,0 +1,303 @@
+1
+00:00:00,000 --> 00:00:08,240
+Veamos ahora los linfomas, recordando que su clínica es diferente a la de las leucemias,
+
+2
+00:00:08,240 --> 00:00:12,440
+en general viene con los síntomas B que justamente se describieron en el linfoma de Hodgkin,
+
+3
+00:00:12,440 --> 00:00:16,080
+y aparte lo más importante, adenopatías persistentes.
+
+4
+00:00:16,080 --> 00:00:19,760
+Los linfomas siempre tienen adenopatías en alguna parte del cuerpo,
+
+5
+00:00:19,760 --> 00:00:22,600
+ya sea en el cuello, en las axilas, en la ingle,
+
+6
+00:00:22,600 --> 00:00:26,120
+o por último en el mediastino, en el retroperitoneo, etcétera.
+
+7
+00:00:26,120 --> 00:00:30,200
+Dentro de los exámenes que uno suele solicitar, número uno es el hemograma,
+
+8
+00:00:30,200 --> 00:00:34,160
+que en este caso suele estar normal, y esa es una gran, gran diferencia
+
+9
+00:00:34,160 --> 00:00:37,160
+con las leucemias en que el hemograma siempre está alterado,
+
+10
+00:00:37,160 --> 00:00:42,160
+en cambio el linfoma casi siempre está normal, solamente se altera ya en las etapas finales.
+
+11
+00:00:42,160 --> 00:00:46,360
+Segundo lugar, le puedo pedir imágenes, y de hecho se recomienda pedir imágenes
+
+12
+00:00:46,360 --> 00:00:50,560
+ante la sola sospecha, y luego de la confirmación igualmente hay que pedirlo
+
+13
+00:00:50,560 --> 00:00:54,080
+si es que no se pidieron antes, la radiografía de tórax y la TAC,
+
+14
+00:00:54,080 --> 00:00:56,160
+que eventualmente me muestran adenopatías,
+
+15
+00:00:56,200 --> 00:01:00,200
+le dijimos en el mediastino, en el tórax, en el abdomen, en la pelvis, etcétera.
+
+16
+00:01:00,200 --> 00:01:04,640
+El diagnóstico de linfoma no se hace con esos exámenes, requiere de una biopsia,
+
+17
+00:01:04,640 --> 00:01:09,200
+una biopsia ganglionar, porque es un cáncer que se localiza fundamentalmente en los ganglios,
+
+18
+00:01:09,200 --> 00:01:13,960
+pero debe ser de tipo excisional, no se recomiendan las biopsias por punción,
+
+19
+00:01:13,960 --> 00:01:17,400
+ni con la hoja fina, ni con la hoja gruesa, sino que una biopsia quirúrgica
+
+20
+00:01:17,400 --> 00:01:21,800
+en la cual se saque el ganglio completo y vaya a anatomía patológica.
+
+21
+00:01:22,080 --> 00:01:26,480
+Si el ganglio es gigante, eventualmente sí se puede hacer una biopsia incisional,
+
+22
+00:01:26,480 --> 00:01:30,920
+pero lo ideal es que sea una biopsia excisional completa.
+
+23
+00:01:30,920 --> 00:01:34,400
+Repito, no aguja fina, sino que una biopsia quirúrgica.
+
+24
+00:01:34,400 --> 00:01:40,040
+El tratamiento de los linfomas, la verdad es que varía mucho según el tipo de linfoma,
+
+25
+00:01:40,040 --> 00:01:44,800
+el estadio del grado de avance que tiene, la inmunohistoquímica,
+
+26
+00:01:44,800 --> 00:01:50,040
+como para saber exactamente qué proteínas son las que expresa,
+
+27
+00:01:50,080 --> 00:01:53,040
+y depende además de las características del paciente,
+
+28
+00:01:53,040 --> 00:01:57,120
+no es lo mismo el tratar a un paciente joven con un linfoma agresivo
+
+29
+00:01:57,120 --> 00:02:01,680
+que el tratar a un paciente adulto mayor con un linfoma indolente.
+
+30
+00:02:01,680 --> 00:02:06,560
+Ahora, la regla general es que se tratan con quimioterapia,
+
+31
+00:02:06,560 --> 00:02:10,720
+ejemplo el CHOP que da lo mismo cuáles son las siglas que fármacos sean,
+
+32
+00:02:10,720 --> 00:02:14,760
+solamente sepan que la P es de prednisona, en el sentido que los corticoides
+
+33
+00:02:14,760 --> 00:02:18,560
+sirven como uno de los fármacos de la quimioterapia de los linfomas,
+
+34
+00:02:18,600 --> 00:02:21,680
+porque justamente los corticoides matan a los linfocitos,
+
+35
+00:02:21,680 --> 00:02:25,520
+y actualmente se usa con mucha frecuencia también el rituximab,
+
+36
+00:02:25,520 --> 00:02:30,840
+que si se acuerdan son estos anticuerpos monoclonales en contra de las células B,
+
+37
+00:02:30,840 --> 00:02:33,720
+en contra del marcador CD20,
+
+38
+00:02:33,720 --> 00:02:38,640
+así que obviamente si tengo un linfoma de tipo B se beneficia de este anticuerpo.
+
+39
+00:02:38,640 --> 00:02:42,920
+Ahora, en algunos casos me sirve la cirugía y la radioterapia
+
+40
+00:02:42,920 --> 00:02:45,000
+como en algunos linfomas de Hodgkin,
+
+41
+00:02:45,040 --> 00:02:48,800
+y como cosa final en algunos casos que son linfomas de muy bajo grado
+
+42
+00:02:48,800 --> 00:02:52,840
+que avanzan muy lento, incluso se recomienda simplemente observarlos
+
+43
+00:02:52,840 --> 00:02:57,400
+y ver cómo van evolucionando, en particular en pacientes adultos mayores.
+
+44
+00:02:57,400 --> 00:03:00,920
+Ahora, veamos muy rápidamente algo que está muy relacionado con esto,
+
+45
+00:03:00,920 --> 00:03:04,120
+que es el enfrentamiento de las adenopatías persistentes,
+
+46
+00:03:04,120 --> 00:03:07,160
+en el sentido en que puede ser un linfoma o puede ser otra causa,
+
+47
+00:03:07,160 --> 00:03:11,080
+y recordemos que las causas de las adenopatías son muchas,
+
+48
+00:03:11,080 --> 00:03:14,360
+infecciones autoinmunes, linfomas, otros cánceres,
+
+49
+00:03:14,360 --> 00:03:18,920
+fármacos, lo que ustedes quieran, me puede producir una adenopatía.
+
+50
+00:03:18,920 --> 00:03:22,160
+Así que la pregunta importante y lo único que quiero que se graben
+
+51
+00:03:22,160 --> 00:03:24,560
+de este tema en este video es,
+
+52
+00:03:24,560 --> 00:03:28,400
+¿cuándo yo biopcio una adenopatía sospechando que tiene un linfoma?
+
+53
+00:03:28,400 --> 00:03:31,480
+Pues es cuando es persistente,
+
+54
+00:03:31,480 --> 00:03:34,480
+o bien cuando yo tengo una sospecha clínica o una sospecha
+
+55
+00:03:34,480 --> 00:03:36,160
+imaginológica de linfoma.
+
+56
+00:03:36,160 --> 00:03:39,280
+O sea, si tengo un paciente con adenopatía, síntomas B,
+
+57
+00:03:39,280 --> 00:03:42,080
+y con algo más, yo digo bueno, hay que biopciarla.
+
+58
+00:03:42,080 --> 00:03:45,920
+Y lo mismo si es que tengo una radiografía con un mediastino ancho, medio raro,
+
+59
+00:03:45,920 --> 00:03:48,000
+yo digo bueno, hay que biopciarlo también.
+
+60
+00:03:48,000 --> 00:03:52,400
+Y además cuando es persistente, ¿pero qué significa que sea persistente?
+
+61
+00:03:52,400 --> 00:03:54,840
+Significa que dura más de tres a cuatro semanas,
+
+62
+00:03:54,840 --> 00:03:57,760
+si es que dura menos que eso, lo más probable es que sea
+
+63
+00:03:57,760 --> 00:03:59,760
+una infección viral o bacteriana.
+
+64
+00:03:59,760 --> 00:04:03,120
+Y segundo lugar, cuando dura más de dos semanas,
+
+65
+00:04:03,120 --> 00:04:05,200
+a pesar de que yo le he dado antibióticos.
+
+66
+00:04:05,200 --> 00:04:08,480
+O sea, los antibióticos por regla general no se dan,
+
+67
+00:04:08,480 --> 00:04:10,880
+se dan solamente si yo sospecho una infección bacteriana,
+
+68
+00:04:10,920 --> 00:04:14,400
+ejemplo, una enfermedad por arañazo de gato o alguna cosa similar,
+
+69
+00:04:14,400 --> 00:04:18,080
+o una adenitis supurada, en ese caso le dejo los antibióticos,
+
+70
+00:04:18,080 --> 00:04:21,880
+y si no mejora en dos semanas, pues hay que biopciarlo sí o sí.
+
+71
+00:04:21,880 --> 00:04:26,320
+Y eso es todo, o sea, recuerden, no toda adenopatía es un linfoma,
+
+72
+00:04:26,320 --> 00:04:29,240
+se biopsian cuando son persistentes, cuando se sospecha un linfoma,
+
+73
+00:04:29,240 --> 00:04:31,560
+se biopsia con la biopsia quirúrgica,
+
+74
+00:04:31,560 --> 00:04:34,080
+y si es que fuese una sospecha de otro tipo de cáncer,
+
+75
+00:04:34,080 --> 00:04:37,840
+pues eventualmente sí se tolera un tipo de biopsia diferente.
+
+76
+00:04:37,840 --> 00:04:39,840
+Cerramos con eso, nos vemos en el siguiente tema.

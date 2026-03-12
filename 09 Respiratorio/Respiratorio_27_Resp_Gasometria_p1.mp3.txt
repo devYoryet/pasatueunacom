@@ -1,0 +1,97 @@
+Hola, hola. Vamos a ver gasometría arterial y vamos a empezar con la parte fácil que es la función respiratoria.
+
+Luego, en otro video vamos a hablar de la parte más difícil que es el equilibrio ácido-base.
+
+En la función respiratoria las cosas a interpretar son la presión arterial de oxígeno,
+
+la presión arterial de CO2 y la diferencia al violo arterial que si bien tiene una fórmula
+
+para poder calcularla, al menos la presión al violar de oxígeno y luego la comparo con el informe
+
+del gas arterial que me dan la presión arterial de oxígeno.
+
+La verdad es que en la práctica viene eso informado en el mismo examen,
+
+al menos con el valor de esta diferencia al violo arterial.
+
+Respecto al oxígeno, lo normal es que la presión arterial esté entre 75 y 100 milímetros de mercurio
+
+de presión arterial de oxígeno. Cuando está baja, abajo de 75, uno habla de hipoxemia,
+
+o sea que habría algún grado de disminución, que no hay que confundirlo con hipoxia,
+
+que esa es la falta de oxígeno en los tejidos, en cambio la hipoxemia es en la sangre arterial,
+
+y aparte de eso el valor de corte de 60 milímetros de mercurio es para hablar de insuficiencia respiratoria,
+
+o sea cuando yo tengo una hipoxemia, pero que es muy severa, que está abajo de 60,
+
+en ese momento se cumple con el criterio de una insuficiencia respiratoria.
+
+Ahora, el punto de corte de 60 es más o menos equivalente a 90% de saturación arterial de oxígeno
+
+medido con un saturómetro, y digo más o menos porque es algo que varía mucho de un paciente a otro,
+
+pero ya saben, la definición de insuficiencia respiratoria por el oxígeno es menor a 60,
+
+y cuando alguien está saturando menos de 90%, es muy probable que sí esté en insuficiencia respiratoria.
+
+Respecto al CO2, el valor normal es 40 milímetros de mercurio más menos 5,
+
+así que si está bajo 35, uno habla de que hay una hiperventilación,
+
+acuérdense que la ventilación es lo que excreta más rápidamente al CO2,
+
+así que hiperventilación es sinónimo de hipocarbia o de hipocapnia,
+
+y en el caso de que esté arriba de 45, o sea de que esté elevada,
+
+de que hay una hipercarbia, en ese caso se habla de una hipoventilación,
+
+entonces fíjense, hipoventilación es lo mismo que hipercarbia y es lo mismo que hipercapnia,
+
+en cambio hipocarbia o hipocarbia es lo mismo que hiperventilación,
+
+eso es algo que a veces al leerlo rápido uno se confunde.
+
+Cuando la hipercarbia es muy alta, cuando hay más de 49 milímetros de mercurio de CO2,
+
+en ese caso se habla de una insuficiencia respiratoria,
+
+y si se dan cuenta, tengo el concepto de insuficiencia respiratoria tanto para el oxígeno como para el CO2,
+
+en el caso del oxígeno ya dijimos, abajo a 60, en el caso del CO2 arriba de 49,
+
+y se habla de una insuficiencia respiratoria global cuando se cumple con ambos requisitos,
+
+en cambio va a ser una insuficiencia respiratoria parcial cuando solamente se cumple con uno de ellos,
+
+habitualmente el oxígeno.
+
+Finalmente la diferencia al violo arterial, lo normal es que sea muy pequeña, que sea baja,
+
+pero el límite va aumentando con la edad y se dice que el máximo es la edad dividido 3,
+
+así que alguien que tiene hasta 30 años esta diferencia, lo más probable es que esté hasta 10,
+
+si es que tiene ya más 60 años por ejemplo, va a ser hasta 20,
+
+y lo importante es que cuando está elevada esta diferencia al violo arterial,
+
+refleja que hay un daño en el parénquima pulmonar,
+
+así que por ejemplo, en el caso de que hay una insuficiencia respiratoria
+
+debido a una enfermedad neuromuscular como una enfermedad de Guillain-Barré
+
+o un síntrome de Guillain-Barré, en ese caso no hay daño en los pulmones,
+
+simplemente hay un problema de ventilación, así que la diferencia al violo arterial va a estar normal,
+
+en cambio en el caso de una neumonía, de un EPOC o alguna otra enfermedad
+
+que sí altere el tejido pulmonar, el parénquima pulmonar,
+
+en ese caso sí se va a ver un aumento de esta diferencia al violo arterial.
+
+Y eso es todo, pero en el siguiente video viene lo difícil, ha sido base.

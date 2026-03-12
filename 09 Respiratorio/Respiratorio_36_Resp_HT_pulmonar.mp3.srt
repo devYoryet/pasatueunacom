@@ -1,0 +1,451 @@
+1
+00:00:00,000 --> 00:00:07,400
+Hola, ¿cómo están? En este vídeo vamos a ver brevemente la hipertensión pulmonar,
+
+2
+00:00:07,400 --> 00:00:11,200
+recordando número uno su definición, que hay que saberla, que son las
+
+3
+00:00:11,200 --> 00:00:16,360
+presiones de arteria pulmonar elevada. El punto de corte es 25 milímetros de
+
+4
+00:00:16,360 --> 00:00:19,720
+mercurio. Si es que está por arriba de eso, se confirma el diagnóstico.
+
+5
+00:00:19,720 --> 00:00:24,000
+Algunos usan el punto de corte de 30 milímetros de mercurio en ejercicio,
+
+6
+00:00:24,000 --> 00:00:28,320
+pero repito, el que hay que saber es el de 25. Segundo lugar, hay que saber
+
+7
+00:00:28,320 --> 00:00:32,760
+su clasificación. Por regla general, va a ser una hipertensión de tipo
+
+8
+00:00:32,760 --> 00:00:37,100
+primaria, la que no venga con ningún otro tipo de causa. En cambio, las
+
+9
+00:00:37,100 --> 00:00:40,000
+secundarias que son las más frecuentes suelen ser las secundarias
+
+10
+00:00:40,000 --> 00:00:43,120
+insuficiencia cardíaca izquierda, apatología pulmonar y algunas otras
+
+11
+00:00:43,120 --> 00:00:47,080
+cosas más raras como el Crest, el TEP, el síndrome de Eisenmeier,
+
+12
+00:00:47,080 --> 00:00:51,800
+cierto que era la complicación de las cardiopatías congénitas, etcétera.
+
+13
+00:00:51,800 --> 00:00:55,680
+Brevemente, la causada por insuficiencia cardíaca izquierda.
+
+14
+00:00:55,680 --> 00:00:58,880
+Acuérdense que una de las definiciones de la insuficiencia
+
+15
+00:00:58,880 --> 00:01:03,560
+cardíaca era el lograr un gasto cardíaco, pero expensa de presiones
+
+16
+00:01:03,560 --> 00:01:07,160
+elevadas de fin de diáctole y estas presiones elevadas en el lado
+
+17
+00:01:07,160 --> 00:01:09,920
+izquierdo del corazón, en el ventrículo izquierdo, cierto, se van
+
+18
+00:01:09,920 --> 00:01:13,320
+transmitiendo luego hacia la aurícula izquierda y finalmente a la circulación
+
+19
+00:01:13,320 --> 00:01:16,560
+pulmonar con hipertensión secundaria. En el caso de la
+
+20
+00:01:16,560 --> 00:01:21,440
+patología pulmonar, la destrucción de los vasos sanguíneos a nivel de
+
+21
+00:01:21,440 --> 00:01:24,800
+los pulmones, cierto, o algunas otras patologías pulmonares
+
+22
+00:01:24,840 --> 00:01:29,520
+también con un mecanismo algo distinto aumenta la resistencia
+
+23
+00:01:29,520 --> 00:01:32,880
+vascular a nivel de los pulmones, lo cual hace que igualmente
+
+24
+00:01:32,880 --> 00:01:36,160
+aumente de manera secundaria la presión de la arteria pulmonar.
+
+25
+00:01:36,960 --> 00:01:40,480
+El Crest acuérdense la esclerodermia limitada se complicaba
+
+26
+00:01:40,720 --> 00:01:44,640
+justamente con hipertensión pulmonar y eso aumentaba el riesgo
+
+27
+00:01:44,640 --> 00:01:48,160
+de muerte, mesellaba el pronóstico por regla general y lo último
+
+28
+00:01:48,160 --> 00:01:52,040
+el TEP acuérdense que en el caso del TEP masivo, que era el
+
+29
+00:01:52,040 --> 00:01:55,840
+más grave, cierto, venía con un cuadro con hipertensión pulmonar
+
+30
+00:01:55,840 --> 00:01:59,160
+aguda, bastante grave y de hecho la forma de diagnosticarlo y de
+
+31
+00:01:59,160 --> 00:02:02,480
+confirmarlo no era con el angiotax sino que se hacía justamente
+
+32
+00:02:02,480 --> 00:02:06,480
+con el ecocardiograma que al venir compresiones de arteria pulmonar
+
+33
+00:02:06,800 --> 00:02:09,680
+elevado, cierto, en ese caso me confirmaba que había un TEP
+
+34
+00:02:09,840 --> 00:02:12,640
+masivo que se definía acuérdense como el que venía con shock que
+
+35
+00:02:12,640 --> 00:02:16,120
+no respondía a volumen y en ese caso se manejaba con trombólisis.
+
+36
+00:02:16,760 --> 00:02:21,080
+Repito el sínrome de Eisenmenger o Eisenmanga en ese caso
+
+37
+00:02:21,080 --> 00:02:26,520
+era la complicación de las cardiopatías congénitas
+
+38
+00:02:26,640 --> 00:02:30,120
+asianóticas con un cortocircuito de izquierda a derecha que
+
+39
+00:02:30,520 --> 00:02:33,160
+en el largo plazo evolucionaban con hipertensión pulmonar
+
+40
+00:02:33,360 --> 00:02:36,320
+que finalmente se volvía irreversible incluso en el caso
+
+41
+00:02:36,560 --> 00:02:39,400
+en que se operara la cardiopatía congénita.
+
+42
+00:02:40,200 --> 00:02:42,640
+El cuadro clínico, hay que saberlo, por regla general
+
+43
+00:02:42,720 --> 00:02:46,080
+viene con disnea de esfuerzo, ese es el síntoma más frecuente.
+
+44
+00:02:46,360 --> 00:02:49,680
+Segundo lugar, debido a que el corazón derecho tiene que luchar
+
+45
+00:02:49,760 --> 00:02:53,200
+en contra de presiones más altas, viene con síntomas de insuficiencia
+
+46
+00:02:53,200 --> 00:02:56,360
+cardiaca derecha que los recordamos lo más importante era el edema
+
+47
+00:02:56,360 --> 00:03:00,320
+de extremidades inferiores, el edema hepático que se veía
+
+48
+00:03:00,320 --> 00:03:05,520
+como hepatomegalia, la astenia, etcétera, el reflujo o reflejo
+
+49
+00:03:05,520 --> 00:03:09,640
+hepato yugular y finalmente el aumento del R2.
+
+50
+00:03:09,680 --> 00:03:12,040
+De hecho, si se acuerdan, habían muy pocas enfermedades
+
+51
+00:03:12,040 --> 00:03:17,600
+que aumentaban el R2 y una de ellas era la hipertensión arterial
+
+52
+00:03:17,640 --> 00:03:21,520
+en el caso del aumento del R2 de tipo aórtico y la hipertensión pulmonar
+
+53
+00:03:22,080 --> 00:03:26,000
+en el caso del R2 cierto de tipo pulmonar, o sea, el aumento
+
+54
+00:03:26,000 --> 00:03:29,760
+en la intensidad del segundo ruido es algo que se describe
+
+55
+00:03:29,760 --> 00:03:31,880
+en la literatura de alguna forma también.
+
+56
+00:03:31,880 --> 00:03:35,040
+Vemos ahora la hipertensión pulmonar primaria con algún detalle.
+
+57
+00:03:35,040 --> 00:03:37,760
+Hay que entender su fisiopatología.
+
+58
+00:03:38,120 --> 00:03:40,840
+El diagnóstico por regla general empieza con el eco cardiograma
+
+59
+00:03:40,840 --> 00:03:45,640
+que me muestra estas presiones elevadas de la arteria pulmonar
+
+60
+00:03:45,960 --> 00:03:49,400
+y luego se confirma con el cateterismo cardiaco que justamente
+
+61
+00:03:49,400 --> 00:03:52,520
+va a ir a demostrar que en la medición directa
+
+62
+00:03:52,520 --> 00:03:54,760
+hay elevación de esta presión.
+
+63
+00:03:55,120 --> 00:03:59,240
+Ahora, como cosa adicional para que sea de tipo primaria,
+
+64
+00:03:59,680 --> 00:04:03,760
+es necesario buscar activamente y descartar las causas secundarias.
+
+65
+00:04:03,800 --> 00:04:07,120
+Así que habitualmente viene con una radiografía de tórax
+
+66
+00:04:07,120 --> 00:04:12,080
+que es normal, es que viene con un EPOC o con una firozis pulmonar.
+
+67
+00:04:12,120 --> 00:04:14,280
+En ese caso, el diagnóstico sería secundaria, cierto?
+
+68
+00:04:14,760 --> 00:04:17,880
+Salvo las alteraciones propias de la insuficiencia cardíaca derecha,
+
+69
+00:04:17,880 --> 00:04:20,880
+cierto, con la dilatación de la aurícula derecha, por ejemplo,
+
+70
+00:04:20,880 --> 00:04:24,960
+o de la arteria pulmonar que se puede ver a veces en la radiografía,
+
+71
+00:04:24,960 --> 00:04:28,280
+pero el parénquima pulmonar por regla general se ve normal.
+
+72
+00:04:28,760 --> 00:04:33,200
+La espirometría está normal, dado que no hay un problema del flujo aéreo,
+
+73
+00:04:33,200 --> 00:04:36,520
+sino que es un problema del flujo sanguíneo hacia los pulmones.
+
+74
+00:04:36,880 --> 00:04:40,760
+Y finalmente, la presión de capilar pulmonar
+
+75
+00:04:40,800 --> 00:04:44,560
+para que se mide justamente en el cateterismo cardíaco está absolutamente normal.
+
+76
+00:04:44,840 --> 00:04:49,320
+Dado que si estuviera en cambio elevada, en ese caso, el diagnóstico sería
+
+77
+00:04:50,320 --> 00:04:52,240
+una insuficiencia cardíaca izquierda, cierto,
+
+78
+00:04:52,240 --> 00:04:55,640
+con una hipertensión pulmonar secundaria a la insuficiencia cardíaca izquierda.
+
+79
+00:04:56,480 --> 00:04:59,280
+El tratamiento de la hipertensión pulmonar primaria,
+
+80
+00:04:59,280 --> 00:05:01,520
+esto hay que saberlo, suele ser con soporte.
+
+81
+00:05:02,360 --> 00:05:06,280
+El pronóstico es relativamente malo, pero ha mejorado mucho,
+
+82
+00:05:06,360 --> 00:05:10,800
+mucho en los últimos años debido a que justamente se han ido desarrollando
+
+83
+00:05:10,800 --> 00:05:15,080
+vasodilatadores que son específicos de la circulación pulmonar
+
+84
+00:05:15,080 --> 00:05:21,040
+y que son distintos a los que se usan en cambio en una hipertensión arterial
+
+85
+00:05:21,600 --> 00:05:25,280
+comunicorriente. En este caso es hipertensión arterial pulmonar.
+
+86
+00:05:25,280 --> 00:05:29,680
+Se usan vasodilatadores específicos de los pulmones, de los cuales hay que saber
+
+87
+00:05:29,680 --> 00:05:32,400
+que los dos más importantes son las prostaciclinas,
+
+88
+00:05:32,640 --> 00:05:35,080
+que son agonistas de las prostaglandinas, cierto?
+
+89
+00:05:35,320 --> 00:05:40,040
+Y aparte de esto, el sildenafil o algunos otros inhibidores de la fosfoiesterasa,
+
+90
+00:05:40,040 --> 00:05:44,400
+cierto que si bien se usaban o se siguen usando todavía
+
+91
+00:05:44,600 --> 00:05:47,240
+como el tratamiento de la disfunción eréctil masculina,
+
+92
+00:05:47,240 --> 00:05:50,800
+se ha demostrado que tienen un efecto bastante bueno en esta patología también.
+
+93
+00:05:51,120 --> 00:05:53,400
+Más algunos otros medicamentos más raros,
+
+94
+00:05:53,400 --> 00:05:56,920
+como los antagonistas de las endotelinas, pero repito,
+
+95
+00:05:56,920 --> 00:06:02,160
+la prostaglandina, la prostaciclina y el sildenafil son los dos que hay que saber.
+
+96
+00:06:02,920 --> 00:06:07,240
+Veamos ahora algunas palabras muy breves de la hipertensión pulmonar secundaria.
+
+97
+00:06:07,280 --> 00:06:11,480
+En este caso, el diagnóstico se hace con el ecocardiograma
+
+98
+00:06:11,480 --> 00:06:14,480
+más la presencia de las causas secundarias.
+
+99
+00:06:14,800 --> 00:06:18,160
+En este caso, no se requiere confirmar con el cateterismo cardíaco
+
+100
+00:06:18,440 --> 00:06:23,600
+debido a que queda bastante claro que ya se complicó con una hipertensión secundaria.
+
+101
+00:06:23,960 --> 00:06:26,640
+En este caso, el manejo, lo más importante es el soporte,
+
+102
+00:06:26,640 --> 00:06:28,480
+pero más el manejo de la causa.
+
+103
+00:06:28,520 --> 00:06:32,880
+Y dentro de esto recordemos de la clase de EPOC
+
+104
+00:06:33,200 --> 00:06:36,320
+que una de las indicaciones de oxígeno domiciliario
+
+105
+00:06:36,320 --> 00:06:38,200
+era justamente la hipertensión pulmonar.
+
+106
+00:06:38,480 --> 00:06:43,560
+Así que en el caso de un EPOC que venga con las presiones de oxígeno
+
+107
+00:06:43,560 --> 00:06:47,880
+en rango de insuficiencia respiratoria, abajo de 60 milímetros de mercurio
+
+108
+00:06:48,080 --> 00:06:50,320
+y que además venga con presiones arteriales
+
+109
+00:06:50,560 --> 00:06:52,760
+de más de 25 milímetros de mercurio de base,
+
+110
+00:06:52,760 --> 00:06:56,800
+en ese caso estaría indicado igualmente el oxígeno domiciliario
+
+111
+00:06:56,800 --> 00:07:00,880
+para evitar la muerte, como algo que aumenta la sobreviva.
+
+112
+00:07:01,120 --> 00:07:02,560
+Y bueno, eso es todo lo que hay que saber.
+
+113
+00:07:02,560 --> 00:07:04,120
+Nos vemos en el siguiente tema. Que estén bien.

@@ -1,0 +1,319 @@
+1
+00:00:03,310 --> 00:00:08,890
+Hola, hola. Vamos a ver el manejo crónico del asma o el manejo del asma estable y sepan que tiene
+
+2
+00:00:08,890 --> 00:00:14,030
+varios objetivos y que uno va a ir viendo si es que el tratamiento hay que avanzarlo, hay que
+
+3
+00:00:14,030 --> 00:00:18,390
+profundizarlo o no, según si se van cumpliendo estos objetivos o no. El más importante,
+
+4
+00:00:18,390 --> 00:00:23,470
+eliminar los síntomas. Segundo lugar, el prevenir las hospitalizaciones, el que tenga
+
+5
+00:00:23,470 --> 00:00:29,190
+alguna descompensación importante. El prevenir las complicaciones, en particular la sobre
+
+6
+00:00:29,190 --> 00:00:33,750
+infección bacteriana y ese tipo de cosas. Y finalmente, el mantener la función pulmonar,
+
+7
+00:00:33,750 --> 00:00:39,070
+acordándonos que uno de los riesgos era justamente el deterioro del parénquima pulmonar,
+
+8
+00:00:39,070 --> 00:00:43,630
+de la función pulmonar en el largo plazo ya de una manera más permanente en el tiempo.
+
+9
+00:00:43,630 --> 00:00:48,990
+Recordemos que el tratamiento del asma sigue un orden, es una especie de escalera que hay
+
+10
+00:00:48,990 --> 00:00:54,630
+que ir subiendo, que hay que ir avanzando con distintos pasos y este manejo escalonado
+
+11
+00:00:54,630 --> 00:01:00,910
+va dependiendo igualmente de la respuesta clínica al tratamiento que ya indico, más de
+
+12
+00:01:00,910 --> 00:01:05,990
+la severidad. Así que empecemos viendo cuál es el orden y el paso número cero que hay
+
+13
+00:01:05,990 --> 00:01:09,950
+que hacer en todo paciente es educar, que entienda cómo funciona esta enfermedad,
+
+14
+00:01:09,950 --> 00:01:13,670
+que entienda cuáles son los descompensantes y los alergenos que eventualmente se pueden
+
+15
+00:01:13,670 --> 00:01:20,030
+evitar. El vacunar, en particular contra la COVID-19, la influenza, el neumococo también
+
+16
+00:01:20,030 --> 00:01:26,430
+está indicado. Luego viene el paso uno que son la base del tratamiento sintomático y que son la
+
+17
+00:01:26,430 --> 00:01:31,110
+primera línea del manejo del asma en general, que son los broncodilatadores de corta acción,
+
+18
+00:01:31,110 --> 00:01:35,630
+el salbutamol, que acuérdense que se indican de manera SOS, o sea solamente cuando tiene
+
+19
+00:01:35,630 --> 00:01:39,830
+síntomas y si es que está sin ningún síntoma obviamente no tiene por qué inhalarse.
+
+20
+00:01:39,830 --> 00:01:45,950
+Segundo lugar vienen los corticoides inhalados y esta es la base de la prevención de nuevos
+
+21
+00:01:45,950 --> 00:01:51,590
+síntomas. Muchas veces se dejan el tratamiento número uno y número dos juntos, pero sepan
+
+22
+00:01:51,590 --> 00:01:56,150
+que si es que tiene muy poquitos síntomas se parte solo con el salbutamol y luego si es que
+
+23
+00:01:56,150 --> 00:02:01,830
+estos síntomas ya son más frecuentes y sigue necesitando el salbutamol con alguna periodicidad
+
+24
+00:02:01,830 --> 00:02:06,830
+importante, se agregan estos corticoides inhalados que se dejan por horario, sea cada 12 horas.
+
+25
+00:02:06,830 --> 00:02:12,790
+El tercer paso es agregar los broncodilatadores de larga acción, el salmeterol y el
+
+26
+00:02:12,830 --> 00:02:17,990
+formoterol por ejemplo, que eso se dejan igualmente por horario cada 12 horas. Luego
+
+27
+00:02:17,990 --> 00:02:22,590
+están los inhibidores de los leucotrienos, el safir-lucas, el monte-lucas, el sileutón,
+
+28
+00:02:22,590 --> 00:02:29,030
+luego los anticolinérgicos de larga acción, ejemplo el tigotropio y finalmente de última
+
+29
+00:02:29,030 --> 00:02:33,590
+línea están por un lado los corticoides orales que son más baratos y que son una
+
+30
+00:02:33,590 --> 00:02:37,630
+buena opción aunque tiene mucho efecto adverso y por otro lado están los fármacos
+
+31
+00:02:37,630 --> 00:02:41,110
+biológicos que son más nuevos, tienen menos efectos adversos pero son muy caros.
+
+32
+00:02:41,110 --> 00:02:46,750
+Ahora, la verdad es que esto es súper variable, este orden no es estricto,
+
+33
+00:02:46,750 --> 00:02:53,230
+ejemplo se puede iniciar en el punto 1 con el salbutamol más los corticoides y eso es
+
+34
+00:02:53,230 --> 00:02:56,830
+totalmente aceptable y luego en el momento que ya tengo el paciente bien estable,
+
+35
+00:02:56,830 --> 00:03:02,870
+voy y retiro los corticoides. Eventualmente en el punto 3 antes de agregar un segundo
+
+36
+00:03:02,870 --> 00:03:07,390
+broncodilatador de larga acción lo que puedo hacer es subir la dosis de corticoides o
+
+37
+00:03:07,390 --> 00:03:12,510
+incluso puedo hacer ambas cosas al mismo tiempo o bien puedo dejar un inhibidor de
+
+38
+00:03:12,510 --> 00:03:16,670
+los leucotrienos en vez de subir la dosis o de dejar un broncodilatador de larga acción,
+
+39
+00:03:16,670 --> 00:03:21,990
+incluso hay gente que no usa los broncodilatadores, perdón, que no usa los
+
+40
+00:03:21,990 --> 00:03:25,950
+inhibidores de los leucotrienos en particular en adultos o en personas que no tienen
+
+41
+00:03:25,950 --> 00:03:33,030
+síntomas alérgicos propiamente tal o que no se ha demostrado algún alérgeno en específico
+
+42
+00:03:33,750 --> 00:03:40,310
+y finalmente hay otros que deciden manejarlo en base a la severidad o sea el ver y antes de
+
+43
+00:03:40,310 --> 00:03:46,510
+saber con qué medicamentos voy a empezar, voy y veo cuál es la severidad del asma y decido el
+
+44
+00:03:46,510 --> 00:03:52,510
+manejo en base a eso que en la práctica es lo que más se hace. Ahora hay muchas guías,
+
+45
+00:03:52,510 --> 00:03:59,030
+hay muchos como textos que dan recomendaciones internacionales respecto a cómo medir la
+
+46
+00:03:59,030 --> 00:04:04,250
+severidad por un lado y segundo lugar en cómo manejar a este paciente así que vamos a ver
+
+47
+00:04:04,250 --> 00:04:10,470
+solamente una de ellas pero que es la más simple de aprender y de entender que es la que clasifica
+
+48
+00:04:10,470 --> 00:04:16,430
+al asma en síntomas intermitentes que son los que tienen menos de dos veces algún síntoma
+
+49
+00:04:16,430 --> 00:04:23,790
+relacionado con el asma en la semana, segundo lugar los que son leves que en este caso se
+
+50
+00:04:23,790 --> 00:04:29,510
+llama el asma persistente leve o asma con síntomas persistentes leves que son tres a seis
+
+51
+00:04:29,510 --> 00:04:35,870
+veces por semana luego está el persistente moderado o con síntomas moderados cierto que
+
+52
+00:04:35,870 --> 00:04:40,430
+en este caso son todos los días pero no todo el día y luego vienen los severos en que
+
+53
+00:04:40,430 --> 00:04:45,710
+habitualmente tiene síntomas la mayor parte del día la mayor parte de los días. Segundo
+
+54
+00:04:45,710 --> 00:04:50,750
+lugar aparte de los síntomas diurnos o los síntomas en general se ven los síntomas
+
+55
+00:04:50,750 --> 00:04:56,950
+nocturnos en específico algunos hablan de los despertares nocturnos debido al asma así ejemplo
+
+56
+00:04:56,950 --> 00:05:02,110
+se despierta porque está o con mucha tos o porque estaba obstruido y en ese caso va a
+
+57
+00:05:02,110 --> 00:05:07,790
+depender de el número de síntomas nocturnos que tenga en el mes si no tiene ninguno en ese
+
+58
+00:05:07,790 --> 00:05:12,830
+caso cae dentro de intermitentes si es que tiene uno a dos despertares en el mes cae
+
+59
+00:05:12,830 --> 00:05:17,750
+dentro de leve si son tres a cuatro en ese caso moderado y si son más de una vez a la
+
+60
+00:05:17,750 --> 00:05:23,390
+semana más de cuatro en ese caso severo fíjense que ya sea que tengan los síntomas nocturnos o
+
+61
+00:05:23,390 --> 00:05:28,670
+los síntomas diurnos el que esté peor es el que define en qué etapa está. Ahora respecto al
+
+62
+00:05:28,670 --> 00:05:34,190
+manejo para cada una de estas severidades en el caso de el asma intermitente la regla
+
+63
+00:05:34,190 --> 00:05:40,110
+general es dejarle solamente el salbutamol de COS nada más ese sería el tratamiento base
+
+64
+00:05:40,110 --> 00:05:45,670
+obviamente más la educación y algunos recomiendan en particular en niños que en el caso de que se
+
+65
+00:05:45,670 --> 00:05:50,670
+refrie se agreguen los corticoides inhalados en el sentido en que disminuyen el riesgo de
+
+66
+00:05:50,670 --> 00:05:55,470
+que tenga alguna descompensación. Acuérdense que era uno de los descompensantes más importantes
+
+67
+00:05:55,470 --> 00:06:00,310
+junto con el ejercicio habíamos dicho así que la otra indicación y que se educa mucho es
+
+68
+00:06:00,310 --> 00:06:07,750
+antes de hacer deporte inálese también con un par de de puf. En el caso de los leves ya
+
+69
+00:06:07,750 --> 00:06:13,310
+ahí sí se agregan los corticoides inhalados acuérdense que esto justamente evita la
+
+70
+00:06:13,310 --> 00:06:19,510
+recurrencia de los síntomas y al tener síntomas que aunque sean leves son persistentes ya es
+
+71
+00:06:19,510 --> 00:06:24,230
+obligatorio dejar los corticoides desde el momento en que ya son moderados se agregan
+
+72
+00:06:24,230 --> 00:06:30,230
+los broncoidratadores de larga acción ejemplo el formoterol y aparte se suele subir también
+
+73
+00:06:30,230 --> 00:06:36,390
+la dosis de el corticoide en vez de darle un puf al día ejemplo se dan un puf en la
+
+74
+00:06:36,390 --> 00:06:42,230
+mañana y uno en la noche o bien dos pufes la mañana y finalmente en el caso de los síntomas
+
+75
+00:06:42,230 --> 00:06:48,190
+severos se pueden dar altas dosis de los fármacos que vimos antes ejemplo los corticoides
+
+76
+00:06:48,190 --> 00:06:52,790
+inhalados en altas dosis o bien dar alguna dosis un poco más alta igualmente de los broncoidratadores
+
+77
+00:06:52,790 --> 00:06:57,590
+de larga acción y finalmente cuando no responde ninguna de estas cosas y sigue con muchos
+
+78
+00:06:57,590 --> 00:07:02,870
+síntomas pues de última última línea ahí recién se agrega los corticoides orales o
+
+79
+00:07:02,870 --> 00:07:07,110
+eventualmente estos fármacos biológicos que dijimos que era muy caro y bueno eso es todo
+
+80
+00:07:07,110 --> 00:07:09,310
+así que a repasarlos y aprendérselos que estén bien

@@ -1,0 +1,455 @@
+1
+00:00:00,000 --> 00:00:06,220
+Hola, ¿cómo están? Veamos ahora algunos detalles de la semiología de las
+
+2
+00:00:06,220 --> 00:00:09,780
+cardiopatías congénitas, que es lo más importante que debe manejar el médico
+
+3
+00:00:09,780 --> 00:00:14,060
+general. Y empecemos con la CIA, con la comunicación interauricular. Por el
+
+4
+00:00:14,060 --> 00:00:18,180
+general se ve como un soplo sistólico ejectivo más un desdoblamiento fijo
+
+5
+00:00:18,180 --> 00:00:23,180
+del segundo ruido. Eso es la frase que hay que saber. Y la explicación es
+
+6
+00:00:23,180 --> 00:00:28,860
+justamente que hay un hiperflujo hacia el lado derecho, ¿cierto?, hacia el
+
+7
+00:00:28,860 --> 00:00:33,460
+lado pulmonar. Y eso hace uno que me sopla la arteria pulmonar. No sopla la
+
+8
+00:00:33,460 --> 00:00:37,700
+CIA misma, por si acaso, sino que es a nivel de la arteria. Por eso es un
+
+9
+00:00:37,700 --> 00:00:41,860
+soplo ejectivo o meso-sistólico. Y en segundo lugar, se demora más en
+
+10
+00:00:41,860 --> 00:00:46,620
+cerrarse la válvula pulmonar. Y eso hace que el R2, el segundo ruido,
+
+11
+00:00:46,620 --> 00:00:50,540
+¿cierto?, que suena por cierre de la válvula órtica y de la válvula
+
+12
+00:00:50,540 --> 00:00:56,540
+pulmonar, en este caso quede desdoblado debido a esta demora en
+
+13
+00:00:56,620 --> 00:01:00,620
+el cierre de la válvula pulmonar que ya dijimos. Ahora, segundo lugar, me dilata
+
+14
+00:01:00,620 --> 00:01:03,900
+el lado derecho, en el sentido que hay un corto circuito de izquierda a
+
+15
+00:01:03,900 --> 00:01:07,620
+derecha, ¿cierto?, así que se dilata la aurícula derecha y luego se dilata el
+
+16
+00:01:07,620 --> 00:01:11,540
+ventículo derecho también. Y eso se puede ver ya sea en la radiografía, que
+
+17
+00:01:11,540 --> 00:01:15,740
+se ve la aurícula derecha en particular muy grande, ¿cierto?, o bien en el
+
+18
+00:01:15,740 --> 00:01:19,620
+electrocardiograma con los signos que vamos a ver en una foto en unos
+
+19
+00:01:19,620 --> 00:01:24,260
+minutos más. La CIV, en cambio, viene con un soplo holosistólico. En eso
+
+20
+00:01:24,460 --> 00:01:28,460
+se parece un poco a la insuficiencia mitral, a la insuficiencia tricuspidia.
+
+21
+00:01:28,460 --> 00:01:33,300
+Segundo lugar, en este caso lo que se dilata es el lado izquierdo. Alguien
+
+22
+00:01:33,300 --> 00:01:39,100
+podría pensar que se dilata también el ventrículo del lado derecho en el
+
+23
+00:01:39,100 --> 00:01:42,540
+sentido en que justamente hay paso desde el ventrículo izquierdo hacia
+
+24
+00:01:42,540 --> 00:01:45,900
+el ventrículo derecho, pero en este caso el ventrículo derecho está
+
+25
+00:01:45,900 --> 00:01:50,620
+igualmente en contracción, lo cual hace que la sangre rápidamente se vaya
+
+26
+00:01:50,620 --> 00:01:53,900
+hacia la arteria pulmonar y lo que tengo finalmente es que por las venas
+
+27
+00:01:53,940 --> 00:01:57,540
+pulmonares llega una cantidad de sangre muy grande con una sobrecarga
+
+28
+00:01:57,540 --> 00:02:02,980
+importante para el lado izquierdo. Así que repito, la CIV dilata el lado
+
+29
+00:02:02,980 --> 00:02:07,060
+izquierdo mientras que la CIA dilata el lado derecho. Ahora, en el caso
+
+30
+00:02:07,060 --> 00:02:11,300
+del ductus se ve con el clásico soplo contínuo, que es un soplo que
+
+31
+00:02:11,300 --> 00:02:14,740
+suena tanto en la sístole como en la diástole. Así que se llama
+
+32
+00:02:14,740 --> 00:02:20,340
+también soplo en maquinaria o soplo sistodiastólico y finalmente
+
+33
+00:02:20,380 --> 00:02:25,500
+medilata, al igual que la CIV, el lado izquierdo del corazón. Eso se
+
+34
+00:02:25,500 --> 00:02:29,380
+ve, repito, ya sea la rografía de tórax o ya sea con los signos
+
+35
+00:02:29,380 --> 00:02:32,740
+electrocardiográficos de hipertrofia de auriculo izquierda y de
+
+36
+00:02:32,740 --> 00:02:36,020
+hipertrofia de ventrículo izquierdo. En el caso del canal auriculo
+
+37
+00:02:36,020 --> 00:02:38,860
+ventricular, que es característico de los niños con síndrome de
+
+38
+00:02:38,860 --> 00:02:43,220
+Down, se ve como una mezcla de CIA con CIV. Ejemplo, un soplo
+
+39
+00:02:43,220 --> 00:02:46,940
+holosistólico de la CIV más un desdoblamiento fijo del segundo
+
+40
+00:02:46,940 --> 00:02:51,340
+ruido de la CIA, entre otras formas en que se puede ver. Y
+
+41
+00:02:51,340 --> 00:02:54,500
+acuérdense, todas ellas vienen con hiperflujo pulmonar, que se
+
+42
+00:02:54,500 --> 00:02:57,860
+cansa al mamar, que viene con síntomas respiratorios a
+
+43
+00:02:57,860 --> 00:03:00,900
+repetición, etcétera. Y todas pueden venir con cianosis, pero
+
+44
+00:03:00,900 --> 00:03:03,980
+que sí responde a oxígeno al 100%. En el caso de la
+
+45
+00:03:03,980 --> 00:03:06,700
+coartación aórtica, hay que saber que puede venir
+
+46
+00:03:06,700 --> 00:03:09,660
+igualmente con un soplo sistólico ejectivo o con un
+
+47
+00:03:09,660 --> 00:03:14,180
+soplo meso sistólico o puede ser sistólico también
+
+48
+00:03:14,180 --> 00:03:17,900
+sin mayor información. En segundo lugar, lo más
+
+49
+00:03:17,900 --> 00:03:20,900
+importante viene con esta disminución de los pulsos en
+
+50
+00:03:20,900 --> 00:03:24,020
+las extremidades inferiores. No me confundan la coartación
+
+51
+00:03:24,020 --> 00:03:29,020
+aórtica en que está tapada la aorta misma, está estenótica
+
+52
+00:03:29,020 --> 00:03:32,860
+alguna parte de la arteria, versus la estenosis aórtica,
+
+53
+00:03:32,860 --> 00:03:35,660
+que en cambio es la obstrucción a nivel de la válvula
+
+54
+00:03:35,660 --> 00:03:38,460
+aórtica, que son cosas totalmente distintas. Ahora,
+
+55
+00:03:38,460 --> 00:03:41,620
+en algunos casos viene también con una hipertensión de tipo
+
+56
+00:03:41,620 --> 00:03:44,900
+renovascular en el sentido en que no llega suficiente sangre
+
+57
+00:03:44,900 --> 00:03:48,580
+o suficiente presión a los riñones y se libera renina
+
+58
+00:03:48,580 --> 00:03:52,580
+con la misma fisiopatología de hipertensión renovascular.
+
+59
+00:03:52,580 --> 00:03:56,580
+Y en algunos casos muy raros, el recién nacido viene con el
+
+60
+00:03:56,580 --> 00:03:59,580
+signo del arlequin en que desde cierto punto hacia abajo
+
+61
+00:03:59,580 --> 00:04:03,300
+se ve más pálido por la falta de sangre y hacia arriba
+
+62
+00:04:03,300 --> 00:04:08,540
+en cambio se ve más rojo, con más color en el sentido
+
+63
+00:04:08,580 --> 00:04:12,100
+en que sí llega suficiente sangre. Ahora, dentro de las
+
+64
+00:04:12,100 --> 00:04:14,740
+no cianóticas, la única que vamos a ver con algún detalle
+
+65
+00:04:14,740 --> 00:04:18,300
+es la transposición de grandes vasos, acordándonos que
+
+66
+00:04:18,300 --> 00:04:21,580
+todas las cianóticas vienen con la misma clínica de cianosis
+
+67
+00:04:21,580 --> 00:04:24,780
+que no responde oxígeno al 100%, pero en la transposición
+
+68
+00:04:24,780 --> 00:04:27,820
+de grandes vasos o grandes arterias, algo importante
+
+69
+00:04:27,820 --> 00:04:30,900
+con mucha frecuencia viene sin soplos debido a que no hay
+
+70
+00:04:30,900 --> 00:04:33,940
+mezcla, no hay un corto circuito, sino que simplemente
+
+71
+00:04:33,940 --> 00:04:37,660
+hay circuitos independientes, aunque en algunos casos
+
+72
+00:04:37,660 --> 00:04:42,420
+si hay algún soplo a nivel de la arteria pulmonar por la
+
+73
+00:04:42,420 --> 00:04:45,340
+fuerza del ventrículo izquierdo, porque acuérdense que
+
+74
+00:04:45,340 --> 00:04:48,020
+en la transposición de grandes vasos la arteria pulmonar
+
+75
+00:04:48,020 --> 00:04:50,140
+sale desde el lado izquierdo.
+
+76
+00:04:50,140 --> 00:04:53,140
+Segundo lugar, esta es ductus dependiente, así que es
+
+77
+00:04:53,140 --> 00:04:56,980
+la clásica que se muere al poco tiempo de haber nacido
+
+78
+00:04:56,980 --> 00:04:59,820
+en el momento en que se cierra el ductus y finalmente
+
+79
+00:04:59,820 --> 00:05:02,180
+es frecuente que venga con mediestino delgado y que no
+
+80
+00:05:02,180 --> 00:05:06,300
+me dilate ninguna cavidad, justamente en el sentido en
+
+81
+00:05:06,300 --> 00:05:09,540
+que no hay un corto circuito, no hay sobrecarga de sangre
+
+82
+00:05:09,540 --> 00:05:11,380
+ninguno de los dos lados.
+
+83
+00:05:11,380 --> 00:05:15,260
+Aquí se ve una radiografía, se ve bien grande la aurícula
+
+84
+00:05:15,260 --> 00:05:19,860
+derecha, así que lo más probable es que sea una CIB.
+
+85
+00:05:19,860 --> 00:05:22,580
+En cambio, en este caso se ve el corazón muy grande
+
+86
+00:05:22,580 --> 00:05:25,540
+que se describe como un corazón en zapato o un
+
+87
+00:05:25,540 --> 00:05:29,940
+corazón en balón, y es lo más característico de la CIB
+
+88
+00:05:29,940 --> 00:05:32,180
+que dijimos que lo que más dilataba era justamente
+
+89
+00:05:32,180 --> 00:05:34,460
+el lado izquierdo, pero hay algunos casos en que
+
+90
+00:05:34,460 --> 00:05:37,700
+finalmente me dilata todas las cavidades del corazón.
+
+91
+00:05:37,700 --> 00:05:41,100
+Y bueno, aquí tengo un electrocardiograma y lo que se
+
+92
+00:05:41,100 --> 00:05:44,660
+ve son las ondas P que están altas.
+
+93
+00:05:44,660 --> 00:05:49,020
+Y acuérdense, la P ancha era de izquierda, ¿cierto?
+
+94
+00:05:49,020 --> 00:05:51,860
+La pancha era de izquierda, si se acuerdan,
+
+95
+00:05:51,860 --> 00:05:54,660
+y era un signo de hipertrofia de aurícula izquierda.
+
+96
+00:05:54,660 --> 00:05:57,940
+En cambio, la palta, la P alta era una paltona de
+
+97
+00:05:57,940 --> 00:06:02,820
+derecha que se asocia a una hipertrofia o alguna
+
+98
+00:06:02,860 --> 00:06:05,020
+sobrecarga de la aurícula derecha.
+
+99
+00:06:05,020 --> 00:06:10,140
+Así que en este caso, la P alta me sugiere una comunicación
+
+100
+00:06:10,140 --> 00:06:11,340
+interauricular.
+
+101
+00:06:11,340 --> 00:06:13,940
+Segundo lugar, la comunicación interauricular con mucha
+
+102
+00:06:13,940 --> 00:06:17,180
+frecuencia viene con una imagen similar a la del
+
+103
+00:06:17,180 --> 00:06:19,420
+bloqueo completo de rama derecha también.
+
+104
+00:06:19,420 --> 00:06:22,620
+Así que esas dos cosas, un niño con insuficiencia
+
+105
+00:06:22,620 --> 00:06:25,460
+cardíaca que viene con un soplo sistólico inyectivo
+
+106
+00:06:25,460 --> 00:06:27,820
+que puede venir con o sin el desdoblamiento fijo
+
+107
+00:06:27,820 --> 00:06:31,980
+segundo ruido, más signos de hipertrofia del lado
+
+108
+00:06:32,020 --> 00:06:34,980
+derecho o un bloqueo completo de rama derecha,
+
+109
+00:06:34,980 --> 00:06:36,580
+diagnóstico CIA, ¿ya?
+
+110
+00:06:36,580 --> 00:06:39,500
+Y la conducta, ecocardiograma y luego de eso,
+
+111
+00:06:39,500 --> 00:06:41,860
+la cirugía de cierre de la CIA.
+
+112
+00:06:41,860 --> 00:06:44,100
+Y bueno, es todo lo que hay que saber.
+
+113
+00:06:44,100 --> 00:06:45,380
+Así que nos vemos en los siguientes temas.
+
+114
+00:06:45,380 --> 00:06:47,060
+Que estén muy bien.

@@ -1,0 +1,735 @@
+1
+00:00:00,000 --> 00:00:07,330
+Hola, ¿cómo están? Hablemos del lupus eritematososistémico, el famoso LES, que es
+
+2
+00:00:07,330 --> 00:00:10,770
+una enfermedad que puede ser bastante grave. Se enmarca dentro de las
+
+3
+00:00:10,770 --> 00:00:14,370
+enfermedades del tejido conectivo y suele ser anapositivo, pero eso es algo
+
+4
+00:00:14,370 --> 00:00:17,650
+que ya sabíamos. Empecemos ahora con cosas que no hemos visto aún como su
+
+5
+00:00:17,650 --> 00:00:21,810
+clínica. Dentro de sus síntomas, que son muchísimos por su caso, es
+
+6
+00:00:21,810 --> 00:00:25,010
+frecuente que venga con síntomas mucocutáneos, que vamos a mencionar
+
+7
+00:00:25,010 --> 00:00:29,610
+una larga lista porque son los que se ven con mayor facilidad. En primer
+
+8
+00:00:29,610 --> 00:00:36,490
+lugar, el eritema malar o lupus cutáneo agudo, son sinónimos, que se ve
+
+9
+00:00:36,490 --> 00:00:41,810
+como una mariposa lúpica, una mariposa eritematosa que afecta el
+
+10
+00:00:41,810 --> 00:00:45,570
+dorso de la nariz y las mejillas y que habitualmente respeta
+
+11
+00:00:45,570 --> 00:00:49,090
+el surco nasogeniano, no afecta al mentón.
+
+12
+00:00:49,090 --> 00:00:52,770
+Segundo lugar, la fotosensibilidad, que se quema fácil con el sol o que las
+
+13
+00:00:52,770 --> 00:00:55,930
+lesiones aparecen con mayor frecuencia con el sol. En tercer lugar,
+
+14
+00:00:56,170 --> 00:01:00,810
+que venga con un lupus ya sea subagudo o crónico, como el lupus discoide, que
+
+15
+00:01:00,810 --> 00:01:05,210
+es una de las variantes del lupus crónico, o el lupus cutáneo subagudo,
+
+16
+00:01:05,210 --> 00:01:09,930
+que son patologías muy similares y que pueden darse por sí solas, pero se
+
+17
+00:01:09,930 --> 00:01:13,290
+pueden dar también en contexto de este lupus sistémico o eritematoso.
+
+18
+00:01:13,290 --> 00:01:17,890
+Puede venir con úlceras orales, que habitualmente son indoloras
+
+19
+00:01:17,890 --> 00:01:23,930
+por si acaso, con alopecia, ya sea rala, que se cae el pelo de manera
+
+20
+00:01:24,130 --> 00:01:29,370
+como difusa, o bien que se cae en una zona puntual con un lupus cutáneo subagudo
+
+21
+00:01:29,370 --> 00:01:32,970
+o con un lupus cutáneo crónico y que me deja una alopecia cicatricial
+
+22
+00:01:32,970 --> 00:01:36,490
+definitiva. Aparte de esto, es muy frecuente que venga con el fenómeno
+
+23
+00:01:36,490 --> 00:01:40,130
+de Reino, que se ponen los dedos blancos y luego rojos y morados,
+
+24
+00:01:40,130 --> 00:01:43,610
+pero recordemos que ese es un signo que se ve con mayor frecuencia en
+
+25
+00:01:43,610 --> 00:01:47,370
+otras enfermedades autoinmunes como la esclerodermia, la enfermedad mixta,
+
+26
+00:01:47,370 --> 00:01:52,290
+el tejido conectivo, pero se ve también en el lupus y se ve, por si acaso,
+
+27
+00:01:52,330 --> 00:01:55,210
+con mayor frecuencia todavía en personas absolutamente sanas
+
+28
+00:01:55,210 --> 00:01:59,250
+sin ninguna enfermedad de base. Y finalmente el eritema de los dedos
+
+29
+00:01:59,250 --> 00:02:03,090
+o de alguna otra parte de la piel, con la diferencia que en el caso
+
+30
+00:02:03,090 --> 00:02:07,210
+de la dermatomyositis, lo que se afecta son los nudillos y la piel
+
+31
+00:02:07,210 --> 00:02:10,930
+que está sobre las articulaciones. En cambio, acá en el caso del lupus
+
+32
+00:02:10,930 --> 00:02:14,450
+se afecta la piel que está entre las articulaciones, entre los nudillos.
+
+33
+00:02:15,770 --> 00:02:18,850
+No son las únicas afectaciones, las mucocutáneas,
+
+34
+00:02:18,850 --> 00:02:21,410
+sino que con mucha frecuencia se afectan los riñones también.
+
+35
+00:02:21,730 --> 00:02:25,210
+En este caso hay que saber que puede venir con una glomerulonefritis,
+
+36
+00:02:25,210 --> 00:02:28,810
+que ya dijimos que se veía como una hematuria dismórfica o como
+
+37
+00:02:28,810 --> 00:02:32,570
+cilindro eritrocitario o hemáticos o con acantositos.
+
+38
+00:02:32,570 --> 00:02:36,330
+También se puede ver como hematitis dismórfico es sinónimo de acantositos.
+
+39
+00:02:36,330 --> 00:02:40,770
+En el sedimento se puede ver con proteinuria dentro de esta
+
+40
+00:02:40,770 --> 00:02:43,770
+enfermedad renal que puede venir con o sin un síndrome
+
+41
+00:02:43,770 --> 00:02:47,610
+nefrótico asociado. De hecho, se asocia a la neferopatía
+
+42
+00:02:47,610 --> 00:02:50,770
+membranosa o glomerulopatía membranosa o extramembranosa,
+
+43
+00:02:50,770 --> 00:02:53,370
+que se complicaba como un síndrome nefrótico también.
+
+44
+00:02:53,370 --> 00:02:57,810
+Y puede venir con diversos grados, ya sea de insuficiencia renal aguda,
+
+45
+00:02:57,810 --> 00:03:00,970
+en contexto ejemplo, de una glomerulonefritis rápidamente progresiva
+
+46
+00:03:00,970 --> 00:03:04,210
+o bien de una insuficiencia renal crónica con el daño renal
+
+47
+00:03:04,210 --> 00:03:09,050
+que se va produciendo de manera lenta, ya sea por el síndrome nefrótico
+
+48
+00:03:09,050 --> 00:03:11,650
+o ya sea por la glomerulonefritis que es lo más frecuente.
+
+49
+00:03:11,650 --> 00:03:16,090
+Aparte, es muy frecuente que venga con alteraciones en el hemograma.
+
+50
+00:03:16,130 --> 00:03:18,050
+Esto hay que saberlo con bastante detalle.
+
+51
+00:03:18,050 --> 00:03:22,370
+Puede venir con leucopenia, ejemplo, abajo de 3.000 blancos
+
+52
+00:03:22,370 --> 00:03:24,970
+o abajo de 4.000 blancos ya me hace sospecharlo.
+
+53
+00:03:24,970 --> 00:03:28,730
+Puede y suele venir con linfopenia, o sea, la leucopenia es
+
+54
+00:03:28,730 --> 00:03:31,690
+expensa de los linfocitos que tienden a bajar, ejemplo,
+
+55
+00:03:31,690 --> 00:03:33,930
+abajo de 1.000 o abajo de 1.500.
+
+56
+00:03:33,930 --> 00:03:39,170
+Además, se puede complicar con una anemia hemolítica autoinmune
+
+57
+00:03:39,170 --> 00:03:43,810
+y cualquiera de ellos es criterio de los criterios hematológicos
+
+58
+00:03:43,850 --> 00:03:46,970
+diagnósticos del lupus y finalmente la thrombocitopenia
+
+59
+00:03:46,970 --> 00:03:49,810
+que puede venir aislada o viene en contexto de una púlpura
+
+60
+00:03:49,810 --> 00:03:51,530
+thrombocitopénica inmune.
+
+61
+00:03:51,530 --> 00:03:54,490
+O sea, en resumen, tiende a bajar los glóbulos rojos,
+
+62
+00:03:54,490 --> 00:03:57,530
+los glóbulos blancos, en particular los linfocitos y las plaquetas.
+
+63
+00:03:57,530 --> 00:04:00,530
+Las tres cosas, las tres líneas.
+
+64
+00:04:00,530 --> 00:04:03,410
+Además, puede venir con una serie de otros síntomas
+
+65
+00:04:03,410 --> 00:04:08,250
+y de otras alteraciones dentro de estos síntomas reumatológicos
+
+66
+00:04:08,250 --> 00:04:11,850
+inespecíficos como mialgia, artralgia, artritis lúpica,
+
+67
+00:04:11,850 --> 00:04:14,010
+que habitualmente es no erosiva, ¿cierto?
+
+68
+00:04:14,010 --> 00:04:17,050
+Puede venir con afectación de las cerosas, con serositis,
+
+69
+00:04:17,050 --> 00:04:20,730
+ya sea derrame pleural, con una pericarditis lúpica,
+
+70
+00:04:20,730 --> 00:04:23,050
+incluso con una peritonitis lúpica,
+
+71
+00:04:23,050 --> 00:04:26,810
+con afectación neurológica, ejemplo, con psicosis lúpica,
+
+72
+00:04:26,810 --> 00:04:29,930
+con una meningitis aséptica, con accidente vascular encefálico
+
+73
+00:04:29,930 --> 00:04:33,050
+y la verdad es que puede afectar casi cualquier órgano,
+
+74
+00:04:33,050 --> 00:04:35,890
+sistema digestivo, lo que ustedes quieran.
+
+75
+00:04:35,890 --> 00:04:38,050
+Hay algunos marcadores que hay que saberlos
+
+76
+00:04:38,050 --> 00:04:39,850
+y que algunos son sensibles para el lupus,
+
+77
+00:04:39,850 --> 00:04:41,690
+otros son específicos para el lupus
+
+78
+00:04:41,730 --> 00:04:44,330
+y el más importante son los ANA en general,
+
+79
+00:04:44,330 --> 00:04:46,450
+los antinucleares que son bastante sensibles,
+
+80
+00:04:46,450 --> 00:04:50,130
+están positivos en cerca del 90% de los pacientes con lupus,
+
+81
+00:04:50,130 --> 00:04:53,650
+pero hay algún porcentaje que sí puede venir con este marcador negativo también,
+
+82
+00:04:53,650 --> 00:04:55,050
+sería un 10%.
+
+83
+00:04:55,050 --> 00:04:58,730
+Aparte de esto, el anti-DNA de dos cebras que es bastante específico,
+
+84
+00:04:58,730 --> 00:05:02,370
+lo mismo que el anti-SM que también es bastante específico.
+
+85
+00:05:02,370 --> 00:05:04,290
+Además, recuerden que el lupus,
+
+86
+00:05:04,290 --> 00:05:07,930
+como es por depósito de complejos inmune su psicopatología,
+
+87
+00:05:07,930 --> 00:05:10,890
+suele medir con una caída en la fracción C3
+
+88
+00:05:10,890 --> 00:05:12,970
+y o la fracción C4 del complemento,
+
+89
+00:05:12,970 --> 00:05:15,770
+así que cuando viene con falla renal,
+
+90
+00:05:15,770 --> 00:05:19,250
+viene con una glomerulonefritis hipocomplementémica
+
+91
+00:05:19,250 --> 00:05:22,410
+y finalmente los marcadores del síndrome antifafolípico
+
+92
+00:05:22,410 --> 00:05:25,410
+que se puede ver de manera secundaria en el lupus,
+
+93
+00:05:25,410 --> 00:05:28,970
+con los anticuerpos antifafolípicos y los anticuerpos anticardiolipinas,
+
+94
+00:05:28,970 --> 00:05:30,250
+entre otros.
+
+95
+00:05:30,250 --> 00:05:32,450
+¿Cómo se hace el diagnóstico del lupus?
+
+96
+00:05:32,450 --> 00:05:35,330
+Por regla general, es con una serie de criterios,
+
+97
+00:05:35,330 --> 00:05:38,090
+dentro de los cuales los criterios clínicos son los más importantes,
+
+98
+00:05:38,090 --> 00:05:40,330
+aunque los marcadores y los exámenes generales
+
+99
+00:05:40,330 --> 00:05:43,010
+aportan también al apoyo diagnóstico.
+
+100
+00:05:43,010 --> 00:05:45,850
+Se dice que de la larga lista de criterios que hay,
+
+101
+00:05:45,850 --> 00:05:46,970
+aunque tenga cuatro,
+
+102
+00:05:46,970 --> 00:05:50,490
+aunque sea en distintos momentos de la evolución clínica,
+
+103
+00:05:50,490 --> 00:05:52,290
+ya se confirma el diagnóstico,
+
+104
+00:05:52,290 --> 00:05:54,610
+pero en resumen, para médico general,
+
+105
+00:05:54,610 --> 00:05:57,330
+lo que hay que conocer es los marcadores que están ahí
+
+106
+00:05:57,330 --> 00:06:00,490
+y aparte de eso, el cuadro clínico completo con mucho detalle
+
+107
+00:06:00,490 --> 00:06:03,610
+y el hemograma, en el sentido en que tengo que ser capaz
+
+108
+00:06:03,610 --> 00:06:06,090
+de identificar una persona que tiene riesgo
+
+109
+00:06:06,090 --> 00:06:08,170
+de estar con un diagnóstico de lupus
+
+110
+00:06:08,170 --> 00:06:11,370
+y poder derivarla oportunamente lo antes posible.
+
+111
+00:06:11,370 --> 00:06:13,730
+¿Cómo se determina el pronóstico del lupus?
+
+112
+00:06:13,730 --> 00:06:16,170
+Pues, al igual que el latritis romatoide,
+
+113
+00:06:16,170 --> 00:06:18,930
+que en la mayoría de las enfermedades autoinmunes
+
+114
+00:06:18,930 --> 00:06:21,210
+es con lo más importante.
+
+115
+00:06:21,210 --> 00:06:23,290
+Mientras más daño renal tenga, peor.
+
+116
+00:06:23,290 --> 00:06:25,690
+Mientras más afectación en el sistema nervioso central, peor.
+
+117
+00:06:25,690 --> 00:06:27,730
+Mientras más activo sea el lupus, peor.
+
+118
+00:06:27,730 --> 00:06:29,450
+Y segundo lugar, los marcadores,
+
+119
+00:06:29,450 --> 00:06:31,850
+en particular el anti-DNA de dos zebras,
+
+120
+00:06:31,850 --> 00:06:33,610
+que si es que está positivo, es peor.
+
+121
+00:06:33,650 --> 00:06:36,410
+Y si está en títulos altos, pues peor todavía
+
+122
+00:06:36,410 --> 00:06:38,810
+y no solamente es marcador del pronóstico,
+
+123
+00:06:38,810 --> 00:06:41,170
+sino que es marcador de la actividad lupica también.
+
+124
+00:06:41,170 --> 00:06:43,570
+En el sentido en que los títulos aumentan
+
+125
+00:06:43,570 --> 00:06:47,130
+a medida que la actividad lupica aumenta también.
+
+126
+00:06:47,130 --> 00:06:49,690
+El tratamiento del lupus, hay que saber al menos
+
+127
+00:06:49,690 --> 00:06:51,610
+los principios generales.
+
+128
+00:06:51,610 --> 00:06:53,490
+Actualmente para el lupus estable,
+
+129
+00:06:53,490 --> 00:06:55,930
+el que no viene con una complicación muy grave,
+
+130
+00:06:55,930 --> 00:06:57,890
+se maneja con hidroxicloroquina.
+
+131
+00:06:57,890 --> 00:06:59,850
+Ese es el fármaco que se deja en la práctica
+
+132
+00:06:59,850 --> 00:07:02,730
+a todos los pacientes, más los corticoides,
+
+133
+00:07:02,730 --> 00:07:05,050
+en particular la prednisona y finalmente
+
+134
+00:07:05,050 --> 00:07:09,170
+con distintos fármacos inmunomoduladores
+
+135
+00:07:09,170 --> 00:07:10,970
+que son ahorradores de corticoides.
+
+136
+00:07:10,970 --> 00:07:13,970
+En cuanto a los corticoides, ustedes saben
+
+137
+00:07:13,970 --> 00:07:15,930
+que tienen muchos efectos adversos
+
+138
+00:07:15,930 --> 00:07:17,210
+y por lo mismo le doy otros fármacos
+
+139
+00:07:17,210 --> 00:07:19,250
+que me permitan bajar un poquito
+
+140
+00:07:19,250 --> 00:07:21,930
+la dosis de prednisona que le voy a dar.
+
+141
+00:07:21,930 --> 00:07:24,170
+Afortunadamente coinciden con las drogas
+
+142
+00:07:24,170 --> 00:07:26,050
+modificadoras del artritis rhumatoide,
+
+143
+00:07:26,050 --> 00:07:30,730
+la azatioprina, el leflunomide, etcétera.
+
+144
+00:07:30,730 --> 00:07:33,930
+Y la hidroxicloroquina que antes simplemente
+
+145
+00:07:33,930 --> 00:07:36,410
+se mencionaba dentro de los ahorradores de corticoides,
+
+146
+00:07:36,410 --> 00:07:39,770
+ahora está subrayada en cuanto es uno
+
+147
+00:07:39,770 --> 00:07:42,730
+de los fármacos de lección en la actualidad
+
+148
+00:07:42,730 --> 00:07:44,250
+en todos los pacientes con lupus estable
+
+149
+00:07:44,250 --> 00:07:47,090
+y que deberían recibirlos porque es eficaz,
+
+150
+00:07:47,090 --> 00:07:50,170
+es bueno y me permite darle una dosis de corticoides
+
+151
+00:07:50,170 --> 00:07:52,530
+lo más bajo que se pueda.
+
+152
+00:07:52,530 --> 00:07:54,850
+En los cuadros más graves,
+
+153
+00:07:54,850 --> 00:07:56,690
+está ejemplo con una glomerulonephritis
+
+154
+00:07:56,690 --> 00:07:57,810
+rápidamente progresiva,
+
+155
+00:07:57,810 --> 00:07:59,770
+con una anemia hemolítica autoinmune grave,
+
+156
+00:07:59,770 --> 00:08:01,290
+con una pancretitis lúpiga,
+
+157
+00:08:01,290 --> 00:08:03,250
+con alguna cosa de ese tipo.
+
+158
+00:08:03,250 --> 00:08:05,890
+Se maneja con pulsos de corticoides endovenosos,
+
+159
+00:08:05,890 --> 00:08:09,330
+ejemplo, metil prednisolona más inmunosupresores.
+
+160
+00:08:09,330 --> 00:08:12,050
+Acá no me sirven solamente los inmunomoduladores.
+
+161
+00:08:12,050 --> 00:08:15,690
+Tengo que dejarle algo que apague el sistema inmune,
+
+162
+00:08:15,690 --> 00:08:16,970
+es cierto, y dentro de esto,
+
+163
+00:08:16,970 --> 00:08:19,090
+la ciclofofamida es como el más clásico,
+
+164
+00:08:19,090 --> 00:08:20,970
+pero se puede usar el micofenolato
+
+165
+00:08:20,970 --> 00:08:23,770
+y finalmente se usa cada vez más el rituximab,
+
+166
+00:08:23,770 --> 00:08:26,530
+que son estos anticuerpos en contra de los linfocitos B
+
+167
+00:08:26,530 --> 00:08:29,730
+y que me generan una inmunosupresión
+
+168
+00:08:29,730 --> 00:08:30,890
+durante varios meses
+
+169
+00:08:30,890 --> 00:08:32,970
+y con un poco de efectos adversos
+
+170
+00:08:32,970 --> 00:08:34,610
+menores que otros fármacos,
+
+171
+00:08:34,610 --> 00:08:36,570
+pero acuérdense cuál es el efecto adverso
+
+172
+00:08:36,570 --> 00:08:38,650
+más importante de los inmunosupresores,
+
+173
+00:08:38,650 --> 00:08:40,050
+pues justamente que inmunos deprimen
+
+174
+00:08:40,050 --> 00:08:42,410
+y que tiene riesgo de evolucionar infecciones.
+
+175
+00:08:42,410 --> 00:08:43,730
+Más aún sí que estaba con corticoides
+
+176
+00:08:43,730 --> 00:08:47,730
+que generan algún efecto inmunosupresor también.
+
+177
+00:08:47,730 --> 00:08:48,970
+Pues bien, eso es lo que hay que saber,
+
+178
+00:08:48,970 --> 00:08:50,650
+en particular, clínicas de lupus
+
+179
+00:08:50,650 --> 00:08:52,730
+y los marcadores de lupus en lo fundamental.
+
+180
+00:08:52,730 --> 00:08:54,410
+Y de ahora como novedad,
+
+181
+00:08:54,450 --> 00:08:56,370
+la hidroxicloroquina que ha venido
+
+182
+00:08:56,370 --> 00:08:58,570
+a desplazar un poquito a otros fármacos.
+
+183
+00:08:58,570 --> 00:08:59,050
+Que estén bien.
+
+184
+00:08:59,050 --> 00:09:00,050
+Nos vemos en los siguientes temas.

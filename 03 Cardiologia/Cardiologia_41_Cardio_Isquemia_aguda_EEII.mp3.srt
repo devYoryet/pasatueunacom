@@ -1,0 +1,223 @@
+1
+00:00:00,000 --> 00:00:06,520
+Hola, ¿cómo están? Hablemos de la isquemia aguda de extremidades inferiores, recordando
+
+2
+00:00:06,520 --> 00:00:11,640
+que su clínica, que hay que saberla por su caso, son las famosas 6P. Viene con pain,
+
+3
+00:00:11,640 --> 00:00:18,480
+con dolor, con validez, pulso disminuido o ausente. Puede venir con parecia o con
+
+4
+00:00:18,480 --> 00:00:24,920
+debilidad, con parestecia, ya sea la sensación de hormigueo, o bien con alteraciones
+
+5
+00:00:24,920 --> 00:00:31,680
+de la sensibilidad, con hipoestesia o con anestesia. Y finalmente, lo que se
+
+6
+00:00:31,680 --> 00:00:35,340
+le llama poiquilotermia, aunque no es realmente poiquilotermia, sino que
+
+7
+00:00:35,340 --> 00:00:40,080
+simplemente es frialdad de la extremidad afectada. Ahora, el diagnóstico es
+
+8
+00:00:40,080 --> 00:00:44,120
+meramente clínico, así que hay que saberse de memoria ese cuadro clínico
+
+9
+00:00:44,120 --> 00:00:48,200
+de las 6P. Y no siempre están las 6, a veces se ven solamente 3, por
+
+10
+00:00:48,200 --> 00:00:52,320
+ejemplo, dolor, el pulso disminuido y la palidez, y nada más, por su caso.
+
+11
+00:00:52,320 --> 00:00:56,880
+El factor de riesgo más clásico es la fibrilación auricular, en el sentido
+
+12
+00:00:56,880 --> 00:01:02,240
+en que suele ser secundaria a fenómenos embólicos, que justamente me
+
+13
+00:01:02,240 --> 00:01:06,200
+producen esta isquemia aguda, aunque en algunos casos se debe a traumatismo o
+
+14
+00:01:06,200 --> 00:01:10,040
+bien a trombosis de alguna placa de ateroma también. Así que se asocia
+
+15
+00:01:10,040 --> 00:01:14,120
+también a enfermedad arterial periférica de tipo crónica, en el
+
+16
+00:01:14,120 --> 00:01:18,200
+sentido en que en esos casos se puede producir una trombosis. Pero,
+
+17
+00:01:18,200 --> 00:01:23,000
+repito, lo más frecuente es que sea secundario a fenómenos embólicos.
+
+18
+00:01:23,440 --> 00:01:28,080
+Así que, si me dicen, tengo un paciente con pulso irregular, que además viene
+
+19
+00:01:28,080 --> 00:01:33,200
+con dolor y frialdad de la extremidad inferior derecha de inicio súbito,
+
+20
+00:01:33,200 --> 00:01:35,840
+¿cuál es el diagnóstico más probable? Pues, obviamente, es una
+
+21
+00:01:35,840 --> 00:01:40,080
+isquemia aguda de esa extremidad. El estudio, el diagnóstico se hace con
+
+22
+00:01:40,080 --> 00:01:44,840
+una angiografía, aunque el diagnóstico ya dijimos que es clínico,
+
+23
+00:01:44,840 --> 00:01:48,760
+pero la angiografía me sirve como para identificar exactamente en qué
+
+24
+00:01:48,800 --> 00:01:54,840
+lugar está la obstrucción de manera de poder ir a desobstruir de inmediato.
+
+25
+00:01:54,840 --> 00:01:58,320
+La angiografía se puede hacer ya sea de tipo convencional, con una
+
+26
+00:01:58,320 --> 00:02:00,880
+angiografía común y corriente con medio de contraste, ¿cierto?
+
+27
+00:02:00,880 --> 00:02:04,880
+O bien una angiografía por imagen, ya sea una angiotac o una
+
+28
+00:02:04,880 --> 00:02:07,800
+angiorrazonancia. Lo que importa es que se tiene que hacer tan rápido
+
+29
+00:02:07,800 --> 00:02:12,480
+como sea posible. Ahora, el manejo por el general viene con dos
+
+30
+00:02:12,480 --> 00:02:16,520
+medidas. Número uno, la anticoagulación inmediata, que se
+
+31
+00:02:16,520 --> 00:02:21,480
+hace con la heparina común y corriente o con heparina no fraccionada.
+
+32
+00:02:21,480 --> 00:02:24,960
+Y en segundo lugar, la embolectomía. Así que inmediatamente debo
+
+33
+00:02:24,960 --> 00:02:28,480
+ir a llamar al cirujano vascular, ¿cierto? Y esta embolectomía se
+
+34
+00:02:28,480 --> 00:02:32,520
+hace con cirugía, ya sea abierta o bien lo más frecuente es que se
+
+35
+00:02:32,520 --> 00:02:39,080
+haga con un catéter intra arterial que justamente atraviesa el trombo,
+
+36
+00:02:39,080 --> 00:02:43,440
+luego se infla, ¿cierto? Y se saca el émbolo. Ahora, en algunos
+
+37
+00:02:43,480 --> 00:02:47,840
+casos seleccionados se puede manejar con trombólisis. Así que en resumen,
+
+38
+00:02:47,840 --> 00:02:53,080
+lo más importante es anticoagular y el que se produzca esta
+
+39
+00:02:53,080 --> 00:02:57,240
+revascularización de alguna forma que se deshaga del émbolo.
+
+40
+00:02:57,240 --> 00:03:01,560
+Ahora, aquí viene una imagen. Lo que le duele es la pierna del
+
+41
+00:03:01,560 --> 00:03:06,720
+lado izquierdo. Le duele la pierna izquierda. En ese caso es la
+
+42
+00:03:06,720 --> 00:03:09,600
+que está más blanca. Así que con eso el diagnóstico sin ninguna
+
+43
+00:03:09,640 --> 00:03:13,840
+duda es una isquemia de la extremidad inferior izquierda.
+
+44
+00:03:13,840 --> 00:03:16,840
+Ahora, en este caso también le duele la pierna izquierda y si
+
+45
+00:03:16,840 --> 00:03:21,040
+se fijan esa pierna está más hinchada y además está más
+
+46
+00:03:21,040 --> 00:03:24,000
+eritematosa. Así que el diagnóstico ya no es un problema
+
+47
+00:03:24,000 --> 00:03:27,840
+de las arterias, sino que como se ve arriba en el título,
+
+48
+00:03:27,840 --> 00:03:31,240
+es una trombosis venosa profunda. Así que por favor no
+
+49
+00:03:31,240 --> 00:03:35,320
+me confundan el cuadro clínico en el sentido en que en ambas
+
+50
+00:03:35,320 --> 00:03:38,480
+se puede ver un poco distinto una pierna de la otra con la
+
+51
+00:03:38,480 --> 00:03:42,800
+diferencia que la isquemia aguda viene con palidez.
+
+52
+00:03:42,800 --> 00:03:46,360
+En cambio, la trombosis venosa profunda viene con eritema o
+
+53
+00:03:46,360 --> 00:03:49,560
+con cianosis cierto más el aumento de volumen o edema.
+
+54
+00:03:49,560 --> 00:03:51,120
+Ambas vienen con dolor por si acaso.
+
+55
+00:03:51,120 --> 00:03:52,480
+Y bueno, eso es todo lo que hay que saber.
+
+56
+00:03:52,480 --> 00:03:54,480
+Nos vemos en los siguientes temas que estén viendo.

@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:19,820
+Siguiendo con anemia, muy breve, vamos a ver la anemia por enfermedades crónicas que es la segunda en frecuencia después de la ferropenia y recordemos que su clínica suele ser asintomática porque es una anemia que suele ser leve a lo más moderada, así que si es que hay algún síntoma suele ser de la enfermedad de base y no de la anemia en particular.
+
+2
+00:00:19,820 --> 00:00:38,820
+Segundo lugar, su diagnóstico es con el hemograma más el perfil de hierro cierto, que recordemos que viene con la ferritina elevada y la transferrina baja porque son respectivamente un reactante de fase aguda positivo en el caso de la ferritina y negativo en el caso de la transferrina y justamente la causa acá es la inflamación, de hecho su otro nombre es la anemia de la inflamación.
+
+3
+00:00:38,820 --> 00:00:59,820
+El hemograma habitualmente es una anemia normocística normocrómica, se resume como una anemia normonormo y el resto suele estar normal salvo que la enfermedad crónica afecte el hemograma de alguna manera y ejemplo aumente la VHS o venga con una leucocitosis o con alguna otra cosa por el estilo, ejemplo una tuberculosis puede alterar ese tipo de parámetros del hemograma.
+
+4
+00:00:59,820 --> 00:01:15,820
+El tratamiento de la anemia por enfermedades crónicas es buscar y tratar la causa, de hecho cuál es la importancia de esta anemia que viene asociada a una enfermedad crónica que potencialmente es grave, ejemplo una artritis fumatoide, un lupo, una tuberculosis, una vasculitis, etc.
+
+5
+00:01:15,820 --> 00:01:28,820
+Y por lo mismo cuando yo me encuentro con un hemograma que me refleja una anemia normonormo que luego la estudio con el perfil de hierro que me refleja una anemia por enfermedades crónicas, estoy obligado a ir a buscar esta causa subyacente.
+
+6
+00:01:28,820 --> 00:01:31,820
+Y eso es todo, eso es todo lo que hay que saber de zapatología.

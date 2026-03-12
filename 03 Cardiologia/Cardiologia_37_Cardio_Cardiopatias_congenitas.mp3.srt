@@ -1,0 +1,587 @@
+1
+00:00:00,000 --> 00:00:07,900
+Hola, ¿cómo están? Hablemos de las cardiopatías congénitas. Vamos a ver algunas generalidades,
+
+2
+00:00:07,900 --> 00:00:12,500
+comenzando con su clasificación entre asianóticas o no asianóticas y las cianóticas.
+
+3
+00:00:12,500 --> 00:00:19,500
+Dentro de las asianóticas, a su vez, se subdividen en las con un cortocircuito de izquierda a derecha,
+
+4
+00:00:19,500 --> 00:00:26,100
+que la más importante son la CIA o comunicación interauricular, la CIB o comunicación interventricular
+
+5
+00:00:26,100 --> 00:00:31,500
+y el ductus arterioso persistente o DAP. A esto hay que agregarle algunas más raras
+
+6
+00:00:31,500 --> 00:00:35,500
+como el canal auriculo-ventricular, que es como una mezcla entre CIA y CIB
+
+7
+00:00:35,500 --> 00:00:41,900
+y que es clásica de los niños con síndrome de Down y algunas más raras como el drenaje anómalo
+
+8
+00:00:41,900 --> 00:00:46,500
+de las venas pulmonares, que en vez de llegar al auriculo izquierda, que es lo habitual,
+
+9
+00:00:46,500 --> 00:00:48,900
+en este caso llega al auriculo a derecha.
+
+10
+00:00:48,900 --> 00:00:55,100
+Segundo lugar están las obstructivas izquierdas, dentro de las cuales la coartación aórtica
+
+11
+00:00:55,100 --> 00:00:58,300
+es la única que hay que saber y hay que saber que es no cianótica.
+
+12
+00:00:58,500 --> 00:01:01,700
+Dentro de las cianóticas, en cambio, hay tres subtipos.
+
+13
+00:01:01,700 --> 00:01:06,500
+Número uno, las con cortocircuito de derecha a izquierda, que dentro de estas
+
+14
+00:01:06,500 --> 00:01:11,100
+la más importante es la tetralogía de Fallot. Les adelanto que estas requieren
+
+15
+00:01:11,100 --> 00:01:15,300
+que haya obstrucción del lado derecho, dado que lo habitual es que las presiones
+
+16
+00:01:15,300 --> 00:01:19,700
+del lado izquierdo sean más altas que la del lado derecho, así que lo más frecuente
+
+17
+00:01:19,700 --> 00:01:24,500
+es que si es que hay un cortocircuito sea de izquierda a derecha dentro de las no cianóticas,
+
+18
+00:01:24,700 --> 00:01:30,300
+pero si a esto se le suma una obstrucción del lado derecho, en ese caso sí puede que
+
+19
+00:01:30,300 --> 00:01:31,900
+el cortocircuito se invierta.
+
+20
+00:01:32,700 --> 00:01:37,100
+Segundo lugar están las con mezcla total, que las más importantes son el ventrículo único,
+
+21
+00:01:37,100 --> 00:01:41,100
+en que en vez de ventrículo izquierdo y ventrículo derecho, hay uno solo
+
+22
+00:01:41,100 --> 00:01:46,100
+y ahí se produce la mezcla de la sangre oxigenada y la no oxigenada.
+
+23
+00:01:46,100 --> 00:01:50,700
+Aparte está el tronco arterioso, que en vez de que haya una arteria pulmonar
+
+24
+00:01:50,900 --> 00:01:54,900
+y una orta independiente, hay solamente un gran tronco, una gran arteria,
+
+25
+00:01:54,900 --> 00:01:59,500
+y ahí se mezcla todo. No me lo confundan con el ductus arterioso persistente,
+
+26
+00:01:59,500 --> 00:02:03,700
+que en cambio es una capipatía no cianótica, en cambio el tronco arterioso
+
+27
+00:02:03,700 --> 00:02:07,300
+es cianótica por mezcla total. Y finalmente algunas más raras,
+
+28
+00:02:07,300 --> 00:02:13,300
+como la A13 tricuspida, que en este caso la tricuspide en el lado derecho
+
+29
+00:02:13,300 --> 00:02:16,900
+está absolutamente tapada y eso hace que todo se pase al lado izquierdo
+
+30
+00:02:16,900 --> 00:02:20,900
+y se mezcle la sangre oxigenada con la no oxigenada.
+
+31
+00:02:20,900 --> 00:02:25,900
+Ahora, aparte de esto están las sin mezcla, que son más graves
+
+32
+00:02:25,900 --> 00:02:28,500
+y la más importante es la transposición de grandes vasos,
+
+33
+00:02:28,500 --> 00:02:31,100
+que también se llama transposición de grandes arterias,
+
+34
+00:02:31,100 --> 00:02:36,500
+y que en este caso la arteria pulmonar y la orta están cambiadas de lugar
+
+35
+00:02:36,500 --> 00:02:42,500
+y eso hace que finalmente la sangre oxigenada vuelve a los pulmones
+
+36
+00:02:42,500 --> 00:02:46,300
+y se mantiene siempre oxigenada pero sin llegar al resto del cuerpo
+
+37
+00:02:46,300 --> 00:02:52,300
+y al revés la sangre no oxigenada se mantiene siempre en el resto del cuerpo
+
+38
+00:02:52,300 --> 00:02:54,300
+sin llegar nunca a los pulmones.
+
+39
+00:02:54,300 --> 00:02:57,300
+Ejemplo, de la orta, cierto, sale al resto del cuerpo,
+
+40
+00:02:57,300 --> 00:03:04,300
+vuelve por las venas cavas, de las venas cavas llega a la aurícula derecha,
+
+41
+00:03:04,300 --> 00:03:07,300
+de la aurícula derecha va al ventrículo derecho y de ahí sale nuevamente
+
+42
+00:03:07,300 --> 00:03:12,300
+por la orta al resto del cuerpo y nunca se oxigena y lo contrario pasa
+
+43
+00:03:12,300 --> 00:03:16,300
+en cambio en el lado oxigenado, en que todo va a los pulmones,
+
+44
+00:03:16,300 --> 00:03:19,300
+vuelve al corazón y de ahí sale hacia los pulmones de nuevo
+
+45
+00:03:19,300 --> 00:03:23,300
+debido a que estos grandes vasos, estas grandes arterias están cambiadas de lugar.
+
+46
+00:03:23,300 --> 00:03:28,300
+Veamos ahora la fisioterapia y un poquito la clínica de cada una de ellas,
+
+47
+00:03:28,300 --> 00:03:32,300
+esto es importante, las asianóticas habitualmente son con un cortocircuito
+
+48
+00:03:32,300 --> 00:03:37,300
+que va de izquierda a derecha y eso se traduce en un hiperflujo sanguíneo
+
+49
+00:03:37,300 --> 00:03:38,300
+hacia los pulmones.
+
+50
+00:03:38,300 --> 00:03:43,300
+Esto se ve como una insuficiencia cardíaca, aparte de esto es frecuente
+
+51
+00:03:43,300 --> 00:03:47,300
+que la insuficiencia cardíaca en los recién nacidos y en los lactantes
+
+52
+00:03:47,300 --> 00:03:52,300
+se vea como que se cansa al mamar, cierto, a veces se traduce
+
+53
+00:03:52,300 --> 00:03:55,300
+en infecciones recurrentes, ya sea en neumonías a repetición
+
+54
+00:03:55,300 --> 00:03:59,300
+o en síndrome bronquial obstructivo recurrente, que acuérdense que
+
+55
+00:03:59,300 --> 00:04:02,300
+una de las cosas que hay que ir a buscar en estos niños en que
+
+56
+00:04:02,300 --> 00:04:05,300
+aparentemente hay una causa secundaria es que no sea secundaria
+
+57
+00:04:05,300 --> 00:04:10,300
+a una cardiopatía del tipo asianótica, por si acaso, y en algunos casos
+
+58
+00:04:10,300 --> 00:04:14,300
+debido a que no mama bien y que está con insuficiencia cardíaca
+
+59
+00:04:14,300 --> 00:04:17,300
+se ve que hay un mal incremento ponderal a que no sube
+
+60
+00:04:17,300 --> 00:04:19,300
+adecuadamente de peso.
+
+61
+00:04:19,300 --> 00:04:23,300
+Ahora, puede venir con cianosis y esta es una pregunta importante,
+
+62
+00:04:23,300 --> 00:04:26,300
+la verdad es que las asianóticas, aunque su nombre dice que son
+
+63
+00:04:26,300 --> 00:04:29,300
+sin cianosis, la verdad es que sí pueden tener cianosis debido
+
+64
+00:04:29,300 --> 00:04:34,300
+justamente a que se complican con congestión pulmonar, con neumonías,
+
+65
+00:04:34,300 --> 00:04:39,300
+con un síndrome bronquial obstructivo, pero es una cianosis de tipo
+
+66
+00:04:39,300 --> 00:04:43,300
+respiratoria que sí revierte con oxígeno, que sí mejora con oxígeno
+
+67
+00:04:43,300 --> 00:04:44,300
+al 100%.
+
+68
+00:04:44,300 --> 00:04:47,300
+En cambio, lo más importante en la clínica de las cianóticas
+
+69
+00:04:47,300 --> 00:04:50,300
+es justamente que vienen con cianosis, que es de tipo central,
+
+70
+00:04:50,300 --> 00:04:53,300
+que es de tipo cardíaca, que es causada por un corto circuito
+
+71
+00:04:53,300 --> 00:04:57,300
+y que por lo mismo no mejora con oxígeno al 100%.
+
+72
+00:04:57,300 --> 00:05:00,300
+Repito, ¿cuál es la clínica más importante de las cianóticas?
+
+73
+00:05:00,300 --> 00:05:03,300
+Las cianóticas, cianosis pero con el apellido de que no mejora
+
+74
+00:05:03,300 --> 00:05:05,300
+con oxígeno al 100%.
+
+75
+00:05:05,300 --> 00:05:09,300
+Algunas son ductos dependientes y algunas horas después de que
+
+76
+00:05:09,300 --> 00:05:12,300
+el niño nace o algunos días después de que nace cuando
+
+77
+00:05:12,300 --> 00:05:15,300
+se produce el cierre del ducto, en ese caso se produce
+
+78
+00:05:15,300 --> 00:05:18,300
+la muerte del paciente y la más importante de esas es
+
+79
+00:05:18,300 --> 00:05:21,300
+la transposición de grandes vasos por si acaso.
+
+80
+00:05:21,300 --> 00:05:25,300
+Ahora, el diagnóstico de las asianóticas por el general
+
+81
+00:05:25,300 --> 00:05:28,300
+se hace con un ecocardiograma fetal o bien con un
+
+82
+00:05:28,300 --> 00:05:32,300
+ecocardiograma del recién nacido o del niño y eso
+
+83
+00:05:32,300 --> 00:05:35,300
+en la actualidad por si acaso un porcentaje importante
+
+84
+00:05:35,300 --> 00:05:38,300
+se diagnostica de manera antenatal con la ecografía
+
+85
+00:05:38,300 --> 00:05:41,300
+obstétrica de tipo morfológica que es la clasiga que se hace
+
+86
+00:05:41,300 --> 00:05:44,300
+entre las 22 semanas y las 28 semanas.
+
+87
+00:05:44,300 --> 00:05:47,300
+Ahora, ¿cuál es el tratamiento de las cardiopatías congenitas
+
+88
+00:05:47,300 --> 00:05:52,300
+en general? Suele ser quirúrgico el tipo de cirugía que se hace,
+
+89
+00:05:52,300 --> 00:05:56,300
+depende obviamente del tipo de cardiopatía y no es
+
+90
+00:05:56,300 --> 00:05:59,300
+algo que haya que saber como médico general, pero si hay que saber
+
+91
+00:05:59,300 --> 00:06:02,300
+que el ductus arterioso persistente es distinto en el sentido
+
+92
+00:06:02,300 --> 00:06:05,300
+que se puede intentar su cierre con aines, en particular
+
+93
+00:06:05,300 --> 00:06:09,300
+con la indometasina o con el ibuprofeno y de esa manera
+
+94
+00:06:09,300 --> 00:06:13,300
+yo me ahorro el manejo con la cirugía.
+
+95
+00:06:13,300 --> 00:06:16,300
+Ahora, ¿qué les pasa a las nocianóticas? Es que no se tratan.
+
+96
+00:06:16,300 --> 00:06:20,300
+¿Cuál es la historia natural que tienen? Y evolucionan
+
+97
+00:06:20,300 --> 00:06:23,300
+con insuficiencia cardiaca y lo más importante evolucionan
+
+98
+00:06:23,300 --> 00:06:27,300
+con una hipertensión pulmonar que se puede volver irreversible,
+
+99
+00:06:27,300 --> 00:06:32,300
+que si no las trato ahora pueden evolucionar con algo
+
+100
+00:06:32,300 --> 00:06:35,300
+de un pronóstico bastante malo, que es lo que se conoce
+
+101
+00:06:35,300 --> 00:06:39,300
+como el síndrome de Eisenmenger, da lo mismo como se escriba
+
+102
+00:06:39,300 --> 00:06:43,300
+y como se pronuncia también, pero lo más importante es
+
+103
+00:06:43,300 --> 00:06:46,300
+que se genere una hipertensión pulmonar que es persistente
+
+104
+00:06:46,300 --> 00:06:50,300
+en el tiempo que ya no se corrige con la corrección quirúrgica
+
+105
+00:06:50,300 --> 00:06:54,300
+de la cardiopatía y que finalmente evoluciona a una falla
+
+106
+00:06:54,300 --> 00:06:58,300
+cardiaca y a la muerte del paciente a menos, claro, que se haga
+
+107
+00:06:58,300 --> 00:07:02,300
+un trasplante cardiopulmonar en el sentido en que se va produciendo
+
+108
+00:07:02,300 --> 00:07:05,300
+un daño del sistema vascular de los pulmones también.
+
+109
+00:07:05,300 --> 00:07:09,300
+Ahora, el típico caso del embarazo es una paciente que venía
+
+110
+00:07:09,300 --> 00:07:13,300
+con una CIA o con una CIB que era pequeña, que nunca
+
+111
+00:07:13,300 --> 00:07:17,300
+le dio síntomas durante toda su adolescencia,
+
+112
+00:07:17,300 --> 00:07:23,300
+a lo más se cansaba un poco al caminar mucho o al correr
+
+113
+00:07:23,300 --> 00:07:28,300
+mucho, pero cuando se embaraza ya más adelante es un momento
+
+114
+00:07:28,300 --> 00:07:32,300
+el embarazo en que se le exige mucho al corazón y en ese caso
+
+115
+00:07:32,300 --> 00:07:36,300
+empieza con disnea, con desaturación, con una serie de síntomas
+
+116
+00:07:36,300 --> 00:07:40,300
+de insuficiencia cardiaca y en ese caso si se le hace la eco
+
+117
+00:07:40,300 --> 00:07:43,300
+hay que plantearse como una de las cosas el interrumpir
+
+118
+00:07:43,300 --> 00:07:47,300
+el embarazo de manera anticipada dado que es frecuente que se compliquen
+
+119
+00:07:47,300 --> 00:07:52,300
+y el riesgo de muerte para la madre se puede devolver algo real.
+
+120
+00:07:52,300 --> 00:07:55,300
+¿Qué es lo que determina finalmente ese riesgo?
+
+121
+00:07:55,300 --> 00:07:59,300
+Lo más importante es justamente el nivel de hipertensión pulmonar
+
+122
+00:07:59,300 --> 00:08:03,300
+y de insuficiencia cardiaca que se asocia, así que
+
+123
+00:08:03,300 --> 00:08:06,300
+una embarazada con sospecha de insuficiencia cardiaca siempre
+
+124
+00:08:06,300 --> 00:08:10,300
+están obligados a hacerle cuanto antes un ecocardiograma
+
+125
+00:08:10,300 --> 00:08:13,300
+en busca de las cardiopatías congénitas, entre otras causas.
+
+126
+00:08:13,300 --> 00:08:16,300
+En el caso de la cianótica ya dijimos que su clínica era
+
+127
+00:08:16,300 --> 00:08:22,300
+cianosis que no respondía oxígeno al 100% y ante esa sola clínica
+
+128
+00:08:22,300 --> 00:08:25,300
+yo ya estoy obligado a darle la prostaglandina E1 en el sentido
+
+129
+00:08:25,300 --> 00:08:29,300
+en que esto me evita el cierre del ducto, lo mantiene abierto
+
+130
+00:08:29,300 --> 00:08:32,300
+es como lo contrario que el aine, acuérdense, los aines son
+
+131
+00:08:32,300 --> 00:08:35,300
+inhibidores de la COX, de la ciclooxigenasa que es la enzima
+
+132
+00:08:35,300 --> 00:08:38,300
+que produce la prostaglandina y la forma de cerrarlos con aines
+
+133
+00:08:38,300 --> 00:08:42,300
+pues la forma de abrirlo es el darle justamente la prostaglandina.
+
+134
+00:08:42,300 --> 00:08:46,300
+Repito, ante la sola clínica, antes de confirmarlo con la ECO
+
+135
+00:08:46,300 --> 00:08:49,300
+yo ya estoy obligado a darle al recién nacido esta prostaglandina
+
+136
+00:08:49,300 --> 00:08:52,300
+por bien dovenosa. Ahora, ¿existe algún tipo de screening
+
+137
+00:08:52,300 --> 00:08:55,300
+para las cardiopatías cianóticas? Y la verdad es que sí
+
+138
+00:08:55,300 --> 00:09:00,300
+la oximetría de pulso común y corriente, si es que está debajo de 95%
+
+139
+00:09:00,300 --> 00:09:03,300
+en ese caso estoy obligado a ir a descartar
+
+140
+00:09:03,300 --> 00:09:06,300
+que no haya una cardiopatía cianótica.
+
+141
+00:09:06,300 --> 00:09:09,300
+Ahora, el diagnóstico igual que en las no cianóticas
+
+142
+00:09:09,300 --> 00:09:13,300
+es con el ecocardiograma que puede ser antenatal o postnatal
+
+143
+00:09:13,300 --> 00:09:17,300
+y finalmente el tratamiento también es con cirugías
+
+144
+00:09:17,300 --> 00:09:20,300
+aunque son cirugías habitualmente un poco más complejas.
+
+145
+00:09:20,300 --> 00:09:23,300
+Y bueno, eso es todo lo que hay que saber por ahora.
+
+146
+00:09:23,300 --> 00:09:26,300
+En la siguiente clase vamos a ver los detalles de semiología.
+
+147
+00:09:26,300 --> 00:09:28,300
+Así que ahí nos vemos.

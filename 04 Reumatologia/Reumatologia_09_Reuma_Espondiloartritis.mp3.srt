@@ -1,0 +1,283 @@
+1
+00:00:00,000 --> 00:00:07,480
+Hola, hola. En esta clase vamos a hablar de glomerulonefritis y síndrome nefrítico, que
+
+2
+00:00:07,480 --> 00:00:11,140
+son temas relativamente difíciles, pero va a quedar claro y lo vamos a dividir en
+
+3
+00:00:11,140 --> 00:00:16,700
+más videos para que no sea tan terrible. Empecemos con el diagnóstico de las glomerulonefritis.
+
+4
+00:00:16,700 --> 00:00:20,880
+Recuerden que se hace con el sedimento de orina que muestra hematuria dismórfica,
+
+5
+00:00:20,880 --> 00:00:25,920
+que es lo mismo que acantocitos. Y recuerden que se dice que es patognomónico de
+
+6
+00:00:25,920 --> 00:00:29,720
+las glomerulonefritis, o sea que todas las glomerulonefritis siempre vienen con
+
+7
+00:00:29,720 --> 00:00:34,920
+hematuria dismórfica y a su vez toda hematuria dismórfica siempre es una glomerulonefritis,
+
+8
+00:00:34,920 --> 00:00:38,900
+pero eso no es tan así en el sentido en que hay algunas pocas patologías que sí
+
+9
+00:00:38,900 --> 00:00:43,020
+pueden venir con hematuria dismórfica, como por ejemplo el síndrome molítico
+
+10
+00:00:43,020 --> 00:00:48,200
+uremico. Como cosa adicional, también los cilindros hemáticos y los cilindros
+
+11
+00:00:48,200 --> 00:00:53,000
+eritrocitarios se pueden ver en las glomerulonefritis y también son patognomónicos de esta
+
+12
+00:00:53,000 --> 00:00:57,600
+enfermedad. ¿Cuál es la clínica? Pues esto es importante. Las glomerulonefritis se
+
+13
+00:00:57,600 --> 00:01:01,760
+pueden manifestar de distintas formas desde el punto de vista clínico y una,
+
+14
+00:01:01,760 --> 00:01:05,360
+que es de las más importantes, no es la más frecuente, pero sí es de las que hay que saber,
+
+15
+00:01:05,360 --> 00:01:10,320
+es que se presenten como un síndrome nefrítico. Ahora, ¿qué es un síndrome nefrítico? Una
+
+16
+00:01:10,320 --> 00:01:15,160
+triada de hematuria, hipertensión y edema y en ese caso se hace el diagnóstico no solo
+
+17
+00:01:15,160 --> 00:01:19,360
+de glomerulonefritis sino que además de un síndrome nefrítico probablemente tal,
+
+18
+00:01:19,360 --> 00:01:23,440
+pero repito tiene que estar con los tres elementos hematuria, hipertensión y edema.
+
+19
+00:01:23,920 --> 00:01:31,240
+La segunda forma en que se puede presentar un glomerulonefritis es como una microematuria,
+
+20
+00:01:31,240 --> 00:01:36,320
+que simplemente en el sedimento de orina se demuestra que hay acantocitos y nada más,
+
+21
+00:01:36,320 --> 00:01:41,880
+eso es muy frecuente, o bien como una macroematuria en que ya se vea en el sentido
+
+22
+00:01:41,880 --> 00:01:46,840
+que el motivo de consulta es ICP-P con sangre y en ese caso se puede ver incluso
+
+23
+00:01:46,840 --> 00:01:51,960
+sin síndrome nefrítico, o sea que quede bien claro la hematuria aislada muchas veces es la
+
+24
+00:01:51,960 --> 00:01:58,800
+forma en que se presenta muchas glomerulonefritis como por ejemplo la por depósito DGA. Aparte de
+
+25
+00:01:58,800 --> 00:02:03,640
+esto se puede presentar como un síndrome nefrótico pero en este caso siempre va a ser impuro en el
+
+26
+00:02:03,640 --> 00:02:10,440
+sentido en que la hematuria que siempre se ve el glomerulonefritis hace que ya no sea un
+
+27
+00:02:10,440 --> 00:02:15,920
+síndrome nefrótico puro sino que ya lo vuelve impuro así que si es que hay un síndrome nefrítico
+
+28
+00:02:15,920 --> 00:02:19,960
+y un síndrome nefrótico pues uno habla de síndrome nefrótico impuro y en este caso
+
+29
+00:02:20,000 --> 00:02:25,560
+siempre va a haber detrás un glomerulonefritis. Va quedando más o menos claro, el glomerulonefritis
+
+30
+00:02:25,560 --> 00:02:29,400
+puede venir solo con la hematuria o con el síndrome nefrítico o con un síndrome nefrótico
+
+31
+00:02:29,400 --> 00:02:35,320
+impuro o con ambos que ahí se sigue llamando síndrome nefrótico impuro. Finalmente puede venir
+
+32
+00:02:35,320 --> 00:02:40,960
+también como una falla renal y en este caso uno habla de un glomerulonefritis rápidamente
+
+33
+00:02:40,960 --> 00:02:47,480
+progresiva que habíamos visto que era esta que tenía un clírens de cretinina que caía al
+
+34
+00:02:47,480 --> 00:02:52,840
+menos en un 50% en un periodo menor a tres meses. Ahora, ¿cuál es el tratamiento de
+
+35
+00:02:52,840 --> 00:02:58,400
+la glomerulonefritis? Por el en general es tratar su causa así que hay que buscar activamente
+
+36
+00:02:58,400 --> 00:03:03,680
+su causa y manejarla. Algunas se benefician de corticoides como el lupus por ejemplo,
+
+37
+00:03:03,680 --> 00:03:09,640
+algunas otras simplemente el soporte como la glomerulonefritis aguda post estreptocósica
+
+38
+00:03:09,640 --> 00:03:16,160
+y finalmente el soporte es habitualmente una de las cosas más importantes en el manejo
+
+39
+00:03:16,160 --> 00:03:21,120
+tanto del síndrome nefrítico como del glomerulonefritis en general. Ejemplo para la
+
+40
+00:03:21,120 --> 00:03:26,480
+hipertensión, para el edema se puede manejar con diuréticos ejemplo en la falla renal muy
+
+41
+00:03:26,480 --> 00:03:30,120
+grave con el manejo de las complicaciones de la falla renal de la hipercalemia de la
+
+42
+00:03:30,120 --> 00:03:33,800
+hiponatremia de la sidosis y eventualmente diálisis si es que tiene una complicación
+
+43
+00:03:33,800 --> 00:03:37,400
+grave que no responde o bien si es que tiene un síndrome urémico establecido en
+
+44
+00:03:37,400 --> 00:03:43,120
+contexto de un glomerulonefritis rápidamente progresiva. Por ejemplo, ¿cómo se estudian?
+
+45
+00:03:43,120 --> 00:03:47,560
+Y acá número uno, la función renal lo que más me interesa no es si es que tiene sangre o no
+
+46
+00:03:47,560 --> 00:03:52,840
+sino que si es que están funcionando bien los riñones o no. Dentro de función renal
+
+47
+00:03:52,840 --> 00:03:58,680
+el clínense de creatinina, los electrolitos, el BUN y la proteinuria también. Segundo lugar
+
+48
+00:03:58,680 --> 00:04:04,240
+le pido todo un perfil inmunológico en busca de las distintas patologías. Ejemplo le
+
+49
+00:04:04,240 --> 00:04:09,840
+pido el complemento C3 y C4 dado que la más frecuente que el glomerulonefritis aguda
+
+50
+00:04:09,840 --> 00:04:15,480
+es la clásica hipocomplementémica, ahí vamos a ver que no es la única, el lupus,
+
+51
+00:04:15,480 --> 00:04:20,180
+la crioglobulinemia, las pos infecciosas de otras causas, la sociedad sepsia, endocarditis,
+
+52
+00:04:20,180 --> 00:04:26,640
+etcétera, también son hipocomplementémicas pero la nape es la más importante. Los ANA,
+
+53
+00:04:26,640 --> 00:04:30,640
+los anticuerpos antinucleares que son característicos de lupus eritematosus
+
+54
+00:04:30,640 --> 00:04:36,440
+sistémico y de otras patologías también. Los ANCA, anticuerpos antisitoplasmas de
+
+55
+00:04:36,440 --> 00:04:40,640
+neutrófilo, los anticuerpos antimembrana basal, igualmente recordando que los ANCAS
+
+56
+00:04:40,640 --> 00:04:45,680
+son característicos de las vasculitis de vaso pequeño y de algunas otras también,
+
+57
+00:04:45,680 --> 00:04:53,560
+pero en particular de la PAM, de la poliesgitis microscópica y de la granulomatosis con poliesgitis
+
+58
+00:04:53,560 --> 00:04:59,160
+o la granulomatosis de Wegener que era el otro nombre. Y finalmente los anticuerpos
+
+59
+00:04:59,160 --> 00:05:03,120
+antimembrana basal para buscar la enfermedad por anticuerpos antimembrana basal que a
+
+60
+00:05:03,280 --> 00:05:08,760
+veces también se llama síndrome de Good Pasture. Ahora, el último examen es la biopsia renal,
+
+61
+00:05:08,760 --> 00:05:14,640
+habíamos dicho que era muy importante buscar la causa, el estudio inmunológico es útil pero la
+
+62
+00:05:14,640 --> 00:05:20,040
+biopsia renal muchas veces me da la información final así que se biopsia en casi todos los
+
+63
+00:05:20,040 --> 00:05:25,280
+casos y la única gran excepción es que el paciente esté bien y que todos los exámenes
+
+64
+00:05:25,280 --> 00:05:30,200
+de sangre y la clínica apunten a que es una glomerulonefitis aguda post streptocósica.
+
+65
+00:05:30,520 --> 00:05:35,280
+Con que esté bien me refiero a que esté sin una falla renal en el sentido que incluso si es que
+
+66
+00:05:35,280 --> 00:05:40,920
+tuvo una amigdalitis, está con toda una clínica de una glomerulonefitis post streptocósica y
+
+67
+00:05:40,920 --> 00:05:46,240
+está con el complemento bajo etcétera pero está con una crea de 2 o de 2,5 yo digo aquí
+
+68
+00:05:46,240 --> 00:05:50,560
+hay una glomerulonefitis aguda rápidamente progresiva y en ese caso tiene que biopsiarse
+
+69
+00:05:50,560 --> 00:05:55,600
+igual. O sea en resumen se biopsia casi siempre y la única excepción es que se
+
+70
+00:05:55,600 --> 00:05:59,160
+sospeche esa patología y que el paciente esté bien. Eso es todo nos vemos en los
+
+71
+00:05:59,160 --> 00:06:01,720
+siguientes vídeos con más detalles sobre la glomerulonefitis.

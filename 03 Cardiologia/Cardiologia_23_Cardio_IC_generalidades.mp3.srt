@@ -1,0 +1,715 @@
+1
+00:00:00,000 --> 00:00:06,240
+Hola, ¿cómo están? En este vídeo vamos a dar inicio al tema de insuficiencia
+
+2
+00:00:06,240 --> 00:00:09,640
+cardíaca, recordando que su definición es una caída en el gasto
+
+3
+00:00:09,640 --> 00:00:13,680
+cardíaco o bien un aumento en la presión de fin de diáctore. La otra
+
+4
+00:00:13,680 --> 00:00:18,840
+forma de mencionarlo de una forma más bonita, cierto, es la incapacidad del
+
+5
+00:00:18,840 --> 00:00:22,280
+corazón de mantener un gasto cardíaco adecuado para las necesidades del
+
+6
+00:00:22,280 --> 00:00:26,760
+organismo, o bien hacerlo pero a expensa de mantener elevadas las
+
+7
+00:00:26,760 --> 00:00:30,200
+presiones de fin de diáctore. Las causas más importantes son la
+
+8
+00:00:30,200 --> 00:00:33,440
+cardiopatía coronaria que en la actualidad es la más frecuente, seguido
+
+9
+00:00:33,440 --> 00:00:37,360
+de la cardiopatía hipertensiva que antes era la causa más frecuente pero en el
+
+10
+00:00:37,360 --> 00:00:40,720
+último tiempo el manejo de la hipertensión crónica, cierto, con los
+
+11
+00:00:40,720 --> 00:00:44,160
+distintos fármacos que hay, la ha reducido al menos en la frecuencia
+
+12
+00:00:44,160 --> 00:00:47,760
+relativa, las valbulopatías, las miocardiopatías y la verdad es que
+
+13
+00:00:47,760 --> 00:00:53,040
+muchas otras enfermedades del pericardio, algunas farmacológicas,
+
+14
+00:00:53,040 --> 00:00:56,720
+la miocarditis, etcétera. Por lo mismo un paciente que está con
+
+15
+00:00:56,760 --> 00:01:01,000
+insuficiencia cardíaca es fundamental hacer una historia completa con una
+
+16
+00:01:01,000 --> 00:01:06,200
+anamnesis tanto actual como remota con cierto detalle y hacer un examen
+
+17
+00:01:06,200 --> 00:01:09,520
+físico con mucho detalle igualmente en el sentido que si es que oculto un
+
+18
+00:01:09,520 --> 00:01:13,120
+soplo por ejemplo me oriente inmediatamente a las valbulopatías, si
+
+19
+00:01:13,120 --> 00:01:17,080
+es que viene con consumo crónico de alcohol me orienta a la miocardiopatía
+
+20
+00:01:17,080 --> 00:01:19,800
+dilatada secundaria de consumo de alcohol, si es que viene con
+
+21
+00:01:19,800 --> 00:01:23,200
+antecedentes cardiovasculares lo más probable es que sea una
+
+22
+00:01:23,200 --> 00:01:25,840
+enfermedad coronaria con una cardiopatía coronaria, etcétera.
+
+23
+00:01:25,840 --> 00:01:30,280
+Respecto al estudio, el examen más importante por lejos es el
+
+24
+00:01:30,280 --> 00:01:33,480
+ecocardiograma o ecocardiografía en el sentido en que me suele dar la
+
+25
+00:01:33,480 --> 00:01:37,080
+causa, ejemplo me muestra las valbulopatías, me muestra las
+
+26
+00:01:37,080 --> 00:01:40,920
+miocardiopatías o bien me muestra una zona hipoquinética del corazón
+
+27
+00:01:40,920 --> 00:01:44,920
+que asumo que se infartó y que es una cardiopatía coronaria o me muestra
+
+28
+00:01:44,920 --> 00:01:48,400
+la hipertrofia concéntrica del ventrículo izquierdo de la
+
+29
+00:01:48,400 --> 00:01:51,720
+cardiopatía hipertensiva o de las miocardiopatías hipertróficas
+
+30
+00:01:51,760 --> 00:01:55,080
+por ejemplo. Segundo lugar, el ecocardiograma es muy importante
+
+31
+00:01:55,080 --> 00:01:58,200
+porque me da el pronóstico en el sentido en que la disfunción
+
+32
+00:01:58,200 --> 00:02:02,000
+sistólica, dígase la caída en la fracción de eyección o en la
+
+33
+00:02:02,000 --> 00:02:05,280
+función ventricular, es por lejos el factor pronóstico más
+
+34
+00:02:05,280 --> 00:02:08,600
+importante en estos casos. El test de esfuerzo es un examen que se
+
+35
+00:02:08,600 --> 00:02:12,880
+pide también y que en general me ayuda a buscar la causa
+
+36
+00:02:12,880 --> 00:02:16,200
+coronaria, pero repito, el ecocardiograma es el examen
+
+37
+00:02:16,200 --> 00:02:19,000
+más importante en el estudio de suficiencia cardíaca.
+
+38
+00:02:19,960 --> 00:02:22,720
+Vamos a ver la clínica, que en general es distinto si es una
+
+39
+00:02:22,720 --> 00:02:25,760
+insuficiencia del lado izquierdo del ventrículo izquierdo o del
+
+40
+00:02:25,760 --> 00:02:29,240
+lado derecho y acuérdense que en el lado izquierdo se
+
+41
+00:02:29,240 --> 00:02:32,440
+produce congestión pulmonar, así que los síntomas más
+
+42
+00:02:32,440 --> 00:02:35,360
+importantes son de tipo respiratorio, dígase la
+
+43
+00:02:35,360 --> 00:02:40,080
+dinera de esfuerzo, me canso y me ahogo al caminar o
+
+44
+00:02:40,080 --> 00:02:44,160
+al hacer deporte, la ortomnea que me ahogo al dormir
+
+45
+00:02:44,160 --> 00:02:47,400
+acostado y debo dormir semisentado con varias
+
+46
+00:02:47,400 --> 00:02:50,360
+almohadas y la disnea paroxística nocturna que es que
+
+47
+00:02:50,360 --> 00:02:52,800
+estoy durmiendo y despierto muy ahogado en la mitad de la
+
+48
+00:02:52,800 --> 00:02:55,560
+noche, abro las ventanas, intento que me entre el aire
+
+49
+00:02:55,560 --> 00:02:58,680
+hasta que finalmente ya me recupero. Además, cuando se
+
+50
+00:02:58,680 --> 00:03:02,320
+genera edema, habitualmente se genera edema por la
+
+51
+00:03:02,320 --> 00:03:05,800
+congestión pulmonar, así que tiende al edema pulmonar y
+
+52
+00:03:05,800 --> 00:03:09,240
+como última cosa en algunos casos se produce hipertensión
+
+53
+00:03:09,240 --> 00:03:13,840
+pulmonar secundaria a esta transmisión de la
+
+54
+00:03:13,840 --> 00:03:15,920
+hipertensión desde el ventrículo izquierdo, al
+
+55
+00:03:15,960 --> 00:03:19,200
+aurículo izquierdo y finalmente a las venas pulmonares y
+
+56
+00:03:19,200 --> 00:03:22,000
+los capilares pulmonares, lo cual a largo plazo puede
+
+57
+00:03:22,000 --> 00:03:24,480
+evolucionar igualmente a una insuficiencia del lado
+
+58
+00:03:24,480 --> 00:03:27,800
+derecho también. En el caso de la insuficiencia derecha,
+
+59
+00:03:27,800 --> 00:03:30,000
+los síntomas más importantes son la estenia y la
+
+60
+00:03:30,000 --> 00:03:33,800
+adinamia por el gasto cardiaco insuficiente, cierto? Aparte
+
+61
+00:03:33,800 --> 00:03:37,240
+de esto, se produce la congestión del lado derecho
+
+62
+00:03:37,240 --> 00:03:39,880
+que es congestión de las venas del resto del cuerpo,
+
+63
+00:03:39,880 --> 00:03:43,040
+dígase, se puede ver con la ingurgitación yugular,
+
+64
+00:03:43,120 --> 00:03:46,440
+con edema, pero de las extremidades inferiores, cierto?
+
+65
+00:03:46,440 --> 00:03:49,400
+Aparte de esto, puede haber algo de congestión en el
+
+66
+00:03:49,400 --> 00:03:53,560
+hígado con hepatomegalia, con la hepatitis congestiva,
+
+67
+00:03:53,560 --> 00:03:56,520
+cierto? Que finalmente lleva a la cirrosis cardíaca,
+
+68
+00:03:56,520 --> 00:03:58,600
+así que acuérdense, la insuficiencia cardíaca del
+
+69
+00:03:58,600 --> 00:04:01,600
+lado derecho eventualmente se puede complicar con
+
+70
+00:04:01,600 --> 00:04:04,440
+daño hepático crónico también. La insuficiencia
+
+71
+00:04:04,440 --> 00:04:07,760
+cardíaca global es la que viene con afectación tanto
+
+72
+00:04:07,760 --> 00:04:10,040
+del lado derecho como del lado izquierdo, lo cual se
+
+73
+00:04:10,080 --> 00:04:13,000
+ve ejemplo de la miocardiopatía dilatada desde el
+
+74
+00:04:13,000 --> 00:04:16,800
+inicio, cierto? O bien en una insuficiencia del lado
+
+75
+00:04:16,800 --> 00:04:18,920
+izquierdo, cierto? Que evoluciona luego con la
+
+76
+00:04:18,920 --> 00:04:21,160
+hipertensión pulmonar a una insuficiencia del lado
+
+77
+00:04:21,160 --> 00:04:24,240
+derecho también. En el caso de la insuficiencia
+
+78
+00:04:24,240 --> 00:04:27,280
+cardíaca izquierda, a su vez hay de dos tipos,
+
+79
+00:04:27,280 --> 00:04:30,240
+la condifusión sistólica que es la más severa en la
+
+80
+00:04:30,240 --> 00:04:33,600
+cual hay una caída en la fracción de eyección en
+
+81
+00:04:33,600 --> 00:04:36,280
+la cual hay una disminución de la capacidad
+
+82
+00:04:36,280 --> 00:04:39,200
+del ventrículo de efectivamente bombear la sangre
+
+83
+00:04:39,280 --> 00:04:42,320
+hacia afuera del corazón, versus las condifusiones
+
+84
+00:04:42,320 --> 00:04:44,680
+diastólicas en la cual es un ventrículo un poco más
+
+85
+00:04:44,680 --> 00:04:48,000
+rígido que cuesta llenarlo por si acaso. En el caso
+
+86
+00:04:48,000 --> 00:04:51,040
+de la difusión sistólica es muy frecuente que
+
+87
+00:04:51,040 --> 00:04:53,440
+evolucione a cardiomigalia, a un corazón que se
+
+88
+00:04:53,440 --> 00:04:56,160
+me va dilatando justamente porque se va quedando
+
+89
+00:04:56,160 --> 00:05:00,200
+con más sangre de la que puede sacar y evoluciona
+
+90
+00:05:00,200 --> 00:05:02,880
+con una hipertrofia pero de tipo excéntrica,
+
+91
+00:05:02,880 --> 00:05:06,120
+dígase con un corazón que se ve grande. En cambio
+
+92
+00:05:06,120 --> 00:05:08,360
+la difusión diastólica habitualmente viene sin
+
+93
+00:05:08,360 --> 00:05:10,880
+cardiomigalia y si es que hay hipertrofia es
+
+94
+00:05:10,880 --> 00:05:13,600
+concéntrica, dígase con las paredes gruesas,
+
+95
+00:05:13,600 --> 00:05:16,880
+pero la silueta cardíaca se ve habitualmente normal.
+
+96
+00:05:16,880 --> 00:05:19,560
+Si es que viene con algún ruido adicional,
+
+97
+00:05:19,560 --> 00:05:22,280
+la difusión sistólica suele venir con un tercer
+
+98
+00:05:22,280 --> 00:05:25,560
+ruido o un R3, la difusión diastólica en
+
+99
+00:05:25,560 --> 00:05:28,960
+cambio suele venir con un cuarto ruido o R4
+
+100
+00:05:28,960 --> 00:05:31,480
+y finalmente en la difusión sistólica como
+
+101
+00:05:31,480 --> 00:05:33,720
+hay cardiomigalia, eso se puede ver en el
+
+102
+00:05:33,720 --> 00:05:36,560
+examen físico como el desplazamiento del choque
+
+103
+00:05:36,600 --> 00:05:40,760
+de la punta. Ambas pueden venir con un
+
+104
+00:05:40,760 --> 00:05:44,360
+ecocardiograma que muestre hipertrofia, solamente
+
+105
+00:05:44,360 --> 00:05:46,920
+que en el caso de la difusión sistólica es una
+
+106
+00:05:46,920 --> 00:05:49,720
+hipertrofia excéntrica y en la diastólica tiende
+
+107
+00:05:49,720 --> 00:05:53,840
+a ser concéntrica, pero en el electrocardiograma
+
+108
+00:05:53,840 --> 00:05:57,640
+en cambio ambas hipertrofias, tanto la excéntrica
+
+109
+00:05:57,640 --> 00:05:59,920
+como la concéntrica, se ven como signos de
+
+110
+00:05:59,920 --> 00:06:02,840
+hipertrofia en el ventrículo izquierdo y al
+
+111
+00:06:02,840 --> 00:06:06,240
+mismo tiempo en ambos casos se puede asociar
+
+112
+00:06:06,240 --> 00:06:08,680
+a la hipertrofia de la aurícula izquierda también,
+
+113
+00:06:08,680 --> 00:06:11,480
+ya sea porque el ventrículo queda con mucha
+
+114
+00:06:11,480 --> 00:06:14,160
+sangre y no se saca bien o ya sea porque a la
+
+115
+00:06:14,160 --> 00:06:17,000
+aurícula le cuesta inyectar la sangre al
+
+116
+00:06:17,000 --> 00:06:18,960
+ventrículo izquierdo, o sea, que quede bien
+
+117
+00:06:18,960 --> 00:06:21,680
+claro las alteraciones del electrocardiograma
+
+118
+00:06:21,680 --> 00:06:23,640
+no me diferencia la difusión sistólica de
+
+119
+00:06:23,640 --> 00:06:26,080
+la diastólica que ahí se hace la diferencia
+
+120
+00:06:26,080 --> 00:06:28,880
+con el ecocardiograma fundamentalmente. Vamos
+
+121
+00:06:28,880 --> 00:06:31,680
+a ver la clasificación de la insuficiencia
+
+122
+00:06:32,600 --> 00:06:36,240
+La etapa uno, según la capacidad funcional
+
+123
+00:06:36,240 --> 00:06:38,640
+que son los síntomas, es la que viene sin
+
+124
+00:06:38,640 --> 00:06:41,960
+dignea. La etapa dos es la que viene con
+
+125
+00:06:41,960 --> 00:06:43,760
+dignea, pero de grandes esfuerzos tiene que
+
+126
+00:06:43,760 --> 00:06:46,680
+caminar varias cuadras para que se ahoyen.
+
+127
+00:06:46,680 --> 00:06:49,040
+La grado tres es la que viene con dignea
+
+128
+00:06:49,040 --> 00:06:52,560
+de pequeños esfuerzos, ejemplo al peinarse,
+
+129
+00:06:52,560 --> 00:06:54,840
+al cocinar, al caminar dentro de la casa
+
+130
+00:06:54,840 --> 00:06:58,480
+ya le falta el aire. La capacidad funcional
+
+131
+00:06:58,480 --> 00:07:00,520
+cuatro, en cambio, es la que ya viene con
+
+132
+00:07:00,520 --> 00:07:03,880
+una dignea de reposo, cierto, que impide
+
+133
+00:07:03,880 --> 00:07:07,040
+hasta cierto grado el realizar actividad
+
+134
+00:07:07,040 --> 00:07:10,400
+física. Por otro lado está la clasificación
+
+135
+00:07:10,400 --> 00:07:12,320
+de la insuficiencia cardíaca propiamente
+
+136
+00:07:12,320 --> 00:07:15,160
+tal que va desde la A hasta la D, en
+
+137
+00:07:15,160 --> 00:07:17,760
+cambio la anterior era la clasificación
+
+138
+00:07:17,760 --> 00:07:19,720
+de la insuficiencia cardíaca según su
+
+139
+00:07:19,720 --> 00:07:21,440
+sintomatología, según su capacidad
+
+140
+00:07:21,440 --> 00:07:23,920
+funcional. En este caso la A viene
+
+141
+00:07:23,920 --> 00:07:25,480
+solamente con factores de riesgo,
+
+142
+00:07:25,480 --> 00:07:28,640
+ejemplo, viene con enfermedad coronaria
+
+143
+00:07:28,680 --> 00:07:31,120
+o con hipertensión arterial, pero nada
+
+144
+00:07:31,120 --> 00:07:33,280
+más. La B ya viene con cambios
+
+145
+00:07:33,280 --> 00:07:35,000
+estructurales, ejemplo, en la
+
+146
+00:07:35,000 --> 00:07:38,400
+hipertensión ya se ve que las paredes
+
+147
+00:07:38,400 --> 00:07:39,800
+están un poquito más gruesas, por
+
+148
+00:07:39,800 --> 00:07:43,400
+ejemplo, o en el caso de un paciente
+
+149
+00:07:43,400 --> 00:07:45,920
+coronario ya tuvo un infarto, cierto,
+
+150
+00:07:45,920 --> 00:07:48,560
+y queda con una onda Q o con alguna
+
+151
+00:07:48,560 --> 00:07:50,120
+alteración en el ecocardio con una
+
+152
+00:07:50,120 --> 00:07:52,920
+zona hipoquinética. La etapa C, en
+
+153
+00:07:52,920 --> 00:07:54,760
+este caso, ya viene con síntomas, diga
+
+154
+00:07:54,760 --> 00:07:56,320
+se viene con la disnea, la
+
+155
+00:07:56,320 --> 00:07:57,760
+ortomnea, la disnea profisística
+
+156
+00:07:57,760 --> 00:08:00,880
+nocturna, etcétera. En la etapa D ya
+
+157
+00:08:00,880 --> 00:08:02,080
+son síntomas muy intensos,
+
+158
+00:08:02,080 --> 00:08:03,920
+refractarios habitualmente al
+
+159
+00:08:03,920 --> 00:08:06,600
+tratamiento. Fíjense, la etapa 1
+
+160
+00:08:06,600 --> 00:08:09,680
+habitualmente cae dentro, o sea la
+
+161
+00:08:09,680 --> 00:08:11,600
+etapa 1 de la capacidad funcional
+
+162
+00:08:11,600 --> 00:08:14,720
+cae dentro de la A o de la B de la
+
+163
+00:08:14,720 --> 00:08:16,520
+clasificación que está abajo. La
+
+164
+00:08:16,520 --> 00:08:18,840
+etapa 2, 3 y 4 habitualmente están
+
+165
+00:08:18,840 --> 00:08:20,960
+dentro de la C y la etapa 4
+
+166
+00:08:20,960 --> 00:08:23,120
+refractaria, cierto, es la que cae
+
+167
+00:08:23,120 --> 00:08:25,520
+dentro de la D. O sea, fíjense, no
+
+168
+00:08:25,520 --> 00:08:27,080
+son equivalentes a ambas
+
+169
+00:08:27,080 --> 00:08:29,080
+clasificaciones, una según el tipo de
+
+170
+00:08:29,080 --> 00:08:31,400
+síntomas y la otra en cambio incluye
+
+171
+00:08:31,400 --> 00:08:33,800
+los síntomas, pero incluye también la
+
+172
+00:08:33,800 --> 00:08:35,680
+parte A y B que son pacientes
+
+173
+00:08:35,680 --> 00:08:38,000
+totalmente asintomáticos y la
+
+174
+00:08:38,000 --> 00:08:38,960
+diferencia dice que tiene
+
+175
+00:08:38,960 --> 00:08:40,800
+alteraciones ya anatómicas,
+
+176
+00:08:40,800 --> 00:08:42,680
+histológicas o no. Y bueno, eso es
+
+177
+00:08:42,680 --> 00:08:43,800
+todo lo que hay que saber por ahora.
+
+178
+00:08:43,800 --> 00:08:45,040
+En los siguientes temas vamos a
+
+179
+00:08:45,040 --> 00:08:48,040
+entrar a más detalles, que estén bien.

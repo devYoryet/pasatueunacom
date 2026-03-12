@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:09,890
+Hola, ¿cómo están? Hablemos de la clasificación del shock, como se dice en inglés, y acordémonos
+
+2
+00:00:09,890 --> 00:00:14,210
+que hay de distintos tipos. Por un lado está el hipovolémico, el cardiogénico y finalmente
+
+3
+00:00:14,210 --> 00:00:19,090
+el vasodilatador. Y es súper importante hacer la diferencia entre estos tres, dado
+
+4
+00:00:19,090 --> 00:00:22,890
+que se manejan de manera radicalmente distinta. A modo de ejemplo, como para que quede muy
+
+5
+00:00:22,890 --> 00:00:27,570
+claro, en el hipovolémico lo más importante es darle zorofisiológico, el reponer
+
+6
+00:00:27,570 --> 00:00:31,690
+la bolemia. En cambio, en el cardiogénico, si yo le doy zorofisiológico, lo puedo
+
+7
+00:00:31,690 --> 00:00:36,970
+matar de un edema pulmonar. Ahora, en general, en los pacientes que están invadidos, que
+
+8
+00:00:36,970 --> 00:00:40,690
+están con un catéter de swangans, por ejemplo, o al menos con un catéter venoso
+
+9
+00:00:40,690 --> 00:00:47,850
+central, yo le puedo medir la PVC, o presión venosa central, más la PCP, o presión
+
+10
+00:00:47,850 --> 00:00:53,650
+de capilar pulmonar. Y finalmente, en algunos casos, se puede medir también la resistencia
+
+11
+00:00:53,650 --> 00:00:58,130
+vascular periférica. Y con esos tres parámetros, en particular con esos dos
+
+12
+00:00:58,250 --> 00:01:04,090
+iniciales, yo puedo hacer la diferencia entre estos tres tipos de shock. En el caso
+
+13
+00:01:04,090 --> 00:01:10,730
+del hipovolémico, lo más importante, la PVC está disminuida y las presiones de
+
+14
+00:01:10,730 --> 00:01:15,810
+la parte venosa, ya sea la parte de las venas comunes y corrientes, o de las venas
+
+15
+00:01:15,810 --> 00:01:19,730
+pulmonares y de los capilares pulmonares, están todas bajas en el sentido en que
+
+16
+00:01:19,730 --> 00:01:25,250
+le falta bolemia. Y obviamente se produce una respuesta con vasoconstricción periférica
+
+17
+00:01:25,250 --> 00:01:28,770
+y con aumento de la resistencia vascular periférica. En el caso del
+
+18
+00:01:28,770 --> 00:01:34,010
+cardiogénico, en cambio, estas presiones, la PVC y la PCP, están elevadas en el
+
+19
+00:01:34,010 --> 00:01:38,410
+sentido en que el corazón no es capaz de sacar la sangre desde los sistemas
+
+20
+00:01:38,410 --> 00:01:43,490
+venosos y aumenta, en particular, la PCP, por si acaso, la presión de
+
+21
+00:01:43,490 --> 00:01:47,690
+capilar pulmonar. Y se produce también una vasoconstricción periférica como
+
+22
+00:01:47,690 --> 00:01:53,050
+una forma de reaccionar y de mantener estas presiones sanguíneas un poquito
+
+23
+00:01:53,090 --> 00:01:56,970
+más alta, así que también viene con aumento de la resistencia vascular
+
+24
+00:01:56,970 --> 00:02:01,690
+periférica. En el caso del vasodilatador, que incluye el choxéptico, el
+
+25
+00:02:01,690 --> 00:02:06,290
+anafiláctico y el medular, lo primero que ocurre en cambio es una caída de
+
+26
+00:02:06,290 --> 00:02:11,730
+la resistencia vascular periférica y eso es por la vasodilatación masiva
+
+27
+00:02:11,730 --> 00:02:16,450
+que se produce, cierto? Y finalmente eso se traduce en una caída en las
+
+28
+00:02:16,450 --> 00:02:20,490
+presiones venosas también, tanto de la presión venosa central como la
+
+29
+00:02:20,490 --> 00:02:25,850
+presión venosa en la parte pulmonar. Ahora, hay que saber qué es lo más
+
+30
+00:02:25,850 --> 00:02:30,530
+importante de cada uno de ellos y en el hipovolémico es que la PVC está
+
+31
+00:02:30,530 --> 00:02:36,050
+baja. En el caso del cardiogénico que la PCP está elevada y finalmente en el
+
+32
+00:02:36,050 --> 00:02:40,050
+vasodilatador, la gran diferencia que tiene con el hipovolémico es
+
+33
+00:02:40,050 --> 00:02:42,450
+justamente que la resistencia vascular periférica está
+
+34
+00:02:42,450 --> 00:02:46,570
+disminuida, aunque muchas veces no se mide y la única forma es ver que
+
+35
+00:02:46,570 --> 00:02:50,050
+simplemente no responde a volumen y me quedo con las otras dos cosas
+
+36
+00:02:50,050 --> 00:02:53,770
+como para poder diferenciar entre el hipovolémico y el cardiogénico.
+
+37
+00:02:53,770 --> 00:02:58,290
+Ahora, hay que saber los valores normales al menos de la PVC y de la
+
+38
+00:02:58,290 --> 00:03:03,650
+PCP. En el caso de la PVC es menor a 8 milímetros de mercurio así que si
+
+39
+00:03:03,650 --> 00:03:08,810
+es que está abajo de 8 yo digo aún puede ser hipovolémico y le sigo
+
+40
+00:03:08,810 --> 00:03:12,130
+dando volumen, cierto? En el caso que esté arriba de 8 lo más probable es
+
+41
+00:03:12,130 --> 00:03:16,730
+que ya no sea un shock hipovolémico, cierto? Y si es que está
+
+42
+00:03:16,730 --> 00:03:21,690
+arriba de 18 la PCP en ese caso estoy seguro que es de tipo
+
+43
+00:03:21,690 --> 00:03:25,610
+cardiogénico y ya no se le da al suero fisiológico. Ahora, ¿cuál es el
+
+44
+00:03:25,610 --> 00:03:30,210
+tratamiento de cada uno de ellos? En el hipovolémico obviamente reponer la
+
+45
+00:03:30,210 --> 00:03:33,730
+bolemia con el suero fisiológico, con ringer lactato, con algún
+
+46
+00:03:33,730 --> 00:03:37,810
+cristaloide, cierto? En los casos en que no funciona eventualmente se va
+
+47
+00:03:37,810 --> 00:03:41,290
+de segunda línea con los coloides. En el caso del cardiogénico las
+
+48
+00:03:41,290 --> 00:03:44,610
+reglas generales que se maneja con drogas vasoactivas, igual que en el
+
+49
+00:03:44,610 --> 00:03:49,010
+vasodilatador en que se busca justamente la vasoconstricción, en el
+
+50
+00:03:49,010 --> 00:03:53,130
+cardiogénico en cambio las drogas vasoactivas intentan aumentar la
+
+51
+00:03:53,130 --> 00:03:57,490
+fusión cardíaca y obviamente en los tres casos además hay que manejar
+
+52
+00:03:57,490 --> 00:04:00,770
+activamente la causa. Ejemplo, si está con una hemorragia que le está
+
+53
+00:04:00,770 --> 00:04:05,290
+causando la hipovolémia, cierto? O con una sepsis que está produciendo la
+
+54
+00:04:05,290 --> 00:04:10,090
+vasodilatación hay que manejar esas causas de base también. Ahora, ¿con
+
+55
+00:04:10,090 --> 00:04:13,410
+qué droga vasoactiva se maneja cada uno? Pues en el caso del
+
+56
+00:04:13,410 --> 00:04:18,290
+anafiláctico, las reglas generales que sea con adrenalina, ejemplo 0,3 a 0,5
+
+57
+00:04:18,290 --> 00:04:21,890
+milígramos intramuscular. En el caso del choc séptico, las reglas generales
+
+58
+00:04:21,890 --> 00:04:25,010
+que se maneja con una bomba de noradrenalina que también se llama
+
+59
+00:04:25,010 --> 00:04:29,810
+norepinefrina. En el caso del medular se maneja exactamente igual, en el
+
+60
+00:04:29,810 --> 00:04:33,170
+sentido que hay una pérdida de tono simpático y eso hace que
+
+61
+00:04:33,170 --> 00:04:37,010
+finalmente haya que manejarlo de esa forma. Y finalmente en el
+
+62
+00:04:37,010 --> 00:04:40,570
+cardiogénico las drogas vasoactivas que más actúan a nivel del
+
+63
+00:04:40,570 --> 00:04:45,650
+corazón son la noradrenalina también y además la dobutamina. Bueno, eso es
+
+64
+00:04:45,650 --> 00:04:49,890
+todo lo que hay que saber. Nos vemos en los siguientes temas que estén bien.

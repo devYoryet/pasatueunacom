@@ -1,0 +1,591 @@
+En esta clase vamos a hablar del tratamiento de la infección urinaria y
+
+es algo que alguien me puede decir muy sencillo, es con antibiótico, pero la
+
+verdad es que está lleno de detalles y todos los detalles son importantes que
+
+saberlos por completo, así que pongan mucha atención.
+
+Empecemos recordando la etiología, en el sentido en que me permite decidir
+
+qué antibiótico empírico le voy a dejar, y en resumen la causa de la
+
+hitum es la Echidicha coli. El gran gran porcentaje de los casos es por
+
+esta bacteria, así arriba a veces del 70 incluso 90 por ciento según la serie
+
+que yo revise, y luego de eso vienen otras entero bacterias que
+
+afortunadamente responden a los mismos antibióticos que la Echidicha coli,
+
+dígase el proteus, la clebsiella, el entero bácter, etcétera, o sea otras
+
+bacterias gram negativos del tipo entero bacteria. Ahora, no son las
+
+únicas, en algunas oportunidades mucho más raro aparecen otro tipo de
+
+gram negativos que se llaman los no fermentadores, como la
+
+pseudomonas originosas o el acinetobácter baumanis, y finalmente el
+
+entero coco que sería como el gran positivo que eventualmente genera
+
+hitum. Se podría sumar a esto si ustedes quieren el estafilococo
+
+no aureus, como los estafilococo epidermidis, por ejemplo, o
+
+cobulasa negativa. Como algo importante, la pseudomonas, el
+
+acinetobácter y el entero coco se ven con alguna frecuencia en las
+
+infecciones intrahospitalarias, así que en una ITU, en contexto
+
+intrahospitalario o en un paciente que está institucionalizado con una
+
+sonda, por ejemplo, eventualmente tienen que ser cubiertos, de lo
+
+contrario, cubrir Echidicha coli y es suficiente. Ahora, en qué momento yo
+
+empiezo el tratamiento antibiótico y recordemos que el urocultivo demora
+
+dos días y la pregunta es, me voy a esperar dos días a que esté el
+
+resultado para iniciarlo o bien lo inicio de inmediato, y la verdad es
+
+que si yo tengo una clínica de una infección urinaria, le inicio los
+
+antibióticos de inmediato y simplemente lo sito control en dos o
+
+en tres días más y ahí veo cómo evolucionado desde el punto de vista
+
+clínico, que lo habitual es que vaya mejorando en dos días y
+
+además vemos el resultado del urocultivo como para ver, número
+
+uno, si es que tenía ITU o no, número dos, por qué bacteria era y si es
+
+que el tratamiento antibiótico que yo le había dejado es un
+
+tratamiento antibiótico correcto que cubre a esa bacteria en
+
+particular o bien si es que debo hacer algún ajuste. Si es que es una
+
+mujer joven, sana, con una clínica de cistitis de ITU baja no
+
+complicada, la verdad es que incluso puedo partirle antibióticos
+
+sin pedirle urocultivo, al menos eso es lo que dice las
+
+recomendaciones internacionales y esta, que si viene es el caso
+
+más frecuente, es un caso bien particular dentro de todas las
+
+otras posibilidades, sería la única excepción en la cual yo
+
+no pido urocultivo, sino que directamente voy y trato y el
+
+urocultivo se pide únicamente si es que no responde al
+
+tratamiento antibiótico en tres días. En el caso de la ITU
+
+baja, ¿qué antibióticos le puedo dar? Y hay que saberlos
+
+todos, número uno, la nitrofurantoína, es un fármaco
+
+que se usa habitualmente solo para ITU y se usa porque es
+
+bastante eficaz, viene con una tasa de resistencia muy, muy
+
+bajita y se concentra bien en la vejiga, no en los riñones
+
+pero a nivel de la vejiga se concentra súper bien y se puede
+
+manejar por cinco a siete días. Repito, es un muy buen
+
+antibiótico para la ITU. En segundo lugar, las quinolonas,
+
+el ciprofloxacino es el que más se usa, sirve igualmente
+
+el leofloxacino aunque viene con una cobertura más amplia,
+
+así que repito, el ciprofloxacino suele ser de
+
+elección, en este caso se deja solamente por tres
+
+días y debería mejorar por completo. Las céfalosporinas
+
+me sirven en general todas, ejemplo el cefadroxilo o la
+
+cefradina dentro de las de primera generación que son las
+
+que habitualmente se dejan, aparte el cefuroximo de
+
+segunda generación, la cefixima o cefixime de tercera
+
+generación entre otras, todas vía oral obviamente y
+
+nuevamente por tres días aunque algunos dicen déjelo
+
+por tres hasta cinco o hasta siete días. La fosfomicina que
+
+se usa muy poco en Chile al menos pero se puede usar
+
+en algunos otros países, es que está disponible,
+
+viene con la gracia que se usa solamente una vez,
+
+una monodosis de tres gramos de fosfomicina y se acaba el
+
+problema. Y finalmente me sirve también el cotrimoxazol
+
+forte. Ahora, en la práctica lo que más se usa son esas
+
+tres, dígase la mitoforantoína, el ciprofloxacino
+
+y el cefadroxino son la base del tratamiento de la
+
+itubaja y se puede usar cualquiera de ellos en un
+
+paciente que no es alérgico por ejemplo. Ahora, ¿qué pasa
+
+con el moxifloxacino que es esta quinolona de tercera
+
+generación en el sentido en que viene con una cobertura un
+
+poquito más más amplia, cierto? Tiene lo malo que
+
+no se concentra bien en orina así que no sirve para
+
+la itub. Aunque su cobertura es más grande que
+
+la del leo y más grande que la del cipro, que la del
+
+leofoxacino es mejor que la del ciprofoxacino también.
+
+En este caso para Itub, el moxy no me sirve porque no
+
+se concentra bien y por lo tanto solamente se usa para
+
+infecciones de piel y partes blandas y para algunas
+
+neumonías. En el caso de la amoxicilina, la verdad si
+
+bien puede cubrir algo hecherichacoli, su cobertura
+
+no suele ser tan buena así que no se recomienda, se
+
+recomiendan más los otros farmacos que ya se
+
+mencionaron, aunque con ácido clavulánico es un
+
+tratamiento aceptable que se usa en general en algún
+
+niño, por ejemplo, que viene con intolerancia o
+
+con alergia a alguno de los otros medicamentos o bien
+
+cuando no tengo ningún otro fármaco más, eventualmente
+
+sí le puedo dejar amoxicilina con ácido
+
+clavulánico. Pero repito, no es de elección
+
+tampoco. El metronidazol que cubre anerovios, la
+
+verdad es que no me sirve porque acuérdense los
+
+anerovios no están dentro de la lista de bacterias
+
+que habitualmente genera anitum. En el caso de una
+
+piélone fritis, si es que el paciente o la paciente
+
+como mayor frecuencia son mujeres, ¿cierto? Está
+
+bien. En ese caso la puedo manejar con fármacos
+
+por vía oral. Los fármacos son prácticamente
+
+los mismos aunque cambia uno, que es la
+
+nitrofrantoína que aquí no se puede dar. Se
+
+usan las quinolonas como el ciprofloxacino o el
+
+levofloxacino, o bien las cefalosporinas, que
+
+nuevamente me sirven todas, aunque en este caso
+
+que hay una piélone fritis, se tiende a
+
+recomendar un poco más las de tercera o de
+
+segunda generación, dígase la cefixima o el
+
+cefuroxismo, ¿cierto? Y en este caso ya no se
+
+deja por tres días, sino que se deja
+
+habitualmente por siete días. El cutrimoxazol
+
+fuerte por siete días es una alternativa
+
+también en los pacientes que por alguna
+
+razón no pueden tomar ni las quinolonas ni
+
+las cefalosporinas, que repito esos dos son el
+
+tratamiento base de la piélone fritis que se
+
+manejan de manera ambulatoria. ¿Qué pasa con
+
+la nitrofrantoína? Dijimos que no, porque no
+
+se concentra bien a nivel renal, así que es
+
+un excelente fármaco para la itubaja, para
+
+la cistitis, pero es un pésimo fármaco para
+
+la piélone fritis y no está recomendado. En
+
+el caso de una piélone fritis grave que
+
+requiera de hospitalización, pues las
+
+quinolonas y las cefalosporinas se pueden
+
+dar por vía endovenosa también. Existe el
+
+cipro endovenoso, el leofloxacino endovenoso,
+
+la cefraxona, el cefotaxismo, etcétera, por
+
+vía endovenoso, pero en la práctica dado
+
+el precio, lo que se usa con mayor
+
+frecuencia son las cefalosporinas, en
+
+específico la cefraxona, que se da una
+
+única dosis al día, así que es relativamente
+
+fácil de dar. Los aminoglycosidos como
+
+la gentamicina, por ejemplo, la tobramicina,
+
+la canamicina, la amicacina, son una buena
+
+alternativa también, aunque acuérdense que
+
+tienen más efectos adversos, en particular
+
+son nefrotóxicos y ototóxicos, así que se
+
+dejan en pacientes que son alérgicos a
+
+las cefalosporinas, por ejemplo, y que no
+
+tengo las quinolonas endovenosas porque
+
+son muy caras. Y finalmente se dejan
+
+también los antibióticos antiseudomonas, en
+
+particular cuando tengo riesgo de una
+
+infección por seudomonas. Lo mismo ocurre
+
+en una infección urinaria baja o en una
+
+paleonefitis ambulatoria, en ese caso
+
+se deja algo que cubra a seudomonas y lo
+
+más frecuente para las que está bien es
+
+el mismo ciprofloxacino o el leofloxacino.
+
+O bien se puede dejar la cefoperasona
+
+también que se puede dar por vía oral.
+
+Ahora, en este caso de una
+
+paleonefitis más grave, seguramente le
+
+voy a dejar algún fármaco más
+
+específico y más agresivo en contra
+
+de la seudomonas. Si yo tengo un
+
+paciente que está con una paleonefitis
+
+demasiado grave que ya está en la UCI,
+
+en ese caso sí o sí le dejo
+
+carapenémicos para cubrir a la
+
+seudomonas bien y para cubrir a otras
+
+bacterias que pueden ser eventualmente
+
+resistentes como alguna bacteria ble
+
+por ejemplo, una clebsiela ble, más
+
+vancomicina para cubrir al enterococo
+
+y a los estafilococos coagulasa
+
+negativos que eventualmente pueden
+
+ser resistentes también. O sea, ahí
+
+quedan con dos fármacos y dentro de
+
+las alternativas se puede dejar
+
+algún otro fármaco con una buena
+
+cobertura antiseudomonas más vancomicina
+
+y aquí vamos a hacer un pequeño
+
+recuerdo de infectología, ¿cierto?
+
+¿Cuáles son los clásicos fármacos
+
+antiseudomonas? Pues me sirven los
+
+carapenémicos, el imipenem y el
+
+meropenem. No me sirve el ertapenem
+
+por si acaso. Sirven algunas
+
+cefalosporinas, no todas, en
+
+particular la cefoperasona y la
+
+ceftasidima que son las de tercera
+
+generación con acción antiseudomonas
+
+y el cefepime que es de cuarta
+
+generación, más algunas más modernas
+
+que hay también. Me sirven las
+
+penicilinas con efecto antiseudomona
+
+como la ticarcilina y la piperacilina
+
+que habitualmente se dan con tazobactam
+
+además. Me sirven algunos
+
+aminolicócidos, dígase la amicacina
+
+y la tobramicina en particular. Vienen
+
+con una mejor acción antiseudomona
+
+que la gentamicina y finalmente me
+
+sirven las tinoleonas, en
+
+particular el leofloxacino, aunque el
+
+cirro igualmente le pega de
+
+alguna forma no menor a la
+
+cefepime. Finalmente veamos este
+
+tema de bacteriuria asintomática.
+
+En este caso habíamos dicho que era
+
+un urocultivo que estaba positivo pero
+
+sin síntomas y este no requiere
+
+tratamiento antibiótico. La única
+
+excepción es durante el embarazo en
+
+el cual sí hay que darle
+
+antibióticos que se pueden dar en
+
+el embarazo y la pregunta más
+
+importante ahí es por qué le
+
+pidieron el urocultivo. Uno no pide
+
+urocultivos a los pacientes que
+
+están asintomáticos porque si es
+
+que me sale positivo el diagnóstico
+
+no va a ser una ITU sino que va a
+
+ser justamente una bacteriuria
+
+asintomática y eso da igual si el
+
+paciente está hospitalizado, si está
+
+con sonda, lo que sea la única razón
+
+importante, hay otras que son muy
+
+específicas y que no hay que
+
+saberlo pero la única importante
+
+para el pedir un urocultivo de
+
+screening es el embarazo dado que
+
+ahí sí se tratan las bacteriuras
+
+asintomáticas. Ahora, ¿qué era la
+
+piuria aséptica que no hay que
+
+confundirlo con la bacteriuria
+
+asintomática? Esto es algo
+
+totalmente distinto. Aquí yo tengo
+
+un urocultivo que está negativo, o sea
+
+no hay una ITU pero sí tengo
+
+piuria, hay un sedimento que está
+
+alterado, o sea, sedimento
+
+positivo pero con urocultivo que
+
+está negativo y la importancia
+
+acá es que yo estoy obligado a
+
+descartar otras causas de
+
+piuria como ejemplo la tuberculosis
+
+entre otras, la enfermedad de
+
+Kawasaki por ejemplo, la nefritis
+
+interticial, etcétera, hay
+
+muchas causas pero la tuberculosis
+
+es la clásica que se enseña.
+
+Finalmente, ¿qué pasa con una
+
+piel o nefritis que no responde
+
+al tratamiento antibiótico que
+
+hago con esta paciente? Y lo
+
+primero es, les debo pedir una
+
+ecografía renal en el sentido en
+
+que estoy obligado a ir a
+
+descartar complicaciones, en
+
+particular, abscesos que
+
+requieran eventualmente de un
+
+drenaje quirúrgico o por
+
+pulsión que es la forma en
+
+que habitualmente se drenan
+
+actualmente los abscesos y
+
+segundo lugar puede estar
+
+complicada con una litiasis
+
+que esté obstruyendo y en ese
+
+caso estoy obligado a
+
+desobstruir habitualmente con
+
+la instalación de un píctel
+
+o catéter doble J y si es que
+
+no lo puedo pasar hay que
+
+desobstruir con una nefrostomía
+
+percutánea pero en el fondo
+
+no puede quedar así sin
+
+drenaje ese riñón que está
+
+infectado y en segundo lugar
+
+hay que ver el urocultivo en
+
+búsqueda de resistencia
+
+cierto de que el antibiógrama
+
+me haya mostrado que no estoy
+
+dando una buena cobertura y en
+
+ese caso debo ajustar los
+
+antibióticos. Como cosa final
+
+una vez que descarté estas dos
+
+cosas es raro que no responda
+
+y lo que se suele hacer es que
+
+se cambia a un tratamiento
+
+endovenoso con septacción
+
+endovenosa pero repito lo más
+
+importante siempre es la
+
+ecografía renal y bueno eso
+
+es todo nos vemos en los
+
+siguientes temas que estén
+
+bien ya saben a aprenderse
+
+con todos los detalles el
+
+manejo de la ITU.

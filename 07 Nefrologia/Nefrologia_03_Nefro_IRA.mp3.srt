@@ -1,0 +1,411 @@
+1
+00:00:00,000 --> 00:00:06,790
+Hola, hola, ¿cómo están? Siguiendo con las alteraciones hidroelectrolíticas,
+
+2
+00:00:06,790 --> 00:00:09,710
+veamos las alteraciones del potasio, en específico su manejo,
+
+3
+00:00:09,710 --> 00:00:14,310
+partiendo por la hiperpotasemia, que es lo mismo que la hipercalemia,
+
+4
+00:00:14,310 --> 00:00:18,710
+y recordemos que dentro de las causas más importantes están los fármacos,
+
+5
+00:00:18,710 --> 00:00:21,510
+que hay que saber qué fármacos son, más la insuficiencia renal,
+
+6
+00:00:21,510 --> 00:00:25,350
+tanto crónica como aguda, en el sentido que vimos que la hipercalemia
+
+7
+00:00:25,350 --> 00:00:28,310
+era una de las complicaciones más importantes de la insuficiencia renal.
+
+8
+00:00:28,310 --> 00:00:31,030
+¿Qué fármacos dijimos que había que saberlo?
+
+9
+00:00:31,030 --> 00:00:36,030
+Los yecas, los arados, los betabloqueantes, los zaines también,
+
+10
+00:00:36,030 --> 00:00:39,270
+y la espirulina lactona y otros diuréticos ahorradores de potasio.
+
+11
+00:00:39,270 --> 00:00:43,190
+Y es súper importante saber que todos ellos pueden producir hipercalemia
+
+12
+00:00:43,190 --> 00:00:46,190
+y que con mucha frecuencia lo hacen, de hecho un paciente con una falla renal,
+
+13
+00:00:46,190 --> 00:00:49,350
+por ejemplo, es frecuente que esté con yecas o que esté con yecas
+
+14
+00:00:49,350 --> 00:00:52,270
+más alguna otra cosa con espirulina lactona, por ejemplo,
+
+15
+00:00:52,270 --> 00:00:55,390
+o alguien con una insuficiencia cardiaca, igualmente que esté con yecas,
+
+16
+00:00:55,390 --> 00:00:58,950
+con aspirina, con el carbidilol y con la espirulina lactona,
+
+17
+00:00:58,950 --> 00:01:00,750
+así que el riesgo se dispara.
+
+18
+00:01:00,750 --> 00:01:05,030
+El tratamiento de la hipercalemia, por lo general, si es que es leve,
+
+19
+00:01:05,030 --> 00:01:07,030
+va a ser el manejo de la causa,
+
+20
+00:01:07,030 --> 00:01:10,310
+digas, ajustar el fármaco, agregar eventualmente
+
+21
+00:01:10,310 --> 00:01:11,990
+algún otro fármaco que baje el potasio,
+
+22
+00:01:11,990 --> 00:01:14,870
+como los diuréticos no ahorradores de potasio,
+
+23
+00:01:14,870 --> 00:01:16,310
+como la steacida, la furosemida,
+
+24
+00:01:16,310 --> 00:01:20,070
+eventualmente le puedo dejar también una dieta baja en potasio.
+
+25
+00:01:20,070 --> 00:01:22,830
+Y eventualmente se indica a los pacientes con falla renal, por ejemplo.
+
+26
+00:01:22,830 --> 00:01:25,510
+Si es que ese vera, en cambio, sigue un orden,
+
+27
+00:01:25,510 --> 00:01:27,230
+y hay que saberlo, y les adelanto,
+
+28
+00:01:27,350 --> 00:01:31,470
+no es con suero fisiológico, sino que es con calcio.
+
+29
+00:01:31,470 --> 00:01:34,670
+El calcio es el primer fármaco para el tratamiento de la hipercalemia,
+
+30
+00:01:34,670 --> 00:01:38,510
+porque es el que me estabiliza la membrana miocárdica
+
+31
+00:01:38,510 --> 00:01:40,510
+y evita que haya una arritmia maligna.
+
+32
+00:01:40,510 --> 00:01:44,710
+Y habitualmente se da gluconato de calcio, un gramo endovenoso.
+
+33
+00:01:44,710 --> 00:01:47,990
+Segundo lugar, se deja insulina, más glucosa,
+
+34
+00:01:47,990 --> 00:01:51,750
+dado que si le doy insulina sola en un paciente que no está hiperglicémico,
+
+35
+00:01:51,750 --> 00:01:53,670
+obviamente le voy a hacer una hipoglicemia,
+
+36
+00:01:53,670 --> 00:01:56,510
+pero el efecto de la insulina es que ingresa el potasio
+
+37
+00:01:56,510 --> 00:02:00,190
+hacia dentro de las células, lo saca de la sangre y lo mete a las células.
+
+38
+00:02:00,190 --> 00:02:06,030
+Y el calcio, más la insulina, son la base del tratamiento de la hipercalemia severa,
+
+39
+00:02:06,030 --> 00:02:07,670
+de la hiperpotasemia severa.
+
+40
+00:02:07,670 --> 00:02:10,510
+Ahora, algunas otras medidas adicionales que se pueden indicar,
+
+41
+00:02:10,510 --> 00:02:12,110
+por un lado, el salbutamol,
+
+42
+00:02:12,110 --> 00:02:16,590
+en el sentido en que tiene un efecto bien parecido al de la insulina
+
+43
+00:02:16,590 --> 00:02:19,070
+que ingresa el potasio dentro de las células,
+
+44
+00:02:19,070 --> 00:02:20,990
+igual que la adrenalina, ¿cierto?
+
+45
+00:02:20,990 --> 00:02:24,150
+La furosemida, que ayuda a la excreción de potasio,
+
+46
+00:02:24,150 --> 00:02:26,870
+y las racinas de intercambio de potasio,
+
+47
+00:02:26,870 --> 00:02:29,310
+dentro de las cuales hay que saber simplemente que existen,
+
+48
+00:02:29,310 --> 00:02:34,150
+pero ahí, con una letra bien chica, está el Partiromer,
+
+49
+00:02:34,150 --> 00:02:38,310
+el ciclosilicato de circonio y el sulfonato de poliestireno.
+
+50
+00:02:38,310 --> 00:02:41,150
+Da lo mismo, hay que saber que existen racinas de intercambio
+
+51
+00:02:41,150 --> 00:02:45,870
+que eventualmente me ayudan a ir bajando la cantidad de potasio total del cuerpo,
+
+52
+00:02:45,870 --> 00:02:48,390
+en el sentido en que el calcio no altera el potasio,
+
+53
+00:02:48,390 --> 00:02:50,390
+simplemente me salva de la rindia,
+
+54
+00:02:50,390 --> 00:02:53,670
+y la insulina y el salbutamol tampoco alteran el potasio total del cuerpo,
+
+55
+00:02:53,670 --> 00:02:56,910
+sino que solamente lo ingresan y lo guardan a la célula.
+
+56
+00:02:56,910 --> 00:03:02,430
+Veamos ahora la hipopotasemia, que es sinónimo de hipocalemia con K,
+
+57
+00:03:02,430 --> 00:03:05,830
+y que también se puede escribir con C, hipocalemia con C.
+
+58
+00:03:05,830 --> 00:03:08,550
+Ahora, a mí no me gusta hipocalemia con C,
+
+59
+00:03:08,550 --> 00:03:11,270
+porque se lee como hipocalcemia y uno se puede confundir,
+
+60
+00:03:11,270 --> 00:03:13,670
+así que hipocalemia con K es lo que más se usa.
+
+61
+00:03:13,670 --> 00:03:16,790
+Ahora, hipopotasemia suena como que hay hipopótamo,
+
+62
+00:03:16,790 --> 00:03:21,350
+hay el de sangre, así que tampoco quedémonos con el nombre hipocalemia.
+
+63
+00:03:21,350 --> 00:03:23,630
+Estoy malo para los chistes, pero sigamos.
+
+64
+00:03:24,070 --> 00:03:26,150
+Dentro de las causas de hipocalemia,
+
+65
+00:03:26,150 --> 00:03:28,190
+las más importantes nuevamente son los fármacos,
+
+66
+00:03:28,190 --> 00:03:31,310
+dígase los diuréticos, en específico los diuréticos de asa,
+
+67
+00:03:31,310 --> 00:03:33,230
+como la furosemida, y las teacidas,
+
+68
+00:03:33,230 --> 00:03:37,470
+como la hidrocloroteacida o la clortalidona.
+
+69
+00:03:37,470 --> 00:03:39,950
+Acuérdense que la hipocalemia de las teacidas
+
+70
+00:03:39,950 --> 00:03:41,950
+se empeoraba con el consumo de sal,
+
+71
+00:03:41,950 --> 00:03:44,590
+así que alguien que está con teacidas
+
+72
+00:03:44,590 --> 00:03:46,070
+y que está tendiendo la hipocalemia,
+
+73
+00:03:46,070 --> 00:03:48,910
+la primera medida es restringir el cloruro de sodio,
+
+74
+00:03:48,910 --> 00:03:51,910
+restringir la sal, la diarrea,
+
+75
+00:03:51,950 --> 00:03:55,150
+los vómitos, las pérdidas digestivas en general,
+
+76
+00:03:55,150 --> 00:03:57,550
+y, aparte de eso, algunos otros fármacos,
+
+77
+00:03:57,550 --> 00:04:00,110
+como la insulina, la adrenalina,
+
+78
+00:04:00,110 --> 00:04:03,990
+ya sea porque está recibiendo esos fármacos
+
+79
+00:04:03,990 --> 00:04:07,830
+o ya sea porque está en algún estado hiperadrenérgico,
+
+80
+00:04:07,830 --> 00:04:09,590
+como en el hipertiroidismo, por ejemplo,
+
+81
+00:04:09,590 --> 00:04:11,550
+y además la hipomagnesemia.
+
+82
+00:04:11,550 --> 00:04:15,430
+Todas esas últimas, insulina, adrenalina e hipomagnesemia,
+
+83
+00:04:15,430 --> 00:04:18,510
+lo que hacen es que tienden a guardar el potasio
+
+84
+00:04:18,550 --> 00:04:21,910
+adentro de las células tendiendo a la hipocalemia.
+
+85
+00:04:21,910 --> 00:04:23,950
+El tratamiento de la hipocalemia,
+
+86
+00:04:23,950 --> 00:04:25,390
+obviamente si es que es leve,
+
+87
+00:04:25,390 --> 00:04:28,710
+es el tratamiento de la causa más potasio vía oral,
+
+88
+00:04:28,710 --> 00:04:31,990
+que habitualmente se da como el cloruro de potasio,
+
+89
+00:04:31,990 --> 00:04:33,390
+que es una especie de sal,
+
+90
+00:04:33,390 --> 00:04:34,830
+y si es que es severa, en cambio,
+
+91
+00:04:34,830 --> 00:04:37,470
+se va a tratar con el potasio endovenoso,
+
+92
+00:04:37,470 --> 00:04:39,270
+pero siempre en un goteo lento,
+
+93
+00:04:39,270 --> 00:04:41,190
+y que quede bien claro, nunca, nunca,
+
+94
+00:04:41,190 --> 00:04:42,550
+dar el potasio en bolo,
+
+95
+00:04:42,550 --> 00:04:44,670
+porque si no, el paciente entra en un paro,
+
+96
+00:04:44,670 --> 00:04:47,190
+en asistolio de inmediato y se hacen famosos, ¿cierto?
+
+97
+00:04:47,190 --> 00:04:51,550
+Porque mataron al paciente con una única inyección.
+
+98
+00:04:51,550 --> 00:04:52,550
+Y eso es todo, hay que saber.
+
+99
+00:04:52,550 --> 00:04:55,150
+Así que acuérdense, hipercalemia igual calcio,
+
+100
+00:04:55,150 --> 00:04:56,990
+hipocalemia igual potasio,
+
+101
+00:04:56,990 --> 00:04:58,830
+pero con cuidado, jamás en bolo.
+
+102
+00:04:58,830 --> 00:04:59,790
+Nos vemos en los siguientes videos.
+
+103
+00:04:59,790 --> 00:05:00,790
+Que estén bien.

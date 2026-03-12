@@ -1,0 +1,219 @@
+1
+00:00:03,440 --> 00:00:06,980
+Hola, hola, ¿cómo están? Hablemos de las infecciones respiratorias altas que han estado
+
+2
+00:00:06,980 --> 00:00:11,020
+tan de moda con la pandemia. Y sepan que su clínica es la de un refrieo, todo el
+
+3
+00:00:11,020 --> 00:00:16,880
+mundo la conoce, cierto, rinorrea, difonía, ovinofagia, tos que puede ser seca o puede
+
+4
+00:00:16,880 --> 00:00:22,080
+ser húmeda con expectoración, faringe eritematosa, etcétera. Ahora, aparte
+
+5
+00:00:22,080 --> 00:00:25,120
+de eso, ¿pueden tener fiebre? Por supuesto que sí, la mayoría de los virus son
+
+6
+00:00:25,120 --> 00:00:29,520
+capaces de producir fiebre, por ejemplo la influenza, la parainfluenza, la COVID-19.
+
+7
+00:00:29,520 --> 00:00:34,080
+Aparte de eso, es frecuente que vengan con malestar general o con adenopatías también.
+
+8
+00:00:34,080 --> 00:00:38,720
+Ahora, la cosa importante y que es lo que diferencia una infección respiratoria alta
+
+9
+00:00:38,720 --> 00:00:42,240
+de una infección respiratoria baja es que en este caso el examen pulmonar es
+
+10
+00:00:42,240 --> 00:00:45,720
+estrictamente normal, o sea, no hay afectación pulmonar porque no hay
+
+11
+00:00:45,720 --> 00:00:49,520
+afectación de la vía aérea baja, sino que está limitado a la vía aérea alta.
+
+12
+00:00:49,520 --> 00:00:54,360
+Como otra cosa importante, suele venir sin disnea, sin desaturación, en el
+
+13
+00:00:54,360 --> 00:00:57,360
+momento en que se me agregan estos síntomas uno piensa en una
+
+14
+00:00:57,360 --> 00:01:02,960
+complicación, ejemplo en una neumonía viral. Y aparte de eso, los exámenes,
+
+15
+00:01:02,960 --> 00:01:07,960
+ya sea la radiografía de tórax, que ve justamente los pulmones, como el
+
+16
+00:01:07,960 --> 00:01:11,720
+hemograma habitualmente muestran que la radiografía está normal, porque
+
+17
+00:01:11,720 --> 00:01:14,800
+nuevamente no hay afectación baja, y el hemograma si es que muestra algo,
+
+18
+00:01:14,800 --> 00:01:18,360
+muestra linfocitosis por ser habitualmente causada por infecciones
+
+19
+00:01:18,360 --> 00:01:23,000
+virales. Ahora, como algo importante, no se piden ni la radiografía ni el
+
+20
+00:01:23,000 --> 00:01:25,760
+hemograma estén indicados en una infección respiratoria alta viral
+
+21
+00:01:25,760 --> 00:01:28,520
+comunicorrente. De hecho, por regla general, no está indicado ningún
+
+22
+00:01:28,520 --> 00:01:32,600
+examen, salvo algunas excepciones, que lo vamos a ver. El diagnóstico es
+
+23
+00:01:32,600 --> 00:01:35,920
+absolutamente clínico, alguien que viene con clínica de refrío, pues
+
+24
+00:01:35,920 --> 00:01:40,240
+tiene un refrío, pero en situaciones epidemiológicas excepcionales, como
+
+25
+00:01:40,240 --> 00:01:43,920
+ha sido por ejemplo la pandemia, en ese caso eventualmente uno sí pide un
+
+26
+00:01:43,920 --> 00:01:50,000
+examen en busca de la gente etiológico, ejemplo una PCR para la
+
+27
+00:01:50,000 --> 00:01:53,360
+COVID-19, o bien un panel viral buscando influenza o algún otro virus.
+
+28
+00:01:54,200 --> 00:01:57,280
+El tratamiento de las infecciones respiratorias altas es absolutamente
+
+29
+00:01:57,280 --> 00:02:01,640
+sintomático, todo el mundo lo conoce, cierto, el paracetamol eventualmente
+
+30
+00:02:01,640 --> 00:02:04,960
+si está con mucho malestar se le puede dejar algún antiinflamatorio, y si
+
+31
+00:02:04,960 --> 00:02:08,120
+que está con mucha rinorrhea se puede dejar un descongestionante como la
+
+32
+00:02:08,120 --> 00:02:12,400
+pseudoepedrina. De hecho, habitualmente el tratamiento sintomático incluso
+
+33
+00:02:12,400 --> 00:02:16,280
+viene con comprimidos que mezclan el paracetamol más la pseudoepedrina,
+
+34
+00:02:16,280 --> 00:02:20,400
+más ejemplo cafeína para el día para estar un poco más despierto, o más
+
+35
+00:02:20,400 --> 00:02:25,080
+clorfenamina en la noche para dormir un poco mejor. Ahora, la clínica es muy
+
+36
+00:02:25,080 --> 00:02:31,560
+variable y va a depender de cuál parte de la vía aérea superior está más
+
+37
+00:02:31,560 --> 00:02:35,480
+inflamada y puede verse como una farihitis, una amigdalitis, una
+
+38
+00:02:35,480 --> 00:02:39,800
+rinitis, una sinusitis, una laringitis, tracheitis, bronchitis, etcétera.
+
+39
+00:02:39,800 --> 00:02:44,840
+Incluso a veces uno habla de faringo amigdalitis o de rinocinusitis o de
+
+40
+00:02:44,840 --> 00:02:48,600
+laringo tracheitis y siguen siendo infecciones respiratorias alta viral.
+
+41
+00:02:48,800 --> 00:02:54,680
+De hecho, como médico muchas veces da como cierto pudor escribir refrío, pero
+
+42
+00:02:54,680 --> 00:02:57,640
+ese es un diagnóstico absolutamente correcto en vez de estar escribiendo
+
+43
+00:02:57,640 --> 00:03:02,880
+rinocino laringo tracheitis. Como cosa importante, las neumonías o
+
+44
+00:03:02,880 --> 00:03:06,760
+neumonitis, las bronchoneumonías y las bronchiolitis, más el síndrome
+
+45
+00:03:06,760 --> 00:03:10,600
+bronchial obstructivo, esos no son infecciones respiratorias altas, estas
+
+46
+00:03:10,600 --> 00:03:14,920
+son infecciones respiratorias con afectación de la vía aérea baja, así
+
+47
+00:03:14,920 --> 00:03:21,080
+que se consideran bajas. La causa son virus, muchos virus, cualquiera de
+
+48
+00:03:21,080 --> 00:03:25,040
+esa lista de virus puede producir cualquiera de esos síntomas, pero lo
+
+49
+00:03:25,040 --> 00:03:30,120
+más frecuentes son el rinovirus, el BRS, la influenza, la parainfluenza, en
+
+50
+00:03:30,120 --> 00:03:34,040
+los últimos años el más frecuente ha sido la COVID-19, otros
+
+51
+00:03:34,040 --> 00:03:37,520
+coronavirus igualmente pueden producir refrío, los metaneumovirus,
+
+52
+00:03:37,520 --> 00:03:41,320
+los adenovirus e incluso los enterovirus y otros virus como los
+
+53
+00:03:41,360 --> 00:03:45,480
+bocavirus, los virus de la familia del virus herpes, etcétera. O sea muchos
+
+54
+00:03:45,480 --> 00:03:49,800
+virus pueden producir esta clínica. Y eso es todo en los siguientes videos
+
+55
+00:03:49,800 --> 00:03:54,280
+vamos a entrar un poco más de lleno en las complicaciones. Que estén bien.

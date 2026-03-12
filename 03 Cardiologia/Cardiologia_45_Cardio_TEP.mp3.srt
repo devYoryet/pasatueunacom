@@ -1,0 +1,223 @@
+1
+00:00:03,120 --> 00:00:08,000
+Hola, ¿cómo están? Hablemos de el TEP o tromboembolismo pulmonar, una patología que hay que saber
+
+2
+00:00:08,000 --> 00:00:14,800
+identificar y manejar porque es una causa de muerte importante. El TEP, sus causas habitualmente
+
+3
+00:00:14,800 --> 00:00:20,880
+empiezan en una trombosis penosa profunda, así que los antecedentes son exactamente los mismos,
+
+4
+00:00:20,880 --> 00:00:26,880
+la treada de Virco y acuérdense que su clínica por la general es de inicio súbito,
+
+5
+00:00:26,880 --> 00:00:35,080
+en el sentido en que la embolia se impacta de manera súbita en la circulación arterial pulmonar
+
+6
+00:00:35,080 --> 00:00:41,760
+y eso genera síntomas que lo más frecuentes son disnea, segundo lugar dolor torásico que en
+
+7
+00:00:41,760 --> 00:00:48,200
+algunos casos y característicamente es de tipo puntada de costado, o sea con aumento con la
+
+8
+00:00:48,200 --> 00:00:52,040
+inspiración y aparte de eso la taquicardia. Esos son los tres síntomas más frecuentes,
+
+9
+00:00:52,080 --> 00:00:58,040
+no siempre están, hay algunos casos en que incluso es absolutamente asintomático y hay
+
+10
+00:00:58,040 --> 00:01:02,920
+algunas otras oportunidades en que viene con tos, con hemoptisis, con fiebre y si se fijan
+
+11
+00:01:02,920 --> 00:01:06,760
+esos síntomas pueden verse en una tuberculosis por ejemplo, pero la gran diferencia es que
+
+12
+00:01:06,760 --> 00:01:12,240
+acá es de inicio súbito, además es muy frecuente que venga en los casos más graves
+
+13
+00:01:12,240 --> 00:01:16,840
+ya sea con síncope o bien con un shock cardiogénico que es lo que define al TEP
+
+14
+00:01:16,960 --> 00:01:22,680
+masivo, el compromiso hemodinámico que es que viene con hipotensión que no responde a volumen e
+
+15
+00:01:22,680 --> 00:01:30,440
+incluso muerte súbita. Ahora dos cosas importantes en el caso del TEP, el que sea con clínicas
+
+16
+00:01:30,440 --> 00:01:37,920
+súbitas y el que venga con antecedentes de la treada de virco con esas dos cosas hay
+
+17
+00:01:37,920 --> 00:01:42,600
+que sospechar y hay que ir a descartar un TEP de inmediato, o sea ante cualquier sospecha
+
+18
+00:01:43,560 --> 00:01:50,200
+ejemplo, paciente con cáncer que tiene disnea súbita, angiotac, ejemplo 2, un paciente con
+
+19
+00:01:50,200 --> 00:01:55,400
+síndrome nefrótico que hace hemoptisis de manera súbita, angiotac, etcétera, o sea en el fondo
+
+20
+00:01:55,400 --> 00:01:59,600
+basta que venga con cualquier cosa que eventualmente pueda ser un TEP como para que
+
+21
+00:01:59,600 --> 00:02:04,920
+yo dirigidamente tenga que ir a buscar el TEP. Ahora, la radiografía de tórax habitualmente
+
+22
+00:02:04,920 --> 00:02:11,640
+se ve normal dado que no hay un problema en los alveolos, en la parte respiratoria sino
+
+23
+00:02:11,640 --> 00:02:16,160
+que está el problema en los vasos sanguíneos y a veces sí viene con alguna alteración pero
+
+24
+00:02:16,160 --> 00:02:20,680
+suelen ser inespecíficas o bien en los casos más graves puede haber un infarto pulmonar o
+
+25
+00:02:20,680 --> 00:02:25,520
+alguna otra zona con alguna alteración, pero repito lo más frecuente es que esté
+
+26
+00:02:25,520 --> 00:02:30,760
+absolutamente normal. En el caso del electrocardiograma puede estar normal aunque es frecuente que
+
+27
+00:02:30,760 --> 00:02:36,520
+haya una taquicardia sinusal, o sea que haya una taquicardia sin nada más, pero en algunos
+
+28
+00:02:36,520 --> 00:02:43,960
+casos está el típico patrón S1 Q3 T3 que se ha preguntado en varias oportunidades y que
+
+29
+00:02:43,960 --> 00:02:52,800
+hay que saber identificarlo. Aquí se ve el S1 es una onda S en la derivación 1 en D1 y se fijan
+
+30
+00:02:52,800 --> 00:02:57,160
+la onda S es la que va hacia abajo en el QRS después de la onda R que es la que va hacia
+
+31
+00:02:57,160 --> 00:03:04,840
+arriba. Q3, o sea que haya una onda Q en D3, o sea una que vaya hacia abajo antes de la
+
+32
+00:03:04,840 --> 00:03:09,840
+que va hacia arriba antes de la onda R y finalmente la T3 que es una onda T invertida
+
+33
+00:03:09,840 --> 00:03:16,280
+en T3, o sea una onda S más profunda en D1, una presencia de onda Q que habitualmente no hay
+
+34
+00:03:16,280 --> 00:03:23,680
+en D3 y una onda T invertida en T3. Eso no es tan frecuente de ver y tampoco es tan
+
+35
+00:03:23,680 --> 00:03:28,240
+específico en el sentido en que se ve en otras causas de sobrecarga cardíaca derecha
+
+36
+00:03:28,240 --> 00:03:33,000
+también pero es lo que habitualmente se enseña así que hay que saberlo. El diagnóstico del
+
+37
+00:03:33,000 --> 00:03:38,040
+TEP se hace con el angiotag de TORACS, ese es el examen de elección en la actualidad pero
+
+38
+00:03:38,040 --> 00:03:44,720
+sepan que el DIMERO D igualmente puede servir sabiendo que es un examen que no confirma así
+
+39
+00:03:44,720 --> 00:03:49,320
+que si es que está elevado tiene que ir a confirmarse con el angiotag y eso sí descarta
+
+40
+00:03:49,320 --> 00:03:56,640
+porque es bien sensible, es muy sensible pero poco específico así que confirma no pero descarta
+
+41
+00:03:56,640 --> 00:04:03,440
+sí o sea en resumen el DIMERO D se pide igual que en la TBP solamente cuando tengo baja
+
+42
+00:04:03,440 --> 00:04:08,600
+sospecha de TEP y no tengo otra causa que me eleve el DIMERO D y si es que está normal descarto
+
+43
+00:04:08,600 --> 00:04:13,360
+el TEP como el diagnóstico y si es que está alterado si es que está arriba de 500 en ese
+
+44
+00:04:13,360 --> 00:04:18,120
+caso debo ir al examen confirmatorio que en este caso es el angiotag de TORACS. Ahora en
+
+45
+00:04:18,120 --> 00:04:22,520
+todo TEP igualmente estudiar si es que hay una traumofilia de base en el sentido en que
+
+46
+00:04:22,520 --> 00:04:27,840
+tengo que ver si es que queda anticoagulado de manera permanente en el tiempo o no. El
+
+47
+00:04:27,840 --> 00:04:33,720
+tratamiento del TEP lo más importante es anticoagular acá como mínimo seis meses uno habla de seis
+
+48
+00:04:33,720 --> 00:04:38,840
+meses a un año a diferencia de la trombosis venosa profunda que era tres a seis meses y
+
+49
+00:04:38,840 --> 00:04:44,280
+aparte de eso se va anticoagular de manera permanente en el tiempo cuando hay una
+
+50
+00:04:44,280 --> 00:04:49,120
+trombofilia ya sea que la encuentre en el estudio de trombofilia o bien que tenga algo
+
+51
+00:04:49,120 --> 00:04:54,320
+que me haga sospecharla con una probabilidad muy alta ejemplo que venga con hartas TPP o con
+
+52
+00:04:54,320 --> 00:05:01,520
+varios TEP de tipo recurrente o bien cuando hay antecedente familiar de TEP de muerte súbita o
+
+53
+00:05:01,520 --> 00:05:06,040
+de alguna otra cosa que me da a entender que hay una trombofilia hereditaria en la familia.
+
+54
+00:05:06,040 --> 00:05:12,520
+Ahora esto aplica también a las TPP si es que están esos antecedentes obviamente se queda
+
+55
+00:05:12,520 --> 00:05:18,280
+anticoagulado a permanencia también. Ahora qué pasa cuando el TEP es masivo pues ahí se
+
+56
+00:05:18,280 --> 00:05:22,760
+maneja de manera totalmente distinto y eso lo vamos a ver en el siguiente vídeo así que ahí nos vemos.

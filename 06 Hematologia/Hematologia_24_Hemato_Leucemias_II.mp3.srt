@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:07,030
+Sigamos con este tema difícil, leucemias, ¿cierto? Y empecemos con este concepto del
+
+2
+00:00:07,030 --> 00:00:10,910
+guiato leucemico que me sirve para ver rápidamente el hemograma y diferenciar
+
+3
+00:00:10,910 --> 00:00:14,590
+una leucemia mieloide aguda de una leucemia mieloide crónica. Y recordemos
+
+4
+00:00:14,590 --> 00:00:18,790
+que los neutrófilos, que está como NT, se dividen según su grado de
+
+5
+00:00:18,790 --> 00:00:22,670
+madurez en segmentados que son los más maduros, luego los faciliformes
+
+6
+00:00:22,670 --> 00:00:25,390
+que son algo inmaduros, los mielocitos, los promielocitos y
+
+7
+00:00:25,390 --> 00:00:28,550
+finalmente los más inmaduros que son los blastos, que son los que no
+
+8
+00:00:28,550 --> 00:00:31,630
+tienen absolutamente ningún tipo de diferenciación.
+
+9
+00:00:31,950 --> 00:00:36,510
+Si es que se ve de esa forma, mucho segmentado, luego faciliforme,
+
+10
+00:00:36,510 --> 00:00:40,510
+mielocito, promielocito, o sea, si aparecen formas inmaduras, eso se llama
+
+11
+00:00:40,510 --> 00:00:44,750
+desviación izquierda y en este caso, fíjense, no hay blastos o hay muy
+
+12
+00:00:44,750 --> 00:00:48,510
+poquito, pero no se salta absolutamente ninguna de las formas.
+
+13
+00:00:48,510 --> 00:00:52,510
+En ese caso no hay un guiato leucemico y eso es lo característico
+
+14
+00:00:52,510 --> 00:00:56,470
+de la leucemia mieloide crónica. En cambio, la leucemia mieloide aguda,
+
+15
+00:00:56,470 --> 00:01:00,670
+lo que suele ver es justamente eso, que hay alguna zona en que se
+
+16
+00:01:00,670 --> 00:01:04,030
+salta, ejemplo, hay segmentados, pero no tengo ni faciliformes,
+
+17
+00:01:04,030 --> 00:01:07,870
+ni mielocitos, sino que directamente voy a los promielocitos y después
+
+18
+00:01:07,870 --> 00:01:11,430
+a los blastos. De hecho, el hemograma que se ve ahí es el característico
+
+19
+00:01:11,430 --> 00:01:15,470
+de la leucemia mieloide aguda de tipo M3 o promielocítica,
+
+20
+00:01:15,470 --> 00:01:20,190
+que vamos a ver que es una de las más graves por si acaso y se trata
+
+21
+00:01:20,190 --> 00:01:24,510
+de manera diferente, con alguna quimioterapia un poquito diferente.
+
+22
+00:01:24,510 --> 00:01:27,990
+En este otro caso, veamos qué es. Tengo segmentados, no tengo
+
+23
+00:01:27,990 --> 00:01:31,990
+ni faciliformes, ni mielocitos, ni promielocitos y estoy lleno de blastos.
+
+24
+00:01:31,990 --> 00:01:36,630
+Ya por haber harto blastos, ya se sabe que hay una leucemia aguda,
+
+25
+00:01:36,630 --> 00:01:39,990
+una leucemia mieloide aguda, pero fíjense, ahí también está el guiato
+
+26
+00:01:39,990 --> 00:01:43,510
+leucemico en el sentido en que se saltó al menos tres de las formas
+
+27
+00:01:43,510 --> 00:01:46,190
+inmaduras. Así que nuevamente es una leucemia mieloide aguda,
+
+28
+00:01:46,190 --> 00:01:52,030
+en este caso de tipo mieloblástica. Y finalmente, en este caso de acá,
+
+29
+00:01:52,030 --> 00:01:56,910
+que tengo segmentados, tengo algo de faciliforme y nada más,
+
+30
+00:01:56,950 --> 00:02:01,230
+en ese caso no hay un guiato leucemico, porque el guiato leucemico es que se
+
+31
+00:02:01,230 --> 00:02:04,390
+salte pero que luego haya alguna de las formas más inmaduras.
+
+32
+00:02:04,390 --> 00:02:07,990
+Así que en este caso simplemente tengo segmentado y algo de desviación
+
+33
+00:02:07,990 --> 00:02:11,190
+izquierda, algo de faciliforme y lo más probable es que sea una infección
+
+34
+00:02:11,190 --> 00:02:14,990
+bacteriana, por ejemplo. Incluso podría ser un hemograma normal
+
+35
+00:02:14,990 --> 00:02:18,110
+dependiendo de la cantidad de faciliformes, si es que es o no
+
+36
+00:02:18,110 --> 00:02:22,390
+mayor a 10%. Si es mayor a 10%, uno dice, se llama desviación izquierda.
+
+37
+00:02:22,390 --> 00:02:26,270
+Si es que está en cambio menos de 10%, se considera algo normal.
+
+38
+00:02:26,310 --> 00:02:30,390
+Como una cosa adicional, si solamente tengo segmentados y no tengo
+
+39
+00:02:30,390 --> 00:02:34,510
+ninguna forma inmadura, pues eso es un hemograma normal de los más habituales,
+
+40
+00:02:34,510 --> 00:02:37,950
+como para que lo tengan presente. Veamos el tratamiento de las
+
+41
+00:02:37,950 --> 00:02:41,270
+leucemias, que nuevamente varía según el tipo. En su mayoría es con
+
+42
+00:02:41,270 --> 00:02:45,030
+quimioterapia, pero vamos a ver que no siempre. La leucemia linfática
+
+43
+00:02:45,030 --> 00:02:49,030
+aguda, hay que saberla, es con una quimioterapia de inducción y luego
+
+44
+00:02:49,030 --> 00:02:51,990
+con varios ciclos de mantención. Y esto hay que saberlo bien,
+
+45
+00:02:51,990 --> 00:02:58,590
+porque es muy eficaz. Tiene hasta un 90% de curación. Antes,
+
+46
+00:02:58,590 --> 00:03:01,470
+los niños que les daba la leucemia se morían, actualmente en cambio
+
+47
+00:03:01,470 --> 00:03:05,110
+la inmensa mayoría se salva, y si bien están bastante tiempo en
+
+48
+00:03:05,110 --> 00:03:07,750
+quimio, con la quimio de inducción que es muy dura y luego con
+
+49
+00:03:07,750 --> 00:03:10,630
+varios ciclos de mantención por varias semanas, la verdad es que
+
+50
+00:03:10,630 --> 00:03:14,870
+suelen andar bastante bien. Ahora, como segunda cosa hay que evaluar
+
+51
+00:03:14,870 --> 00:03:18,350
+la necesidad de darle una profilaxis de residiva en el sistema
+
+52
+00:03:18,350 --> 00:03:20,990
+nervioso central, ya sea con quimioterapia intratecal o con
+
+53
+00:03:20,990 --> 00:03:24,150
+radioterapia cerebral, y a nivel testicular con radioterapia
+
+54
+00:03:24,150 --> 00:03:28,790
+testicular también. Ahora, la profilaxis en este caso es algo
+
+55
+00:03:28,790 --> 00:03:32,270
+que no se hace en todos los casos, depende del riesgo, pero es
+
+56
+00:03:32,270 --> 00:03:35,550
+una decisión que toma el especialista según las características
+
+57
+00:03:35,550 --> 00:03:39,470
+del niño, las características de su leucemia, etc. La
+
+58
+00:03:39,470 --> 00:03:41,990
+leucemia mieloide aguda por el eje en el al se trata con una
+
+59
+00:03:41,990 --> 00:03:45,350
+quimioterapia intensiva de inducción y nada más. No hay
+
+60
+00:03:45,350 --> 00:03:49,510
+quimioterapia de mantención, o sea es el todo o nada. Es
+
+61
+00:03:49,510 --> 00:03:52,950
+bastante regoso por su caso y la gran excepción es la
+
+62
+00:03:52,950 --> 00:03:56,230
+leucemia promilocítica que habitualmente sí queda con una
+
+63
+00:03:56,230 --> 00:03:59,270
+terapia de mantención además y que la quimioterapia cambia, en
+
+64
+00:03:59,270 --> 00:04:02,630
+general se usa el latra o ácido transretinoico y además
+
+65
+00:04:02,630 --> 00:04:06,550
+el trióxido de arsénico que se abre de ahí como AES2 o
+
+66
+00:04:06,550 --> 00:04:10,390
+AES3. La leucemia linfática crónica por su parte se suele
+
+67
+00:04:10,390 --> 00:04:13,750
+observar en todas las etapas iniciales y luego ya las
+
+68
+00:04:13,750 --> 00:04:17,110
+etapas finales eventualmente se evalúa si es que se va
+
+69
+00:04:17,110 --> 00:04:20,230
+a tratar con quimioterapia o bien con algún anticuerpo
+
+70
+00:04:20,230 --> 00:04:25,030
+monoclonal, ejemplo el rituximab que ataca a las células B y
+
+71
+00:04:25,030 --> 00:04:27,110
+las leucemias linfáticas crónicas habitualmente son de
+
+72
+00:04:27,110 --> 00:04:30,470
+tipo B. Finalmente la leucemia mieloide crónica, esta
+
+73
+00:04:30,470 --> 00:04:33,910
+también es diferente, hay que saberla, se asocia
+
+74
+00:04:33,910 --> 00:04:37,430
+fuertemente a un marcador que es el cromosoma filadelfia
+
+75
+00:04:37,430 --> 00:04:42,070
+y el cromosoma filadelfia o traslocación 922 en que el
+
+76
+00:04:42,070 --> 00:04:45,910
+cromosoma 9 y el 22 se unen generan una nueva
+
+77
+00:04:45,910 --> 00:04:49,270
+proteína que es una tirosin quinaza que es justamente la
+
+78
+00:04:49,270 --> 00:04:52,950
+causa de que se produzca esta leucemia, de que se
+
+79
+00:04:52,950 --> 00:04:57,510
+produzca esta proliferación celular descontrolada y por
+
+80
+00:04:57,510 --> 00:05:00,630
+lo mismo existen fármacos que atacan directamente a esta
+
+81
+00:05:00,630 --> 00:05:03,670
+proteína que justamente es la causa de la leucemia
+
+82
+00:05:03,670 --> 00:05:06,550
+mieloide crónica, o sea repito la leucemia mieloide
+
+83
+00:05:06,550 --> 00:05:09,590
+crónica siempre viene con el cromosoma filadelfia es la
+
+84
+00:05:09,590 --> 00:05:12,150
+causa, es el marcador que se usa para el diagnóstico de
+
+85
+00:05:13,030 --> 00:05:16,310
+Y por lo mismo puede ser atacado de manera directa con
+
+86
+00:05:16,310 --> 00:05:18,230
+fármacos que no son anticuerpos sino que son
+
+87
+00:05:18,230 --> 00:05:21,270
+fármacos propiamente tales de los cuales el más clásico
+
+88
+00:05:21,270 --> 00:05:25,030
+es el imatinib que anda muy muy bien y aparte de eso hay
+
+89
+00:05:25,030 --> 00:05:27,830
+algunos más modernos actualmente como el Dazatinib,
+
+90
+00:05:27,830 --> 00:05:31,030
+el Nilatinib, el Ponatinib entre otros. No hay que
+
+91
+00:05:31,030 --> 00:05:33,430
+saberlo, simplemente hay que saber que hay fármacos
+
+92
+00:05:33,430 --> 00:05:36,070
+específicos en contra de la leucemia mieloide crónica
+
+93
+00:05:36,070 --> 00:05:38,550
+y que han cambiado el pronóstico de esta enfermedad
+
+94
+00:05:38,550 --> 00:05:41,510
+de manera total. Ahora, ¿qué pasa con las leucemias
+
+95
+00:05:41,510 --> 00:05:44,310
+linfáticas agudas que vienen con cromosoma filadelfia?
+
+96
+00:05:44,310 --> 00:05:47,910
+Pues sepan ahí son muy infrecuentes como el 5% del
+
+97
+00:05:47,910 --> 00:05:51,030
+total pero nuevamente se benefician bastante de estos
+
+98
+00:05:51,030 --> 00:05:54,150
+fármacos que si bien repito son clásicos de la leucemia
+
+99
+00:05:54,150 --> 00:05:57,590
+mieloide crónica también sirven en estas específicas
+
+100
+00:05:57,590 --> 00:06:00,630
+leucemias linfáticas agudas. Y finalmente, ¿qué pasa
+
+101
+00:06:00,630 --> 00:06:03,110
+con los anticuerpos monoclonales? Pues cada vez
+
+102
+00:06:03,110 --> 00:06:05,590
+se han desarrollado anticuerpos nuevos y que se
+
+103
+00:06:05,590 --> 00:06:07,910
+pueden usar y seguramente se van a seguir usando y
+
+104
+00:06:07,910 --> 00:06:10,950
+se van a usar más todavía en el futuro para tratar
+
+105
+00:06:10,950 --> 00:06:13,350
+los distintos tipos de leucemia según los marcadores
+
+106
+00:06:13,350 --> 00:06:16,310
+que tengan en su superficie. Y bueno, eso es todo, con
+
+107
+00:06:16,310 --> 00:06:18,310
+eso termina leucemia. Nos vemos en los siguientes temas.

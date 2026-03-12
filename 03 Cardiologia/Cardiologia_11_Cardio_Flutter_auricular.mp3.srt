@@ -1,0 +1,339 @@
+1
+00:00:03,090 --> 00:00:09,030
+Hola hola, hablemos muy brevemente del aleteo auricular o como su nombre en inglés
+
+2
+00:00:09,030 --> 00:00:15,750
+flotter o flotter como quieran decirlo cierto que se usa en la jerga médica
+
+3
+00:00:15,750 --> 00:00:20,010
+con mucha más frecuencia que aleteo. En general hay que saber que sus causas
+
+4
+00:00:20,010 --> 00:00:24,910
+son las que dilatan la aurícula derecha y más que la izquierda que
+
+5
+00:00:24,910 --> 00:00:28,810
+era de la FA en este caso es la aurícula derecha así que la
+
+6
+00:00:28,810 --> 00:00:33,130
+hipertensión pulmonar es la clásica más algunas valvulopatías del lado
+
+7
+00:00:33,130 --> 00:00:38,410
+derecho también pueden producirla más todas las mismas de la FA o sea las que
+
+8
+00:00:38,410 --> 00:00:41,770
+dilatan la aurícula izquierda también y las que generan los estados
+
+9
+00:00:41,770 --> 00:00:46,170
+hipertinámicos más la idiopática también o sea las de la FA más las
+
+10
+00:00:46,170 --> 00:00:49,690
+más importantes las que dilatan la aurícula derecha en específica en
+
+11
+00:00:49,690 --> 00:00:53,770
+esta enfermedad. Ahora lo que se genera aquí con la aurícula derecha
+
+12
+00:00:53,770 --> 00:00:58,530
+grande es un fenómeno de reentrada en que la onda de polarización queda
+
+13
+00:00:58,530 --> 00:01:02,530
+dando vueltas en la aurícula derecha y esto no solamente que me explica la
+
+14
+00:01:02,530 --> 00:01:08,490
+fisiopatología sino que en particular me permite frenar esta reentrada y
+
+15
+00:01:08,490 --> 00:01:12,410
+producir un tratamiento definitivo para evitar las recurrencias de este
+
+16
+00:01:12,410 --> 00:01:16,370
+tipo de arritmia y el tratamiento definitivo habitualmente es la
+
+17
+00:01:16,370 --> 00:01:20,690
+ablación con radiofrecuencia del ismocavotricuspidio o sea fíjense
+
+18
+00:01:20,690 --> 00:01:25,650
+una de las grandes diferencias que tiene el flotter con la FA es que en
+
+19
+00:01:25,650 --> 00:01:29,450
+este caso casi siempre tengo un buen resultado con un tratamiento
+
+20
+00:01:29,450 --> 00:01:34,690
+definitivo la ablación con radiofrecuencia. ¿Cuál es su clínica?
+
+21
+00:01:34,690 --> 00:01:38,610
+Pues en este caso viene con pulso regular ahí nuevamente una gran
+
+22
+00:01:38,610 --> 00:01:42,050
+diferencia con la FA y el resto es exactamente igual a la FA, la
+
+23
+00:01:42,050 --> 00:01:46,450
+palpitación, insuficiencia cardiaca, embolias, etcétera. El diagnóstico es
+
+24
+00:01:46,450 --> 00:01:50,290
+con el electrocardiograma que lo vamos a ver de inmediato y el
+
+25
+00:01:50,290 --> 00:01:54,650
+manejo es exactamente igual a la FA en la anticoagulación, en ritmo y
+
+26
+00:01:54,650 --> 00:01:59,890
+frecuencia en la FA aguda y en la FA crónica sabiendo que el
+
+27
+00:01:59,890 --> 00:02:05,090
+riesgo de embolia es menor pero aún así se anticoagula pero la
+
+28
+00:02:05,090 --> 00:02:09,650
+gran gran diferencia es que va a un estudio electrofisiológico para
+
+29
+00:02:09,650 --> 00:02:15,330
+luego terminar con el tratamiento definitivo con la ablación con radio
+
+30
+00:02:15,330 --> 00:02:18,530
+frecuencia. En el estudio electrofisiológico lo que se hace es
+
+31
+00:02:18,530 --> 00:02:23,770
+justamente buscar en qué zona se produce el fenómeno de reentrada
+
+32
+00:02:23,970 --> 00:02:28,130
+de manera de ir y quemarlo directamente con el catéter de radio
+
+33
+00:02:28,130 --> 00:02:31,850
+frecuencia. Ahora dijimos que el diagnóstico era con el electro así
+
+34
+00:02:31,850 --> 00:02:35,410
+que recordemos cómo se ve, se ve de esa forma, un ritmo que
+
+35
+00:02:35,410 --> 00:02:39,370
+habitualmente es regular a diferencia de la FA. Se ven
+
+36
+00:02:39,370 --> 00:02:43,970
+estas ondas P no fibriladas sino que en serrucho o bien dientes
+
+37
+00:02:43,970 --> 00:02:48,410
+de tiburón habitualmente se ven mejor en las derivaciones
+
+38
+00:02:48,450 --> 00:02:54,530
+inferiores, en D2, D3 y ABF. En ese caso con los puntos rojos
+
+39
+00:02:54,530 --> 00:02:59,090
+se marcan, ahí está en un bloqueo 4S1 y acuérdense que
+
+40
+00:02:59,090 --> 00:03:02,130
+el QRS habitualmente es angosto debido a que es una
+
+41
+00:03:02,130 --> 00:03:05,890
+arridnia supraventricular, en cambio en las arridnias
+
+42
+00:03:05,890 --> 00:03:10,010
+ventriculares el QRS era ancho y además sí puede venir con
+
+43
+00:03:10,010 --> 00:03:14,450
+un QRS ancho en el caso de que venga con aberrancia o
+
+44
+00:03:14,450 --> 00:03:16,890
+sea que venga con un bloqueo completo de rama izquierda
+
+45
+00:03:16,890 --> 00:03:20,370
+o un bloqueo completo de rama derecha pero la diferencia
+
+46
+00:03:20,370 --> 00:03:24,210
+es que aquí se van a ver muy marcada y claramente las
+
+47
+00:03:24,210 --> 00:03:28,130
+ondas P. Ahora, la frecuencia cardíaca va a depender del
+
+48
+00:03:28,130 --> 00:03:33,090
+grado de bloqueo del nodo auriculo ventricular.
+
+49
+00:03:33,090 --> 00:03:37,050
+Habitualmente el Flutter va a 300 por minuto así que si
+
+50
+00:03:37,050 --> 00:03:41,410
+está bloqueado 1S1 son frecuencias muy muy altas,
+
+51
+00:03:41,410 --> 00:03:44,770
+si es que está 12S1 va a estar en promedio a 150, si
+
+52
+00:03:44,770 --> 00:03:47,330
+está 13S1 lo más probable es que esté en 100, si está
+
+53
+00:03:47,330 --> 00:03:50,210
+4S1 lo más probable es que está con una frecuencia de
+
+54
+00:03:50,210 --> 00:03:54,530
+75 absolutamente normal. Ahora, fíjense aquí tengo un
+
+55
+00:03:54,530 --> 00:03:58,050
+trazado distinto, se ven las ondas P igual pero la
+
+56
+00:03:58,050 --> 00:04:00,690
+pregunta es ¿por qué estas ondas P tienen distintas
+
+57
+00:04:00,690 --> 00:04:03,650
+formas? Si se fijan no son todas exactamente iguales
+
+58
+00:04:03,650 --> 00:04:08,210
+y ahí tengo cuatro ondas P, tres que se ven bien fácil,
+
+59
+00:04:08,210 --> 00:04:11,890
+la otra que está metida en el QRS y la razón es que
+
+60
+00:04:12,690 --> 00:04:16,290
+las ondas P de serrucho en este caso interactúan también
+
+61
+00:04:16,290 --> 00:04:19,650
+con la onda T, con el QRS, con el resto del
+
+62
+00:04:19,650 --> 00:04:22,450
+electrocardiograma, así que no es obligatorio que sean
+
+63
+00:04:22,450 --> 00:04:26,370
+todas exactamente iguales pero sí que tengan un patrón
+
+64
+00:04:26,370 --> 00:04:29,650
+que sí se repita y que si se fijan eso no se confunde
+
+65
+00:04:29,650 --> 00:04:34,050
+con la línea fibrilada de base de la FAA. Aquí se ve
+
+66
+00:04:34,050 --> 00:04:37,090
+exactamente lo mismo, si se fijan no todas las ondas P
+
+67
+00:04:37,090 --> 00:04:41,010
+son iguales pero se ven claramente como se repiten
+
+68
+00:04:41,010 --> 00:04:43,650
+y la última pregunta es ¿cómo hago para diferenciar
+
+69
+00:04:43,650 --> 00:04:46,770
+al flurrer que va muy rápido de la taquicardia paroxística
+
+70
+00:04:46,770 --> 00:04:49,490
+supraventricular en el sentido en que ambas se ven
+
+71
+00:04:49,490 --> 00:04:55,970
+como una taquiarritmia regular con QRS angosto y la
+
+72
+00:04:55,970 --> 00:05:00,370
+verdad es que a veces en alguna de las derivaciones
+
+73
+00:05:00,370 --> 00:05:03,090
+se pueden ver las ondas P de serrucho pero hay otras
+
+74
+00:05:03,090 --> 00:05:05,890
+veces que es simplemente imposible de diferenciar y
+
+75
+00:05:05,890 --> 00:05:09,570
+lo que yo hago es manejar la taquicardia paroxística
+
+76
+00:05:09,570 --> 00:05:12,530
+supraventricular ya sea con las maniobras vagales o con
+
+77
+00:05:12,530 --> 00:05:15,570
+adenosina o algún otro fármaco y al momento de bajar
+
+78
+00:05:15,570 --> 00:05:20,050
+la la la frecuencia cardiaca recién ahí me aparecen las
+
+79
+00:05:20,050 --> 00:05:23,650
+ondas de serrucho y yo digo bueno no era una una
+
+80
+00:05:23,650 --> 00:05:26,130
+taquicardia paroxística supraventricular sino que
+
+81
+00:05:26,130 --> 00:05:29,570
+era un fláter y eso eso fue todo así que fíjense
+
+82
+00:05:29,570 --> 00:05:33,250
+manejo muy parecido a la FAA pero con un electro que
+
+83
+00:05:33,250 --> 00:05:35,970
+con un electrocardiograma que es distinto y con un
+
+84
+00:05:35,970 --> 00:05:39,250
+tratamiento definitivo que evita que esto recurra igual
+
+85
+00:05:39,250 --> 00:05:42,050
+que la taquicardia paroxística supraventricular que estén bien.

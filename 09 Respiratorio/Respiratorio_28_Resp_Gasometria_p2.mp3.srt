@@ -1,0 +1,339 @@
+1
+00:00:03,060 --> 00:00:10,500
+Hola, hola vamos a ver un tema que es difícil que es la gasometría tanto arterial como venosa para ver el equilibrio ácido base y la
+
+2
+00:00:10,500 --> 00:00:16,860
+idea de esto es que quede todo bien claro. Ahora, fíjense, arterial o venosa porque el equilibrio ácido base se puede evaluar
+
+3
+00:00:17,060 --> 00:00:23,480
+tanto en sangre arterial como en sangre venosa, a diferencia del estado respiratorio que requiere gases arteriales. Así que vamos a
+
+4
+00:00:23,740 --> 00:00:30,200
+ver acá cómo se interpreta, que repito, independientemente de que sea una muestra venosa o una muestra arterial, se interpretan de la misma manera
+
+5
+00:00:30,200 --> 00:00:35,040
+tanto para ver si hay una acidosis o una calosis, si es que es metabólica o respiratoria.
+
+6
+00:00:35,520 --> 00:00:43,120
+El pH, P-A-CO2, el bicarbonato o HCO3 y el base excess son los cuatro parámetros que hay que saber interpretar.
+
+7
+00:00:43,480 --> 00:00:45,480
+Acuérdense que el pH normal es
+
+8
+00:00:46,520 --> 00:00:52,000
+7,4 más menos 0,04, o sea entre 7,36 y 7,44.
+
+9
+00:00:52,080 --> 00:00:57,560
+Si es que está debajo de eso hay una acidemia, si es que está arriba de eso hay una alcalemia.
+
+10
+00:00:58,520 --> 00:01:05,120
+Acidemia y alcalemia son el término que se usa para referirse al hallazgo del examen de sangre,
+
+11
+00:01:05,440 --> 00:01:12,400
+pero detrás de ellas habitualmente hay una acidosis o una calosis, respectivamente, que son las enfermedades que generan estas alternaciones.
+
+12
+00:01:12,920 --> 00:01:19,880
+En el caso del CO2 ya dijimos que lo normal era de 40 más menos 5, o sea entre 35 y 45 y en el
+
+13
+00:01:19,880 --> 00:01:26,480
+caso del bicarbonato el normal es que sea 24 más menos 3 o más menos 2 según donde uno lo busque.
+
+14
+00:01:26,920 --> 00:01:33,640
+Finalmente el base excess, el normal es que sea 0 más menos 3. Ahora en algunas partes sale más menos 2 y
+
+15
+00:01:33,640 --> 00:01:40,880
+me interesa detenerme un poco a saber cómo interpretar el base excess, que es muy muy sencillo en el sentido en que me refleja
+
+16
+00:01:41,480 --> 00:01:46,880
+exclusivamente el componente metabólico. No muestra nada de lo respiratorio, se altera siempre en las alteraciones
+
+17
+00:01:47,560 --> 00:01:54,880
+metabólicas y no se altera en las alteraciones respiratorias. Así que si yo tengo un base excess que está aumentado, yo digo desde el punto de vista
+
+18
+00:01:55,200 --> 00:02:03,520
+metabólico me sobra base, así que tengo una alcalosis metabólica y si que en cambio está disminuido, si está menor a 3, yo digo desde el punto de vista
+
+19
+00:02:04,000 --> 00:02:08,520
+metabólico me falta base, o sea me sobra ácido, o sea tengo una acidosis metabólica.
+
+20
+00:02:08,760 --> 00:02:12,720
+Repito, base excess igual componente metabólico y nada respiratorio.
+
+21
+00:02:13,440 --> 00:02:15,440
+Veamos un poquito la fisiopatología
+
+22
+00:02:16,040 --> 00:02:23,160
+tanto de las acidosis como de las alcalosis, tanto metabólicas como respiratorias, de manera que quede mucho más claro cómo interpretar estos gases
+
+23
+00:02:23,440 --> 00:02:28,720
+y la pregunta que uno se hace es, ¿qué es lo primero que pasa? ¿qué es lo que ocurre en
+
+24
+00:02:29,200 --> 00:02:36,200
+primer lugar? Sabiendo que en lo metabólico habitualmente se afecta el bicarbonato y en lo respiratorio lo que se afecta en primer lugar
+
+25
+00:02:36,200 --> 00:02:42,440
+es el CO2, en el sentido en que o se retiene o se excreta demasiado CO2. En el caso de la acidosis
+
+26
+00:02:43,000 --> 00:02:48,640
+metabólica, lo que ocurre habitualmente es que se pierde mucho bicarbonato, así que cae mucho el
+
+27
+00:02:48,920 --> 00:02:52,200
+bicarbonato y eso es lo que ocurre primero. En el caso de la
+
+28
+00:02:52,600 --> 00:02:59,960
+alcalosis metabólica, en cambio, lo que ocurre es todo lo contrario, aumenta mucho el bicarbonato, en lo respiratorio lo que ocurre en primer lugar
+
+29
+00:02:59,960 --> 00:03:05,720
+es que se altera el CO2, en el caso de una cidosis respiratoria, el CO2 es ácido, así que aumenta
+
+30
+00:03:06,080 --> 00:03:12,520
+el CO2 y ahí se produce esta cidosis respiratoria, y en el caso de la alcalosis respiratoria, lo que ocurre en primer lugar
+
+31
+00:03:12,520 --> 00:03:17,520
+es que cae mucho el CO2, o sea, hay una hiperventilación con pérdida de CO2.
+
+32
+00:03:17,720 --> 00:03:22,600
+Por lo tanto, una vez que yo ya sé lo que ocurre en primer lugar, tengo que saber
+
+33
+00:03:23,240 --> 00:03:29,200
+que en segundo lugar, por un simple equilibrio químico, sin que haya una compensación real,
+
+34
+00:03:30,360 --> 00:03:37,960
+el CO2 siempre sigue al bicarbonato y el bicarbonato siempre sigue al CO2, así que si es que el CO2 bajo mucho, el
+
+35
+00:03:39,040 --> 00:03:45,520
+bicarbonato va a bajar un poco, si es que el bicarbonato bajó mucho, el CO2 va a bajar un poco, así que esa es la
+
+36
+00:03:45,520 --> 00:03:50,720
+forma en que habitualmente se ven, cuando el bicarbonato baja, el CO2 baja, y cuando el CO2
+
+37
+00:03:51,000 --> 00:03:54,760
+baja, el bicarbonato baja, y cuando suben, ocurre exactamente lo mismo, entonces fíjense,
+
+38
+00:03:55,040 --> 00:04:01,200
+la cidosis metabólica viene con CO2 y con bicarbonato bajo, con las dos cosas, al igual que la
+
+39
+00:04:01,480 --> 00:04:04,200
+alcalosis respiratoria, y por otro lado, la cidosis
+
+40
+00:04:04,760 --> 00:04:09,560
+respiratoria viene con el CO2 y el bicarbonato alto, al igual que la alcalosis,
+
+41
+00:04:09,840 --> 00:04:13,720
+así que justamente hay que ver ahí el valor del pH muchas veces para ver la diferencia.
+
+42
+00:04:14,120 --> 00:04:17,200
+Respecto al base excess, ya dijimos solo se altera en lo metabólico,
+
+43
+00:04:17,760 --> 00:04:26,040
+baja en la cidosis metabólica, sube la alcalosis metabólica, en cambio no se altera lo respiratorio, ahí el base excess va a estar siempre normal.
+
+44
+00:04:26,480 --> 00:04:31,520
+Vamos con algunos ejemplos de qué enfermedades son las que generan una cidosis metabólica,
+
+45
+00:04:32,200 --> 00:04:39,360
+por ejemplo, y ahí está la diarrea, que se pierde bicarbonato a las deposiciones, la insuficiencia relacrónica, que se pierde por vía urinaria,
+
+46
+00:04:40,040 --> 00:04:46,200
+la acetoacidosis diabética o la acidosis láctica, en que aparece un ácido orgánico que
+
+47
+00:04:47,000 --> 00:04:54,080
+libera un protón y que se consume el bicarbonato, la acidosis tubular renal, en que igualmente se pierde bicarbonato en la orina.
+
+48
+00:04:54,880 --> 00:04:58,680
+Respecto a las alcalosis metabólicas que hay que saber, están los vómitos, en que obviamente
+
+49
+00:04:58,920 --> 00:05:05,800
+se pierde ácido por el mismo vómito, o el hiper aldosteronismo, en el sentido en que se genera
+
+50
+00:05:06,120 --> 00:05:13,400
+un aumento de la excreción renal de protones y de potasio también, pero de los protones también, así que los hiper aldosteronismos
+
+51
+00:05:13,960 --> 00:05:18,200
+habitualmente vienen con una alcalosis metabólica más una hipocalemia.
+
+52
+00:05:18,480 --> 00:05:23,200
+En el caso de la acidosis respiratoria, cualquier cosa que produzca hipoventilación, ejemplo,
+
+53
+00:05:23,640 --> 00:05:29,040
+intoxicación por benzogazepina o por barbitúrico o por opiáceo, las enfermedades
+
+54
+00:05:29,720 --> 00:05:31,640
+neuromusculares como el síndrome de Guillain-Barré,
+
+55
+00:05:32,200 --> 00:05:38,440
+la esclerosis lateral amiotrópica o el agotamiento muscular en el caso de un paciente con insuficiencia respiratoria,
+
+56
+00:05:38,920 --> 00:05:40,920
+y finalmente las alcaloses
+
+57
+00:05:41,400 --> 00:05:48,080
+respiratorias, cualquier cosa que produzca hiperventilación, como ejemplo, una crisis de pánico o un caso con una insuficiencia
+
+58
+00:05:48,640 --> 00:05:50,640
+respiratoria que sea importante también.
+
+59
+00:05:51,040 --> 00:05:54,560
+En el caso de la acidosis metabólica, hay dos detalles
+
+60
+00:05:55,560 --> 00:05:59,880
+adicionales que hay que saber, número uno, ver el anion gap, en el sentido en que se
+
+61
+00:06:00,160 --> 00:06:05,840
+subdivide en con anion gap aumentado y con anion gap normal, y segundo lugar, ver si es que tiene alguna
+
+62
+00:06:06,160 --> 00:06:13,280
+alteración respiratoria concomitante a esta acidosis metabólica. Esas son preguntas que, repito, solo se hacen en las acidosis
+
+63
+00:06:13,720 --> 00:06:15,720
+metabólicas, no en ninguna de las otras alteraciones.
+
+64
+00:06:17,000 --> 00:06:23,560
+En el caso del anion gap hay que saber la fórmula, el anion gap se calcula como el sodio menos el cloro y menos el
+
+65
+00:06:23,640 --> 00:06:28,240
+bicarbonato. Recuerden que el sodio es el principal cation, o sea, el
+
+66
+00:06:28,600 --> 00:06:35,160
+principal ion positivo, el cloro y el bicarbonato son los principales aniones, y el anion gap son justamente
+
+67
+00:06:35,400 --> 00:06:40,400
+los otros aniones que finalmente logran el equilibrio entre los cationes y los aniones.
+
+68
+00:06:40,640 --> 00:06:46,480
+El valor normal del anion gap es 10 más menos 2, o sea, entre 8 y 12, y va a estar
+
+69
+00:06:46,920 --> 00:06:51,440
+aumentado cuando esté arriba de 12 y eso va a reflejar que la acidosis es causada por un ácido orgánico.
+
+70
+00:06:52,240 --> 00:06:59,800
+Ejemplo, cetoácidos, ácido láctico, los ácidos derivados de los alcoholes, ya sea el metanol o del etanol,
+
+71
+00:07:00,440 --> 00:07:06,920
+y el ácido salicílico o acetil salicílico en las intoxicaciones por aspirinas u otros salicilatos.
+
+72
+00:07:07,160 --> 00:07:11,400
+Por otro lado, la otra pregunta que habíamos dicho es si es que hay alguna alteración
+
+73
+00:07:12,080 --> 00:07:18,720
+respiratoria o no, y en ese caso lo que se hace es para hacerlo rápido, porque hay algunas fórmulas
+
+74
+00:07:19,120 --> 00:07:24,360
+matemáticas muy complejas que no vale la pena saberlos y que no hay tiempo como para analizarlo, pero
+
+75
+00:07:24,360 --> 00:07:30,200
+lo que yo puedo hacer de manera muy rápida es comparar el número que está después de la coma en el pH, el 7, algo,
+
+76
+00:07:30,280 --> 00:07:36,000
+con el valor del CO2, así que si yo digo tiene un pH de 7,33, lo comparo con
+
+77
+00:07:36,160 --> 00:07:41,680
+la presión arterial de CO2 que, ejemplo, puede estar en 35, y ahí veo si es que se parecen o no.
+
+78
+00:07:41,880 --> 00:07:46,680
+Si es que el CO2 se parece mucho al número después de la coma, yo digo esto es solamente
+
+79
+00:07:47,280 --> 00:07:54,000
+una acidosis metabólica y no hay ningún componente respiratorio, así que el CO2 es mucho mayor al número que está después de
+
+80
+00:07:54,000 --> 00:08:00,680
+la coma en el pH, yo digo en este caso además hay una acidosis respiratoria, o sea habría una acidosis
+
+81
+00:08:00,680 --> 00:08:05,640
+mixta, porque hay una acidosis metabólica, estamos hablando de acidosis metabólica, más este componente
+
+82
+00:08:05,640 --> 00:08:10,720
+respiratorio con acidosis respiratoria también. Y finalmente, si es que el CO2 está mucho más bajo
+
+83
+00:08:10,720 --> 00:08:16,440
+que ese número, en ese caso yo digo aquí hay una hiperventilación, hay una alcalosis respiratoria
+
+84
+00:08:16,560 --> 00:08:22,320
+concomitante a esta acidosis metabólica. Si no quedó claro, va a quedar claro en el siguiente video
+
+85
+00:08:22,320 --> 00:08:27,480
+porque vamos a ver unos ejemplos y ahí ya no debería haber ninguna duda, es difícil, pero se puede que estén bien.

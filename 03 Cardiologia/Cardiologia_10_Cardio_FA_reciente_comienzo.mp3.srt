@@ -1,0 +1,279 @@
+1
+00:00:03,220 --> 00:00:08,380
+Veamos el manejo específico de la FA de reciente comienzo y recordemos que si
+
+2
+00:00:08,380 --> 00:00:12,300
+está con hemodinamia inestable se va a cardioversión eléctrica inmediata, si
+
+3
+00:00:12,300 --> 00:00:15,980
+está con hemodinamia estable se iba a un tratamiento farmacológico endovenoso.
+
+4
+00:00:15,980 --> 00:00:19,500
+Ahora, la primera medida dijimos que era el control de la frecuencia
+
+5
+00:00:19,500 --> 00:00:23,060
+cardiaca y por la general se hace con propanolol endovenoso o bien con
+
+6
+00:00:23,060 --> 00:00:27,260
+verapamilio o diltiazeme endovenoso. Si estuvieran contraindicados o no
+
+7
+00:00:27,260 --> 00:00:32,580
+funciona pues se agrega luego la dicocina y de última línea fíjense
+
+8
+00:00:32,580 --> 00:00:37,060
+para control de frecuencia se puede usar la miodarona. La miodarona
+
+9
+00:00:37,060 --> 00:00:40,860
+habitualmente sirve para control de ritmo pero en algunos casos en que el
+
+10
+00:00:40,860 --> 00:00:44,220
+control de frecuencia no ha funcionado con nada pues también me sirve para el
+
+11
+00:00:44,220 --> 00:00:47,860
+control de frecuencia aunque tengo un riesgo que es que cardio abierta y
+
+12
+00:00:47,860 --> 00:00:52,780
+eventualmente se me bradicar dice mucho. En segundo lugar había que
+
+13
+00:00:52,780 --> 00:00:55,940
+anticoagular en este caso acuérdense que se anticoagulaban absolutamente
+
+14
+00:00:56,140 --> 00:01:02,900
+todas o casi todas y hay una excepción o dos excepciones. La más importante es
+
+15
+00:01:02,900 --> 00:01:05,900
+cuando está contraindicado el tratamiento anticoagulante. Ejemplos es
+
+16
+00:01:05,900 --> 00:01:10,020
+que está con una hemorragia digestiva alta, con un accidente vascular
+
+17
+00:01:10,020 --> 00:01:14,580
+hemorrágico o con un politraumatismo. En ese caso obviamente no lo puedo
+
+18
+00:01:14,580 --> 00:01:20,500
+anticoagular. Y la segunda sería una FA autoinlimitada que duró menos de
+
+19
+00:01:20,500 --> 00:01:25,220
+24 horas que cardiovertió de manera espontánea y que tiene cero puntos
+
+20
+00:01:25,220 --> 00:01:29,580
+en el chat2. En ese caso eventualmente puedo no anticoagularla pero de lo
+
+21
+00:01:29,580 --> 00:01:35,420
+contrario se anticoagulan absolutamente todas las FA de reciente de
+
+22
+00:01:35,420 --> 00:01:41,540
+reciente comienzo o de reciente diagnóstico. Ahora luego de eso como
+
+23
+00:01:41,540 --> 00:01:46,380
+para ver si lo dejo anticoagulado en el futuro eso lo decido en base al
+
+24
+00:01:46,380 --> 00:01:52,060
+chat2 vas o sea en agudo lo anticoagulo si o si o casi siempre pero
+
+25
+00:01:52,620 --> 00:01:58,340
+si queda con anticoagulante como a permanencia va a depender del mismo
+
+26
+00:01:58,340 --> 00:02:02,900
+manejo que se vio en la FA crónica con el chat2 vas. Finalmente está el
+
+27
+00:02:02,900 --> 00:02:06,020
+tema de la cardioversión farmacológica que la vamos a ver con
+
+28
+00:02:06,020 --> 00:02:09,660
+algún detalle en particular respondiendo el cuándo o en qué
+
+29
+00:02:09,660 --> 00:02:13,980
+momento y el cómo, dígase con qué fármaco. Así que veámoslo. Recordemos
+
+30
+00:02:13,980 --> 00:02:17,860
+que el riesgo que hay al cardiovertir es justamente que se
+
+31
+00:02:17,860 --> 00:02:22,180
+produzca una embolia en ese momento en el sentido en que la aurícula está
+
+32
+00:02:22,180 --> 00:02:26,940
+fibrilando eventualmente se pudo haber formado un trombo y al cardiovertirla
+
+33
+00:02:26,940 --> 00:02:30,940
+la aurícula empieza a contraerse se suelta el trombo y se produce la
+
+34
+00:02:30,940 --> 00:02:36,500
+embolia así que es un momento de especial riesgo en el momento en que
+
+35
+00:02:36,500 --> 00:02:40,500
+se cardioverte. Así que en qué momento se hace pues tengo dos
+
+36
+00:02:40,500 --> 00:02:45,420
+opciones una es anticoagularla y cardiovertir en tres a cuatro semanas
+
+37
+00:02:45,420 --> 00:02:49,060
+más en el sentido en que no se ha demostrado que haya ningún beneficio
+
+38
+00:02:49,060 --> 00:02:52,740
+adicional por cardiovertir la hora en vez de hacerlo en tres o cuatro
+
+39
+00:02:52,740 --> 00:02:58,260
+semanas y la segunda opción que tengo es hacerle un eco
+
+40
+00:02:58,260 --> 00:03:02,580
+cardio transesofágico y si es que está normal en ese caso voy y lo
+
+41
+00:03:02,580 --> 00:03:06,620
+cardioverto en el sentido en que digo no hay ni cardiopatía ni hay un
+
+42
+00:03:06,620 --> 00:03:12,500
+trombo. Ahora la típica pregunta es si lleva menos de 48 horas de FA o
+
+43
+00:03:12,500 --> 00:03:17,360
+sea si es que lleva un periodo muy breve en que hay un bajísimo riesgo de
+
+44
+00:03:17,360 --> 00:03:21,940
+que se haya formado un trombo y no tengo disponible el eco transesofágico si
+
+45
+00:03:21,940 --> 00:03:26,180
+en ese caso yo puedo cardiovertirlo o no y la verdad es que es súper
+
+46
+00:03:26,180 --> 00:03:30,580
+discutible. Hay algunos que dicen sabe que espérese a conseguir un eco
+
+47
+00:03:30,580 --> 00:03:33,980
+transesofágico y hay otros que dicen mire en este caso el riesgo es
+
+48
+00:03:33,980 --> 00:03:39,340
+especialmente bajo así que se va a determinar según los factores de
+
+49
+00:03:39,420 --> 00:03:43,940
+riesgo del paciente los recursos que haya la real posibilidad de que se haga
+
+50
+00:03:43,940 --> 00:03:47,780
+un eco transesofágico en los próximos días así que con eso se
+
+51
+00:03:47,780 --> 00:03:54,220
+decide pero sepan que el tener el eco transesofágico que descarte
+
+52
+00:03:54,220 --> 00:03:59,140
+trombos es lo ideal en la actualidad. Ahora con qué con con qué
+
+53
+00:03:59,140 --> 00:04:04,300
+fármacos se cardioverte pues la midodarona es el más clásico es el
+
+54
+00:04:04,300 --> 00:04:08,460
+de elección en la mayoría de los casos y si es que el corazón no
+
+55
+00:04:08,460 --> 00:04:12,660
+tiene ninguna enfermedad pues como opción tengo a los antiharrítmicos de
+
+56
+00:04:12,660 --> 00:04:17,280
+la clase 1c dígase la la la propia fenona o la fleca inida que
+
+57
+00:04:17,280 --> 00:04:20,340
+acuérdense están absolutamente contraindicado en el caso de que haya
+
+58
+00:04:20,340 --> 00:04:24,260
+un corazón enfermo en que solamente puede usar la midodarona. Ahora
+
+59
+00:04:24,260 --> 00:04:27,860
+cuando los fármacos fallan de última línea está la cardioversión
+
+60
+00:04:27,860 --> 00:04:31,500
+eléctrica eso se puede hacer aunque esté con hemodinamia estable como
+
+61
+00:04:31,500 --> 00:04:36,420
+una forma de volverlo a ritmo sinusal y finalmente al alta al
+
+62
+00:04:36,420 --> 00:04:40,740
+mandarlo para la casa va a quedar o con control de ritmo o con control de
+
+63
+00:04:40,740 --> 00:04:46,220
+frecuencia según el caso concreto del paciente de la misma forma en que se
+
+64
+00:04:46,220 --> 00:04:51,400
+manejaba la fa crónica o sea fíjense si bien en la fa aguda siempre
+
+65
+00:04:51,400 --> 00:04:55,700
+anticoagulo siempre bajo la frecuencia y siempre cardio abierto
+
+66
+00:04:55,700 --> 00:04:59,820
+luego decido hacia futuro si es que queda anticoagulado y si es que va a
+
+67
+00:04:59,820 --> 00:05:02,700
+quedar con control de ritmo o frecuencia de la misma forma en que
+
+68
+00:05:02,700 --> 00:05:06,420
+sería en un paciente con una fea crónica que habitualmente quedan con
+
+69
+00:05:06,420 --> 00:05:13,220
+control de ritmo y habitualmente quedan anticoagulados en su mayoría de
+
+70
+00:05:13,220 --> 00:05:20,660
+los casos a menos claro que tengan un chat 2 de 0. Y eso es todo, nos vemos en el siguiente tema.

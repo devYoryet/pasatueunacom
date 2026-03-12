@@ -1,0 +1,1195 @@
+1
+00:00:00,000 --> 00:00:07,020
+Sigamos con nefrología, vamos a ver insuficiencia renal agúa que es un tema
+
+2
+00:00:07,020 --> 00:00:10,420
+relativamente largo y difícil así que no perdamos tiempo y empecemos
+
+3
+00:00:10,420 --> 00:00:14,300
+recordando la definición que era hasta caída la filtración glomerular que
+
+4
+00:00:14,300 --> 00:00:17,740
+llevaba menos de tres meses. El diagnóstico obviamente es con el
+
+5
+00:00:17,740 --> 00:00:21,700
+clínense de creatinina que el valor normal por el general es que sea
+
+6
+00:00:21,700 --> 00:00:26,100
+mayor a 90 ml minuto o mayor a 100 ml minuto según la fuente que uno
+
+7
+00:00:26,100 --> 00:00:31,500
+revise y obviamente esto tiene que tener menos de tres meses. La forma en
+
+8
+00:00:31,500 --> 00:00:34,620
+que uno calcula este clínense de creatinina puede ser número uno con la
+
+9
+00:00:34,620 --> 00:00:38,900
+antigua fórmula de Kogroft que es bastante buena por su caso que es 140
+
+10
+00:00:38,900 --> 00:00:42,700
+menos la edad y el resultado se multiplica por el peso y eso se divide
+
+11
+00:00:42,700 --> 00:00:46,940
+por la creatinina plasmática multiplicado por 72 que es el peso
+
+12
+00:00:46,940 --> 00:00:51,860
+ideal o el peso promedio de las personas así que en la práctica
+
+13
+00:00:51,860 --> 00:00:56,060
+depende de la creatinina que mientras más creatinina haya más bajo el
+
+14
+00:00:56,060 --> 00:01:01,700
+clínense y depende de la edad que mientras más edad tenga más bajos el
+
+15
+00:01:01,700 --> 00:01:06,580
+clínense también a los 90 años por ejemplo una creatinina de 1 o de 1.1
+
+16
+00:01:06,580 --> 00:01:10,940
+puede venir con un clínense incluso debajo de 30 ml minuto y el peso
+
+17
+00:01:10,940 --> 00:01:14,940
+obviamente se ajusta por el peso ideal se divide por 72. Aparte de
+
+18
+00:01:14,940 --> 00:01:19,420
+esto lo puedo calcular de una manera más estandarizada más correcta con
+
+19
+00:01:19,420 --> 00:01:24,500
+el clínense con una muestra de orina de 24 horas y ahí se hacen
+
+20
+00:01:24,540 --> 00:01:29,660
+algunos cálculos y se obtiene un número mucho más objetivo para el
+
+21
+00:01:29,660 --> 00:01:34,340
+paciente que luego si se ajusta por el peso también por su caso. Ahora en el
+
+22
+00:01:34,340 --> 00:01:37,380
+caso de la insuficiencia renal aguda y una serie de complicaciones que hay
+
+23
+00:01:37,380 --> 00:01:41,420
+que saberlas porque son las que finalmente matan al paciente y
+
+24
+00:01:41,420 --> 00:01:44,660
+dentro de esta está la hipercalemia que puede ser una causa de arritma y
+
+25
+00:01:44,660 --> 00:01:49,140
+muerte la hiponatremia la acidosis que es una acidosis de tipo
+
+26
+00:01:49,140 --> 00:01:53,260
+metabólica cierto puede incluso venir con osteodistrofia renal aunque
+
+27
+00:01:53,260 --> 00:01:55,900
+esa es una complicación mucho más frecuente la insuficiencia renal
+
+28
+00:01:55,900 --> 00:02:00,180
+crónica con hiperboleña que puede venir con edema extremidades
+
+29
+00:02:00,180 --> 00:02:03,060
+inferiores y a su vez puede venir también con complicaciones un
+
+30
+00:02:03,060 --> 00:02:05,740
+poquito más graves como una hipertensión secundaria a la falla
+
+31
+00:02:05,740 --> 00:02:10,660
+renal incluso con un edema pulmonar agudo que puede matar al paciente y
+
+32
+00:02:10,660 --> 00:02:14,300
+finalmente la anemia que nuevamente es mucho más frecuente la
+
+33
+00:02:14,300 --> 00:02:17,180
+insuficiencia renal crónica que es la aguda pero se puede ver en la
+
+34
+00:02:17,180 --> 00:02:22,420
+aguda también. De todas las complicaciones la más temida la
+
+35
+00:02:22,420 --> 00:02:26,660
+más grave es el síndrome urémico ya establecido que es el que viene con
+
+36
+00:02:26,660 --> 00:02:31,180
+todas estas alteraciones que ya mencionamos pero que además puede venir
+
+37
+00:02:31,180 --> 00:02:35,140
+con encesfalopatía que se vea ya sea con compromisos de conciencia con
+
+38
+00:02:35,140 --> 00:02:40,540
+desorientación con asterixis con una pericarditis aguda que puede venir
+
+39
+00:02:40,540 --> 00:02:45,700
+con un derrame pericártico con frotes pericárticos y finalmente con
+
+40
+00:02:45,700 --> 00:02:49,980
+una clínica más inespecífica como astenia adinamia con hipo o
+
+41
+00:02:50,100 --> 00:02:56,820
+ingultos cierto y con el clásico fetor urémico que es el olor como orina
+
+42
+00:02:56,820 --> 00:03:01,220
+que tienen los pacientes con falla renal muy importante. Dentro de las
+
+43
+00:03:01,220 --> 00:03:04,620
+causas de la insuficiencia renal aguda hay que saberlas y hay que saber
+
+44
+00:03:04,620 --> 00:03:09,300
+diferenciarlas entre ellas. Se dividen en pre renal en renal y en
+
+45
+00:03:09,300 --> 00:03:13,460
+post renal la más frecuente por lejos es la pre renal que es el 70
+
+46
+00:03:13,460 --> 00:03:16,980
+por ciento o incluso más del total de insuficiencia renal aguda y
+
+47
+00:03:17,060 --> 00:03:21,500
+acuérdense que suele asociarse a hipovolemia ya sea por desidratación
+
+48
+00:03:21,500 --> 00:03:26,180
+por diarrea por vómito por diuréticos que eventualmente pueden
+
+49
+00:03:26,780 --> 00:03:31,540
+desidratar al paciente volverlo hipovolemico pre renal cierto por
+
+50
+00:03:31,540 --> 00:03:34,660
+hemorragia igualmente hay una hipovolemia pero también por la
+
+51
+00:03:34,660 --> 00:03:38,500
+insuficiencia cardíaca y aquí acuérdense que la insuficiencia
+
+52
+00:03:38,500 --> 00:03:41,860
+cardíaca no viene con hipovolemia sino que viene con una falla de
+
+53
+00:03:41,860 --> 00:03:46,340
+bomba que finalmente hace que llegue menos sangre a los pulmones
+
+54
+00:03:47,700 --> 00:03:52,980
+perdón a los riñones dentro de las causas de insuficiencia renal de
+
+55
+00:03:52,980 --> 00:03:56,820
+tipo renal o sea insuficiencia renal aguda de tipo renal venga la
+
+56
+00:03:56,820 --> 00:04:01,060
+redundancia está la necrosis tubular aguda que es por lejos la
+
+57
+00:04:01,060 --> 00:04:05,260
+más frecuente también pero hay otras las numerolonefritis aguda
+
+58
+00:04:05,260 --> 00:04:10,180
+por ejemplo el infarto renal las pielonefritis aguda el síndrome
+
+59
+00:04:10,180 --> 00:04:13,420
+hemolytico uremico etcétera puede haber una serie de otras
+
+60
+00:04:13,420 --> 00:04:16,900
+causas dentro de las por renal cualquier cosa que obstruya la
+
+61
+00:04:16,900 --> 00:04:20,820
+vía urinaria ejemplo una uropatía obstructiva baja por una
+
+62
+00:04:20,820 --> 00:04:23,340
+hiperplasia prostática benigna por un cáncer de próstata o por
+
+63
+00:04:23,340 --> 00:04:28,020
+la razón que sea las litiasis renales que pueden ya sea obstruir
+
+64
+00:04:28,020 --> 00:04:32,580
+un uretero o la uretra también malformaciones reflujo
+
+65
+00:04:32,820 --> 00:04:36,060
+bísico ureteral etcétera una serie de causas que finalmente
+
+66
+00:04:36,380 --> 00:04:40,020
+obstruyen la salida de la orina desde los riñones hacia
+
+67
+00:04:40,220 --> 00:04:45,500
+el exterior en la vía urinaria sepan que el tratamiento de la
+
+68
+00:04:45,500 --> 00:04:48,820
+insuficiencia renal aguda de tipo pre renal por reglas
+
+69
+00:04:48,820 --> 00:04:51,540
+generales el suero fisiológico pero hay una gran
+
+70
+00:04:51,540 --> 00:04:54,660
+excepción que hay que saber y hay que recordar que la
+
+71
+00:04:54,660 --> 00:04:57,460
+insuficiencia cardiaca en el sentido en que si yo le doy
+
+72
+00:04:57,460 --> 00:04:59,860
+mucho suero o una insuficiencia cardiaca incluso
+
+73
+00:04:59,860 --> 00:05:03,500
+puedo descompesar al al paciente y generarle un edema
+
+74
+00:05:03,500 --> 00:05:06,780
+pulmonar agudo dentro de las insuficiencias renales agudas
+
+75
+00:05:06,820 --> 00:05:10,340
+de tipo renal obviamente el manejo va a depender según
+
+76
+00:05:10,340 --> 00:05:13,740
+la causa ejemplo en una glomerulonefritis aguda algunas
+
+77
+00:05:13,740 --> 00:05:17,620
+se benefician de corticoides otras de otros fármacos
+
+78
+00:05:17,620 --> 00:05:20,460
+etcétera en la pilonefritis se pueden tratar con
+
+79
+00:05:20,460 --> 00:05:23,580
+antibióticos etcétera en el caso de la post renal
+
+80
+00:05:23,580 --> 00:05:25,820
+siempre se estudia con una ecografía en el sentido que
+
+81
+00:05:25,820 --> 00:05:28,980
+tengo que ir a identificar en qué parte está obstruido
+
+82
+00:05:29,300 --> 00:05:32,860
+la ecografía me confirma la etiología post renal y
+
+83
+00:05:32,860 --> 00:05:36,300
+además me confirma la causa específica y el nivel de
+
+84
+00:05:36,300 --> 00:05:39,460
+obstrucción de manera que yo pueda ir a desobtruir y
+
+85
+00:05:39,460 --> 00:05:42,260
+ejemplo si que está con una malformación se puede
+
+86
+00:05:42,260 --> 00:05:45,820
+operar si está con una obstrucción a nivel de la
+
+87
+00:05:45,820 --> 00:05:48,500
+próstata se puede instalar una sonda foley una sonda
+
+88
+00:05:48,500 --> 00:05:51,860
+vesical si está tapado un ureter se puede instalar
+
+89
+00:05:51,860 --> 00:05:54,900
+un catéter doble jota por ejemplo ahora algo super
+
+90
+00:05:54,900 --> 00:05:56,940
+importante es como diferenciar la insuficiencia renal
+
+91
+00:05:56,940 --> 00:06:00,700
+aguda de tipo pre renal de la de tipo renal en el
+
+92
+00:06:00,700 --> 00:06:03,940
+sentido en que a veces uno se confunde y el ejemplo
+
+93
+00:06:03,980 --> 00:06:06,940
+más clásico y más frecuente por si acaso es cuando
+
+94
+00:06:06,940 --> 00:06:09,740
+el paciente está choqueado con una hipovolimia más o
+
+95
+00:06:09,740 --> 00:06:12,820
+menos importante y uno dice está pre renal pero luego
+
+96
+00:06:12,820 --> 00:06:16,660
+evoluciona a una esquemia renal y se complica con
+
+97
+00:06:16,660 --> 00:06:19,780
+una necrosis tubular aguda que ya es de tipo renal
+
+98
+00:06:19,780 --> 00:06:21,940
+y que requiere un manejo distinto y que tiene un
+
+99
+00:06:21,940 --> 00:06:25,100
+pronóstico distinto también y en este caso los
+
+100
+00:06:25,100 --> 00:06:28,660
+parámetros que me sirven para hacer esta diferencia
+
+101
+00:06:28,660 --> 00:06:31,900
+en primer lugar y la más importante es la famosa
+
+102
+00:06:31,900 --> 00:06:34,740
+pena la fracción excretada de sodio que su
+
+103
+00:06:34,740 --> 00:06:38,140
+fórmula es la que está ahí es el sodio urinario
+
+104
+00:06:38,140 --> 00:06:40,940
+dividido por el sodio plasmático y todo esto
+
+105
+00:06:40,940 --> 00:06:45,500
+dividido por la crea urinaria dividida por la crea
+
+106
+00:06:45,500 --> 00:06:49,420
+plasmática la nemo técnica para esto es es una
+
+107
+00:06:49,420 --> 00:06:54,260
+pena cierto una el sodio urinario y pena el
+
+108
+00:06:54,260 --> 00:06:57,020
+sodio plasmático que lo que viene después no se
+
+109
+00:06:57,020 --> 00:07:00,620
+puede leer que es imposible leerlo así que ahí
+
+110
+00:07:00,620 --> 00:07:04,100
+se lo pueden aprender de esa forma aparte de eso
+
+111
+00:07:04,100 --> 00:07:06,500
+hay otros elementos que también sirven el sodio
+
+112
+00:07:06,500 --> 00:07:09,380
+urinario solo y en el sentido en que si es que
+
+113
+00:07:09,380 --> 00:07:12,540
+no me dan el FENA ya calculado eventualmente yo
+
+114
+00:07:12,540 --> 00:07:16,420
+miro el puro sodio urinario ya me hago una idea
+
+115
+00:07:16,420 --> 00:07:19,340
+aparte de esto la hormonaridad urinaria y la
+
+116
+00:07:19,340 --> 00:07:22,340
+urea urinaria y finalmente si bien es un
+
+117
+00:07:22,340 --> 00:07:25,260
+mal elemento porque es poco sensible y poco
+
+118
+00:07:25,260 --> 00:07:28,060
+específico la relación bunkrea muchas veces en
+
+119
+00:07:28,060 --> 00:07:30,020
+la que uno ve de manera más fácil en los
+
+120
+00:07:30,020 --> 00:07:33,500
+exámenes de sangre. Empecemos con el FENA en la
+
+121
+00:07:33,500 --> 00:07:35,900
+pre renal las fracciones que está de sodio está
+
+122
+00:07:35,900 --> 00:07:39,060
+muy muy disminuida menor a 1 por ciento ese es el
+
+123
+00:07:39,060 --> 00:07:41,780
+punto de corte en el sentido en que como está
+
+124
+00:07:41,780 --> 00:07:45,180
+pre renal está hipovolémico los riñones intentan
+
+125
+00:07:45,180 --> 00:07:47,780
+reabsorber todo lo que pueden de sodio para
+
+126
+00:07:47,780 --> 00:07:50,020
+mantener la bolemia y las fracciones que está
+
+127
+00:07:50,020 --> 00:07:52,460
+de sodio es muy bajita repito menos 1 por ciento
+
+128
+00:07:53,060 --> 00:07:56,180
+en la renal en cambio está mayor a 1 por ciento
+
+129
+00:07:56,180 --> 00:07:57,820
+repito ese es el punto de corte pero en la
+
+130
+00:07:57,820 --> 00:08:00,340
+práctica está mayor a 2 por ciento incluso
+
+131
+00:08:00,340 --> 00:08:03,540
+mayor a 3 por ciento respecto el sodio urinario
+
+132
+00:08:03,620 --> 00:08:07,020
+nuevamente está muy bajito en la pre renal menos
+
+133
+00:08:07,020 --> 00:08:09,740
+de 10 mil equivalentes por litro en el sentido
+
+134
+00:08:10,100 --> 00:08:11,900
+en que se reabsorbe todo el sodio que se puede
+
+135
+00:08:11,940 --> 00:08:14,180
+tal como ya lo explicamos en cambio de solo estar
+
+136
+00:08:14,180 --> 00:08:16,860
+arriba de 20 mil equivalentes por litro en
+
+137
+00:08:16,860 --> 00:08:19,700
+el caso de las de tipo renal incluso arriba de
+
+138
+00:08:19,700 --> 00:08:22,220
+30 en una necrosis tubular aguda por ejemplo
+
+139
+00:08:22,940 --> 00:08:25,540
+respecto a la hormonaridad urinaria y a la
+
+140
+00:08:25,540 --> 00:08:28,780
+urea urinaria es distinto a lo que pasa con el
+
+141
+00:08:28,780 --> 00:08:32,340
+sodio en este caso suelen estar aumentadas en
+
+142
+00:08:32,340 --> 00:08:35,140
+el sentido en que se reabsorben no solamente
+
+143
+00:08:35,140 --> 00:08:37,420
+el sodio sino que igualmente todo el agua que
+
+144
+00:08:37,420 --> 00:08:40,660
+se puede pero queda una orina muy concentrada
+
+145
+00:08:40,980 --> 00:08:44,420
+y una de las cosas que no se reabsorbe que
+
+146
+00:08:44,420 --> 00:08:46,620
+hay que eliminar es justamente la urea así
+
+147
+00:08:46,620 --> 00:08:48,940
+que la urea en este caso suele estar elevada
+
+148
+00:08:48,940 --> 00:08:51,980
+también al igual que la hormonaridad y en las
+
+149
+00:08:51,980 --> 00:08:55,140
+de tipo renal como ejemplo en la necrosis
+
+150
+00:08:55,140 --> 00:08:57,460
+tubular aguda en que se pierde mucha agua por
+
+151
+00:08:57,460 --> 00:08:59,940
+el contrario suele venir con orinas más diluidas
+
+152
+00:09:00,180 --> 00:09:02,300
+con una hormonaridad más baja con una cantidad
+
+153
+00:09:02,300 --> 00:09:03,140
+de urea más baja.
+
+154
+00:09:03,900 --> 00:09:07,540
+Finalmente la relación bunkrea ya dijimos en la
+
+155
+00:09:07,540 --> 00:09:09,940
+pre renal suele estar elevada habitualmente
+
+156
+00:09:09,940 --> 00:09:13,260
+arriba de 20 y en la renal en cambio suele
+
+157
+00:09:13,260 --> 00:09:17,020
+estar debajo de 20 recordando que es un
+
+158
+00:09:17,020 --> 00:09:18,740
+parámetro que no es tan sensible así que si
+
+159
+00:09:18,740 --> 00:09:21,180
+es que tengo que elegir de todo eso que es
+
+160
+00:09:21,180 --> 00:09:24,300
+lo más importante pues es la fena y aparte
+
+161
+00:09:24,340 --> 00:09:27,060
+de eso el sodio urinario y por favor no me
+
+162
+00:09:27,060 --> 00:09:29,380
+confundan los puntos de corte de la fena con los
+
+163
+00:09:29,380 --> 00:09:31,140
+de sodio urinario porque si yo les digo que
+
+164
+00:09:31,140 --> 00:09:33,700
+está en cinco en ese caso si es cinco por ciento
+
+165
+00:09:33,700 --> 00:09:36,500
+de fena pues obviamente este tipo renal pero
+
+166
+00:09:36,500 --> 00:09:38,300
+si es cinco mil equivalentes por litro de
+
+167
+00:09:38,300 --> 00:09:41,180
+sodio urinario en ese caso está pre renal
+
+168
+00:09:41,180 --> 00:09:43,980
+así que hay que tener harto ojo de no
+
+169
+00:09:43,980 --> 00:09:45,460
+confundir porque son valores diferentes.
+
+170
+00:09:46,380 --> 00:09:48,780
+Finalmente veamos el tratamiento de la
+
+171
+00:09:48,780 --> 00:09:50,740
+insuficiencia renal aguda por regla general
+
+172
+00:09:50,780 --> 00:09:53,220
+es el tratamiento de la causa ya dijimos en
+
+173
+00:09:53,220 --> 00:09:55,500
+el caso de que esté renal el suelo fisiológico
+
+174
+00:09:55,740 --> 00:09:59,220
+salvo en la insuficiencia renal aguda recordando
+
+175
+00:09:59,220 --> 00:10:02,020
+que habitualmente es reversible y si yo saco
+
+176
+00:10:02,020 --> 00:10:04,500
+la causa pues se recupera la función renal
+
+177
+00:10:04,900 --> 00:10:08,740
+más el manejo de las complicaciones y eso
+
+178
+00:10:08,980 --> 00:10:11,380
+lo vamos a ver con cierto detalle después cada
+
+179
+00:10:11,380 --> 00:10:13,860
+una de ellas pero sí quiero que recuerden las
+
+180
+00:10:13,860 --> 00:10:15,660
+indicaciones de diálisis de urgencia la
+
+181
+00:10:15,660 --> 00:10:17,940
+insuficiencia renal aguda que aplican también
+
+182
+00:10:17,940 --> 00:10:19,380
+a la insuficiencia renal crónica.
+
+183
+00:10:19,820 --> 00:10:21,900
+En el caso de la insuficiencia renal crónica
+
+184
+00:10:21,940 --> 00:10:24,740
+lo más habitual es que se dialicen cuando ya
+
+185
+00:10:24,740 --> 00:10:27,260
+ha avanzado mucho cuando está en etapa 5 en
+
+186
+00:10:27,260 --> 00:10:29,500
+cambio la insuficiencia renal aguda lo habitual
+
+187
+00:10:29,500 --> 00:10:32,460
+es que no se dialicen a menos claro que
+
+188
+00:10:32,460 --> 00:10:35,020
+cumpla con las dos grandes indicaciones que
+
+189
+00:10:35,060 --> 00:10:36,500
+número uno es que venga con un síndrome
+
+190
+00:10:36,500 --> 00:10:39,300
+urémico establecido con encefalopatía con
+
+191
+00:10:39,580 --> 00:10:42,460
+con un cuadro ya mucho más grave y segundo
+
+192
+00:10:42,460 --> 00:10:44,180
+lugar cuando venga con una complicación
+
+193
+00:10:44,180 --> 00:10:45,900
+pero no cualquiera tiene que ser una que
+
+194
+00:10:45,900 --> 00:10:48,620
+sea grave y además de grave tiene que ser
+
+195
+00:10:48,740 --> 00:10:50,620
+refractaria dígase que no responde al
+
+196
+00:10:50,620 --> 00:10:52,860
+tratamiento médico y repito las dos
+
+197
+00:10:52,860 --> 00:10:55,740
+indicaciones de la diálisis de urgencia
+
+198
+00:10:56,020 --> 00:10:58,020
+son el síndrome urémico y las complicaciones
+
+199
+00:10:58,020 --> 00:10:59,820
+graves que no responden al tratamiento médico
+
+200
+00:10:59,820 --> 00:11:01,740
+y eso hay que saberlo y hay que saberlo
+
+201
+00:11:01,740 --> 00:11:03,460
+bien y para que quede bien claro veamos
+
+202
+00:11:03,460 --> 00:11:05,860
+algún ejemplo si viene con un potasio
+
+203
+00:11:05,860 --> 00:11:07,780
+de 8 por ejemplo con una hipercalemia
+
+204
+00:11:07,780 --> 00:11:10,700
+severa pues lo dializo o no la respuesta
+
+205
+00:11:10,700 --> 00:11:13,180
+es no en ese caso es severa pero le doy
+
+206
+00:11:13,180 --> 00:11:14,740
+el manejo médico en primer lugar
+
+207
+00:11:14,740 --> 00:11:16,420
+dígase el gluconato de calcio la
+
+208
+00:11:16,420 --> 00:11:18,620
+insulina con glucosa eventualmente el
+
+209
+00:11:19,180 --> 00:11:21,060
+la furosemida etcétera y solamente si es
+
+210
+00:11:21,060 --> 00:11:23,180
+que no responde recién ahí se va a una
+
+211
+00:11:23,180 --> 00:11:25,500
+hemodialisis de urgencia si está con un
+
+212
+00:11:25,500 --> 00:11:27,940
+calcio de 7 que está con una hipocalcemia
+
+213
+00:11:28,260 --> 00:11:30,020
+más o menos importante pues nuevamente
+
+214
+00:11:30,100 --> 00:11:32,340
+no se dializa se maneja con el
+
+215
+00:11:32,340 --> 00:11:34,300
+gluconato de calcio endovenoso y
+
+216
+00:11:34,300 --> 00:11:36,260
+solamente si es que anda muy mal que
+
+217
+00:11:36,260 --> 00:11:38,460
+es raro que no revierta recién ahí se
+
+218
+00:11:38,460 --> 00:11:41,060
+piensa en dializarlo si que está con
+
+219
+00:11:41,060 --> 00:11:43,540
+un sodio de 128 que es una
+
+220
+00:11:43,540 --> 00:11:44,820
+hiponatremia que ni siquiera es
+
+221
+00:11:44,820 --> 00:11:46,980
+grave lo más probable es que incluso
+
+222
+00:11:46,980 --> 00:11:48,860
+si es que no lo logro normalizar si es
+
+223
+00:11:48,860 --> 00:11:52,820
+que no llego a los 135 con la restricción
+
+224
+00:11:52,820 --> 00:11:54,060
+de agua libre por ejemplo lo más
+
+225
+00:11:54,060 --> 00:11:55,540
+probable es que no lo voy a dializar de
+
+226
+00:11:55,540 --> 00:11:56,860
+ninguna manera al menos no por esa
+
+227
+00:11:56,860 --> 00:11:58,860
+razón si que está con un sodio de
+
+228
+00:11:58,860 --> 00:12:02,580
+118 ahí está abajo de 120 cierto es
+
+229
+00:12:02,580 --> 00:12:04,540
+más grave tiene riesgo de una edema
+
+230
+00:12:04,540 --> 00:12:06,460
+cerebral por ejemplo en ese caso si
+
+231
+00:12:06,460 --> 00:12:07,940
+lo voy a manejar nuevamente de
+
+232
+00:12:07,940 --> 00:12:10,180
+manera médica pero más agresiva
+
+233
+00:12:10,180 --> 00:12:13,140
+ejemplo con el suero hipertónico
+
+234
+00:12:13,140 --> 00:12:14,700
+endovenoso a pasarlo lento para
+
+235
+00:12:14,700 --> 00:12:16,500
+que no me haga una mielinolisis
+
+236
+00:12:16,500 --> 00:12:17,700
+pontina que todo esto lo vamos a ver con
+
+237
+00:12:17,700 --> 00:12:19,700
+más detalles después y obviamente si es
+
+238
+00:12:19,700 --> 00:12:22,780
+que no lo no lo logro solucionar pues
+
+239
+00:12:22,780 --> 00:12:24,620
+eventualmente si le hago un hemodiálisis
+
+240
+00:12:24,620 --> 00:12:26,820
+de urgencia y nuevamente con miedo de
+
+241
+00:12:26,820 --> 00:12:28,340
+no corregirlo muy rápido para evitar
+
+242
+00:12:28,340 --> 00:12:31,140
+la mielinolisis pontina si es que está
+
+243
+00:12:31,140 --> 00:12:33,900
+con un ph de 7.3 pues voy a darle el
+
+244
+00:12:33,900 --> 00:12:35,620
+tratamiento médico e incluso si es
+
+245
+00:12:35,620 --> 00:12:37,260
+que no logro solucionarlo no lo
+
+246
+00:12:37,260 --> 00:12:38,940
+dializo por esa razón porque es
+
+247
+00:12:38,940 --> 00:12:41,180
+leve si está con un ph de 7 en
+
+248
+00:12:41,180 --> 00:12:42,820
+cambio ahí sí lo más probable es
+
+249
+00:12:42,820 --> 00:12:44,500
+que eventualmente si no logro
+
+250
+00:12:44,500 --> 00:12:45,660
+manejarlo con bicarbonato
+
+251
+00:12:45,660 --> 00:12:47,420
+endovenoso si se dializa pero
+
+252
+00:12:47,420 --> 00:12:48,900
+nuevamente en primer lugar no va la
+
+253
+00:12:48,900 --> 00:12:50,820
+diálisis sino que va el tratamiento
+
+254
+00:12:50,820 --> 00:12:53,660
+médico si es que está con frotes con
+
+255
+00:12:53,660 --> 00:12:56,300
+frotes pericárdicos si está con una
+
+256
+00:12:56,300 --> 00:12:58,180
+pericarditis urémica pues en ese
+
+257
+00:12:58,180 --> 00:12:59,540
+caso ya está con un síndrome
+
+258
+00:12:59,540 --> 00:13:01,980
+urémico así que si es razón para
+
+259
+00:13:01,980 --> 00:13:04,900
+dializarlo de inmediato si que está
+
+260
+00:13:04,900 --> 00:13:07,940
+con un bún arriba de 100 per se no
+
+261
+00:13:07,940 --> 00:13:10,020
+es una indicación pero hay que saber
+
+262
+00:13:10,020 --> 00:13:11,420
+ese punto de corte en el sentido
+
+263
+00:13:11,420 --> 00:13:12,500
+que el bún arriba de 100
+
+264
+00:13:12,500 --> 00:13:14,340
+habitualmente si se asocia a un
+
+265
+00:13:14,340 --> 00:13:16,140
+síndrome urémico así que hay que ir
+
+266
+00:13:16,140 --> 00:13:18,220
+a ver si que clínicamente está bien si
+
+267
+00:13:18,220 --> 00:13:19,460
+es que está sin ninguna complicación
+
+268
+00:13:19,460 --> 00:13:20,580
+grave que no responde y si es que
+
+269
+00:13:20,580 --> 00:13:22,460
+está sin compromiso de conciencia por
+
+270
+00:13:22,460 --> 00:13:24,060
+ejemplo en ese caso nuevamente no es
+
+271
+00:13:24,060 --> 00:13:25,860
+obligatorio dializarlo pero
+
+272
+00:13:25,860 --> 00:13:28,340
+acuérdense de ese punto de corte
+
+273
+00:13:28,340 --> 00:13:29,980
+porque eventualmente si se va
+
+274
+00:13:29,980 --> 00:13:31,140
+a complicar o si va a venir con
+
+275
+00:13:31,140 --> 00:13:32,380
+alguna cosa que requiera diálisis
+
+276
+00:13:32,380 --> 00:13:34,140
+si que está con un bún arriba de
+
+277
+00:13:34,140 --> 00:13:35,740
+100 más compromisos de conciencia
+
+278
+00:13:35,740 --> 00:13:37,060
+en ese caso ya no me queda ninguna
+
+279
+00:13:37,060 --> 00:13:38,980
+duda el compromiso de conciencia y
+
+280
+00:13:38,980 --> 00:13:40,260
+es parte del síndrome urémico
+
+281
+00:13:40,260 --> 00:13:42,020
+establecido así que si es
+
+282
+00:13:42,020 --> 00:13:43,460
+indicación de hemodialisis de
+
+283
+00:13:43,460 --> 00:13:45,300
+urgencia y finalmente si está con
+
+284
+00:13:45,300 --> 00:13:47,500
+un edema pulmonar agudo nuevamente es
+
+285
+00:13:47,500 --> 00:13:49,420
+una complicación grave pero tengo
+
+286
+00:13:49,420 --> 00:13:50,780
+que darle el tratamiento médico
+
+287
+00:13:50,780 --> 00:13:52,780
+inicial que en este caso es la
+
+288
+00:13:52,780 --> 00:13:54,020
+furosemida porque viene con una
+
+289
+00:13:54,020 --> 00:13:55,660
+sobrecarga de volumen más el
+
+290
+00:13:55,660 --> 00:13:57,380
+manejo clásico del edema pulmonar
+
+291
+00:13:57,380 --> 00:13:59,780
+agudo dígase los vasodilatadores
+
+292
+00:13:59,780 --> 00:14:02,860
+como el nitro plus cierto más el
+
+293
+00:14:02,860 --> 00:14:04,860
+soporte ventilatorio eventualmente
+
+294
+00:14:04,860 --> 00:14:06,820
+la ventilación mecánica invasiva y
+
+295
+00:14:06,820 --> 00:14:07,980
+como les había dicho una clase
+
+296
+00:14:07,980 --> 00:14:09,660
+larga y difícil pero todavía
+
+297
+00:14:09,660 --> 00:14:12,420
+quedan más así que ahí agarren
+
+298
+00:14:12,580 --> 00:14:14,300
+fuerza para seguir viendo nefro nos
+
+299
+00:14:14,300 --> 00:14:16,500
+vemos

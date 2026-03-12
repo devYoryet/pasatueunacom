@@ -1,0 +1,255 @@
+1
+00:00:03,150 --> 00:00:07,870
+Hola hola, aprendamos a interpretar las famosas espirometrías, recordemos antes
+
+2
+00:00:07,870 --> 00:00:11,710
+cuál es su utilidad, por un lado diagnostican el asma o al menos ayudan al
+
+3
+00:00:11,710 --> 00:00:15,150
+diagnóstico del asma cuyo diagnóstico es fundamentalmente clínico, si
+
+4
+00:00:15,150 --> 00:00:20,390
+diagnostican el EPOC, ya que ahí el diagnóstico es clínico y funcional,
+
+5
+00:00:20,390 --> 00:00:24,190
+diagnostican la restricción en las enfermedades restrictivas, como
+
+6
+00:00:24,190 --> 00:00:27,830
+ejemplo una firoz y pulmonar, ven la severidad del EPOC, acuérdense que
+
+7
+00:00:27,830 --> 00:00:34,390
+eso se veía con el BEF1, además sirven para ir viendo la respuesta al
+
+8
+00:00:34,390 --> 00:00:37,910
+tratamiento que uno le deja al asma al EPOC y la progresión de la enfermedad
+
+9
+00:00:37,910 --> 00:00:42,350
+a medida que va empeorando la espirometría uno se da cuenta que va
+
+10
+00:00:42,350 --> 00:00:46,110
+empeorando la enfermedad también, o si es que mejora, obviamente mejora la
+
+11
+00:00:46,110 --> 00:00:50,830
+enfermedad también, aparte de esto hay que saber que en el procedimiento se
+
+12
+00:00:50,830 --> 00:00:56,190
+sopla a través de un dispositivo y justamente se van midiendo los
+
+13
+00:00:56,190 --> 00:00:59,990
+volúmenes pulmonares, los flujos de aire y las cosas que se miden son
+
+14
+00:00:59,990 --> 00:01:05,390
+fundamentalmente esas tres, la CBF o capacidad vital forzada que es todo el
+
+15
+00:01:05,390 --> 00:01:08,430
+aire que yo puedo desde que impiro, impiro, impiro, impiro, todo lo que puedo
+
+16
+00:01:08,430 --> 00:01:13,310
+votar, o sea es como todo el aire que entré y saqué de mis pulmones en una
+
+17
+00:01:13,310 --> 00:01:18,390
+respiración máxima, el BEF1 que es el volumen espiratorio forzado en el
+
+18
+00:01:18,390 --> 00:01:22,510
+primer segundo que es lo que yo alcanzo a votar pero en un segundo y
+
+19
+00:01:22,550 --> 00:01:29,350
+aparte de esto está la relación BEF1-CBF, dígase qué porcentaje de la CBF es el
+
+20
+00:01:29,350 --> 00:01:35,070
+BEF1, que lo normal es que yo en el primer segundo pueda votar al menos el
+
+21
+00:01:35,070 --> 00:01:40,430
+70% del aire total que eventualmente puedo meter y sacar, ahora se mide
+
+22
+00:01:40,430 --> 00:01:44,510
+basal y se mide pos salbutamol, pos broncodilatador de manera de
+
+23
+00:01:44,510 --> 00:01:49,230
+compararse si es que hay algún cambio o no, en el caso de la CBF el
+
+24
+00:01:49,230 --> 00:01:53,310
+BEF1 además se comparan respecto a un valor teórico, el valor teórico
+
+25
+00:01:53,310 --> 00:01:58,510
+depende fundamentalmente de esas cuatro variables, del sexo, la talla, la
+
+26
+00:01:58,510 --> 00:02:04,430
+edad y la raza, y fíjense no depende del peso, en general en Chile que
+
+27
+00:02:04,430 --> 00:02:09,110
+somos un poco más bajos en promedio que las curvas internacionales aún así
+
+28
+00:02:09,110 --> 00:02:15,270
+tenemos una buena capacidad pulmonar así que hay algunas curvas que son
+
+29
+00:02:15,270 --> 00:02:19,430
+propias de Chile así que son las que hay que aplicar para interpretarlo de
+
+30
+00:02:19,430 --> 00:02:23,390
+manera correcta, en el caso de la espirometría el orden en que yo
+
+31
+00:02:23,390 --> 00:02:27,870
+recomiendo verlo como para hacerlo rápido y que se entienda fácil es
+
+32
+00:02:27,870 --> 00:02:32,870
+siempre empezar mirando la relación BEF1-CBF, si es que está arriba de 70%
+
+33
+00:02:32,870 --> 00:02:37,670
+está absolutamente normal y en ese caso voy a ver la CBF, la
+
+34
+00:02:37,670 --> 00:02:41,430
+capacidad vital forzada, si es que está arriba de 80% o sea está
+
+35
+00:02:41,430 --> 00:02:46,350
+normal, arriba de 80% del teórico uno dice bueno tengo todo normal y es un
+
+36
+00:02:46,350 --> 00:02:49,110
+paciente que está sano con una espirometría normal, eventualmente puede
+
+37
+00:02:49,110 --> 00:02:53,070
+tener alguna enfermedad que no altera la espirometría como ejemplo la
+
+38
+00:02:53,070 --> 00:02:56,630
+hipertensión pulmonar que viene con Disneya y viene con una espirometría
+
+39
+00:02:56,630 --> 00:02:59,990
+absolutamente normal porque no hay un problema de la vía aérea sino que hay
+
+40
+00:02:59,990 --> 00:03:03,550
+un problema del árbol vascular, si es que en cambio vengo con un
+
+41
+00:03:03,550 --> 00:03:07,670
+patrón no obstructivo con una relación BEF1-CBF que está normal
+
+42
+00:03:08,110 --> 00:03:13,510
+pero si viene con una CBF que está disminuida o sea está bajo de 80% uno
+
+43
+00:03:13,510 --> 00:03:17,230
+habla aquí hay un patrón restrictivo y dentro de las enfermedades que
+
+44
+00:03:17,230 --> 00:03:21,670
+quiera buscar está la firozis pulmonar, la neumonía, el cáncer, las
+
+45
+00:03:21,670 --> 00:03:25,590
+satelectasias, el neumotorax, cualquier cosa que eventualmente ocupe
+
+46
+00:03:25,590 --> 00:03:28,990
+espacio o haga que el pulmón se achique, en este caso habría que
+
+47
+00:03:28,990 --> 00:03:33,190
+agregar también el derrame plural, ahora muchas de esas se ven además en
+
+48
+00:03:33,190 --> 00:03:38,390
+la radiografía pero eventualmente si se les hace una espirometría me muestra
+
+49
+00:03:38,390 --> 00:03:43,510
+ese patrón, un patrón restrictivo con una caída de la CBF, si es que en
+
+50
+00:03:43,510 --> 00:03:50,150
+cambio yo empiezo con el BEF1-CBF con esa relación y está menor a
+
+51
+00:03:50,150 --> 00:03:56,230
+70% en ese caso yo digo aquí hay un patrón obstructivo, hay obstrucción y
+
+52
+00:03:56,230 --> 00:04:00,670
+la pregunta es si mejora o no con el bronco dilatador, si es que mejora en
+
+53
+00:04:00,710 --> 00:04:03,910
+ese caso el diagnóstico es un asma porque es la única enfermedad que viene
+
+54
+00:04:03,910 --> 00:04:07,390
+con un patrón obstructivo que mejora con bronco dilatador porque es
+
+55
+00:04:07,390 --> 00:04:11,550
+justamente causado por una bronco constricción y aparte de eso si es
+
+56
+00:04:11,550 --> 00:04:15,350
+que no mejora uno dice hay un EPOC, una enfermedad pulmonar obstructiva
+
+57
+00:04:15,350 --> 00:04:19,190
+crónica que si es que viene asociado al antecedente de fumar es un
+
+58
+00:04:19,190 --> 00:04:23,510
+EPOC tabáquico, si es que no es un EPOC por alguna otra causa y luego
+
+59
+00:04:23,510 --> 00:04:26,350
+de eso en el caso de que tenga un EPOC acuérdense hay que ver la
+
+60
+00:04:26,350 --> 00:04:31,470
+severidad que se veía con el BEF1 como porcentaje del teórico y los
+
+61
+00:04:31,470 --> 00:04:36,150
+puntos de corte eran esos, arriba de 80% es leve, arriba de 50% moderado,
+
+62
+00:04:36,150 --> 00:04:43,270
+arriba de 30% es severo y menor a 30% desde 29% hacia abajo es muy
+
+63
+00:04:43,270 --> 00:04:47,110
+severo. Ahora eso es todo lo que hay que saber pero en el siguiente video
+
+64
+00:04:47,110 --> 00:04:52,110
+vamos a ver si es que lo aprendimos o no. ¡Que estén bien!

@@ -1,0 +1,459 @@
+1
+00:00:00,000 --> 00:00:07,190
+Hola, hola, ¿cómo están? Vamos a empezar con este interesante tema de hematología,
+
+2
+00:00:07,190 --> 00:00:11,910
+partiendo con el tema de anemias y en este vídeo vamos a hablar solamente de
+
+3
+00:00:11,910 --> 00:00:15,630
+algunas generalidades de este tema, comenzando con su clínica que es el
+
+4
+00:00:15,630 --> 00:00:19,230
+conocido síndrome anémico que se caracteriza por palidez tanto de la
+
+5
+00:00:19,230 --> 00:00:23,230
+piel como de las bucosas y de las conjuntivas también. Además de, puede
+
+6
+00:00:23,230 --> 00:00:28,270
+venir con taquicardia, con un soplo funcional, un soplo sistólico
+
+7
+00:00:29,150 --> 00:00:33,030
+en los estados hiperdinámicos se puede ver este tipo de soplo y finalmente
+
+8
+00:00:33,030 --> 00:00:36,830
+como síntomas lo que se describe habitualmente es astemia, adinamia y
+
+9
+00:00:36,830 --> 00:00:41,430
+disnea en los casos más graves. El diagnóstico de la anemia en general
+
+10
+00:00:41,430 --> 00:00:45,610
+se diferencia según si es hombre o mujer en el sentido en que cambia el
+
+11
+00:00:45,610 --> 00:00:48,990
+punto de corte de la hemoglobina, en los hombres para que hay una anemia
+
+12
+00:00:48,990 --> 00:00:52,150
+tiene que ser una hemoglobina menor a 13, en las mujeres en cambio tiene
+
+13
+00:00:52,150 --> 00:00:56,190
+que ser menor a 12 gramos por decilitro y recuerden que en los
+
+14
+00:00:56,190 --> 00:01:00,590
+niños y en las mujeres embarazadas y puérperas el punto de corte es todavía
+
+15
+00:01:00,590 --> 00:01:04,390
+menor pero eso lo vamos a ver en el respectivo vídeo. Cuando no les da
+
+16
+00:01:04,390 --> 00:01:08,430
+la hemoglobina sino que solamente les dan el hematocrito acuérdense que
+
+17
+00:01:08,430 --> 00:01:12,470
+más o menos el hematocrito es tres veces la hemoglobina y digo más o
+
+18
+00:01:12,470 --> 00:01:15,990
+menos porque depende, hay algunas causas de anemia en que esto se
+
+19
+00:01:15,990 --> 00:01:20,030
+altera pero si les dicen que está con un hematocrito de 30 probablemente
+
+20
+00:01:20,030 --> 00:01:23,930
+tengo una hemoglobina de más o menos 10. ¿Cuál es el tratamiento de las
+
+21
+00:01:23,970 --> 00:01:27,770
+anemias? Pues depende de la causa y esto lo vamos a ver en detalle en los
+
+22
+00:01:27,770 --> 00:01:31,650
+otros vídeos que las causas son muchas, ferropénica, enfermedades crónicas,
+
+23
+00:01:31,650 --> 00:01:36,890
+hemólicis, déficit de vitamina B12, déficit de vitamina B9 o folatos, una
+
+24
+00:01:36,890 --> 00:01:41,010
+serie de cánceres, tanto los cánceres hematológicos como los no
+
+25
+00:01:41,010 --> 00:01:45,410
+hematológicos, enfermedades genéticas y un largo etcétera, las
+
+26
+00:01:45,410 --> 00:01:50,410
+causas son realmente muchas y como cosa importante es cómo enfrento una
+
+27
+00:01:50,410 --> 00:01:53,690
+anemia desde el momento que hago el diagnóstico para intentar identificar
+
+28
+00:01:54,330 --> 00:01:59,330
+pues lo más importante es en primer lugar ver el hemograma, ver el resto de
+
+29
+00:01:59,330 --> 00:02:03,210
+las líneas celulares, ejemplo los glóbulos blancos, las plaquetas, mirar
+
+30
+00:02:03,210 --> 00:02:06,250
+siempre el frotis del hemograma en el sentido que me puede dar mucha
+
+31
+00:02:06,250 --> 00:02:10,810
+información, segundo lugar dentro del hemograma ver el BCM, el volumen
+
+32
+00:02:10,810 --> 00:02:13,930
+corpuscular medio y este es uno de los valores que me tengo que saber
+
+33
+00:02:13,930 --> 00:02:19,570
+que el normal es entre 80 y 100 fentolitros, segundo lugar ver el
+
+34
+00:02:19,570 --> 00:02:23,410
+índice reticulositario, acuérdense que los reticulositos son estos
+
+35
+00:02:23,410 --> 00:02:29,050
+glóbulos rojos inmaduros y además de esto muchas veces se complementa
+
+36
+00:02:29,050 --> 00:02:32,170
+con exámenes adicionales dentro de los cuales está el perfil de
+
+37
+00:02:32,170 --> 00:02:35,250
+fierro o perfil de hierro cierto, que me permite ver la anemia
+
+38
+00:02:35,250 --> 00:02:38,970
+ferropénica y otras causas también, los niveles de vitamina B2
+
+39
+00:02:38,970 --> 00:02:43,290
+y folatos, la biopsia de médula ósea y finalmente la electroforesis
+
+40
+00:02:43,290 --> 00:02:45,970
+de proteínas según las causas, ejemplo si sospecho un cáncer, una
+
+41
+00:02:45,970 --> 00:02:49,530
+melodisplasia, voy por la biopsia de médula ósea, si es que
+
+42
+00:02:49,530 --> 00:02:53,610
+sospecho una hemoglobinopatía como la anemia de células falsiformes
+
+43
+00:02:53,610 --> 00:02:57,250
+o la estalacemia, miro la electroforesis de proteínas entre
+
+44
+00:02:57,250 --> 00:03:00,370
+otros exámenes. Ahora vamos con un poquito más de detalles de
+
+45
+00:03:00,370 --> 00:03:03,610
+esto que acabamos de decir, el hemograma muchas veces me muestra
+
+46
+00:03:03,610 --> 00:03:07,130
+causas evidentes, ejemplo que hay una leucemia, que haya una
+
+47
+00:03:07,130 --> 00:03:11,290
+pancitopenia, en ese caso el hemograma va a ver alteración
+
+48
+00:03:11,290 --> 00:03:14,010
+clara de las otras líneas celulares, lo mismo si veo en
+
+49
+00:03:14,010 --> 00:03:17,050
+el frotis por ejemplo esquistocitos, en ese caso yo sé
+
+50
+00:03:17,090 --> 00:03:19,770
+inmediatamente que estoy en contexto de una anemia molítica.
+
+51
+00:03:20,650 --> 00:03:24,490
+Segundo lugar dijimos ver el BCM y el BCM repito el normal es
+
+52
+00:03:24,490 --> 00:03:28,930
+entre 80 y 100, cuando está bajo 80, en ese caso uno habla de
+
+53
+00:03:28,930 --> 00:03:32,290
+una anemia microsítica y dentro de esas hay que saberla, la
+
+54
+00:03:32,290 --> 00:03:36,050
+ferropénica es la más importante, la estalacemia son otra
+
+55
+00:03:36,050 --> 00:03:39,650
+que hay que saber identificar relativamente bien, hay algunas
+
+56
+00:03:39,650 --> 00:03:41,890
+más raras como por ejemplo la anemia ciroblástica también
+
+57
+00:03:41,890 --> 00:03:44,650
+que hay que saber que existe. Luego están las anemias
+
+58
+00:03:44,690 --> 00:03:48,450
+normocíticas que son las que están dentro del rango normal
+
+59
+00:03:48,450 --> 00:03:51,690
+con el BCM entre 80 y 100, dentro de las cuales la más
+
+60
+00:03:51,690 --> 00:03:54,810
+importante es la anemia asociada a una enfermedad crónica
+
+61
+00:03:54,810 --> 00:03:57,450
+o anemia por enfermedades crónicas se la llama también
+
+62
+00:03:57,450 --> 00:03:59,930
+pero la verdad es que hay muchas otras también dentro
+
+63
+00:03:59,930 --> 00:04:02,130
+de esas, algunas hemolíticas, las genéticas, etcétera.
+
+64
+00:04:03,290 --> 00:04:06,010
+Finalmente están las anemias macrocíticas que hay
+
+65
+00:04:06,010 --> 00:04:08,490
+que conocer también la lista y si bien la más
+
+66
+00:04:08,490 --> 00:04:12,170
+importante son las por déficit de folatos y de B12, en
+
+67
+00:04:12,170 --> 00:04:14,530
+particular la por déficit de B12 en Chile que es muy
+
+68
+00:04:14,530 --> 00:04:17,090
+rara la por déficit de folatos, pero hay otras también
+
+69
+00:04:17,090 --> 00:04:19,810
+que hay que recordar que es la anemia asociada al consumo
+
+70
+00:04:19,810 --> 00:04:22,650
+crónico de alcohol, la anemia hipotiroidismo y la
+
+71
+00:04:22,650 --> 00:04:25,890
+mielodisplasia que si bien puede ser normocítica muchas
+
+72
+00:04:25,890 --> 00:04:28,570
+veces viene con algún pequeño grado de macrocitosis
+
+73
+00:04:28,570 --> 00:04:33,250
+también. Ahora el HCM, la hemoglobina corpuscular
+
+74
+00:04:33,250 --> 00:04:36,370
+media, porque la general suele seguir al BCM, al volumen
+
+75
+00:04:36,370 --> 00:04:39,330
+corpuscular medio y por lo mismo es que uno suele
+
+76
+00:04:39,370 --> 00:04:43,330
+hablar de anemias microcíticas e hipocrómicas, anemias
+
+77
+00:04:43,330 --> 00:04:46,690
+normocíticas y normocrómicas, anemia normonormo que se
+
+78
+00:04:46,690 --> 00:04:51,250
+suele resumir y finalmente la anemia macrocítica
+
+79
+00:04:51,250 --> 00:04:55,650
+e hipercrómica. Como tema aparte y muy importante está
+
+80
+00:04:55,650 --> 00:04:57,850
+ver los reticulositos, ya dijimos que eran estos
+
+81
+00:04:57,850 --> 00:05:00,650
+glóbulos rojos inmaduros, habitualmente uno no solo
+
+82
+00:05:00,650 --> 00:05:03,050
+mira el porcentaje de reticulositos sino que se
+
+83
+00:05:03,050 --> 00:05:05,450
+ajusta esto con una fórmula que se llama el
+
+84
+00:05:05,450 --> 00:05:08,570
+índice reticulositario en la cual se ve el porcentaje
+
+85
+00:05:08,570 --> 00:05:10,290
+de reticulositos que es lo más importante, por si
+
+86
+00:05:10,290 --> 00:05:12,890
+acaso se multiplica por el hematocrito se divide por
+
+87
+00:05:12,890 --> 00:05:18,050
+45 de manera de que quede ajustado este por el
+
+88
+00:05:18,050 --> 00:05:20,450
+hematocrito real pero ajustado por el hematocrito
+
+89
+00:05:20,450 --> 00:05:24,410
+ideal y todo esto dividido por el tiempo medio
+
+90
+00:05:24,410 --> 00:05:27,290
+que viven o que duran estos reticulositos que
+
+91
+00:05:27,290 --> 00:05:30,090
+demoran en madurar, que se abre ya como TM o
+
+92
+00:05:30,090 --> 00:05:32,450
+tiempo de maduración. La fórmula la verdad es que
+
+93
+00:05:32,450 --> 00:05:34,530
+no importa mucho, lo que importa es ver el
+
+94
+00:05:34,530 --> 00:05:36,570
+porcentaje de reticulositos y saber que se
+
+95
+00:05:36,570 --> 00:05:40,170
+ajusta y que este índice si es que está mayor a
+
+96
+00:05:40,170 --> 00:05:43,290
+dos o sea si es que hay más de 2% de reticulositos
+
+97
+00:05:43,290 --> 00:05:46,450
+ajustado con este índice reticulositario uno
+
+98
+00:05:46,450 --> 00:05:49,450
+habla de una anemia regenerativa y dentro de las
+
+99
+00:05:49,450 --> 00:05:51,930
+causas de estas son muy poquitas, es la hemólisis
+
+100
+00:05:51,930 --> 00:05:54,490
+la más importante y segundo lugar las hemorragias
+
+101
+00:05:54,490 --> 00:05:56,650
+agudas o sea si vengo con el antecedente de que
+
+102
+00:05:56,650 --> 00:05:58,850
+hay una hemorragia aguda yo digo es esperable
+
+103
+00:05:58,850 --> 00:06:01,130
+que sea regenerativa y si es que no lo más
+
+104
+00:06:01,130 --> 00:06:03,450
+probable es que sea hemolítica. Ahora, ¿qué
+
+105
+00:06:03,450 --> 00:06:05,690
+pasa con las hemorragias crónicas? Las
+
+106
+00:06:05,730 --> 00:06:08,530
+hemorragias crónicas en cambio no son regenerativas
+
+107
+00:06:08,530 --> 00:06:11,130
+son arregenerativas por la simple razón de que
+
+108
+00:06:11,130 --> 00:06:13,930
+la hemorragia crónica tiende a la ferropenia y la
+
+109
+00:06:13,930 --> 00:06:16,810
+ferropénica es arregenerativa. Ahora, si es
+
+110
+00:06:16,810 --> 00:06:20,010
+que el índice reticulositario es menor a dos
+
+111
+00:06:20,010 --> 00:06:22,090
+ya dijimos en ese caso uno habla de una anemia
+
+112
+00:06:22,090 --> 00:06:25,050
+arregenerativa y esas son todas las demás
+
+113
+00:06:25,050 --> 00:06:27,410
+causas. Y bueno, con eso terminamos esta
+
+114
+00:06:27,410 --> 00:06:29,450
+pequeña introducción de este tema de las
+
+115
+00:06:29,450 --> 00:06:30,930
+anemias. Nos vemos en los siguientes videos.

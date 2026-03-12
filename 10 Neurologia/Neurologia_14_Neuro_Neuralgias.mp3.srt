@@ -1,0 +1,735 @@
+1
+00:00:00,000 --> 00:00:07,580
+Hola, hola, ¿cómo están? En este vídeo vamos a ver las neuralgias, tanto las
+
+2
+00:00:07,580 --> 00:00:11,420
+neuralgias en general como algunas en específico, como la neuralgia del
+
+3
+00:00:11,420 --> 00:00:16,740
+trigémino, la neuralgia de Arno, la del glossofaringio, la pós-herpética,
+
+4
+00:00:16,740 --> 00:00:22,420
+entre otras. Empecemos recordando que las neuralgias, su cuadro clínico se
+
+5
+00:00:22,420 --> 00:00:26,180
+caracteriza por un dolor, valga la redundancia de tipo neurálgico,
+
+6
+00:00:26,180 --> 00:00:30,540
+dígase que se escribe como en ramalazo, como un choque eléctrico,
+
+7
+00:00:30,540 --> 00:00:35,500
+o bien lancinante, dígase como una lanza que se entierra como un
+
+8
+00:00:35,500 --> 00:00:41,220
+dolor muy agudo, muy intenso, que como cosa importantísima debe seguir la
+
+9
+00:00:41,220 --> 00:00:46,780
+distribución de un nervio, ejemplo el trigémino, o de una rama de
+
+10
+00:00:46,780 --> 00:00:51,060
+un nervio, ejemplo la rama nasosiliar del trigémino, o bien una raíz
+
+11
+00:00:51,060 --> 00:00:57,820
+nerviosa como ese uno, por ejemplo L5, etcétera, que habitualmente es de
+
+12
+00:00:57,820 --> 00:01:02,580
+tipo unilateral. Segundo lugar es un dolor que es muy intenso, muy molesto,
+
+13
+00:01:02,580 --> 00:01:05,900
+que afecta muy negativamente la calidad de vida, pero que
+
+14
+00:01:05,900 --> 00:01:10,700
+afortunadamente dura pocos segundos a pocos minutos, aunque lo malo es que
+
+15
+00:01:10,700 --> 00:01:14,340
+sí suele ser recurrente tanto en el mismo dolor, en que le da el dolor una
+
+16
+00:01:14,340 --> 00:01:20,340
+y otra y otra vez, como en los brotes en que a las dos horas vuelve a ser
+
+17
+00:01:20,340 --> 00:01:25,340
+una segunda crisis con el Néstor Ramalazo. Además es muy frecuente que
+
+18
+00:01:25,540 --> 00:01:30,380
+el dolor aparezca en relación a distintos gatillantes, y en algunos
+
+19
+00:01:30,380 --> 00:01:33,740
+minutos vamos a ver los gatillantes más frecuentes de cada una de las
+
+20
+00:01:33,740 --> 00:01:37,180
+neuralgías en específico. Recuerden que las neuralgías se
+
+21
+00:01:37,180 --> 00:01:41,660
+subdividen en dos tipos, en primarias y secundarias. Las primarias vienen con
+
+22
+00:01:41,660 --> 00:01:45,700
+examen neurológico normal, así completamente normal, el único síntoma
+
+23
+00:01:45,700 --> 00:01:49,900
+que tienen es el dolor, pero no hay ni alteraciones en la sensibilidad, ni
+
+24
+00:01:49,900 --> 00:01:53,940
+alteraciones en la parte motora tampoco, ni menos de otros nervios, en
+
+25
+00:01:53,940 --> 00:01:58,420
+cambio en las de tipo secundaria, que son habitualmente causadas o por
+
+26
+00:01:58,420 --> 00:02:01,780
+tumores o por una compresión vascular o por esclerosis múltiple, entre
+
+27
+00:02:01,780 --> 00:02:06,100
+otras, en ese caso sí se encuentra una alteración en el examen
+
+28
+00:02:06,100 --> 00:02:11,100
+neurológico, ya sea hipoestesia, parecia, etcétera. Hay mucha gente que
+
+29
+00:02:11,100 --> 00:02:15,260
+confunde y que cree que la hipoestesia sí se ve en las primarias, pero la
+
+30
+00:02:15,260 --> 00:02:20,620
+verdad es que no, en las primarias no hay disminución de la
+
+31
+00:02:20,620 --> 00:02:24,140
+sensibilidad, eso es algo que inmediatamente me orienta a un tumor o
+
+32
+00:02:24,140 --> 00:02:28,780
+alguna otra causa secundaria. En la actualidad el diagnóstico es clínico
+
+33
+00:02:28,780 --> 00:02:32,940
+pero toda neuralgia, al menos las de la cabeza, se recomienda estudiarlas con
+
+34
+00:02:32,940 --> 00:02:36,980
+una resonancia magnética nuclear para ir a buscar dirigidamente una
+
+35
+00:02:36,980 --> 00:02:40,980
+causa secundaria. Antes era muy importante la diferencia entre las
+
+36
+00:02:40,980 --> 00:02:43,580
+primarias y las secundarias desde el punto de vista clínico, porque
+
+37
+00:02:43,580 --> 00:02:47,420
+solamente las que clínicamente orientaban a una cosa secundaria se
+
+38
+00:02:47,420 --> 00:02:52,740
+estudiaban, pero esa diferencia en la actualidad es de menos importancia
+
+39
+00:02:52,740 --> 00:02:56,180
+debido a que, repito, todas las neuralgias por el general sí se
+
+40
+00:02:56,180 --> 00:03:00,020
+estudian con una neuroimagen, siendo la resonancia magnética la de
+
+41
+00:03:00,020 --> 00:03:05,460
+elección. El tratamiento habitualmente es con fármacos, los fármacos que
+
+42
+00:03:05,460 --> 00:03:08,460
+más se usan son los distintos estabilizadores de la conducción
+
+43
+00:03:08,460 --> 00:03:13,300
+nerviosa o moduladores del dolor, ¿cierto? Dentro de esto, de elección es
+
+44
+00:03:13,300 --> 00:03:16,420
+la carvamacepina, que es un anticonvulsivante, se puede usar
+
+45
+00:03:16,420 --> 00:03:22,460
+igualmente la oxcarvacepina, sirven también los GABA, ¿cierto? Como la GABA
+
+46
+00:03:22,460 --> 00:03:26,740
+pentina, la pregabalina o el baclofeno, y me sirven algunos otros
+
+47
+00:03:26,740 --> 00:03:30,020
+anticonvulsivantes como la lamotrigina y la fenitovina y
+
+48
+00:03:30,020 --> 00:03:34,540
+finalmente los tricíclicos como la amitriptilina también. Ahí carvamacepina
+
+49
+00:03:34,540 --> 00:03:39,300
+está en un color más oscuro porque suele ser el de elección en
+
+50
+00:03:39,300 --> 00:03:42,300
+la mayoría de las neuralgias como la del trigémino, por ejemplo, aunque
+
+51
+00:03:42,300 --> 00:03:45,420
+vamos a ver que hay algunos casos en que se manejan un poco distinto.
+
+52
+00:03:46,220 --> 00:03:50,980
+De última línea, por la general, se manejan con cirugía, alguna cirugía
+
+53
+00:03:50,980 --> 00:03:55,460
+de descompresión nerviosa o incluso de destrucción del nervio, si es que
+
+54
+00:03:55,460 --> 00:04:00,020
+ya no responde a nada más, pero lo más frecuente es que se maneje con
+
+55
+00:04:00,020 --> 00:04:04,620
+los distintos estabilizadores hasta que se encuentre alguno que logre
+
+56
+00:04:04,620 --> 00:04:09,180
+acalmar el dolor. Ahora, cuando hay una causa secundaria, obviamente
+
+57
+00:04:09,180 --> 00:04:13,540
+hay que dar el tratamiento a esa causa también debido a que eso es
+
+58
+00:04:13,540 --> 00:04:17,860
+lo único que va a solucionar el problema. Vemos ahora cada una de
+
+59
+00:04:17,860 --> 00:04:21,340
+las neuralgias, empecemos por la del trigémino. Acuérdense que la
+
+60
+00:04:21,340 --> 00:04:25,380
+distribución que sigue son las distintas ramas del trigémino, que
+
+61
+00:04:25,380 --> 00:04:32,500
+son tres y que todas inervan la sensibilidad de la cara. La B1,
+
+62
+00:04:32,500 --> 00:04:37,020
+porque es B del quinto nervio cranial, que es la rama nasoaciliar,
+
+63
+00:04:37,020 --> 00:04:40,940
+habitualmente es la frente y el ojo, desde aquí hacia arriba.
+
+64
+00:04:40,940 --> 00:04:44,900
+Luego está la B2, que es la rama maxilar, que es la mejilla, el labio
+
+65
+00:04:44,900 --> 00:04:49,780
+superior, alguna parte de la nariz también. Los dientes superiores,
+
+66
+00:04:49,780 --> 00:04:55,700
+la B3 o rama mandibular, es la mandíbula, los dientes inferiores y
+
+67
+00:04:55,700 --> 00:05:00,060
+alguna parte de la lengua también. Los desencadenantes más frecuentes
+
+68
+00:05:00,060 --> 00:05:05,900
+son cualquier cosa que active la actividad del trigémino,
+
+69
+00:05:05,900 --> 00:05:09,260
+que es la sensibilidad de la cara, el rostro, lavar los dientes,
+
+70
+00:05:09,260 --> 00:05:14,060
+lafeitarse, etc. De hecho, el típico caso es el paciente que
+
+71
+00:05:14,060 --> 00:05:17,260
+llega con el dolor super intenso y con la mitad de la barba
+
+72
+00:05:17,260 --> 00:05:22,300
+afeitada y la otra no porque no aguantó el dolor, y hay que
+
+73
+00:05:22,300 --> 00:05:24,860
+darle la carba más epina mientras se le pide su resonancia
+
+74
+00:05:24,860 --> 00:05:28,140
+magnética. Y algunas otras cosas que hay que saber de la
+
+75
+00:05:28,140 --> 00:05:31,340
+neuralgia del trigémino es que es la neuralgia clásica,
+
+76
+00:05:31,340 --> 00:05:35,180
+tal como lo explicamos antes en las generalidades de la
+
+77
+00:05:35,180 --> 00:05:39,580
+neuralgia. Veamos ahora la neuralgia de ARN, o neuralgia
+
+78
+00:05:39,580 --> 00:05:42,620
+occipital, que es el otro nombre, ¿cierto? En este caso,
+
+79
+00:05:42,620 --> 00:05:45,580
+la distribución suele ser el occipucio, que está
+
+80
+00:05:45,580 --> 00:05:49,780
+innervado por el nervio occipital mayor, o la zona
+
+81
+00:05:49,780 --> 00:05:53,420
+retroauricular, ¿cierto?, que está innervada por el nervio
+
+82
+00:05:53,420 --> 00:05:58,100
+occipital menor y a veces por alguna otra de las raíces
+
+83
+00:05:58,100 --> 00:06:01,380
+que finalmente innervan esa zona. En este caso,
+
+84
+00:06:01,380 --> 00:06:03,820
+los desencadenantes más importantes es justamente el
+
+85
+00:06:03,820 --> 00:06:09,140
+tocarse la zona occipital o el peinarse también, aunque en
+
+86
+00:06:09,140 --> 00:06:11,660
+algunos casos los movimientos del cuello me desencadenan
+
+87
+00:06:11,660 --> 00:06:16,940
+esto. No me confundan esto con la esclerosis múltiple que
+
+88
+00:06:16,940 --> 00:06:19,420
+venía con una sensación de ramalazo al extender el
+
+89
+00:06:19,420 --> 00:06:21,900
+cuello, pero no era una sensación en ese lugar,
+
+90
+00:06:21,900 --> 00:06:24,340
+sino que era en el resto del cuerpo. En este caso,
+
+91
+00:06:24,340 --> 00:06:27,860
+en cambio, es localizado como un dolor neurálgico en
+
+92
+00:06:27,860 --> 00:06:31,700
+la zona occipital o retroauricular. Como alguna
+
+93
+00:06:31,700 --> 00:06:34,980
+otra cosa que hay que saber en este caso, el diagnóstico y
+
+94
+00:06:34,980 --> 00:06:38,100
+el manejo suele ser no con los fármacos que dijimos y no
+
+95
+00:06:38,100 --> 00:06:41,300
+con la pura clínica, sino que con el bloqueo nervioso.
+
+96
+00:06:41,300 --> 00:06:46,340
+En este caso, el bloqueo nervioso del nervio que se
+
+97
+00:06:46,340 --> 00:06:50,420
+sospecha que está afectado suele ser lo que confirma el
+
+98
+00:06:50,420 --> 00:06:52,260
+diagnóstico porque me elimina el dolor de
+
+99
+00:06:52,260 --> 00:06:54,820
+inmediato, ¿cierto? Y segundo lugar, suele ser el
+
+100
+00:06:54,820 --> 00:06:58,020
+tratamiento de primera línea que se deja con algún
+
+101
+00:06:58,020 --> 00:07:00,820
+fármaco en que queda bloqueado habitualmente por dos
+
+102
+00:07:00,820 --> 00:07:04,260
+a tres meses y luego de eso, si es que recurre, se intenta
+
+103
+00:07:04,260 --> 00:07:06,260
+un segundo bloqueo y si es que sigue recurriendo,
+
+104
+00:07:06,260 --> 00:07:09,860
+eventualmente se busca alguna otra forma, pero en ese
+
+105
+00:07:09,860 --> 00:07:13,220
+caso no se suele manejar con los estabilizadores
+
+106
+00:07:13,220 --> 00:07:16,580
+medicamentosos, aunque en algunos casos sí se puede
+
+107
+00:07:16,580 --> 00:07:19,380
+dejar, pero repito, la importancia de la neuralgia
+
+108
+00:07:19,380 --> 00:07:22,340
+de Arnold es que se maneja y se diagnostica con el
+
+109
+00:07:22,340 --> 00:07:25,380
+bloqueo nervioso y no con la forma general en que se
+
+110
+00:07:25,380 --> 00:07:29,220
+manejaban las otras neuralgia. La otra es la
+
+111
+00:07:29,220 --> 00:07:32,260
+neuralgia del glosso faríngion, ¿cierto? O del
+
+112
+00:07:32,260 --> 00:07:35,540
+noveno nervio cranial. En este caso, la distribución
+
+113
+00:07:35,540 --> 00:07:38,260
+hay que saberla. Lo más importante es la garganta,
+
+114
+00:07:38,260 --> 00:07:40,580
+por si acaso, aunque se puede afectar igualmente la
+
+115
+00:07:40,580 --> 00:07:43,620
+mandíbula, la lengua e incluso se puede producir
+
+116
+00:07:43,620 --> 00:07:46,580
+algún grado de otalgia. Acuérdense que el dolor
+
+117
+00:07:46,580 --> 00:07:50,180
+faríngio a veces se expresa como otalgia, pero lo
+
+118
+00:07:50,180 --> 00:07:53,380
+más importante es la faríngia, por si acaso. Los
+
+119
+00:07:53,380 --> 00:07:56,180
+desencadenantes más importantes son el toser, el
+
+120
+00:07:56,260 --> 00:07:59,700
+tragar, el bostezar, cualquier cosa que me active la
+
+121
+00:07:59,700 --> 00:08:02,740
+faríngia. Y algunas otras cosas que hay que saber
+
+122
+00:08:02,740 --> 00:08:05,220
+de la neuralgia del glosso faríngion es que la
+
+123
+00:08:05,220 --> 00:08:07,940
+inmensa mayoría de las veces es por una causa
+
+124
+00:08:07,940 --> 00:08:10,420
+secundaria, así que con mayor razón todavía hay
+
+125
+00:08:10,420 --> 00:08:13,140
+que estudiarlo con una resonancia magnética
+
+126
+00:08:13,140 --> 00:08:15,780
+nuclear y eventualmente ir a operarlo después
+
+127
+00:08:15,780 --> 00:08:18,420
+como para o manejar el tumor o manejar la
+
+128
+00:08:18,420 --> 00:08:19,860
+compresión vascular, que es la causa más
+
+129
+00:08:19,860 --> 00:08:23,060
+frecuente. Finalmente, la neuralgia posherpética,
+
+130
+00:08:23,060 --> 00:08:25,220
+que ya la vimos en algún momento en
+
+131
+00:08:25,300 --> 00:08:30,020
+infectología, su distribución es algún dermatomo
+
+132
+00:08:30,020 --> 00:08:33,700
+inervado por alguna raíz que fue afectada
+
+133
+00:08:33,700 --> 00:08:38,420
+justamente por el herpes zóster con anterioridad.
+
+134
+00:08:38,420 --> 00:08:41,220
+Y en este caso las otras cosas que hay que
+
+135
+00:08:41,220 --> 00:08:43,780
+saber es que el dolor no siempre es neurálgico,
+
+136
+00:08:43,780 --> 00:08:47,620
+a veces sí lo es y viene con este dolor en
+
+137
+00:08:47,620 --> 00:08:50,500
+ramalazo, pero en algunas oportunidades queda
+
+138
+00:08:50,500 --> 00:08:53,140
+con un dolor que es de tipo neuropático. La
+
+139
+00:08:53,300 --> 00:08:55,620
+diferencia es que el neurálgico, ya dijimos,
+
+140
+00:08:55,620 --> 00:08:59,540
+intenso de segundos de duración de tipo eléctrico
+
+141
+00:08:59,540 --> 00:09:01,940
+o lancinante, en cambio el neuropático, que es
+
+142
+00:09:01,940 --> 00:09:05,220
+el clásico de las polineuropatías dolorosas,
+
+143
+00:09:05,220 --> 00:09:11,780
+es un dolor más constante, de tipo urente,
+
+144
+00:09:11,780 --> 00:09:15,300
+que arde, más alodinia que al momento de
+
+145
+00:09:15,300 --> 00:09:18,580
+rozar se produce dolor. Y la diferencia
+
+146
+00:09:18,580 --> 00:09:20,260
+entre estos dos tipos de dolores en
+
+147
+00:09:20,260 --> 00:09:22,740
+específico en la neuralgia posherpética es
+
+148
+00:09:22,740 --> 00:09:24,900
+que me cambia los fármacos de primera
+
+149
+00:09:24,900 --> 00:09:27,380
+línea, que por cierto son distintos a los del
+
+150
+00:09:27,380 --> 00:09:29,940
+resto de las neuralgias también. Número uno,
+
+151
+00:09:29,940 --> 00:09:32,260
+si es que el dolor es de tipo neurálgico,
+
+152
+00:09:32,260 --> 00:09:34,900
+de elección es la prega valina. En cambio,
+
+153
+00:09:34,900 --> 00:09:38,100
+si es de tipo neuropático, de elección son
+
+154
+00:09:38,100 --> 00:09:40,260
+los tricíclicos. Y si no anda bien con uno,
+
+155
+00:09:40,260 --> 00:09:42,340
+pues se cambia por el otro y luego de eso
+
+156
+00:09:42,340 --> 00:09:45,860
+se empieza a intentar qué fármaco sí le
+
+157
+00:09:45,860 --> 00:09:48,500
+sirve. Pero repito, en este caso sí es
+
+158
+00:09:48,500 --> 00:09:51,940
+importante ver de qué tipo de dolor es el
+
+159
+00:09:51,940 --> 00:09:54,340
+predominante en este paciente debido a
+
+160
+00:09:54,340 --> 00:09:57,780
+que me cambia el fármaco. Como cosa adicional,
+
+161
+00:09:57,780 --> 00:10:00,340
+el diagnóstico me exige que las molestias
+
+162
+00:10:00,340 --> 00:10:03,300
+sigan más allá de tres meses de haber
+
+163
+00:10:03,300 --> 00:10:06,100
+tenido el herpes zóster, dado que el herpes
+
+164
+00:10:06,100 --> 00:10:08,740
+zóster en agudo igualmente puede venir
+
+165
+00:10:08,740 --> 00:10:10,900
+con un dolor neuropático o neurálgico
+
+166
+00:10:10,900 --> 00:10:13,300
+también, que se maneja igualmente con la
+
+167
+00:10:13,300 --> 00:10:15,140
+prega valina o con los tricíclicos,
+
+168
+00:10:15,140 --> 00:10:17,700
+pero si es que persiste más allá de los
+
+169
+00:10:17,700 --> 00:10:20,740
+tres meses, uno dice ya quedó con algún
+
+170
+00:10:20,820 --> 00:10:23,700
+grado de daño, ya está con una neurálgia
+
+171
+00:10:23,700 --> 00:10:26,420
+postherpética y se mantiene el tratamiento
+
+172
+00:10:26,420 --> 00:10:28,420
+estabilizador por varios meses, cierto,
+
+173
+00:10:28,420 --> 00:10:30,900
+hasta que finalmente se ve si es que se
+
+174
+00:10:30,900 --> 00:10:33,060
+termina de eliminar o si es que queda
+
+175
+00:10:33,060 --> 00:10:35,780
+como listas permanentes. Como cosa final,
+
+176
+00:10:35,780 --> 00:10:38,500
+acuérdense, en el herpes zóster hay que
+
+177
+00:10:38,500 --> 00:10:41,220
+prevenir la neurálgia del trigémino con
+
+178
+00:10:41,220 --> 00:10:43,140
+los antivirales, cierto, se puede usar el
+
+179
+00:10:43,140 --> 00:10:46,260
+aciclovir o el valaciclovir. El valaciclovir
+
+180
+00:10:46,260 --> 00:10:49,620
+es el que se da de manera más fácil
+
+181
+00:10:49,620 --> 00:10:51,620
+porque es un gramo cada ocho horas,
+
+182
+00:10:51,620 --> 00:10:54,900
+cierto, habitualmente por una semana,
+
+183
+00:10:54,900 --> 00:10:57,140
+ya, y eso es todo lo que hay que saber,
+
+184
+00:10:57,140 --> 00:10:59,140
+así que nos vemos en los siguientes temas.

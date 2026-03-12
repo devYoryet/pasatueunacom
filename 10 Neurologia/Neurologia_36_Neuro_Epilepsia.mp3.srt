@@ -1,0 +1,619 @@
+1
+00:00:00,000 --> 00:00:07,100
+Hola, hola, ¿cómo están? Con este vídeo vamos a dar inicio a este gran tema de las
+
+2
+00:00:07,100 --> 00:00:11,300
+crisis convulsivas y las epilepsias en general. Vamos a ver en esta clase
+
+3
+00:00:11,300 --> 00:00:15,380
+solamente algunos conceptos como para que todo quede claro y las
+
+4
+00:00:15,380 --> 00:00:19,780
+clasificaciones de las distintas crisis epilépticas que hay. Empecemos
+
+5
+00:00:19,780 --> 00:00:24,140
+con el tema de los conceptos. Por un lado está la crisis
+
+6
+00:00:24,140 --> 00:00:28,660
+epiléptica que es un evento, que es un síntoma cierto que está causado por
+
+7
+00:00:28,660 --> 00:00:35,220
+la actividad neuronal anormal, intensa y que es sincrónica además que es de
+
+8
+00:00:35,220 --> 00:00:39,660
+diagnóstico absolutamente clínico pero repito la crisis epiléptica es un
+
+9
+00:00:39,660 --> 00:00:43,620
+síntoma. En cambio por otro lado está la epilepsia que en cambio es la
+
+10
+00:00:43,620 --> 00:00:48,460
+enfermedad que se caracteriza por la tendencia a tener estas crisis
+
+11
+00:00:48,460 --> 00:00:52,300
+epilépticas recurrentes con un aumento de la actividad neuronal
+
+12
+00:00:52,300 --> 00:00:56,300
+cierto y una descarga sincrónica de muchas neuronas al mismo tiempo. Pero
+
+13
+00:00:56,700 --> 00:01:02,140
+la epilepsia es la enfermedad que se caracteriza por múltiples crisis o al
+
+14
+00:01:02,140 --> 00:01:06,980
+menos por la predisposición a tener estas crisis. El diagnóstico es también
+
+15
+00:01:06,980 --> 00:01:11,940
+clínico pero las dos formas en que se hace es o que tenga dos o más
+
+16
+00:01:11,940 --> 00:01:16,620
+crisis estereotipadas cierto sin ninguna otra causa que las explique o
+
+17
+00:01:16,620 --> 00:01:21,500
+número dos que tenga al menos una crisis pero más el electroencefalograma
+
+18
+00:01:21,500 --> 00:01:25,580
+que esté alterado y que muestra como los patrones clásicos de las
+
+19
+00:01:25,580 --> 00:01:29,580
+epilepsia y que por lo tanto uno diga es un paciente que sí tiene de base
+
+20
+00:01:29,580 --> 00:01:34,900
+esta predisposición a seguir teniendo crisis. En resumen la crisis
+
+21
+00:01:34,900 --> 00:01:38,340
+epiléptica es un síntoma la epilepsia en cambio es la enfermedad que se
+
+22
+00:01:38,340 --> 00:01:42,700
+caracteriza por las crisis epilépticas. Veamos ahora la clasificación
+
+23
+00:01:42,700 --> 00:01:47,140
+de las crisis por un lado están las epilépticas versus las no
+
+24
+00:01:47,140 --> 00:01:51,500
+epilépticas ya sea las crisis convulsivas no epilépticas como las
+
+25
+00:01:51,500 --> 00:01:54,460
+que se producen las convulsiones febriles o en alguna alteración
+
+26
+00:01:54,460 --> 00:01:59,260
+tóxico-metabólica por ejemplo o con eventos no epilépticos que ocurren de
+
+27
+00:01:59,260 --> 00:02:03,020
+manera aguda también como un síncope o como un trastorno conversivo cierto
+
+28
+00:02:03,020 --> 00:02:07,020
+que a veces se confunden en la clínica pero que son totalmente
+
+29
+00:02:07,020 --> 00:02:11,220
+distintas a las crisis epilépticas o a las crisis convulsivas en general.
+
+30
+00:02:11,220 --> 00:02:15,460
+Segundo lugar están las crisis convulsivas y las crisis no convulsivas
+
+31
+00:02:15,460 --> 00:02:19,380
+las convulsivas son las que vienen con una convulsión con los movimientos
+
+32
+00:02:19,380 --> 00:02:23,140
+rítmicos musculares anormales repetitivos cierto intenso en cambio las
+
+33
+00:02:23,140 --> 00:02:28,380
+no convulsivas puede ser una crisis de ausencia una crisis atónica una
+
+34
+00:02:28,380 --> 00:02:30,940
+crisis psicomotora por ejemplo que las vamos a ver en algunos minutos
+
+35
+00:02:30,940 --> 00:02:34,860
+más y finalmente la más importante la que viene subrayada de la que
+
+36
+00:02:34,860 --> 00:02:39,060
+vamos a ver acá la división entre las crisis focales y las crisis
+
+37
+00:02:39,060 --> 00:02:43,060
+generalizadas que se parece un poco a la división entre las
+
+38
+00:02:43,660 --> 00:02:48,380
+las epilepsias focales ejemplo las secundarias a un tumor cierto y las
+
+39
+00:02:48,380 --> 00:02:52,180
+primarias como las clásicas de la infancia que quede bien claro la crisis
+
+40
+00:02:52,180 --> 00:02:56,220
+focal y crisis generalizada no es lo mismo que las epilepsias focales y
+
+41
+00:02:56,220 --> 00:03:00,340
+las epilepsias generalizadas pero se asocian bastante así que va a quedar
+
+42
+00:03:00,340 --> 00:03:04,180
+claro cuando las veamos ahora y hay que saber identificar.
+
+43
+00:03:04,180 --> 00:03:09,620
+Empecemos con la generalizada los seis tipos que hay que saber son
+
+44
+00:03:09,620 --> 00:03:13,300
+número uno las crisis tónico clónicas que se caracterizan por una
+
+45
+00:03:13,300 --> 00:03:16,780
+fase tónica cierto en que se contraen los brazos de esta forma se
+
+46
+00:03:16,780 --> 00:03:20,780
+estiran los pies cierto y se mantiene así en fase tónica por algunos
+
+47
+00:03:20,780 --> 00:03:24,740
+segundos y luego viene la fase clónica cierto con los movimientos
+
+48
+00:03:24,740 --> 00:03:29,100
+repetitivos están también las mío clónicas que son como unos saltos
+
+49
+00:03:29,100 --> 00:03:34,620
+cierto en todo el cuerpo aparte están las crisis solamente tónicas en
+
+50
+00:03:34,620 --> 00:03:38,660
+que viene solamente con la fase tónica pero sin la fase clónica la
+
+51
+00:03:38,660 --> 00:03:43,580
+atónica que va y pierde bruscamente el tono del cuerpo ya sea de la
+
+52
+00:03:43,580 --> 00:03:47,260
+cabeza o bien en algunos casos se desploma se cae y se pega super
+
+53
+00:03:47,260 --> 00:03:51,500
+fuerte cierto y hace como una especie de síncope neurogénico y finalmente
+
+54
+00:03:51,500 --> 00:03:56,060
+están las crisis de ausencia que el paciente está
+
+55
+00:03:56,060 --> 00:04:01,020
+y se le va la onda se desconecta del medio durante algunos segundos sin
+
+56
+00:04:01,020 --> 00:04:05,300
+ningún otro otro problema las causas de estas crisis por el
+
+57
+00:04:05,380 --> 00:04:08,300
+general son por un lado las convulsiones febriles que son la causa
+
+58
+00:04:08,300 --> 00:04:12,580
+más frecuente además las alteraciones metabólicas que muchas veces se ven
+
+59
+00:04:12,580 --> 00:04:16,420
+como una crisis tónico clónica y aparte de esto están las epilepsias
+
+60
+00:04:16,420 --> 00:04:21,660
+primarias que a su vez se subdividen en de tipo tónico clónica mío
+
+61
+00:04:21,660 --> 00:04:26,700
+clónica tónica con crisis atónica y la epilepsia por crisis de
+
+62
+00:04:26,700 --> 00:04:29,620
+ausencia también son las más importantes pero repito no me
+
+63
+00:04:29,620 --> 00:04:33,300
+confundan la crisis que es el síntoma que es cada uno de los
+
+64
+00:04:33,380 --> 00:04:37,700
+eventos con la epilepsia primaria que puede tener el mismo nombre pero es la
+
+65
+00:04:37,700 --> 00:04:41,820
+enfermedad que se caracteriza por esta recurrencia y que habitualmente son
+
+66
+00:04:41,820 --> 00:04:47,580
+enfermedades genéticas ciertas en el cual el neurodesarrollo cierto la
+
+67
+00:04:47,580 --> 00:04:52,060
+migración neuronal se ve alterada y queda con esta predisposición a
+
+68
+00:04:52,060 --> 00:04:56,900
+generar estas crisis lo importante de la clasificación entre
+
+69
+00:04:56,900 --> 00:05:00,580
+generalizadas y focales es que me cambia el tipo de fármaco
+
+70
+00:05:00,580 --> 00:05:05,100
+anticompulsivante que se usa para manejarlo repito el dividir una crisis
+
+71
+00:05:05,100 --> 00:05:09,060
+generalizada y diferenciarla de una focal o parcial es justamente que me
+
+72
+00:05:09,060 --> 00:05:12,740
+cambia el tipo de fármaco que se le deja y los anticompulsivantes que me
+
+73
+00:05:12,740 --> 00:05:15,460
+sirven para las generalizadas son las de amplio espectro que hay que
+
+74
+00:05:15,460 --> 00:05:18,980
+saberlo por su caso y el más importante es el ácido valproico y
+
+75
+00:05:18,980 --> 00:05:23,780
+los otros en cambio son el topiramato y la lamotrigina aunque la
+
+76
+00:05:23,780 --> 00:05:28,100
+lamotrigina aumenta las crisis mío clónicas así que estaría
+
+77
+00:05:28,100 --> 00:05:33,060
+absolutamente contraindicada en la epilepsia con crisis mío clónica pero
+
+78
+00:05:33,060 --> 00:05:37,460
+repito el ácido valproico es el clásico anticompulsivante de amplio
+
+79
+00:05:37,460 --> 00:05:41,700
+espectro que se suele dejar en las epilepsias primarias ya sea en el gran
+
+80
+00:05:41,700 --> 00:05:47,220
+mal cierto la tónico clónica en el petit mal o pequeño mal que es el de
+
+81
+00:05:47,220 --> 00:05:52,260
+la crisis de ausencia en la epilepsia mío clónica también pero no es el
+
+82
+00:05:52,260 --> 00:05:55,100
+único los otros dos que hay que saber son el topiramato y la
+
+83
+00:05:55,100 --> 00:06:00,380
+lamotrigina lo más clásico es que las epilepsias primarias se manejan
+
+84
+00:06:00,380 --> 00:06:04,140
+solamente con un anticompulsivante o sea con un anticompulsivante en
+
+85
+00:06:04,140 --> 00:06:09,060
+monoterapia y es muy raro que se haga una terapia combinada y por el
+
+86
+00:06:09,060 --> 00:06:14,220
+general lo hacen solamente los especialistas en epilepsia no el
+
+87
+00:06:14,220 --> 00:06:18,740
+médico general y habitualmente tampoco el neurólogo general y de
+
+88
+00:06:18,740 --> 00:06:22,980
+hecho cuando no funciona lo que uno hace antes de estar mezclando
+
+89
+00:06:22,980 --> 00:06:26,700
+medicamentos es justamente hacer un ajuste con los niveles plasmáticos en
+
+90
+00:06:26,700 --> 00:06:30,660
+mano y ver si es que está tomando una dosis adecuada del anticompulsivante
+
+91
+00:06:30,660 --> 00:06:36,340
+antes de concluir que este medicamento ha fallado o sea en
+
+92
+00:06:36,340 --> 00:06:40,700
+resumen las crisis generalizadas solamente anticompulsivantes de amplio
+
+93
+00:06:40,700 --> 00:06:45,540
+espectro el ácido valproico es el más clásico en monoterapia cierto y si
+
+94
+00:06:45,540 --> 00:06:49,220
+es que no anda bien la conducta es medir niveles plasmáticos antes de
+
+95
+00:06:49,220 --> 00:06:52,540
+tomar alguna decisión ya sea de cambiarlo o de derivarlo al
+
+96
+00:06:52,540 --> 00:06:57,420
+especialista para que eventualmente mezcle los medicamentos en el caso de
+
+97
+00:06:57,420 --> 00:07:01,780
+las crisis parciales o crisis focales que son sinónimos por si acaso la más
+
+98
+00:07:01,780 --> 00:07:05,620
+frecuente o la más clásica son las parciales simples que se caracterizan
+
+99
+00:07:05,620 --> 00:07:09,180
+porque el paciente no pierde la conciencia y ejemplo si viene con
+
+100
+00:07:09,180 --> 00:07:13,380
+movimientos en una única mano o con algún otro síntoma que puede ser
+
+101
+00:07:13,380 --> 00:07:17,940
+de cualquier tipo pero no pierde la conciencia luego están las parciales
+
+102
+00:07:17,940 --> 00:07:22,220
+complejas que se caracterizan porque el paciente si pierde la conciencia o
+
+103
+00:07:22,220 --> 00:07:26,300
+al menos se desconecta del medio y empieza o hablar incoherencias o actuar
+
+104
+00:07:26,300 --> 00:07:31,340
+raro o hacer alguna cosa y finalmente están las focales secundariamente
+
+105
+00:07:31,340 --> 00:07:36,380
+generalizadas que empiezan como un cuadro focal pero termina finalmente
+
+106
+00:07:36,380 --> 00:07:40,340
+con una crisis tónico crónica o con alguna de las otras crisis
+
+107
+00:07:40,340 --> 00:07:43,740
+generalizadas que ya vimos antes pero que quede bien claro siguen siendo
+
+108
+00:07:43,740 --> 00:07:49,140
+crisis primariamente focales dentro de las causas más importantes de las
+
+109
+00:07:49,140 --> 00:07:54,500
+crisis parciales cierto son todas las lesiones cerebrales focales y por lo
+
+110
+00:07:54,500 --> 00:07:57,860
+mismo uno habla de las epilepsias focales que suelen ser secundarias a un
+
+111
+00:07:57,860 --> 00:08:00,460
+accidente vascular encefálico que deja una secuela que deja una
+
+112
+00:08:00,460 --> 00:08:05,100
+cicatriz cierto a un tumor cerebral a un hematoma un absceso etcétera
+
+113
+00:08:05,100 --> 00:08:09,220
+o sea las crisis focales habitualmente son un signo de una
+
+114
+00:08:09,220 --> 00:08:13,660
+lesión focal que hay que ir a buscar activamente y que si se va a manejar
+
+115
+00:08:13,660 --> 00:08:17,180
+con algún anticombulsivante en este caso se manejan con otros
+
+116
+00:08:17,180 --> 00:08:21,540
+fármacos que se llaman anticombulsivantes de espectro acotado
+
+117
+00:08:21,540 --> 00:08:25,220
+que los dos más importantes que hay que saber son la fenitoína y la carba
+
+118
+00:08:25,220 --> 00:08:28,420
+mazepina aunque en estos casos sí me sirven también los de amplio
+
+119
+00:08:28,420 --> 00:08:32,820
+espectro pero aunque sí me sirvan hay que saber esta regla general las
+
+120
+00:08:32,820 --> 00:08:36,140
+epilepsias primarias se tratan con el símbolo valproico en cambio las
+
+121
+00:08:36,140 --> 00:08:39,780
+epilepsias focales son las que se tratarán habitualmente con carba
+
+122
+00:08:39,780 --> 00:08:45,060
+mazepina o con fenitoína. Vemos ahora los signos lateralizadores que
+
+123
+00:08:45,060 --> 00:08:50,340
+son algunos signos que me sirven para diferenciar entre una crisis que es
+
+124
+00:08:50,340 --> 00:08:56,380
+primaria o sea que es generalizada pero de manera primaria o bien que es
+
+125
+00:08:56,380 --> 00:09:00,540
+secundariamente generalizada debido a que habíamos dicho que las
+
+126
+00:09:00,540 --> 00:09:05,140
+focales eventualmente si pueden terminar como una crisis tónico-clónica
+
+127
+00:09:05,140 --> 00:09:09,340
+pero acá la gran diferencia es que se van a manejar distinto así que en
+
+128
+00:09:09,340 --> 00:09:14,060
+un paciente que me hizo una crisis tónico-clónica pero que empezó con
+
+129
+00:09:14,060 --> 00:09:17,800
+algo que venía con los signos lateralizadores o que empezó como una
+
+130
+00:09:17,800 --> 00:09:22,100
+crisis focal en ese caso el diagnóstico es una crisis focal
+
+131
+00:09:22,100 --> 00:09:26,460
+secundariamente generalizada y sería distinto a una epilepsia primaria por
+
+132
+00:09:26,460 --> 00:09:30,060
+ejemplo. Va a quedar bien claro en algunos segundos más.
+
+133
+00:09:30,060 --> 00:09:33,700
+¿Cuáles son estos signos lateralizadores? Número uno que venga con
+
+134
+00:09:33,700 --> 00:09:36,700
+signos focales, está con signos focales desde antes uno asume que hay
+
+135
+00:09:36,700 --> 00:09:42,900
+una lesión focal cierto y que por lo mismo el cuadro clínico es secundario
+
+136
+00:09:42,900 --> 00:09:46,780
+o una epilepsia focal con que se generaliza pero de manera secundaria
+
+137
+00:09:46,780 --> 00:09:51,620
+segundo lugar que venga con automatismos así que se ponga actuar raro que haga
+
+138
+00:09:51,620 --> 00:09:55,140
+el chupeteo por ejemplo ese tipo de cosas es algo que me orienta
+
+139
+00:09:55,140 --> 00:09:59,140
+fuertemente ya sea a una crisis psicomotora del lóbulo temporal o
+
+140
+00:09:59,140 --> 00:10:06,340
+algún otro tipo de crisis focal. Aparte de esto la desviación de la
+
+141
+00:10:06,340 --> 00:10:10,620
+mirada hacia un lado o de la cabeza o la crisis perciba en que se le
+
+142
+00:10:10,620 --> 00:10:15,260
+gira todo el cuerpo así que si se giran los ojos la cabeza y o el cuerpo
+
+143
+00:10:15,260 --> 00:10:19,020
+y si es que ocurre con las tres cosas más aún es algo que me orienta
+
+144
+00:10:19,020 --> 00:10:24,460
+inmediatamente a una crisis que secundariamente se generalizó pero
+
+145
+00:10:24,460 --> 00:10:29,900
+que es una crisis focal. La parálisis de TOD que la EMI parece que queda
+
+146
+00:10:29,900 --> 00:10:33,860
+después de una crisis convulsiva cierto en ese caso es un signo que
+
+147
+00:10:33,860 --> 00:10:38,940
+me orienta también a que es una causa focal y finalmente el que inicie
+
+148
+00:10:39,020 --> 00:10:42,860
+de manera bastante clara como una crisis parcial simple con conciencia
+
+149
+00:10:42,860 --> 00:10:45,420
+cierto así como mira se me está moviendo la mano me va a dar la crisis
+
+150
+00:10:45,420 --> 00:10:49,540
+y luego me hace la crisis la crisis tónico-clónica pero empieza
+
+151
+00:10:49,540 --> 00:10:53,500
+conciente en ese caso es un signo lateralizador que me orienta que es
+
+152
+00:10:53,500 --> 00:10:57,260
+una crisis focal también. Espero que haya quedado claro vamos a ver unos
+
+153
+00:10:57,260 --> 00:11:01,100
+casos clínicos en un par de clases más y ahí va a quedar todo bien
+
+154
+00:11:01,100 --> 00:11:04,500
+bien claro así que nos vemos en los siguientes temas relacionados con
+
+155
+00:11:04,500 --> 00:11:06,260
+esto mismo. Mucho ánimo.

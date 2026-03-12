@@ -1,0 +1,611 @@
+1
+00:00:03,150 --> 00:00:07,910
+Hola, hola, ¿cómo están? Hablemos del manejo de las dilipidemias y dentro de él vamos a ver qué
+
+2
+00:00:07,910 --> 00:00:12,270
+son las dilipidemias y todo ese tipo de cosas que son importantes más allá del manejo. Ahora,
+
+3
+00:00:12,270 --> 00:00:16,630
+a grandes rasgos, el tratamiento no farmacológico hay que indicarlo siempre. De hecho,
+
+4
+00:00:16,630 --> 00:00:20,190
+la vida sana, la dieta, el ejercicio, es algo que no solamente aplica a las
+
+5
+00:00:20,190 --> 00:00:24,470
+personas con enfermedades, sino que a todas las personas en general. En el caso de la
+
+6
+00:00:24,470 --> 00:00:30,310
+hipercolesterolemia LDL, que es la más mala de todas por su caso, habitualmente se le deja
+
+7
+00:00:30,310 --> 00:00:35,270
+una dieta baja en grasas saturadas, dado que no solamente el colesterol que se consume,
+
+8
+00:00:35,270 --> 00:00:41,750
+sino que en particular las grasas saturadas es lo que más eleva los niveles de LDL. Ahora,
+
+9
+00:00:41,750 --> 00:00:46,070
+hay que ir a buscar, además, dentro de otras causas secundarias, el hipotiroidismo. El
+
+10
+00:00:46,070 --> 00:00:51,830
+hipotiroidismo habitualmente se asocia a la hipercolesterolemia LDL al punto que alguien
+
+11
+00:00:51,830 --> 00:00:55,750
+con dilipidemia y un hipotiroidismo subclínico hay que tratar el hipotiroidismo
+
+12
+00:00:55,830 --> 00:01:03,550
+subclínico. Siguiendo acá, la hipertriliseridemia y la hipocolesterolemia HDL, o simplemente el
+
+13
+00:01:03,550 --> 00:01:08,470
+HDL bajo que se llama, habitualmente son causados por resistencia a la insulina,
+
+14
+00:01:08,470 --> 00:01:13,470
+así que si se le deja alguna dieta, es una dieta baja en azúcares refinados, baja en
+
+15
+00:01:13,470 --> 00:01:18,390
+carbohidratos de absorción rápida por el general. Como cosa importante, además, es muy
+
+16
+00:01:18,390 --> 00:01:22,710
+importante reducir el alcohol. De hecho, alguien con una hipertriliseridemia alta,
+
+17
+00:01:22,910 --> 00:01:27,750
+si es que está muy alta, no solamente que tiene riesgo de pancreatitis, sino que al estar con
+
+18
+00:01:27,750 --> 00:01:31,830
+consumo de alcohol que me eleva los triglicéridos, el consumo de alcohol per se me aumenta el
+
+19
+00:01:31,830 --> 00:01:35,910
+riesgo de pancreatitis también. Así que muchas veces la primera medida en alguien con
+
+20
+00:01:35,910 --> 00:01:41,750
+una hipertriliseridemia grave es suspender el alcohol, como la medida más urgente,
+
+21
+00:01:41,750 --> 00:01:45,950
+y además la hipertriliseridemia suele responder bastante mejor que las
+
+22
+00:01:45,950 --> 00:01:50,550
+hipercolesterolemia al cambio en el estilo de vida. De hecho, son como bien agradecidas
+
+23
+00:01:50,550 --> 00:01:56,350
+de que uno haga dieta, la verdad. Respecto a los fármacos que uno usa, pues la verdad es que
+
+24
+00:01:56,350 --> 00:02:01,790
+todos los fármacos hipolipemiantes sirven en todas las dilipidemias. Así que quede bien
+
+25
+00:02:01,790 --> 00:02:06,950
+claro, la evidencia dice que las estatinas, los fibratos, el ácido nicotínico, la resina,
+
+26
+00:02:06,950 --> 00:02:12,150
+el cetemib, etcétera, todos sirven para el manejo de todas las dilipidemias, para el
+
+27
+00:02:12,150 --> 00:02:18,030
+LDL alto, los triglicéridos altos y el HDL bajo. Hay algunos que sirven más para uno o
+
+28
+00:02:18,030 --> 00:02:24,430
+más para otros, pero sepan que la regla general es que las estatinas lo que más hacen es bajar
+
+29
+00:02:24,430 --> 00:02:30,230
+el LDL, aunque también tienen impacto en mejorar los triglicéridos y el HDL. Ahora,
+
+30
+00:02:30,230 --> 00:02:36,550
+cuando las estatinas no sirven o no son suficientes, ejemplo en una hipertriliseridemia
+
+31
+00:02:36,550 --> 00:02:41,630
+familiar o bien cuando están contraindicadas porque hacen una randomiólisis, por ejemplo,
+
+32
+00:02:41,630 --> 00:02:48,830
+en ese caso para el LDL sirve el cetemib. Acuérdense que el cetemib es un medicamento
+
+33
+00:02:48,830 --> 00:02:53,670
+que evita la absorción en específico del colesterol a nivel intestinal. No es lo
+
+34
+00:02:53,670 --> 00:02:59,510
+mismo que las resinas. Las resinas lo que hacen es absorber los lípidos en general y me las
+
+35
+00:02:59,510 --> 00:03:04,990
+bajan todas, pero el cetemib es específico para el colesterol LDL y de hecho su impacto
+
+36
+00:03:04,990 --> 00:03:10,550
+en los otros lípidos es bastante menor. Respecto a los triglicéridos lo que más
+
+37
+00:03:10,550 --> 00:03:15,390
+se usa son los fibratos, al menos como un medicamento específico para la hipertriliseridemia,
+
+38
+00:03:15,390 --> 00:03:21,750
+pero en la práctica, dado que la prioridad es el LDL, en la práctica la inmensa mayoría
+
+39
+00:03:21,750 --> 00:03:26,670
+de las hipertriliseridemias se manejan en verdad con estatinas manejando simultáneamente
+
+40
+00:03:26,670 --> 00:03:33,110
+el LDL, pero repito, los fibratos inciden mayormente en los triglicéridos, así que
+
+41
+00:03:33,110 --> 00:03:36,910
+serían de elección en una hipertriliseridemia muy severa, por ejemplo, que lo vamos a ver
+
+42
+00:03:36,910 --> 00:03:42,630
+ahora pronto. En el caso del HDL bajo lo que más sirve es la niacina, que es lo
+
+43
+00:03:42,630 --> 00:03:47,350
+mismo que el ácido nicotínico, pero sepan que en verdad no hay tanta evidencia respecto
+
+44
+00:03:47,350 --> 00:03:53,390
+a su utilidad, así que si bien mejoran los niveles de HDL y los elevan, que lo
+
+45
+00:03:53,390 --> 00:03:57,630
+bueno en este caso es que estén alto, la verdad es que no se ha demostrado que
+
+46
+00:03:57,630 --> 00:04:01,910
+eso sirva para algo desde el punto de vista clínico. Ahora, ¿cuál es la prioridad
+
+47
+00:04:01,910 --> 00:04:06,230
+del manejo de las dilipidemias en el sentido en que con mucha frecuencia no
+
+48
+00:04:06,230 --> 00:04:11,950
+solamente tiene un lípido malo, sino que varios de estos lípidos malos? Es el LDL,
+
+49
+00:04:11,950 --> 00:04:17,270
+el bajar el LDL es siempre lo más importante, así que habitualmente se maneja con
+
+50
+00:04:17,270 --> 00:04:23,710
+estatinas. Ahora, luego vienen los triglicéridos y finalmente el HDL, sabiendo que el
+
+51
+00:04:23,710 --> 00:04:27,670
+manejo del HDL habitualmente es el manejo de los otros lípidos, porque no hay
+
+52
+00:04:27,670 --> 00:04:32,070
+evidencia que manejarlo de manera específica sirva para algo. Hay una gran
+
+53
+00:04:32,070 --> 00:04:36,350
+excepción que son los triglicéridos arriba de 500, esto no tiene tanta
+
+54
+00:04:36,350 --> 00:04:40,950
+evidencia científica, de hecho hay gente que dice que aunque estén arriba de
+
+55
+00:04:40,950 --> 00:04:46,270
+500 hay que manejar el LDL igual, pero la recomendación más general es que
+
+56
+00:04:46,270 --> 00:04:49,630
+cuando están arriba de 500 hay que partir con fibratos porque ahí el
+
+57
+00:04:49,630 --> 00:04:52,910
+riesgo de la pancretitis sería un poquito más alto al riesgo de los
+
+58
+00:04:52,910 --> 00:04:57,510
+infartos a largo plazo del LDL. Ahora, cuando yo inicie un fármaco la
+
+59
+00:04:57,510 --> 00:05:01,230
+verdad es que va a depender de varias cosas, en el caso del LDL alto
+
+60
+00:05:01,230 --> 00:05:05,070
+de la hipercolesterolemia LDL, lo primero antes de ver si es que vaya a
+
+61
+00:05:05,070 --> 00:05:09,830
+partir un fármaco o no, es determinar el riesgo cardiovascular y eso se hace
+
+62
+00:05:09,830 --> 00:05:12,630
+con el score de Framingham viendo los distintos factores de riesgo,
+
+63
+00:05:12,630 --> 00:05:16,470
+cierto, y de esa manera se calcula finalmente cuál es su factor de
+
+64
+00:05:16,470 --> 00:05:21,150
+riesgo, cuál es su nivel de riesgo, perdón, y si es que tiene un riesgo
+
+65
+00:05:21,150 --> 00:05:26,390
+cardiovascular alto o muy alto, arriba de 20% de probabilidad de tener un
+
+66
+00:05:26,390 --> 00:05:30,470
+infarto de aquí a 10 años, eso se considera alto, o bien si es que es
+
+67
+00:05:30,470 --> 00:05:35,910
+moderado, entre 10 y 20%, o bien si es que es bajo, menor a 10% de riesgo de un
+
+68
+00:05:35,910 --> 00:05:38,990
+infarto de aquí a 10 años, es la forma en que yo voy a determinar el
+
+69
+00:05:38,990 --> 00:05:44,350
+objetivo de los niveles del LDL, de manera de determinar igualmente si es
+
+70
+00:05:44,350 --> 00:05:49,750
+que le dejo estatinas o no. Ahora, ¿se dejan estatinas sí o no? En el caso
+
+71
+00:05:49,750 --> 00:05:53,030
+del riesgo cardiovascular alto la verdad es que se dejan estatinas
+
+72
+00:05:53,030 --> 00:05:58,150
+siempre, independiente de los niveles de LDL, aunque los LDL estén muy
+
+73
+00:05:58,150 --> 00:06:03,790
+bajos, que sería muy raro que simultáneamente tuviera un riesgo
+
+74
+00:06:03,790 --> 00:06:08,230
+cardiovascular tan alto, pero en ese caso le dejo estatinas igual, sabiendo que
+
+75
+00:06:08,230 --> 00:06:14,350
+el óptimo ahí va a ser que tenga un LDL bajo 70. Si es que es moderado, la
+
+76
+00:06:14,350 --> 00:06:17,310
+verdad que lo más probable es que va a quedar con estatinas igual, en este
+
+77
+00:06:17,310 --> 00:06:20,390
+caso ya no es obligatorio, sino que se evalúa el riesgo beneficio con
+
+78
+00:06:20,390 --> 00:06:25,150
+el paciente, pero se le ofrece, y el objetivo ideal del LDL va a ser
+
+79
+00:06:25,150 --> 00:06:31,350
+bajo 100, bajo 130 sale en algunas partes, pero actualmente se se prefiere
+
+80
+00:06:31,350 --> 00:06:35,110
+dejar las estatinas nomás porque son baratas, son seguras, y la verdad es que
+
+81
+00:06:35,110 --> 00:06:38,710
+son bien toleradas por el paciente y disminuye el riesgo. Y finalmente, si
+
+82
+00:06:38,710 --> 00:06:42,870
+el riesgo cardiovascular es bajo, en ese caso las estatinas por el
+
+83
+00:06:42,870 --> 00:06:46,990
+general no se dan, a menos claro que el LDL está demasiado alto, arriba
+
+84
+00:06:46,990 --> 00:06:52,150
+de 190, ahí de entrada parto con estatinas, o bien cuando está arriba
+
+85
+00:06:52,190 --> 00:06:56,830
+de 160 después de tres meses de dieta. O sea, en resumen, las estatinas van
+
+86
+00:06:56,830 --> 00:07:01,630
+casi siempre en riesgo alto, en riesgo moderado, y en el riesgo bajo solamente
+
+87
+00:07:01,630 --> 00:07:06,590
+cuando está arriba de 60 y no responde, o cuando está arriba de 190.
+
+88
+00:07:06,590 --> 00:07:10,830
+Ese es como el gran resumen. Ahora, en el caso de los triliséridos altos,
+
+89
+00:07:10,830 --> 00:07:15,750
+por el general yo siempre empiezo con dieta y con el suspender el hábito
+
+90
+00:07:15,750 --> 00:07:19,630
+alcohólico, recordando que responde bastante bien, y si es que no anda
+
+91
+00:07:19,670 --> 00:07:23,950
+bien, pues ahí recién voy a ver si es que está arriba de 500, en ese caso le
+
+92
+00:07:23,950 --> 00:07:29,430
+dejo un fibrato, sabiendo que los fibratos que se usan habitualmente son
+
+93
+00:07:29,430 --> 00:07:34,390
+el genfibrocilo y el fenofibrato. En cambio, si es que está abajo de
+
+94
+00:07:34,390 --> 00:07:39,790
+500, por el general voy a ir a ver el LDL. Si es que el LDL está
+
+95
+00:07:39,790 --> 00:07:44,750
+alto, en ese caso manda el LDL, así que le voy a dejar estatinas. Así que
+
+96
+00:07:44,870 --> 00:07:49,670
+en resumen, número uno siempre es la intervención no farmacológica. Ahora,
+
+97
+00:07:49,670 --> 00:07:53,710
+obviamente, si es que ya hacía una buena dieta y no consumía tanto alcohol,
+
+98
+00:07:53,710 --> 00:07:58,950
+si está arriba de 500, voy directamente a los fibratos. Volvamos acá a la
+
+99
+00:07:58,950 --> 00:08:02,910
+arriba de 500. En general, el riesgo de pancreatitis empieza a disparar desde
+
+100
+00:08:02,910 --> 00:08:07,830
+500 hacia arriba, pero es muy raro si es que está bajo 1000 o bajo 1500,
+
+101
+00:08:07,830 --> 00:08:11,910
+la verdad. En cambio, arriba de 1000 o 1500, el riesgo ya es muchísimo más
+
+102
+00:08:11,910 --> 00:08:18,190
+alto, así que ahí incluso, si es que está arriba de 1500 o 1600, eventualmente
+
+103
+00:08:18,190 --> 00:08:22,310
+se hospitaliza y se maneja con insulina, en el sentido en que eso es algo que
+
+104
+00:08:22,310 --> 00:08:27,790
+baja también muy rápido la trigliceridemia. Siguiendo acá, ¿qué cosa
+
+105
+00:08:27,790 --> 00:08:32,270
+pasa si es que estuviera con triglicéridos menor a 500? O sea, uno
+
+106
+00:08:32,270 --> 00:08:36,870
+dice, hasta ahí al menos per se, no voy con los fibratos al tiro, con un
+
+107
+00:08:36,870 --> 00:08:40,750
+LDL que está normal, así que tampoco me da mucha gana de darle
+
+108
+00:08:40,750 --> 00:08:44,870
+estatina por el LDL y con un riesgo cardiovascular que está bajo, así que
+
+109
+00:08:44,870 --> 00:08:50,350
+tampoco tiene indicación de estatina ahí per se. Bueno, en ese caso evaluo si
+
+110
+00:08:50,350 --> 00:08:54,630
+luego hay fibratos o no. Si le dejo solamente dieta o si es que le dejo un
+
+111
+00:08:54,630 --> 00:08:58,070
+fibrato además en el caso de que no ande bien con la dieta. Dejando bien
+
+112
+00:08:58,070 --> 00:09:01,950
+claro esto, no hay tanta evidencia de que los fibratos disminuyan
+
+113
+00:09:01,950 --> 00:09:05,590
+efectivamente las complicaciones de la hipertrigliceridemia, así que se
+
+114
+00:09:05,590 --> 00:09:08,430
+dejan cuando hay riesgos de pancreatitis, pero desde el punto de
+
+115
+00:09:08,430 --> 00:09:11,830
+vista del riesgo cardiovascular, el impacto de los triglicéridos no es tan
+
+116
+00:09:11,830 --> 00:09:16,230
+grande y por lo mismo es que el LDL es la prioridad casi siempre. Un poquito
+
+117
+00:09:16,230 --> 00:09:20,510
+enredado, pero espero que seáis entendidos. Ahora, respecto al HDL
+
+118
+00:09:20,510 --> 00:09:26,830
+bajo, en ese caso no hay evidencia de que el manejo dirigido sirva para
+
+119
+00:09:26,830 --> 00:09:31,270
+algo, así que en la práctica lo que uno hace es manejar el LDL que es
+
+120
+00:09:31,270 --> 00:09:34,790
+lo más importante, los triglicéridos y obviamente la resistencia a la
+
+121
+00:09:34,790 --> 00:09:38,430
+insulina que suele ser la causa tanto de la hipertrigliceridemia como del
+
+122
+00:09:38,430 --> 00:09:43,990
+HDL bajo. Ahora, recuerden que el objetivo del HDL es que sea mayor a
+
+123
+00:09:43,990 --> 00:09:47,790
+50 en las mujeres y mayor a 40 en los hombres y a las personas que está
+
+124
+00:09:47,790 --> 00:09:52,630
+arriba de 60, por lo que la general es un factor protector, así que mucho
+
+125
+00:09:52,630 --> 00:09:56,990
+cuidado cuando alguien llega con o tengo el colesterol muy alto, porque
+
+126
+00:09:56,990 --> 00:10:00,790
+si es el colesterol total, la verdad queda absolutamente igual, lo que
+
+127
+00:10:00,790 --> 00:10:04,570
+importa en ese caso es ver cómo está el LDL, cómo está el
+
+128
+00:10:04,570 --> 00:10:08,390
+triglicérido y cómo está el HDL, porque si es que yo tengo una
+
+129
+00:10:08,390 --> 00:10:13,670
+hipercolesterolemia total a expensas solamente de HDL, eso es bueno, no es
+
+130
+00:10:13,670 --> 00:10:19,470
+malo, sino que es un factor protector. Ahora, veamos el listado de las cosas
+
+131
+00:10:19,470 --> 00:10:24,550
+que tienen un riesgo cardiovascular máximo o muy alto por el solo hecho
+
+132
+00:10:24,550 --> 00:10:27,670
+de existir y son todas las cosas que se relacionan a enfermedad
+
+133
+00:10:27,670 --> 00:10:31,750
+coronaria, dígase un infarto previo, o que se haya demostrado enfermedad
+
+134
+00:10:31,750 --> 00:10:34,870
+coronaria en una coronareografía, en un test de esfuerzo, con una gina
+
+135
+00:10:34,870 --> 00:10:39,670
+crónica, aunque no haya tenido un infarto previo, eso es número uno. Dos, todos
+
+136
+00:10:39,670 --> 00:10:43,230
+los equivalentes coronarios que son las otras arterias que están enfermas,
+
+137
+00:10:43,230 --> 00:10:47,550
+las otras arterias que están tapadas, dígase un anurisma de la horta
+
+138
+00:10:47,550 --> 00:10:51,390
+abdominal, porque acuérdense que el anurisma órtico es causado
+
+139
+00:10:51,390 --> 00:10:54,470
+habitualmente por una placa ateromatosa, lo mismo que la
+
+140
+00:10:54,470 --> 00:10:58,030
+claudicación intermitente o la enfermedad arterial periférica, peor
+
+141
+00:10:58,030 --> 00:11:03,510
+todavía si es que es una isquemia crítica, la enfermedad de las carótidas,
+
+142
+00:11:03,510 --> 00:11:08,030
+la enfermedad carotidia, obviamente de causa arteriosclerótica, y
+
+143
+00:11:08,030 --> 00:11:11,430
+finalmente la diabetes y la subrayo acá, porque la diabetes mellitus
+
+144
+00:11:11,430 --> 00:11:15,910
+tiene un riesgo muy muy similar a haber tenido un infarto previo para el
+
+145
+00:11:15,910 --> 00:11:19,750
+riesgo de tener uno de infarto, así que en la práctica, cualquiera que
+
+146
+00:11:19,750 --> 00:11:23,710
+tenga cualquiera de esas cosas, va a quedar con estatina sí o sí, va a
+
+147
+00:11:23,710 --> 00:11:29,230
+quedar con un objetivo de LDL de menos de 70, así que lo más probable es que
+
+148
+00:11:29,230 --> 00:11:33,390
+va a quedar con una dosis de estatina relativamente alta, así ejemplo
+
+149
+00:11:33,390 --> 00:11:37,910
+atorvastatina entre 40 y 80 milígramos al día, y va a quedar con
+
+150
+00:11:37,910 --> 00:11:41,430
+aspirina obviamente para reducir el riesgo de infarto también, y bueno
+
+151
+00:11:41,430 --> 00:11:45,710
+eso fue Dilipidemia al menos del manejo general, en otro vídeo vamos a ver
+
+152
+00:11:45,710 --> 00:11:49,150
+algunos detalles o algunas cosas un poquito más específicas, así que ahí
+
+153
+00:11:49,150 --> 00:11:51,830
+nos vemos, que estén bien.

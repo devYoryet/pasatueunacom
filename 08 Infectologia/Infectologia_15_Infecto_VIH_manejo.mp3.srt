@@ -1,0 +1,231 @@
+1
+00:00:00,000 --> 00:00:07,510
+Hola, hola, ¿cómo están? Vamos a empezar con este tema de reumatología con un
+
+2
+00:00:07,510 --> 00:00:10,550
+esquema general para que quede todo más claro dado que las enfermedades
+
+3
+00:00:10,550 --> 00:00:14,110
+reumatológicas autoinmunes tienden a confundirse entre ellas. Así que
+
+4
+00:00:14,110 --> 00:00:17,910
+empecemos viendo una lista y un esquema de las enfermedades
+
+5
+00:00:17,910 --> 00:00:22,030
+reumatológicas más importante partiendo por las famosas enfermedades del
+
+6
+00:00:22,030 --> 00:00:26,590
+tejido conectivo, las ETC. El lupus es el exponente más conocido, cierto,
+
+7
+00:00:26,590 --> 00:00:30,350
+pero no es el único. También están las esclerodermias sistémicas, la
+
+8
+00:00:30,350 --> 00:00:34,270
+polimiositis, la dermatomiositis que afectan los músculos y la piel en el
+
+9
+00:00:34,270 --> 00:00:38,110
+caso de la dermatomiositis, el síndrome de Sjögren, la enfermedad mixta del
+
+10
+00:00:38,110 --> 00:00:42,310
+tejido conectivo, esa, entre otras. ¿Qué es lo que tienen en común todas
+
+11
+00:00:42,310 --> 00:00:46,950
+ellas que tienden a ser ana positivo? O sea, que tienen la positividad de los
+
+12
+00:00:46,950 --> 00:00:51,510
+anticuerpos antinucleares. Ana significa antinuclear anticuerpo, con
+
+13
+00:00:51,510 --> 00:00:54,710
+sus siglas en inglés, por supuesto. Luego están las pelvies póndil o
+
+14
+00:00:54,710 --> 00:00:58,670
+artropatías que suelen afectar el esqueleto axial y la espondilitis
+
+15
+00:00:58,710 --> 00:01:02,390
+anquilosante o espondil o artritis anquilosante con sus siglas en español,
+
+16
+00:01:02,390 --> 00:01:07,110
+cierto, EAA es la más conocida, pero no es la única. También está la
+
+17
+00:01:07,110 --> 00:01:10,190
+artritis asociada a enfermedades inflamatorias intestinales, la
+
+18
+00:01:10,190 --> 00:01:12,910
+artritis psoriática que tiene una clínica un poco diferente y
+
+19
+00:01:12,910 --> 00:01:16,710
+finalmente la artritis reactiva que es bastante frecuente y que hay que
+
+20
+00:01:16,710 --> 00:01:20,510
+saber identificarla. ¿Tienen en común que son todas ellas
+
+21
+00:01:20,510 --> 00:01:23,950
+seronegativas? O sea que no tienen ningún anticuerpo que esté positivo.
+
+22
+00:01:23,950 --> 00:01:27,430
+A lo más, y vamos a verlo después, pueden tener algunos marcadores genéticos
+
+23
+00:01:27,750 --> 00:01:31,990
+en los complejos de histocompatibilidad en la parte inmunológica,
+
+24
+00:01:31,990 --> 00:01:35,710
+pero anticuerpos negativos. Por eso se llaman también pelvies póndil
+
+25
+00:01:35,710 --> 00:01:40,470
+o artropatías seronegativas. Además, vamos a ver las vasculitis
+
+26
+00:01:40,470 --> 00:01:44,070
+partiendo por las vasculitis primarias que recuerden que la más
+
+27
+00:01:44,070 --> 00:01:47,310
+importante son la arteritis de Takayasu, luego la arteritis de
+
+28
+00:01:47,310 --> 00:01:50,550
+células gigantes, que ambas son de vaso grande o al menos así se las
+
+29
+00:01:50,550 --> 00:01:55,270
+suele clasificar, la enfermedad de Kawasaki y la poliarteritis
+
+30
+00:01:55,350 --> 00:02:00,630
+nodosa o poliarteritis nudoza, que acuérdense que son las de vaso
+
+31
+00:02:00,630 --> 00:02:04,390
+mediano, aunque vamos a ver que a veces afectan los vasos pequeños
+
+32
+00:02:04,390 --> 00:02:07,510
+también y que no siempre se respeta esa clasificación del tamaño
+
+33
+00:02:07,510 --> 00:02:11,430
+de vaso. Luego de eso están las de vaso pequeño como la púrpura
+
+34
+00:02:11,430 --> 00:02:15,190
+de Schoenlein-Henoch y finalmente está la granulomatosis de
+
+35
+00:02:15,190 --> 00:02:19,230
+Wegener, la vasculitis de Churk-Strauss y la poliengitis
+
+36
+00:02:19,230 --> 00:02:23,590
+microscópica, que esas tres se caracterizan por ser ancapositivos
+
+37
+00:02:23,590 --> 00:02:27,790
+y las vamos a ver en detalle cada una de estas enfermedades.
+
+38
+00:02:27,790 --> 00:02:31,390
+Hay otras enfermedades autoinmunes que no listamos dentro
+
+39
+00:02:31,390 --> 00:02:33,910
+de este que son muy importantes, como por ejemplo la misma
+
+40
+00:02:33,910 --> 00:02:36,830
+artritis reumatoide que algunos sí la clasifican dentro de las
+
+41
+00:02:36,830 --> 00:02:39,830
+enfermedades del tejido conectivo, pero la vamos a poner aparte
+
+42
+00:02:39,830 --> 00:02:43,030
+porque no suele ser anapositivo, hay casos en que sí, lo vamos
+
+43
+00:02:43,030 --> 00:02:46,030
+a ver también, pero no siempre. La enfermedad de STIL del
+
+44
+00:02:46,030 --> 00:02:49,910
+adulto o la artritis reumatoide juvenil o artritis juvenil
+
+45
+00:02:49,910 --> 00:02:52,150
+idiopática de los niños, que son la misma enfermedad solo
+
+46
+00:02:52,190 --> 00:02:56,310
+que a distintas edades, la enfermedad de BESET que acuérdense
+
+47
+00:02:56,310 --> 00:02:58,590
+que es un tipo de vasculitis también, pero que se suele
+
+48
+00:02:58,590 --> 00:03:02,190
+clasificar aparte porque tiene una clínica diferente y aparte
+
+49
+00:03:02,190 --> 00:03:04,670
+de esto vamos a ver también enfermedades reumatológicas
+
+50
+00:03:04,670 --> 00:03:09,230
+no autoinmunes como por ejemplo la artrosis que es de tipo
+
+51
+00:03:09,230 --> 00:03:12,590
+degenerativa, la fibromialgia que tiene algún componente
+
+52
+00:03:12,590 --> 00:03:15,910
+neuromuscular en su génesis, cierto, o la misma artritis
+
+53
+00:03:15,910 --> 00:03:18,790
+por cristales, ya sea la gota o la chondrocalcinosis
+
+54
+00:03:18,790 --> 00:03:21,270
+que están muy asociadas a factores metabólicos.
+
+55
+00:03:21,270 --> 00:03:23,550
+Así que ya saben, ese es el esquema general y en los
+
+56
+00:03:23,550 --> 00:03:25,950
+siguientes videos vamos a entrar en los detalles de cada uno
+
+57
+00:03:25,950 --> 00:03:28,470
+de estos temas tan importantes de la reumatología,
+
+58
+00:03:28,470 --> 00:03:29,670
+así que nos vemos ahí que estén bien.

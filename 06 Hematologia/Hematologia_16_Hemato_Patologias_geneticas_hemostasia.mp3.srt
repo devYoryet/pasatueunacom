@@ -1,0 +1,335 @@
+1
+00:00:00,000 --> 00:00:07,360
+Hola, hola, ¿cómo están? En este video vamos a hablar de las patologías genéticas de la
+
+2
+00:00:07,360 --> 00:00:11,360
+hemostasia primaria, que como toda alteración de la hemostasia primaria se caracterizan
+
+3
+00:00:11,360 --> 00:00:16,880
+por petequias, cierto, que es lo más característico de la hemostasia primaria, químosis, sangrados
+
+4
+00:00:16,880 --> 00:00:20,240
+que provienen de las mucosas, y lo que se alargaba, acuérdense, no son los tiempos
+
+5
+00:00:20,240 --> 00:00:24,600
+de coagulación, sino que es el tiempo de sangría. Ahora, empecemos con la
+
+6
+00:00:24,600 --> 00:00:27,860
+más frecuente de ésta, que es la enfermedad de von Bilebrand, que se abrevia así
+
+7
+00:00:27,860 --> 00:00:35,060
+como eBW, y recordemos que su clínica es una alteración crónica que puede
+
+8
+00:00:35,060 --> 00:00:38,740
+afectar a ambos sexos porque es autosómica, hay algunas que son autosómicas
+
+9
+00:00:38,740 --> 00:00:44,300
+dominantes, otras que son autosómicas recesivas, dependiendo de qué
+
+10
+00:00:44,300 --> 00:00:48,020
+tipo sea, a diferencia de la hemofilia, en cambio, que se da fundamentalmente
+
+11
+00:00:48,020 --> 00:00:51,420
+en hombres. En segundo lugar, viene con una clínica de alteración de la
+
+12
+00:00:51,420 --> 00:00:54,500
+hemostasia primaria que puede ser desde muy leve, ejemplo, algunas
+
+13
+00:00:54,500 --> 00:00:58,140
+petequias y equímosis que aparecen de vez en cuando, hasta algo muy severo
+
+14
+00:00:58,140 --> 00:01:02,180
+con hemorragias ya más graves, y en los casos más graves puede venir con
+
+15
+00:01:02,180 --> 00:01:06,180
+hematomas, lo cual simula un poco las alteraciones de la hemostasia
+
+16
+00:01:06,180 --> 00:01:11,260
+secundaria, como la hemofilia, incluso algunos tipos pueden alargar el
+
+17
+00:01:11,260 --> 00:01:15,260
+TTPA, así que ahí se puede confundir un poco más con una hemofilia, pero
+
+18
+00:01:15,260 --> 00:01:18,820
+una hemofilia más leve, en el sentido en que las hemofilias son
+
+19
+00:01:18,820 --> 00:01:23,700
+bastante más graves. Ahora, ¿por qué puede alargar el TTPA? Porque el
+
+20
+00:01:23,700 --> 00:01:27,860
+factor de Fombilebran se une naturalmente al factor 8, así que en
+
+21
+00:01:27,860 --> 00:01:33,180
+algunos tipos de enfermedad de Fombilebran, que el factor de Fombilebran
+
+22
+00:01:33,180 --> 00:01:37,140
+está muy muy bajo, eventualmente baja también la actividad y los niveles del
+
+23
+00:01:37,140 --> 00:01:41,540
+factor 8, lo cual se traduce en un alargamiento del TTPA y en una
+
+24
+00:01:41,540 --> 00:01:44,940
+clínica más severa. Ahora, ¿cómo es el hemograma en la enfermedad de
+
+25
+00:01:44,940 --> 00:01:48,860
+Fombilebran? Habitualmente está normal, porque acuérdense que no es
+
+26
+00:01:48,860 --> 00:01:52,420
+una plaquetopenia, sino que es una disfunción plaquetaria, una alteración
+
+27
+00:01:52,460 --> 00:01:55,300
+de la hemostasia primaria, pero sin plaquetopenia, sino que con
+
+28
+00:01:55,300 --> 00:01:58,100
+alteraciones en el funcionamiento de las plaquetas, porque el factor de
+
+29
+00:01:58,100 --> 00:02:03,140
+Fombilebran ayuda a la agregación de las plaquetas. Ahora, sí puede
+
+30
+00:02:03,140 --> 00:02:06,460
+venir con una anemia ferropénica en el sentido en que cualquier
+
+31
+00:02:06,460 --> 00:02:10,540
+enfermedad que altere la hemostasia, que produzca hemorragias crónicas,
+
+32
+00:02:10,540 --> 00:02:16,180
+eventualmente tiende a la ferropenia. En el tipo de enfermedad de
+
+33
+00:02:16,180 --> 00:02:20,980
+Fombilebran 2b, que se divide en tipo 1, tipo 2 y tipo 3 y dentro
+
+34
+00:02:21,020 --> 00:02:25,500
+de la tipo 2 a su vez se subclasifica, una de esas es la 2b, esa es la
+
+35
+00:02:25,500 --> 00:02:29,820
+rara que sí puede venir con trombopenia, por su caso. El diagnóstico
+
+36
+00:02:29,820 --> 00:02:33,300
+de esta enfermedad se hace con un estudio que se llama estudio
+
+37
+00:02:33,300 --> 00:02:36,580
+de enfermedad de Fombilebran, dentro de los cuales lo más
+
+38
+00:02:36,980 --> 00:02:40,380
+importante son las pruebas de agregación plaquetaria o de
+
+39
+00:02:40,380 --> 00:02:43,580
+disfunción plaquetaria, porque justamente se va a ir a medir si
+
+40
+00:02:43,580 --> 00:02:46,220
+hay o no una disfunción plaquetaria y cuál es la causa
+
+41
+00:02:46,220 --> 00:02:50,820
+específica de ella. Segundo lugar, eventualmente se miden los
+
+42
+00:02:50,860 --> 00:02:56,220
+niveles de Fombilebran sabiendo que pueden estar bajos como en el
+
+43
+00:02:56,220 --> 00:02:59,420
+tipo 1 que es el más frecuente o pueden estar muy extremadamente
+
+44
+00:02:59,420 --> 00:03:03,100
+bajos como en el tipo 3, pero también pueden estar normales
+
+45
+00:03:03,100 --> 00:03:09,140
+como en el tipo 2 en el cual es una alteración genética en la
+
+46
+00:03:09,140 --> 00:03:12,580
+cual sí hay factor de Fombilebran, pero no funciona bien.
+
+47
+00:03:13,020 --> 00:03:15,780
+O sea, el nivel está normal, pero el funcionamiento está
+
+48
+00:03:16,020 --> 00:03:18,700
+inadecuado. Ahora, todos estos detalles de los tipos de
+
+49
+00:03:18,700 --> 00:03:21,460
+enfermedad de Fombilebran no son tan importantes, por ese
+
+50
+00:03:21,460 --> 00:03:24,380
+caso, lo que sí es importante es el saber reconocer que hay
+
+51
+00:03:24,380 --> 00:03:27,220
+una alteración de la mostaza primaria crónica congénita
+
+52
+00:03:27,460 --> 00:03:30,060
+y no confundirlo ni con un PTI ni confundirlo tampoco con
+
+53
+00:03:30,060 --> 00:03:32,980
+un hemofilia. Ahora, cuál es el tratamiento de la enfermedad
+
+54
+00:03:32,980 --> 00:03:36,820
+de Fombilebran va a depender de la severidad y va desde
+
+55
+00:03:36,820 --> 00:03:39,900
+simplemente observar los casos más leves que vienen con
+
+56
+00:03:39,900 --> 00:03:42,500
+una clínica con petequias, por ejemplo, y nada más,
+
+57
+00:03:42,820 --> 00:03:46,340
+hasta eventualmente darle la desmopresina, que es un
+
+58
+00:03:46,380 --> 00:03:51,580
+análogo de la ADH, de la vasopresina o hormona
+
+59
+00:03:51,580 --> 00:03:55,340
+antidiuretica, cierto, que ayuda a la liberación del
+
+60
+00:03:55,340 --> 00:03:57,620
+factor de Fombilebran desde las arterias.
+
+61
+00:03:58,100 --> 00:04:00,820
+Y finalmente, en los casos mucho más graves, se da el
+
+62
+00:04:00,820 --> 00:04:02,740
+mismo factor de Fombilebran por bien dovenosa.
+
+63
+00:04:02,740 --> 00:04:05,620
+O sea, en un caso muy grave, ejemplo en una tipo 3,
+
+64
+00:04:05,940 --> 00:04:08,820
+en ese caso se inyecta el factor de Fombilebran y se
+
+65
+00:04:08,820 --> 00:04:12,060
+recupera justamente lo que no tiene el paciente y con
+
+66
+00:04:12,060 --> 00:04:15,340
+eso se soluciona la enfermedad desde la base.
+
+67
+00:04:16,180 --> 00:04:18,860
+Ahora, vemos algunas otras patologías genéticas de la
+
+68
+00:04:18,860 --> 00:04:22,100
+hemostase primaria y aquí hay que saber que, en
+
+69
+00:04:22,100 --> 00:04:24,700
+resumen, tienen una clínica idéntica a la enfermedad de
+
+70
+00:04:24,700 --> 00:04:27,340
+Fombilebran, que también es una patología genética de
+
+71
+00:04:27,340 --> 00:04:30,460
+la función plaquetaria o de la hemostase primaria,
+
+72
+00:04:30,940 --> 00:04:34,140
+que hay muchas otras más, aunque son mucho más
+
+73
+00:04:34,140 --> 00:04:36,460
+raras que la enfermedad de Fombilebran, cada una
+
+74
+00:04:36,460 --> 00:04:39,660
+tiene un estudio específico para cada una de ellas y
+
+75
+00:04:39,660 --> 00:04:42,220
+algunos ejemplos, la enfermedad de Glansman, que
+
+76
+00:04:42,620 --> 00:04:46,060
+se llamaba el déficit de la glicoproteína 2b3a y que
+
+77
+00:04:46,060 --> 00:04:48,540
+ahora ya cambió de nombre y que da lo mismo, o bien
+
+78
+00:04:48,540 --> 00:04:51,380
+la enfermedad de Bernard-Zullier en la cual falta
+
+79
+00:04:51,380 --> 00:04:54,780
+la glicoproteína 1b o está mutada, aunque hay
+
+80
+00:04:54,780 --> 00:04:57,500
+muchísimas otras más que da lo mismo el nombre.
+
+81
+00:04:57,500 --> 00:05:00,500
+Ahora, algunas vienen con trombopenia, ejemplo la
+
+82
+00:05:00,500 --> 00:05:02,300
+enfermedad de Bernard-Zullier y hay que saber que
+
+83
+00:05:02,300 --> 00:05:03,300
+existen nomás, eso es todo.
+
+84
+00:05:03,700 --> 00:05:04,820
+Nos vemos en el siguiente video.

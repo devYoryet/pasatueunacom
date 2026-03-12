@@ -1,0 +1,359 @@
+1
+00:00:03,250 --> 00:00:06,530
+Hola, hola, ¿cómo están? Hablemos de una de las complicaciones crónicas de la
+
+2
+00:00:06,530 --> 00:00:11,890
+diabetes, que es la nefropatía diabética. Hay que empezar por identificar la
+
+3
+00:00:11,890 --> 00:00:15,870
+definición. ¿Qué es una nefropatía diabética? Y es alguien diabético más
+
+4
+00:00:15,870 --> 00:00:20,270
+nefropatía, digase más albuminuria o más una insuficiencia renal crónica
+
+5
+00:00:20,270 --> 00:00:25,410
+entendiendo acá que la nefropatía diabética inicial es la que
+
+6
+00:00:25,410 --> 00:00:29,650
+se caracteriza solamente por la microalbuminuria o por una macroalbuminuria
+
+7
+00:00:29,650 --> 00:00:33,810
+que también puede ser, en particular la micro por su acaso, y en cambio la que
+
+8
+00:00:33,810 --> 00:00:36,690
+ya viene con una caída en el clearance, la que ya viene con una falla renal
+
+9
+00:00:36,690 --> 00:00:40,770
+propiamente tal, es la que se conoce como nefropatía diabética establecida.
+
+10
+00:00:40,770 --> 00:00:45,170
+El diagnóstico se hace midiendo justamente la albuminuria y la falla
+
+11
+00:00:45,170 --> 00:00:50,290
+renal y en el caso de la albuminuria se llama microalbuminuria cuando
+
+12
+00:00:50,290 --> 00:00:55,050
+hay entre 30 y 300 milígramos de albumina que se pierden por la orina
+
+13
+00:00:55,050 --> 00:01:00,770
+en el día, así que arriba de 30 ya hay una microalbuminuria y se llaman
+
+14
+00:01:00,770 --> 00:01:04,810
+macroalbuminuria cuando es mayor a 300 y acuérdense que cuando es más de 3
+
+15
+00:01:04,810 --> 00:01:09,170
+gramos de proteínas totales que se pierdan en el día uno ya habla de una
+
+16
+00:01:09,170 --> 00:01:12,650
+proteína en rango nefrótico, pero en este caso al menos la diferencia
+
+17
+00:01:12,650 --> 00:01:18,370
+entre micro y macroalbuminuria es la que está ahí. Arriba de 30 es micro,
+
+18
+00:01:18,410 --> 00:01:26,610
+abajo de 30 es normal y arriba de 300 es macroalbuminuria. Ahora la microalbuminuria
+
+19
+00:01:26,610 --> 00:01:31,570
+para medirla de esa forma hay que juntar orina de 24 horas que tiene
+
+20
+00:01:31,570 --> 00:01:37,370
+hartos errores en el sentido en que los pacientes no juntan bien el pipí
+
+21
+00:01:37,370 --> 00:01:41,810
+para poder someter los exámenes de laboratorio, así que muchas veces uno
+
+22
+00:01:41,810 --> 00:01:46,690
+utiliza una toma aislada que se mide la albuminuria y se mide la
+
+23
+00:01:46,690 --> 00:01:51,090
+creatininuria en concentraciones y se saca esta relación albuminuria
+
+24
+00:01:51,090 --> 00:01:55,810
+creatininuria que también se llama RAC, así como por la R de relación
+
+25
+00:01:55,810 --> 00:02:00,610
+albuminuria creatininuria RAC. En este caso suele ser más fácil y es lo que
+
+26
+00:02:00,610 --> 00:02:05,090
+se recomienda actualmente como el examen para determinar la cantidad de
+
+27
+00:02:05,090 --> 00:02:11,010
+albuminuria y se dice que un RAC mayor a 0,03 o mayor a 30 es
+
+28
+00:02:11,170 --> 00:02:17,010
+diagnóstico de una microalbuminuria. En este caso les pongo el 0,03 y el 30
+
+29
+00:02:17,010 --> 00:02:22,690
+porque muchas veces los informes vienen, los informes del examen me refiero
+
+30
+00:02:22,690 --> 00:02:25,650
+vienen con alguno de esos dos parámetros con el valor normal al lado
+
+31
+00:02:25,650 --> 00:02:30,450
+y va a depender qué unidad usen. En el caso de mayor a 0,03 va a ser
+
+32
+00:02:30,450 --> 00:02:33,650
+miligramos por decilitro de albumina dividido por miligramos por
+
+33
+00:02:33,650 --> 00:02:38,770
+decilitro de creatinina, en cambio en el RAC en el cual el corte es 30
+
+34
+00:02:38,930 --> 00:02:43,570
+miligramos por decilitro de albumina dividido por gramos por decilitro de
+
+35
+00:02:43,570 --> 00:02:50,690
+creatinina y en la vida real uno no se confunde en el sentido en que la
+
+36
+00:02:50,690 --> 00:02:55,330
+que viene con 30 viene sin decimales y la que viene con 0,03 viene con todos
+
+37
+00:02:55,330 --> 00:02:59,650
+los decimales así que es bien fácil de identificar. Esos valores hay que
+
+38
+00:02:59,650 --> 00:03:02,770
+sabérselos de memoria así que aprendérselos bien.
+
+39
+00:03:02,770 --> 00:03:06,450
+En el caso de la establecida se diagnostica con el clírens de
+
+40
+00:03:06,450 --> 00:03:09,210
+creatinina y obviamente desde el momento en que el clírens ya empieza a
+
+41
+00:03:09,210 --> 00:03:13,210
+caer de que la falla renal empieza a avanzar en sus etapas cierto uno ya
+
+42
+00:03:13,210 --> 00:03:18,130
+habla de una nefropatía diabética establecida con falla renal. Ahora
+
+43
+00:03:18,130 --> 00:03:22,450
+¿cuál es el tratamiento de la nefropatía diabética? Todas las cosas
+
+44
+00:03:22,450 --> 00:03:25,490
+generales, digase el manejo de la diabetes y con el contra
+
+45
+00:03:25,490 --> 00:03:28,770
+metabólico obviamente el manejo de la hipertensión arterial que en este
+
+46
+00:03:28,770 --> 00:03:33,730
+caso es muy importante de hecho importa más que mantenga presiones
+
+47
+00:03:33,730 --> 00:03:38,690
+arteriales dentro del rango menor a 130-80 que el manejo del control
+
+48
+00:03:38,690 --> 00:03:42,250
+metabólico para evitar la progresión sabiendo que ambas cosas sirven, el
+
+49
+00:03:42,250 --> 00:03:45,530
+manejo general de la insuficiencia renal crónica con todo lo que se va
+
+50
+00:03:45,530 --> 00:03:50,010
+a ver de manera específico en nefrología más el tratamiento de la
+
+51
+00:03:50,010 --> 00:03:53,610
+proteínuria en el sentido en que la microalbuminuria y luego la
+
+52
+00:03:53,610 --> 00:03:58,090
+albuminuria es un predictor de que va a evolucionar a falla renal pero
+
+53
+00:03:58,090 --> 00:04:01,050
+además se relaciona con la progresión de la falla renal y al
+
+54
+00:04:01,050 --> 00:04:07,210
+disminuir esta eliminación o pérdidas de las proteínas en orina se
+
+55
+00:04:07,210 --> 00:04:10,450
+consigue justamente evitar que esto siga avanzando y esto se hace con los
+
+56
+00:04:10,450 --> 00:04:15,650
+YECA que son el tratamiento de elección o bien con los ARA-2 y como
+
+57
+00:04:15,650 --> 00:04:19,690
+algo que me pueda ayudar cuando ya estoy en dosis máxima y quiero
+
+58
+00:04:19,690 --> 00:04:23,010
+agregar alguna cosa adicional puedo agregar los bloqueadores de calcio no
+
+59
+00:04:23,010 --> 00:04:27,050
+dihidro pyridínicos como el Diltia C. Así que en la práctica queda
+
+60
+00:04:27,050 --> 00:04:32,210
+con enalapril y luego de eso puede quedar con enalapril más Diltia C o
+
+61
+00:04:32,210 --> 00:04:37,810
+bien los ARA-2 puede quedar con el Losartan. Ahora qué pasa si yo tengo
+
+62
+00:04:37,810 --> 00:04:43,010
+alguien diabético pero viene no con una microalbuminuria o una
+
+63
+00:04:43,010 --> 00:04:46,290
+macroalbuminuria sino que viene con una proteínuria en rango nefrótico
+
+64
+00:04:46,290 --> 00:04:50,210
+arriba de 3 gramos al día ejemplo viene con 6 gramos al día en ese caso
+
+65
+00:04:50,210 --> 00:04:54,690
+yo voy a sospechar otra cosa voy a sospechar un síndrome nefrótico
+
+66
+00:04:54,730 --> 00:04:58,650
+primario en específico la glomerulopatía membranosa que se asocia
+
+67
+00:04:58,650 --> 00:05:03,210
+mucho a la diabetes justamente y lo que hay que hacer obviamente es el
+
+68
+00:05:03,210 --> 00:05:09,410
+solicitar una biopsia renal como para poder objetivar y diagnosticar y
+
+69
+00:05:09,410 --> 00:05:14,970
+confirmar que hay una glomerulopatía membranosa o nefropatía
+
+70
+00:05:14,970 --> 00:05:18,810
+membranosa o nefropatía extramembranosa todos son sinónimos
+
+71
+00:05:18,810 --> 00:05:23,010
+nefropatía o glomerulopatía membranosa o extramembranosa se asocia
+
+72
+00:05:23,050 --> 00:05:26,090
+la diabetes y si bien alguien puede decirme eso también es un tipo de
+
+73
+00:05:26,090 --> 00:05:30,810
+nefropatía diabética en general se le llama de manera diferente y la
+
+74
+00:05:30,810 --> 00:05:34,370
+nefropatía diabética en la microalbuminuria que era la inicial o
+
+75
+00:05:34,370 --> 00:05:39,330
+incipiente cierto y la falla renal no en con una proteína en rango
+
+76
+00:05:39,330 --> 00:05:42,810
+nefrótico quedó claro es importante no confundir la
+
+77
+00:05:42,810 --> 00:05:47,690
+glomerulopatía membranosa con la nefropatía diabética al menos como
+
+78
+00:05:47,690 --> 00:05:52,130
+concepto general dado que ambas se asocian a diabetes y finalmente qué
+
+79
+00:05:52,130 --> 00:05:55,170
+pasa si viene con un síndrome nefrítico o bien sin un síndrome
+
+80
+00:05:55,170 --> 00:06:01,250
+nefrítico pero con una glomerulone fritis en el examen de orina en el
+
+81
+00:06:01,250 --> 00:06:05,370
+sentido en que viene con una hematuria dismórfica pues lo que hay que
+
+82
+00:06:05,370 --> 00:06:08,090
+hacer es el estudio general de la glomerulone fritis o del síndrome
+
+83
+00:06:08,090 --> 00:06:11,930
+nefrítico que es ir a buscar la causa con los anticuerpos con los
+
+84
+00:06:11,930 --> 00:06:15,570
+distintos anticuerpos con el complemento los hana los hanka los
+
+85
+00:06:15,570 --> 00:06:20,610
+anti membrana basal los anti streptolicina o etcétera más la
+
+86
+00:06:20,650 --> 00:06:24,090
+biopsia ronal como para ver exactamente que glomerulone fritis es la que hay
+
+87
+00:06:24,090 --> 00:06:28,650
+ya pero como cosa importante los diabéticos tienen derecho a tener
+
+88
+00:06:28,650 --> 00:06:31,810
+síndrome nefrítico y a tener síndrome nefrótico y ahí lo importante es
+
+89
+00:06:31,810 --> 00:06:34,570
+estudiar el síndrome nefrítico y estudiar el síndrome nefrótico con
+
+90
+00:06:34,570 --> 00:06:38,570
+su respectiva biopsia que esté muy bien

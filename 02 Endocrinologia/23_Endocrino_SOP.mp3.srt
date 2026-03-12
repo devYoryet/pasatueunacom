@@ -1,0 +1,251 @@
+1
+00:00:00,000 --> 00:00:07,880
+Hola, hola. Hablemos del síndrome de ovario poliquístico, el famoso SOP, y recordemos
+
+2
+00:00:07,880 --> 00:00:11,540
+que su diagnóstico se hace con una serie de criterios. Son tres, pero basta que estén
+
+3
+00:00:11,540 --> 00:00:15,220
+presentes dos de ellos para confirmar el diagnóstico. Estos cuales son, número uno,
+
+4
+00:00:15,220 --> 00:00:20,180
+el hiperandrogenismo, número dos, el criterio menstrual y número tres, el criterio ecográfico
+
+5
+00:00:20,180 --> 00:00:24,740
+y sepan que cada uno de ellos se puede ver de dos formas. El hiperandrogenismo
+
+6
+00:00:24,740 --> 00:00:29,180
+se puede ver como un hiperandrogenismo clínico, ejemplo con hirsutismo, que es
+
+7
+00:00:29,180 --> 00:00:34,260
+lo más frecuente, pero igualmente se puede ver con acné o con una piel muy seborreica.
+
+8
+00:00:34,260 --> 00:00:38,180
+Y segundo lugar, se puede ver como un hiperandrogenismo de laboratorio,
+
+9
+00:00:38,180 --> 00:00:44,460
+dentro de los cuales el índice de andrógenos libres arriba de 4.5 es el parámetro más
+
+10
+00:00:44,460 --> 00:00:49,140
+importante, aunque en algunas oportunidades que se ha medido solamente la testosterona total,
+
+11
+00:00:49,140 --> 00:00:52,940
+si es que está elevada, me confirma igualmente el hiperandrogenismo de laboratorio.
+
+12
+00:00:52,940 --> 00:00:58,380
+¿Qué pasa con la hiperplasa supranal congénita? Acuérdense que se podía ver con el mismo
+
+13
+00:00:58,380 --> 00:01:04,320
+cuadro clínico, al menos en los casos más leves, en las clínicas atípicas o no clásicas,
+
+14
+00:01:04,320 --> 00:01:09,740
+así que en ese caso hay que pedirle igualmente una 17-hidroxiprogesterona como para descartar
+
+15
+00:01:09,740 --> 00:01:14,260
+esa enfermedad. El criterio menstrual puede verse con oligomenorrea, que acuérdense que
+
+16
+00:01:14,260 --> 00:01:20,700
+el normal del ciclo menstrual es 28 más menos 7 días, o sea entre los 21 días y los 35
+
+17
+00:01:20,700 --> 00:01:26,500
+días. Si es que están más de 35 días, uno dice hay una oligomenorrea y me cumple con
+
+18
+00:01:26,500 --> 00:01:32,780
+el criterio menstrual, y la otra es que ya caiga en amenorrea, más de 90 días sin menstruar,
+
+19
+00:01:32,780 --> 00:01:38,740
+o bien de una manera más estricta, más de tres ciclos sin menstruarse que tenían los ciclos
+
+20
+00:01:38,740 --> 00:01:43,420
+regulares previos. Finalmente está el criterio ecográfico que se puede ver como más de dos
+
+21
+00:01:43,420 --> 00:01:48,820
+folículos en un ovario o más de 10 ml en un ovario, así que ambas ovarios poliquísticos
+
+22
+00:01:48,820 --> 00:01:52,780
+con más de 12 folículos por ovario, bastando un ovario para que cumpla con el criterio,
+
+23
+00:01:52,780 --> 00:02:01,100
+u ovarios grandes, más de 10 ml por ovario, nuevamente bastando solamente un ovario,
+
+24
+00:02:01,100 --> 00:02:06,340
+en ese caso me confirman ese criterio también. Si alguien tiene ejemplo, una mujer viene por
+
+25
+00:02:06,340 --> 00:02:10,740
+reglas irregulares que ocurren cada 40 días más hirsutismo, cuál es el diagnóstico,
+
+26
+00:02:10,740 --> 00:02:14,900
+sin ninguna duda hay un SOP, en ese caso se confirma y no hay que pedir ningún examen,
+
+27
+00:02:14,900 --> 00:02:19,300
+¿por qué? Porque cumple con el criterio menstrual y cumple con el criterio del
+
+28
+00:02:19,300 --> 00:02:23,020
+hiperandrogenismo clínico, así que me da lo mismo el hiperandrogenismo de laboratorio,
+
+29
+00:02:23,020 --> 00:02:28,340
+porque ya lo objetive y no hay por qué pedir una ecografía tampoco, al menos no para confirmar
+
+30
+00:02:28,340 --> 00:02:32,340
+el diagnóstico que ya está confirmado. Veamos cuál es el tratamiento del SOP,
+
+31
+00:02:32,340 --> 00:02:38,340
+en primer lugar se dejan anticonceptivos con efecto antiandrogenico como para el
+
+32
+00:02:38,340 --> 00:02:43,060
+tratamiento sintomático, dígase que vengan con etinil estradiol como estrógeno,
+
+33
+00:02:43,060 --> 00:02:50,820
+pero más una progestina o un progestageno antiandrogenico, dentro de eso está la
+
+34
+00:02:50,820 --> 00:02:56,580
+no retindrona, el dienogest, la drospirenona y la clormadinona son los que hay que saber,
+
+35
+00:02:56,580 --> 00:03:00,820
+la ciproterona igualmente sirve pero viene con un aumento del rejo cardiovascular,
+
+36
+00:03:00,820 --> 00:03:05,380
+así que se usa bastante menos y cuando se usa es por algún periodo más corto.
+
+37
+00:03:05,380 --> 00:03:11,300
+Segundo lugar hay que tratar la causa y habitualmente el SOP se asocia a resistencia
+
+38
+00:03:11,300 --> 00:03:16,620
+a la insulina y a obesidad, así que se maneja con dieta, ejercicio y metformina,
+
+39
+00:03:16,620 --> 00:03:21,700
+siempre y cuando haya resistencia a la insulina, así que hay que pedirle el
+
+40
+00:03:21,700 --> 00:03:26,500
+perfil lipídico por un lado, hay que pedirle la glicemia de ayuno, eventualmente un test de
+
+41
+00:03:26,500 --> 00:03:31,300
+tolerancia y a veces la prueba de HOMA igualmente para objetivar esta insulina o resistencia,
+
+42
+00:03:31,300 --> 00:03:35,380
+aunque hay que recordar que actualmente la insulina o resistencia se diagnostica
+
+43
+00:03:35,380 --> 00:03:39,740
+fundamentalmente con la clínica, así que SOP es uno de los elementos clínicos que
+
+44
+00:03:39,740 --> 00:03:45,460
+apuntan a esto. Y finalmente el tratamiento de la infertilidad con los inductores de la
+
+45
+00:03:45,460 --> 00:03:52,300
+ovulación, en ese caso obviamente se suspenden los antiandrogénicos, se suspenden los
+
+46
+00:03:52,300 --> 00:03:56,540
+anticonceptivos cierto porque de lo contrario no puede quedar embarazada y acuérdense que
+
+47
+00:03:56,540 --> 00:04:03,100
+el SOP produce infertilidad por anovulación y se puede inducir la ovulación con el
+
+48
+00:04:03,100 --> 00:04:08,260
+clomifeno o más moderno cierto con el letrosol que tiene una efectividad un poquito
+
+49
+00:04:08,260 --> 00:04:14,740
+más alta. Ambos son inhibidores de la aromatasa por su caso. Finalmente algunos detalles en cómo
+
+50
+00:04:14,740 --> 00:04:20,440
+se ven los parámetros hormonales en contexto de un SOP. El estradiol habitualmente está
+
+51
+00:04:20,440 --> 00:04:26,420
+elevado, así que quede bien claro no es un hipogonadismo, de hecho hay un hipergonadismo
+
+52
+00:04:26,420 --> 00:04:32,960
+con hiperproducción de estradiol y de testosterona también. La progesterona en cambio sí está
+
+53
+00:04:32,960 --> 00:04:38,440
+disminuida porque al haber anovulación no bula y no se forma el cuerpo lúteo que era el que
+
+54
+00:04:38,440 --> 00:04:43,240
+producía habitualmente la progesterona, así que viene con progesterona baja, eso es algo
+
+55
+00:04:43,240 --> 00:04:50,280
+importante. La FCH habitualmente está normal, la LH puede estar normal o bien se puede elevar
+
+56
+00:04:50,280 --> 00:04:56,920
+un poquito así que sería un hipergonadismo hipergonadotrópico aunque es un concepto
+
+57
+00:04:56,920 --> 00:05:01,480
+que acabo de inventar que no existe por su caso. La testosterona está elevada cierto
+
+58
+00:05:01,480 --> 00:05:08,720
+y finalmente la hormona antimileriana que se pide muchas veces en la infertilidad o en el
+
+59
+00:05:08,720 --> 00:05:13,120
+hipogonadismo, que era la que me mostraba la reserva ovarica, en este caso suele
+
+60
+00:05:13,120 --> 00:05:18,120
+aumentarse, no porque hay una mayor reserva ovarica sino que simplemente por la fisiopatología
+
+61
+00:05:18,120 --> 00:05:22,880
+del SOP. De todo lo que está ahí lo importante es la progesterona baja, el estradiol
+
+62
+00:05:22,880 --> 00:05:27,080
+y la testosterona alta y la LH alta son cosas que yo le recomiendo que recuerden.
+
+63
+00:05:27,080 --> 00:05:29,400
+Eso es todo, nos vemos en el siguiente vídeo, que estén bien.

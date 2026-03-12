@@ -1,0 +1,151 @@
+1
+00:00:03,090 --> 00:00:08,230
+Y vamos a ver si es que aprendimos, si es que esto quedó claro, vamos con ejercicios de ácido base y
+
+2
+00:00:08,230 --> 00:00:13,450
+empecemos al tiro. Tengo un pH en 7,33, o sea, está bajo, hasta ahí suena a que hay una
+
+3
+00:00:13,450 --> 00:00:18,370
+acidosis. Tengo el bicarbonato que está en 17, está bajo, así que, acidosis metabólica y
+
+4
+00:00:18,370 --> 00:00:24,810
+el CO2, fíjense, está un poquito bajo, está bajo de 35, pero aquí no hay un componente
+
+5
+00:00:24,810 --> 00:00:28,890
+respiratorio porque acuérdense que la acidosis metabólica había que comparar el
+
+6
+00:00:28,890 --> 00:00:34,210
+número que estaba después del 7, que en este caso es 7,33, con el CO2 que está en 33 y como
+
+7
+00:00:34,210 --> 00:00:38,610
+está muy similar, en este caso uno dice hay una acidosis metabólica pura sin componente
+
+8
+00:00:38,610 --> 00:00:44,610
+respiratorio. Fíjense, el CO2 no bajó porque hay hiperventilación, bajó por simple equilibrio
+
+9
+00:00:44,610 --> 00:00:52,650
+químico, al bajar mucho el bicarbonato baja también el CO2. El siguiente caso está en 7,27
+
+10
+00:00:52,650 --> 00:00:59,570
+el pH, así que nuevamente hay una acidosis, el HCO3, el bicarbonato está en 27, así que está
+
+11
+00:00:59,570 --> 00:01:04,530
+elevado, así que no es una acidosis metabólica. El CO2 está muy elevado, así que en este
+
+12
+00:01:04,530 --> 00:01:09,570
+caso hay una acidosis respiratoria y ese es el diagnóstico. Y acuérdense que, además, aquí
+
+13
+00:01:09,570 --> 00:01:14,130
+habría una insuficiencia respiratoria, al menos desde el punto de vista del CO2, porque está
+
+14
+00:01:14,130 --> 00:01:20,570
+arriba de 49 la PACO2, así que acidosis respiratoria. Fíjense, como no es una acidosis
+
+15
+00:01:20,570 --> 00:01:26,170
+metabólica, no entro en ese análisis ni de la Neon Gap, ni de ir a ver el número que está
+
+16
+00:01:26,170 --> 00:01:31,090
+después del 7, algo. Eso solamente se hacía en la acidosis metabólica. Aquí estamos en acidosis
+
+17
+00:01:31,090 --> 00:01:38,130
+respiratoria, así que no confundan como esos temas. En la siguiente tiene un pH en 7,62,
+
+18
+00:01:38,130 --> 00:01:44,930
+hay una alkalosis y si se fijan el HCO3 está bajo y el CO2 está bastante bajo también,
+
+19
+00:01:44,930 --> 00:01:50,490
+en este caso con CO2 bajo sería una alkalosis respiratoria y obviamente el
+
+20
+00:01:50,490 --> 00:01:53,130
+bicarbonato baja por el simple equilibrio químico también, así que
+
+21
+00:01:53,130 --> 00:01:59,530
+alkalosis respiratoria con hiperventilación. En la siguiente tengo el pH en 7,04, o sea,
+
+22
+00:01:59,530 --> 00:02:05,330
+está muy bajo, hay una acidosis. Tengo el bicarbonato que está en 10, nuevamente muy
+
+23
+00:02:05,330 --> 00:02:11,050
+bajo, en este caso hay una acidosis metabólica, sin ninguna duda, pero acuérdense que las
+
+24
+00:02:11,050 --> 00:02:16,530
+acidosis metabólicas había que ir a comparar el número que estaba después del 7 con el CO2,
+
+25
+00:02:16,530 --> 00:02:22,730
+en este caso sería 4 versus 38, así que hay retención de CO2, en este caso hay una
+
+26
+00:02:22,730 --> 00:02:28,210
+acidosis mixta porque hay una acidosis metabólica que era lo que teníamos al principio con el
+
+27
+00:02:28,210 --> 00:02:33,570
+bicarbonato bajo, más este exceso de CO2 que se traduce en una acidosis respiratoria también.
+
+28
+00:02:33,570 --> 00:02:38,570
+El típico ejemplo de acidosis mixta es un paciente con un compromiso respiratorio muy
+
+29
+00:02:38,570 --> 00:02:45,450
+grave con retención de CO2, con una hipoxemia importante y se agrega la acidosis respiratoria
+
+30
+00:02:45,450 --> 00:02:50,850
+de la hiperventilación con la acidosis láctica secundaria de la hipoxemia. Y en el último tiene
+
+31
+00:02:50,850 --> 00:02:55,330
+un pH que está en 7,4, no dice absolutamente normal, hasta ahí no hay nada, pero está
+
+32
+00:02:55,330 --> 00:03:00,410
+con el bicarbonato muy bajo en 12, así que hay una acidosis metabólica con una probabilidad
+
+33
+00:03:00,410 --> 00:03:05,450
+alta, solamente que además hay una alkalosis respiratoria que lo compensa, en este caso
+
+34
+00:03:05,450 --> 00:03:12,090
+sería una acidosis metabólica compensada, pero la forma de verlo nuevamente es comparando el
+
+35
+00:03:12,090 --> 00:03:19,010
+7, algo el 40 en este caso con el CO2 y se fijan el CO2 está en 20, 20 es mucho menos que
+
+36
+00:03:19,010 --> 00:03:24,210
+40 o sea me falta CO2, hay hiperventilación así que habría una acidosis metabólica con
+
+37
+00:03:24,210 --> 00:03:28,730
+una alkalosis respiratoria. Espero que haya quedado claro porque esta es la última vez
+
+38
+00:03:28,730 --> 00:03:30,970
+que vamos a hablar de ácido base, que estén bien.

@@ -1,0 +1,1183 @@
+1
+00:00:00,000 --> 00:00:06,980
+En esta clase vamos a hablar del tratamiento de la infección urinaria y
+
+2
+00:00:06,980 --> 00:00:10,540
+es algo que alguien me puede decir muy sencillo, es con antibiótico, pero la
+
+3
+00:00:10,540 --> 00:00:13,660
+verdad es que está lleno de detalles y todos los detalles son importantes que
+
+4
+00:00:13,660 --> 00:00:16,860
+saberlos por completo, así que pongan mucha atención.
+
+5
+00:00:16,860 --> 00:00:21,180
+Empecemos recordando la etiología, en el sentido en que me permite decidir
+
+6
+00:00:21,180 --> 00:00:24,900
+qué antibiótico empírico le voy a dejar, y en resumen la causa de la
+
+7
+00:00:24,900 --> 00:00:30,900
+hitum es la Echidicha coli. El gran gran porcentaje de los casos es por
+
+8
+00:00:30,980 --> 00:00:36,020
+esta bacteria, así arriba a veces del 70 incluso 90 por ciento según la serie
+
+9
+00:00:36,020 --> 00:00:39,780
+que yo revise, y luego de eso vienen otras entero bacterias que
+
+10
+00:00:39,780 --> 00:00:43,020
+afortunadamente responden a los mismos antibióticos que la Echidicha coli,
+
+11
+00:00:43,020 --> 00:00:48,500
+dígase el proteus, la clebsiella, el entero bácter, etcétera, o sea otras
+
+12
+00:00:48,500 --> 00:00:53,300
+bacterias gram negativos del tipo entero bacteria. Ahora, no son las
+
+13
+00:00:53,300 --> 00:00:57,780
+únicas, en algunas oportunidades mucho más raro aparecen otro tipo de
+
+14
+00:00:57,780 --> 00:01:01,700
+gram negativos que se llaman los no fermentadores, como la
+
+15
+00:01:01,700 --> 00:01:05,860
+pseudomonas originosas o el acinetobácter baumanis, y finalmente el
+
+16
+00:01:05,860 --> 00:01:10,420
+entero coco que sería como el gran positivo que eventualmente genera
+
+17
+00:01:10,420 --> 00:01:15,220
+hitum. Se podría sumar a esto si ustedes quieren el estafilococo
+
+18
+00:01:15,220 --> 00:01:19,460
+no aureus, como los estafilococo epidermidis, por ejemplo, o
+
+19
+00:01:19,460 --> 00:01:23,380
+cobulasa negativa. Como algo importante, la pseudomonas, el
+
+20
+00:01:23,380 --> 00:01:26,620
+acinetobácter y el entero coco se ven con alguna frecuencia en las
+
+21
+00:01:26,620 --> 00:01:29,980
+infecciones intrahospitalarias, así que en una ITU, en contexto
+
+22
+00:01:29,980 --> 00:01:34,220
+intrahospitalario o en un paciente que está institucionalizado con una
+
+23
+00:01:34,220 --> 00:01:37,260
+sonda, por ejemplo, eventualmente tienen que ser cubiertos, de lo
+
+24
+00:01:37,260 --> 00:01:42,020
+contrario, cubrir Echidicha coli y es suficiente. Ahora, en qué momento yo
+
+25
+00:01:42,020 --> 00:01:46,420
+empiezo el tratamiento antibiótico y recordemos que el urocultivo demora
+
+26
+00:01:46,420 --> 00:01:49,860
+dos días y la pregunta es, me voy a esperar dos días a que esté el
+
+27
+00:01:49,860 --> 00:01:53,780
+resultado para iniciarlo o bien lo inicio de inmediato, y la verdad es
+
+28
+00:01:53,820 --> 00:01:58,100
+que si yo tengo una clínica de una infección urinaria, le inicio los
+
+29
+00:01:58,100 --> 00:02:02,020
+antibióticos de inmediato y simplemente lo sito control en dos o
+
+30
+00:02:02,020 --> 00:02:05,180
+en tres días más y ahí veo cómo evolucionado desde el punto de vista
+
+31
+00:02:05,180 --> 00:02:08,100
+clínico, que lo habitual es que vaya mejorando en dos días y
+
+32
+00:02:08,100 --> 00:02:11,420
+además vemos el resultado del urocultivo como para ver, número
+
+33
+00:02:11,420 --> 00:02:15,220
+uno, si es que tenía ITU o no, número dos, por qué bacteria era y si es
+
+34
+00:02:15,220 --> 00:02:18,420
+que el tratamiento antibiótico que yo le había dejado es un
+
+35
+00:02:18,420 --> 00:02:20,900
+tratamiento antibiótico correcto que cubre a esa bacteria en
+
+36
+00:02:20,900 --> 00:02:24,780
+particular o bien si es que debo hacer algún ajuste. Si es que es una
+
+37
+00:02:24,780 --> 00:02:29,020
+mujer joven, sana, con una clínica de cistitis de ITU baja no
+
+38
+00:02:29,020 --> 00:02:32,380
+complicada, la verdad es que incluso puedo partirle antibióticos
+
+39
+00:02:32,380 --> 00:02:36,180
+sin pedirle urocultivo, al menos eso es lo que dice las
+
+40
+00:02:36,180 --> 00:02:39,700
+recomendaciones internacionales y esta, que si viene es el caso
+
+41
+00:02:39,700 --> 00:02:43,340
+más frecuente, es un caso bien particular dentro de todas las
+
+42
+00:02:43,340 --> 00:02:46,460
+otras posibilidades, sería la única excepción en la cual yo
+
+43
+00:02:46,460 --> 00:02:49,660
+no pido urocultivo, sino que directamente voy y trato y el
+
+44
+00:02:49,660 --> 00:02:53,100
+urocultivo se pide únicamente si es que no responde al
+
+45
+00:02:53,100 --> 00:02:58,140
+tratamiento antibiótico en tres días. En el caso de la ITU
+
+46
+00:02:58,140 --> 00:03:01,780
+baja, ¿qué antibióticos le puedo dar? Y hay que saberlos
+
+47
+00:03:01,780 --> 00:03:04,940
+todos, número uno, la nitrofurantoína, es un fármaco
+
+48
+00:03:04,940 --> 00:03:08,940
+que se usa habitualmente solo para ITU y se usa porque es
+
+49
+00:03:08,940 --> 00:03:12,860
+bastante eficaz, viene con una tasa de resistencia muy, muy
+
+50
+00:03:12,860 --> 00:03:16,300
+bajita y se concentra bien en la vejiga, no en los riñones
+
+51
+00:03:16,300 --> 00:03:20,540
+pero a nivel de la vejiga se concentra súper bien y se puede
+
+52
+00:03:20,540 --> 00:03:23,700
+manejar por cinco a siete días. Repito, es un muy buen
+
+53
+00:03:23,700 --> 00:03:27,820
+antibiótico para la ITU. En segundo lugar, las quinolonas,
+
+54
+00:03:27,820 --> 00:03:30,420
+el ciprofloxacino es el que más se usa, sirve igualmente
+
+55
+00:03:30,420 --> 00:03:34,500
+el leofloxacino aunque viene con una cobertura más amplia,
+
+56
+00:03:34,500 --> 00:03:37,900
+así que repito, el ciprofloxacino suele ser de
+
+57
+00:03:37,900 --> 00:03:40,620
+elección, en este caso se deja solamente por tres
+
+58
+00:03:40,620 --> 00:03:45,020
+días y debería mejorar por completo. Las céfalosporinas
+
+59
+00:03:45,020 --> 00:03:50,940
+me sirven en general todas, ejemplo el cefadroxilo o la
+
+60
+00:03:50,940 --> 00:03:53,580
+cefradina dentro de las de primera generación que son las
+
+61
+00:03:53,580 --> 00:03:56,420
+que habitualmente se dejan, aparte el cefuroximo de
+
+62
+00:03:56,420 --> 00:04:01,460
+segunda generación, la cefixima o cefixime de tercera
+
+63
+00:04:01,460 --> 00:04:04,340
+generación entre otras, todas vía oral obviamente y
+
+64
+00:04:04,340 --> 00:04:07,220
+nuevamente por tres días aunque algunos dicen déjelo
+
+65
+00:04:07,220 --> 00:04:12,060
+por tres hasta cinco o hasta siete días. La fosfomicina que
+
+66
+00:04:12,060 --> 00:04:14,540
+se usa muy poco en Chile al menos pero se puede usar
+
+67
+00:04:14,540 --> 00:04:17,740
+en algunos otros países, es que está disponible,
+
+68
+00:04:17,740 --> 00:04:21,020
+viene con la gracia que se usa solamente una vez,
+
+69
+00:04:21,020 --> 00:04:24,500
+una monodosis de tres gramos de fosfomicina y se acaba el
+
+70
+00:04:24,500 --> 00:04:28,140
+problema. Y finalmente me sirve también el cotrimoxazol
+
+71
+00:04:28,140 --> 00:04:31,460
+forte. Ahora, en la práctica lo que más se usa son esas
+
+72
+00:04:31,460 --> 00:04:34,940
+tres, dígase la mitoforantoína, el ciprofloxacino
+
+73
+00:04:34,940 --> 00:04:39,060
+y el cefadroxino son la base del tratamiento de la
+
+74
+00:04:39,060 --> 00:04:41,020
+itubaja y se puede usar cualquiera de ellos en un
+
+75
+00:04:41,020 --> 00:04:45,420
+paciente que no es alérgico por ejemplo. Ahora, ¿qué pasa
+
+76
+00:04:45,420 --> 00:04:51,300
+con el moxifloxacino que es esta quinolona de tercera
+
+77
+00:04:51,300 --> 00:04:54,540
+generación en el sentido en que viene con una cobertura un
+
+78
+00:04:54,540 --> 00:04:57,180
+poquito más más amplia, cierto? Tiene lo malo que
+
+79
+00:04:57,180 --> 00:05:00,020
+no se concentra bien en orina así que no sirve para
+
+80
+00:05:00,020 --> 00:05:02,820
+la itub. Aunque su cobertura es más grande que
+
+81
+00:05:02,820 --> 00:05:06,540
+la del leo y más grande que la del cipro, que la del
+
+82
+00:05:06,540 --> 00:05:11,700
+leofoxacino es mejor que la del ciprofoxacino también.
+
+83
+00:05:11,700 --> 00:05:14,500
+En este caso para Itub, el moxy no me sirve porque no
+
+84
+00:05:14,500 --> 00:05:18,660
+se concentra bien y por lo tanto solamente se usa para
+
+85
+00:05:18,660 --> 00:05:21,100
+infecciones de piel y partes blandas y para algunas
+
+86
+00:05:21,100 --> 00:05:25,740
+neumonías. En el caso de la amoxicilina, la verdad si
+
+87
+00:05:25,740 --> 00:05:28,900
+bien puede cubrir algo hecherichacoli, su cobertura
+
+88
+00:05:28,900 --> 00:05:31,940
+no suele ser tan buena así que no se recomienda, se
+
+89
+00:05:31,940 --> 00:05:33,860
+recomiendan más los otros farmacos que ya se
+
+90
+00:05:33,860 --> 00:05:36,780
+mencionaron, aunque con ácido clavulánico es un
+
+91
+00:05:36,780 --> 00:05:39,900
+tratamiento aceptable que se usa en general en algún
+
+92
+00:05:39,900 --> 00:05:42,980
+niño, por ejemplo, que viene con intolerancia o
+
+93
+00:05:42,980 --> 00:05:45,540
+con alergia a alguno de los otros medicamentos o bien
+
+94
+00:05:45,540 --> 00:05:48,380
+cuando no tengo ningún otro fármaco más, eventualmente
+
+95
+00:05:48,380 --> 00:05:50,180
+sí le puedo dejar amoxicilina con ácido
+
+96
+00:05:50,180 --> 00:05:52,780
+clavulánico. Pero repito, no es de elección
+
+97
+00:05:52,780 --> 00:05:56,500
+tampoco. El metronidazol que cubre anerovios, la
+
+98
+00:05:56,500 --> 00:05:58,300
+verdad es que no me sirve porque acuérdense los
+
+99
+00:05:58,340 --> 00:06:04,500
+anerovios no están dentro de la lista de bacterias
+
+100
+00:06:04,500 --> 00:06:07,620
+que habitualmente genera anitum. En el caso de una
+
+101
+00:06:07,620 --> 00:06:11,140
+piélone fritis, si es que el paciente o la paciente
+
+102
+00:06:11,140 --> 00:06:12,860
+como mayor frecuencia son mujeres, ¿cierto? Está
+
+103
+00:06:12,860 --> 00:06:15,340
+bien. En ese caso la puedo manejar con fármacos
+
+104
+00:06:15,340 --> 00:06:18,340
+por vía oral. Los fármacos son prácticamente
+
+105
+00:06:18,340 --> 00:06:20,580
+los mismos aunque cambia uno, que es la
+
+106
+00:06:20,580 --> 00:06:23,460
+nitrofrantoína que aquí no se puede dar. Se
+
+107
+00:06:23,460 --> 00:06:25,900
+usan las quinolonas como el ciprofloxacino o el
+
+108
+00:06:25,900 --> 00:06:29,340
+levofloxacino, o bien las cefalosporinas, que
+
+109
+00:06:29,340 --> 00:06:31,900
+nuevamente me sirven todas, aunque en este caso
+
+110
+00:06:31,900 --> 00:06:34,620
+que hay una piélone fritis, se tiende a
+
+111
+00:06:34,620 --> 00:06:36,580
+recomendar un poco más las de tercera o de
+
+112
+00:06:36,580 --> 00:06:40,460
+segunda generación, dígase la cefixima o el
+
+113
+00:06:40,460 --> 00:06:42,900
+cefuroxismo, ¿cierto? Y en este caso ya no se
+
+114
+00:06:42,900 --> 00:06:44,540
+deja por tres días, sino que se deja
+
+115
+00:06:44,540 --> 00:06:47,780
+habitualmente por siete días. El cutrimoxazol
+
+116
+00:06:47,780 --> 00:06:50,020
+fuerte por siete días es una alternativa
+
+117
+00:06:50,020 --> 00:06:52,140
+también en los pacientes que por alguna
+
+118
+00:06:52,140 --> 00:06:54,820
+razón no pueden tomar ni las quinolonas ni
+
+119
+00:06:54,860 --> 00:06:57,300
+las cefalosporinas, que repito esos dos son el
+
+120
+00:06:57,300 --> 00:06:59,700
+tratamiento base de la piélone fritis que se
+
+121
+00:06:59,700 --> 00:07:02,060
+manejan de manera ambulatoria. ¿Qué pasa con
+
+122
+00:07:02,060 --> 00:07:04,380
+la nitrofrantoína? Dijimos que no, porque no
+
+123
+00:07:04,380 --> 00:07:06,700
+se concentra bien a nivel renal, así que es
+
+124
+00:07:06,700 --> 00:07:09,260
+un excelente fármaco para la itubaja, para
+
+125
+00:07:09,260 --> 00:07:11,620
+la cistitis, pero es un pésimo fármaco para
+
+126
+00:07:11,620 --> 00:07:14,140
+la piélone fritis y no está recomendado. En
+
+127
+00:07:14,140 --> 00:07:18,340
+el caso de una piélone fritis grave que
+
+128
+00:07:18,340 --> 00:07:20,940
+requiera de hospitalización, pues las
+
+129
+00:07:20,940 --> 00:07:22,980
+quinolonas y las cefalosporinas se pueden
+
+130
+00:07:22,980 --> 00:07:25,500
+dar por vía endovenosa también. Existe el
+
+131
+00:07:25,500 --> 00:07:27,940
+cipro endovenoso, el leofloxacino endovenoso,
+
+132
+00:07:27,940 --> 00:07:31,740
+la cefraxona, el cefotaxismo, etcétera, por
+
+133
+00:07:31,740 --> 00:07:34,660
+vía endovenoso, pero en la práctica dado
+
+134
+00:07:34,660 --> 00:07:36,180
+el precio, lo que se usa con mayor
+
+135
+00:07:36,180 --> 00:07:38,380
+frecuencia son las cefalosporinas, en
+
+136
+00:07:38,380 --> 00:07:40,460
+específico la cefraxona, que se da una
+
+137
+00:07:40,460 --> 00:07:43,180
+única dosis al día, así que es relativamente
+
+138
+00:07:43,180 --> 00:07:46,180
+fácil de dar. Los aminoglycosidos como
+
+139
+00:07:46,180 --> 00:07:48,260
+la gentamicina, por ejemplo, la tobramicina,
+
+140
+00:07:48,260 --> 00:07:51,300
+la canamicina, la amicacina, son una buena
+
+141
+00:07:51,300 --> 00:07:53,340
+alternativa también, aunque acuérdense que
+
+142
+00:07:53,340 --> 00:07:55,460
+tienen más efectos adversos, en particular
+
+143
+00:07:55,460 --> 00:07:58,140
+son nefrotóxicos y ototóxicos, así que se
+
+144
+00:07:58,140 --> 00:08:00,180
+dejan en pacientes que son alérgicos a
+
+145
+00:08:00,180 --> 00:08:02,060
+las cefalosporinas, por ejemplo, y que no
+
+146
+00:08:02,060 --> 00:08:05,140
+tengo las quinolonas endovenosas porque
+
+147
+00:08:05,140 --> 00:08:08,180
+son muy caras. Y finalmente se dejan
+
+148
+00:08:08,180 --> 00:08:10,420
+también los antibióticos antiseudomonas, en
+
+149
+00:08:10,420 --> 00:08:12,540
+particular cuando tengo riesgo de una
+
+150
+00:08:12,540 --> 00:08:15,340
+infección por seudomonas. Lo mismo ocurre
+
+151
+00:08:15,340 --> 00:08:18,140
+en una infección urinaria baja o en una
+
+152
+00:08:18,140 --> 00:08:20,980
+paleonefitis ambulatoria, en ese caso
+
+153
+00:08:20,980 --> 00:08:23,500
+se deja algo que cubra a seudomonas y lo
+
+154
+00:08:23,500 --> 00:08:25,260
+más frecuente para las que está bien es
+
+155
+00:08:25,260 --> 00:08:27,460
+el mismo ciprofloxacino o el leofloxacino.
+
+156
+00:08:27,460 --> 00:08:29,820
+O bien se puede dejar la cefoperasona
+
+157
+00:08:29,820 --> 00:08:31,980
+también que se puede dar por vía oral.
+
+158
+00:08:31,980 --> 00:08:33,900
+Ahora, en este caso de una
+
+159
+00:08:33,900 --> 00:08:35,540
+paleonefitis más grave, seguramente le
+
+160
+00:08:35,540 --> 00:08:37,100
+voy a dejar algún fármaco más
+
+161
+00:08:37,100 --> 00:08:39,020
+específico y más agresivo en contra
+
+162
+00:08:39,020 --> 00:08:41,540
+de la seudomonas. Si yo tengo un
+
+163
+00:08:41,540 --> 00:08:42,900
+paciente que está con una paleonefitis
+
+164
+00:08:42,900 --> 00:08:44,660
+demasiado grave que ya está en la UCI,
+
+165
+00:08:44,660 --> 00:08:46,460
+en ese caso sí o sí le dejo
+
+166
+00:08:46,460 --> 00:08:48,220
+carapenémicos para cubrir a la
+
+167
+00:08:48,220 --> 00:08:50,380
+seudomonas bien y para cubrir a otras
+
+168
+00:08:50,380 --> 00:08:51,620
+bacterias que pueden ser eventualmente
+
+169
+00:08:51,620 --> 00:08:54,620
+resistentes como alguna bacteria ble
+
+170
+00:08:54,620 --> 00:08:57,140
+por ejemplo, una clebsiela ble, más
+
+171
+00:08:57,140 --> 00:08:59,340
+vancomicina para cubrir al enterococo
+
+172
+00:08:59,340 --> 00:09:01,380
+y a los estafilococos coagulasa
+
+173
+00:09:01,380 --> 00:09:02,980
+negativos que eventualmente pueden
+
+174
+00:09:02,980 --> 00:09:04,940
+ser resistentes también. O sea, ahí
+
+175
+00:09:04,940 --> 00:09:07,700
+quedan con dos fármacos y dentro de
+
+176
+00:09:07,700 --> 00:09:09,900
+las alternativas se puede dejar
+
+177
+00:09:09,900 --> 00:09:11,900
+algún otro fármaco con una buena
+
+178
+00:09:11,900 --> 00:09:14,780
+cobertura antiseudomonas más vancomicina
+
+179
+00:09:14,780 --> 00:09:16,660
+y aquí vamos a hacer un pequeño
+
+180
+00:09:16,660 --> 00:09:18,940
+recuerdo de infectología, ¿cierto?
+
+181
+00:09:18,940 --> 00:09:20,780
+¿Cuáles son los clásicos fármacos
+
+182
+00:09:20,780 --> 00:09:22,620
+antiseudomonas? Pues me sirven los
+
+183
+00:09:22,620 --> 00:09:24,940
+carapenémicos, el imipenem y el
+
+184
+00:09:24,940 --> 00:09:27,340
+meropenem. No me sirve el ertapenem
+
+185
+00:09:27,340 --> 00:09:29,620
+por si acaso. Sirven algunas
+
+186
+00:09:29,620 --> 00:09:31,500
+cefalosporinas, no todas, en
+
+187
+00:09:31,500 --> 00:09:33,060
+particular la cefoperasona y la
+
+188
+00:09:33,060 --> 00:09:34,940
+ceftasidima que son las de tercera
+
+189
+00:09:34,940 --> 00:09:37,020
+generación con acción antiseudomonas
+
+190
+00:09:37,020 --> 00:09:38,660
+y el cefepime que es de cuarta
+
+191
+00:09:38,660 --> 00:09:40,540
+generación, más algunas más modernas
+
+192
+00:09:40,540 --> 00:09:42,660
+que hay también. Me sirven las
+
+193
+00:09:42,900 --> 00:09:46,940
+penicilinas con efecto antiseudomona
+
+194
+00:09:46,940 --> 00:09:49,220
+como la ticarcilina y la piperacilina
+
+195
+00:09:49,220 --> 00:09:51,140
+que habitualmente se dan con tazobactam
+
+196
+00:09:51,140 --> 00:09:53,740
+además. Me sirven algunos
+
+197
+00:09:53,740 --> 00:09:55,740
+aminolicócidos, dígase la amicacina
+
+198
+00:09:55,740 --> 00:09:58,300
+y la tobramicina en particular. Vienen
+
+199
+00:09:58,300 --> 00:09:59,780
+con una mejor acción antiseudomona
+
+200
+00:09:59,780 --> 00:10:02,020
+que la gentamicina y finalmente me
+
+201
+00:10:02,020 --> 00:10:03,740
+sirven las tinoleonas, en
+
+202
+00:10:03,740 --> 00:10:05,820
+particular el leofloxacino, aunque el
+
+203
+00:10:05,820 --> 00:10:09,180
+cirro igualmente le pega de
+
+204
+00:10:09,180 --> 00:10:10,900
+alguna forma no menor a la
+
+205
+00:10:10,900 --> 00:10:13,500
+cefepime. Finalmente veamos este
+
+206
+00:10:13,500 --> 00:10:15,580
+tema de bacteriuria asintomática.
+
+207
+00:10:15,580 --> 00:10:17,180
+En este caso habíamos dicho que era
+
+208
+00:10:17,180 --> 00:10:18,780
+un urocultivo que estaba positivo pero
+
+209
+00:10:18,780 --> 00:10:21,060
+sin síntomas y este no requiere
+
+210
+00:10:21,060 --> 00:10:22,900
+tratamiento antibiótico. La única
+
+211
+00:10:22,900 --> 00:10:24,740
+excepción es durante el embarazo en
+
+212
+00:10:24,740 --> 00:10:25,900
+el cual sí hay que darle
+
+213
+00:10:25,900 --> 00:10:27,500
+antibióticos que se pueden dar en
+
+214
+00:10:27,500 --> 00:10:29,500
+el embarazo y la pregunta más
+
+215
+00:10:29,500 --> 00:10:30,820
+importante ahí es por qué le
+
+216
+00:10:30,820 --> 00:10:32,820
+pidieron el urocultivo. Uno no pide
+
+217
+00:10:32,820 --> 00:10:35,340
+urocultivos a los pacientes que
+
+218
+00:10:35,340 --> 00:10:36,980
+están asintomáticos porque si es
+
+219
+00:10:36,980 --> 00:10:38,820
+que me sale positivo el diagnóstico
+
+220
+00:10:38,820 --> 00:10:40,140
+no va a ser una ITU sino que va a
+
+221
+00:10:40,140 --> 00:10:41,700
+ser justamente una bacteriuria
+
+222
+00:10:41,700 --> 00:10:43,260
+asintomática y eso da igual si el
+
+223
+00:10:43,260 --> 00:10:44,700
+paciente está hospitalizado, si está
+
+224
+00:10:44,700 --> 00:10:47,620
+con sonda, lo que sea la única razón
+
+225
+00:10:47,620 --> 00:10:50,020
+importante, hay otras que son muy
+
+226
+00:10:50,020 --> 00:10:51,620
+específicas y que no hay que
+
+227
+00:10:51,620 --> 00:10:53,060
+saberlo pero la única importante
+
+228
+00:10:53,060 --> 00:10:55,540
+para el pedir un urocultivo de
+
+229
+00:10:55,540 --> 00:10:57,540
+screening es el embarazo dado que
+
+230
+00:10:57,540 --> 00:10:59,300
+ahí sí se tratan las bacteriuras
+
+231
+00:10:59,300 --> 00:11:01,780
+asintomáticas. Ahora, ¿qué era la
+
+232
+00:11:01,780 --> 00:11:03,460
+piuria aséptica que no hay que
+
+233
+00:11:03,460 --> 00:11:04,740
+confundirlo con la bacteriuria
+
+234
+00:11:04,740 --> 00:11:05,940
+asintomática? Esto es algo
+
+235
+00:11:05,940 --> 00:11:07,740
+totalmente distinto. Aquí yo tengo
+
+236
+00:11:07,740 --> 00:11:09,460
+un urocultivo que está negativo, o sea
+
+237
+00:11:09,460 --> 00:11:10,740
+no hay una ITU pero sí tengo
+
+238
+00:11:10,740 --> 00:11:12,300
+piuria, hay un sedimento que está
+
+239
+00:11:12,300 --> 00:11:14,340
+alterado, o sea, sedimento
+
+240
+00:11:14,340 --> 00:11:16,020
+positivo pero con urocultivo que
+
+241
+00:11:16,020 --> 00:11:18,580
+está negativo y la importancia
+
+242
+00:11:18,580 --> 00:11:20,220
+acá es que yo estoy obligado a
+
+243
+00:11:20,220 --> 00:11:21,580
+descartar otras causas de
+
+244
+00:11:21,580 --> 00:11:24,100
+piuria como ejemplo la tuberculosis
+
+245
+00:11:24,100 --> 00:11:26,780
+entre otras, la enfermedad de
+
+246
+00:11:26,780 --> 00:11:29,980
+Kawasaki por ejemplo, la nefritis
+
+247
+00:11:29,980 --> 00:11:31,860
+interticial, etcétera, hay
+
+248
+00:11:31,860 --> 00:11:33,860
+muchas causas pero la tuberculosis
+
+249
+00:11:33,860 --> 00:11:36,340
+es la clásica que se enseña.
+
+250
+00:11:36,340 --> 00:11:37,900
+Finalmente, ¿qué pasa con una
+
+251
+00:11:37,900 --> 00:11:39,500
+piel o nefritis que no responde
+
+252
+00:11:39,500 --> 00:11:40,820
+al tratamiento antibiótico que
+
+253
+00:11:40,820 --> 00:11:43,580
+hago con esta paciente? Y lo
+
+254
+00:11:43,580 --> 00:11:44,980
+primero es, les debo pedir una
+
+255
+00:11:44,980 --> 00:11:46,740
+ecografía renal en el sentido en
+
+256
+00:11:46,740 --> 00:11:47,900
+que estoy obligado a ir a
+
+257
+00:11:47,900 --> 00:11:49,580
+descartar complicaciones, en
+
+258
+00:11:49,580 --> 00:11:50,980
+particular, abscesos que
+
+259
+00:11:50,980 --> 00:11:52,060
+requieran eventualmente de un
+
+260
+00:11:52,060 --> 00:11:53,900
+drenaje quirúrgico o por
+
+261
+00:11:53,900 --> 00:11:55,100
+pulsión que es la forma en
+
+262
+00:11:55,100 --> 00:11:56,300
+que habitualmente se drenan
+
+263
+00:11:56,300 --> 00:12:00,300
+actualmente los abscesos y
+
+264
+00:12:00,300 --> 00:12:01,660
+segundo lugar puede estar
+
+265
+00:12:01,660 --> 00:12:03,300
+complicada con una litiasis
+
+266
+00:12:03,300 --> 00:12:04,740
+que esté obstruyendo y en ese
+
+267
+00:12:04,740 --> 00:12:05,860
+caso estoy obligado a
+
+268
+00:12:05,860 --> 00:12:07,860
+desobstruir habitualmente con
+
+269
+00:12:07,900 --> 00:12:09,940
+la instalación de un píctel
+
+270
+00:12:09,940 --> 00:12:12,300
+o catéter doble J y si es que
+
+271
+00:12:12,300 --> 00:12:13,620
+no lo puedo pasar hay que
+
+272
+00:12:13,620 --> 00:12:15,420
+desobstruir con una nefrostomía
+
+273
+00:12:15,420 --> 00:12:17,140
+percutánea pero en el fondo
+
+274
+00:12:17,140 --> 00:12:19,220
+no puede quedar así sin
+
+275
+00:12:19,220 --> 00:12:20,540
+drenaje ese riñón que está
+
+276
+00:12:20,540 --> 00:12:22,220
+infectado y en segundo lugar
+
+277
+00:12:22,220 --> 00:12:24,180
+hay que ver el urocultivo en
+
+278
+00:12:24,180 --> 00:12:26,020
+búsqueda de resistencia
+
+279
+00:12:26,020 --> 00:12:28,060
+cierto de que el antibiógrama
+
+280
+00:12:28,060 --> 00:12:29,980
+me haya mostrado que no estoy
+
+281
+00:12:29,980 --> 00:12:31,500
+dando una buena cobertura y en
+
+282
+00:12:31,500 --> 00:12:33,140
+ese caso debo ajustar los
+
+283
+00:12:33,140 --> 00:12:34,860
+antibióticos. Como cosa final
+
+284
+00:12:34,860 --> 00:12:36,100
+una vez que descarté estas dos
+
+285
+00:12:36,100 --> 00:12:37,820
+cosas es raro que no responda
+
+286
+00:12:38,060 --> 00:12:40,020
+y lo que se suele hacer es que
+
+287
+00:12:40,020 --> 00:12:41,820
+se cambia a un tratamiento
+
+288
+00:12:41,820 --> 00:12:42,940
+endovenoso con septacción
+
+289
+00:12:42,940 --> 00:12:44,460
+endovenosa pero repito lo más
+
+290
+00:12:44,460 --> 00:12:46,380
+importante siempre es la
+
+291
+00:12:46,380 --> 00:12:48,540
+ecografía renal y bueno eso
+
+292
+00:12:48,540 --> 00:12:49,340
+es todo nos vemos en los
+
+293
+00:12:49,340 --> 00:12:50,220
+siguientes temas que estén
+
+294
+00:12:50,220 --> 00:12:51,940
+bien ya saben a aprenderse
+
+295
+00:12:51,940 --> 00:12:53,660
+con todos los detalles el
+
+296
+00:12:53,660 --> 00:12:54,460
+manejo de la ITU.

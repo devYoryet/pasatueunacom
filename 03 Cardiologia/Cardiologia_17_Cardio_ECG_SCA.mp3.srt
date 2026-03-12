@@ -1,0 +1,239 @@
+1
+00:00:00,000 --> 00:00:06,490
+Hola, ¿cómo están? Hablemos del electrocardiograma en el síndrome coronario WUO,
+
+2
+00:00:06,490 --> 00:00:10,330
+recordando que lo más importante son las alteraciones de la onda T,
+
+3
+00:00:10,330 --> 00:00:17,410
+las alteraciones del segmento ST y finalmente la aparición de una onda Q o de un complejo QS.
+
+4
+00:00:17,410 --> 00:00:23,010
+Cualquiera de esas tres cosas que esté presente, inmediatamente me orienta a que hay
+
+5
+00:00:23,010 --> 00:00:25,610
+algún tipo de alteraciones químicas en el corazón.
+
+6
+00:00:25,610 --> 00:00:29,770
+La onda T, lo habitual es que esté hacia arriba, si es que en cambio se invierte,
+
+7
+00:00:29,770 --> 00:00:34,850
+si es que se aplana o si se vuelve bifácega con una parte hacia arriba y la otra hacia abajo,
+
+8
+00:00:34,850 --> 00:00:39,810
+en ese caso me muestra que hay una isquemia cardíaca, habitualmente sin una necrosis permanente,
+
+9
+00:00:39,810 --> 00:00:41,730
+sino que absolutamente reversible.
+
+10
+00:00:41,730 --> 00:00:46,370
+Ahora, en la medida en que ya empiezan a aparecer las alteraciones del segmento ST,
+
+11
+00:00:46,370 --> 00:00:51,650
+suele ser algo más grave, si me aparece un supranivel del ST,
+
+12
+00:00:51,650 --> 00:00:57,850
+o sea, si es que el ST se va hacia arriba, habitualmente hay una lesión aguda transmural,
+
+13
+00:00:57,890 --> 00:01:03,450
+o sea, que hay un infra de nivel del ST, en cambio suele ser una lesión aguda no transmural,
+
+14
+00:01:03,450 --> 00:01:08,290
+sino que solamente de la parte más interna del miocardio, diga-se subendocárdica.
+
+15
+00:01:08,290 --> 00:01:12,330
+Y en el caso de la onda Q, para que sea una onda Q no normal,
+
+16
+00:01:12,330 --> 00:01:17,130
+en el sentido que el complejo QRS se llama QRS porque es normal que venga con onda Q,
+
+17
+00:01:17,130 --> 00:01:23,130
+pero si es una onda Q muy, muy grande, más de un 25% de la onda R del mismo complejo,
+
+18
+00:01:23,170 --> 00:01:26,890
+en ese caso uno habla de una onda Q patológica, ¿cierto?
+
+19
+00:01:26,890 --> 00:01:32,170
+Y lo que refleja es o un infarto con necrosis ya sea actual o bien un infarto antiguo,
+
+20
+00:01:32,170 --> 00:01:37,130
+en el sentido que la onda Q es la única alteración que permanece en el tiempo,
+
+21
+00:01:37,130 --> 00:01:40,890
+y de hecho es que yo me encuentro con algún paciente que está con insuficiencia cardíaca
+
+22
+00:01:40,890 --> 00:01:45,210
+y que está con alguna onda Q, yo le digo, seguramente usted tuvo un infarto antes,
+
+23
+00:01:45,210 --> 00:01:49,010
+en algún momento de su vida, aunque nunca se haya dado cuenta.
+
+24
+00:01:49,010 --> 00:01:53,890
+Vemos ahora las distintas paredes que son reflejadas por las distintas derivaciones,
+
+25
+00:01:53,890 --> 00:01:59,410
+en el caso del septo es B1 y B2 que son las dos que apuntan hacia adelante,
+
+26
+00:01:59,410 --> 00:02:03,490
+B1 un poquito a la derecha, ¿cierto? y B2 un poquito más a la izquierda,
+
+27
+00:02:03,490 --> 00:02:11,890
+la zona apical habitualmente es B3 y B4 que van un poquito más inclinadas hacia la izquierda, ¿cierto?
+
+28
+00:02:12,770 --> 00:02:16,850
+La pared anterior es desde B1 hasta B4, ¿cierto?
+
+29
+00:02:16,850 --> 00:02:23,810
+Como toda esa zona, la lateral son las que apuntan hacia el lado, justamente hacia el lado izquierdo,
+
+30
+00:02:23,810 --> 00:02:33,650
+diga-se B1 que apunta en este sentido horizontal a BL que va desde el corazón hacia el brazo izquierdo, ¿cierto?
+
+31
+00:02:33,650 --> 00:02:38,610
+B5 y B6 que van como hacia la zona más lateral del precordio.
+
+32
+00:02:39,330 --> 00:02:42,690
+La pared inferior son justamente las derivaciones que apuntan hacia abajo,
+
+33
+00:02:42,690 --> 00:02:51,490
+diga-se D2, D3 y ABF, y en el caso del ventrículo derecho se mide en las precordiales derechas
+
+34
+00:02:51,490 --> 00:02:55,970
+y lo más importante es B4 right o B4 R o el B4 derecho.
+
+35
+00:02:55,970 --> 00:02:58,690
+Aquí se ve un electrocardiograma, ¿cierto?
+
+36
+00:02:58,690 --> 00:03:05,490
+Lo que llama la atención inmediatamente son estos supradesnivel del ST que están desde B1 hasta B5,
+
+37
+00:03:05,490 --> 00:03:11,410
+así que el diagnóstico sería un infarto con supradesnivel del ST o un infarto transmural, ¿cierto?
+
+38
+00:03:11,410 --> 00:03:20,930
+Desde B1 hasta B5, o sea, antero-ceptal y lateral o antero-lateral si quieren mencionarlo de esa forma también.
+
+39
+00:03:20,930 --> 00:03:28,130
+En este caso se ve que D2, D3 y ABF, o sea, la parte inferior está con supradesnivel del ST,
+
+40
+00:03:28,130 --> 00:03:32,610
+así que sin ninguna duda hay un infarto transmural de pared inferior.
+
+41
+00:03:32,690 --> 00:03:41,650
+Además, están los supradesnivel del ST desde B3 hasta B6, así que hay afectación apical y lateral también,
+
+42
+00:03:41,650 --> 00:03:51,090
+o sea, en resumen, hay un infarto extenso, ínfero y lateral, ínfero-lateral y apical, además.
+
+43
+00:03:51,090 --> 00:03:57,010
+En este caso se ven algunos infradesniveles en algunas otras derivaciones,
+
+44
+00:03:57,010 --> 00:04:00,690
+y en este caso son un poco menos importantes que el supradesnivel del ST,
+
+45
+00:04:00,770 --> 00:04:06,610
+aunque es posible que sí me reflejen que hay una isquemia subepicárdica en esas zonas igualmente.
+
+46
+00:04:06,610 --> 00:04:13,490
+En el caso de este electrocardiograma se ve un supradesnivel del ST ahí, pero está en ABR,
+
+47
+00:04:13,490 --> 00:04:19,570
+ABR es el que apunta hacia el brazo derecho y de todas las derivaciones es la menos importante,
+
+48
+00:04:19,570 --> 00:04:24,290
+es la que habitualmente sale al revés que las otras, así que, repito,
+
+49
+00:04:24,290 --> 00:04:28,370
+no suele ser una de las que uno mire con mucha frecuencia,
+
+50
+00:04:28,450 --> 00:04:35,090
+pero lo que sí se ve acá es el infradesnivel del ST en D2, D3 y ABF, o sea, en la pared inferior,
+
+51
+00:04:35,090 --> 00:04:43,410
+y en la parte ántero-lateral igualmente, desde B3 hasta B6, así que el diagnóstico en este caso
+
+52
+00:04:43,410 --> 00:04:48,610
+sería un síndrome coronario agudo sin supradesnivel del ST, porque no tomo en cuenta ABR,
+
+53
+00:04:48,610 --> 00:04:51,410
+con afectación ínfero-lateral.
+
+54
+00:04:51,410 --> 00:04:56,370
+En este último caso el electrocardiograma está casi normal, así que si yo tuviera
+
+55
+00:04:56,450 --> 00:05:01,410
+un síndrome coronario agudo con un electro normal, el diagnóstico sería un síndrome coronario agudo
+
+56
+00:05:01,410 --> 00:05:07,970
+sin supradesnivel del ST, pero en esa zona se ven algunas ondas Q, que son ondas Q
+
+57
+00:05:07,970 --> 00:05:13,010
+relativamente grandes, así que lo más probable es que hubo un infarto antiguo en la pared inferior.
+
+58
+00:05:13,010 --> 00:05:19,170
+Y bueno, eso es todo lo que hay que saber, es súper importante que sepan reconocer los electrocardiogramas,
+
+59
+00:05:19,170 --> 00:05:23,570
+así que en las pruebas van a tener varios ejercicios hasta que les quede súper claro.
+
+60
+00:05:23,570 --> 00:05:24,770
+Nos vemos ahí.

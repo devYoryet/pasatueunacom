@@ -1,0 +1,363 @@
+1
+00:00:00,000 --> 00:00:07,600
+Hola, ¿cómo están? Hablemos de la faculitis de vaso pequeño ancapositivo, que hay que
+
+2
+00:00:07,600 --> 00:00:12,480
+saber que son enfermedades bastante graves, por si acaso. Y vamos a ver la clasificación,
+
+3
+00:00:12,480 --> 00:00:17,520
+porque son tres. En primer lugar está la poliangitis microscópica o poliangeitis
+
+4
+00:00:17,520 --> 00:00:23,680
+microscópica, que también se llama micropoliangitis o micropoliangeitis. En segundo lugar está
+
+5
+00:00:23,680 --> 00:00:29,000
+la granulomatosis con poliangitis, que también se llama granulomatosis de Wegener
+
+6
+00:00:29,000 --> 00:00:36,360
+o de Wegener, como quieran decirlo. Y finalmente la granulomatosis eosinofílica con poliangitis,
+
+7
+00:00:36,360 --> 00:00:41,400
+que también se llama la enfermedad de Chugstrauss y también se llama granulomatosis alérgica.
+
+8
+00:00:41,400 --> 00:00:47,080
+O sea, sepan, tienen varios nombres. Los que uno más se ha aprendido ha sido siempre
+
+9
+00:00:47,080 --> 00:00:52,340
+PAM, Wegener y Chugstrauss. Pero en el último tiempo, acuérdense que se ha intentado
+
+10
+00:00:52,340 --> 00:00:56,640
+eliminar un poco la nomenclatura con nombres propios, ¿cierto? Así que ha
+
+11
+00:00:56,720 --> 00:01:01,320
+evolucionado a granulomatosis con poliangitis y esa es la de Wegener. Y la otra se llama
+
+12
+00:01:01,320 --> 00:01:08,560
+casi igual granulomatosis eosinofílica con poliangitis, ¿cierto? que es la de Chugstrauss.
+
+13
+00:01:08,560 --> 00:01:13,320
+Espero que haya quedado claro. Y sepan que son anca positivo, pero no todas tienen el
+
+14
+00:01:13,320 --> 00:01:18,400
+mismo anca. La poliangitis microscópica viene con el anca P, con el patrón perinuclear,
+
+15
+00:01:18,400 --> 00:01:23,160
+que acuérdense que era equivalente a los anticuerpos antimielo peroxidasa o anti-MPO.
+
+16
+00:01:23,160 --> 00:01:28,280
+En cambio, el Wegener, cierto, viene con el anca C, en patrón citoplasmático,
+
+17
+00:01:28,280 --> 00:01:34,360
+que en este caso es equivalente a los anticuerpos anti-PR3. Anca es algo que
+
+18
+00:01:34,360 --> 00:01:38,440
+todo el mundo sabe, pero significa anticuerpos anti-citoplasma de neutrófilo.
+
+19
+00:01:38,440 --> 00:01:44,200
+Finalmente, la granulomatosis eosinofílica con poliangitis, el Chugstrauss, también
+
+20
+00:01:44,200 --> 00:01:50,240
+es anca P positivo igual que la PAM. O sea, la única anca C es la granulomatosis
+
+21
+00:01:50,240 --> 00:01:54,040
+de Wegener. Ese es como el concepto y las otras dos son anca P.
+
+22
+00:01:54,040 --> 00:01:58,800
+Veamos ahora cuál es su clínica, porque la general viene con síntomas inespecíficos,
+
+23
+00:01:58,800 --> 00:02:04,420
+al menos al inicio, astenia, fiebre, malestar general, con miálgias, con
+
+24
+00:02:04,420 --> 00:02:09,760
+artralgia. Hasta ese punto uno dice puede estar con una infección viral o con alguna
+
+25
+00:02:09,760 --> 00:02:14,280
+otra enfermedad autoinmune. Y luego de eso empieza ya con las complicaciones más graves,
+
+26
+00:02:14,280 --> 00:02:19,040
+en particular, afectación renal, con una glomerulonefritis rápidamente progresiva,
+
+27
+00:02:19,520 --> 00:02:24,480
+que viene con una falla renal importante y que en la biopsia renal se ve como una glomerulonefitis
+
+28
+00:02:24,480 --> 00:02:30,120
+crecente, que es cierto, en la microscopía óptica, más un patrón pausi-inmune sin
+
+29
+00:02:30,120 --> 00:02:34,240
+depósito de complejos inmune en la inmunofluorescencia. Aparte de esto,
+
+30
+00:02:34,240 --> 00:02:38,360
+es muy frecuente que venga con afectación de la vía aéreo digestiva superior,
+
+31
+00:02:38,360 --> 00:02:43,160
+en particular rinocinusitis y tracheitis, pero igualmente puede venir con afectación
+
+32
+00:02:43,160 --> 00:02:48,720
+pulmonar. Ejemplo, con una alveolitis hemorrágica, con una neumonitis e incluso
+
+33
+00:02:48,720 --> 00:02:55,800
+con un asma muy severo como ocurre en el trichostraus. Además, el compromiso de la
+
+34
+00:02:55,800 --> 00:03:00,000
+basa nervorum se puede traducir en una mononeuritis multiple, que por si acaso es
+
+35
+00:03:00,000 --> 00:03:04,800
+que viene con afectación de distintos nervios. Ejemplo, se afecta el nervio radial de un lado,
+
+36
+00:03:04,800 --> 00:03:09,440
+el peroneo del otro lado y el ciático del otro lado. Y finalmente, es frecuente también
+
+37
+00:03:09,440 --> 00:03:15,920
+que venga con un rash eritematoso maculopapular. Fíjense hasta ahí, uno puede decir se parece
+
+38
+00:03:15,920 --> 00:03:21,160
+mucho a un lupus, por ejemplo, pero el rash es más de vasculitis que de lupus. El cuadro muy
+
+39
+00:03:21,160 --> 00:03:25,760
+agudo es más de vasculitis que de lupus también. Y la glomerulonefitis muy agresiva,
+
+40
+00:03:25,760 --> 00:03:30,920
+igualmente es más de vasculitis, de vaso pequeño que de lupus. En las pruebas,
+
+41
+00:03:30,920 --> 00:03:34,640
+eventualmente van a ir viendo distintos cuadros clínicos que les va a ayudar a
+
+42
+00:03:34,640 --> 00:03:40,240
+diferenciar esto un poco mejor. El cuadro suele ser agudo, bien agresivo o bien subagudo,
+
+43
+00:03:40,240 --> 00:03:45,840
+en cosas de algunas semanas. Y como cosa importantísima, suele tener una altísima
+
+44
+00:03:45,840 --> 00:03:51,280
+letalidad sin tratamiento. Ejemplo, el Wegener o la polingitis microscópica,
+
+45
+00:03:51,280 --> 00:03:57,560
+el 90% está muerto en un año o en dos años. Y en cambio, con el tratamiento es todo lo
+
+46
+00:03:57,560 --> 00:04:03,320
+contrario, la mayoría de los pacientes sobrevive. Y hay muchos incluso que salen
+
+47
+00:04:03,320 --> 00:04:07,880
+del cuadro agudo, en que remite de manera permanente en el tiempo la enfermedad. Hay
+
+48
+00:04:07,880 --> 00:04:15,240
+otros en cambio en los cuales recurre. Ahora, el tratamiento mientras antes se ve suele ser
+
+49
+00:04:15,240 --> 00:04:20,160
+más exitoso en el sentido en que casi siempre responde, pero si llego tarde puedo venir ya con
+
+50
+00:04:20,160 --> 00:04:24,160
+mucho daño en los riñones, con mucho daño en los nervios y en el resto del cuerpo también.
+
+51
+00:04:24,160 --> 00:04:28,920
+Que quede claro, puede recurrir, pero no todos. Cerca de la mitad de los pacientes
+
+52
+00:04:28,920 --> 00:04:33,920
+recurren, al menos en el Chuck Strauss y en el Wegener. Incluso si lo veo a más largo
+
+53
+00:04:33,920 --> 00:04:39,760
+plazo puede ser un porcentaje más alto, pero lo más habitual es que una vez que yo sobrevivo
+
+54
+00:04:39,760 --> 00:04:46,680
+al cuadro agudo, me mantengo estable y bien durante bastante tiempo. Pero, insisto, hay que
+
+55
+00:04:46,680 --> 00:04:50,240
+estar bien atento con control de los parámetros inflamatorios, entre otras cosas,
+
+56
+00:04:50,240 --> 00:04:53,920
+como para asegurarse de que no vaya a ser un nuevo brote que puede ser muy grave.
+
+57
+00:04:53,920 --> 00:04:59,480
+Vamos a ver algunos detalles de la clínica de cada una de estas tres enfermedades. En el
+
+58
+00:04:59,480 --> 00:05:04,880
+caso de la polingitis microscópica, habitualmente es en un adulto mayor y suele ser bastante más
+
+59
+00:05:04,880 --> 00:05:11,120
+agresiva que otras enfermedades, dígase, con mucha falla renal, con mucha glomerulonephritis,
+
+60
+00:05:11,120 --> 00:05:15,520
+cierto, y con mucho compromiso pulmonar, con un síndrome riñón pulmón más o menos agresivo
+
+61
+00:05:15,520 --> 00:05:19,840
+y grave. En el caso de la granulomatosis de Wegener, habitualmente suele ser un paciente
+
+62
+00:05:19,840 --> 00:05:24,800
+más joven, es más frecuente en hombres que en mujeres y es muy, muy frecuente que parta
+
+63
+00:05:24,800 --> 00:05:32,080
+con afectación de la vía aérea superior, con una rinocinusitis y luego de eso ya evoluciona
+
+64
+00:05:32,080 --> 00:05:36,480
+con el cuadro más agresivo. O sea, puede empezar, ejemplo, con sinusitis crónica,
+
+65
+00:05:36,480 --> 00:05:43,480
+con otitis media recurrente, con alguna cosa de ese tipo y luego evolucionar ya a la glomerulonephritis,
+
+66
+00:05:43,480 --> 00:05:48,040
+cierto, a la glomerulitis hemorrágica, etcétera, a la mononeuritis. Y finalmente,
+
+67
+00:05:48,040 --> 00:05:51,200
+el Churk-Strauss, este viene con un cuadro clínico un poquito diferente,
+
+68
+00:05:51,200 --> 00:05:56,040
+en el sentido en que suele ser un poco más lenta, ya sea subaguda o bien crónica,
+
+69
+00:05:56,040 --> 00:06:01,200
+y que viene con muchos síntomas alérgicos al principio. De hecho, con un asma importante,
+
+70
+00:06:01,200 --> 00:06:07,440
+difícil de manejar, con rivitis alérgica importante y con eosinofilia. Y de ahí viene
+
+71
+00:06:07,440 --> 00:06:12,680
+también su nombre de granulomatosis eosinofílica con poliengitis. Finalmente,
+
+72
+00:06:12,680 --> 00:06:17,400
+el diagnóstico de estas tres enfermedades por la general es con una biopsia. Hay que
+
+73
+00:06:17,400 --> 00:06:21,760
+confirmar la vasculitis, ya sea a nivel renal, pulmonar o del órgano que sea,
+
+74
+00:06:21,760 --> 00:06:27,840
+que es biopsia. Muchas veces se biopsia algún nervio periférico no tan importante como el
+
+75
+00:06:27,840 --> 00:06:32,640
+nervio sural, pero que quede bien claro la sospecha con una clínica importante,
+
+76
+00:06:32,640 --> 00:06:36,840
+con una glomerulonephritis rápidamente progresiva, más la presencia de alguno
+
+77
+00:06:36,840 --> 00:06:43,000
+de los Anca inmediatamente hace que, con una altísima probabilidad, sí se trate de esta
+
+78
+00:06:43,000 --> 00:06:48,880
+enfermedad y no contar con la biopsia todavía es algo que no me puede retrasar el tratamiento
+
+79
+00:06:48,880 --> 00:06:54,520
+o el manejo. Ahora, ¿cómo se hace el tratamiento de las vasculitis ancapositivo? Como son
+
+80
+00:06:54,520 --> 00:06:58,280
+enfermedades muy graves, por lo que la general se trata con corticoides endovenosos,
+
+81
+00:06:58,280 --> 00:07:02,640
+al menos al principio, luego ya pueden quedar por vía oral, más inmunosupresores,
+
+82
+00:07:02,640 --> 00:07:07,000
+no inmunomoduladores, fíjense, son inmunosupresores, dentro de los cuales el
+
+83
+00:07:07,000 --> 00:07:11,280
+rituximab es el que más se está usando en la actualidad, aunque la ciclofofamida,
+
+84
+00:07:11,320 --> 00:07:15,600
+que es muy antigua, sigue siendo bastante útil también, así que se puede usar cualquiera de los
+
+85
+00:07:15,600 --> 00:07:21,600
+dos. Como cosa final, en algunos casos leves, en particular en el Wegener leve o en el
+
+86
+00:07:21,600 --> 00:07:25,880
+Chuck Strauss, que está leve, ejemplo un Wegener que solamente viene con compromiso
+
+87
+00:07:25,880 --> 00:07:30,440
+nasocinusal o un Chuck Strauss, igualmente sin falla renal y sin una afectación grave,
+
+88
+00:07:30,440 --> 00:07:35,400
+se puede manejar con corticoides orales y nada más, pero desde el momento en que ya se
+
+89
+00:07:35,400 --> 00:07:39,080
+vuelve más grave o que estoy con una poliengitis microscópica, habitualmente hay
+
+90
+00:07:39,080 --> 00:07:43,840
+que agregar los inmunosupresores como uno de los medicamentos más importantes.
+
+91
+00:07:43,840 --> 00:07:46,840
+Y bueno, eso es todo, nos vemos en el siguiente video, que estén bien.

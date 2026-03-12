@@ -1,0 +1,195 @@
+1
+00:00:00,000 --> 00:00:07,940
+Hola hola, veamos ahora la artritis séptica o artritis infecciosa recordando
+
+2
+00:00:07,940 --> 00:00:11,020
+que su clínica habitualmente es una monoartritis aguda aunque en los casos
+
+3
+00:00:11,020 --> 00:00:15,500
+más graves cierto puede además aparecer todos los signos de una sepsis desde
+
+4
+00:00:15,500 --> 00:00:19,620
+fiebre hasta un shock séptico por ejemplo. El diagnóstico ya dijimos
+
+5
+00:00:19,620 --> 00:00:24,100
+hace con la punción articular que demuestra la presencia de bacterias en
+
+6
+00:00:24,100 --> 00:00:28,780
+el líquido sinovial y la pregunta es le pido otros exámenes, ejemplo la
+
+7
+00:00:28,780 --> 00:00:31,700
+radiografía y la verdad es que en la práctica si se pide la radiografía
+
+8
+00:00:31,700 --> 00:00:36,620
+y hasta una de las causas de artritis erosiva junto con la clásica artritis
+
+9
+00:00:36,620 --> 00:00:40,180
+erosiva que es la artritis rhumatoide y la artritis séptica entre otras por
+
+10
+00:00:40,180 --> 00:00:44,580
+su caso con la diferencia que en este cuadro clínico es una mono artritis y
+
+11
+00:00:44,580 --> 00:00:48,220
+las demás habitualmente son oligoartritis o poliartritis. El
+
+12
+00:00:48,220 --> 00:00:51,620
+tratamiento de la artritis séptica hay que saberlo y hay que hacerlo
+
+13
+00:00:51,620 --> 00:00:56,420
+rápido, es urgente, es el dar antibióticos por viviendo venosa más
+
+14
+00:00:56,420 --> 00:01:00,700
+el drenaje quirúrgico. Ahora el drenaje quirúrgico se puede hacer
+
+15
+00:01:00,700 --> 00:01:04,940
+por atroscopía si es que está disponible, es un poco mejor hacerlo al menos
+
+16
+00:01:04,940 --> 00:01:08,500
+respecto de la recuperación o bien si es que no está disponible o es una
+
+17
+00:01:08,500 --> 00:01:13,820
+articulación que no se puede abordar con atroscopía pues no queda otra
+
+18
+00:01:13,820 --> 00:01:17,580
+que hacerlo con una cirugía de drenaje de tipo abierta. ¿Qué pasa
+
+19
+00:01:17,580 --> 00:01:20,980
+con el antibiótico? ¿Qué antibiótico es el que hay que dar? Y la verdad es
+
+20
+00:01:20,980 --> 00:01:24,580
+que depende del germen que yo encuentre, si es que tengo un
+
+21
+00:01:24,580 --> 00:01:29,180
+estafilococcoaureus sensible pues le puedo dar los clásicos fármacos
+
+22
+00:01:29,180 --> 00:01:33,540
+anti estafilocósico, digas en la cefasolina o alguna otra cefalosporina
+
+23
+00:01:33,540 --> 00:01:37,420
+de primera generación. La cloxacilina por vía endovenosa también sirve
+
+24
+00:01:37,420 --> 00:01:40,460
+mucho, ¿cierto? Lo cubre bastante bien. ¿Qué pasa si es que es un
+
+25
+00:01:40,460 --> 00:01:44,340
+estafilococcoaureus resistente en cambio que cada vez es más frecuente?
+
+26
+00:01:44,340 --> 00:01:48,380
+En ese caso estoy obligado a darle vancomicina o incluso si es
+
+27
+00:01:48,380 --> 00:01:53,540
+resistente a la vancomicina algún otro farmaco como el linesolid etcétera.
+
+28
+00:01:53,540 --> 00:01:58,380
+Si es un estafilococcoaureus en el cual desconozco si es que es sensible
+
+29
+00:01:58,540 --> 00:02:02,740
+o resistente porque todavía no me ha salido el antibiógrama y que es lo que
+
+30
+00:02:02,740 --> 00:02:06,020
+con mayor frecuencia yo veo en la práctica cuando estoy tomando esta
+
+31
+00:02:06,020 --> 00:02:10,300
+decisión, actualmente se recomienda partirle vancomicina en el sentido en
+
+32
+00:02:10,300 --> 00:02:14,100
+que no me voy a arriesgar pero luego una vez que me llega el antibiógrama
+
+33
+00:02:14,100 --> 00:02:18,540
+ahí sí ajusto el manejo del tratamiento antibiótico y si es que
+
+34
+00:02:18,540 --> 00:02:21,740
+resulta que era sensible pues me bajo de la vancomicina a la
+
+35
+00:02:21,740 --> 00:02:25,540
+cloxacilina o a la cefasolina por vía endovenosa. Si es que es un
+
+36
+00:02:25,580 --> 00:02:29,820
+gonococo esto hay que saberlo también me cambia absolutamente el manejo sería
+
+37
+00:02:29,820 --> 00:02:34,260
+con ceftrexona por vía endovenosa dado que ese es el farmaco que cubre mejor
+
+38
+00:02:34,260 --> 00:02:37,900
+a esta bacteria. Y finalmente si es que tengo un germen desconocido y no
+
+39
+00:02:37,900 --> 00:02:41,660
+pareciera ser un gonococo en ese caso se maneja con vancomicina también
+
+40
+00:02:41,660 --> 00:02:46,060
+o sea el tratamiento empírico de la artritis séptica es cubrir estafilococcoaureus
+
+41
+00:02:46,060 --> 00:02:50,180
+y en específico cubrir también el estafilococco resistente a
+
+42
+00:02:50,180 --> 00:02:54,460
+meticilina en el sentido en que es bastante grave esta infección y
+
+43
+00:02:54,460 --> 00:02:58,180
+no me puedo arriesgar. Si es que apareciera otra bacteria una
+
+44
+00:02:58,180 --> 00:03:01,980
+pseudomonas o una cinetobacter o cualquier otra que en algunas
+
+45
+00:03:01,980 --> 00:03:05,780
+oportunidades se encuentra pues se va a dar tratamiento antibiótico según
+
+46
+00:03:05,780 --> 00:03:09,420
+esa bacteria en específico y bueno eso la verdad es que es todo lo que
+
+47
+00:03:09,420 --> 00:03:12,740
+hay que saber. Vancomicina para el estafilococcoaureus y ceftrexona para
+
+48
+00:03:12,740 --> 00:03:15,940
+el gonococo. Más el drenaje quirúrgico obviamente. Nos vemos en
+
+49
+00:03:15,940 --> 00:03:19,020
+el siguiente vídeo que estén bien.

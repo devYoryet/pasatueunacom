@@ -1,0 +1,191 @@
+Siguiendo con la anemia, vamos a ver la anemia por déficit de B12 y la anemia por déficit de folatos también.
+
+Y empecemos con la por déficit de vitamina B12 que también se llama cianocobalamina.
+
+Y acuérdense que al igual que los folatos se utiliza la síntesis de ADN,
+
+la síntesis de los ácidos nucleicos, así que sirve para la proliferación celular.
+
+Las causas, la más importante es la mala absorción.
+
+Ejemplo, que sea de causa autoinmune que es la más frecuente que se llama anemia perniciosa,
+
+en la cual hay anticuerpos en contra de las células parietales del estómago
+
+que son las que producen el factor intrínseco, que es una proteína que se une al factor extrínseco,
+
+que es la misma vitamina B12 y juntas se absorben en el híbrido endistal.
+
+Ahora, segundo lugar, la cirugía gástrica, ya sea una gastrectomía por un cáncer, por ejemplo,
+
+o un bypass gástrico, en el sentido en que nuevamente en el estómago,
+
+en las células parietales del estómago, era en donde se producía y se secretaba este factor intrínseco
+
+y al operarlo obviamente disminuyó eso también.
+
+Segundo lugar, la cirugía de híbrido endistal, porque ya dijimos,
+
+ahí es donde se absorbe el factor intrínseco unido a la vitamina B12, ¿cierto?
+
+Y finalmente, en otras causas de mala absorción como la enfermedad celíaca, la enfermedad de Crohn, etcétera.
+
+Segundo lugar, también se puede producir por una falta de ingesta,
+
+que es algo que se ve en los últimos años, en particular en las personas con una dieta vegana
+
+o una dieta vegetariana estricta, mal llevada, en el sentido en que bien llevada,
+
+con una asesoría de un profesional en la cual se asegure el aporte de B12, no debería tener ningún problema.
+
+¿Cuál es la clínica número uno? El síndrome anémico, pero no es lo único.
+
+La vitamina B12 también sirve mucho para el sistema nervioso,
+
+así que suele asociarse a una demencia o una pseudodemencia.
+
+Puede venir con afectación de la médula espinal también, con una mielopatía,
+
+que es la más clásica en la degeneración combinada subaguda de la médula.
+
+Puede venir igualmente con afectación del sistema nervioso periférico, con neuropatía.
+
+En la hemograma, lo más importante es que puede verse la anemia o bien una pancitopenia,
+
+en el sentido en que dijimos que servía para la proliferación celular,
+
+porque servía para la síntesis de ADN, así que me afectan las tres líneas celulares,
+
+glóbulos rojos, glóbulos blancos y plaquetas también.
+
+Segundo lugar, es una anemia macrocítica, de hecho viene con el BCM arriba de 100,
+
+y suele ser incluso megaloblástica, dígase con el BCM, no solamente que arriba de 100,
+
+sino que arriba de 108, ejemplo 120, 115, cualquier valor similar.
+
+Y es muy frecuente que en el frotis se describa además una hipersegmentación
+
+del núcleo de los neutrófilos, o que se describa también como neutrófilo hipersegmentado.
+
+El diagnóstico se hace directamente con los niveles de B12, se miden,
+
+así se solicita como niveles de B12 en plasma.
+
+Y si es que quedase alguna duda, ejemplo porque el hemograma es muy sugerente,
+
+pero los niveles de B12 están en el rango normal bajo, se puede pedir la homocisteína,
+
+se puede pedir un examen que se llama el ácido metil malónico,
+
+y también se pueden pedir los anticuerpos en contra de las células parietales
+
+para buscar directamente la anemia perniciosa,
+
+que es la causa más frecuente de anemia por el déficit de B12.
+
+Ahora, recordemos que la homocisteína y el ácido metil malónico
+
+en el contexto de un déficit de B12 tienden a aumentarse,
+
+son productos que se elevan ante la falta de B12.
+
+En cambio, en el déficit de folato solamente se eleva la homocisteína
+
+y no se eleva el ácido metil malónico,
+
+así que eventualmente me sirve para hacer la diferencia entre uno u otro déficit.
+
+¿Cuál es el tratamiento del déficit de vitamina B12?
+
+Obviamente es la vitamina B12 que se da habitualmente por vía intramuscular
+
+cuando ya está establecida la anemia,
+
+queremos que esto actúe rápido, ¿cierto?
+
+En cambio, la profilaxis que se da en la gente vegana,
+
+en la gente con cirugías gástricas, en la gente vegetariana,
+
+habitualmente va a ser por vía intramuscular
+
+cuando es por una causa de mala absorción,
+
+ejemplo, una cirugía gástrica, ¿cierto?
+
+O bien por vía oral cuando es una causa de baja ingesta
+
+como ocurría en los pacientes veganos y vegetarianos.
+
+Ahora, el déficit de B12 a veces se puede confundir con la hemólisis,
+
+eso hay que saberlo,
+
+así que vamos a ver un paralelo,
+
+y la causa de esta confusión es justamente que en el déficit de B12
+
+se produce una eritropoiesis inefectiva
+
+y eventualmente también hay lisis celular en la misma médula ósea,
+
+y eso hace que, ejemplo, la LDH se eleva en ambas,
+
+en el caso de la hemólisis porque se rompen los glóbulos rojos,
+
+en el caso del déficit de B12 porque se rompen los precursores de los glóbulos rojos,
+
+además la bilirrubina indirecta puede elevarse también en ambos,
+
+y el BCM dijimos que podría estar elevado también en el caso de la hemólisis
+
+por los reticulositos, así que fíjense, LDH, bilirrubina y BCM
+
+pueden verse exactamente igual,
+
+y eso hace que un médico eventualmente se pueda confundir.
+
+Así que la gran diferencia me la hacen los reticulositos
+
+en el sentido en que el déficit de B12 es una anemia arregenerativa
+
+en el cual el índice reticulositario está muy bajo,
+
+habitualmente bajo 2 e incluso bajo 1,
+
+y en el caso de la hemólisis suele estar arriba de 2.
+
+Veamos ahora el déficit de folatos, que es lo mismo que la vitamina B9,
+
+entonces ya dijimos B12, sinónimo de cianocobalamina,
+
+folatos, sinónimo de vitamina B9,
+
+y en este caso las causas nuevamente están la mala absorción intestinal.
+
+Segundo lugar, el consumo crónico de sulfas, ejemplo,
+
+en los pacientes con VIH que usan el cotrimoxazol de manera crónica
+
+como profilaxis para el neumociste giroveche,
+
+y finalmente la no ingesta, aunque es muy muy raro en Chile
+
+y en los países en desarrollo en el sentido en que
+
+las harinas suelen estar suplementadas con ácido fólico.
+
+Ahora, su clínica y su demograma se ven muy similares al déficit de B12,
+
+el diagnóstico se hace igualmente con los niveles de folatos,
+
+así que muchas veces ante la duda se piden niveles de folatos y de B12,
+
+aunque es muy raro el déficit de folatos por esta suplementación
+
+que hay a nivel gubernamental en varios países,
+
+y finalmente el tratamiento obviamente es darle ácido fólico.
+
+Así que eso es todo, nos vemos en el siguiente video.

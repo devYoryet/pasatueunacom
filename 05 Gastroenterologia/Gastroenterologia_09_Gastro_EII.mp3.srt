@@ -1,0 +1,871 @@
+1
+00:00:00,000 --> 00:00:07,210
+Hola, ¿cómo están? En este video vamos a hablar de las enfermedades inflamatorias
+
+2
+00:00:07,210 --> 00:00:10,650
+intestinales, en específico de la colitis ulcerosa y la enfermedad de Crohn, que son
+
+3
+00:00:10,650 --> 00:00:16,010
+esas dos nomás. Algunos hablan además de los síndromes de solapamiento entre
+
+4
+00:00:16,010 --> 00:00:20,650
+ambas, pero son fundamentalmente esas dos. Vamos a ver el cuadro clínico en
+
+5
+00:00:20,650 --> 00:00:24,330
+general que tiene, la forma en que se manejan, en que se estudian, cierto,
+
+6
+00:00:24,330 --> 00:00:27,690
+más algo súper importante, la diferencia entre la enfermedad de
+
+7
+00:00:27,690 --> 00:00:31,730
+Crohn y la colitis ulcerosa, debido a que el tratamiento definitivo puede
+
+8
+00:00:31,730 --> 00:00:36,970
+ser un poco diferente. Empecemos con la clínica en general. Se habla que vienen
+
+9
+00:00:36,970 --> 00:00:41,410
+con síntomas de tipo intestinal o digestivo, cierto, más los síntomas
+
+10
+00:00:41,410 --> 00:00:45,850
+extraintestinales. Dentro de los intestinales lo más frecuente es la
+
+11
+00:00:45,850 --> 00:00:50,410
+diarrea crónica y el dolor abdominal, cierto, hasta ahí puede ser algo
+
+12
+00:00:50,410 --> 00:00:54,730
+inespecífico que se ve también en otras enfermedades. Muchas veces
+
+13
+00:00:54,730 --> 00:00:58,290
+viene con fiebre como buena patología inflamatoria, cierto, con
+
+14
+00:00:58,290 --> 00:01:03,050
+mucho pujo y tenesmo, en particular la colitis ulcerosa que suele afectar
+
+15
+00:01:03,050 --> 00:01:06,170
+bastante al recto, aunque la enfermedad de Crohn eventualmente viene con esos
+
+16
+00:01:06,170 --> 00:01:11,090
+síntomas también. La disentería que es algo más propio justamente de las
+
+17
+00:01:11,090 --> 00:01:14,210
+enfermedades inflamatorias intestinales, más que de otras causas
+
+18
+00:01:14,210 --> 00:01:17,890
+de diarrea crónica, por ejemplo, aunque se puede ver también de manera
+
+19
+00:01:17,890 --> 00:01:23,610
+crónica, ejemplo, en una amebiasis por entoamoeva histolítica y
+
+20
+00:01:23,610 --> 00:01:28,570
+finalmente algunos síntomas un poco más difusos, cierto, como la baja de
+
+21
+00:01:28,570 --> 00:01:32,850
+peso que se puede dar tanto por la inflamación crónica, cierto, por este
+
+22
+00:01:32,850 --> 00:01:36,410
+paciente que está enfermo como por el síndrome de mala absorción que
+
+23
+00:01:36,410 --> 00:01:40,250
+muchas veces acompañan específico en la enfermedad de Crohn, tal como lo
+
+24
+00:01:40,250 --> 00:01:43,490
+vamos a ver con algún detalle ahora pronto. Dentro de los síntomas
+
+25
+00:01:43,490 --> 00:01:49,170
+extraintestinales, la artritis periférica y la spondilitis son las
+
+26
+00:01:49,170 --> 00:01:54,250
+dos más frecuentes. Acuérdense que se asocia a un tipo de pelvis spondylo
+
+27
+00:01:54,250 --> 00:01:59,050
+atropatía, que su nombre es justamente la pelvis spondylo atropatía asociada
+
+28
+00:01:59,050 --> 00:02:03,010
+a enfermedades inflamatorias intestinales, así que hasta ahí no es
+
+29
+00:02:03,010 --> 00:02:08,130
+muy muy difícil de saber el nombre, pero acuérdense que lo más frecuente
+
+30
+00:02:08,130 --> 00:02:11,450
+en este caso es que venga con artritis periférica, que como buena
+
+31
+00:02:11,450 --> 00:02:15,810
+PEA, cierto, suele ser una oligoartritis de pequeñas y grandes
+
+32
+00:02:15,850 --> 00:02:19,250
+articulaciones, que muchas veces es migratorias también y en un
+
+33
+00:02:19,250 --> 00:02:23,650
+porcentaje más bajo se afecta la parte axial también con sacroileitis, por
+
+34
+00:02:23,650 --> 00:02:28,570
+ejemplo. En segundo lugar, como buena PEA, se asocia también a la uveitis,
+
+35
+00:02:28,570 --> 00:02:34,410
+digamos, al compromiso de los ojos y a la afectación cutánea que el eritema
+
+36
+00:02:34,410 --> 00:02:38,010
+nodoso y el epidioderma gangrenoso eran las dos manifestaciones cutáneas
+
+37
+00:02:38,010 --> 00:02:41,290
+de este tipo de enfermedades. No me lo confundan con la dermatitis
+
+38
+00:02:41,290 --> 00:02:45,130
+herpetiforme, en cambio, que era de la enfermedad celíaca. Acuérdense que
+
+39
+00:02:45,130 --> 00:02:50,530
+las enfermedades inflamatorias intestinales se asocian a anemia, tanto a
+
+40
+00:02:50,530 --> 00:02:53,530
+la anemia de enfermedades crónicas, debido a que justamente hay una
+
+41
+00:02:53,530 --> 00:02:57,610
+enfermedad crónica inflamatoria, cierto, como a la anemia ferropénica, debido
+
+42
+00:02:57,610 --> 00:03:02,770
+a que por la disentería, cierto, a la hematoquesia y a veces a la hemorragia
+
+43
+00:03:02,770 --> 00:03:06,930
+digestiva baja, cierto, se va perdiendo hierro y eventualmente se
+
+44
+00:03:06,930 --> 00:03:10,770
+complica con ferropenia también y la mala absorción intestinal, en
+
+45
+00:03:10,770 --> 00:03:15,970
+particular cuando se compromete el intestino delgado más proximal del
+
+46
+00:03:15,970 --> 00:03:21,690
+duodenum, cierto, igualmente se puede complicar con una ferropenia. El
+
+47
+00:03:21,690 --> 00:03:25,650
+diagnóstico, y esto hay que saberlo, se hace con la colonoscopia, así que el
+
+48
+00:03:25,650 --> 00:03:29,450
+examen frente a un cuadro clínico compatible con esto es la colonoscopia
+
+49
+00:03:29,450 --> 00:03:33,650
+sí o sí, que además les adelanto, me ayuda a diferenciar la colitis
+
+50
+00:03:33,650 --> 00:03:37,010
+ulcerosa de la enfermedad de Crohn que vienen con algunos patrones
+
+51
+00:03:37,010 --> 00:03:40,370
+colonoscópicos distintos que hay que saberlo y que los vamos a ver en un
+
+52
+00:03:40,370 --> 00:03:44,530
+par de minutos. Ahora, como cosa importantísima, hay que descartar
+
+53
+00:03:44,530 --> 00:03:49,010
+algunas infecciones que pueden simularla bastante bien. Dentro está
+
+54
+00:03:49,010 --> 00:03:53,290
+la amebiasis, el capillobacter jejuni, cierto, o yejuni y el
+
+55
+00:03:53,290 --> 00:03:56,650
+clostridium difficile en el caso de que venga con antecedentes de uso de
+
+56
+00:03:56,650 --> 00:04:00,330
+antibióticos. Son tres infecciones que eventualmente pueden simular
+
+57
+00:04:00,330 --> 00:04:04,490
+bastante bien una enfermedad inflamatoria intestinal. Veamos ahora
+
+58
+00:04:04,490 --> 00:04:08,370
+el paralelo entre la colitis ulcerosa y la enfermedad de Crohn. Esto hay que
+
+59
+00:04:08,370 --> 00:04:13,450
+saberlo con bastante detalle por si acaso y lo más más importante es la
+
+60
+00:04:13,450 --> 00:04:17,410
+colitis ulcerosa está limitada exclusivamente al colon, mientras que
+
+61
+00:04:17,410 --> 00:04:20,610
+la enfermedad de Crohn me puede afectar todo el tubo digestivo desde
+
+62
+00:04:20,610 --> 00:04:24,650
+la boca hasta el ano por si acaso. En el caso de la colitis ulcerosa
+
+63
+00:04:24,650 --> 00:04:28,610
+nunca afecta el intestino delgado, repito, está limitada solamente al
+
+64
+00:04:28,610 --> 00:04:32,530
+colon, en cambio en la enfermedad de Crohn el lugar más frecuentemente
+
+65
+00:04:32,530 --> 00:04:37,650
+afectado justamente el ilion distal que es una parte del intestino del
+
+66
+00:04:37,650 --> 00:04:42,610
+gado. Segundo, y esto también es muy importante, la colitis ulcerosa siempre
+
+67
+00:04:42,610 --> 00:04:45,930
+afecta al recto, en cambio en la enfermedad de Crohn el recto
+
+68
+00:04:45,930 --> 00:04:50,770
+eventualmente puede estar afectado o bien puede que esté absolutamente sano.
+
+69
+00:04:50,770 --> 00:04:55,130
+Como cosa relacionada con esto, la colitis ulcerosa con mucha
+
+70
+00:04:55,130 --> 00:04:58,490
+frecuencia viene con harto pujo y con tenesmo, de hecho a veces son los
+
+71
+00:04:58,490 --> 00:05:02,850
+únicos síntomas debido a que empieza con una rectitis, cierto, y luego de
+
+72
+00:05:02,850 --> 00:05:06,450
+eso ya se generaliza al resto del colon y ya empieza con la diarrea,
+
+73
+00:05:06,450 --> 00:05:11,570
+con la hemorragia, etcétera. Y en la enfermedad de Crohn una de las cosas
+
+74
+00:05:11,570 --> 00:05:15,450
+que se puede ver es la mala absorción intestinal que habitualmente no se ve
+
+75
+00:05:15,450 --> 00:05:19,010
+en la colitis ulcerosa debido a que es por compromiso justamente del
+
+76
+00:05:19,010 --> 00:05:21,810
+intestino delgado, en cambio la enfermedad de Crohn que sí afecta
+
+77
+00:05:21,810 --> 00:05:27,010
+al intestino delgado eventualmente sí se complica con mala absorción.
+
+78
+00:05:27,010 --> 00:05:31,290
+Ahora, como cosa adicional que se ve también en la colonoscopía, la
+
+79
+00:05:31,290 --> 00:05:35,530
+afectación de la colitis ulcerosa es continua, dígase afecta al recto y
+
+80
+00:05:35,530 --> 00:05:39,690
+luego si es que afecta algo más va por el colon sigmoide, el colon
+
+81
+00:05:39,690 --> 00:05:44,290
+descendente, el colon transverso, cierto, y finalmente el colon ascendente, o sea
+
+82
+00:05:44,290 --> 00:05:49,130
+va afectando de manera continua al colon desde abajo hacia arriba, en
+
+83
+00:05:49,130 --> 00:05:52,690
+cambio en la enfermedad de Crohn es una afectación en parches y eventualmente
+
+84
+00:05:52,690 --> 00:05:56,410
+se puede ver que el recto está normal, por ejemplo, y hay una zona de
+
+85
+00:05:56,410 --> 00:05:59,650
+inflamación en el colon transverso y luego está todo sano hasta el ilion
+
+86
+00:05:59,650 --> 00:06:03,130
+distal que está afectado nuevamente y luego de eso hasta el esófago, por
+
+87
+00:06:03,130 --> 00:06:08,450
+ejemplo. Como otra cosa que se puede ver en los exámenes de laboratorio
+
+88
+00:06:08,450 --> 00:06:13,530
+ambos vienen con algunos anticuerpos, si bien no son tan sensibles y no son
+
+89
+00:06:13,530 --> 00:06:18,850
+específicos, eventualmente sí se pueden ver como el anticuerpo con los
+
+90
+00:06:18,850 --> 00:06:23,330
+ANKAP, los anticuerpos anti-citoplasma de neutrófilo en
+
+91
+00:06:23,330 --> 00:06:28,050
+patrón P, en patrón perinuclear, que es algo que se veía en algunas
+
+92
+00:06:28,050 --> 00:06:31,490
+vasculitis como la poliengiditis microscópica, por ejemplo, ese es el
+
+93
+00:06:31,490 --> 00:06:36,930
+marcador de la colitis ulcerosa, en cambio la enfermedad de Crohn se asocia
+
+94
+00:06:36,930 --> 00:06:41,570
+a los anticuerpos anti-sacaromises que se abrevian como ASCA por su caso.
+
+95
+00:06:41,570 --> 00:06:46,970
+Como cosa adicional la colitis ulcerosa en la histología solamente viene con
+
+96
+00:06:46,970 --> 00:06:51,690
+afectación de la mucosa del colon, en cambio la enfermedad de Crohn
+
+97
+00:06:51,690 --> 00:06:56,570
+habitualmente viene con una afectación transmural en que se afectan todas las
+
+98
+00:06:56,570 --> 00:06:59,810
+capas del tubo digestivo lo cual hace que sea más grave y que se suela
+
+99
+00:06:59,810 --> 00:07:03,530
+complicar con algunas cosas más complejas que las vamos a ver ahora.
+
+100
+00:07:03,530 --> 00:07:07,850
+Dentro de la afectación de la mucosa la colitis ulcerosa es frecuente que
+
+101
+00:07:07,850 --> 00:07:12,970
+venga con ulceras en la mucosa, de hecho por lo mismo se llama colitis
+
+102
+00:07:12,970 --> 00:07:15,530
+ulcerosa, segundo lugar a veces se ven los
+
+103
+00:07:15,530 --> 00:07:19,410
+pseudopólipos que es como un pólipo con la diferencia que no es que
+
+104
+00:07:19,410 --> 00:07:23,010
+algo se suelevantó sino que se ulceró todo lo que estaba alrededor y
+
+105
+00:07:23,010 --> 00:07:29,090
+queda esto que se ve suelevantado, de ahí el nombre de pseudopólipo, en
+
+106
+00:07:29,090 --> 00:07:33,970
+cambio en la enfermedad de Crohn es frecuente que por la afectación
+
+107
+00:07:33,970 --> 00:07:39,530
+transmural cierto se generen bridas o adherencias entre alguna zona del tubo
+
+108
+00:07:39,530 --> 00:07:43,010
+digestivo y alguna otra así que es frecuente que venga con alguna masa
+
+109
+00:07:43,010 --> 00:07:48,730
+digestiva aparte de esto es frecuente que evolucione con estenosis del tubo
+
+110
+00:07:48,730 --> 00:07:52,970
+digestivo se asoce mucho más a obstrucción en cambio en la colitis
+
+111
+00:07:52,970 --> 00:07:57,650
+ulcerosa es extremadamente rara la estenosis a lo más se ve en el
+
+112
+00:07:57,650 --> 00:08:01,930
+recto en casos de rectitis que han llevado mucho tiempo y que y que han
+
+113
+00:08:01,930 --> 00:08:06,370
+tenido como algún grado de inflamación tan grande durante tanto
+
+114
+00:08:06,370 --> 00:08:10,530
+tiempo que finalmente sí se fibrosa y se estenosa pero repito la estenosis
+
+115
+00:08:10,530 --> 00:08:14,690
+es algo que me orienta fuertemente a la enfermedad de Crohn salvo que sea
+
+116
+00:08:14,690 --> 00:08:18,850
+todo muy compatible con una colitis ulcerosa y que la estenosis se
+
+117
+00:08:18,850 --> 00:08:22,930
+limite al recto. Ahora la patología perianal, las
+
+118
+00:08:22,930 --> 00:08:29,770
+fístulas ya sea anorectales cierto o bien las fístulas que vayan de la
+
+119
+00:08:29,770 --> 00:08:34,850
+parte del tubo digestivo a la piel las fístulas enterocutáneas son algo que
+
+120
+00:08:34,850 --> 00:08:38,730
+orientan fuertemente a enfermedad de Crohn también. Ahora dentro de las
+
+121
+00:08:38,730 --> 00:08:42,290
+complicaciones de la colitis ulcerosa la más temida es el mega
+
+122
+00:08:42,290 --> 00:08:46,930
+colon tóxico cierto en que hay una pancolitis muy severa y finalmente el
+
+123
+00:08:46,930 --> 00:08:51,130
+colon se dilata cierto y eventualmente se puede complicar con
+
+124
+00:08:51,130 --> 00:08:56,690
+sepsis y con perforación. Habitualmente se maneja con los
+
+125
+00:08:56,690 --> 00:09:01,490
+inmunomoduladores en alta dosis por vía endovenosa con corticoides también y
+
+126
+00:09:01,490 --> 00:09:05,330
+en el caso de que no ande bien hay que operarlo hay que hacer una
+
+127
+00:09:05,330 --> 00:09:09,530
+cirugía una pancolectomía. Ahora la colitis ulcerosa es factor de
+
+128
+00:09:09,530 --> 00:09:13,330
+riesgo también del cáncer de recto por si acaso que se asocia también a
+
+129
+00:09:13,330 --> 00:09:19,010
+VIH a el virus papiloma humano cierto y a fumar y finalmente se
+
+130
+00:09:19,010 --> 00:09:22,930
+complique también con la CEP con la colangitis esclerosante primaria que
+
+131
+00:09:22,930 --> 00:09:27,090
+habíamos mencionado en algún momento que cerca de la mitad de los casos de
+
+132
+00:09:27,090 --> 00:09:31,170
+CEP se ve efectivamente en pacientes que vienen con colitis ulcerosa y que
+
+133
+00:09:31,170 --> 00:09:35,570
+su marcador es igualmente los ancapés. En el caso de la enfermedad de
+
+134
+00:09:35,570 --> 00:09:39,410
+Crohn en cambio las complicaciones más frecuentes son la obstrucción, la
+
+135
+00:09:39,410 --> 00:09:43,250
+perforación y los abscesos debido justamente a esta afectación
+
+136
+00:09:43,250 --> 00:09:48,450
+transmural de todo el espesor de la pared digestiva. Ahora respecto a las
+
+137
+00:09:48,450 --> 00:09:53,730
+úlceras orales es algo que ha aparecido a veces en las preguntas de
+
+138
+00:09:53,730 --> 00:09:58,010
+los exámenes o en los pacientes reales cierto y en este caso es algo que se
+
+139
+00:09:58,010 --> 00:10:02,170
+puede ver en ambas patologías tanto la colitis ulcerosa como en la
+
+140
+00:10:02,170 --> 00:10:05,770
+enfermedad de Crohn aunque en general se dice que orienta más a la
+
+141
+00:10:05,770 --> 00:10:08,330
+enfermedad de Crohn debido a que afecta todo el tubo digestivo
+
+142
+00:10:08,330 --> 00:10:12,410
+incluyendo la boca cierto que a la colitis ulcerosa pero es de las
+
+143
+00:10:12,410 --> 00:10:16,610
+manifestaciones que se ven en el tubo digestivo afuera del colon que no me
+
+144
+00:10:16,610 --> 00:10:21,130
+descarta una colitis ulcerosa a diferencia en cambio de la afectación
+
+145
+00:10:21,130 --> 00:10:24,970
+del esófago o del intestino delgado que inmediatamente me hace pensar una
+
+146
+00:10:24,970 --> 00:10:29,210
+enfermedad de Crohn. Vemos ahora muy rápido el tratamiento de las
+
+147
+00:10:29,210 --> 00:10:33,210
+enfermedades inflamatorias intestinales en general y debido a que
+
+148
+00:10:33,210 --> 00:10:36,710
+su etiología es auto inmune es cierto por la general se manejan con
+
+149
+00:10:36,710 --> 00:10:40,970
+corticoides orales dentro de esto la bu de sonida es el más clásico
+
+150
+00:10:40,970 --> 00:10:45,370
+debido a que no se absorbe y por lo mismo viene sin la toxicidad
+
+151
+00:10:45,370 --> 00:10:50,810
+sistémica por los corticoides cierto segundo lugar en algunos casos se usan
+
+152
+00:10:50,810 --> 00:10:59,650
+los salicilatos en particular el ácido 5 amino salicílico o 5-asa cierto que
+
+153
+00:10:59,650 --> 00:11:02,570
+el otro nombre que tiene es la mesalacina que es uno de los
+
+154
+00:11:02,570 --> 00:11:06,530
+faróicos que se usa con mayor frecuencia en estos pacientes me sirven
+
+155
+00:11:06,530 --> 00:11:10,570
+los inmunomoduladores o sea los corticoides los salicilatos y los
+
+156
+00:11:10,570 --> 00:11:14,890
+inmunomoduladores son la base del tratamiento de primera o de segunda
+
+157
+00:11:14,890 --> 00:11:18,370
+línea dentro de los inmunomoduladores la asatiboprina es
+
+158
+00:11:18,370 --> 00:11:21,930
+alguno de los que hay que saber que existen pero hay que saber que de
+
+159
+00:11:21,930 --> 00:11:26,330
+segunda línea se maneja por la general con fármacos biológicos dentro de
+
+160
+00:11:26,330 --> 00:11:30,730
+esto los anticuerpos monoclonales inhibidores del tnf alfa son los más
+
+161
+00:11:30,730 --> 00:11:34,250
+clásicos dentro de ellos el infliximab es como el más antiguo cierto
+
+162
+00:11:34,250 --> 00:11:39,950
+y el más conocido y el adalimumab es alguno un poquito más nuevo son
+
+163
+00:11:39,950 --> 00:11:43,690
+caros pero en chile al menos están dentro de la ley ricarte soto que
+
+164
+00:11:43,690 --> 00:11:48,090
+financia los medicamentos de alto costo y finalmente en algunos casos se
+
+165
+00:11:48,090 --> 00:11:53,650
+usan antibióticos ya sea antibióticos que se agreguen al tratamiento con los
+
+166
+00:11:53,650 --> 00:11:57,290
+corticoides de los inmunomoduladores o bien algunos casos en que viene
+
+167
+00:11:57,290 --> 00:12:01,130
+mezclado con un salicilato como la sulfa salacina por ejemplo que es
+
+168
+00:12:01,130 --> 00:12:05,650
+una sulfa más un salicilato que luego se separan y actúan de manera
+
+169
+00:12:05,650 --> 00:12:10,570
+independiente ahora de última línea en ambos casos cuando no andan bien
+
+170
+00:12:10,570 --> 00:12:14,330
+con esos medicamentos o cuando se complican con alguna cosa muy severa
+
+171
+00:12:14,330 --> 00:12:18,770
+como una obstrucción una perforación se manejan con cirugía eso hay que
+
+172
+00:12:18,770 --> 00:12:24,170
+saber es la última línea y de hecho una de las cosas que se diferencia en
+
+173
+00:12:24,170 --> 00:12:28,450
+el manejo entre la colitis ulcerosa y la enfermedad de crónia justamente el
+
+174
+00:12:28,450 --> 00:12:32,130
+tipo de cirugía debido a que la colitis ulcerosa como está
+
+175
+00:12:32,130 --> 00:12:36,130
+limitada el colon se maneja simplemente con una colectomía ya
+
+176
+00:12:36,130 --> 00:12:40,810
+sea total y que quede con una ilustomía definitiva para evacuar cierto
+
+177
+00:12:40,810 --> 00:12:46,890
+o bien subtotal y que quede con una unión iliorrectal cierto como para que
+
+178
+00:12:46,890 --> 00:12:51,370
+mantenga la evacuación por villanal y eso habitualmente se hace según el
+
+179
+00:12:51,370 --> 00:12:54,650
+grado de daño que haya en el recto si es que ya viene con un recto con
+
+180
+00:12:54,650 --> 00:12:59,450
+cáncer de colon o con displacia en ese caso se hace una colectomía como
+
+181
+00:12:59,450 --> 00:13:03,490
+una pancolectomía total en cambio si es que el recto se mantiene bueno
+
+182
+00:13:03,490 --> 00:13:08,370
+en ese caso se puede hacer subtotal y se ahorra la ilustomía con la bolsa que
+
+183
+00:13:08,370 --> 00:13:13,170
+puede ser incómoda la enfermedad de crón en cambio debido a que se afecta
+
+184
+00:13:13,170 --> 00:13:17,690
+como cualquier parte del intestino habitualmente solamente se reseca el
+
+185
+00:13:17,690 --> 00:13:21,850
+segmento que está comprometido que está complicado y nada más
+
+186
+00:13:21,850 --> 00:13:26,650
+vemos ahora algunos casos vamos a ver cuatro y de esa de esa forma le
+
+187
+00:13:26,650 --> 00:13:31,130
+ponemos término a la clase cierto número 1 un paciente de 68 años que
+
+188
+00:13:31,130 --> 00:13:35,450
+viene con baja de peso de rea sanguinolenta y una masa abdominal hasta
+
+189
+00:13:35,450 --> 00:13:39,410
+ahí a los 68 años es muy raro que sea una enfermedad inflamatoria
+
+190
+00:13:39,410 --> 00:13:43,330
+intestinal debido a que suele ser de pacientes mucho más jóvenes por su
+
+191
+00:13:43,330 --> 00:13:46,530
+caso y lo más probable por la masa es que venga con un cáncer de colon
+
+192
+00:13:46,530 --> 00:13:50,730
+dígase una masa más sangre cierto a los 68 años ese es un cáncer de
+
+193
+00:13:50,730 --> 00:13:54,490
+colon hasta que se muestre lo contrario en cambio es que yo vengo
+
+194
+00:13:54,490 --> 00:13:58,050
+con el mismo caso pero a los 18 años con baja de peso de rea
+
+195
+00:13:58,050 --> 00:14:01,770
+sanguinolenta y masa abdominal en este caso lo que se sospecha no es un
+
+196
+00:14:01,770 --> 00:14:04,730
+cáncer sino que sería una enfermedad de crón porque acuérdense que la
+
+197
+00:14:04,730 --> 00:14:08,290
+masa es algo que orientaba fuertemente la enfermedad de crón y no a la
+
+198
+00:14:08,290 --> 00:14:13,650
+colitis ulcerosa y en ambos casos hay que pedirle igual una colonoscopía
+
+199
+00:14:13,650 --> 00:14:17,610
+debido a que me sirve tanto para el diagnóstico del cáncer como para el
+
+200
+00:14:17,610 --> 00:14:20,450
+diagnóstico de la enfermedad de crón y de la colitis ulcerosa también
+
+201
+00:14:20,450 --> 00:14:25,650
+ahora hay cáncer de colon a los 18 años y la verdad que son muy raros
+
+202
+00:14:25,650 --> 00:14:29,810
+pero pero eventualmente sí puede ser así que a esa edad si bien no puedo
+
+203
+00:14:29,810 --> 00:14:33,010
+descartar 100% del cáncer lo que hay que sospechar sí o sí es una
+
+204
+00:14:33,010 --> 00:14:37,690
+enfermedad de crón más que un cáncer en el caso 3 20 años pujo más
+
+205
+00:14:37,690 --> 00:14:41,890
+tenesmo por dos semanas y luego una diarrea disenterica en este caso es
+
+206
+00:14:41,890 --> 00:14:46,250
+uno de los cuadros clásicos de la colitis ulcerosa en que empieza con
+
+207
+00:14:46,250 --> 00:14:49,850
+la rectitis muy intensa cierto acuérdense que afecta al recto
+
+208
+00:14:49,850 --> 00:14:54,090
+siempre y luego se extiende al resto del colon y en este caso el pujo y
+
+209
+00:14:54,090 --> 00:14:59,770
+el tenesmo me hablan de la rectitis cierto y luego evoluciona ya al resto
+
+210
+00:14:59,770 --> 00:15:04,730
+del compromiso con diarrea disenterica al resto de la afectación del colon y
+
+211
+00:15:04,730 --> 00:15:09,770
+el último caso el caso 4 cierto 31 años con diarrea dolor fiebre
+
+212
+00:15:09,770 --> 00:15:13,850
+estatorrea y luego lumbago además en este caso lo que se sospecha es una
+
+213
+00:15:13,850 --> 00:15:18,650
+enfermedad inflamatoria intestinal cierto que está con diarrea fiebre la
+
+214
+00:15:18,650 --> 00:15:23,770
+estatorrea el lumbago sería por esta pelvi espóndilo atropatía pero en
+
+215
+00:15:23,770 --> 00:15:27,690
+este caso por venir con estatorrea que sería el síntoma que me sugiere una
+
+216
+00:15:27,690 --> 00:15:32,130
+mala absorción intestinal ya no puede ser una colitis ulcerosa sino que el
+
+217
+00:15:32,130 --> 00:15:36,370
+diagnóstico sería una enfermedad de cron pero que haya quedado claro así
+
+218
+00:15:36,370 --> 00:15:39,770
+que nos vemos los siguientes temas que estén bien

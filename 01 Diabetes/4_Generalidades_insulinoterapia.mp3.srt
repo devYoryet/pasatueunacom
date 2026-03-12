@@ -1,0 +1,391 @@
+1
+00:00:03,470 --> 00:00:08,870
+Hablemos de la insulino terapia, al menos las cosas generales, ha avanzado mucho, cada día hay
+
+2
+00:00:08,870 --> 00:00:14,830
+insulinas más avanzadas, más complejas, así que como médico general es súper importante conocer
+
+3
+00:00:14,830 --> 00:00:19,430
+cuáles son estas, cómo se ajustan, etcétera. Así que empecemos con algo tan sencillo como los
+
+4
+00:00:19,430 --> 00:00:24,950
+tipos de insulina. La más frecuente o la más clásica es la insulina cristalina que también
+
+5
+00:00:24,950 --> 00:00:31,510
+se llama insulina común o insulina regular. En este caso es bastante barata y no solamente
+
+6
+00:00:31,510 --> 00:00:36,370
+que es barata, sino que tiene una acción muy rápida, habitualmente en 30 minutos ya empieza
+
+7
+00:00:36,370 --> 00:00:41,590
+a bajar la glicemia y tiene un peak habitualmente una hora y media a tres horas y media después.
+
+8
+00:00:41,590 --> 00:00:47,390
+La forma en que se administra habitualmente es antes de las comidas y obviamente una vez que
+
+9
+00:00:47,390 --> 00:00:51,470
+ya me administro mi insulina tengo que comer, de lo contrario voy a hacer una hipoglicemia en
+
+10
+00:00:51,470 --> 00:00:56,630
+algunos minutos después, pero es antes de desayuno, antes de almuerzo, antes de la cena,
+
+11
+00:00:56,630 --> 00:01:02,390
+dependiendo obviamente de las glicemias. En segundo lugar está la insulina NPH, que es una de
+
+12
+00:01:02,390 --> 00:01:08,110
+las insulinas lentas, es una insulina que viene mezclada con protamina y eso hace que se vaya
+
+13
+00:01:08,110 --> 00:01:14,270
+liberando de manera más lenta en la sangre y también es bastante barata, es buena de hecho,
+
+14
+00:01:14,270 --> 00:01:19,710
+se puede mezclar con la insulina cristalina, aunque es importante que en la jeringa se ponga
+
+15
+00:01:19,710 --> 00:01:26,870
+en primer lugar la NPH y luego la cristalina y que inmediatamente se inyecte, dura cerca de 12
+
+16
+00:01:26,870 --> 00:01:32,390
+horas o sea tiene una vida media bastante más larga y el peak que si lo tiene se logra entre
+
+17
+00:01:32,390 --> 00:01:36,830
+cuatro o seis horas después, o sea una insulina más lenta que se puede dar una o dos dosis al
+
+18
+00:01:36,830 --> 00:01:43,550
+día dado que dura 12 horas y eso va a depender de las comidas que esté consumiendo etcétera.
+
+19
+00:01:43,550 --> 00:01:49,310
+Ahora, aquí vuelvo al puede mezclarse en el sentido en que otras insulinas lentas,
+
+20
+00:01:49,310 --> 00:01:52,590
+las ultralentas como la insulina glargina por ejemplo, no se puede mezclar con las
+
+21
+00:01:52,590 --> 00:01:58,190
+insulinas rápidas y en segundo lugar la NPH no solamente se puede mezclar con la cristalina
+
+22
+00:01:58,190 --> 00:02:02,030
+sino que con algunas de las insulinas ultrarápidas también que las vamos a ver
+
+23
+00:02:02,030 --> 00:02:07,190
+ahora inmediatamente. Ahora, existen las insulinas ultrarápidas, existen las insulinas
+
+24
+00:02:07,190 --> 00:02:14,030
+ultralentas. Ambas son unas variantes de la insulina pero con algunas mutaciones
+
+25
+00:02:14,030 --> 00:02:20,430
+específicas y se hacen mediante tecnología de ADN recombinante y con producción en laboratorio
+
+26
+00:02:20,430 --> 00:02:26,310
+pero lo importante es que estas mutaciones hacen o que actúe y se absorba más rápido o que
+
+27
+00:02:26,310 --> 00:02:30,990
+actúe y se absorba y se libere de manera mucho más lenta. En el caso de las ultrarápidas
+
+28
+00:02:30,990 --> 00:02:36,830
+su efecto fíjense es 15 a 30 minutos después de haberla administrado o sea 15 minutos antes
+
+29
+00:02:37,270 --> 00:02:42,030
+de la insulina cristalina y tiene un PIC que es uno a tres horas después o sea fíjense media hora
+
+30
+00:02:42,030 --> 00:02:49,110
+antes que la insulina cristalina. Se dan también antes de las comidas pero como su efecto es más
+
+31
+00:02:49,110 --> 00:02:53,550
+rápido se puede dar junto con las comidas también y si se dan cuenta la diferencia con
+
+32
+00:02:53,550 --> 00:02:57,830
+la insulina cristalina no es tan grande así que en la práctica tiene un beneficio
+
+33
+00:02:57,830 --> 00:03:02,790
+bastante marginal. Ahora, sí me sirven en algunos casos bien específicos como ejemplo en
+
+34
+00:03:02,790 --> 00:03:08,430
+las bombas de insulina en las bombas de insulina que es algo nuevo que ha avanzado bastante que es
+
+35
+00:03:08,430 --> 00:03:13,750
+como un especie entre comillas de páncreas artificial desde el punto de vista endocrino en
+
+36
+00:03:13,750 --> 00:03:19,190
+ese caso se han hecho los estudios y estas máquinas con las insulinas ultrarápidas.
+
+37
+00:03:19,190 --> 00:03:27,030
+Ahora, las ultralentas hay que saberla está la insulina glargina el de temir y el de
+
+38
+00:03:27,630 --> 00:03:32,670
+en Chile la que más se usa de esas tres es la insulina glargina por si acaso hay que saber
+
+39
+00:03:32,670 --> 00:03:37,470
+esos tres nombres a diferencia de las de las ultrarápidas que dan más o menos lo mismo
+
+40
+00:03:37,470 --> 00:03:42,990
+aunque la más clásica es el lispro pero en el caso de las ultralentas hay que saberla en
+
+41
+00:03:42,990 --> 00:03:48,110
+particular hay que saber la insulina glargina sepan que duran 24 horas y esta una gran
+
+42
+00:03:48,110 --> 00:03:54,030
+diferencia con la NPH no tienen un PIC y al no venir con un PIC de acción habitualmente
+
+43
+00:03:54,030 --> 00:03:59,510
+tienen mucho menos hipoglicemia de hecho son muy infrecuentes las hipoglicemias en las
+
+44
+00:03:59,510 --> 00:04:05,030
+ultralentas en comparación con la NPH y ahí si habría un beneficio real entre una ultralenta
+
+45
+00:04:05,030 --> 00:04:10,030
+y una NPH en comparación con las ultrarápidas con la cristalina en que no hay un beneficio
+
+46
+00:04:10,030 --> 00:04:14,750
+sino marginal. Ahora, ¿qué insulina hay que usar? eso es algo que hay que saber y la
+
+47
+00:04:14,750 --> 00:04:18,750
+respuesta es depende depende de qué es lo que estemos manejando si que tengo una diabetes
+
+48
+00:04:18,750 --> 00:04:26,470
+tipo 1 la verdad es que se suele usar un esquema intensificado que se deja una dosis de ultralenta
+
+49
+00:04:26,470 --> 00:04:30,350
+habitualmente una vez al día aunque se puede dejar igualmente dos veces al día como para
+
+50
+00:04:30,350 --> 00:04:37,510
+dejarlo óptimo más refuerzos con insulina cristalina o insulina ultrarápida durante las
+
+51
+00:04:37,510 --> 00:04:43,230
+comidas habitualmente un poco antes de comer ahora la opción actual que ya la mencionamos
+
+52
+00:04:43,230 --> 00:04:48,110
+recién es la bomba de insulina las bombas de insulina son bien modernas se conectan al
+
+53
+00:04:48,110 --> 00:04:52,750
+teléfono y van midiendo en tiempo real la glicemia y liberando en tiempo real los
+
+54
+00:04:52,750 --> 00:04:57,110
+requerimientos de insulina que hay también y en ese caso usan de las insulinas ultrarápidas
+
+55
+00:04:57,110 --> 00:05:01,910
+y no la insulina cristalina ahora en el caso de la diabetes tipo 2 acuérdense que por el
+
+56
+00:05:01,910 --> 00:05:06,590
+general se maneja con hipoglicemiantes orales lo vamos a ver más adelante después o sea en
+
+57
+00:05:06,590 --> 00:05:10,630
+detalle después perdón y en este caso la forma en que se suele iniciar es con una
+
+58
+00:05:10,630 --> 00:05:17,190
+dosis de NPH en la noche una dosis de NPH nocturna ahora en algunas oportunidades hay
+
+59
+00:05:17,230 --> 00:05:22,750
+que avanzar a dos dosis una en la mañana y una en la noche una de las alternativas también es
+
+60
+00:05:22,750 --> 00:05:27,830
+dejar una sola dosis de ultra lenta que es más estable y en el caso de que me esté haciendo
+
+61
+00:05:27,830 --> 00:05:32,070
+hipoglicemias por ejemplo con las dos dosis pues me paso a una dosis de glargina por
+
+62
+00:05:32,070 --> 00:05:37,550
+ejemplo y en algunos casos cuando tengo bien controladas las glicemias pre comidas pero más
+
+63
+00:05:37,550 --> 00:05:42,390
+las pos comidas y esto lo vamos a ver con más detalle después se agregan además refuerzos
+
+64
+00:05:42,390 --> 00:05:45,830
+con insulina cristalina o con insulina ultrarápida en el caso de la diabetes 2
+
+65
+00:05:45,830 --> 00:05:51,030
+las ultrarápidas la verdad que no sirven así que no sirven más que la insulina cristalina así
+
+66
+00:05:51,030 --> 00:05:55,910
+que habitualmente se manejan con insulina cristalina cuando es que hay que indicarlas
+
+67
+00:05:55,910 --> 00:06:00,830
+que repito lo más frecuente es que solamente sea NPH una dosis y nada más o a lo más dos
+
+68
+00:06:00,830 --> 00:06:06,190
+dosis pero hay algunos casos en que sí se agrega ahora cuando estoy manejando un
+
+69
+00:06:06,190 --> 00:06:11,830
+estado hiperglicémico severo así ejemplo una glicemia arriba de 400 o una cetosidosis
+
+70
+00:06:11,830 --> 00:06:16,870
+diabética o un síndrome hiperglicémico hiperosmolar o sea una complicación hiperglicémica
+
+71
+00:06:16,870 --> 00:06:22,390
+severa en ese caso se va a manejar habitualmente con insulina cristalina y la forma habitual es
+
+72
+00:06:22,390 --> 00:06:29,590
+con bolos endovenoso y luego con goteo endovenoso o sea se le da una dosis relativamente
+
+73
+00:06:29,590 --> 00:06:33,410
+grande y luego queda con un goteo la dosis todas esas cosas las vamos a ver en la
+
+74
+00:06:33,410 --> 00:06:39,070
+clase respectiva cuando yo tengo un paciente diabético que está hospitalizado ejemplo una
+
+75
+00:06:39,070 --> 00:06:42,830
+diabetes tipo 2 hospitalizada la forma en que habitualmente se maneja es con insulina
+
+76
+00:06:42,830 --> 00:06:48,790
+cristalina en este caso en bolos cada seis horas ajustada por hemogluco test o sea repito los
+
+77
+00:06:48,790 --> 00:06:53,270
+pacientes diabéticos que están graves y que se hospitalizan por la razón que sea habitualmente
+
+78
+00:06:53,270 --> 00:06:58,910
+se cambia su esquema de lipoglicemiante o de lo que sea que tuvieran antes a insulina
+
+79
+00:06:58,910 --> 00:07:03,590
+cristalina cada seis horas ahora hay un par de excepciones número uno si es que tiene una
+
+80
+00:07:03,590 --> 00:07:09,390
+diabetes mellitus 2 y está súper bien y está hospitalizado por una razón totalmente diferente
+
+81
+00:07:09,390 --> 00:07:12,950
+una descompensación a algo no grave en ese caso lo puedo seguir manejando con los
+
+82
+00:07:12,950 --> 00:07:17,630
+hipoglicemiantes orales que traía desde antes pero si llega con algo grave en ese caso es con
+
+83
+00:07:17,630 --> 00:07:22,670
+la insulina cristalina sí o sí segundo lugar si está con una diabetes mellitus 1 la verdad
+
+84
+00:07:22,670 --> 00:07:27,430
+es que se mantiene su esquema de insulina basal y a eso se le agrega la insulina
+
+85
+00:07:27,430 --> 00:07:32,350
+cristalina cada seis horas ajustada por hemogluco test y tanto los hipoglicemiantes como la
+
+86
+00:07:32,350 --> 00:07:37,190
+insulina basal de la diabetes 1 van con un asterisco en el sentido en que hay que ajustarlo
+
+87
+00:07:37,190 --> 00:07:44,310
+muchas veces los pacientes que se hospitalizan cambian su dieta y de comer más abundante en
+
+88
+00:07:44,310 --> 00:07:48,310
+la casa van a comer esta comida del hospital cierto que puede ser un poco más hipocalórica
+
+89
+00:07:48,310 --> 00:07:53,990
+así que muchas veces hay que bajar la dosis en un tercio por ejemplo en algún rango así
+
+90
+00:07:53,990 --> 00:08:00,150
+y se va ajustando según las glicemias que vaya que vaya teniendo que hay que ir tomándolas
+
+91
+00:08:00,150 --> 00:08:06,790
+cada seis horas ahora solamente para tener una idea mental de cómo es un esquema intensificado
+
+92
+00:08:06,790 --> 00:08:10,350
+y que me sirve para entender luego los ajustes de la insulina terapia que vamos a ver después
+
+93
+00:08:10,350 --> 00:08:16,990
+acuérdense que se da una dosis de insulina gargina de una insulina ultra lenta y luego
+
+94
+00:08:16,990 --> 00:08:22,390
+de eso se dan estos tres picks con la insulina ultra rápida ya que son lo que
+
+95
+00:08:22,390 --> 00:08:27,230
+estaría ahí los tres de color azul sería como el pick de la acción de la insulina
+
+96
+00:08:27,230 --> 00:08:31,190
+ultra rápida o bien la insulina cristalina en el sentido en que recordemos que el esquema
+
+97
+00:08:31,190 --> 00:08:35,950
+intensificado puede ser con cualquiera de esas dos y bueno esa fue esta clase de ahí
+
+98
+00:08:35,950 --> 00:08:38,750
+vamos a ir viendo los ajustes que va a quedar un poquito más claro que estén bien

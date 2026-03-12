@@ -1,0 +1,271 @@
+1
+00:00:00,000 --> 00:00:07,540
+Hola, abuela, ¿cómo están? Hablemos del hipopituitarismo, recordando que sus causas
+
+2
+00:00:07,540 --> 00:00:11,820
+son múltiples. Las más frecuentes son los tumores hipoficiarios que van creciendo y
+
+3
+00:00:11,820 --> 00:00:16,540
+van destruyendo a la hipófici. Segundo lugar, la apoplegía hipoficiaria, que es justamente
+
+4
+00:00:16,540 --> 00:00:21,580
+una complicación de un tumor que se infarta y que eventualmente evoluciona a un infarto
+
+5
+00:00:21,580 --> 00:00:25,740
+de la hipóficis completa. Aparte de eso, cualquier cosa que ataque directamente
+
+6
+00:00:25,740 --> 00:00:32,800
+a la hipófici, un traumatismo, una neurocirugía, la radioterapia en un tumor cerebral por
+
+7
+00:00:32,800 --> 00:00:38,880
+ejemplo, el síndrome de Sheehan, que es este infarto hipoficiario secundario a una
+
+8
+00:00:38,880 --> 00:00:44,880
+hemorragia puerperal y finalmente la hipoficitis autoinmune, entre muchas otras causas, pero
+
+9
+00:00:44,880 --> 00:00:49,040
+las que están ahí en particular, los tumores ciertos, son las más frecuentes.
+
+10
+00:00:49,040 --> 00:00:53,240
+¿Cuál es su clínica? En general se va a asociar a una hipoproducción de
+
+11
+00:00:53,240 --> 00:00:58,160
+las distintas hormonas que son liberadas o producidas en la hipóficis. Dígase,
+
+12
+00:00:58,160 --> 00:01:02,080
+va a venir con clínica de insuficiencia superrenal, con náuseas, astenia, dinamia,
+
+13
+00:01:02,080 --> 00:01:05,720
+eventualmente con una crisis superrenal, con toda la clínica del hipotiroidismo,
+
+14
+00:01:05,720 --> 00:01:11,560
+astenia, intolerancia al frío, constipación, la piel seca, etcétera, con hipoconadismo,
+
+15
+00:01:11,560 --> 00:01:16,400
+con difusión sexual, disminución de la libido, astenia, con diabetes insípida,
+
+16
+00:01:16,400 --> 00:01:22,580
+dígase con poliguria, polidipsia, con tendencia a la hipernatremia, con enanismo,
+
+17
+00:01:22,580 --> 00:01:26,040
+en el caso de los niños que se quedan con talla baja, a diferencia de los adultos en
+
+18
+00:01:26,040 --> 00:01:30,920
+que ya crecieron, así que no importa tanto la hormona de crecimiento en ellos. Y finalmente,
+
+19
+00:01:30,920 --> 00:01:34,800
+en el caso de que no haya producción de prolactina en una puérpera, ¿cierto?,
+
+20
+00:01:34,800 --> 00:01:38,040
+se va a ver a galáctea, dígase, no va a producir lecho. O sea,
+
+21
+00:01:38,040 --> 00:01:41,920
+va a estar con amenorrea y con a galáctea en el caso de esa mujer.
+
+22
+00:01:41,920 --> 00:01:46,920
+¿El diagnóstico cómo se hace? En primer lugar, con exámenes de laboratorio,
+
+23
+00:01:46,920 --> 00:01:51,640
+con las pruebas hormonales, que recuerden que al estar dañada la hipóficis va a
+
+24
+00:01:51,640 --> 00:01:56,200
+ver una hipoproducción de las hormonas estimulantes, de las tropinas, ¿cierto?,
+
+25
+00:01:56,200 --> 00:02:00,920
+más una disminución de los niveles plasmáticos también de las hormonas finales,
+
+26
+00:02:00,920 --> 00:02:06,840
+ejemplo de cortisol, de la tiroxina, etcétera. Y una vez que yo me encuentro con este perfil
+
+27
+00:02:06,840 --> 00:02:12,840
+hormonal, en ese caso debo ir a solicitar una resonancia magnética nuclear de hipóficis
+
+28
+00:02:12,840 --> 00:02:17,280
+o al menos un ataque de cillaturka, ¿cierto?, para ir a buscar la causa.
+
+29
+00:02:17,280 --> 00:02:20,840
+Ejemplos, si es que hay un tumor o si es que hay alguna otra cosa que me explique esto.
+
+30
+00:02:20,840 --> 00:02:26,120
+Si es que veo una cillaturka vacía, lo más probable es que hubo un infarto de la hipóficis
+
+31
+00:02:26,120 --> 00:02:31,680
+y que por lo mismo desapareció y fue llenado ese espacio con líquido céfalo requidio.
+
+32
+00:02:31,680 --> 00:02:38,920
+¿Cuál es el tratamiento del hipopituitarismo? Lo más importante es que hay que suplementar
+
+33
+00:02:38,920 --> 00:02:44,160
+la hormona final, no la hormona hipoficiaria, sino que la hormona de las glándulas finales,
+
+34
+00:02:44,400 --> 00:02:51,400
+Dígase, el cortisol, y aquí está subrayado porque es la primera hormona que se debe suplementar
+
+35
+00:02:51,400 --> 00:02:56,280
+en el sentido en que si es que empiezo con la leotiroxina, por ejemplo, le puedo desencadenar
+
+36
+00:02:56,280 --> 00:03:01,640
+una crisis superrenal más o menos grave. Así que el cortisol, repito, es la primera.
+
+37
+00:03:01,640 --> 00:03:07,240
+Segundo lugar, la ADH, que se usa un análogo que se llama la Desmopresina o hay algunos
+
+38
+00:03:07,240 --> 00:03:12,120
+otros también. En tercer lugar, la leotiroxina. En cuarto lugar, la terapia de reemplazo hormonal
+
+39
+00:03:12,120 --> 00:03:17,480
+sexual, que es con testosterona en el caso de los hombres y es con estrógenos en el
+
+40
+00:03:17,480 --> 00:03:21,840
+caso de las mujeres y en el caso de que sea una mujer con útero, es estrógeno
+
+41
+00:03:21,840 --> 00:03:27,120
+más progesterona. En el caso de los niños, además la hormona de crecimiento, en el
+
+42
+00:03:27,120 --> 00:03:31,520
+caso de los adultos, en cambio no. Y finalmente, para la falta de prolactina,
+
+43
+00:03:31,520 --> 00:03:37,680
+no se da la prolactina en sí, sino que simplemente se le da leche en fórmula
+
+44
+00:03:38,680 --> 00:03:44,920
+Veamos un par de casos muy rápido. El primero de ellos, una mujer de 25 años que tiene una
+
+45
+00:03:44,920 --> 00:03:50,080
+hemorragia post parto severa que es manejada, pero luego de eso refiere malestar general,
+
+46
+00:03:50,080 --> 00:03:55,080
+astenia, que son síntomas bien inespecíficos, cierto, náuseas, que nuevamente son bastante
+
+47
+00:03:55,080 --> 00:04:00,080
+inespecíficas, pero se asocian un poco a la insuficiencia superrenal más que a otras
+
+48
+00:04:00,080 --> 00:04:05,080
+alteraciones endocrinas, a ausencia de leche materna, o sea, a galáctea y sigue en
+
+49
+00:04:05,080 --> 00:04:09,560
+amenorrea, a pesar de que ya ha pasado un tiempo, eso se puede explicar tanto por el
+
+50
+00:04:09,560 --> 00:04:13,920
+post parto, cierto, por la lactancia materna, pero en el caso de que no tenga lactancia
+
+51
+00:04:13,920 --> 00:04:19,200
+materna, hay que ir a sospechar que hay un hipo-pituitarismo, en este caso por un
+
+52
+00:04:19,200 --> 00:04:24,480
+síndrome de Sheehan, que si se acuerdan era este infarto hipoficiario secundaria a esta
+
+53
+00:04:24,480 --> 00:04:29,800
+hemorragia peripheral importante. Recordemos que durante el embarazo, la hipoficia va
+
+54
+00:04:29,800 --> 00:04:35,680
+creciendo tanto para la producción de las hormonas sexuales, que de una u otra forma
+
+55
+00:04:35,680 --> 00:04:40,640
+regulan el embarazo, como para la producción de prolactina, que la hipofici esté lista
+
+56
+00:04:40,640 --> 00:04:46,360
+para que se produzca bastante leche en el post parto, y en este caso, al haber una
+
+57
+00:04:46,360 --> 00:04:51,480
+hemorragia, cierto, se produce hipotensión arterial, la hipofici es irrigada por
+
+58
+00:04:51,480 --> 00:04:56,440
+un sistema porta, o sea, con poco oxígeno, cierto, y eso hace que finalmente sea
+
+59
+00:04:56,440 --> 00:05:01,000
+un lugar muy sensible y que se pueda infartar, porque ha crecido y porque viene con una
+
+60
+00:05:01,000 --> 00:05:06,160
+irrigación que no es óptima. Finalmente, hombre de 22 años que tiene astenia, constipación,
+
+61
+00:05:06,160 --> 00:05:10,400
+intolerancia al frío, hasta ahí es un hipotiroidismo, cierto, pero viene con
+
+62
+00:05:10,400 --> 00:05:16,000
+disminución del alivio, que es más del hipogonadismo, el alivio es el deseo sexual,
+
+63
+00:05:16,000 --> 00:05:20,920
+cierto, más cefalea y disminución del campo visual, que en ese caso ya me orienta
+
+64
+00:05:20,920 --> 00:05:25,560
+un poco más a un tumor de hipófisis, recordando que los tumores hipoficiarios
+
+65
+00:05:25,560 --> 00:05:31,560
+están en estrecha relación con el quiasma óptico y en general se produce esta afectación
+
+66
+00:05:31,560 --> 00:05:36,440
+bitemporal del campo visual, ya sea con una hemianopsia heterónima bitemporal o con una
+
+67
+00:05:36,440 --> 00:05:41,200
+cuadratopsia bitemporal también. Bueno, eso es todo, nos vemos en el siguiente video y
+
+68
+00:05:41,200 --> 00:05:43,080
+vamos a seguir con más temas de endocrino, que estén bien.

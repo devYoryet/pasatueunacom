@@ -1,0 +1,451 @@
+1
+00:00:03,310 --> 00:00:08,310
+Hola, hola. ¿Cómo están? Hablemos del coqueluche, que es lo mismo que la tos convulsiva o tos ferina,
+
+2
+00:00:08,310 --> 00:00:13,810
+y que si viene una enfermedad que está incluida en el Plan Nacional de Inmunizaciones,
+
+3
+00:00:13,810 --> 00:00:18,310
+todos los años hay algunos casos y cada cierto tiempo hay algunos brotes importantes
+
+4
+00:00:18,310 --> 00:00:22,310
+que suelen no ser severos en niños vacunados, pero sí suelen ser un poco más severos
+
+5
+00:00:22,310 --> 00:00:27,310
+en lactantes muy pequeños, ejemplo en menores de tres meses, y en la gente no vacunada también.
+
+6
+00:00:27,310 --> 00:00:31,310
+Empecemos con la causa. La causa es una bacteria que se llama Bordetella pertussis.
+
+7
+00:00:31,310 --> 00:00:36,310
+Ahora hay algunos casos que son por otras bordetelas como la parapertussis o incluso
+
+8
+00:00:36,310 --> 00:00:41,310
+algunas más raras también, que son bordetelas con un apellido ya más raro que da igual.
+
+9
+00:00:41,310 --> 00:00:48,310
+Ahora hay otras causas de síndrome coqueluchoidio también, que no es un coqueluche propiamente tal,
+
+10
+00:00:48,310 --> 00:00:52,310
+pero viene con una clínica muy similar, como ejemplo el dicoplasma, algunos adenovirus,
+
+11
+00:00:52,310 --> 00:00:56,310
+el mismo virus incisial, eventualmente la aspiración de un cuerpo extraño, por ejemplo,
+
+12
+00:00:57,310 --> 00:01:03,310
+pero se le llama coqueluche A, el síndrome coqueluchoidio que es causado por estas bacterias
+
+13
+00:01:03,310 --> 00:01:05,310
+del género bordetela por si acaso.
+
+14
+00:01:05,310 --> 00:01:08,310
+¿Cuál es su clínica? Se divide en tres fases.
+
+15
+00:01:08,310 --> 00:01:11,310
+En la fase catarral, que un catarro es un refrigo por si acaso,
+
+16
+00:01:11,310 --> 00:01:15,310
+la fase paroxística, que es la más clásica la que uno se aprende,
+
+17
+00:01:15,310 --> 00:01:22,310
+y finalmente la fase de convalescencia, que acuérdense se escribe convalescencia con C,
+
+18
+00:01:22,310 --> 00:01:26,310
+no es con SC, no es convalescencia, sino que convalescencia,
+
+19
+00:01:26,310 --> 00:01:31,310
+y sepan que la duración de la fase catarral habitualmente es una a dos semanas,
+
+20
+00:01:31,310 --> 00:01:36,310
+la de la fase paroxística es dos a ocho semanas, o sea dos semanas hasta dos meses,
+
+21
+00:01:36,310 --> 00:01:41,310
+puede durar mucho tiempo, y la de convalescencia dura varias semanas,
+
+22
+00:01:41,310 --> 00:01:46,310
+incluso puede durar varios meses, es algo que el cuadro completo es muy molesto
+
+23
+00:01:46,310 --> 00:01:51,310
+y que puede dejar contos a una persona durante mucho, mucho tiempo.
+
+24
+00:01:51,310 --> 00:01:55,310
+Ahora, la fase catarral, ya dijimos, es similar a un refrigo,
+
+25
+00:01:55,310 --> 00:01:59,310
+es absolutamente indistinguible de un refrigo, las únicas dos cosas que son
+
+26
+00:01:59,310 --> 00:02:03,310
+un poco más características es que la rinorrea se mantiene bien acuosa
+
+27
+00:02:03,310 --> 00:02:07,310
+y es raro que se vuelva verde o que se vuelva purulenta,
+
+28
+00:02:07,310 --> 00:02:10,310
+y aparte de eso que habitualmente viene sin fiebre.
+
+29
+00:02:10,310 --> 00:02:15,310
+La fase paroxística, que es la más característica, uno habla de la tos quintosa,
+
+30
+00:02:15,310 --> 00:02:18,310
+en el sentido en que tose por lo menos cinco veces,
+
+31
+00:02:18,310 --> 00:02:21,310
+muchas veces se habla que viene con accesos de tos que es toser, toser, toser,
+
+32
+00:02:21,310 --> 00:02:24,310
+toser, toser, toser, toser, toser, toser, toser, toser, toser, toser,
+
+33
+00:02:24,310 --> 00:02:28,310
+respira con el gallito inspiratorio, a veces es tanta la tos que salen
+
+34
+00:02:28,310 --> 00:02:32,310
+algunas petequias en la cara, por ejemplo, es frecuente que haga apneas,
+
+35
+00:02:32,310 --> 00:02:36,310
+en particular en los cuadros más graves y en los lactantes,
+
+36
+00:02:36,310 --> 00:02:39,310
+en los bebés más pequeños, a veces el único síntoma que hay
+
+37
+00:02:39,310 --> 00:02:42,310
+son apneas respiratorias, pero ese es un signo de gravedad
+
+38
+00:02:42,310 --> 00:02:47,310
+y se ve en niños no vacunados y en lactantes, mientras más chicos, mayor riesgo.
+
+39
+00:02:47,310 --> 00:02:54,390
+riesgo. A veces la tos es tan intensa que es una tos emetizante e incluso en algunos casos más
+
+40
+00:02:54,390 --> 00:03:00,270
+graves viene con convulsiones también. Ahora, la fisiopatología de las convulsiones es multicausal,
+
+41
+00:03:00,270 --> 00:03:06,390
+entre la hipóxia por un lado, eventualmente alguna especie de petequia cerebral también,
+
+42
+00:03:06,390 --> 00:03:11,390
+etcétera, y la misma toxina de la pertusis puede actuar también a nivel del sistema
+
+43
+00:03:11,390 --> 00:03:18,070
+nervioso, pero lo más importante es la tos, que puede ser emetizante y que viene con esta tos
+
+44
+00:03:18,070 --> 00:03:24,230
+quintosa, y las apneas, en el sentido en que se ha visto muchos casos de lactante que solamente
+
+45
+00:03:24,230 --> 00:03:28,070
+tiene apneas y que no las tenía de antes, lo que hay que ir a descartar es justamente un
+
+46
+00:03:28,070 --> 00:03:33,470
+coqueluche. Finalmente, la fase de convalecencia sigue con tos ya no tan intensa, pero queda con
+
+47
+00:03:33,470 --> 00:03:37,750
+una tos residual que puede durar bastante tiempo y que se ve en hartas otras infecciones
+
+48
+00:03:37,750 --> 00:03:43,350
+respiratorias también. Ahora, como cosas importantes, el examen pulmonar suele ser normal,
+
+49
+00:03:43,350 --> 00:03:47,790
+o bien medir con alteraciones bien inespecíficas, uno que otro crépito, por ejemplo,
+
+50
+00:03:47,790 --> 00:03:53,710
+lo otro habitualmente viene sin fiebre, suele ser una enfermedad no febril en el sentido
+
+51
+00:03:53,710 --> 00:03:58,670
+en que no hay invasión de la bacteria hacia el resto del cuerpo, sino que se queda en la
+
+52
+00:03:58,670 --> 00:04:03,790
+mucosa respiratoria. Aparte de esto, hay algunos pocos casos, en particular en niños,
+
+53
+00:04:03,790 --> 00:04:08,270
+en que sí pueden medir con algo de fiebre, pero habitualmente una fiebre muy leve,
+
+54
+00:04:08,270 --> 00:04:14,190
+habitualmente subfebril solamente. Y finalmente, es muy frecuente que haya contactos con tos,
+
+55
+00:04:14,190 --> 00:04:20,470
+si es que hay un bebé que está con un coqueluche, lo más probable es que alguno
+
+56
+00:04:20,470 --> 00:04:25,670
+de los cuidadores va a estar con tos también en el sentido en que la vacunación evita la
+
+57
+00:04:25,670 --> 00:04:32,230
+enfermedad grave, pero no evita o al menos no de buena forma la enfermedad leve. Ahora,
+
+58
+00:04:32,230 --> 00:04:37,750
+el diagnóstico de esto, sabiendo que se puede confundir con otras cosas que generan síntomas
+
+59
+00:04:37,750 --> 00:04:42,790
+bien similares, que ya dijimos, por ejemplo, un cuerpo extraño, una infección por micoplasma
+
+60
+00:04:42,790 --> 00:04:49,630
+o el mismo asma, por ejemplo, el diagnóstico debe hacerse confirmando la presencia de la
+
+61
+00:04:49,630 --> 00:04:55,390
+bordetela pertussis. Y la forma de elección actualmente es la PCR, la reacción en cadena
+
+62
+00:04:55,390 --> 00:05:00,990
+de la polimerasa, en el sentido en que la antigua inmunofluorescencia directa ha quedado
+
+63
+00:05:00,990 --> 00:05:07,550
+más o menos en desuso. O sea, actualmente se va a buscar directamente con una PCR más que con
+
+64
+00:05:07,550 --> 00:05:13,430
+la IFD. Ahora, si bien es el gold standard, habitualmente se pide más un cultivo en el
+
+65
+00:05:13,430 --> 00:05:18,510
+sentido en que hay algunos casos en que la PCR puede venir con algún falso negativo,
+
+66
+00:05:18,510 --> 00:05:23,190
+pero sepan que el cultivo es todavía menos sensible que la PCR, pero aún así se suelen
+
+67
+00:05:23,190 --> 00:05:28,070
+pedir ambos exámenes. El cultivo me sirve además para ver si se desarrolla alguna otra
+
+68
+00:05:28,070 --> 00:05:35,830
+bacteria adicional, pero repito, es poco sensible y por lo tanto no es un examen de elección.
+
+69
+00:05:35,830 --> 00:05:41,670
+Acuérdense que la bordetela es parte de las bacterias que se llaman fastidiosas y son un
+
+70
+00:05:41,670 --> 00:05:45,850
+fastidio de cultivar porque se mueren fácil y por lo mismo el cultivo no tiene buen
+
+71
+00:05:45,850 --> 00:05:52,030
+rendimiento. Ahora, la inmunoglobulina G para la toxina de la pertussis sí sirve,
+
+72
+00:05:52,030 --> 00:05:55,950
+pero solamente sirve en los casos en que ya lleva mucho tiempo de síntomas. Lleva,
+
+73
+00:05:55,950 --> 00:06:00,830
+por ejemplo, más de cuatro semanas y en ese caso uno dice la enfermedad puede haberse superado,
+
+74
+00:06:00,830 --> 00:06:04,590
+al menos desde el punto de vista de la infección, sigue todavía con los síntomas por toda la
+
+75
+00:06:04,590 --> 00:06:10,310
+inflamación y el daño de la mucosa respiratoria que genera esta bacteria, pero ahí hago el
+
+76
+00:06:10,310 --> 00:06:14,910
+diagnóstico ya más tardío, más retrospectivo cuando el tratamiento antibiótico ya no me
+
+77
+00:06:14,910 --> 00:06:20,550
+sirve, pero al menos sí me sirve como para saber que lo que tuvo fue efectivamente un
+
+78
+00:06:20,550 --> 00:06:26,990
+coqueluche. Aparte de esto, en el caso que yo tenga a un paciente que sea contacto de alguien
+
+79
+00:06:26,990 --> 00:06:31,590
+que ha sido diagnosticado de coqueluche y que esté con síntomas, en ese caso se maneja como
+
+80
+00:06:31,590 --> 00:06:37,670
+un caso confirmado y de hecho se considera un caso confirmado. La radiografía de TORAC suele
+
+81
+00:06:37,670 --> 00:06:42,670
+solicitarse igual, como para ver que no haya un cuerpo extraño o alguna otra cosa, pero lo más
+
+82
+00:06:42,670 --> 00:06:47,030
+frecuente es que esté normal al igual que el examen físico porque, repito, no es una
+
+83
+00:06:47,030 --> 00:06:54,230
+bacteria invasora, no es una bacteria que afecte el parénquima pulmonar propiamente tal. Y aparte
+
+84
+00:06:54,230 --> 00:06:59,690
+de esto el hemograma se suele solicitar y lo que se ve acá es una linfocitosis bastante
+
+85
+00:06:59,690 --> 00:07:07,310
+elevada, de hecho no es infrecuente ver arriba de 20 mil, de 30 mil, de 50 mil, de hecho
+
+86
+00:07:07,310 --> 00:07:14,310
+las clásicas reacciones leucemoides por linfocito se describen en el coqueluche. Ahora,
+
+87
+00:07:14,310 --> 00:07:20,350
+¿cuál es el tratamiento de esta enfermedad? Pues son los macrólidos, son con antibióticos y
+
+88
+00:07:20,350 --> 00:07:25,350
+sepan que el que más se usa es la acetromicina que se puede dejar solamente por cinco días,
+
+89
+00:07:25,350 --> 00:07:30,110
+aparte de eso como alternativa está la claritromicina y la eritromicina que se
+
+90
+00:07:30,110 --> 00:07:34,710
+usan habitualmente por 10 a 14 días y de la acetromicina hay que saber la dosis,
+
+91
+00:07:34,710 --> 00:07:38,830
+de las pocas en las cuales hay que saberla y son 10 miligramos por kilo al día por
+
+92
+00:07:38,830 --> 00:07:44,670
+cinco días, es un fármaco bien fácil de administrar. Ahora, como alternativa en el caso
+
+93
+00:07:44,670 --> 00:07:49,950
+de que tenga alguna intolerancia o alergia a los macrólidos, que acuérdense que muchas
+
+94
+00:07:49,950 --> 00:07:53,710
+veces caen muy mal desde el punto de vista digestivo, se puede usar el cotrimoxazol
+
+95
+00:07:53,710 --> 00:08:00,150
+sabiendo que de elección es los macrólidos. Ahora, la clásica pregunta es ¿pero el
+
+96
+00:08:00,150 --> 00:08:04,510
+tratamiento sirve en verdad en el sentido en que es una enfermedad habitualmente
+
+97
+00:08:05,470 --> 00:08:11,310
+y que muchas veces los síntomas siguen después de que la infección ya ha sido superada,
+
+98
+00:08:11,310 --> 00:08:15,550
+ya ha sido manejada por el sistema inmune y la verdad es que se dice que sí sirve en
+
+99
+00:08:15,550 --> 00:08:20,590
+particular para disminuir el contagio, eso es como uno de los objetivos más importantes
+
+100
+00:08:20,590 --> 00:08:25,550
+en el manejo del coqueluche, es evitar que se siga contagiando y segundo lugar,
+
+101
+00:08:25,550 --> 00:08:30,430
+cuando se administra al inicio de los síntomas, disminuye la duración de los síntomas,
+
+102
+00:08:30,430 --> 00:08:34,830
+si se administra tarde, la verdad es que ya no sirve absolutamente para nada, es más,
+
+103
+00:08:34,830 --> 00:08:39,750
+si lleva más de 21 días de síntomas, la evidencia dice que no sirve y que no se
+
+104
+00:08:39,750 --> 00:08:45,670
+debería indicar, pero en la práctica en los niños o en los adultos con algún factor de
+
+105
+00:08:45,670 --> 00:08:50,830
+riesgo que se les confirma esta enfermedad, aunque lleven más de tres semanas, se les deja
+
+106
+00:08:50,830 --> 00:08:55,630
+los cinco días de acetromisina igual, o sea, repito, después de tres semanas ya no sirve,
+
+107
+00:08:55,630 --> 00:09:00,830
+pero en niños y en los pacientes con algún factor de riesgo eventualmente sí se deja el
+
+108
+00:09:00,830 --> 00:09:05,510
+tratamiento igual. Ahora, los antitusivos, la verdad es que lamentablemente en este caso
+
+109
+00:09:05,510 --> 00:09:09,950
+no han demostrado servir, así que nos indican, aunque si alguien quiere dejarle
+
+110
+00:09:09,950 --> 00:09:14,510
+el antitusivo ejemplo en la última fase, eventualmente le puede servir de algo,
+
+111
+00:09:14,510 --> 00:09:19,710
+pero no hay evidencia que lo respalde y finalmente acuérdense en el caso del coqueluche,
+
+112
+00:09:19,710 --> 00:09:23,470
+existe un manejo de los contactos que es lo que vamos a ver en el siguiente vídeo,
+
+113
+00:09:23,470 --> 00:09:24,470
+así que ahí nos vemos, que estén bien.

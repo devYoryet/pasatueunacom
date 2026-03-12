@@ -1,0 +1,423 @@
+1
+00:00:00,000 --> 00:00:06,480
+Hola hola, ¿cómo están? En este vídeo vamos a hablar de el hemograma en las
+
+2
+00:00:06,480 --> 00:00:10,640
+infecciones virales, bacterianas, por parásitos, etcétera. Y vamos a mencionar
+
+3
+00:00:10,640 --> 00:00:14,540
+al menos brevemente la reacción leucemoide o la reacción
+
+4
+00:00:14,540 --> 00:00:18,320
+leucemoide. Así que empecemos con el hemograma en distintos tipos de
+
+5
+00:00:18,320 --> 00:00:22,720
+infecciones y recordemos que las infecciones por distintos agentes, lo
+
+6
+00:00:22,720 --> 00:00:26,640
+más frecuente es que produzcan algún grado de leucocitosis, o sea que
+
+7
+00:00:26,640 --> 00:00:29,680
+los glóbulos blancos se leven arriba del punto de corte máximo que es
+
+8
+00:00:29,680 --> 00:00:34,480
+10 mil, 11 mil por milímetro cúbico, pero habitualmente bajo 20 mil. Sobre
+
+9
+00:00:34,480 --> 00:00:39,200
+eso uno ya empieza a sospechar en otras enfermedades como en una leucemia, por
+
+10
+00:00:39,200 --> 00:00:43,060
+ejemplo, pero vamos a ver que no es tan así que perfectamente puede elevarlo
+
+11
+00:00:43,060 --> 00:00:47,560
+mucho más y seguir siendo una infección, no un cáncer. Segundo lugar, lo
+
+12
+00:00:47,560 --> 00:00:50,080
+más frecuente es que las infecciones no generen ni anemia ni
+
+13
+00:00:50,080 --> 00:00:54,040
+trombopenia, pero eso tampoco están así en el sentido en que hay
+
+14
+00:00:54,040 --> 00:00:57,960
+infecciones que sí generan anemia, ejemplo las infecciones que producen
+
+15
+00:00:57,960 --> 00:01:02,880
+hemólisis como la malaria o las infecciones que producen una anemia por
+
+16
+00:01:02,880 --> 00:01:06,160
+enfermedad crónica como la tuberculosis y lo mismo con la trombopenia, el
+
+17
+00:01:06,160 --> 00:01:09,960
+anta, por ejemplo, se caracteriza por ser trombopenico, el dengue puede
+
+18
+00:01:09,960 --> 00:01:13,520
+producir trombopenia también, etcétera. Ahora, ¿cómo se ven
+
+19
+00:01:13,520 --> 00:01:18,120
+habitualmente las infecciones por virus? Se ven con linfocitosis, o sea hay
+
+20
+00:01:18,120 --> 00:01:22,480
+leucocitosis, aumentan los glóbulos blancos, pero por aumento de los
+
+21
+00:01:22,480 --> 00:01:26,720
+linfocitos, o sea linfocitosis y en algunos casos bien específicos como
+
+22
+00:01:26,920 --> 00:01:30,400
+el virus de Epstein-Barr o el citomégalo virus, incluso estos linfocitos
+
+23
+00:01:30,400 --> 00:01:34,160
+pueden ser atípicos con algunas alteraciones celulares que hacen que
+
+24
+00:01:34,160 --> 00:01:37,560
+con mayor razón uno sospeche una leucemia, así que es importante
+
+25
+00:01:38,440 --> 00:01:42,280
+conocer el cuadro clínico que es distinto a la leucemia y acordarse
+
+26
+00:01:42,280 --> 00:01:45,840
+que una linfocitosis atípica no necesariamente es un cáncer, sino
+
+27
+00:01:45,840 --> 00:01:49,120
+que puede ser perfectamente una infección viral. Respecto de las
+
+28
+00:01:49,120 --> 00:01:53,000
+bacterias, lo más frecuente es que haya neutrofilia, o sea leucocitosis
+
+29
+00:01:53,000 --> 00:01:57,080
+por elevación de los neutrófilos y desviación izquierda, o sea que
+
+30
+00:01:57,080 --> 00:02:00,600
+de los neutrófilos en vez de haber solamente segmentados, que son
+
+31
+00:02:00,600 --> 00:02:05,720
+las formas más maduras, empiezan a aparecer los baciliformes,
+
+32
+00:02:05,720 --> 00:02:08,840
+los mielocitos, los promielocitos, ese tipo de cosas, en particular
+
+33
+00:02:08,840 --> 00:02:12,120
+los baciliformes. De hecho uno habla de desviación izquierda
+
+34
+00:02:12,120 --> 00:02:16,080
+cuando el porcentaje de baciliformes es más del 10% del total
+
+35
+00:02:16,080 --> 00:02:20,640
+de neutrófilo. Algunas bacterias gramnegativas, no todas, solamente
+
+36
+00:02:21,400 --> 00:02:26,000
+generan neutropenia, o sea no leucocitosis, sino que leucopenia
+
+37
+00:02:26,000 --> 00:02:30,480
+con neutropenia, más desviación izquierda y en este caso uno
+
+38
+00:02:30,480 --> 00:02:34,440
+habla del famoso hemogramatífico, en el sentido en que la clásica
+
+39
+00:02:34,440 --> 00:02:37,480
+bacteria que produce el hemogramatífico es justamente la salmonella
+
+40
+00:02:37,480 --> 00:02:41,880
+tifida y la fioritifuidera. Finalmente algunos parásitos y aquí
+
+41
+00:02:41,880 --> 00:02:46,280
+no todos producen eosinofilia, ejemplo eláscaris lumbricoides,
+
+42
+00:02:46,280 --> 00:02:50,200
+la larva migras, la triquina, etcétera, pero repito, no todos
+
+43
+00:02:50,200 --> 00:02:54,440
+y no en todas las etapas del ciclo del parásito se asocian
+
+44
+00:02:54,440 --> 00:02:58,600
+a eosinofilia. Hablemos brevemente de la reacción leucemoide,
+
+45
+00:02:58,600 --> 00:03:02,080
+en primer lugar cuál es el concepto, qué es esto, y en general
+
+46
+00:03:02,080 --> 00:03:05,000
+es que se leven demasiado los glóbulos blancos al punto de
+
+47
+00:03:05,000 --> 00:03:08,440
+simular una leucemia, pero en contexto de una infección,
+
+48
+00:03:08,440 --> 00:03:12,880
+habitualmente una infección severa que es capaz de generar
+
+49
+00:03:12,920 --> 00:03:16,000
+una respuesta inmune o una respuesta inflamatoria más o menos
+
+50
+00:03:16,000 --> 00:03:20,240
+importante. Ahora, cuál es el punto de corte arriba de 50.000,
+
+51
+00:03:20,240 --> 00:03:24,000
+aunque hay algunos autores que fijan el punto de corte en 30.000,
+
+52
+00:03:24,000 --> 00:03:28,640
+pero 50.000 es el más aceptado que uno ve en más textos,
+
+53
+00:03:28,640 --> 00:03:32,280
+así que repito, perfectamente una infección puede venir
+
+54
+00:03:32,280 --> 00:03:35,480
+con más de 50.000 y lo más probable es que no sea una
+
+55
+00:03:35,480 --> 00:03:39,240
+leuceme, sino que sea esta reacción leucemoide.
+
+56
+00:03:39,240 --> 00:03:42,440
+Ahora, ¿cuáles son las infecciones clásicas que se asocian
+
+57
+00:03:42,440 --> 00:03:48,360
+a una reacción leucemoide? Número 1, serían la sepsis severa,
+
+58
+00:03:48,360 --> 00:03:51,040
+por ejemplo una neumonía o una piolonefitis muy severa
+
+59
+00:03:51,040 --> 00:03:54,400
+eventualmente puede desencadenarla. Segundo lugar,
+
+60
+00:03:54,400 --> 00:03:57,280
+las infecciones por el clostridium difficile,
+
+61
+00:03:57,280 --> 00:04:00,360
+que ahora se llama clostridioides difficile,
+
+62
+00:04:00,360 --> 00:04:03,360
+la tuberculosis también son de las más frecuentes.
+
+63
+00:04:03,360 --> 00:04:07,360
+Aparte de esto, el coqueluche, la tosferina,
+
+64
+00:04:08,320 --> 00:04:11,680
+por detela pertussis, que en este caso es distinta
+
+65
+00:04:11,680 --> 00:04:14,160
+porque es una reacción no por neutrófilo,
+
+66
+00:04:14,160 --> 00:04:16,760
+sino que por linfocitos, o sea, es una reacción
+
+67
+00:04:16,760 --> 00:04:19,760
+leucemoide de tipo linfática y es la más clásica además.
+
+68
+00:04:19,760 --> 00:04:22,840
+Y finalmente existe también la larva migrante visceral
+
+69
+00:04:22,840 --> 00:04:26,920
+que puede producirla pero con marcada de ocinofilia habitualmente.
+
+70
+00:04:26,920 --> 00:04:31,720
+Ahora, lo que más importa es infección más una leucocitose
+
+71
+00:04:31,720 --> 00:04:33,920
+arriba de 50.000 con alguna probabilidad,
+
+72
+00:04:33,920 --> 00:04:37,200
+no es una leucemia, sino que es una reacción leucemoide.
+
+73
+00:04:37,240 --> 00:04:40,760
+¿Cuál es la importancia? Justamente que puede ser una leucemia
+
+74
+00:04:40,760 --> 00:04:43,880
+y la pregunta que yo me hago es, ¿será que tengo una infección
+
+75
+00:04:43,880 --> 00:04:46,880
+y que estoy con esta reacción o será que tengo una leucemia?
+
+76
+00:04:46,880 --> 00:04:48,880
+Y por lo mismo, las leucemias se infectan, ¿cierto?
+
+77
+00:04:48,880 --> 00:04:50,960
+Y que por eso está con una infección
+
+78
+00:04:50,960 --> 00:04:53,800
+y lo que estoy viendo es el hemograma de la leucemia.
+
+79
+00:04:53,800 --> 00:04:56,360
+Así que la importancia es justamente eso,
+
+80
+00:04:56,360 --> 00:04:58,040
+es o no leucemia.
+
+81
+00:04:58,040 --> 00:05:01,280
+Ahora, algunos como elementos del hemograma
+
+82
+00:05:01,280 --> 00:05:03,200
+que me ayudan a diferenciarlo.
+
+83
+00:05:03,200 --> 00:05:05,760
+Número uno, en la reacción leucemoide
+
+84
+00:05:05,800 --> 00:05:08,840
+la inmensa mayoría de los glóbulos blancos son maduros,
+
+85
+00:05:08,840 --> 00:05:10,360
+es decir, que está lleno de blastos,
+
+86
+00:05:10,360 --> 00:05:14,400
+en ese caso es una leucemia, no es una reacción leucemoide.
+
+87
+00:05:14,400 --> 00:05:17,320
+Segundo lugar, suele venir con deficien izquierda
+
+88
+00:05:17,320 --> 00:05:19,920
+y suele venir sin anemia y sin trombopenia,
+
+89
+00:05:19,920 --> 00:05:22,680
+o sea, puede venir exactamente igual a una leucemia
+
+90
+00:05:22,680 --> 00:05:24,240
+miloide crónica, fíjense.
+
+91
+00:05:24,240 --> 00:05:26,720
+La leucemia miloide crónica, así se puede confundir
+
+92
+00:05:26,720 --> 00:05:30,560
+eventualmente con una reacción leucemoide.
+
+93
+00:05:30,560 --> 00:05:33,560
+Pero lo más importante acá es el manejo.
+
+94
+00:05:33,600 --> 00:05:36,120
+Si yo tengo una infección más un hemograma
+
+95
+00:05:36,120 --> 00:05:38,240
+que puede ser una cosa o la otra,
+
+96
+00:05:38,240 --> 00:05:40,120
+que no es categórica de leucemia,
+
+97
+00:05:40,120 --> 00:05:42,320
+lo más probable es que sea una reacción leucemoide
+
+98
+00:05:42,320 --> 00:05:44,440
+y simplemente tengo que tratar la infección
+
+99
+00:05:44,440 --> 00:05:46,600
+con el antibiótico que corresponda.
+
+100
+00:05:46,600 --> 00:05:48,880
+Ahora, la inmensa mayoría va a normalizar,
+
+101
+00:05:48,880 --> 00:05:52,560
+así la gran mayoría, y si es que no normaliza,
+
+102
+00:05:52,560 --> 00:05:55,720
+si es que no mejora a pesar de haber tratado la infección,
+
+103
+00:05:55,720 --> 00:05:58,160
+pues bueno, era una leucemia y en ese caso
+
+104
+00:05:58,160 --> 00:05:59,760
+lo derivo al hematólogo para que le hagan
+
+105
+00:05:59,760 --> 00:06:02,080
+su biopsia médula ósea y lo traten.
+
+106
+00:06:02,080 --> 00:06:04,520
+Y eso es todo, nos vemos en los siguientes videos.

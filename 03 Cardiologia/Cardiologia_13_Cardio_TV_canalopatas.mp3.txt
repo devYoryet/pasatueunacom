@@ -1,0 +1,171 @@
+Hola, ¿cómo están? En este vídeo vamos a hablar de la taquicardia ventricular que es la
+
+arritmia más grave de todas, más algunas canalopatías que son enfermedades genéticas
+
+que se traducen eventualmente en taquicardia ventricular y en muerte súbita. Empecemos
+
+con la taquicardia ventricular monomorfa que es la clásica. Viene con esa imagen que lo
+
+más importante es que viene con un QRS ancho por su caso. En este caso la frecuencia está
+
+más o menos en 250 por minuto y lo más importante los QRS son monomorfos,
+
+dígase, todos tienen exactamente la misma forma. Habitualmente son causadas por una
+
+zona de reentrada y lo más frecuente es que haya tenido un infarto, por ejemplo,
+
+y que en el lugar del infarto queda una zona con una cicatriz cardíaca y se produce un
+
+fenómeno de reentrada, dígase, queda dando vueltas alrededor de la cicatriz, la onda de
+
+polarización del sistema éxito conductor. Además se pueden generar por las canalopatías,
+
+ejemplo el síndrome de brugada, el síndrome de cutelargo o por algunas otras alteraciones
+
+como la displace aritmogénica del ventrículo derecho, entre otras. Su clínica por reglas
+
+generales son palpitaciones, como buena taquirritmia. Muchas veces llega choqueado,
+
+de hecho, repito, es de las arritmias más graves y es la que habitualmente llega con
+
+hemodinamia inestable y que requiere de la cardioversión eléctrica inmediata y además
+
+se presenta muchas veces como muerte súbita, que acuérdense la definición de muerte súbita
+
+es un paciente que sin ninguna causa explicable de repente fallece, ¿cierto? Y que desde el
+
+inicio de los síntomas hasta el fallecimiento hay un tiempo muy corto que no permite que en
+
+la autopsia se pueda identificar la causa. Si es que alguien, ejemplo, viene con un infarto
+
+al corazón, se le muere un pedazo del corazón antes que el resto del cuerpo, en la autopsia se
+
+ve que en una parte del corazón hay un infarto. En cambio, si es que alguien se muere muy,
+
+muy rápido, ejemplo, en el mismo infarto, por ejemplo, pero se hace una arritmia y se muere
+
+en unos pocos minutos, en ese caso en la autopsia se ve que todo el cuerpo se murió
+
+al mismo tiempo y no se identifica la causa. Sigamos ahora. El diagnóstico de la
+
+taquicardia ventricular es obviamente con el electrocardiograma y lo más importante es una
+
+taquicardia con el QRS ancho y esa es la gran diferencia de las supraventriculares que son
+
+con el QRS angosto, como ejemplo la taquicardia senusal, el flater auricular, la fibrilación
+
+auricular o la taquicardia paroxística supraventricular. Todas esas son con el
+
+QRS angosto y en el momento en que ya veo un QRS ancho me asusto y yo digo que estoy
+
+en contexto de una taquicardia ventricular. El tratamiento de la taquicardia ventricular,
+
+si es que viene con hemodinamia inestable, que es lo más frecuente, en ese caso se hace
+
+la cardioversión eléctrica inmediata, si es que viene en paro, en cambio era un ritmo
+
+desfibrilable que se maneja con la desfibrilación inmediata y acuérdense la diferencia entre la
+
+desfibrilación y la cardioversión, es que la cardioversión es sincronizada con el ritmo
+
+del paciente y uno lo ajusta por si acaso en el desfibrilador, lo deja no en
+
+desfibrilación, sino que en cardioversión y al momento de yo gatillar, el aparato espera
+
+hasta que esté sincronizado y recién en ese momento tira la descarga y se está con
+
+hemodinamia estable, en cambio los antiarrítmicos específicos para la taquicardia ventricular
+
+es la amiodarona o bien la lidocaína, si es que no tuviera amiodarona disponible.
+
+Luego de eso, es muy frecuente que el paciente quede con un DAI, que quede con
+
+un desfibrilador automático implantable, en el sentido en que alguien que me está
+
+haciendo taquicardias ventriculares y que está con una causa que es irreversible tiene
+
+riesgo de repetirlas y de morirse, así que en la práctica el paciente queda con
+
+este desfibrilador implantable que es como un marcapaso que va leyendo siempre el ritmo
+
+cardíaco y en el momento en que cae en taquicardia ventricular o en alguna otra cosa
+
+más grave, hace un disparo cierto y saca al paciente de ese ritmo tan grave.
+
+Veamos muy rápido otro tipo de taquicardia ventricular que es la torsión de puntas,
+
+que viene muy de la mano con el síndrome de cutelargo, que también se conoce con su
+
+nombre en francés que es Toxaz de Poin y que lo más importante acá es que hay que saber
+
+reconocer la imagen, ahí se ve el patrón electrocardiográfico clásico de la torsión
+
+de punta, lo más importante viene con el QRC ancho porque es una taquicardia ventricular,
+
+en este caso va cambiando de forma, así que es una taquicardia ventricular de tipo
+
+polimorfa, las puntas van cambiando de dirección, hay algunas partes que apuntan hacia arriba,
+
+en otras hacia abajo y lo otro es que es muy clásico que se vea con ese patrón
+
+como sinusoidal que va como aumentando y disminuyendo la amplitud del QRS.
+
+La causa habitualmente de la torsión de puntas es el cutelargo, ya sea que venga
+
+con una canalopatía de base, de tipo genética, dígase con un síndrome de cutelargo congénito
+
+o ya sea por la hipocalcemia, hipomagnesemia que son alteraciones hidroelectrolíticas que
+
+alargan el cuté, la bradicardia igualmente alarga el cuté, así que en un paciente con
+
+un cutelargo yo debo evitar la bradicardia también, además de evitar la hipocalcemia,
+
+la hipocalcemia y la hipomagnesemia. El tratamiento de la torsión de puntas,
+
+si es que está con hemodinamia estable, por lo general es el sulfato de magnesio,
+
+fíjense, en este caso me cambia el antirrítmico, habíamos dicho que para la
+
+taquicardia ventricular común y corriente era la miodarona o la lidocaína, en este caso en
+
+cambio es el magnesio y la forma en que se da como sulfato de magnesio, más obviamente
+
+el tratamiento de la causa. En el caso del síndrome de cutelargo que es el que está
+
+sin la arridnia, sino que está de manera basal, si es que el intervalo cuté es más de 11 de los
+
+cuadraditos, más de 440 milisegundos, en ese caso, yo digo, viene con un cutelargo,
+
+tiene un alto riesgo de evolucionar a una torsión de puntas y hay que instalarle
+
+igualmente el desfrilador automático implantable. Aquí se ve una imagen,
+
+y si se fijan está con un cuté muy largo, ahí es bastante más que 11, por si acaso.
+
+Vemos ahora el síndrome de brugada, que era otra de las canalopatías genéticas que desencadenan
+
+habitualmente taquicardia ventricular y muerte súbita. Su clínica es justamente esas dos cosas,
+
+la muerte súbita por un lado, que es la presentación más frecuente o bien la
+
+taquicardia ventricular. El diagnóstico se hace con el electrocardiograma y el manejo
+
+por él en general es el desfrilador automático implantable. Ahora, ¿cómo se diagnostica como
+
+un hallazgo? Dígase, le hago algún electro, ya sea porque algún pariente se murió de muerte
+
+súbita o ya sea porque se le hizo por alguna otra razón, por un chequeo médico y me sale
+
+esta imagen. En ese caso, yo digo, viene con un síndrome de brugada y hay que instalarle
+
+el marca paso que viene con desfrilador. Además, la imagen más importante es esa que se puede ver
+
+en B1 o en B2 con un bloqueo completo de rama derecha, dígase el RSR prima, ¿cierto?
+
+Más el supra de nivel del ST que va cayendo, además más la onda T invertida. Esa es la
+
+treada, hay que saber identificarlo y no se las puede pasar en el sentido en que al
+
+detectarlo se puede salvar la vida de ese paciente. Y bueno, eso es todo lo que hay que
+
+saber. Nos vemos en los siguientes temas.

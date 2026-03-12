@@ -1,0 +1,427 @@
+1
+00:00:03,250 --> 00:00:07,170
+Hola hola, ¿cómo están? Vamos a hablar de los hipolisimiantes orales en el tratamiento de la
+
+2
+00:00:07,170 --> 00:00:12,450
+diabetes 2, en el sentido que la diabetes 1, la diabetes autoinmune, no sirven en absoluto los
+
+3
+00:00:12,450 --> 00:00:16,750
+hipolisimiantes, pero en la diabetes 2 suelen ser el tratamiento de primera línea y hay muchos,
+
+4
+00:00:16,750 --> 00:00:21,030
+de hecho se dividen en los clásicos y en los nuevos, dentro de los clásicos están las
+
+5
+00:00:21,030 --> 00:00:26,390
+biguanidas con la clásica metformina, la sulfoniluria, de los cuales que más se usa es la
+
+6
+00:00:27,390 --> 00:00:34,470
+también llamada gliburida, las tiasolidinedionas o glitasonas y los inhibidores de la alfaglucosidasa
+
+7
+00:00:34,470 --> 00:00:40,990
+como la carbosa por ejemplo, y aparte de eso hay muchos nuevos como los inhibidores del DPP4,
+
+8
+00:00:40,990 --> 00:00:48,910
+de la dipeptilpeptidasa 4, los agonistas de GLP1 que son de el péptido simil al glucagón,
+
+9
+00:00:48,910 --> 00:00:57,390
+glucagón like péptido 1, los inhibidores de el transportador de glucosa renal tipo 2 y hay
+
+10
+00:00:57,390 --> 00:01:02,070
+otros más y lo importante en esta clase simplemente vamos a ver cuáles son,
+
+11
+00:01:02,070 --> 00:01:06,710
+cómo se llaman y cuáles son como sus indicaciones más generales y en otra clase
+
+12
+00:01:06,710 --> 00:01:11,310
+vamos a andar en el manejo de la diabetes 2 propiamente tal. Empecemos con las biguanidas,
+
+13
+00:01:11,310 --> 00:01:16,790
+ya dijimos que el más importante es la metformina y su mecanismo de acción es
+
+14
+00:01:16,790 --> 00:01:22,630
+disminuyendo la resistencia a la insulina o generando una mayor sensibilidad a la insulina.
+
+15
+00:01:22,630 --> 00:01:29,390
+La metformina es el único que hay que saber y sepan que es barata, es eficaz, es segura,
+
+16
+00:01:29,390 --> 00:01:34,430
+es buena, bonita y barata, pero tiene como reacción adversa a medicamentos,
+
+17
+00:01:34,430 --> 00:01:39,230
+habitualmente síntomas de índole gastrointestinal ya sea diarrea u otros síntomas
+
+18
+00:01:39,230 --> 00:01:45,510
+gastrointestinales como vómitos, náuseas, dolor abdominal. Ahora lo importante es que no
+
+19
+00:01:45,510 --> 00:01:50,710
+genera hipoglicemia y lo que dice ahí que es segura es justamente porque tiene un muy muy
+
+20
+00:01:50,710 --> 00:01:56,030
+bajo riesgo de hacer hipoglicemia y por lo mismo al ser buena, bonita y barata es el
+
+21
+00:01:56,030 --> 00:02:01,430
+tratamiento de primera línea en el manejo de la diabetes mellitus 2. Eso sí tiene algunas
+
+22
+00:02:01,430 --> 00:02:06,110
+contraindicaciones hay que saberlas que son la insuficiencia renal crónica con una crea
+
+23
+00:02:06,110 --> 00:02:12,510
+mayor a 1,5 o desde 1,5 en adelante o bien con un clínes menor a 30 ml minuto y segundo
+
+24
+00:02:12,510 --> 00:02:17,870
+lugar una insuficiencia cardíaca más o menos importante con con con falla cardíaca en ese
+
+25
+00:02:17,870 --> 00:02:24,590
+caso está absolutamente contraindicada igualmente la metformina. El segundo gran grupo de
+
+26
+00:02:24,590 --> 00:02:30,910
+hipoglicemia son las sulfonil urias, hay varias dentro de ellas pero la forma en que actúan
+
+27
+00:02:30,910 --> 00:02:35,610
+todas es siempre aumentando la secreción pancreatica de insulina así que requieren
+
+28
+00:02:35,610 --> 00:02:40,070
+que hay un páncreas que funcione relativamente bien. El más importante es la glivenclamida
+
+29
+00:02:40,070 --> 00:02:46,350
+o gliburida al menos ese es el que se sigue vendiendo, es barata, es eficaz pero tiene
+
+30
+00:02:46,350 --> 00:02:52,190
+riesgo de hipoglicemia y hay los subrayos en el sentido en que el riesgo más importante de
+
+31
+00:02:52,190 --> 00:02:56,150
+la glivenclamida y que ha hecho que hayan sido desplazados por otros fármacos es justamente
+
+32
+00:02:56,150 --> 00:03:02,470
+que hace mucha hipoglicemia y además hace que uno suba de peso más que la metformina. Aparte
+
+33
+00:03:02,470 --> 00:03:07,630
+de eso hay que saber que la glivenclamida no es el único, hay algunas como la glipicida
+
+34
+00:03:07,630 --> 00:03:12,590
+y el glimepiridae que tienen como algo bueno, que tienen menor riesgo de hipoglicemia y de
+
+35
+00:03:12,590 --> 00:03:17,230
+efectos adversos en general pero que tienen como cosa mala que son más caras así que en la
+
+36
+00:03:17,230 --> 00:03:23,310
+práctica cuando se usa una sulfoniluria suele ser la glivenclamida pero si es que tengo
+
+37
+00:03:23,310 --> 00:03:26,270
+un poquito más de plata eventualmente se puede dejar alguna de estas otras dos.
+
+38
+00:03:26,270 --> 00:03:31,390
+Suelen ser el tratamiento de segunda línea pero no siempre solamente cuando tengo
+
+39
+00:03:31,390 --> 00:03:36,590
+pocos recursos en el sentido en que ya les adelanto que si tengo más dinero debería
+
+40
+00:03:36,590 --> 00:03:42,790
+usar alguno de los nuevos hipoglicemiantes orales y segundo lugar siempre y cuando tenga
+
+41
+00:03:42,790 --> 00:03:47,430
+un bajo riesgo de hipoglicemia. Aparte de eso están las glitazonas al igual que las
+
+42
+00:03:47,430 --> 00:03:51,390
+biguanidas al igual que la metformina actúan disminuyendo la resistencia a la insulina,
+
+43
+00:03:51,390 --> 00:03:57,990
+el más frecuente es la pioglitazona aunque en general no se llaman glitazonas sino que
+
+44
+00:03:57,990 --> 00:04:04,230
+las tiazoladinidionas y aparte de esto de acá al igual que la metformina tienen un
+
+45
+00:04:04,230 --> 00:04:08,310
+bajo riesgo de hipoglicemia así que eventualmente son una alternativa para alguien que está
+
+46
+00:04:08,310 --> 00:04:12,750
+haciendo mucha hipoglicemia con algún otro fármaco pero tienen un poco mayor riesgo
+
+47
+00:04:12,750 --> 00:04:18,190
+cardiovascular y de insuficiencia cardíaca que otros hipoglicemiantes y eso ha hecho que
+
+48
+00:04:18,190 --> 00:04:24,310
+hayan caído hasta cierto punto en desuso y que solamente se usan por el diabetólogo en
+
+49
+00:04:24,310 --> 00:04:28,270
+algunos casos muy seleccionados así que en la práctica hay que saber que existen pero
+
+50
+00:04:28,270 --> 00:04:33,150
+que lo más probable es que se va a usar otro tipo de hipoglicemiantes. Aparte de esto
+
+51
+00:04:33,150 --> 00:04:38,910
+están los inhibidores de la dipeptilpeptidasa 4 acuérdense que la forma en que actúan es
+
+52
+00:04:38,910 --> 00:04:47,230
+estimulando el sistema GLP-1 o sea en cuanto a eso se parecen un poco a los agonistas del
+
+53
+00:04:47,230 --> 00:04:53,430
+GLP-1 que los vamos a ver después que a su vez aumenta la secreción de insulina son las que
+
+54
+00:04:53,430 --> 00:04:58,550
+se denominan o se llaman comúnmente también como gliptinas que incluye la cita gliptina
+
+55
+00:04:58,590 --> 00:05:04,870
+que es el más clásico la saxagliptina y la linagliptina esas son las tres pero si termina
+
+56
+00:05:04,870 --> 00:05:09,230
+en gliptina se están refiriendo a esta familia de medicamentos y en particular quiero que sepan
+
+57
+00:05:09,230 --> 00:05:15,790
+la cita gliptina son eficaces son más caros y no generan la hipoglicemia o al menos tienen
+
+58
+00:05:15,790 --> 00:05:20,990
+un riesgo mucho menor que la sulfoniluria así que son los de segunda línea actualmente
+
+59
+00:05:20,990 --> 00:05:26,510
+al menos según la guía Minsal se pueden usar igualmente otros fármacos de segunda línea
+
+60
+00:05:26,510 --> 00:05:31,430
+según las guías internacionales como cosa importante es siempre y cuando haya recursos
+
+61
+00:05:31,430 --> 00:05:36,230
+y también cuando hay un alto riesgo de hipoglicemia si es que hay un alto riesgo
+
+62
+00:05:36,230 --> 00:05:42,470
+de hipoglicemia en ese caso yo no puedo dejar glibinclamida y estoy obligado a dejar
+
+63
+00:05:42,470 --> 00:05:47,310
+o cita gliptina o algún otro fármaco ahora dentro de otra familia están los
+
+64
+00:05:47,310 --> 00:05:51,830
+inhibidores de la alfa gluconidasa que lo único que hay que saber es que existe la
+
+65
+00:05:51,830 --> 00:05:56,750
+acarbosa que ya no se usa porque es poco eficaz y finalmente en esta depositiva porque
+
+66
+00:05:56,750 --> 00:06:04,150
+falta una depositiva completa las meglitinidas dentro de las cuales la más importante es la
+
+67
+00:06:04,150 --> 00:06:09,590
+repaglinida y la nateglinida que son las famosas glinidas estas de acá hay que saber
+
+68
+00:06:09,590 --> 00:06:14,150
+que por regla general actúan de una manera muy similar a las sulfonilurias y que por
+
+69
+00:06:14,150 --> 00:06:18,950
+lo tanto tienen riesgo de hipoglicemia también eso sí tienen un poquito menos de riesgo que
+
+70
+00:06:18,950 --> 00:06:26,710
+la glibinclamida pero aún así las indicaciones de este fármaco suelen ser las mismas que
+
+71
+00:06:26,710 --> 00:06:34,230
+el de la sulfoniluria ya ahora veamos los últimos dos grupos los agonistas de la glp-1 que actúan
+
+72
+00:06:34,230 --> 00:06:40,750
+aumentando la producción de insulina y que hay que saber que son los famosos glutides o
+
+73
+00:06:40,750 --> 00:06:46,670
+incretinas también se llaman así que se incluye ahí el liraglutide el semaglutide y la
+
+74
+00:06:46,670 --> 00:06:55,230
+dulaglutide y aparte están los inhibidores del transportador de glucosa renal tipo 2 que en
+
+75
+00:06:55,230 --> 00:07:02,030
+este caso la forma en que actúan es generando glucosuria o sea es impide la reabsorción de
+
+76
+00:07:02,030 --> 00:07:06,550
+glucosa a nivel renal y se pierde azúcar a través de la orina lo cual por un lado
+
+77
+00:07:06,550 --> 00:07:11,230
+puede aumentar el riesgo de infección urinaria por ejemplo pero es bastante eficaz para
+
+78
+00:07:11,230 --> 00:07:17,830
+evitar las hiperglicemias muy severas de hecho son buenos fármaco y sepan que su nombre termina
+
+79
+00:07:17,830 --> 00:07:23,630
+habitualmente en glifosina y ahí está la empaglifosina la canaglifosina y la dapaglifosina
+
+80
+00:07:23,630 --> 00:07:29,630
+no hay por qué saber todos los nombres pero al menos empaglifosina, liraglutide y de antes
+
+81
+00:07:29,630 --> 00:07:33,430
+la citagliptina son tres nombres que yo recomiendo que sí se aprendan y que sepan
+
+82
+00:07:33,430 --> 00:07:39,230
+a qué familia pertenece a cada uno ahora estas dos familias las vamos a ver en conjunto
+
+83
+00:07:39,230 --> 00:07:44,670
+porque ambos son nuevos hipoglicemiantes y su beneficio son bien similares son eficaces son
+
+84
+00:07:44,670 --> 00:07:51,510
+buenos pero son caros ya son mucho más caros que la metformina y que la gliven clamida no
+
+85
+00:07:51,510 --> 00:07:56,750
+producen hipoglicemia o al menos tienen un riesgo mucho más bajo que el de la gliven clamida y
+
+86
+00:07:56,750 --> 00:08:02,110
+aparte estos son muy buenos o son mejores que todos los demás en el caso de que haya un
+
+87
+00:08:02,110 --> 00:08:07,750
+daño cardiovascular importante ejemplo una enfermedad arterial periférica enfermedad coronaria
+
+88
+00:08:07,750 --> 00:08:12,110
+o ese tipo de cosas y en el caso de que haya falla renal en particular si falla renal con
+
+89
+00:08:12,110 --> 00:08:19,350
+proteinuria con una macroalbuminuria en ese caso son mejores estos dos fármacos que la gliven
+
+90
+00:08:19,350 --> 00:08:28,630
+clamida por ejemplo ahora los inhibidores de el transportador del sglut2 son además buenos
+
+91
+00:08:28,630 --> 00:08:33,550
+en la insuficiencia cardiaca con falla cardiaca pero ya no son tan buenos en la insuficiencia
+
+92
+00:08:33,550 --> 00:08:38,190
+renal severa con una caída en el clín es muy importante y la razón está relacionado con su
+
+93
+00:08:38,190 --> 00:08:44,830
+mecanismo de acción dado que la empaglifocina por ejemplo actúa inhibiendo la reabsorción
+
+94
+00:08:44,830 --> 00:08:49,590
+de glucosa o sea generando glucosuria y si yo tengo una falla renal muy grande obviamente
+
+95
+00:08:49,590 --> 00:08:55,830
+va a ser poca la glucosa que se va a filtrar desde el principio así que actúa menos ahora
+
+96
+00:08:55,830 --> 00:09:03,110
+estos dos grupos en particular los agonistas glp1 son de segunda línea igualmente cuando
+
+97
+00:09:03,110 --> 00:09:09,030
+yo tengo recursos cuando tengo un alto riesgo de hipoglicemia igual que la citagliptina aunque
+
+98
+00:09:09,030 --> 00:09:15,430
+la guía de minzal elija los dpp4 a la citagliptina al menos como para comprarlo
+
+99
+00:09:15,430 --> 00:09:21,270
+en el sistema público ahora van a ser de elección estos dos grupos de acá cuando
+
+100
+00:09:21,270 --> 00:09:27,830
+tengo una enfermedad arterial la enfermedad arterial aterosclerótica en general ejemplo
+
+101
+00:09:28,030 --> 00:09:34,750
+una un aneurisma órtico abdominal enfermedad coronaria etcétera y también cuando tengo una
+
+102
+00:09:34,750 --> 00:09:40,670
+insuficiencia renal crónica con macroalbuminuria mayor a 300 o bien cuando hay insuficiencia
+
+103
+00:09:40,670 --> 00:09:46,470
+cardiaca que en ese caso los glu2 van a ser los más importantes y bueno arte información
+
+104
+00:09:46,470 --> 00:09:51,790
+con algunas cosas que son relativamente nuevas pero que vale la pena saber en el sentido en
+
+105
+00:09:51,790 --> 00:09:56,830
+que habiendo avanzado la tecnología y el tratamiento de los pacientes diabéticos tiene
+
+106
+00:09:56,830 --> 00:10:01,790
+que avanzar el conocimiento también para ajustarse y optimizar el manejo de estos
+
+107
+00:10:01,790 --> 00:10:06,070
+pacientes ahora lo más difícil es convencerlo que se tomen los remedios que estén bien

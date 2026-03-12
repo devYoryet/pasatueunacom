@@ -1,0 +1,667 @@
+1
+00:00:00,000 --> 00:00:07,820
+Hola, hola. En este vídeo vamos a dar inicio al tema de geriatría viendo algunas
+
+2
+00:00:07,820 --> 00:00:12,780
+generalidades. Vamos a ver el adulto mayor normal, la evaluación geriátrica y el
+
+3
+00:00:12,780 --> 00:00:16,860
+enfoque biosicosocial que debe tener, el síndrome de fragilidad, la
+
+4
+00:00:16,860 --> 00:00:21,660
+polifarmacia y finalmente distintas cosas que son importantes que hay que
+
+5
+00:00:21,660 --> 00:00:25,020
+ver de manera general en las patologías del adulto mayor, en el
+
+6
+00:00:25,020 --> 00:00:29,020
+adulto mayor enfermo. Recordemos que el adulto mayor se define como el
+
+7
+00:00:29,020 --> 00:00:34,820
+mayor de 65 años. En algunas partes aparece como mayor de 60 años, pero en
+
+8
+00:00:34,820 --> 00:00:40,700
+Chile lo que más se usa es 65 años y desde los 75 años uno habla de un
+
+9
+00:00:40,700 --> 00:00:44,540
+paciente anciano y desde los 90 años uno habla de un paciente anciano
+
+10
+00:00:44,540 --> 00:00:50,460
+longevo. A medida que va avanzando la medicina, la tecnología, la calidad
+
+11
+00:00:50,460 --> 00:00:54,420
+de vida en general de las personas ha ido aumentando la expectativa de
+
+12
+00:00:54,420 --> 00:00:59,140
+vida y la geriatría ha ido cobrando cada vez más importancia. Empecemos
+
+13
+00:00:59,140 --> 00:01:03,220
+con el concepto de envejecimiento. Recordemos que no es una enfermedad, es
+
+14
+00:01:03,220 --> 00:01:07,740
+un proceso natural. Todas las personas vamos a envejecer, cierto, y nos vamos
+
+15
+00:01:07,740 --> 00:01:11,780
+a morir en algún momento también, pero se van produciendo varios cambios
+
+16
+00:01:11,780 --> 00:01:16,580
+en el organismo. Número uno, algunos evidentes y meramente estéticos como
+
+17
+00:01:16,580 --> 00:01:20,940
+la aparición de canas o arrugas, aunque actualmente con el botox y los
+
+18
+00:01:20,940 --> 00:01:25,260
+rellenos y la cirugía las señoras ya no tienen arrugas hasta que tienen
+
+19
+00:01:25,260 --> 00:01:29,980
+como 90 años, pero es algo absolutamente normal. La previsión es cierto que
+
+20
+00:01:29,980 --> 00:01:35,220
+desde los 40 años habitualmente ya uno empieza a alejar lo que se va a
+
+21
+00:01:35,220 --> 00:01:39,700
+leer porque le le cuesta enfocar de cerca, eso es normal también. La
+
+22
+00:01:39,700 --> 00:01:43,220
+caída en la masa muscular, la caída en la masa ósea, que son procesos
+
+23
+00:01:43,220 --> 00:01:47,700
+absolutamente normales, pero que hay que evitar que sean en un grado muy
+
+24
+00:01:47,700 --> 00:01:51,540
+intenso como para evitar que se traboscan luego en debilidad o en
+
+25
+00:01:51,540 --> 00:01:55,920
+fractura, cierto, y habitualmente disminuyen también las horas de sueño
+
+26
+00:01:55,920 --> 00:02:00,220
+siendo el promedio de un adulto joven cerca de ocho horas lo que requiere
+
+27
+00:02:00,220 --> 00:02:05,300
+para hacer sus actividades de una manera adecuada. En cambio en el
+
+28
+00:02:05,300 --> 00:02:10,620
+adulto mayor habitualmente requiere solamente seis a siete horas. Ahora
+
+29
+00:02:10,620 --> 00:02:16,340
+como cosa adicional, como un proceso normal es esperable que vaya cayendo el
+
+30
+00:02:16,380 --> 00:02:20,500
+clearance de creatinina, habitualmente después de los 35 años va cayendo a
+
+31
+00:02:20,500 --> 00:02:24,980
+una razón de un ml minuto por año más o menos, así que fíjense en un
+
+32
+00:02:24,980 --> 00:02:29,260
+paciente de 90 años por ejemplo, el esperable es que esté con un clearance
+
+33
+00:02:29,260 --> 00:02:33,740
+abajo de 50 que puede estar incluso cercano a 30 y si es que venía antes
+
+34
+00:02:33,740 --> 00:02:37,460
+con algún problema renal pues por el solo hecho de ir envejeciendo
+
+35
+00:02:37,460 --> 00:02:42,020
+va a ir empeorando su insuficiencia renal crónica. Ahora si tuviese
+
+36
+00:02:42,020 --> 00:02:46,700
+otro tipo de alteraciones como anemia por ejemplo, hipercalcemia, fiebre o
+
+37
+00:02:46,700 --> 00:02:50,460
+alguna cosa de ese tipo que no está en esa lista, pues lo más probable es
+
+38
+00:02:50,460 --> 00:02:53,100
+que sí tenga alguna enfermedad de base y en ese caso hay que ir a
+
+39
+00:02:53,100 --> 00:02:58,180
+buscar directamente las causas de la anemia, de la hipercalcemia o de la
+
+40
+00:02:58,180 --> 00:03:02,020
+fiebre. Vemos ahora el concepto de la evaluación geriátrica a todo
+
+41
+00:03:02,020 --> 00:03:06,500
+paciente adulto mayor pues no hay que evaluarlo igual que a un adulto
+
+42
+00:03:06,500 --> 00:03:09,940
+joven, en este caso hay que hay que venir siempre con un enfoque
+
+43
+00:03:09,940 --> 00:03:14,740
+bio psicosocial, de la parte bio hay que preguntarle las patologías, los
+
+44
+00:03:14,740 --> 00:03:19,340
+fármacos, etcétera, igual que en una persona joven ¿cierto? de la parte
+
+45
+00:03:19,340 --> 00:03:23,220
+psico hay que ir directamente a evaluarse si está con síntomas de
+
+46
+00:03:23,220 --> 00:03:27,060
+demencia, con olvidos frecuentes, con algún problema en sus actividades y
+
+47
+00:03:27,060 --> 00:03:30,060
+hay que ir a ver dirigidamente el ánimo también debido a que la
+
+48
+00:03:30,060 --> 00:03:34,940
+depresión es una complicación bastante frecuente de la ancianidad en
+
+49
+00:03:34,940 --> 00:03:39,660
+particular cuando el paciente además está enfermo. La parte social hay que
+
+50
+00:03:39,700 --> 00:03:43,540
+verla, la red de apoyo es algo fundamental si es que es un paciente que
+
+51
+00:03:43,540 --> 00:03:47,420
+está muy solo, si que está muy pobre por ejemplo o si es víctima de los
+
+52
+00:03:47,420 --> 00:03:51,380
+distintos tipos de abuso que sufren los adultos mayores que quiera
+
+53
+00:03:51,380 --> 00:03:54,780
+buscarlo dirigidamente que lo vamos a ver en una clase con cierto detalle y
+
+54
+00:03:54,780 --> 00:03:58,340
+finalmente hay que ver también la parte funcional en todo adulto mayor
+
+55
+00:03:58,340 --> 00:04:02,900
+ver el grado de movilidad que tiene, la velocidad, la masa muscular,
+
+56
+00:04:02,900 --> 00:04:07,420
+veces que ha tenido caídas, el grado de dependencia que tiene
+
+57
+00:04:07,420 --> 00:04:12,460
+respecto de sus cuidadores y ver cómo están sus sentidos también la visión,
+
+58
+00:04:12,460 --> 00:04:16,780
+la audición dado que muchas veces uno puede intervenir y mejorar su
+
+59
+00:04:16,780 --> 00:04:20,020
+capacidad funcional y de esa manera se mejora bastante su calidad de vida
+
+60
+00:04:20,020 --> 00:04:24,540
+también en sus últimos años. Veamos ahora este concepto del síndrome de
+
+61
+00:04:24,540 --> 00:04:29,620
+fragilidad, qué cosa es, pues es un concepto que deriva de la caída de la
+
+62
+00:04:29,620 --> 00:04:33,220
+reserva funcional de los distintos órganos del cuerpo, el corazón por
+
+63
+00:04:33,220 --> 00:04:38,540
+ejemplo aguanta una exigencia mucho mayor a la que habitualmente uno tiene
+
+64
+00:04:38,540 --> 00:04:42,220
+en reposo, los pulmones lo mismo, el hígado lo mismo, los riñones también
+
+65
+00:04:42,220 --> 00:04:45,460
+pero en medida que va envesqueciendo el cuerpo van envesqueciendo los
+
+66
+00:04:45,460 --> 00:04:50,660
+distintos órganos y va cayendo esta reserva funcional y eso hace que ante
+
+67
+00:04:50,660 --> 00:04:54,260
+distintos estresores de cualquier tipo, ejemplo infecciones que son las
+
+68
+00:04:54,260 --> 00:04:58,340
+más frecuentes cierto, pero igualmente un traumatismo, una factura de
+
+69
+00:04:58,340 --> 00:05:02,820
+cadera, algunos fármacos incluso, accidente vascular o lo que sea, el
+
+70
+00:05:02,820 --> 00:05:07,140
+paciente tiene riesgo de descompensarse y morirse por ejemplo o
+
+71
+00:05:07,140 --> 00:05:12,420
+quedar con discapacidad, el tener caídas, el desorientarse y tener
+
+72
+00:05:12,420 --> 00:05:18,100
+delirium, etcétera. No es lo mismo darle una pastilla para dormir a una
+
+73
+00:05:18,100 --> 00:05:21,420
+persona joven, quedársela a un paciente de 80 años, en este caso
+
+74
+00:05:21,420 --> 00:05:25,980
+eventualmente yo le puedo provocar debido a que es muy frágil que se
+
+75
+00:05:25,980 --> 00:05:28,860
+desoriente y que se caiga por ejemplo e incluso que se muera
+
+76
+00:05:28,860 --> 00:05:33,020
+producto de una factura de cadera, así que mucho mucho cuidado. Ahora el
+
+77
+00:05:33,020 --> 00:05:37,900
+resumen del síndrome de fragilidad es este que no está en ningún libro,
+
+78
+00:05:37,900 --> 00:05:40,900
+lo inventé yo por su caso, pero es cualquier cosa puede matar a un
+
+79
+00:05:40,900 --> 00:05:45,180
+viejito, dígase cualquier estresor eventualmente se complica con algo
+
+80
+00:05:45,180 --> 00:05:48,980
+grave en un adulto mayor y eso hay que tenerlo bien presente con dos
+
+81
+00:05:48,980 --> 00:05:52,580
+enfoques, número uno es un paciente que está muy viejo es esperable que
+
+82
+00:05:52,580 --> 00:05:56,620
+se complique y que se muera y número dos el más importante es yo
+
+83
+00:05:56,620 --> 00:06:00,300
+como médico debo tener mucho cuidado en un paciente adulto mayor porque
+
+84
+00:06:00,300 --> 00:06:04,180
+eventualmente con cualquier cosa se puede descompensar y lo puedo matar o
+
+85
+00:06:04,180 --> 00:06:07,300
+se me puede pasar por alto alguna enfermedad que tenga y se puede morir
+
+86
+00:06:07,300 --> 00:06:11,140
+así que en vez de decir está muy viejito no hay nada que hacer por el
+
+87
+00:06:11,140 --> 00:06:14,900
+contrario es está muy viejito debo ser muy cuidadoso y ese es como el
+
+88
+00:06:14,900 --> 00:06:18,900
+enfoque que les quiero transmitir porque es lo que se enseña en
+
+89
+00:06:18,900 --> 00:06:22,620
+geriatría y es lo que hay que tener cuidado como para no caer en
+
+90
+00:06:22,620 --> 00:06:26,580
+responsabilidad médico legal tampoco. Vemos ahora el concepto de
+
+91
+00:06:26,580 --> 00:06:31,340
+polifarmacia en este caso habitualmente hay muchas patologías en el
+
+92
+00:06:31,340 --> 00:06:34,940
+adulto mayor va acumulando diagnósticos cierto y eso hace que
+
+93
+00:06:34,940 --> 00:06:39,700
+requiera muchos fármacos también que se dan de manera simultánea y los
+
+94
+00:06:39,700 --> 00:06:43,620
+riesgos que hay por un lado son las interacciones medicamentos así que
+
+95
+00:06:43,620 --> 00:06:46,660
+siempre antes de darle un medicamento debo ver con qué otros
+
+96
+00:06:46,660 --> 00:06:50,580
+medicamentos está y revisar si es que no están contraindicados entre
+
+97
+00:06:50,660 --> 00:06:54,940
+ellos o si es que no interactúan entre ellos de alguna forma que sea más
+
+98
+00:06:54,940 --> 00:06:58,380
+complicada. Segundo lugar habíamos dicho que vi una caída en el clírens
+
+99
+00:06:58,380 --> 00:07:03,100
+de creatinina lo cual se traduce en un aumento en las reacciones adversas
+
+100
+00:07:03,100 --> 00:07:06,180
+a medicamentos en el adulto mayor en comparación con los pacientes que
+
+101
+00:07:06,180 --> 00:07:09,980
+están con los riñones buenos cierto y finalmente vienen con los riesgos
+
+102
+00:07:09,980 --> 00:07:14,220
+que ya habíamos mencionado antes de sedación de delirium de caídas
+
+103
+00:07:14,220 --> 00:07:18,820
+etcétera y como ejemplo que hay que saber yo no le puedo dar
+
+104
+00:07:18,820 --> 00:07:22,380
+antidepresivos tricíclicos u otros sedantes a un adulto mayor porque
+
+105
+00:07:22,380 --> 00:07:25,540
+tengo riesgo de que le provoca un delirium de que le haga más
+
+106
+00:07:25,540 --> 00:07:29,780
+evidente los síntomas de una demencia por ejemplo y eventualmente lo puedo
+
+107
+00:07:29,780 --> 00:07:33,380
+complicar lo puedo matar. Segundo lugar no le puedo dar
+
+108
+00:07:33,380 --> 00:07:37,700
+cualquiera anticolinérgico en una incontinencia de orina de urgencia en
+
+109
+00:07:37,700 --> 00:07:41,500
+este caso yo tengo que evaluar porque viene con riesgo de desarrollar o
+
+110
+00:07:41,500 --> 00:07:46,060
+agravar una demencia así que está contraindicada la oxibutinina por
+
+111
+00:07:46,060 --> 00:07:50,940
+ejemplo o la tolterodina y en ese caso debe quedar o con el cloruro de
+
+112
+00:07:50,940 --> 00:07:56,220
+trospio cierto o bien con otro tipo de fármacos como los agonistas beta
+
+113
+00:07:56,220 --> 00:08:02,140
+3 adrenérgicos que eventualmente pueden servir y finalmente en algunos
+
+114
+00:08:02,140 --> 00:08:07,340
+casos se intenta evitar darle los cumarínicos como anticoagulante y se
+
+115
+00:08:07,340 --> 00:08:11,700
+prefiere dejarle estos nuevos medicamentos anticoagulante o los
+
+116
+00:08:11,700 --> 00:08:14,700
+anticoagulantes orales directos también que se llaman así que se
+
+117
+00:08:14,700 --> 00:08:21,300
+abrían como DACO o NACO según si es directo o nuevo. Veamos finalmente la
+
+118
+00:08:21,300 --> 00:08:25,500
+patología en el adulto mayor recordemos que las infecciones a veces
+
+119
+00:08:25,500 --> 00:08:30,020
+vienen sin fiebre en los viejitos el abdomen agudo a veces viene sin
+
+120
+00:08:30,020 --> 00:08:33,740
+signos peritoniales el infarto a veces viene sin dolor igual que los
+
+121
+00:08:33,740 --> 00:08:37,620
+pacientes diabéticos cierto y la deshidratación muchas veces viene sin
+
+122
+00:08:37,620 --> 00:08:41,100
+signos de deshidratación y el primer signo que se puede ver es la
+
+123
+00:08:41,100 --> 00:08:45,020
+oliguria que me muestra que ya está en falla renal y todas estas cosas muchas
+
+124
+00:08:45,020 --> 00:08:50,220
+veces se reemplazan simplemente por confusión así que en un adulto mayor
+
+125
+00:08:50,220 --> 00:08:54,180
+que se confunde eventualmente puede estar con cualquiera de estas cosas
+
+126
+00:08:54,180 --> 00:08:59,100
+y lo repito las infecciones a veces vienen sin fiebre sino que con otros
+
+127
+00:08:59,100 --> 00:09:03,100
+síntomas y no se puede descartar por el hecho que esté sin fiebre el
+
+128
+00:09:03,100 --> 00:09:05,980
+abdomen agudo a veces viene sin signos peritoniales y eventualmente
+
+129
+00:09:05,980 --> 00:09:09,580
+un adulto mayor que está con dolor abdominal aunque no tenga signas
+
+130
+00:09:10,020 --> 00:09:13,860
+aunque no tenga signos peritoniales si es que no me quedo tranquilo pues le
+
+131
+00:09:13,860 --> 00:09:17,340
+pido un ataque como para ir a buscar alguna complicación más grave lo
+
+132
+00:09:17,340 --> 00:09:20,620
+mismo en un paciente adulto mayor que pueda estar con cualquier cosa que
+
+133
+00:09:20,620 --> 00:09:23,580
+eventualmente sea un infarto aunque esté sin dolor y solamente esté
+
+134
+00:09:23,580 --> 00:09:27,540
+con disnea por ejemplo le pido un electrocardiograma igual y en el
+
+135
+00:09:27,540 --> 00:09:30,820
+paciente que tenga riesgo de deshidratación ejemplo porque está
+
+136
+00:09:30,820 --> 00:09:36,220
+con con diarrea pues no me quedo tranquilo simplemente porque no tenga
+
+137
+00:09:36,340 --> 00:09:40,340
+la boca seca sino que dirigidamente tengo que ir a buscar de manera más
+
+138
+00:09:40,340 --> 00:09:44,340
+intensiva si es que está con signos de deshidratación objetivos como la
+
+139
+00:09:44,340 --> 00:09:48,580
+elevación de la crea etcétera y lo último si se confunde ir a buscar
+
+140
+00:09:48,580 --> 00:09:52,940
+toda esa larga lista de causas que lo vamos a ver en la clase respectiva
+
+141
+00:09:52,940 --> 00:09:58,380
+de delirio vemos ahora como último tema los objetivos en los mayores de
+
+142
+00:09:58,380 --> 00:10:02,420
+75 años para el manejo de las patologías crónicas en el caso de
+
+143
+00:10:02,460 --> 00:10:08,100
+la diabetes acuérdense la hemoglobina glicosilada objetivo es menor a 8% a
+
+144
+00:10:08,100 --> 00:10:12,220
+diferencia de los menores de 75 años en que se exige que sea menor a 7%
+
+145
+00:10:12,220 --> 00:10:16,740
+en este caso uno es menos estricto en el control debido justamente a que
+
+146
+00:10:16,740 --> 00:10:21,740
+la expectativa de vida es menor y no hay ninguna razón como para
+
+147
+00:10:21,740 --> 00:10:24,860
+cuidarle por tanto tiempo sus órganos porque seguramente se va a
+
+148
+00:10:24,860 --> 00:10:27,900
+morir antes por alguna otra razón en particular si está con hipoglicemia
+
+149
+00:10:27,900 --> 00:10:33,180
+por ejemplo soy más tolerante a un nivel de hemoglobina glicosilada algo
+
+150
+00:10:33,180 --> 00:10:38,700
+más alto repito el corte es a los 75 años número 2 si está hipertenso en
+
+151
+00:10:38,700 --> 00:10:44,300
+muchos lugares se recomienda que el objetivo sea abajo de 150 90 a
+
+152
+00:10:44,300 --> 00:10:49,660
+diferencia de en el resto de los de los pacientes que se recomienda
+
+153
+00:10:49,660 --> 00:10:55,820
+abajo de 140 90 aunque hay algunas guías por si acaso que dice que en
+
+154
+00:10:55,860 --> 00:11:00,460
+todo paciente idealmente debería estar debajo del punto de corte de diagnóstico
+
+155
+00:11:00,460 --> 00:11:06,940
+actual abajo de 130 80 milímetros de mercurio así que repito en el adulto
+
+156
+00:11:06,940 --> 00:11:10,460
+mayor la mayoría de las guías son más tolerantes en particular con la
+
+157
+00:11:10,460 --> 00:11:14,420
+hipertensión sistólica que le aguantan hasta 150 pero todavía hay
+
+158
+00:11:14,420 --> 00:11:18,500
+quienes que no no están de acuerdo con esto y dicen no me importa la
+
+159
+00:11:18,500 --> 00:11:23,020
+edad el control siempre tiene que ser abajo de 130 80 y lo último en el
+
+160
+00:11:23,020 --> 00:11:28,780
+caso del hipotiroidismo la TCH que se tolera en el adulto arriba de 75 años
+
+161
+00:11:28,780 --> 00:11:35,460
+es entre 3 y 6 a diferencia del paciente joven que suele ser entre 0.4 y 4.0
+
+162
+00:11:35,460 --> 00:11:41,060
+aunque hay algunas algunas guías que lo toleran incluso hasta 0.5 para
+
+163
+00:11:41,060 --> 00:11:45,100
+abajo y hasta 7.5 para arriba también pero en la guía chilena y en
+
+164
+00:11:45,100 --> 00:11:49,380
+la mayoría de la fuente está este rango un poquito más acotado entre
+
+165
+00:11:49,380 --> 00:11:53,860
+3 y 6 pero que sigue siendo más más alto que el de los pacientes jóvenes y
+
+166
+00:11:53,860 --> 00:11:57,860
+bueno eso es todo y en los siguientes vídeos vamos a hundar en algunos temas
+
+167
+00:11:57,860 --> 00:12:03,460
+frecuentes de gineatría también así que nos vemos ahí y ánimo con el estudio

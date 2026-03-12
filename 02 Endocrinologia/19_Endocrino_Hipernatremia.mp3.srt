@@ -1,0 +1,183 @@
+1
+00:00:00,000 --> 00:00:07,180
+Hola, ¿cómo están? Hablemos de la acromegalia y el gigantismo, cierto, que son la misma
+
+2
+00:00:07,180 --> 00:00:11,820
+enfermedad pero en distinta edad. Su causa es un tumor hipoficerio que
+
+3
+00:00:11,820 --> 00:00:16,540
+produce GH o hormona de crecimiento, cierto, y en el caso de los adultos se
+
+4
+00:00:16,540 --> 00:00:21,740
+ve como una acromegalia, en el sentido en que han dejado ya de crecer, sus
+
+5
+00:00:21,740 --> 00:00:25,980
+placas metafisiarias, el cartelago de crecimiento ya está cerrado, cierto, en
+
+6
+00:00:25,980 --> 00:00:29,200
+cambio en los niños se ve como gigantismo, en que viene con toda la
+
+7
+00:00:29,200 --> 00:00:33,280
+clínica de la acromegalia más una talla alta según vamos a ver ahora.
+
+8
+00:00:33,280 --> 00:00:36,720
+Quede bien claro, viene con riesgo estético por un lado, en el sentido en
+
+9
+00:00:36,720 --> 00:00:41,680
+que se afectan los rasgos de la cara, además de ser eventualmente alguien
+
+10
+00:00:41,680 --> 00:00:46,120
+muy alto que se puede ver mal también, y segundo lugar viene con un aumento
+
+11
+00:00:46,120 --> 00:00:50,640
+de riesgo cardiovascular y por ambas razones es que se recomienda el
+
+12
+00:00:50,640 --> 00:00:54,480
+tratarla apenas se haya hecho el diagnóstico. Su clínica, por el
+
+13
+00:00:54,480 --> 00:00:59,440
+general, viene con un aumento de tamaño de las manos, de los pies, de ahí su
+
+14
+00:00:59,440 --> 00:01:03,520
+nombre acromegalia, es algo bastante lento que demora muchos meses,
+
+15
+00:01:03,520 --> 00:01:10,000
+muchos años, pero ejemplo, me dicen yo antes calzaba 43 y ahora calzo 45,
+
+16
+00:01:10,000 --> 00:01:13,320
+eso no es normal, segundo lugar viene con rasgos
+
+17
+00:01:13,320 --> 00:01:18,520
+bastante toscos en la cara, dígase con aumento de tamaño de la nariz, de
+
+18
+00:01:18,520 --> 00:01:21,600
+las orejas, de los labios, de la mandíbula también que se puede
+
+19
+00:01:21,600 --> 00:01:26,280
+volver muy prominente y finalmente en el caso de los niños viene con talla
+
+20
+00:01:26,280 --> 00:01:29,960
+alta, habitualmente con una talla muy alta, en el sentido en que se salen de
+
+21
+00:01:29,960 --> 00:01:35,840
+la curva bastante rápido. Se complica además con diabetes, la hormona de
+
+22
+00:01:35,840 --> 00:01:39,440
+crecimiento es una de las hormonas de contrarregulación y en algunos casos
+
+23
+00:01:39,440 --> 00:01:45,280
+viene con síntomas compresivos como buen tumor, ¿cierto? Dentro de estos la
+
+24
+00:01:45,280 --> 00:01:48,160
+compresión del quiasma óptico es algo que se describe con cierta
+
+25
+00:01:48,160 --> 00:01:52,360
+frecuencia, incluso puede que el motivo de consulta sea la hemianopsia
+
+26
+00:01:52,360 --> 00:01:56,640
+bitemporal pero luego de eso uno le ve que viene con la nariz muy grande, con
+
+27
+00:01:56,640 --> 00:02:00,480
+las manos muy grandes y ve alguna foto de hace algunos años atrás y se ve
+
+28
+00:02:00,480 --> 00:02:04,680
+que efectivamente ha habido algún cambio y en algunos casos viene con
+
+29
+00:02:04,680 --> 00:02:08,720
+síntomas muy similares a los de una hiperprolactinemia, dígase con un
+
+30
+00:02:08,720 --> 00:02:13,240
+síndrome de amenorrea galactorrhea también. El diagnóstico por el
+
+31
+00:02:13,240 --> 00:02:18,480
+general se hace con la somatomedina 1 o IGF1 que es el insulin growth factor
+
+32
+00:02:18,480 --> 00:02:27,280
+tipo 1, se mide habitualmente también la IGFBP3 que es la proteína ligante de
+
+33
+00:02:27,280 --> 00:02:32,320
+IGF, ¿cierto? Pero repito lo más importante son las somatomedinas, la
+
+34
+00:02:32,320 --> 00:02:37,160
+IGF1 y luego de eso voy obviamente a mirar la hipófisis en el sentido en
+
+35
+00:02:37,160 --> 00:02:41,000
+que la causa dijimos que era un tumor productor de GH, así que se pide
+
+36
+00:02:41,000 --> 00:02:45,200
+una resonancia magnética de silla turca. En resumen, el diagnóstico es con
+
+37
+00:02:45,200 --> 00:02:48,680
+la somatomedina 1 o IGF1, por si acaso, eso es lo más importante. Y
+
+38
+00:02:48,680 --> 00:02:52,280
+finalmente, ¿cómo se trata un tumor hiperproductor de la hipófisis? Pues
+
+39
+00:02:52,280 --> 00:02:56,600
+obviamente con la cirugía transespenoidal de remoción.
+
+40
+00:02:56,600 --> 00:03:00,720
+Si es que no la puedo hacer porque el paciente está descompensado por
+
+41
+00:03:00,720 --> 00:03:05,240
+alguna otra razón, la puedo manejar transitoriamente con los análogos de
+
+42
+00:03:05,240 --> 00:03:09,320
+la somatostatina que es lo contrario a la somatotrofina que es
+
+43
+00:03:09,320 --> 00:03:15,600
+la GH, ¿cierto? Y dentro de esto están el octiotride y el lanreotide que, repito,
+
+44
+00:03:15,600 --> 00:03:20,000
+se usan solamente mientras no se puede hacer la cirugía porque la cirugía
+
+45
+00:03:20,000 --> 00:03:24,400
+es el tratamiento definitivo de la acromegália. Eso es todo, nos vemos en
+
+46
+00:03:24,400 --> 00:03:27,440
+el siguiente vídeo. ¡Que estén muy bien!

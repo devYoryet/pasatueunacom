@@ -1,0 +1,415 @@
+1
+00:00:00,000 --> 00:00:06,630
+Hola, ¿cómo están? Hablemos de la enfermedad de Kawasaki, esta enfermedad
+
+2
+00:00:06,630 --> 00:00:12,570
+cuya importancia es que genera daño coronario que es evitable, es prevenible
+
+3
+00:00:12,570 --> 00:00:15,610
+la medida en que yo lo sepa diagnosticar, que es una enfermedad que se
+
+4
+00:00:15,610 --> 00:00:18,570
+diagnostica con la clínica y que por lo mismo es tan importante que el
+
+5
+00:00:18,570 --> 00:00:23,250
+médico general esté entrenado para detectar. Veamos cuál es su clínica
+
+6
+00:00:23,250 --> 00:00:26,690
+empezando con los criterios clínicos que sirven para el diagnóstico,
+
+7
+00:00:26,690 --> 00:00:30,370
+sabiendo que es una enfermedad que habitualmente se presenta en niños
+
+8
+00:00:30,370 --> 00:00:33,890
+menores de 5 años, aunque la verdad es que se puede ver en mayores de 5 años
+
+9
+00:00:33,890 --> 00:00:38,930
+también, pero el menor de 5 años es el más frecuente. Su etiología hasta
+
+10
+00:00:38,930 --> 00:00:41,690
+ahora se desconoce, pero lo más probable es que se asocia a alguna
+
+11
+00:00:41,690 --> 00:00:45,930
+infección por algún virus y la pandemia del coronavirus es algo que
+
+12
+00:00:45,930 --> 00:00:50,010
+ha reforzado esto en el sentido en que el síndrome inflamatorio
+
+13
+00:00:50,010 --> 00:00:54,730
+multisistémico en algunos pacientes se veía igual que una
+
+14
+00:00:54,730 --> 00:00:58,090
+enfermedad de Kawasaki y eso nos hace pensar que la
+
+15
+00:00:58,090 --> 00:01:02,730
+fisiopatología es muy muy similar, es más, se manejan igual también. Empecemos
+
+16
+00:01:02,730 --> 00:01:07,450
+con cuál es el síntoma cardinal de la enfermedad de Kawasaki. Es fiebre
+
+17
+00:01:07,450 --> 00:01:12,650
+mayor o igual a 5 días, o sea una fiebre alta y persistente en el tiempo
+
+18
+00:01:12,650 --> 00:01:16,610
+habitualmente arriba de 38 grados, incluso puede ser mucho más alta, pero
+
+19
+00:01:16,610 --> 00:01:20,650
+que quede bien claro, mínimo 5 días con fiebre. Además debe tener por lo
+
+20
+00:01:20,650 --> 00:01:25,770
+menos 4 de 5 de los siguientes criterios, ojo rojo, ya sea inyección
+
+21
+00:01:25,770 --> 00:01:31,490
+conjuntival, conjuntivitis, etcétera. Boca roja, habitualmente la lengua muy
+
+22
+00:01:31,490 --> 00:01:35,770
+muy roja o los labios muy rojos y partidos. Adenopatías cervicales,
+
+23
+00:01:35,770 --> 00:01:40,690
+cierto, un exantema que lo único es que no puede ser ni vesicular ni
+
+24
+00:01:40,690 --> 00:01:44,890
+pustular, pero sí puede ser eritematoso macular, papular, etcétera,
+
+25
+00:01:44,890 --> 00:01:49,810
+y finalmente afectación de las manos y pies, habitualmente con
+
+26
+00:01:49,810 --> 00:01:54,690
+eritema o bien con edema o descamación de la piel de estas
+
+27
+00:01:54,690 --> 00:02:01,050
+zonas masacrales. O sea, en resumen, sería ojo rojo, boca roja, ganglios
+
+28
+00:02:01,050 --> 00:02:05,810
+rojos, piel roja y manos y pies rojos. Cualquiera de ellos ya me suma un
+
+29
+00:02:05,810 --> 00:02:10,210
+punto y debo tener por lo menos 4 más la fiebre. El diagnóstico se hace
+
+30
+00:02:10,210 --> 00:02:13,770
+de esa manera, con la fiebre mayor o igual a 5 días, que eso tiene que
+
+31
+00:02:13,770 --> 00:02:18,450
+estar sí o sí, más 4 de 5 de estos síntomas. Ahora, ¿qué pasa si lleva
+
+32
+00:02:18,450 --> 00:02:21,890
+solamente 4 días y con todos los otros síntomas? Pues lo más probable es que
+
+33
+00:02:21,890 --> 00:02:26,930
+tenga un kawasaki igual y lo voy a manejar de esa forma. El pronóstico, en
+
+34
+00:02:26,930 --> 00:02:31,530
+cambio, se ve con el ecocardiograma o la ecocardiografía, en el sentido en
+
+35
+00:02:31,530 --> 00:02:34,610
+que si es que me muestra afectación de las coronarias con un aneurisma
+
+36
+00:02:34,610 --> 00:02:39,210
+coronario, pues aumenta mucho más el riesgo en el mediano y largo plazo de
+
+37
+00:02:39,210 --> 00:02:43,850
+un infarto miocárdico. Y un niño con un infarto miocárdico es algo
+
+38
+00:02:43,850 --> 00:02:48,050
+muy grave que hay que evitar a toda costa, ¿cierto? Ahora, ¿qué cosa pasa
+
+39
+00:02:48,050 --> 00:02:53,170
+cuando vengo con un cuadro clínico incompleto, ejemplo, como dijimos, lleva
+
+40
+00:02:53,170 --> 00:02:58,210
+3 días o bien viene solamente con ojo rojo, boca roja y adenopatías, pero me
+
+41
+00:02:58,210 --> 00:03:02,210
+falta uno de los criterios? En ese caso también se le pide el ecocardiograma,
+
+42
+00:03:02,210 --> 00:03:05,930
+la ecocardiografía, con la diferencia que en ese caso el ecocardiograma es
+
+43
+00:03:05,930 --> 00:03:11,010
+un elemento diagnóstico. En resumen, el ecocardiograma sirve para el
+
+44
+00:03:11,010 --> 00:03:14,050
+pronóstico, salvo los cuadros incompletos en que además es
+
+45
+00:03:15,010 --> 00:03:18,690
+y finalmente hay que recordar que el diagnóstico es fundamentalmente clínico
+
+46
+00:03:18,690 --> 00:03:21,850
+en la inmensa mayoría de los casos, pero ante la duda se le pide el
+
+47
+00:03:21,850 --> 00:03:25,130
+ecocardiograma como examen confirmatorio y diagnóstico también, ¿ya?
+
+48
+00:03:25,130 --> 00:03:30,730
+Pero queda quedado claro. ¿Qué pasa si antes tuvo COVID-19 en el último mes?
+
+49
+00:03:30,730 --> 00:03:34,730
+En ese caso el diagnóstico ya no es una enfermedad de Kawasaki, sino que
+
+50
+00:03:34,730 --> 00:03:40,490
+es un SIEM, un síndrome inflamatorio multisistémico o bien un PIMS, que
+
+51
+00:03:41,090 --> 00:03:47,330
+con la sigla en inglés en el cual la P es de pediátrico, o sea el síndrome
+
+52
+00:03:47,330 --> 00:03:52,970
+inflamatorio multisistémico pediátrico, que es esta complicación de la COVID-19
+
+53
+00:03:52,970 --> 00:03:56,970
+que en algunas oportunidades se ve igual que una enfermedad de Kawasaki,
+
+54
+00:03:56,970 --> 00:04:01,930
+en otras en cambio se ve como un cuadro de compromiso general con
+
+55
+00:04:01,930 --> 00:04:05,130
+mucha fiebre y con un shock hipopolémico, por ejemplo, o con un
+
+56
+00:04:05,130 --> 00:04:08,490
+shock vasodilatador, o bien se puede ver también como con un
+
+57
+00:04:08,490 --> 00:04:12,450
+cuadro con mucha molestia gastrointestinal o con una miocarditis también, o sea en
+
+58
+00:04:12,450 --> 00:04:15,930
+resumen tiene distintas formas de manifestarse dentro de las cuales una
+
+59
+00:04:15,930 --> 00:04:20,330
+es como una enfermedad de Kawasaki. ¿Cuál es el tratamiento de la
+
+60
+00:04:20,330 --> 00:04:23,650
+enfermedad de Kawasaki? Y es importante saberlo, por su caso es la
+
+61
+00:04:23,650 --> 00:04:28,050
+inmunoglobulina G endovenosa en dosis relativamente alta o gamma
+
+62
+00:04:28,050 --> 00:04:31,370
+globulina endovenosa es la otra forma de llamarla, eso es lo más
+
+63
+00:04:31,370 --> 00:04:34,930
+importante y además se suele agregar aspirina como por el compromiso
+
+64
+00:04:35,890 --> 00:04:39,970
+Que quede bien claro, es súper importante porque en el tratamiento dado de
+
+65
+00:04:39,970 --> 00:04:43,570
+manera oportuna previene el daño coronario y lo más probable es que una
+
+66
+00:04:43,570 --> 00:04:48,050
+vez que el niño haya salido de la enfermedad de Kawasaki y ya se
+
+67
+00:04:48,050 --> 00:04:51,250
+recupere, quede sin ninguna secuela, por el contrario si es que no la
+
+68
+00:04:51,250 --> 00:04:54,210
+diagnóstico a tiempo, si es que se me pasa, el niño se puede complicar
+
+69
+00:04:54,210 --> 00:04:59,050
+tanto en agudo como evolucionar luego al daño coronario y morirse en
+
+70
+00:04:59,050 --> 00:05:03,170
+algunos años más de un infarto, así que repito, es fundamental el saber
+
+71
+00:05:03,330 --> 00:05:06,530
+hacer el diagnóstico y darle la inmunoglobulina lo antes posible.
+
+72
+00:05:07,530 --> 00:05:10,970
+Veamos como cosa final algunas otras alteraciones que se asocian al
+
+73
+00:05:10,970 --> 00:05:14,530
+síndrome de Kawasaki desde el punto de vista clínico o de laboratorio
+
+74
+00:05:14,810 --> 00:05:17,410
+que no son los criterios de diagnóstico, pero hay que saberlo.
+
+75
+00:05:18,650 --> 00:05:21,370
+Número uno puede venir con miocarditis aguda, o sea con un
+
+76
+00:05:21,370 --> 00:05:25,730
+cuadro de insuficiencia cardiaca, puede venir con un choc cardiogénico,
+
+77
+00:05:25,770 --> 00:05:30,090
+puede venir con un edema pulmonar agudo, con todas esas complicaciones
+
+78
+00:05:30,770 --> 00:05:33,370
+que son propias de la miocarditis, que puede ser algo muy grave.
+
+79
+00:05:33,730 --> 00:05:37,690
+Y recuerden, además, que esta miocarditis es la causa de muerte
+
+80
+00:05:37,690 --> 00:05:40,890
+en agudo habitualmente en la enfermedad de Kawasaki en el largo
+
+81
+00:05:40,890 --> 00:05:43,690
+plazo y como causa de muerte en general, por el contrario, es el
+
+82
+00:05:43,690 --> 00:05:46,490
+daño coronario, pero en agudo se puede morir el niño de una
+
+83
+00:05:46,490 --> 00:05:49,210
+miocarditis y con mayor razón hay que darle la inmunoglobulina
+
+84
+00:05:49,490 --> 00:05:52,170
+de manera urgente más el manejo de la insuficiencia cardiaca.
+
+85
+00:05:53,130 --> 00:05:56,370
+Segundo lugar puede venir con una piuria aséptica y esto es algo
+
+86
+00:05:56,370 --> 00:05:59,690
+que me confunde un poco porque como está con fiebre se estudia
+
+87
+00:05:59,690 --> 00:06:02,890
+eventualmente con exámenes de orina, cierto, buscando la causa
+
+88
+00:06:03,130 --> 00:06:06,450
+y me sale que hay leucocituria, que hay piuria y me quedo con la idea
+
+89
+00:06:06,450 --> 00:06:10,090
+de que era una una infección urinaria.
+
+90
+00:06:10,490 --> 00:06:14,250
+Le parto los antibióticos, cierto, y además me hace un rash
+
+91
+00:06:14,250 --> 00:06:17,090
+y digo, oh, era alérgico a los antibióticos y nada que ver.
+
+92
+00:06:17,290 --> 00:06:20,530
+Lo que tenía en verdad era una enfermedad de Kawasaki y había
+
+93
+00:06:20,530 --> 00:06:23,570
+que mirarle a los labios, mirarle a los ojos y ver que ese que
+
+94
+00:06:23,570 --> 00:06:25,850
+tenía el rash de antes igual.
+
+95
+00:06:25,850 --> 00:06:28,410
+Lo otro que se puede ver es la famosa besejeitis,
+
+96
+00:06:28,410 --> 00:06:32,290
+dígase, el lugar en donde está la cicatriz de la vacuna
+
+97
+00:06:32,290 --> 00:06:36,410
+Bseje se puede inflamar y finalmente puede venir con alteraciones
+
+98
+00:06:36,410 --> 00:06:39,410
+en el hemograma, en particular una anemia que se parece
+
+99
+00:06:39,410 --> 00:06:41,890
+mucho a la anemia de enfermedades crónicas, dígase una anemia
+
+100
+00:06:42,090 --> 00:06:45,050
+normocítica, normocrómica y finalmente puede venir
+
+101
+00:06:45,050 --> 00:06:47,570
+con algún grado de trombocitosis, de elevación de las plaquetas,
+
+102
+00:06:47,570 --> 00:06:49,770
+cierto, de tipo reactiva.
+
+103
+00:06:49,770 --> 00:06:50,490
+Eso es todo.
+
+104
+00:06:50,490 --> 00:06:52,010
+Nos vemos en los siguientes videos que estén bien.

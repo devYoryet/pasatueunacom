@@ -1,0 +1,499 @@
+1
+00:00:00,000 --> 00:00:08,020
+Veamos ahora la infección por helicobacter pylori, un gran tema, cierto, con algo de
+
+2
+00:00:08,020 --> 00:00:11,900
+controversia, pero recordemos que los riesgos están más o menos claros, son
+
+3
+00:00:11,900 --> 00:00:16,500
+tres los fundamentales. Número 1 se complica con úlcera gastrodubodenal, es
+
+4
+00:00:16,500 --> 00:00:19,780
+de hecho la causa más frecuente. Número 2 es un factor de riesgo para
+
+5
+00:00:19,780 --> 00:00:25,300
+el cáncer gástrico también y finalmente es la causa del linfoma de
+
+6
+00:00:25,300 --> 00:00:30,340
+células T asociado a mucosa que se abrella como malt a nivel gástrico.
+
+7
+00:00:30,340 --> 00:00:33,860
+Así que esas son las tres como complicaciones más importantes. Se ha
+
+8
+00:00:33,860 --> 00:00:37,020
+asociado un montón de otras cosas por si acaso, pero esas son las tres que
+
+9
+00:00:37,020 --> 00:00:42,220
+cuentan con más evidencia y que hay que saber. La prevalencia, esto hay que
+
+10
+00:00:42,220 --> 00:00:47,380
+hay que conocerlo, es relativamente alta en el mundo. En Chile la mayoría de
+
+11
+00:00:47,380 --> 00:00:51,340
+los estudios muestran que hay una prevalencia de cerca de 75%, algunos
+
+12
+00:00:51,340 --> 00:00:55,580
+sale un poquito más, un poquito menos, pero ha variado bastante, algunos
+
+13
+00:00:55,580 --> 00:01:00,020
+muestran de 40%, incluso de menos de 40% y es algo que ha ido
+
+14
+00:01:00,020 --> 00:01:03,580
+disminuyendo con el tiempo, en el sentido en que ha aumentado la higiene
+
+15
+00:01:03,580 --> 00:01:06,340
+de las personas y el uso de antibióticos también y eso es algo que
+
+16
+00:01:06,340 --> 00:01:10,340
+ha ido disminuyendo igualmente la aportación de esta bacteria. El
+
+17
+00:01:10,340 --> 00:01:14,900
+diagnóstico se hace habitualmente con distintas pruebas, la endoscopía
+
+18
+00:01:14,900 --> 00:01:18,580
+digestiva alta es la más frecuente, si bien es un poco más invasiva,
+
+19
+00:01:18,580 --> 00:01:23,340
+cierto, eventualmente en la endoscopia se puede sacar una una muestra de
+
+20
+00:01:23,340 --> 00:01:27,020
+biopsia de mucosa gástrica y ahí se le aplica un test de ureasa que es
+
+21
+00:01:27,020 --> 00:01:32,140
+una enzima que está en esta bacteria o bien una PCR, cierto, para ir a ver si
+
+22
+00:01:32,140 --> 00:01:36,940
+es que hay material genético de esta bacteria y si es que se identifica, se
+
+23
+00:01:36,940 --> 00:01:40,620
+confirma inmediatamente el diagnóstico. La endoscopía lo subrayo en el
+
+24
+00:01:40,620 --> 00:01:45,220
+sentido en que es el examen más sensible y específico, pero repito es
+
+25
+00:01:45,220 --> 00:01:48,980
+invasivo, así que existen también algunos otros como el test de ureasa
+
+26
+00:01:48,980 --> 00:01:53,940
+en aire inspirado en que se le da una urea radioactiva, cierto, y luego
+
+27
+00:01:54,900 --> 00:02:00,060
+se mide en el aliento si es que se elimina CO2 radioactivo que en este
+
+28
+00:02:00,060 --> 00:02:05,060
+caso como la urea es degradada por el helicobacter pylori sería un CO2 que
+
+29
+00:02:05,060 --> 00:02:09,500
+viene de esa urea y la urea asa es algo que es un marcador muy fuerte de
+
+30
+00:02:09,500 --> 00:02:13,300
+esta bacteria y finalmente está en la prueba de antígeno en deposiciones
+
+31
+00:02:13,300 --> 00:02:16,580
+que es más simple, cierto, y que directamente se va a medir si es que
+
+32
+00:02:16,580 --> 00:02:21,180
+hay algo de helicobacter pylori en las deposiciones o no. Estos
+
+33
+00:02:21,860 --> 00:02:26,060
+últimos dos test son no invasivos pero son un poquito menos sensible por su
+
+34
+00:02:26,060 --> 00:02:30,460
+caso, así que repito la endoscopía suele ser el que habitualmente se busca
+
+35
+00:02:30,460 --> 00:02:34,900
+dado que la mayoría de los pacientes que se van a erradicar o que
+
+36
+00:02:34,900 --> 00:02:37,820
+activamente se va a buscar si es que tienen helicobacter pylori o no,
+
+37
+00:02:37,820 --> 00:02:41,140
+habitualmente se están estudiando con endoscopia también por alguna otra
+
+38
+00:02:41,140 --> 00:02:44,980
+razón, por sus síntomas, etcétera. Veamos ahora las indicaciones de
+
+39
+00:02:44,980 --> 00:02:50,940
+erradicación debido justamente a que es algo que mucha gente tiene y no
+
+40
+00:02:50,940 --> 00:02:53,420
+hay por qué estar dándole antibióticos a todo el mundo sino que
+
+41
+00:02:53,420 --> 00:02:57,340
+solamente los que cumplen con cierto riesgo. Lo más importante, lo que
+
+42
+00:02:57,340 --> 00:03:00,380
+cuentan con más evidencia son los pacientes que tienen una úlcera
+
+43
+00:03:00,380 --> 00:03:04,340
+gastrodudenal, en ese caso sin ninguna duda hay que erradicarlo. Número 2
+
+44
+00:03:04,340 --> 00:03:07,860
+los que vienen con un linfoma malgástrico, en este caso la
+
+45
+00:03:07,860 --> 00:03:12,780
+erradicación no solamente que me sirve sino que es el tratamiento
+
+46
+00:03:12,780 --> 00:03:17,020
+curativo del cáncer en sí, un porcentaje súper alto responde
+
+47
+00:03:17,180 --> 00:03:21,620
+simplemente a estos fármacos, o sea fíjense es un cáncer, un linfoma pero
+
+48
+00:03:21,620 --> 00:03:25,060
+que se trata con antibióticos y omeprazole que es el tratamiento de
+
+49
+00:03:25,060 --> 00:03:29,100
+erradicación del helicobacter pylori cierto y hay algunas otras que
+
+50
+00:03:29,100 --> 00:03:34,620
+son un poco más discutibles pero que habitualmente se señalan en la
+
+51
+00:03:34,620 --> 00:03:38,020
+literatura médica dentro de esto la dispepsa funcional, un porcentaje
+
+52
+00:03:38,020 --> 00:03:43,460
+responde a la erradicación, el uso crónico de aines debido a que en
+
+53
+00:03:43,460 --> 00:03:46,540
+teoría se sumarían dos factores de riesgo para una úlcera y hay que
+
+54
+00:03:46,540 --> 00:03:50,180
+bajarlo aunque repito no cuentan con tanta evidencia estas otras
+
+55
+00:03:50,180 --> 00:03:54,140
+indicaciones que venga con factores de riesgo de cáncer gástrico ejemplo
+
+56
+00:03:54,140 --> 00:03:58,020
+antecentes familiares o alguna otra cosa o que vengan con alteraciones
+
+57
+00:03:58,020 --> 00:04:01,860
+ya histológicas que aumentan el riesgo de cáncer gástrico como una
+
+58
+00:04:01,860 --> 00:04:07,820
+metaplasia intestinal por ejemplo o una displasia gástrica cierto en
+
+59
+00:04:07,820 --> 00:04:11,740
+alguna diopsia de alguna endoscopía que se realizó por alguna
+
+60
+00:04:12,300 --> 00:04:17,580
+en ese caso se erradica también ahora respecto del reflujo el reflujo no es
+
+61
+00:04:17,580 --> 00:04:20,420
+indicación de erradicación del helicobacter pylori así que en la
+
+62
+00:04:20,420 --> 00:04:25,580
+práctica ni siquiera es necesario ir a buscarse que tiene helicobacter o no
+
+63
+00:04:25,580 --> 00:04:29,460
+en un paciente que está con un reflujo clásico repito la úlcera y
+
+64
+00:04:29,460 --> 00:04:31,980
+el linfoma son las dos indicaciones que cuentan con evidencia
+
+65
+00:04:31,980 --> 00:04:36,900
+fuerte y las otras dispepsa funcional, uso de aines y las cosas
+
+66
+00:04:36,900 --> 00:04:40,140
+que en teoría aumenten el riesgo de cáncer gástrico serían estas otras
+
+67
+00:04:40,140 --> 00:04:44,140
+indicaciones sin tanta evidencia pero en el caso del reflujo hay
+
+68
+00:04:44,140 --> 00:04:49,180
+consenso en que no sería indicación de erradicación ahora con qué fármacos
+
+69
+00:04:49,180 --> 00:04:53,620
+se erradica y acá lo más importante es saber la lista de antibióticos y de
+
+70
+00:04:53,620 --> 00:04:57,060
+fármacos que eventualmente sirven número uno los inhibidores de la
+
+71
+00:04:57,060 --> 00:05:01,300
+bomba de protones el Lomeprazole, el Esomeprazole, el Lanzoprazole, el Pantoprazole
+
+72
+00:05:01,300 --> 00:05:05,220
+cualquiera de ellos segundo lugar la amoxicilina tercer lugar la
+
+73
+00:05:05,220 --> 00:05:09,820
+claritromicina o los macrólidos en general además el metronidazol la
+
+74
+00:05:09,820 --> 00:05:14,580
+doxicilina y el levofloxacino y todos esos antibióticos hay que saberlo lo
+
+75
+00:05:14,580 --> 00:05:19,740
+repito amoxicilina claritromicina metronidazol doxicilina y levofloxacino
+
+76
+00:05:19,740 --> 00:05:25,220
+y finalmente sirve también el bismuto coloidal cierto que
+
+77
+00:05:25,220 --> 00:05:30,180
+funciona como antiácido y en este caso la elección del conjunto de
+
+78
+00:05:30,180 --> 00:05:34,780
+medicamentos que se va a dejar se hace caso a caso habitualmente se usan
+
+79
+00:05:34,780 --> 00:05:41,260
+tres o cuatro que se llaman la terapia triple y cuádruple respectivamente y
+
+80
+00:05:41,260 --> 00:05:45,580
+la guía Minsal al menos para la inmensa mayoría de los casos en Chile
+
+81
+00:05:45,580 --> 00:05:50,220
+lo que recomienda es que de primera línea se deje amoxicilina más
+
+82
+00:05:50,220 --> 00:05:55,460
+claritromicina más el omeprazole y esto por 14 días la amoxicilina hay
+
+83
+00:05:55,460 --> 00:05:59,500
+que saber que es un gramo cada 12 horas la claritromicina en cambio
+
+84
+00:05:59,500 --> 00:06:04,260
+son 500 miligramos cada 12 horas y el omeprazole son 20 a 40 miligramos
+
+85
+00:06:04,260 --> 00:06:08,580
+cada 12 horas también o sea es un dosis relativamente alta y de segunda
+
+86
+00:06:08,580 --> 00:06:13,500
+línea en cambio se suele dejar la doxicilina el metronidazol el inhibidor
+
+87
+00:06:13,500 --> 00:06:18,260
+de la bomba de protones y se agrega además el bismuto pero repito la
+
+88
+00:06:18,260 --> 00:06:21,100
+verdad es que estos esquemas no son rígidos y se pueden ir cambiando
+
+89
+00:06:21,100 --> 00:06:26,660
+según el caso a caso según la prevalencia de resistencia que se
+
+90
+00:06:26,660 --> 00:06:30,460
+haya descrito en el último tiempo etcétera en los pacientes que son
+
+91
+00:06:30,460 --> 00:06:33,380
+alérgicos algunos de estos medicamentos simplemente se cambia por
+
+92
+00:06:33,380 --> 00:06:36,740
+alguno de los otros medicamentos que están ahí y yo sí les recomiendo que
+
+93
+00:06:36,740 --> 00:06:41,020
+se aprendan al menos estos dos esquemas que son los que se recomienda en el
+
+94
+00:06:41,020 --> 00:06:45,980
+sistema público chileno sabiendo que no son obligatorios dejarlos tal cual
+
+95
+00:06:45,980 --> 00:06:50,060
+eventualmente uno como médico si los puede cambiar pero solo que suele haber
+
+96
+00:06:50,060 --> 00:06:54,420
+disponible en la farmacia el sistema público por ejemplo ahora cuando yo
+
+97
+00:06:54,420 --> 00:06:58,820
+doy un tratamiento erradicador de helicobacter pylori hay que confirmar
+
+98
+00:06:58,820 --> 00:07:02,580
+que se haya erradicado si es que no sea erradicado y que el
+
+99
+00:07:02,580 --> 00:07:06,020
+tratamiento de segunda línea cierto en cambio si es que se confirma en ese
+
+100
+00:07:06,020 --> 00:07:10,340
+caso me quedo absolutamente tranquilo y esto se puede se puede confirmar
+
+101
+00:07:10,340 --> 00:07:16,380
+igualmente de tres formas lo más invasivo pero un poquito mejor era la
+
+102
+00:07:16,380 --> 00:07:20,180
+endoscopía digestiva alta y las otras alternativas era con las pruebas
+
+103
+00:07:20,180 --> 00:07:25,980
+no invasiva ya sea con el antígeno en deposición es cierto o con la prueba
+
+104
+00:07:25,980 --> 00:07:31,620
+de la ureasa en el aire espirado o la prueba de aliento de ureasa cierto
+
+105
+00:07:31,620 --> 00:07:37,980
+que eran no invasivo ahora cuál de los dos voy a elegir sabiendo que ambos
+
+106
+00:07:37,980 --> 00:07:42,140
+sirven en la úlcera gástrica por la general se recomienda la endoscopía
+
+107
+00:07:42,140 --> 00:07:45,620
+digestiva alta porque habíamos dicho antes cierto que la úlcera gástrica
+
+108
+00:07:45,620 --> 00:07:49,500
+eventualmente puede esconder un cáncer gástrico de base así que
+
+109
+00:07:49,500 --> 00:07:53,140
+después de que se cura la úlcera en ese caso yo debo ir con una
+
+110
+00:07:53,140 --> 00:07:57,340
+endoscopía a ver el lecho de la úlcera y a tomar biopsias como para
+
+111
+00:07:57,340 --> 00:08:00,740
+ver que no hay un cáncer y en ese caso aprovecho en ese mismo instante
+
+112
+00:08:00,740 --> 00:08:06,380
+habitualmente un mes o un mes y medio después cierto de haber erradicado en
+
+113
+00:08:06,380 --> 00:08:10,140
+ese caso se controla con una endoscopía y veo si es que erradiqué
+
+114
+00:08:10,140 --> 00:08:14,300
+también o sea repito en la úlcera gástrica es necesario controlar con
+
+115
+00:08:14,300 --> 00:08:18,740
+una endoscopía y se aprovecha de confirmar la erradicación del
+
+116
+00:08:18,740 --> 00:08:22,460
+helicobacter pylori en cambio en la úlcera duodenal y en las otras
+
+117
+00:08:22,460 --> 00:08:26,580
+indicaciones de erradicación la verdad es que no hay un riesgo de
+
+118
+00:08:26,580 --> 00:08:30,620
+cáncer así que en ese caso me basta con las pruebas no invasivas y el
+
+119
+00:08:30,620 --> 00:08:34,940
+antígeno sería el de elección pero que haya quedado claro importante saber
+
+120
+00:08:34,940 --> 00:08:40,100
+una una bacteria que es muy prevalente que se complica con distintas cosas que
+
+121
+00:08:40,100 --> 00:08:43,180
+tiene indicaciones claras y otras no tan claras que hay que saberlas todas
+
+122
+00:08:43,180 --> 00:08:47,780
+de memoria y hay que saber la lista completa de medicamentos más saber
+
+123
+00:08:47,780 --> 00:08:51,580
+cómo se controla la erradicación que era con endoscopía en la úlcera
+
+124
+00:08:51,580 --> 00:08:55,100
+gástrica y con pruebas no invasivas en el resto de las indicaciones ya
+
+125
+00:08:55,100 --> 00:08:58,660
+nos vemos en el siguiente tema que estén bien

@@ -1,0 +1,659 @@
+1
+00:00:03,150 --> 00:00:07,470
+Hola, hola, ¿cómo están? Vamos a hablar de los fármacos anticobulantes, tanto las heparinas como
+
+2
+00:00:07,470 --> 00:00:13,030
+los anticobulantes orales y tanto los más antiguos como los más nuevos. Así que vamos y empecemos
+
+3
+00:00:13,030 --> 00:00:18,730
+con estos anticobulantes por vía oral. Dentro de las dos familias que hay que saber están los
+
+4
+00:00:18,730 --> 00:00:22,950
+comarínicos, que son los que se usan desde hace mucho tiempo. Que acuérdense que su
+
+5
+00:00:22,950 --> 00:00:27,270
+mecanismo de acción es que son antagonistas de la vitamina K. Así que cuando alguien se
+
+6
+00:00:27,270 --> 00:00:30,870
+intoxica con ellos, el antídoto es la vitamina K. Cuando alguien se intoxica con
+
+7
+00:00:30,870 --> 00:00:37,310
+veneno para ratas, que habitualmente usan guarfarina o acenocumarol, que son los dos
+
+8
+00:00:37,310 --> 00:00:41,790
+que hay que saber, igualmente el antídoto es la vitamina K, pero sepan que estos se usan desde
+
+9
+00:00:41,790 --> 00:00:46,950
+hace muchos años en la anticobulación de los pacientes con trombofilia, en los pacientes con
+
+10
+00:00:46,950 --> 00:00:51,990
+EFA, etcétera, con fibrilación auricular. Pero desde hace algunos años se han desarrollado
+
+11
+00:00:51,990 --> 00:00:57,590
+múltiples anticobulantes orales que son nuevos y que se abrían como NACO, la N de
+
+12
+00:00:57,590 --> 00:01:01,830
+nuevos, o bien que se llaman también anticobulantes directos, en el sentido en
+
+13
+00:01:01,830 --> 00:01:09,310
+que actúan inhibiendo directamente un factor de la coagulación, como el factor 10 activado,
+
+14
+00:01:09,310 --> 00:01:14,350
+que es el más clásico, así que se abrían también como ACOD, con la D final de directo,
+
+15
+00:01:14,350 --> 00:01:19,910
+y que el ribaroxaban es el clásico que hay que saber, o al menos hay que saber que sus
+
+16
+00:01:19,910 --> 00:01:28,150
+nombres habitualmente terminan en la frase sabán, o en las letras sabán, dígase el apixaban,
+
+17
+00:01:28,150 --> 00:01:36,670
+el edoxaban, y aparte hay algunos otros como el davigatran, y hay otras de estas familias
+
+18
+00:01:36,670 --> 00:01:41,750
+que no actúan inhibiendo el factor 10, sino que inhibiendo el factor 2 activado, que el
+
+19
+00:01:41,750 --> 00:01:46,910
+otro nombre es la trombina, acuérdense que la protrombina es el factor 2, y se transforma
+
+20
+00:01:46,910 --> 00:01:54,470
+en trombina en el momento en que se activa, y que nuevamente el argatroban y el bivalirudin
+
+21
+00:01:54,470 --> 00:01:59,590
+son los que actúan directamente acá. Ahora, los nombres dan más o menos lo mismo, lo que sí hay
+
+22
+00:01:59,590 --> 00:02:06,150
+que saber es que son nuevos, que actúan de manera directa, así que tienen una latencia
+
+23
+00:02:06,150 --> 00:02:13,310
+para empezar a generar un efecto anticobulante muy breve, en lo que se demora en absorberse
+
+24
+00:02:13,350 --> 00:02:17,630
+en el tracto digestivo, y hay que saber que los cumarínicos por el general hay que
+
+25
+00:02:17,630 --> 00:02:24,470
+controlarlos con un INR que desde el momento en que se empiezan a dar se controla con el
+
+26
+00:02:24,470 --> 00:02:29,630
+tiempo de protrombina, del cual luego se deriva este índice, el INR que lo normal
+
+27
+00:02:29,630 --> 00:02:34,990
+es que esté en 1, y el rango de anticobulación óptimo es que esté entre 2 y 3, en cambio
+
+28
+00:02:34,990 --> 00:02:39,350
+estos nuevos anticobulantes, estos NACO, no requieren ningún examen de control,
+
+29
+00:02:39,350 --> 00:02:45,710
+sino que simplemente se da en cierta dosis y de ese modo uno ya espera que esté anticobulado.
+
+30
+00:02:45,710 --> 00:02:50,710
+En el caso de las heparinas acuérdense que se dan por vía parenteral, ya sea endovenosa
+
+31
+00:02:50,710 --> 00:02:57,670
+o subcutánea, como dos grandes familias son las heparinas no fraccionadas o de alto peso
+
+32
+00:02:57,670 --> 00:03:03,950
+molecular o heparina clásica, y aparte están las heparinas fraccionadas o de bajo peso
+
+33
+00:03:03,950 --> 00:03:11,310
+molecular, que se abreve así como heparina de bajo peso molecular, HBPM, el mecanismo de
+
+34
+00:03:11,310 --> 00:03:18,390
+acción de ambas es exactamente el mismo, se unen a la antitrombina ó antitrombina 3 y de esa
+
+35
+00:03:18,390 --> 00:03:25,470
+manera inhiben igualmente de manera directa a la trombina, al factor 2 activado y también
+
+36
+00:03:25,470 --> 00:03:32,830
+al factor 10 activado, entonces fíjense heparinas y los NACO, su mecanismo de acción es más o
+
+37
+00:03:32,830 --> 00:03:39,030
+menos similar, no es exactamente igual pero ambos actúan de manera directa y eso hace que
+
+38
+00:03:39,030 --> 00:03:44,830
+ambos actúen de manera relativamente rápida, en el caso de las heparinas endovenosas actúan
+
+39
+00:03:44,830 --> 00:03:50,430
+obviamente de inmediato. Como ejemplo de los nombres de la no fraccionada la heparina común,
+
+40
+00:03:50,430 --> 00:03:57,830
+en el caso de la heparina de bajo peso o fraccionada es la enoxaparina la más clásica
+
+41
+00:03:57,830 --> 00:04:04,550
+pero hay que sumarle otras como la dalteparina, la tinzaparina, la nadroparina, cuyos nombres dan
+
+42
+00:04:04,550 --> 00:04:09,350
+más o menos lo mismo pero sepan que aparte de la enoxaparina hay otras más que son todas
+
+43
+00:04:09,350 --> 00:04:15,710
+de bajo peso. Ahora la heparina no fraccionada hay que controlarla con el TTPA o TTPK que
+
+44
+00:04:15,710 --> 00:04:22,270
+acuérdense que yo tomo el basal antes de iniciar la administración y luego lo llevo a
+
+45
+00:04:22,270 --> 00:04:29,030
+1,5 veces el basal ahora cuando el TTPA está demasiado alto en ese caso se lleva hasta 60
+
+46
+00:04:29,030 --> 00:04:34,830
+nomás y en el caso de la no fraccionada pues su ventaja es justamente que no requieren
+
+47
+00:04:34,830 --> 00:04:40,710
+control tampoco o sea fíjense los fármacos más antiguos se controlan con el INR en el
+
+48
+00:04:40,710 --> 00:04:45,910
+caso del taco y con el TTPA en el caso de la heparina y los fármacos más nuevos en
+
+49
+00:04:45,910 --> 00:04:49,870
+cambio su ventaja fundamental es justamente que no requieren de ningún examen de control.
+
+50
+00:04:50,710 --> 00:04:55,390
+Vamos a ver aparte de eso otras ventajas y desventajas que justamente nos ayudan a
+
+51
+00:04:55,390 --> 00:05:00,110
+elegir que fármaco dejar aunque en la práctica lo ideal si es que hay recursos hay que dejar
+
+52
+00:05:00,110 --> 00:05:06,590
+heparina de bajo peso molecular y NACOs pero vamos viendo igual las ventajas y desventajas
+
+53
+00:05:06,590 --> 00:05:13,950
+el taco es barato, los comarínicos son baratos aparte de eso tienen como desventajas que
+
+54
+00:05:14,430 --> 00:05:20,870
+requieren un control con INR que se tiene que hacer de manera bastante seguida al principio hasta
+
+55
+00:05:20,870 --> 00:05:26,030
+que estoy dentro de rango y luego ya lo puedo ir espaciando cada dos semanas y luego cada
+
+56
+00:05:26,030 --> 00:05:31,770
+un mes o incluso más tiempo y tienen como un problema es que su efecto demora y demora
+
+57
+00:05:31,770 --> 00:05:37,350
+tanto en instalarse o sea desde que yo empiezo a tomar la warfarina hasta que estoy
+
+58
+00:05:37,350 --> 00:05:42,470
+ante coagulado habitualmente pasan varios días en el sentido en que la síntesis de
+
+59
+00:05:42,470 --> 00:05:49,590
+los factores de coagulación demora algún tiempo y el efecto perdura igualmente desde
+
+60
+00:05:49,590 --> 00:05:56,030
+que yo lo suspendo durante varios días más así que es uno de los problemas como más importante
+
+61
+00:05:56,030 --> 00:06:01,950
+del taco demoran en anticobular y demoran en dejar de anticobular en el caso de los NACOs
+
+62
+00:06:01,950 --> 00:06:07,790
+en cambio su ventaja fundamental es que no requiere control y además que son bastante
+
+63
+00:06:07,790 --> 00:06:12,670
+eficaces en el sentido en que hay algunos estudios muy chicos que demuestran que se
+
+64
+00:06:12,670 --> 00:06:18,710
+mantendrían dentro del rango anticobulante durante más tiempo que los comarínicos pero
+
+65
+00:06:18,710 --> 00:06:24,470
+sus desventajas son que son más caros aunque cada vez están más disponibles y que además
+
+66
+00:06:24,470 --> 00:06:29,630
+están contraindicados en algunas situaciones en particular en los cuales uno está obligado
+
+67
+00:06:29,630 --> 00:06:34,950
+a usar los comarínicos que es cuando hay una falla renal importante cuando hay un daño
+
+68
+00:06:35,790 --> 00:06:41,830
+hepático crónico severo en esos dos casos hay que hacerlo con el comarínico obviamente
+
+69
+00:06:41,830 --> 00:06:47,230
+ajustando la dosis según el INR y en el caso de que haya una estenosis mitral o algunas otras
+
+70
+00:06:47,230 --> 00:06:54,350
+valvulopatías de un riesgo embólico muy alto igualmente se suele elegir los comarínicos
+
+71
+00:06:54,350 --> 00:07:00,390
+en vez de los NACOs en el caso de las heparinas la no fraccionada la heparina común
+
+72
+00:07:00,390 --> 00:07:04,950
+su ventaja es que es barata aparte de eso tiene un efecto inmediato el efecto inmediato
+
+73
+00:07:04,950 --> 00:07:10,190
+también se ve en la heparina de bajo peso por si acaso y las desventajas que hay que
+
+74
+00:07:10,190 --> 00:07:15,670
+controlarla con el TTP de manera muy seguido cada cuatro horas además que tienen bastantes
+
+75
+00:07:15,670 --> 00:07:22,590
+efectos adversos dentro de los cuales la osteoporosis y la trombopenia inducida por
+
+76
+00:07:22,590 --> 00:07:28,590
+heparina ya sea de tipo inmune o no inmune son de las complicaciones más importantes en
+
+77
+00:07:28,590 --> 00:07:33,630
+el caso de la trombopenia a lo mejor no sea tan frecuente pero es especialmente grave en el
+
+78
+00:07:33,630 --> 00:07:38,030
+sentido en que se me suma la anticoagulación o sea la alteración de la hemostasia secundaria
+
+79
+00:07:38,030 --> 00:07:43,430
+con la plaquetopenia que me altera la hemostasia primaria y se me dispara el riesgo de hemorragia
+
+80
+00:07:43,430 --> 00:07:48,510
+en el caso de la heparina de bajo peso molecular sus ventajas era justamente que
+
+81
+00:07:48,510 --> 00:07:53,270
+no requería un examen de control y que tiene mucho menos riesgo de las reacciones
+
+82
+00:07:53,270 --> 00:07:58,510
+adversas a medicamentos o sea tiene menos trombopenia tiene menos osteoporosis pero
+
+83
+00:07:58,510 --> 00:08:05,110
+como desventajas son un poco más caras aunque en la actualidad se usan de manera sistemática
+
+84
+00:08:05,110 --> 00:08:10,310
+y tienen un riesgo un poquito más alto en la insuficiencia renal crónica ahí se dispara
+
+85
+00:08:10,310 --> 00:08:16,510
+un poco el riesgo de hemorragia y como cosa final es como no hay ningún examen que se
+
+86
+00:08:16,510 --> 00:08:21,430
+puede medir directamente su efecto en el caso en que haya una intoxicación eventualmente la
+
+87
+00:08:21,430 --> 00:08:27,750
+única forma de saber si es que la heparina de bajo peso molecular está en exceso sería
+
+88
+00:08:27,750 --> 00:08:33,710
+midiendo el anti factor 10 activado que es algo que habitualmente no está disponible o sea si
+
+89
+00:08:33,710 --> 00:08:39,190
+bien no es algo que sea tan importante eventualmente yo puedo tener alguna dificultad
+
+90
+00:08:39,190 --> 00:08:45,990
+en confirmar la sobredosis de la heparina de bajo peso molecular ahora cuál es el
+
+91
+00:08:45,990 --> 00:08:51,550
+antídoto de cada uno en el caso de los cumarínicos ya dijimos es la vitamina k ahora
+
+92
+00:08:51,550 --> 00:08:56,710
+la vitamina k demora algún tiempo así que si es que yo necesito revertirlo de inmediato la
+
+93
+00:08:56,710 --> 00:09:01,710
+única forma es administrando plasma fresco congelado el administrar los factores de
+
+94
+00:09:01,710 --> 00:09:06,230
+coagulación porque acuérdese que esto se demora algunos días en quitarse en el
+
+95
+00:09:06,230 --> 00:09:11,310
+caso del naco se dice que no hay un antídoto en específico pero actualmente
+
+96
+00:09:11,310 --> 00:09:17,870
+se han desarrollado algunos que es el andesanet alfa pero en la práctica no está disponible en
+
+97
+00:09:17,870 --> 00:09:22,510
+ninguna parte así que no hay un antídoto simplemente se suspende recordando que tiene
+
+98
+00:09:22,510 --> 00:09:28,230
+un efecto directo y que al suspenderlo el efecto anticoagulante igualmente va a ir
+
+99
+00:09:28,230 --> 00:09:33,670
+disminuyendo de manera relativamente rápida en el caso de la heparina no fraccionada y de
+
+100
+00:09:33,670 --> 00:09:40,070
+la heparina de bajo peso molecular en ambos casos el antídoto es la protamina o sulfato
+
+101
+00:09:40,070 --> 00:09:47,990
+de protamina pero sepan que es un poco menos eficaz en la de bajo peso molecular finalmente
+
+102
+00:09:47,990 --> 00:09:52,710
+algunos detalles sobre esto sepan que en el caso de que alguien sufra una embolia por
+
+103
+00:09:52,710 --> 00:09:58,510
+la general se anticoagula de inmediato con heparina de bajo peso de bajo peso así es
+
+104
+00:09:58,510 --> 00:10:03,830
+que no está disponible en ese caso se puede utilizar la heparina no fraccionada o incluso
+
+105
+00:10:03,830 --> 00:10:11,870
+los naco luego de eso se evalúa según el caso y según la causa de esta embolia si es que debe
+
+106
+00:10:11,870 --> 00:10:16,630
+quedar con naco o bien si es que puedo dejarlo con la misma heparina de bajo peso durante
+
+107
+00:10:16,630 --> 00:10:21,630
+algún tiempo más en el caso de un accidente vascular encefálico embólico es una excepción
+
+108
+00:10:21,630 --> 00:10:26,750
+en el sentido que por el general uno no lo anticoagula en la etapa inicial sino que se
+
+109
+00:10:26,790 --> 00:10:32,750
+empieza la anticoagulación dos semanas después en particular cuando es un accidente muy muy
+
+110
+00:10:32,750 --> 00:10:38,110
+grande en el sentido en que puede evolucionar a una transformación hemorrágica o bien cuando
+
+111
+00:10:38,110 --> 00:10:43,510
+ya hay una transformación hemorrágica igualmente está contraindicado el dejarle
+
+112
+00:10:43,510 --> 00:10:49,390
+anticoagulación y finalmente en el caso de que tenga una hipertensión muy descontrolada
+
+113
+00:10:49,390 --> 00:10:53,590
+igualmente eso aumenta el riesgo de que el áviz químico embólico de genere luego
+
+114
+00:10:53,590 --> 00:11:00,230
+en una transformación hemorrágica así que en todos esos casos estoy obligado a esperar el
+
+115
+00:11:00,230 --> 00:11:04,830
+tratamiento anticoagulante aunque tengo una embolia en este momento y debo hacerlo dos
+
+116
+00:11:04,830 --> 00:11:09,070
+semanas después ahora si fuera un accidente vascular más pequeño sin ninguna de esas
+
+117
+00:11:09,070 --> 00:11:13,750
+cosas eventualmente sí se puede anticoagular de inmediato y además cuando lo que yo tengo
+
+118
+00:11:13,750 --> 00:11:17,350
+no es un accidente vascular encefálico sino que simplemente un accidente químico
+
+119
+00:11:17,350 --> 00:11:22,830
+transitorio en ese caso yo sí puedo anticoagular desde ahora es más debo anticoagular ahora en
+
+120
+00:11:22,830 --> 00:11:27,590
+el sentido en que tengo riesgo de una nueva embolia hay riesgo de un accidente vascular
+
+121
+00:11:27,590 --> 00:11:31,590
+pero no hay riesgo de la transformación hemorrágica ahora en el caso del accidente
+
+122
+00:11:31,590 --> 00:11:38,230
+vascular hemorrágico que no es el embólico sino que es el que de entrada hay sangramiento
+
+123
+00:11:38,230 --> 00:11:43,710
+obviamente está absolutamente contraindicado todo tipo de anticoagulación en el caso de
+
+124
+00:11:43,710 --> 00:11:49,670
+que alguien tenga buen control con el taco y esté con los comarínicos hace mucho tiempo
+
+125
+00:11:49,670 --> 00:11:56,310
+ahí surge esta clásica pregunta los tacos son mejores son a lo mejor un poquito más caro
+
+126
+00:11:56,310 --> 00:12:02,270
+tengo recursos para darle un uno de estos fármacos nuevos me paso al naco sí o no y
+
+127
+00:12:02,270 --> 00:12:07,510
+alguien puede decirse que el paciente está cómodo está bien está bien controlado tiene
+
+128
+00:12:07,510 --> 00:12:12,070
+buena adherencia y estado siempre estable no hay ninguna razón para cambiarse al naco
+
+129
+00:12:12,070 --> 00:12:17,270
+ahora en el resto de los pacientes por el general mientras la medida en que haya
+
+130
+00:12:17,270 --> 00:12:22,870
+recurso la indicación en verdad es dejar de lado los comarínicos que tienen menos eficacia
+
+131
+00:12:22,870 --> 00:12:29,550
+y más dificultades en su manejo y el ir cambiándose a los nuevos anticoagulantes orales
+
+132
+00:12:29,550 --> 00:12:33,910
+al menos eso es lo que dicen las recomendaciones internacionales más allá de lo que diga el
+
+133
+00:12:33,910 --> 00:12:40,990
+sistema público de cada país que depende obviamente del financiamiento ahora como un
+
+134
+00:12:40,990 --> 00:12:45,670
+tema importante al cambiarme del taco al naco es que hay que hacerlo lento porque
+
+135
+00:12:45,670 --> 00:12:51,670
+acuérdense que al suspender el anticoagulante oral de los comarínicos sigue su efecto por
+
+136
+00:12:51,670 --> 00:12:57,710
+algunos días más y si es que yo voy y lo suspendo pero inmediatamente empiezo con los
+
+137
+00:12:57,710 --> 00:13:03,310
+naco en ese caso voy a mantenerlo doblemente anticoagulado por algunos días así que
+
+138
+00:13:03,310 --> 00:13:09,630
+habitualmente se suspende y se inicia luego con una dosis baja de el naco que va subiendo a
+
+139
+00:13:09,630 --> 00:13:13,190
+medida que va pasando los días y que eventualmente se puede ir controlando con
+
+140
+00:13:13,190 --> 00:13:19,750
+el nr como para ver que desaparezca el efecto anticoagulante del taco original y finalmente
+
+141
+00:13:19,750 --> 00:13:25,150
+qué pasa si es que estoy con taco o naco o sea si estoy anticoagulado y aparte requiero
+
+142
+00:13:25,150 --> 00:13:31,470
+aspirina en ese caso hay que ver que la aspirina es un antiagregante que se usa como para
+
+143
+00:13:31,470 --> 00:13:37,190
+evitar por ejemplo un infarto pero que el tratamiento anticoagulante igualmente tiene
+
+144
+00:13:37,190 --> 00:13:44,350
+algún beneficio en ese sentido así que al sumarlos el beneficio eventualmente puede subir
+
+145
+00:13:44,350 --> 00:13:49,990
+pero también sube mucho el riesgo de hemorragia entonces lo que se hace es en cada paciente se
+
+146
+00:13:49,990 --> 00:13:55,270
+ve de manera individual el riesgo de esquemia ejemplo de un infarto versus el riesgo de
+
+147
+00:13:55,270 --> 00:14:01,150
+una hemorragia ejemplo un accidente vascular encefálico y en base a eso se decide si es
+
+148
+00:14:01,150 --> 00:14:07,230
+que dejo los dos fármacos sea el anticoagulante y el antiagregante que el momento más clásico
+
+149
+00:14:07,230 --> 00:14:11,230
+para hacerlo es después de un infarto por ejemplo suelen quedar con ambos fármacos
+
+150
+00:14:11,230 --> 00:14:15,950
+durante bastante tiempo o si solamente dejo uno de ellos habitualmente cuando ambos
+
+151
+00:14:15,950 --> 00:14:21,070
+están indicados lo que se deja es la anticoagulación finalmente hablar un poquito de las
+
+152
+00:14:21,070 --> 00:14:28,630
+interacciones medicamentosas de los anticoagulantes y hay que saber que el citocromo p450 es el
+
+153
+00:14:28,630 --> 00:14:33,350
+que metaboliza los cumarínicos así que si es que yo le dejo algún fármaco como la rifampicina
+
+154
+00:14:33,350 --> 00:14:40,870
+o los barbitúricos que aumentan la expresión del citocromo p450 o por el contrario si es
+
+155
+00:14:40,870 --> 00:14:47,190
+que le dejo el ketoconazol o los macrólidos u otros fármacos que disminuyan la expresión
+
+156
+00:14:47,190 --> 00:14:52,750
+o la actividad de el citocromo p450 yo debo ajustar la dosis obviamente si es que tengo
+
+157
+00:14:52,750 --> 00:14:58,430
+mucho p450 como en la rifampicina alguien con tuberculosis por ejemplo en ese caso se va a
+
+158
+00:14:58,430 --> 00:15:04,630
+degradar más rápido el anticoagulante así que debo subir la dosis y en el caso de que inicie
+
+159
+00:15:04,630 --> 00:15:10,390
+un tratamiento con ketoconazol lo que yo debería hacer es bajar la dosis y en ambos casos
+
+160
+00:15:10,390 --> 00:15:17,150
+siempre controlando con el INR como para asegurarme que quede dentro del rango que no me vaya
+
+161
+00:15:17,150 --> 00:15:22,910
+ni a faltar ni a sobrar y como última cosa saber que por el general los NACOs tienen mucho
+
+162
+00:15:22,910 --> 00:15:28,910
+menos interacciones con el citocromo p450 y esa es justamente otra de sus ventajas que no
+
+163
+00:15:28,910 --> 00:15:34,670
+dependen ni de la dieta de vitamina K ni de las interacciones con otros fármacos ni hay que
+
+164
+00:15:34,670 --> 00:15:38,990
+controlarlos con examen y eso hace que en la actualidad sean de elección en la medida en
+
+165
+00:15:38,990 --> 00:15:42,230
+que haya recursos para comprarlo y eso es todo nos vemos en los siguientes vídeos

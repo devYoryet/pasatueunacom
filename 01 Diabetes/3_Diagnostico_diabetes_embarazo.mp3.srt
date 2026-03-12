@@ -1,0 +1,495 @@
+1
+00:00:03,250 --> 00:00:07,330
+Hola, hola, ¿cómo están? Algo importante es que el diagnóstico de diabetes en el
+
+2
+00:00:07,330 --> 00:00:11,970
+embarazo cambia bastante, así que hay que tener mucho cuidado de ver si la
+
+3
+00:00:11,970 --> 00:00:15,330
+paciente está embarazada o no y de saber diferenciar los criterios de las
+
+4
+00:00:15,330 --> 00:00:19,690
+personas no embarazadas y de las personas embarazadas. Así que empecemos con este
+
+5
+00:00:19,690 --> 00:00:22,370
+concepto de diabetes mellitus gestacional, que lo vamos a
+
+6
+00:00:22,370 --> 00:00:26,490
+contrastar luego con la pregestacional. La diabetes mellitus gestacional es
+
+7
+00:00:26,490 --> 00:00:30,450
+una mujer que está embarazada y que cumple con alguno de estos criterios.
+
+8
+00:00:30,450 --> 00:00:35,570
+Número uno, que tenga dos glicemios de ayuno mayor o igual a 100. Ya no es 126, en este
+
+9
+00:00:35,570 --> 00:00:39,570
+caso es 100. Entonces fíjense, ya no existe la glicemia de ayuno alterada en
+
+10
+00:00:39,570 --> 00:00:43,050
+el embarazo. Derechamente es una diabetes mellitus gestacional.
+
+11
+00:00:43,050 --> 00:00:48,730
+Segundo lugar, que tenga un TTGO con 75 gramos que el basal me dé mayor o
+
+12
+00:00:48,730 --> 00:00:53,570
+igual a 100, o sea, una glicemia de ayuno mayor o igual a 100, o bien que esté
+
+13
+00:00:53,570 --> 00:00:58,650
+mayor o igual a 140 a las dos horas después de la carga con los 75
+
+14
+00:00:58,650 --> 00:01:02,810
+gramos. O sea, nuevamente acá no existe el diagnóstico de intolerancia a la
+
+15
+00:01:02,810 --> 00:01:06,410
+glucosa oral. Derechamente es una diabetes mellitus gestacional. O sea,
+
+16
+00:01:06,410 --> 00:01:11,130
+fíjense, en el embarazo no hay prediabetes. Derechamente hay diabetes y
+
+17
+00:01:11,130 --> 00:01:14,010
+la razón de eso es que con esos rangos de glicemia que son
+
+18
+00:01:14,010 --> 00:01:17,210
+relativamente buenos, al menos para las complicaciones propias de la
+
+19
+00:01:17,210 --> 00:01:20,090
+diabetes, ya puede haber complicaciones en el feto, en el
+
+20
+00:01:20,090 --> 00:01:23,610
+embarazo. Así que es importante hacer el diagnóstico y manejarlo.
+
+21
+00:01:24,170 --> 00:01:30,570
+Finalmente, el mismo criterio de alguien no embarazada, cierto, en el
+
+22
+00:01:30,570 --> 00:01:35,130
+cual avanzado el embarazo, después de las 12 semanas tenga una glicemia
+
+23
+00:01:35,130 --> 00:01:39,050
+mayor o igual a 200 más síntomas de diabetes, si bien es bien raro que se
+
+24
+00:01:39,050 --> 00:01:42,810
+diagnostique una diabetes gestacional por ese criterio. Lo más
+
+25
+00:01:42,810 --> 00:01:46,850
+frecuente es que sea por alguno de los otros dos. Ahora, ¿cuáles son los
+
+26
+00:01:46,850 --> 00:01:51,690
+criterios de una diabetes mellitus pregestacional? En este caso es o un
+
+27
+00:01:51,690 --> 00:01:54,930
+diagnóstico que se hizo antes de embarazarse, un diagnóstico previo, o
+
+28
+00:01:54,930 --> 00:01:58,090
+bien un diagnóstico que se hace siempre en las primeras semanas, en las
+
+29
+00:01:58,090 --> 00:02:01,770
+primeras 12 semanas de embarazo. Si se hace después uno ya no puede hablar
+
+30
+00:02:01,770 --> 00:02:05,810
+de diabetes pregestacional. Ahora, los criterios es o que se hizo el
+
+31
+00:02:05,810 --> 00:02:09,890
+diagnóstico previo, ese es el primero. El segundo es que tenga las dos
+
+32
+00:02:09,890 --> 00:02:13,490
+glicemias de ayuno mayor o igual a 126 en las primeras 12 semanas. Y el
+
+33
+00:02:13,490 --> 00:02:17,930
+último es que tenga una glicemia, ya sea de ayuno o no, mayor o igual a 200
+
+34
+00:02:17,930 --> 00:02:20,930
+más los síntomas, también dentro de las primeras 12 semanas. O sea, en
+
+35
+00:02:20,930 --> 00:02:25,530
+resumen, que o se haya diagnosticado antes del embarazo o se diagnostique la
+
+36
+00:02:25,530 --> 00:02:29,530
+primera parte del embarazo con los criterios para alguien no embarazada.
+
+37
+00:02:29,530 --> 00:02:34,890
+Repito, para los criterios de alguien no embarazada. Entonces la pregunta que
+
+38
+00:02:34,890 --> 00:02:39,450
+hay acá es ¿qué pasa si cumple con esos criterios pero los cumple después
+
+39
+00:02:39,450 --> 00:02:43,050
+de las 12 semanas? Ejemplo, las 30 semanas. En ese caso ya no es una
+
+40
+00:02:43,050 --> 00:02:47,730
+diabetes mellitus pregestacional, sino que sería una diabetes gestacional.
+
+41
+00:02:48,130 --> 00:02:52,450
+Veamos, como para que quede un poquito más claro, el screening. El screening en
+
+42
+00:02:52,450 --> 00:02:55,450
+el embarazo se hace igualmente con una glicemia de ayuno al inicio del
+
+43
+00:02:55,450 --> 00:02:59,450
+embarazo, así bien temprano en el embarazo. Y si me sale menor a 100, en
+
+44
+00:02:59,450 --> 00:03:03,930
+ese caso es normal, igual que en las personas no embarazadas, y no se hace
+
+45
+00:03:03,930 --> 00:03:07,370
+nada más, simplemente lo voy a controlar con un TTGO que se hace
+
+46
+00:03:07,370 --> 00:03:11,610
+más adelante, ya después de la segunda mitad del embarazo. Y si me
+
+47
+00:03:11,610 --> 00:03:15,730
+sale mayor o igual a 100, inmediatamente voy y lo repito. Ya no
+
+48
+00:03:15,730 --> 00:03:19,810
+ocurre eso que si estaba entre 100 o 125 se pedía un TTGO, en el sentido en
+
+49
+00:03:19,810 --> 00:03:22,450
+que acá con que esté mayor o igual a 100 ya hago el diagnóstico de
+
+50
+00:03:22,450 --> 00:03:26,810
+diabetes gestacional, así que derechamente voy y se repite.
+
+51
+00:03:26,810 --> 00:03:32,330
+Ahora, entre las 24 y las 28 semanas se pide un TTGO. En Chile la forma en
+
+52
+00:03:32,330 --> 00:03:36,210
+que se estudia es con el TTGO simple de 75 gramos, en otros países se
+
+53
+00:03:36,210 --> 00:03:39,930
+hace a veces con uno de 50 y se confirma con uno de 100 gramos, pero
+
+54
+00:03:39,930 --> 00:03:44,170
+quedémonos con lo más sencillo, con la de 75 gramos que es más fácil y
+
+55
+00:03:44,170 --> 00:03:51,410
+más práctico. Y si es que a las dos horas está menor a 140 la poscarga y
+
+56
+00:03:51,410 --> 00:03:55,490
+menor a 100 la basal, en ese caso yo digo está normal, no hay diabetes
+
+57
+00:03:55,490 --> 00:03:59,010
+gestacional. Si es que en cambio cualquiera de esos dos valores está o
+
+58
+00:03:59,010 --> 00:04:03,290
+mayor o igual a 140 o mayor o igual a 100, en el caso de la basal en ese
+
+59
+00:04:03,290 --> 00:04:06,650
+caso yo digo tiene una diabetes gestacional. O sea, fíjense, se
+
+60
+00:04:06,650 --> 00:04:12,850
+parece un poco a la de la gente no embarazada, pero no es igual, es
+
+61
+00:04:12,850 --> 00:04:16,930
+más tendiente hacer directamente el diagnóstico de una diabetes gestacional.
+
+62
+00:04:16,930 --> 00:04:22,690
+Ahora, el test de tolerancia se hace entre las 24 y las 28 semanas, pero si
+
+63
+00:04:22,690 --> 00:04:25,730
+tiene algún factor de riesgo que aumente la probabilidad de una
+
+64
+00:04:25,730 --> 00:04:28,850
+diabetes, ejemplo, viene con un feto grande para la
+
+65
+00:04:28,850 --> 00:04:33,530
+gestacional o con oligoamnios o con polihidramnios, en particular el
+
+66
+00:04:33,530 --> 00:04:37,450
+polihidramnios o con una diabetes melito gestacional en un embarazo
+
+67
+00:04:37,450 --> 00:04:44,170
+antes, en este caso yo derechamente voy a repetir el TTGO a las 33 semanas o en
+
+68
+00:04:44,170 --> 00:04:49,010
+un rango entre las 32 y 34 semanas y aplico exactamente los mismos valores
+
+69
+00:04:49,010 --> 00:04:52,250
+de corte para hacer el diagnóstico de diabetes gestacional.
+
+70
+00:04:52,250 --> 00:04:56,010
+Va a quedar esto más claro con ejemplos, ya vamos a ver distintos
+
+71
+00:04:56,010 --> 00:05:00,690
+valores de glicemia o del TTGO y vamos a ver qué pasa si la persona
+
+72
+00:05:00,690 --> 00:05:04,050
+no está embarazada, qué pasa si está embarazada con 8 semanas y qué
+
+73
+00:05:04,050 --> 00:05:08,170
+pasa si tiene 28 semanas y vamos a ver qué es bastante más complejo de
+
+74
+00:05:08,170 --> 00:05:11,530
+lo que uno piensa, así que mucho mucho cuidado de leer bien la edad gestacional
+
+75
+00:05:11,530 --> 00:05:15,450
+también, acuérdense que había una diferencia entre menor de 12 semanas o
+
+76
+00:05:15,450 --> 00:05:18,610
+mayor de 12 semanas, así que empecemos, tiene una glicemia de
+
+77
+00:05:18,610 --> 00:05:23,090
+yuno de 105, así de fácil, uno dice está en el caso de que fuera una
+
+78
+00:05:23,090 --> 00:05:28,090
+persona no embarazada tendría una glicemia de yuno alterada o al menos en
+
+79
+00:05:28,090 --> 00:05:31,610
+un diagnóstico provisorio de una glicemia de yuno alterada y la conducta
+
+80
+00:05:32,050 --> 00:05:35,930
+hay que pedirle un TTGO como para ir a ver si es que se confirma este
+
+81
+00:05:35,930 --> 00:05:41,810
+diagnóstico y ver además si es que hay una intolerancia a la glucosa oral o una
+
+82
+00:05:41,810 --> 00:05:45,810
+diabetes derechamente si es que me sale mayor a 200, o sea fíjense en
+
+83
+00:05:45,810 --> 00:05:50,290
+alguien no embarazada hay que pedirle un TTGO, si es que está embarazada en
+
+84
+00:05:50,290 --> 00:05:54,530
+cambio lo más probable es que tenga una diabetes mellitus gestacional
+
+85
+00:05:54,530 --> 00:05:58,730
+aunque tenga 8 semanas y sería gestacional porque está menor a
+
+86
+00:05:59,650 --> 00:06:02,410
+126 está en el rango de prediabetes en el rango de glicemia de yuno alterada
+
+87
+00:06:02,410 --> 00:06:07,410
+entre 100 y 125 y la conducta sería repetirla acuérdense en el embarazo más
+
+88
+00:06:07,410 --> 00:06:11,210
+de 100 o 100 o más derechamente se repite así que no hay que pedirle un
+
+89
+00:06:11,210 --> 00:06:16,770
+TTGO y si es que tuviera 28 semanas y le hago una glicemia de yuno en
+
+90
+00:06:16,770 --> 00:06:20,330
+primer lugar sería raro porque por el general uno le hace un TTGO a las
+
+91
+00:06:20,330 --> 00:06:23,890
+28 semanas y no una glicemia de yuno pero si se hiciera tendría
+
+92
+00:06:23,890 --> 00:06:27,290
+igualmente una diabetes gestacional y la conducta sería repetirlo para
+
+93
+00:06:27,290 --> 00:06:32,050
+confirmarlo o bien complementarlo con la glicemia poscarga que es lo que se
+
+94
+00:06:32,050 --> 00:06:38,010
+hace en el TTGO ahora si es que tengo una glicemia de yuno que está en 130
+
+95
+00:06:38,010 --> 00:06:42,050
+en alguien no embarazada estaría mayor o igual a 126 así que lo más
+
+96
+00:06:42,050 --> 00:06:45,490
+probable es que tenga una diabetes mellitus y el diagnóstico sería un
+
+97
+00:06:45,490 --> 00:06:48,890
+diagnóstico provisorio de diabetes mellitus y la conducta es repetirla
+
+98
+00:06:48,890 --> 00:06:53,010
+para ver si me sale igualmente arriba de 126 confirmo este
+
+99
+00:06:53,010 --> 00:06:56,970
+diagnóstico de diabetes si es que tiene ocho semanas en este caso estaría
+
+100
+00:06:56,970 --> 00:07:01,810
+igualmente arriba de 126 estaría en el rango de diagnóstico de diabetes en
+
+101
+00:07:01,810 --> 00:07:06,650
+alguien no embarazada y en este caso tiene menos de 12 semanas así que el
+
+102
+00:07:06,650 --> 00:07:11,530
+diagnóstico más probable sería una diabetes mellitus pregestacional y la
+
+103
+00:07:11,530 --> 00:07:16,130
+conducta sería igualmente repetirlo como si es que me sale nuevamente en
+
+104
+00:07:16,130 --> 00:07:19,890
+130 se confirma el diagnóstico de diabetes mellitus pregestacional en
+
+105
+00:07:19,890 --> 00:07:24,610
+cambio si tuviera 28 semanas si es que ya pasaron las 12 semanas el
+
+106
+00:07:24,610 --> 00:07:27,330
+diagnóstico ya no puede ser pregestacional y sería una diabetes
+
+107
+00:07:27,330 --> 00:07:30,610
+mellitus gestacional y habría que repetirlo también ya ven es un
+
+108
+00:07:30,610 --> 00:07:35,050
+poquito más difícil así que mucho mucho cuidado al leerlo en el caso de
+
+109
+00:07:35,050 --> 00:07:40,570
+que tenga un TTGO de 105 el basal y de 150 a las dos horas pos carga de
+
+110
+00:07:40,570 --> 00:07:44,930
+75 gramos si no está embarazada uno dice tengo una glicemia de yuno
+
+111
+00:07:44,930 --> 00:07:48,930
+alterada más una intolerancia a la glucosa oral tengo esas dos cosas y
+
+112
+00:07:48,930 --> 00:07:52,890
+obviamente es una prediabetes común y corriente pero si es que tiene ocho
+
+113
+00:07:52,890 --> 00:07:57,650
+semanas nuevamente sería raro haberle pedido un TTGO pero acuérdense en el
+
+114
+00:07:57,650 --> 00:08:02,930
+embarazo no existe ni la intolerancia a la glucosa oral ni la glicemia de
+
+115
+00:08:02,930 --> 00:08:06,050
+yuno alterada y el diagnóstico sería derechamente una diabetes mellitus
+
+116
+00:08:06,050 --> 00:08:09,570
+gestacional y si es que tuviera 28 semanas pues el diagnóstico sería
+
+117
+00:08:09,570 --> 00:08:13,290
+también una diabetes mellitus gestacional ahora la típica pregunta
+
+118
+00:08:13,290 --> 00:08:17,450
+es aquí a las ocho semanas por qué no es una diabetes pregestacional si
+
+119
+00:08:17,450 --> 00:08:20,970
+tienen menos de 12 semanas y la explicación es porque las glicemias no
+
+120
+00:08:20,970 --> 00:08:26,210
+están dentro de rango de una persona no embarazada está en 105 así que el
+
+121
+00:08:26,210 --> 00:08:29,930
+diagnóstico es una diabetes gestacional tanto a las 8 como a las
+
+122
+00:08:29,930 --> 00:08:35,010
+28 semanas por el rango difícil ya así que a revisarlo a
+
+123
+00:08:35,010 --> 00:08:39,850
+aprenderlo y a tener buena el análisis y el raciocinio al enfrentarse a
+
+124
+00:08:39,850 --> 00:08:44,490
+los pacientes con diabetes y embarazo que estén muy bien

@@ -1,0 +1,171 @@
+1
+00:00:00,000 --> 00:00:07,370
+Hola, ¿cómo están? En este video vamos a hablar brevemente del infarto de ventrículo derecho,
+
+2
+00:00:07,370 --> 00:00:12,370
+comenzando por su clínica, que hay que saberla. Viene habitualmente con hipotensión arterial
+
+3
+00:00:12,370 --> 00:00:17,370
+más ingurgitación jugular, y en eso se parece mucho a un taponamiento.
+
+4
+00:00:17,370 --> 00:00:22,370
+En segundo lugar, se asocia a los infartos de la pared inferior, así que muchas veces
+
+5
+00:00:22,370 --> 00:00:27,370
+en el electrocardiograma se detecta antes el infarto de pared inferior, y si además
+
+6
+00:00:27,370 --> 00:00:31,370
+se choquea hay que ir dirigidamente a buscar el infarto de ventrículo derecho también,
+
+7
+00:00:31,370 --> 00:00:34,370
+porque el manejo es distinto, lo vamos a ver en algunos minutos después.
+
+8
+00:00:34,370 --> 00:00:39,370
+Y la razón es que la pared inferior se irriga con la descendente posterior
+
+9
+00:00:39,370 --> 00:00:44,370
+que viene de la coronaria derecha y la inmensa mayoría de los pacientes.
+
+10
+00:00:44,370 --> 00:00:48,370
+En segundo lugar, suele venir sin edema pulmonar agudo, en el sentido en que
+
+11
+00:00:48,370 --> 00:00:53,370
+al infartarse el ventrículo derecho, no viene con suficiente fuerza como para
+
+12
+00:00:53,370 --> 00:00:57,370
+mandar sangre suficiente a los pulmones para que se haga un edema pulmonar.
+
+13
+00:00:57,370 --> 00:01:01,370
+¿En qué se diferencia clínicamente de la rotura de la pared libre,
+
+14
+00:01:01,370 --> 00:01:05,370
+que se traduce en un taponamiento que viene igualmente con la hipotensión
+
+15
+00:01:05,370 --> 00:01:09,370
+y con la ingurgitación jugular? Pues las diferencias son fundamentalmente dos.
+
+16
+00:01:09,370 --> 00:01:14,370
+Número uno, la rotura de pared libre no se asocia tanto a los infartos
+
+17
+00:01:14,370 --> 00:01:19,370
+de pared inferior, sino que a los infartos anterolaterales extensos.
+
+18
+00:01:19,370 --> 00:01:23,370
+Y segundo lugar, la rotura de la pared libre suele ocurrir varias horas
+
+19
+00:01:23,370 --> 00:01:27,370
+o algunos días después del infarto, mientras que el ventrículo derecho
+
+20
+00:01:27,370 --> 00:01:31,370
+se infarta desde el comienzo, así que son síntomas que aparecen
+
+21
+00:01:31,370 --> 00:01:35,370
+mucho más precoce. Segundo lugar, el diagnóstico se hace con
+
+22
+00:01:35,370 --> 00:01:41,370
+las precordiales derechas, dígase un electrocardiograma no convencional
+
+23
+00:01:41,370 --> 00:01:44,370
+en el cual se miden además las precordiales para el otro lado
+
+24
+00:01:44,370 --> 00:01:52,370
+y se ve habitualmente un supra del nivel del ST en B4 right, en B4 R o B4 derecha.
+
+25
+00:01:52,370 --> 00:01:56,370
+Finalmente, ¿cuál es el tratamiento que dijimos que era un poco diferente?
+
+26
+00:01:56,370 --> 00:02:00,370
+Número uno, suelo fisiológico. Aquí, sin miedo, es un paciente
+
+27
+00:02:00,370 --> 00:02:04,370
+que está choqueado, que no se me va a encharcar en los pulmones al menos,
+
+28
+00:02:04,370 --> 00:02:08,370
+en el sentido en que ya dijimos que no tendía al edema pulmonar,
+
+29
+00:02:08,370 --> 00:02:11,370
+así que suelo fisiológico bastante, ¿cierto? Segundo lugar,
+
+30
+00:02:11,370 --> 00:02:16,370
+la angioplastía de manera urgente, en el sentido en que al estar
+
+31
+00:02:16,370 --> 00:02:21,370
+choqueado está contraindicada la trombolisis y además está contraindicado
+
+32
+00:02:21,370 --> 00:02:25,370
+todo lo que hipotense, dígase la morfina, la nitroliserina,
+
+33
+00:02:25,370 --> 00:02:31,370
+la streptokinasa o el verapamilo o cualquier cosa que pueda hipotensarlo
+
+34
+00:02:31,370 --> 00:02:34,370
+está absolutamente contraindicado en este caso y por lo mismo que
+
+35
+00:02:34,370 --> 00:02:38,370
+es tan importante hacer el diagnóstico. Ahora, lo que sí hay que indicar
+
+36
+00:02:38,370 --> 00:02:42,370
+es todo lo que tiene que ver con la antiagregación y la anticoagulación,
+
+37
+00:02:42,370 --> 00:02:46,370
+así que la aspirina, el clopidogrel, la heparina de bajo peso molecular
+
+38
+00:02:46,370 --> 00:02:50,370
+y las estatinas, en ese caso sí se pueden dar, pero repito,
+
+39
+00:02:50,370 --> 00:02:54,370
+está contraindicado absolutamente todo lo que hipotense
+
+40
+00:02:54,370 --> 00:02:57,370
+y el suelo fisiológico más la angioplastía es lo más importante.
+
+41
+00:02:57,370 --> 00:03:01,370
+Bueno, es todo lo que hay que saber y en particular hay que saber
+
+42
+00:03:01,370 --> 00:03:05,370
+el cuadro clínico para detectarlo, pedirle las precordiales derecha
+
+43
+00:03:05,370 --> 00:03:08,370
+y hacerle el manejo distinto que requiere. ¡Que estén bien!

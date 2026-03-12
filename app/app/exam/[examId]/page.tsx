@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState, use } from 'react'
+import { useEffect, useState } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { toast } from 'sonner'
@@ -27,8 +27,8 @@ interface ExamWithSpecialty extends Exam {
   specialties: Specialty | null
 }
 
-export default function ExamPage({ params }: { params: Promise<{ examId: string }> }) {
-  const resolvedParams = use(params)
+export default function ExamPage({ params }: { params: { examId: string } }) {
+  const examId = params.examId
   const router = useRouter()
   const searchParams = useSearchParams()
   const mode = (searchParams.get('mode') ?? 'practice') as AttemptMode
@@ -58,18 +58,18 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
   useEffect(() => {
     const load = async () => {
       const supabase = createClient()
-      const examId = parseInt(resolvedParams.examId)
+      const examIdNum = parseInt(examId, 10)
 
       const [examRes, questionsRes] = await Promise.all([
         supabase
           .from('exams')
           .select('*, specialties(*)')
-          .eq('id', examId)
+          .eq('id', examIdNum)
           .single(),
         supabase
           .from('exam_questions')
           .select('question_id, order_index, questions(*)')
-          .eq('exam_id', examId)
+          .eq('exam_id', examIdNum)
           .order('order_index'),
       ])
 
@@ -101,12 +101,12 @@ export default function ExamPage({ params }: { params: Promise<{ examId: string 
     return () => {
       resetExam()
     }
-  }, [resolvedParams.examId]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [examId]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleSubmit = async () => {
     try {
       const attemptId = await submitExam()
-      router.push(`/app/exam/${resolvedParams.examId}/results?attemptId=${attemptId}`)
+      router.push(`/app/exam/${examId}/results?attemptId=${attemptId}`)
     } catch {
       toast.error('Error al guardar los resultados. Intenta de nuevo.')
     }

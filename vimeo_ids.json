@@ -1,0 +1,1246 @@
+{
+  "149327": {
+    "name": "Cardiologia/01_Cardio_Urgencia_arritmias",
+    "vimeo_id": "936761858"
+  },
+  "149328": {
+    "name": "Cardiologia/02_Cardio_Paro_cardiorespiratorio",
+    "vimeo_id": "936762077"
+  },
+  "149329": {
+    "name": "Cardiologia/03_Cardio_RCP",
+    "vimeo_id": "936762440"
+  },
+  "149330": {
+    "name": "Cardiologia/04_Cardio_Bradiarritmias_bloqueos",
+    "vimeo_id": "936763297"
+  },
+  "149331": {
+    "name": "Cardiologia/05_Cardio_Fibrilacion_auricular",
+    "vimeo_id": "747785119"
+  },
+  "149332": {
+    "name": "Cardiologia/06_Cardio_Antiarritmicos",
+    "vimeo_id": "747787340"
+  },
+  "149333": {
+    "name": "Cardiologia/07_Cardio_Anticoagulantes",
+    "vimeo_id": "747790621"
+  },
+  "149334": {
+    "name": "Cardiologia/08_Cardio_Resumen_FA",
+    "vimeo_id": "747793623"
+  },
+  "149335": {
+    "name": "Cardiologia/09_Cardio_FA_cronica",
+    "vimeo_id": "747796520"
+  },
+  "149336": {
+    "name": "Cardiologia/10_Cardio_FA_reciente_comienzo",
+    "vimeo_id": "747798845"
+  },
+  "149337": {
+    "name": "Cardiologia/11_Cardio_Flutter_auricular",
+    "vimeo_id": "747800446"
+  },
+  "149338": {
+    "name": "Cardiologia/12_Cardio_TPSV",
+    "vimeo_id": "936764188"
+  },
+  "149339": {
+    "name": "Cardiologia/13_Cardio_TV_canalopatas",
+    "vimeo_id": "936765312"
+  },
+  "149340": {
+    "name": "Cardiologia/14_Cardio_Extrasistoles",
+    "vimeo_id": "936765447"
+  },
+  "149341": {
+    "name": "Cardiologia/15_Cardio_Angina_cronica",
+    "vimeo_id": "936765492"
+  },
+  "149342": {
+    "name": "Cardiologia/16_Cardio_Dolor_toracico",
+    "vimeo_id": "936766472"
+  },
+  "149343": {
+    "name": "Cardiologia/17_Cardio_ECG_SCA",
+    "vimeo_id": "936766607"
+  },
+  "149344": {
+    "name": "Cardiologia/18_Cardio_Marcadores_isquemia",
+    "vimeo_id": "936766710"
+  },
+  "149345": {
+    "name": "Cardiologia/19_Cardio_SCA",
+    "vimeo_id": "936766773"
+  },
+  "149346": {
+    "name": "Cardiologia/20_Cardio_Complicaciones_IAM",
+    "vimeo_id": "936766962"
+  },
+  "149347": {
+    "name": "Cardiologia/21_Cardio_Arritmias_infarto",
+    "vimeo_id": "936767025"
+  },
+  "149348": {
+    "name": "Cardiologia/22_Cardio_Infarto_VD",
+    "vimeo_id": "936864635"
+  },
+  "149349": {
+    "name": "Cardiologia/23_Cardio_IC_generalidades",
+    "vimeo_id": "936852330"
+  },
+  "149350": {
+    "name": "Cardiologia/24_Cardio_IC_tratamiento",
+    "vimeo_id": "936852755"
+  },
+  "149351": {
+    "name": "Cardiologia/25_Cardio_Cardiopatia_coronaria",
+    "vimeo_id": "936853081"
+  },
+  "149352": {
+    "name": "Cardiologia/26_Cardio_Cor_pulmonale",
+    "vimeo_id": "936853443"
+  },
+  "149353": {
+    "name": "Cardiologia/27_Cardio_Valvulopatias_generalidades",
+    "vimeo_id": "936853464"
+  },
+  "149354": {
+    "name": "Cardiologia/28_Cardio_Valvulopatias_izquierdas",
+    "vimeo_id": "936853497"
+  },
+  "149355": {
+    "name": "Cardiologia/29_Cardio_Valvulopatias_derechas",
+    "vimeo_id": "936853594"
+  },
+  "149356": {
+    "name": "Cardiologia/30_Cardio_Miocardiopatias",
+    "vimeo_id": "936853623"
+  },
+  "149357": {
+    "name": "Cardiologia/31_Cardio_Foramen_oval",
+    "vimeo_id": "936853707"
+  },
+  "149358": {
+    "name": "Cardiologia/32_Cardio_Soplo_funcional",
+    "vimeo_id": "936853732"
+  },
+  "149359": {
+    "name": "Cardiologia/33_Cardio_Enf_pericardio",
+    "vimeo_id": "936853755"
+  },
+  "149360": {
+    "name": "Cardiologia/34_Cardio_Miocarditis_aguda",
+    "vimeo_id": "936853823"
+  },
+  "149361": {
+    "name": "Cardiologia/35_Cardio_Fiebre_reumatica",
+    "vimeo_id": "941673451"
+  },
+  "149362": {
+    "name": "Cardiologia/36_Cardio_Clasificacion_shock",
+    "vimeo_id": "941673570"
+  },
+  "149363": {
+    "name": "Cardiologia/37_Cardio_Cardiopatias_congenitas",
+    "vimeo_id": "941674261"
+  },
+  "149364": {
+    "name": "Cardiologia/38_Cardio_Cardiopatias_congenitas_semiologia",
+    "vimeo_id": "941674151"
+  },
+  "149365": {
+    "name": "Cardiologia/39_Cardio_Diseccion_aortica",
+    "vimeo_id": "941673669"
+  },
+  "149367": {
+    "name": "Cardiologia/41_Cardio_Isquemia_aguda_EEII",
+    "vimeo_id": "941673898"
+  },
+  "149368": {
+    "name": "Cardiologia/42_Cardio_Isquemia_cronica_EEII",
+    "vimeo_id": "941674011"
+  },
+  "149369": {
+    "name": "Cardiologia/43_Cardio_Estenosis_carotidea",
+    "vimeo_id": "941674085"
+  },
+  "149370": {
+    "name": "Cardiologia/44_Cardio_TVP",
+    "vimeo_id": "747802856"
+  },
+  "149371": {
+    "name": "Cardiologia/45_Cardio_TEP",
+    "vimeo_id": "747806366"
+  },
+  "149372": {
+    "name": "Cardiologia/46_Cardio_TEP_masivo",
+    "vimeo_id": "747810385"
+  },
+  "149373": {
+    "name": "Cardiologia/47_Cardio_TEP_detalles",
+    "vimeo_id": "747811782"
+  },
+  "149389": {
+    "name": "Reumatologia/01_Reuma_AR_generalidades",
+    "vimeo_id": "919208532"
+  },
+  "149390": {
+    "name": "Reumatologia/02_Reuma_AR_tratamiento",
+    "vimeo_id": "919208921"
+  },
+  "149391": {
+    "name": "Reumatologia/03_Reuma_LES",
+    "vimeo_id": "919207203"
+  },
+  "149392": {
+    "name": "Reumatologia/04_Reuma_Sindrome_antifosfolipido",
+    "vimeo_id": "919214313"
+  },
+  "149393": {
+    "name": "Reumatologia/05_Reuma_Esclerosis_sistemica",
+    "vimeo_id": "919214518"
+  },
+  "149394": {
+    "name": "Reumatologia/06_Reuma_Miopatias_inflamatorias",
+    "vimeo_id": "919214886"
+  },
+  "149395": {
+    "name": "Reumatologia/07_Reuma_Sjogren",
+    "vimeo_id": "919215843"
+  },
+  "149396": {
+    "name": "Reumatologia/08_Reuma_Vasculitis",
+    "vimeo_id": "919218908"
+  },
+  "149397": {
+    "name": "Reumatologia/09_Reuma_Espondiloartritis",
+    "vimeo_id": "919219480"
+  },
+  "149398": {
+    "name": "Reumatologia/10_Reuma_Artritis_reactiva",
+    "vimeo_id": "917541602"
+  },
+  "149399": {
+    "name": "Reumatologia/11_Reuma_Artritis_septica",
+    "vimeo_id": "919219868"
+  },
+  "149400": {
+    "name": "Reumatologia/12_Reuma_Artritis_pediatria",
+    "vimeo_id": "919218300"
+  },
+  "149401": {
+    "name": "Reumatologia/13_Reuma_Dolor_espalda",
+    "vimeo_id": "919223194"
+  },
+  "149402": {
+    "name": "Reumatologia/14_Reuma_Fibromialgia",
+    "vimeo_id": "919224223"
+  },
+  "149403": {
+    "name": "Reumatologia/15_Reuma_Farmacologia",
+    "vimeo_id": "919224641"
+  },
+  "149405": {
+    "name": "Nefrologia/01_Nefro_ERC_generalidades",
+    "vimeo_id": "919226816"
+  },
+  "149406": {
+    "name": "Nefrologia/02_Nefro_ERC_manejo",
+    "vimeo_id": "919227931"
+  },
+  "149407": {
+    "name": "Nefrologia/03_Nefro_IRA",
+    "vimeo_id": "919228544"
+  },
+  "149408": {
+    "name": "Nefrologia/04_Nefro_Dialisis",
+    "vimeo_id": "919226352"
+  },
+  "149409": {
+    "name": "Nefrologia/05_Nefro_Sindrome_nefrotico",
+    "vimeo_id": "919233687"
+  },
+  "149410": {
+    "name": "Nefrologia/06_Nefro_Sindrome_nefritico",
+    "vimeo_id": "919234110"
+  },
+  "149411": {
+    "name": "Nefrologia/07_Nefro_Glomerulonefritis",
+    "vimeo_id": "919233052"
+  },
+  "149412": {
+    "name": "Nefrologia/08_Nefro_HTA",
+    "vimeo_id": "917574591"
+  },
+  "149413": {
+    "name": "Nefrologia/09_Nefro_HTA_secundaria",
+    "vimeo_id": "917576977"
+  },
+  "149414": {
+    "name": "Nefrologia/10_Nefro_ITU",
+    "vimeo_id": "917581033"
+  },
+  "149415": {
+    "name": "Nefrologia/11_Nefro_Litiasis_renal",
+    "vimeo_id": "917571031"
+  },
+  "149416": {
+    "name": "Nefrologia/12_Nefro_Alteraciones_sodio",
+    "vimeo_id": "917584741"
+  },
+  "149417": {
+    "name": "Nefrologia/13_Nefro_Alteraciones_potasio",
+    "vimeo_id": "917585304"
+  },
+  "149418": {
+    "name": "Nefrologia/14_Nefro_Alteraciones_acido_base",
+    "vimeo_id": "917585881"
+  },
+  "149419": {
+    "name": "Nefrologia/15_Nefro_Hidratacion",
+    "vimeo_id": "917583338"
+  },
+  "149420": {
+    "name": "Nefrologia/16_Nefro_HTA_pediatria",
+    "vimeo_id": "917587082"
+  },
+  "149421": {
+    "name": "Nefrologia/17_Nefro_ITU_pediatria",
+    "vimeo_id": "917590857"
+  },
+  "149423": {
+    "name": "Infectologia/01_Infecto_Fiebre_sindrome_febril",
+    "vimeo_id": "917593784"
+  },
+  "149424": {
+    "name": "Infectologia/02_Infecto_Farmacologia_antibioticos_I",
+    "vimeo_id": null
+  },
+  "149425": {
+    "name": "Infectologia/03_Infecto_Farmacologia_antibioticos_II",
+    "vimeo_id": null
+  },
+  "149426": {
+    "name": "Infectologia/04_Infecto_Farmacologia_antibioticos_III",
+    "vimeo_id": null
+  },
+  "149427": {
+    "name": "Infectologia/05_Infecto_Antivirales",
+    "vimeo_id": null
+  },
+  "149428": {
+    "name": "Infectologia/06_Infecto_Antifungicos",
+    "vimeo_id": null
+  },
+  "149429": {
+    "name": "Infectologia/07_Infecto_Antiparasitarios",
+    "vimeo_id": null
+  },
+  "149430": {
+    "name": "Infectologia/08_Infecto_Sepsis",
+    "vimeo_id": null
+  },
+  "149431": {
+    "name": "Infectologia/09_Infecto_Endocarditis",
+    "vimeo_id": null
+  },
+  "149432": {
+    "name": "Infectologia/10_Infecto_Meningitis_bacteriana",
+    "vimeo_id": null
+  },
+  "149433": {
+    "name": "Infectologia/11_Infecto_Meningitis_viral",
+    "vimeo_id": null
+  },
+  "149434": {
+    "name": "Infectologia/12_Infecto_Absceso_cerebral",
+    "vimeo_id": null
+  },
+  "149435": {
+    "name": "Infectologia/13_Infecto_Encefalitis",
+    "vimeo_id": null
+  },
+  "149436": {
+    "name": "Infectologia/14_Infecto_VIH_generalidades",
+    "vimeo_id": null
+  },
+  "149437": {
+    "name": "Infectologia/15_Infecto_VIH_manejo",
+    "vimeo_id": "920168294"
+  },
+  "149438": {
+    "name": "Infectologia/16_Infecto_Infecciones_oportunistas",
+    "vimeo_id": "920165811"
+  },
+  "149439": {
+    "name": "Infectologia/17_Infecto_ETS_generalidades",
+    "vimeo_id": "920167235"
+  },
+  "149440": {
+    "name": "Infectologia/18_Infecto_Sifilis",
+    "vimeo_id": "920167736"
+  },
+  "149441": {
+    "name": "Infectologia/19_Infecto_Gonorrea_Chlamydia",
+    "vimeo_id": "920443610"
+  },
+  "149442": {
+    "name": "Infectologia/20_Infecto_Herpes_genital",
+    "vimeo_id": "920169203"
+  },
+  "149443": {
+    "name": "Infectologia/21_Infecto_VPH",
+    "vimeo_id": "920169417"
+  },
+  "149444": {
+    "name": "Infectologia/22_Infecto_Zoonosis",
+    "vimeo_id": "920169858"
+  },
+  "149445": {
+    "name": "Infectologia/23_Infecto_Leptospirosis",
+    "vimeo_id": "920170426"
+  },
+  "149446": {
+    "name": "Infectologia/24_Infecto_Hantavirus",
+    "vimeo_id": "920446535"
+  },
+  "149447": {
+    "name": "Infectologia/25_Infecto_Parasitosis_intestinales",
+    "vimeo_id": "920446844"
+  },
+  "149448": {
+    "name": "Infectologia/26_Infecto_Malaria",
+    "vimeo_id": "920447205"
+  },
+  "149449": {
+    "name": "Infectologia/27_Infecto_Chagas",
+    "vimeo_id": "920460110"
+  },
+  "149450": {
+    "name": "Infectologia/28_Infecto_Dengue",
+    "vimeo_id": "920460358"
+  },
+  "149451": {
+    "name": "Infectologia/29_Infecto_Fiebre_tifoidea",
+    "vimeo_id": "920446192"
+  },
+  "149452": {
+    "name": "Infectologia/30_Infecto_Botulismo",
+    "vimeo_id": "920449458"
+  },
+  "149453": {
+    "name": "Infectologia/31_Infecto_Tetanos",
+    "vimeo_id": "920449738"
+  },
+  "149454": {
+    "name": "Infectologia/32_Infecto_Rabia",
+    "vimeo_id": "920450419"
+  },
+  "149455": {
+    "name": "Infectologia/33_Infecto_Mordeduras",
+    "vimeo_id": "920449284"
+  },
+  "149456": {
+    "name": "Infectologia/34_Infecto_Celulitis_erisipela",
+    "vimeo_id": "920452352"
+  },
+  "149457": {
+    "name": "Infectologia/35_Infecto_Fascitis_necrotizante",
+    "vimeo_id": "920452655"
+  },
+  "149458": {
+    "name": "Infectologia/36_Infecto_Micosis",
+    "vimeo_id": "920452930"
+  },
+  "149459": {
+    "name": "Infectologia/37_Infecto_Varicela_zoster",
+    "vimeo_id": "920452093"
+  },
+  "149460": {
+    "name": "Infectologia/38_Infecto_Sarampion_rubeola",
+    "vimeo_id": "920453377"
+  },
+  "149461": {
+    "name": "Infectologia/39_Infecto_Exantemas_virales",
+    "vimeo_id": "920453609"
+  },
+  "149462": {
+    "name": "Infectologia/40_Infecto_Infecciones_pediatria_I",
+    "vimeo_id": "920453821"
+  },
+  "149463": {
+    "name": "Infectologia/41_Infecto_Infecciones_pediatria_II",
+    "vimeo_id": "920454209"
+  },
+  "149464": {
+    "name": "Infectologia/42_Infecto_Infecciones_TORCH",
+    "vimeo_id": "920456442"
+  },
+  "149465": {
+    "name": "Infectologia/43_Infecto_Calendario_vacunal",
+    "vimeo_id": "920455915"
+  },
+  "149466": {
+    "name": "Infectologia/44_Infecto_Vacunas_especiales",
+    "vimeo_id": "920456262"
+  },
+  "149467": {
+    "name": "Infectologia/45_Infecto_Prevencion_ITS",
+    "vimeo_id": "920613696"
+  },
+  "149468": {
+    "name": "Infectologia/46_Infecto_IAAS",
+    "vimeo_id": "920615124"
+  },
+  "149469": {
+    "name": "Infectologia/47_Infecto_Profilaxis_quirurgica",
+    "vimeo_id": "920615378"
+  },
+  "149621": {
+    "name": "Respiratorio/01_Resp_IRA",
+    "vimeo_id": "740913078"
+  },
+  "149622": {
+    "name": "Respiratorio/02_Resp_Influenza",
+    "vimeo_id": "740914964"
+  },
+  "149623": {
+    "name": "Respiratorio/03_Resp_COVID19",
+    "vimeo_id": "740918146"
+  },
+  "149624": {
+    "name": "Respiratorio/04_Resp_Otras_virales",
+    "vimeo_id": "740919327"
+  },
+  "149625": {
+    "name": "Respiratorio/05_Resp_NAC",
+    "vimeo_id": "741147768"
+  },
+  "149626": {
+    "name": "Respiratorio/06_Resp_Antibioticos_neumonia",
+    "vimeo_id": "741160294"
+  },
+  "149627": {
+    "name": "Respiratorio/07_Resp_Absceso_pulmonar",
+    "vimeo_id": "741164210"
+  },
+  "149628": {
+    "name": "Respiratorio/08_Resp_Neumonia_atipica",
+    "vimeo_id": "741174481"
+  },
+  "149629": {
+    "name": "Respiratorio/09_Resp_Neumonia_Pneumocystis",
+    "vimeo_id": "741176377"
+  },
+  "149630": {
+    "name": "Respiratorio/10_Resp_Neumonia_viral",
+    "vimeo_id": "741179034"
+  },
+  "149631": {
+    "name": "Respiratorio/11_Resp_Rx_torax_infecciones",
+    "vimeo_id": "741187175"
+  },
+  "149633": {
+    "name": "Respiratorio/13_Resp_SAHOS",
+    "vimeo_id": "741189898"
+  },
+  "149634": {
+    "name": "Respiratorio/14_Resp_Intoxicacion_CO",
+    "vimeo_id": "741192987"
+  },
+  "149635": {
+    "name": "Respiratorio/15_Resp_Asfixia_inmersion",
+    "vimeo_id": "741195547"
+  },
+  "149636": {
+    "name": "Respiratorio/16_Resp_Farmacos_asma_EPOC",
+    "vimeo_id": "747702784"
+  },
+  "149637": {
+    "name": "Respiratorio/17_Resp_Terapia_biologica_alergias",
+    "vimeo_id": "705887522"
+  },
+  "149638": {
+    "name": "Respiratorio/18_Resp_Asma_clinica_diagnostico",
+    "vimeo_id": "747700232"
+  },
+  "149639": {
+    "name": "Respiratorio/19_Resp_Asma_manejo_cronico",
+    "vimeo_id": "747704719"
+  },
+  "149640": {
+    "name": "Respiratorio/20_Resp_Asma_crisis",
+    "vimeo_id": "747707790"
+  },
+  "149641": {
+    "name": "Respiratorio/21_Resp_EPOC",
+    "vimeo_id": "747711990"
+  },
+  "149642": {
+    "name": "Respiratorio/22_Resp_EPOC_manejo_cronico",
+    "vimeo_id": "747716391"
+  },
+  "149643": {
+    "name": "Respiratorio/23_Resp_EPOC_descompensado",
+    "vimeo_id": "747726624"
+  },
+  "149644": {
+    "name": "Respiratorio/24_Resp_Asma_vs_EPOC",
+    "vimeo_id": "747728730"
+  },
+  "149645": {
+    "name": "Respiratorio/25_Resp_Espirometria",
+    "vimeo_id": "747747258"
+  },
+  "149646": {
+    "name": "Respiratorio/26_Resp_Ejercicios_espirometria",
+    "vimeo_id": "747748856"
+  },
+  "149647": {
+    "name": "Respiratorio/27_Resp_Gasometria_p1",
+    "vimeo_id": "747758894"
+  },
+  "149648": {
+    "name": "Respiratorio/28_Resp_Gasometria_p2",
+    "vimeo_id": "747765464"
+  },
+  "149649": {
+    "name": "Respiratorio/29_Resp_Ejercicios_gasometria",
+    "vimeo_id": "747769155"
+  },
+  "149650": {
+    "name": "Respiratorio/30_Resp_Prick_test",
+    "vimeo_id": "705870506"
+  },
+  "149651": {
+    "name": "Respiratorio/31_Resp_Derrame_pleural",
+    "vimeo_id": "747814478"
+  },
+  "149652": {
+    "name": "Respiratorio/32_Resp_EPI_I_fibrosis",
+    "vimeo_id": "1058425327"
+  },
+  "149653": {
+    "name": "Respiratorio/33_Resp_EPI_II_otras",
+    "vimeo_id": "1058425438"
+  },
+  "149654": {
+    "name": "Respiratorio/34_Resp_EPI_III_neumoconiosis",
+    "vimeo_id": "1058425562"
+  },
+  "149655": {
+    "name": "Respiratorio/35_Resp_Edema_pulmonar_agudo",
+    "vimeo_id": "747818079"
+  },
+  "149656": {
+    "name": "Respiratorio/36_Resp_HT_pulmonar",
+    "vimeo_id": "1058427120"
+  },
+  "149658": {
+    "name": "Respiratorio/37_Resp_Nodulo_cancer_pulmonar",
+    "vimeo_id": "1058425653"
+  },
+  "149659": {
+    "name": "Respiratorio/38_Resp_Bronquitis_cronica",
+    "vimeo_id": "1058425745"
+  },
+  "149660": {
+    "name": "Respiratorio/39_Resp_Bronquiectasias",
+    "vimeo_id": "1058426962"
+  },
+  "149661": {
+    "name": "Respiratorio/40_Resp_Hemoptisis",
+    "vimeo_id": "1058427037"
+  },
+  "149663": {
+    "name": "Respiratorio/42_Resp_Neumotrax_manejo",
+    "vimeo_id": "986853631"
+  },
+  "149671": {
+    "name": "Respiratorio/48_Resp_Manejo_SBO",
+    "vimeo_id": "741124419"
+  },
+  "149672": {
+    "name": "Respiratorio/49_Resp_Score_Tal",
+    "vimeo_id": "741126796"
+  },
+  "149674": {
+    "name": "Respiratorio/51_Resp_SBOR_secundario",
+    "vimeo_id": "741137078"
+  },
+  "149675": {
+    "name": "Respiratorio/52_Resp_Coqueluche",
+    "vimeo_id": "741141889"
+  },
+  "149679": {
+    "name": "Respiratorio/54_Resp_Amigdalitis",
+    "vimeo_id": "703893661"
+  },
+  "149682": {
+    "name": "Respiratorio/57_Resp_Amigdalectomia",
+    "vimeo_id": "703895654"
+  },
+  "149684": {
+    "name": "Respiratorio/59_Resp_Respirador_bucal",
+    "vimeo_id": "703899117"
+  },
+  "149688": {
+    "name": "Respiratorio/63_Resp_Cuerpo_extrano",
+    "vimeo_id": "703903985"
+  },
+  "149692": {
+    "name": "Respiratorio/67_Resp_Laringitis_aguda",
+    "vimeo_id": "705840271"
+  },
+  "149694": {
+    "name": "Respiratorio/69_Resp_Sinusitis",
+    "vimeo_id": "705870903"
+  },
+  "149695": {
+    "name": "Respiratorio/70_Resp_Rinitis",
+    "vimeo_id": "705871987"
+  },
+  "149711": {
+    "name": "Gastroenterologia/01_Gastro_Signos_alarma",
+    "vimeo_id": "986846351"
+  },
+  "149712": {
+    "name": "Gastroenterologia/02_Gastro_Trastornos_funcionales",
+    "vimeo_id": "1058427400"
+  },
+  "149714": {
+    "name": "Gastroenterologia/03_Gastro_Disfagia",
+    "vimeo_id": "1058428599"
+  },
+  "149715": {
+    "name": "Gastroenterologia/04_Gastro_Trastornos_motores_esofagicos",
+    "vimeo_id": "1058428668"
+  },
+  "149716": {
+    "name": "Gastroenterologia/05_Gastro_Diverticulos_esofagicos",
+    "vimeo_id": "1058428746"
+  },
+  "149717": {
+    "name": "Gastroenterologia/06_Gastro_Reflujo_gastroesofagico",
+    "vimeo_id": "1058428806"
+  },
+  "149718": {
+    "name": "Gastroenterologia/07_Gastro_Ulcera_gastroduodenal",
+    "vimeo_id": "1058429501"
+  },
+  "149719": {
+    "name": "Gastroenterologia/08_Gastro_Helicobacter_pylori",
+    "vimeo_id": "1058429621"
+  },
+  "149720": {
+    "name": "Gastroenterologia/09_Gastro_EII",
+    "vimeo_id": "1058428407"
+  },
+  "149721": {
+    "name": "Gastroenterologia/10_Gastro_Malabsorcion",
+    "vimeo_id": "1058429724"
+  },
+  "149722": {
+    "name": "Gastroenterologia/11_Gastro_Causticos",
+    "vimeo_id": "1058429836"
+  },
+  "149723": {
+    "name": "Gastroenterologia/12_Gastro_HDB",
+    "vimeo_id": "982770463"
+  },
+  "149724": {
+    "name": "Gastroenterologia/13_Gastro_HDA",
+    "vimeo_id": "982775893"
+  },
+  "149725": {
+    "name": "Gastroenterologia/14_Gastro_Perforacion_digestiva",
+    "vimeo_id": "986850525"
+  },
+  "149726": {
+    "name": "Gastroenterologia/15_Gastro_Cancer_esofagico_gastrico",
+    "vimeo_id": "986847212"
+  },
+  "149727": {
+    "name": "Gastroenterologia/16_Gastro_Cancer_colorrectal",
+    "vimeo_id": "986848520"
+  },
+  "149728": {
+    "name": "Gastroenterologia/17_Gastro_Polipos_colorrectal",
+    "vimeo_id": "986849384"
+  },
+  "149729": {
+    "name": "Gastroenterologia/18_Gastro_Ictericia",
+    "vimeo_id": "986784974"
+  },
+  "149730": {
+    "name": "Gastroenterologia/19_Gastro_Carotenosis",
+    "vimeo_id": "986833012"
+  },
+  "149731": {
+    "name": "Gastroenterologia/20_Gastro_Clasificacion_hepatitis",
+    "vimeo_id": "1058429863"
+  },
+  "149733": {
+    "name": "Gastroenterologia/21_Gastro_Hepatitis_toxicos",
+    "vimeo_id": "1058430240"
+  },
+  "149734": {
+    "name": "Gastroenterologia/22_Gastro_Higado_graso_NASH",
+    "vimeo_id": "1058430386"
+  },
+  "149735": {
+    "name": "Gastroenterologia/23_Gastro_Hepatitis_autoinmune",
+    "vimeo_id": "1058430439"
+  },
+  "149736": {
+    "name": "Gastroenterologia/24_Gastro_Hepatitis_isquemica",
+    "vimeo_id": "1058430543"
+  },
+  "149737": {
+    "name": "Gastroenterologia/25_Gastro_Dano_hepatico_cronico",
+    "vimeo_id": "1058430594"
+  },
+  "149738": {
+    "name": "Gastroenterologia/26_Gastro_Ascitis",
+    "vimeo_id": "1058430660"
+  },
+  "149739": {
+    "name": "Gastroenterologia/27_Gastro_SHR_SHP",
+    "vimeo_id": "1058430844"
+  },
+  "149740": {
+    "name": "Gastroenterologia/28_Gastro_Varices_esofagicas",
+    "vimeo_id": "1058430943"
+  },
+  "149741": {
+    "name": "Gastroenterologia/29_Gastro_Encefalopatia_coagulopatia",
+    "vimeo_id": "1058431098"
+  },
+  "149742": {
+    "name": "Gastroenterologia/30_Gastro_Tumores_hepaticos",
+    "vimeo_id": "986834713"
+  },
+  "149744": {
+    "name": "Gastroenterologia/31_Gastro_Pancreatitis_aguda_dx",
+    "vimeo_id": "986713598"
+  },
+  "149745": {
+    "name": "Gastroenterologia/32_Gastro_Pancreatitis_aguda_manejo",
+    "vimeo_id": "986724367"
+  },
+  "149746": {
+    "name": "Gastroenterologia/33_Gastro_Pancreatitis_cronica",
+    "vimeo_id": "986729991"
+  },
+  "149749": {
+    "name": "Gastroenterologia/34_Gastro_Abdomen_agudo",
+    "vimeo_id": "982738134"
+  },
+  "149750": {
+    "name": "Gastroenterologia/35_Gastro_Apendicitis",
+    "vimeo_id": "982742602"
+  },
+  "149751": {
+    "name": "Gastroenterologia/36_Gastro_Enf_diverticular",
+    "vimeo_id": "982745995"
+  },
+  "149752": {
+    "name": "Gastroenterologia/37_Gastro_Patologia_biliar_I",
+    "vimeo_id": "986741411"
+  },
+  "149753": {
+    "name": "Gastroenterologia/38_Gastro_Patologia_biliar_II",
+    "vimeo_id": "986746992"
+  },
+  "149754": {
+    "name": "Gastroenterologia/39_Gastro_Coledocolitiasis_colangitis",
+    "vimeo_id": "986760760"
+  },
+  "149755": {
+    "name": "Gastroenterologia/40_Gastro_Polipos_vesiculares",
+    "vimeo_id": "986779413"
+  },
+  "149756": {
+    "name": "Gastroenterologia/41_Gastro_Patologia_vascular_abdominal",
+    "vimeo_id": "982798804"
+  },
+  "149757": {
+    "name": "Gastroenterologia/42_Gastro_Hernia_hiatal",
+    "vimeo_id": "986842708"
+  },
+  "149759": {
+    "name": "Gastroenterologia/44_Gastro_Patologia_mediastino",
+    "vimeo_id": "986845300"
+  },
+  "149761": {
+    "name": "Gastroenterologia/46_Gastro_Patologia_pilonidal",
+    "vimeo_id": "982694349"
+  },
+  "149762": {
+    "name": "Gastroenterologia/47_Gastro_Traumatismo_abdominal",
+    "vimeo_id": "986851677"
+  },
+  "149763": {
+    "name": "Gastroenterologia/48_Gastro_Cuerpo_extrano_digestivo",
+    "vimeo_id": "703903399"
+  },
+  "149767": {
+    "name": "Gastroenterologia/50_Gastro_Diarrea_aguda_pediatria",
+    "vimeo_id": "1004533637"
+  },
+  "149769": {
+    "name": "Gastroenterologia/52_Gastro_RGE_lactante",
+    "vimeo_id": "1004534935"
+  },
+  "149771": {
+    "name": "Gastroenterologia/54_Gastro_Cirugia_pediatrica_II",
+    "vimeo_id": "986856727"
+  },
+  "149482": {
+    "name": "Hematologia/01_Hemato_Anemia_generalidades",
+    "vimeo_id": "914760613"
+  },
+  "149483": {
+    "name": "Hematologia/02_Hemato_Perfil_hierro",
+    "vimeo_id": "914760967"
+  },
+  "149484": {
+    "name": "Hematologia/03_Hemato_Anemia_ferropenica",
+    "vimeo_id": "914761408"
+  },
+  "149485": {
+    "name": "Hematologia/04_Hemato_Anemia_enf_cronicas",
+    "vimeo_id": "914760548"
+  },
+  "149486": {
+    "name": "Hematologia/05_Hemato_Anemia_hemolitica",
+    "vimeo_id": "914762328"
+  },
+  "149487": {
+    "name": "Hematologia/06_Hemato_Anemia_B12_folatos",
+    "vimeo_id": "914762700"
+  },
+  "149488": {
+    "name": "Hematologia/07_Hemato_Hemoglobinopatias",
+    "vimeo_id": "914763089"
+  },
+  "149489": {
+    "name": "Hematologia/08_Hemato_Anemia_IRC",
+    "vimeo_id": "914763440"
+  },
+  "149490": {
+    "name": "Hematologia/09_Hemato_Indicaciones_transfusion",
+    "vimeo_id": "914764648"
+  },
+  "149491": {
+    "name": "Hematologia/10_Hemato_Anemia_ninos",
+    "vimeo_id": "914764927"
+  },
+  "149492": {
+    "name": "Hematologia/11_Hemato_Alteraciones_hemostasia",
+    "vimeo_id": "914765271"
+  },
+  "149493": {
+    "name": "Hematologia/12_Hemato_Purpura",
+    "vimeo_id": "914764432"
+  },
+  "149494": {
+    "name": "Hematologia/13_Hemato_PTI",
+    "vimeo_id": "914766513"
+  },
+  "149495": {
+    "name": "Hematologia/14_Hemato_PTT",
+    "vimeo_id": "914766823"
+  },
+  "149496": {
+    "name": "Hematologia/15_Hemato_Purpura_Schonlein_Henoch",
+    "vimeo_id": "914767008"
+  },
+  "149497": {
+    "name": "Hematologia/16_Hemato_Patologias_geneticas_hemostasia",
+    "vimeo_id": "914766156"
+  },
+  "149498": {
+    "name": "Hematologia/17_Hemato_Hemofilia",
+    "vimeo_id": "914768670"
+  },
+  "149499": {
+    "name": "Hematologia/18_Hemato_CID",
+    "vimeo_id": "914768882"
+  },
+  "149500": {
+    "name": "Hematologia/19_Hemato_Hemograma_infecciones",
+    "vimeo_id": "914769090"
+  },
+  "149501": {
+    "name": "Hematologia/20_Hemato_Trombocitosis_reactiva",
+    "vimeo_id": "914768242"
+  },
+  "149502": {
+    "name": "Hematologia/21_Hemato_Cancer_hematologico_nociones",
+    "vimeo_id": "914770220"
+  },
+  "149503": {
+    "name": "Hematologia/22_Hemato_Semiologia_cancer_hematologico",
+    "vimeo_id": "914770601"
+  },
+  "149504": {
+    "name": "Hematologia/23_Hemato_Leucemias",
+    "vimeo_id": "914770875"
+  },
+  "149505": {
+    "name": "Hematologia/24_Hemato_Leucemias_II",
+    "vimeo_id": "914771266"
+  },
+  "149506": {
+    "name": "Hematologia/25_Hemato_Linfomas",
+    "vimeo_id": "914772500"
+  },
+  "149507": {
+    "name": "Hematologia/26_Hemato_Sindromes_mieloproliferativos",
+    "vimeo_id": "914772756"
+  },
+  "149508": {
+    "name": "Hematologia/27_Hemato_Mielodisplasias",
+    "vimeo_id": "914773392"
+  },
+  "149509": {
+    "name": "Hematologia/28_Hemato_Pancitopenia",
+    "vimeo_id": "914772381"
+  },
+  "149510": {
+    "name": "Hematologia/29_Hemato_Gamapatias_monoclonales",
+    "vimeo_id": "914773988"
+  },
+  "149511": {
+    "name": "Hematologia/30_Hemato_Urgencias_oncologicas",
+    "vimeo_id": "914774793"
+  },
+  "149783": {
+    "name": "Neurologia/01_Neuro_Neuroanatomia",
+    "vimeo_id": "1064864198"
+  },
+  "149784": {
+    "name": "Neurologia/02_Neuro_AVE",
+    "vimeo_id": "1064864260"
+  },
+  "149785": {
+    "name": "Neurologia/03_Neuro_TIA",
+    "vimeo_id": "1064864713"
+  },
+  "149786": {
+    "name": "Neurologia/04_Neuro_AVE_lacunar",
+    "vimeo_id": "1064864784"
+  },
+  "149787": {
+    "name": "Neurologia/05_Neuro_Casos_AVE",
+    "vimeo_id": "1064864846"
+  },
+  "149788": {
+    "name": "Neurologia/06_Neuro_Semiologia_AVE",
+    "vimeo_id": "1064864947"
+  },
+  "149789": {
+    "name": "Neurologia/07_Neuro_Sindromes_medulares",
+    "vimeo_id": "1065456109"
+  },
+  "149790": {
+    "name": "Neurologia/08_Neuro_Sindromes_motores",
+    "vimeo_id": "1064873521"
+  },
+  "149791": {
+    "name": "Neurologia/09_Neuro_ELA",
+    "vimeo_id": "1064873719"
+  },
+  "149792": {
+    "name": "Neurologia/10_Neuro_Esclerosis_multiple",
+    "vimeo_id": "1064873806"
+  },
+  "149793": {
+    "name": "Neurologia/11_Neuro_Guillain_Barre",
+    "vimeo_id": "1064873993"
+  },
+  "149794": {
+    "name": "Neurologia/12_Neuro_Mielitis_transversa",
+    "vimeo_id": "1064875154"
+  },
+  "149795": {
+    "name": "Neurologia/13_Neuro_Miastenias",
+    "vimeo_id": "1064969081"
+  },
+  "149796": {
+    "name": "Neurologia/14_Neuro_Neuralgias",
+    "vimeo_id": "1065026673"
+  },
+  "149797": {
+    "name": "Neurologia/15_Neuro_Nervio_periferico",
+    "vimeo_id": "1065027267"
+  },
+  "149798": {
+    "name": "Neurologia/16_Neuro_Neuropatias_atrapamiento",
+    "vimeo_id": "1065027592"
+  },
+  "149799": {
+    "name": "Neurologia/17_Neuro_Nervios_craneales",
+    "vimeo_id": "1065029052"
+  },
+  "149800": {
+    "name": "Neurologia/18_Neuro_Paralisis_facial",
+    "vimeo_id": "705867202"
+  },
+  "149801": {
+    "name": "Neurologia/19_Neuro_Causas_paralisis_facial",
+    "vimeo_id": "705864268"
+  },
+  "149802": {
+    "name": "Neurologia/20_Neuro_Vertigo",
+    "vimeo_id": "705866118"
+  },
+  "149803": {
+    "name": "Neurologia/21_Neuro_Causas_vertigo",
+    "vimeo_id": "705866691"
+  },
+  "149804": {
+    "name": "Neurologia/22_Neuro_Neurooftalmologia_1",
+    "vimeo_id": "844040764"
+  },
+  "149805": {
+    "name": "Neurologia/23_Neuro_Neurooftalmologia_2",
+    "vimeo_id": "844041182"
+  },
+  "149806": {
+    "name": "Neurologia/24_Neuro_Neurooftalmologia_3",
+    "vimeo_id": "844041398"
+  },
+  "149807": {
+    "name": "Neurologia/25_Neuro_Compromiso_conciencia",
+    "vimeo_id": "1065029701"
+  },
+  "149808": {
+    "name": "Neurologia/26_Neuro_Cefalea_generalidades",
+    "vimeo_id": "1065030406"
+  },
+  "149809": {
+    "name": "Neurologia/27_Neuro_Hemorragia_subaracnoidea",
+    "vimeo_id": "982721417"
+  },
+  "149810": {
+    "name": "Neurologia/28_Neuro_Cefaleas_cronicas_I",
+    "vimeo_id": "1065031193"
+  },
+  "149811": {
+    "name": "Neurologia/29_Neuro_Cefaleas_cronicas_II",
+    "vimeo_id": "1065035057"
+  },
+  "149812": {
+    "name": "Neurologia/30_Neuro_HT_endocraneana",
+    "vimeo_id": "1065035232"
+  },
+  "149813": {
+    "name": "Neurologia/31_Neuro_Tumor_cerebral",
+    "vimeo_id": "982711219"
+  },
+  "149814": {
+    "name": "Neurologia/32_Neuro_TEC",
+    "vimeo_id": "982713165"
+  },
+  "149815": {
+    "name": "Neurologia/33_Neuro_TAC_hemorragias",
+    "vimeo_id": "982717861"
+  },
+  "149816": {
+    "name": "Neurologia/34_Neuro_Temblor",
+    "vimeo_id": "1065035635"
+  },
+  "149817": {
+    "name": "Neurologia/35_Neuro_Sindromes_extrapiramidales",
+    "vimeo_id": "1065036221"
+  },
+  "149818": {
+    "name": "Neurologia/36_Neuro_Epilepsia",
+    "vimeo_id": "1065036975"
+  },
+  "149819": {
+    "name": "Neurologia/37_Neuro_Primera_convulsion",
+    "vimeo_id": "1065037459"
+  },
+  "149820": {
+    "name": "Neurologia/38_Neuro_Casos_epilepsia",
+    "vimeo_id": "1065037632"
+  },
+  "149822": {
+    "name": "Neurologia/40_Neuro_Diseccion_arterias_cervicales",
+    "vimeo_id": "982731495"
+  },
+  "149823": {
+    "name": "Neurologia/41_Neuro_Trastornos_sueno",
+    "vimeo_id": "1065038258"
+  },
+  "149824": {
+    "name": "Neurologia/42_Neuro_Manejo_insomnio",
+    "vimeo_id": "1065038975"
+  },
+  "149830": {
+    "name": "Neurologia/Ped01_Neuro_Temas_pediatria",
+    "vimeo_id": "1004506716"
+  },
+  "149831": {
+    "name": "Neurologia/Ped02_Neuro_Convulsiones_febriles",
+    "vimeo_id": "1004533398"
+  },
+  "149832": {
+    "name": "Neurologia/Ped03_Neuro_Convulsiones_neonatales",
+    "vimeo_id": "1001828936"
+  },
+  "149833": {
+    "name": "Neurologia/Ped04_Neuro_Microcefalia_macrocefalia",
+    "vimeo_id": "1004506518"
+  },
+  "149834": {
+    "name": "Neurologia/Ped05_Neuro_Cefalea_ninos",
+    "vimeo_id": "1004506673"
+  },
+  "149835": {
+    "name": "Neurologia/Ped06_Neuro_Desarrollo_psicomotor",
+    "vimeo_id": "1004506929"
+  },
+  "149849": {
+    "name": "Geriatria/01_Geria_Generalidades",
+    "vimeo_id": "1065053110"
+  },
+  "149850": {
+    "name": "Geriatria/02_Geria_Delirium_demencia",
+    "vimeo_id": "1065053386"
+  },
+  "149851": {
+    "name": "Geriatria/03_Geria_Causas_demencia",
+    "vimeo_id": "1065053738"
+  },
+  "149852": {
+    "name": "Geriatria/04_Geria_Deterioro_cognitivo_menor",
+    "vimeo_id": "1065054471"
+  },
+  "149853": {
+    "name": "Geriatria/05_Geria_Sarcopenia_caidas",
+    "vimeo_id": "1065054533"
+  },
+  "149854": {
+    "name": "Geriatria/06_Geria_Depresion_abuso_AM",
+    "vimeo_id": "1065054729"
+  },
+  "149856": {
+    "name": "Geriatria/Uro01_Geria_Incontinencia_urinaria",
+    "vimeo_id": "960598336"
+  },
+  "149857": {
+    "name": "Geriatria/Uro02_Geria_Incontinencia_manejo",
+    "vimeo_id": "953688248"
+  },
+  "149858": {
+    "name": "Geriatria/Uro03_Geria_Vejiga_neurogenica",
+    "vimeo_id": "953673769"
+  }
+}

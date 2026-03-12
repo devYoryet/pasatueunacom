@@ -1,0 +1,723 @@
+1
+00:00:00,000 --> 00:00:06,800
+Hola, hola, ¿cómo están? En este vídeo vamos a dar inicio al tema de los métodos
+
+2
+00:00:06,800 --> 00:00:10,720
+anticonceptivos, vamos a ver algunas generalidades, vamos a ver además
+
+3
+00:00:10,720 --> 00:00:13,920
+algunos detalles de los métodos naturales, los de barrera y los
+
+4
+00:00:13,920 --> 00:00:17,840
+quirúrgicos y vamos a dejar luego para otro vídeo los métodos hormonales y
+
+5
+00:00:17,840 --> 00:00:21,080
+los DIUs. Empecemos con la clasificación de los métodos
+
+6
+00:00:21,080 --> 00:00:24,780
+anticonceptivos que es la misma que acabo de mencionar, los hormonales
+
+7
+00:00:24,780 --> 00:00:29,040
+como los anticonceptivos orales, los DIUs como el DIU de cobre o el
+
+8
+00:00:29,040 --> 00:00:32,640
+DIU medicado con león-orgestrel, los métodos de barrera como el
+
+9
+00:00:32,640 --> 00:00:37,140
+preservativo por ejemplo, los quirúrgicos como la ligadura de trompas o la
+
+10
+00:00:37,140 --> 00:00:40,560
+vasectomía y finalmente los naturales que vamos a ver en algunos minutos con
+
+11
+00:00:40,560 --> 00:00:44,920
+cierto detalle. La gran pregunta es cuál usar y en general se decide en
+
+12
+00:00:44,920 --> 00:00:48,520
+base a una serie de variables que son la eficacia por un lado que se ve
+
+13
+00:00:48,520 --> 00:00:52,120
+con el índice de PERL que lo vamos a explicar con algún detalle en
+
+14
+00:00:52,120 --> 00:00:56,080
+algunos minutos, los riesgos y beneficios de cada uno de ellos, las
+
+15
+00:00:56,080 --> 00:01:00,280
+contraindicaciones que como médico general hay que saberla y finalmente el
+
+16
+00:01:00,280 --> 00:01:05,800
+precio entre otras variables. Ahora la gran pregunta es quién decide cuál se
+
+17
+00:01:05,800 --> 00:01:09,320
+usa y es la paciente por su caso, uno como médico le entrega toda la
+
+18
+00:01:09,320 --> 00:01:15,040
+información y la paciente escoge cuál es el que quiere usar. Los métodos
+
+19
+00:01:15,040 --> 00:01:19,840
+naturales sepan que hay varios, el de Billings es el mejor dentro de los
+
+20
+00:01:20,400 --> 00:01:26,880
+naturales, su índice de PERL con el uso recomendado bien ejecutado,
+
+21
+00:01:26,880 --> 00:01:31,720
+sería de un 2%, en cambio el índice de PERL con el uso típico, con el
+
+22
+00:01:31,720 --> 00:01:38,000
+clásico, con el que habitualmente las pacientes lo ejecutan, es un 22%.
+
+23
+00:01:38,000 --> 00:01:42,120
+Ahora me detengo acá, que es el índice de PERL, es el porcentaje de
+
+24
+00:01:42,120 --> 00:01:47,440
+fallo del anticonceptivo, mientras más bajo sea es mejor. Un índice de
+
+25
+00:01:47,440 --> 00:01:54,400
+PERL de 2%, eso quiere decir que falla en un 2% de los casos y que en
+
+26
+00:01:54,400 --> 00:01:59,600
+cambio me previene el 98% de los embarazos. Yo lo comparo con una
+
+27
+00:01:59,600 --> 00:02:04,160
+pareja que está sin anticonceptivo y veo cuántas se embarazan, en este caso
+
+28
+00:02:04,160 --> 00:02:08,920
+se embaraza solamente el 2% en comparación con el total de las que
+
+29
+00:02:08,920 --> 00:02:15,760
+se embarazaban sin anticonceptivo. El 2% sería la eficacia del método de
+
+30
+00:02:16,320 --> 00:02:21,000
+dígase lo que vimos en salud pública, la eficacia es en las condiciones
+
+31
+00:02:21,000 --> 00:02:26,920
+ideales controladas, en cambio el 22% sería la efectividad del método de
+
+32
+00:02:26,920 --> 00:02:30,720
+billings, dígase lo que ocurre en la realidad, lo que ocurre en las
+
+33
+00:02:30,720 --> 00:02:35,640
+condiciones habituales que los pacientes finalmente siguen. Esta
+
+34
+00:02:35,640 --> 00:02:40,200
+diferencia entre la eficacia y la efectividad es algo que se repite en
+
+35
+00:02:40,200 --> 00:02:44,400
+muchos otros métodos anticonceptivos también.
+
+36
+00:02:44,400 --> 00:02:48,160
+Como para entender un poquito mejor el método de billings, hay que recordar
+
+37
+00:02:48,160 --> 00:02:52,880
+que el ciclo menstrual habitualmente dura 28 días, en algunos casos
+
+38
+00:02:52,880 --> 00:02:58,120
+dura un poco más y en algunos otros dura un poco menos. El ciclo menstrual
+
+39
+00:02:58,120 --> 00:03:02,920
+se dice que se inicia con la menstruación, que son habitualmente los
+
+40
+00:03:02,920 --> 00:03:06,760
+primeros días que pueden ser 3 días, 5 días, máximo 7 días,
+
+41
+00:03:06,760 --> 00:03:11,240
+habitualmente entre 2 y 7 días. La ovulación suele estar en la mitad
+
+42
+00:03:11,280 --> 00:03:15,920
+del ciclo menstrual, de hecho habitualmente en el día 14, en el caso
+
+43
+00:03:15,920 --> 00:03:20,800
+de que sea un ciclo de 28 días, pero que esto quede bien claro, lo más
+
+44
+00:03:20,800 --> 00:03:25,640
+frecuente es que la fase lutea, la última fase, sea más estable y tienda
+
+45
+00:03:25,640 --> 00:03:30,480
+a durar 14 días, en cambio la fase follicular, que es la previa a la
+
+46
+00:03:30,480 --> 00:03:34,040
+ovulación, es la que suele ser más larga o más corta y la que me
+
+47
+00:03:34,040 --> 00:03:38,600
+determina finalmente la duración total del ciclo menstrual. Ejemplo, en
+
+48
+00:03:38,880 --> 00:03:42,560
+algún paciente que tiene un ciclo menstrual de 30 días, lo más probable
+
+49
+00:03:42,560 --> 00:03:47,200
+es que la ovulación se produzca el día 16. Ahora, todo el tiempo que está
+
+50
+00:03:47,200 --> 00:03:51,320
+antes de la ovulación, desde el primer día de la menstruación hasta el día de
+
+51
+00:03:51,320 --> 00:03:55,880
+la ovulación, en ese caso se llama la fase follicular, en cambio desde la
+
+52
+00:03:55,880 --> 00:04:00,680
+ovulación hasta la menstruación, la segunda parte es la fase lutea,
+
+53
+00:04:00,680 --> 00:04:04,040
+debido a que justamente la ovulación, que si se acuerdan se
+
+54
+00:04:04,040 --> 00:04:11,120
+producía con el PICDLH, en ese caso el folículo, cierto, se rompe y luego se
+
+55
+00:04:11,120 --> 00:04:15,560
+luteiniza, se transforma en el cuerpo lúteo y de ahí viene el nombre de
+
+56
+00:04:15,560 --> 00:04:18,960
+fase lutea, justamente porque hay un cuerpo lúteo, que si se acuerdan la
+
+57
+00:04:18,960 --> 00:04:23,920
+hormona que se producía, el cuerpo lúteo es la progesterona. Bueno,
+
+58
+00:04:23,920 --> 00:04:28,120
+habiendo dicho eso, veamos cuál es la ventana fértil, que no quiero que
+
+59
+00:04:28,120 --> 00:04:32,840
+me confundan el periodo fértil, que es el periodo de la vida de una
+
+60
+00:04:32,840 --> 00:04:38,080
+paciente, los años durante los cuales se puede embarazar,
+
+61
+00:04:38,080 --> 00:04:43,520
+habitualmente desde la menarquia hasta cerca de los 41 años o hasta la
+
+62
+00:04:43,520 --> 00:04:47,720
+menopausia, dicen algunos, que dura el periodo fértil, con la ventana fértil,
+
+63
+00:04:47,720 --> 00:04:51,160
+que en cambio la ventana fértil son aquellos días del ciclo menstrual en
+
+64
+00:04:51,160 --> 00:04:54,800
+los cuales se puede embarazar. La ventana fértil habitualmente son los
+
+65
+00:04:54,800 --> 00:04:58,600
+cinco días previos a la ovulación. Ahora, que quede esto bien claro, el
+
+66
+00:04:58,600 --> 00:05:03,120
+óvulo suele durar solamente algunas horas, cerca de 12 horas, pero los
+
+67
+00:05:03,120 --> 00:05:08,000
+espermatozoides en cambio pueden durar hasta cinco días, así que si es que
+
+68
+00:05:08,000 --> 00:05:12,240
+tuvo relaciones sexuales durante los cinco días previos a la ovulación,
+
+69
+00:05:12,240 --> 00:05:15,640
+todavía puede que hay algún espermatozoide cierto que esté vivo
+
+70
+00:05:15,640 --> 00:05:20,320
+y que esté esperando como para poder fertilizar al óvulo en el momento de
+
+71
+00:05:20,320 --> 00:05:25,880
+la ovulación misma. En la fase folicular el moco cervical se va
+
+72
+00:05:26,080 --> 00:05:31,640
+estrogenizando y se va volviendo cada vez más filante, alcanzando su máxima
+
+73
+00:05:31,640 --> 00:05:36,360
+filancia al momento de la ovulación. En cambio en la fase lútea, debido a la
+
+74
+00:05:36,360 --> 00:05:40,440
+acción de la progesterona, el moco cervical se seca cierto y se queda
+
+75
+00:05:40,440 --> 00:05:46,680
+seco durante todo el resto del ciclo. Lo mismo ocurre durante todo el
+
+76
+00:05:46,680 --> 00:05:50,440
+embarazo, que si se acuerdan el embarazo se caracteriza por niveles
+
+77
+00:05:50,440 --> 00:05:54,600
+bastante altos de progesterona, habitualmente el moco cervical se
+
+78
+00:05:54,600 --> 00:05:59,480
+mantiene siempre seco durante todo el embarazo debido justamente a la acción
+
+79
+00:05:59,480 --> 00:06:04,080
+de esta hormona. Ahora en general el método de Billings en que consiste en
+
+80
+00:06:04,080 --> 00:06:09,000
+esa frase, conéctese con su vulva cierto, aprenda a identificar las
+
+81
+00:06:09,000 --> 00:06:13,720
+características de su moco cervical y de esa forma va a saber en qué días
+
+82
+00:06:13,720 --> 00:06:18,320
+está en su ventana fértil de manera que no mantenga relaciones sexuales
+
+83
+00:06:18,320 --> 00:06:22,720
+en esos días. Se suele explicar que durante los días de menstruación se
+
+84
+00:06:22,720 --> 00:06:26,800
+recomienda que no tengan las relaciones sexuales, durante los días de
+
+85
+00:06:26,800 --> 00:06:31,560
+la fase folicular hasta antes que el moco cervical esté bien estrogenizado
+
+86
+00:06:31,560 --> 00:06:35,880
+cierto, así puede mantenerla y se recomienda que la tenga en una
+
+87
+00:06:35,880 --> 00:06:40,360
+periodicidad de más o menos día por medio o cada tres días como para
+
+88
+00:06:40,360 --> 00:06:44,920
+evitar que el semen se confunda con el moco cervical. Durante la ventana
+
+89
+00:06:44,920 --> 00:06:50,560
+fértil obviamente no se tiene que embarazar con relaciones sexuales, a
+
+90
+00:06:50,560 --> 00:06:53,800
+menos claro que lo desee, de hecho el método de Billings para algo que sí
+
+91
+00:06:53,800 --> 00:06:58,880
+sirve es como para quedarse embarazada en el caso de alguna mujer que tenga
+
+92
+00:06:58,880 --> 00:07:03,040
+ciclos regulares cierto y finalmente una vez que el moco cervical ya se ha
+
+93
+00:07:03,040 --> 00:07:06,400
+secado por completo y ya está en la fase lútea ahí puede mantener
+
+94
+00:07:06,400 --> 00:07:10,080
+relaciones sexuales sin ningún riesgo. Vemos ahora algunos otros
+
+95
+00:07:10,080 --> 00:07:15,100
+métodos naturales que dentro de eso está el coitus interruptus que es que
+
+96
+00:07:15,100 --> 00:07:21,380
+se interrumpe la relación sexual de manera que el hombre yacule afuera,
+
+97
+00:07:21,380 --> 00:07:27,060
+segundo lugar la ducha vaginal que se lava el semen cierto, el método de la
+
+98
+00:07:27,060 --> 00:07:30,900
+temperatura que es muy malo por su caso, bueno la verdad es que todos
+
+99
+00:07:30,900 --> 00:07:36,260
+estos son muy malos, su desventaja en general es que se asocian a una
+
+100
+00:07:36,260 --> 00:07:40,700
+alta tasa de embarazo y las ventajas que hay en general es que
+
+101
+00:07:40,700 --> 00:07:46,020
+son aceptados por el cristianismo sería como lo más importante además de
+
+102
+00:07:46,020 --> 00:07:49,740
+no venir con ningún tipo de efecto adverso así que se recomiendan en
+
+103
+00:07:49,740 --> 00:07:54,740
+general en pacientes que no tienen tantas ganas de embarazarse pero que
+
+104
+00:07:54,740 --> 00:07:58,180
+les daría lo mismo si es que eventualmente se embarazan. Como cosa
+
+105
+00:07:58,180 --> 00:08:05,180
+de educación general sepan que el fomentar la abstinencia sexual como
+
+106
+00:08:05,180 --> 00:08:09,260
+método anticonceptivo es una pésima idea y que está científicamente
+
+107
+00:08:09,580 --> 00:08:14,900
+demostrado que se asocia a altas tasas de embarazo no deseado y segundo lugar
+
+108
+00:08:14,900 --> 00:08:21,140
+a altas tasas de el contraer infecciones de transmisión sexual también así
+
+109
+00:08:21,140 --> 00:08:26,860
+que repito lo ideal no es el promover la abstinencia sexual a secas sino que
+
+110
+00:08:26,860 --> 00:08:32,420
+el promover la sexualidad responsable cierto con el conocimiento y la
+
+111
+00:08:32,420 --> 00:08:35,780
+utilización de los métodos anticonceptivos disponibles en
+
+112
+00:08:35,820 --> 00:08:39,820
+general en el caso de que no se quieran embarazar vemos ahora rápidamente los
+
+113
+00:08:39,820 --> 00:08:45,300
+métodos de barrera el más importante es el condón masculino o preservativo
+
+114
+00:08:45,300 --> 00:08:50,860
+cierto la gran ventaja que tiene es que es el único que protege de las
+
+115
+00:08:50,860 --> 00:08:55,380
+infecciones de transmisión sexual de hecho es de elección en el caso de
+
+116
+00:08:55,380 --> 00:09:00,220
+una paciente con vih o de un paciente con con vih o alguna otra
+
+117
+00:09:00,220 --> 00:09:03,820
+infección crónica de transmisión sexual como por ejemplo la hepatitis
+
+118
+00:09:04,420 --> 00:09:09,340
+aunque esa es curable así que habitualmente se curan y luego eso ya se
+
+119
+00:09:09,340 --> 00:09:16,060
+puede suspender y además es de elección en el caso de las pacientes
+
+120
+00:09:16,060 --> 00:09:21,220
+con prevención sexual o sin una pareja estable debido a que justamente repito
+
+121
+00:09:21,220 --> 00:09:25,380
+es el único que evita el contagio con infecciones de transmisión sexual
+
+122
+00:09:25,380 --> 00:09:31,340
+ahora las desventajas del condón es número uno está contraindicado en
+
+123
+00:09:31,540 --> 00:09:36,020
+los pacientes y en las pacientes también con alergia al látex da lo
+
+124
+00:09:36,020 --> 00:09:41,420
+mismo cual de las dos personas de la pareja sea alérgico no se puede usar
+
+125
+00:09:41,420 --> 00:09:47,700
+aunque existen algunos que son de una sustancia distinta de poliuretano y
+
+126
+00:09:47,700 --> 00:09:51,580
+eso sí se pueden usar y la otra desventaja es que no son tan
+
+127
+00:09:51,580 --> 00:09:58,820
+eficaces su índice de perl es de 2% con el uso recomendado cierto y de
+
+128
+00:09:58,860 --> 00:10:04,020
+18% con el uso clásico así que en el caso de una paciente vih por ejemplo
+
+129
+00:10:04,020 --> 00:10:09,340
+que va a mantener relaciones sexuales habituales y que no se quiere
+
+130
+00:10:09,340 --> 00:10:13,780
+embarazar se recomienda que use los anticonceptivos como para evitar el
+
+131
+00:10:13,780 --> 00:10:18,460
+embarazo los anticonceptivos orales más el preservativo cierto como para
+
+132
+00:10:18,460 --> 00:10:25,060
+evitar la transmisión de la infección en segundo lugar está el
+
+133
+00:10:25,060 --> 00:10:29,980
+condón femenino que lamentablemente no está muy disponible es un poco más
+
+134
+00:10:29,980 --> 00:10:34,580
+incómodo es más grande cierto se lo pone en este caso la mujer
+
+135
+00:10:34,580 --> 00:10:42,300
+eventualmente podría ser útil en las parejas del mismo sexo femenino
+
+136
+00:10:42,300 --> 00:10:47,620
+cierto en la población de lesbianas pero insisto en chile habitualmente no
+
+137
+00:10:47,620 --> 00:10:53,380
+hay ninguna parte en donde encontrarlo debido a que justamente a la gente
+
+138
+00:10:53,380 --> 00:10:59,180
+no le gusta y finalmente no lo compra y como cosa final existe el diafragma
+
+139
+00:10:59,180 --> 00:11:04,260
+femenino que es muy antiguo que en la práctica ya no se usa casi y que no
+
+140
+00:11:04,260 --> 00:11:09,140
+no se recomienda tanto debido a que no protege en contra de las infecciones
+
+141
+00:11:09,140 --> 00:11:12,720
+de transmisión sexual y que tampoco están eficaz la verdad se usa
+
+142
+00:11:12,720 --> 00:11:17,380
+habitualmente con espermicida más el diafragma mismo que evita que el semen
+
+143
+00:11:17,380 --> 00:11:23,140
+llegue hasta el útero cierto pero repito no evita que las infecciones
+
+144
+00:11:23,140 --> 00:11:28,060
+de transmisión sexual lleguen debido a que hay contacto entre las mucosas es
+
+145
+00:11:28,060 --> 00:11:32,700
+solamente algo que evita el paso por la vagina hacia más arriba como último
+
+146
+00:11:32,700 --> 00:11:36,580
+tema de este vídeo veamos los métodos quirúrgicos en estos los
+
+147
+00:11:36,580 --> 00:11:42,980
+más importantes son la vasectomía masculina en la cual se ligan y
+
+148
+00:11:42,980 --> 00:11:48,460
+cortan los conductos de frente cierto es barata es de bajo riesgo está
+
+149
+00:11:48,460 --> 00:11:52,020
+disponible en el sistema público chileno y su índice de pérol es
+
+150
+00:11:52,020 --> 00:11:58,300
+bastante bueno si se fijan solamente falla en el 0,1% de los casos uno en
+
+151
+00:11:58,300 --> 00:12:03,180
+mil y la verdad es que cuando los pacientes cumplen con el no mantener
+
+152
+00:12:03,180 --> 00:12:06,720
+relaciones sexuales hasta no haberse controlado con un espermio grama
+
+153
+00:12:06,720 --> 00:12:10,340
+negativo un par de semanas después en ese caso el índice de pérol es
+
+154
+00:12:10,340 --> 00:12:15,860
+todavía mejor y la otra es la ligadura tubarica de las mujeres que
+
+155
+00:12:15,860 --> 00:12:20,540
+por el general se hace en el último hijo junto con la cesárea
+
+156
+00:12:20,540 --> 00:12:26,340
+aunque hay algunos casos en que se puede solicitar de manera como sola sin
+
+157
+00:12:26,340 --> 00:12:30,920
+si que se haga una cesárea también su índice de pérol acá es un poquito
+
+158
+00:12:30,920 --> 00:12:36,140
+más bajo es de 0,5% y es más alto el riesgo de embarazo en
+
+159
+00:12:36,140 --> 00:12:41,980
+particular durante el primer año debido a que el motivo más frecuente de
+
+160
+00:12:41,980 --> 00:12:46,100
+fallo de la ligadura tubarica es justamente que no se liga bien la
+
+161
+00:12:46,100 --> 00:12:49,380
+trompa sino que se liga alguna otra estructura que puede estar ahí
+
+162
+00:12:49,380 --> 00:12:55,220
+anexa como por ejemplo el ligamento redondo las ventajas de los métodos
+
+163
+00:12:55,220 --> 00:12:59,460
+quirúrgicos que son permanentes y definitivos cierto no hay que estar
+
+164
+00:12:59,460 --> 00:13:04,700
+usando ni ni pastillas ni condones ninguna otra cosa y las desventajas
+
+165
+00:13:04,700 --> 00:13:08,700
+son exactamente el mismo que es algo permanente y que por lo mismo la
+
+166
+00:13:08,700 --> 00:13:14,220
+paciente se puede arrepentir y el que se quede embarazada después algo
+
+167
+00:13:14,220 --> 00:13:18,540
+mucho más difícil y más caro con las técnicas de fertilización asistida
+
+168
+00:13:19,020 --> 00:13:22,420
+ahora el segundo riesgo que tiene es el riesgo de embarazo estópico que si
+
+169
+00:13:22,420 --> 00:13:27,700
+viene un riesgo bastante bajo en general con una ligadura tubarica por
+
+170
+00:13:27,700 --> 00:13:31,360
+ejemplo el riesgo de que tenga un embarazo estópico es mucho más bajo
+
+171
+00:13:31,360 --> 00:13:34,740
+que el de una paciente que no está ligada pero en el caso de que se
+
+172
+00:13:34,740 --> 00:13:39,260
+embarace el riesgo de que el embarazo sea de tipo estópico es muy alto
+
+173
+00:13:39,260 --> 00:13:43,940
+sea en resumen las las pacientes con ligadura tubarica por el en
+
+174
+00:13:43,940 --> 00:13:48,100
+general no se embarazan ni tampoco hacen embarazos estópico pero si
+
+175
+00:13:48,100 --> 00:13:53,380
+llegase a estar dentro de ese 0,5% que si se embaraza el embarazo
+
+176
+00:13:53,380 --> 00:13:56,860
+eventualmente si puede ser un embarazo estópico y por la misma razón una
+
+177
+00:13:56,860 --> 00:14:00,740
+paciente que viene con clínica de un embarazo estópico aunque esté ligada
+
+178
+00:14:00,740 --> 00:14:04,860
+la primera medida es pedirle un test de embarazo y si es que está
+
+179
+00:14:04,860 --> 00:14:08,060
+positivo lo más probable es que si sea un embarazo estópico justamente
+
+180
+00:14:08,060 --> 00:14:12,500
+por el hecho de estar ligado y bueno eso es todo en el siguiente vídeo nos
+
+181
+00:14:12,500 --> 00:14:17,140
+vamos a adentrar en los otros métodos que estén bien

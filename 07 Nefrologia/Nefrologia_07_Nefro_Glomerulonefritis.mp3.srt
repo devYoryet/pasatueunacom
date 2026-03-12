@@ -1,0 +1,555 @@
+1
+00:00:00,000 --> 00:00:06,860
+Hola, hola. En este video vamos a hablar de las sueroterapias, del uso de los
+
+2
+00:00:06,860 --> 00:00:10,540
+distintos sueros, partiendo por esta máxima, que es que primero se corrige la
+
+3
+00:00:10,540 --> 00:00:14,640
+bolemia y luego se miran los electronitos plasmáticos. Pero eso no
+
+4
+00:00:14,640 --> 00:00:19,200
+siempre es así. Hay algunas ocasiones, algunas pequeñas excepciones que no
+
+5
+00:00:19,200 --> 00:00:22,380
+tienen ninguna evidencia, por su acaso, pero que vale la pena saber o al menos
+
+6
+00:00:22,380 --> 00:00:26,000
+mencionar. Empecemos con el suero fisiológico, que es el rey de los
+
+7
+00:00:26,000 --> 00:00:29,380
+sueros. Cierto, es una de las intervenciones que más vida ha
+
+8
+00:00:29,380 --> 00:00:35,900
+salvado en la historia de la medicina. Es NACL, o sea cloruro de sodio, al 0,9%
+
+9
+00:00:35,900 --> 00:00:41,260
+y recuerden que tiene las 3B. Es bueno, es bonito, es barato, es de
+
+10
+00:00:41,260 --> 00:00:45,700
+elección para el manejo de las hipovolemias. De hecho, habitualmente se
+
+11
+00:00:45,700 --> 00:00:49,860
+le da al menos dos bolos completos de suero fisiológico antes de
+
+12
+00:00:49,860 --> 00:00:54,620
+intentar manejarlo con coloides o con alguna otra cosa, o antes de
+
+13
+00:00:54,620 --> 00:00:58,260
+asumir que no es una hipovolemia, sino que es un shock vasodiletador,
+
+14
+00:00:58,260 --> 00:01:04,460
+por ejemplo. Por regla general, hay que saber que puede asociarse a un
+
+15
+00:01:04,460 --> 00:01:09,420
+aumento en la anatremia o en la cloremia, justamente porque aporta sodio y aporta
+
+16
+00:01:09,420 --> 00:01:13,980
+cloro, y además puede aumentar un poquito la acidosis metabólica, así
+
+17
+00:01:13,980 --> 00:01:17,660
+que hay que tener cierto ojo en los pacientes que vienen con hipercalemia,
+
+18
+00:01:17,660 --> 00:01:22,500
+con hipercloremia y con acidosis. El ringer lactato, hay que saber que es
+
+19
+00:01:22,500 --> 00:01:26,420
+más o menos equivalente al suero fisiológico en utilidad y
+
+20
+00:01:26,420 --> 00:01:29,420
+simplemente hay que saber cuáles son sus diferencias. Viene con un poco menos
+
+21
+00:01:29,420 --> 00:01:33,180
+de cloruro de sodio, así que con menos sodio y con menos cloro. Es menos
+
+22
+00:01:33,180 --> 00:01:36,940
+ácido también, porque de hecho viene con bicarbonato, que eventualmente
+
+23
+00:01:36,940 --> 00:01:43,660
+sirve como un buffer, y finalmente aporta algo de potasio, así que en
+
+24
+00:01:43,660 --> 00:01:46,780
+un paciente con hipocalemia, por ejemplo, o le doy suero fisiológico
+
+25
+00:01:46,780 --> 00:01:53,140
+más un poco de KCl, o bien le puedo dar ringer lactato también.
+
+26
+00:01:53,540 --> 00:01:57,420
+¿Cuándo se recomienda usar el ringer lactato? Pues en general en los pacientes
+
+27
+00:01:57,420 --> 00:02:01,220
+que están con desidratación, pero con mucha hipernatremia, o bien cuando
+
+28
+00:02:01,220 --> 00:02:04,980
+vienen con una acidosis hipercloremica, justamente porque la
+
+29
+00:02:04,980 --> 00:02:10,620
+hipernatremia, la acidosis y la hipercloremia son algunas de
+
+30
+00:02:10,620 --> 00:02:14,100
+las complicaciones que se pueden agravar en el caso de darle solamente
+
+31
+00:02:14,100 --> 00:02:17,940
+suero fisiológico. Pero ¿qué evidencia tiene esto? ¿Hay alguna evidencia de que
+
+32
+00:02:17,940 --> 00:02:21,140
+sea mejor en alguna situación el ringer lactato que el suero
+
+33
+00:02:21,140 --> 00:02:26,340
+fisiológico? Y la verdad es que no, así que lo anterior es una recomendación
+
+34
+00:02:26,340 --> 00:02:29,300
+simplemente que se ve en varios textos, y que a veces vale la pena
+
+35
+00:02:29,300 --> 00:02:34,940
+seguirla, al menos porque fisiopatológicamente es plausible la explicación,
+
+36
+00:02:34,940 --> 00:02:37,860
+pero en la clínica hasta ahora no hay estudios que demuestren que sea
+
+37
+00:02:37,860 --> 00:02:43,740
+mejor, es más caro además. El suero hipertónico en general se usa
+
+38
+00:02:43,740 --> 00:02:49,420
+al 3%, es el NACL al 3%, y es útil en la corrección de la hiponatremia,
+
+39
+00:02:49,420 --> 00:02:53,820
+que acuérdense que había que corregirla muy lento para evitar que se
+
+40
+00:02:53,820 --> 00:02:59,060
+genere una mielidolisis pontina. Es útil también en el edema cerebral,
+
+41
+00:02:59,060 --> 00:03:02,860
+en el sentido en que aumentar la natremia ayuda a extraer un poco de
+
+42
+00:03:02,860 --> 00:03:07,220
+líquido desde el cerebro y que disminuya este edema. El suero
+
+43
+00:03:07,220 --> 00:03:11,740
+glucosalino, y fíjense, no existe suero hipotónico, los hipotónicos en
+
+44
+00:03:11,740 --> 00:03:16,020
+general es porque vienen con glucosa, el glucosalino viene con glucosa
+
+45
+00:03:16,020 --> 00:03:23,340
+al 2,5%, y con NACL concluyó de sodio al 0,45%, y sepan que es
+
+46
+00:03:23,340 --> 00:03:28,180
+equivalente a mezclar en partes iguales suero fisiológico que le aporta
+
+47
+00:03:28,180 --> 00:03:32,180
+el sodio, con suero glucosalino al 5%. Si yo fuera capaz de
+
+48
+00:03:32,180 --> 00:03:36,500
+agarrar dos vasos, uno de suero fisiológico, otro de suero glucosalino
+
+49
+00:03:36,500 --> 00:03:41,620
+al 5%, los mezclo, me quedaría dos vasos de suero glucosalino,
+
+50
+00:03:41,620 --> 00:03:46,780
+por si acaso. Ahora, ¿qué tienen como beneficio? Pues aporta agua
+
+51
+00:03:46,780 --> 00:03:50,460
+libre, así que es útil en el tratamiento de la hipernatremia,
+
+52
+00:03:50,460 --> 00:03:53,940
+aporta glucosa también, así que es útil como un suero de
+
+53
+00:03:53,940 --> 00:03:57,580
+mantención en el largo plazo en algún paciente que no está
+
+54
+00:03:57,580 --> 00:04:01,140
+comiendo mucho. Aparte de eso está el suero glucosado que en
+
+55
+00:04:01,140 --> 00:04:05,100
+general va desde suero al 5% hasta suero al 30%, incluso
+
+56
+00:04:05,100 --> 00:04:09,340
+ya al 50%, y en general lo que más aporta es glucosa por un
+
+57
+00:04:09,620 --> 00:04:13,500
+lado, así que me sirve para las hipoilisemias y también aporta
+
+58
+00:04:13,500 --> 00:04:16,780
+agua libre, así que me sirve también para las hipernatremias,
+
+59
+00:04:16,780 --> 00:04:18,820
+acordándose que las alteraciones del sodio no hay que
+
+60
+00:04:18,820 --> 00:04:22,300
+corregirlas tan rápido. Veamos un caso, como para ver si esto
+
+61
+00:04:22,300 --> 00:04:25,420
+quedó claro. Tengo un paciente con derrea severa y que aparte
+
+62
+00:04:25,420 --> 00:04:27,500
+de eso está hipotenso, así que está choqueado por la
+
+63
+00:04:27,500 --> 00:04:30,660
+derrea, que viene con una frecuencia cardiaca 150, está
+
+64
+00:04:30,660 --> 00:04:34,140
+más choqueado todavía, con un sodio que está bajo 130,
+
+65
+00:04:34,140 --> 00:04:37,780
+el potasio que está algo alto en 5,8, y con el cloro que
+
+66
+00:04:37,780 --> 00:04:41,180
+está bajo también, y me preguntan qué suero le doy y uno
+
+67
+00:04:41,180 --> 00:04:44,700
+dice, a ver, veamos, está choqueado primero la bolemia,
+
+68
+00:04:44,700 --> 00:04:48,580
+luego las alteraciones, así que si le voy a dejar alguna
+
+69
+00:04:48,580 --> 00:04:51,380
+cosa que sea suero fisiológico. El suero fisiológico
+
+70
+00:04:51,380 --> 00:04:54,940
+no se podía dar o no con tanta libertad, cierto, en
+
+71
+00:04:54,940 --> 00:04:57,980
+la hipernatremia, pero en la hiponatremia seguramente al
+
+72
+00:04:57,980 --> 00:05:02,300
+corregir la bolemia se va a corregir esa hiponatremia
+
+73
+00:05:02,300 --> 00:05:06,900
+leve que hay. Y respecto a la hipercalemia, al corregir
+
+74
+00:05:06,980 --> 00:05:10,060
+la bolemia va a dejar de estar prerrenal, como seguramente
+
+75
+00:05:10,060 --> 00:05:12,940
+está, y se va a corregir esa hipercalemia que seguramente
+
+76
+00:05:12,940 --> 00:05:16,180
+es secundaria a la insuficiencia renal, de tipo
+
+77
+00:05:16,180 --> 00:05:19,580
+prerrenal, secundaria a la diarrea con deshidratación.
+
+78
+00:05:19,580 --> 00:05:21,740
+Segundo caso, y con esto hemos quedado todo claro,
+
+79
+00:05:21,740 --> 00:05:25,100
+nuevamente tiene diarrea severa, está choqueado con
+
+80
+00:05:25,100 --> 00:05:29,060
+presiones arteriales de 90 a 50 y un pulso a 145,
+
+81
+00:05:29,060 --> 00:05:33,580
+el sodio está bien elevado en 150, ahora sigue no siendo
+
+82
+00:05:34,260 --> 00:05:39,260
+una hipernatremia tan grave, porque en general arriba de 160
+
+83
+00:05:39,260 --> 00:05:42,340
+uno habla de una hipernatremia severa, el potasio está bajo,
+
+84
+00:05:42,340 --> 00:05:46,380
+está en 2,8 y el cloro está en 108 y uno dice, ¿qué le doy
+
+85
+00:05:46,380 --> 00:05:50,300
+acá? Pues nuevamente puede ser el glucosalino, el ringer,
+
+86
+00:05:50,300 --> 00:05:53,940
+el suelo fisiológico y empecemos. Si yo me quedo con
+
+87
+00:05:53,940 --> 00:05:56,580
+la idea de primero la bolemia, pues el suelo fisiológico
+
+88
+00:05:56,580 --> 00:06:00,220
+anda perfecto, el ringer también. La natremia no está
+
+89
+00:06:00,260 --> 00:06:02,900
+tan terrible como para dejarle el glucosalino,
+
+90
+00:06:02,900 --> 00:06:05,340
+pero eventualmente puedo manejarlo con glucosalino que
+
+91
+00:06:05,340 --> 00:06:10,660
+algo me arregla también la bolemia. Así que en resumen,
+
+92
+00:06:10,660 --> 00:06:13,620
+en ese caso es más discutible que dejarle.
+
+93
+00:06:13,620 --> 00:06:16,580
+El ringer lactato se ve como una buena opción en el
+
+94
+00:06:16,580 --> 00:06:19,860
+sentido en que no da tanto sodio, da algo de potasio y
+
+95
+00:06:19,860 --> 00:06:22,780
+me sirve para el manejo en general de este paciente.
+
+96
+00:06:22,780 --> 00:06:25,900
+Pero repito, la evidencia me aguanta dejarle el
+
+97
+00:06:25,900 --> 00:06:29,300
+glucosalino y dejarle el suelo fisiológico también.
+
+98
+00:06:29,300 --> 00:06:31,660
+No hablamos nada de los coloides, nos centramos en los
+
+99
+00:06:31,660 --> 00:06:33,980
+cristaloides, así que mencionémoslo.
+
+100
+00:06:33,980 --> 00:06:36,380
+Número uno, ¿cuáles son? El más importante es la
+
+101
+00:06:36,380 --> 00:06:38,900
+algúmina, aunque hay otros también que los vamos a
+
+102
+00:06:38,900 --> 00:06:41,860
+mencionar más adelante. Y sepan que la indicación más
+
+103
+00:06:41,860 --> 00:06:44,060
+importante que tienen, que en general es raro que se
+
+104
+00:06:44,060 --> 00:06:47,060
+usen, es que esté con un choque hipovolémico que no
+
+105
+00:06:47,060 --> 00:06:49,180
+responde a los cristaloides, ejemplo que no
+
+106
+00:06:49,180 --> 00:06:52,180
+responde a dos bolos de suelo fisiológico.
+
+107
+00:06:52,180 --> 00:06:55,780
+Pero lo primero a preguntarme ahí es,
+
+108
+00:06:55,780 --> 00:06:58,340
+no será que no responde porque no está hipovolémico,
+
+109
+00:06:58,340 --> 00:07:01,500
+sino que está con un choque de tipo vasodilatador,
+
+110
+00:07:01,500 --> 00:07:05,420
+ejemplo con un choque séptico, medular o
+
+111
+00:07:05,420 --> 00:07:08,780
+arafiláctico, así que hay que hacerse esa pregunta antes
+
+112
+00:07:08,780 --> 00:07:09,980
+de darle algúmina.
+
+113
+00:07:09,980 --> 00:07:13,820
+Y segundo lugar, también es una indicación cuando está
+
+114
+00:07:13,820 --> 00:07:16,500
+con una hipovoluminemia muy severa que contribuye de
+
+115
+00:07:16,500 --> 00:07:20,940
+alguna forma el choque hipovolémico o el choque
+
+116
+00:07:20,940 --> 00:07:22,540
+que sea que tenga este paciente.
+
+117
+00:07:22,540 --> 00:07:25,220
+Habitualmente hipovolémico porque al haber una
+
+118
+00:07:25,220 --> 00:07:31,180
+albuminemia muy baja, se sale el líquido desde el plasma
+
+119
+00:07:31,180 --> 00:07:34,700
+hacia el intersticio debido a la disminución de la presión
+
+120
+00:07:34,700 --> 00:07:36,660
+oncótica capilar.
+
+121
+00:07:36,660 --> 00:07:39,860
+Ahora, el ejemplo más clásico es el síndrome pato renal que
+
+122
+00:07:39,860 --> 00:07:43,140
+si se acuerdan tendía a la hipotensión y que uno de
+
+123
+00:07:43,140 --> 00:07:46,980
+los pilares del tratamiento aparte de los vasoconstrictores
+
+124
+00:07:46,980 --> 00:07:49,180
+era la albúmina.
+
+125
+00:07:49,180 --> 00:07:52,020
+Ahora, la albúmina es el único que es seguro,
+
+126
+00:07:52,020 --> 00:07:54,180
+ahora es el más caro.
+
+127
+00:07:54,220 --> 00:07:56,540
+Es el que tiene mayor evidencia científica,
+
+128
+00:07:56,540 --> 00:08:00,300
+así que los otros, dígase los de extrano, los almidones,
+
+129
+00:08:00,300 --> 00:08:03,500
+el HES, que es un tipo de almidón y otros coloides que
+
+130
+00:08:03,500 --> 00:08:07,060
+hay, en la práctica no se usa mucho aunque están
+
+131
+00:08:07,060 --> 00:08:07,860
+disponibles.
+
+132
+00:08:07,860 --> 00:08:11,700
+O sea, en resumen, los coloides se usan poco y si voy
+
+133
+00:08:11,700 --> 00:08:14,980
+a usar alguno, que se use albúmina y los otros se
+
+134
+00:08:14,980 --> 00:08:17,860
+usan solamente si no tengo dinero suficiente para usar
+
+135
+00:08:17,860 --> 00:08:20,300
+algúmina y no tengo nada más, pues, bueno,
+
+136
+00:08:20,300 --> 00:08:22,980
+le echo mano a los otros coloides que tienen más
+
+137
+00:08:22,980 --> 00:08:24,860
+efectos adversos, por si acaso.
+
+138
+00:08:24,860 --> 00:08:26,460
+Y eso es todo de la solo terapia.
+
+139
+00:08:26,460 --> 00:08:28,700
+Nos vemos en los siguientes videos.

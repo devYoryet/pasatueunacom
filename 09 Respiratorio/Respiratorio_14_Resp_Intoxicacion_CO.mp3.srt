@@ -1,0 +1,243 @@
+1
+00:00:03,180 --> 00:00:08,060
+Hola, ¿cómo están? Hablemos de algo grave y que hay que saber reconocer, porque hay que
+
+2
+00:00:08,060 --> 00:00:12,580
+manejarlo muy muy rápido, que es la intoxicación con monóxido de carbono y además hay que saber
+
+3
+00:00:12,580 --> 00:00:18,820
+cómo se produce de manera de educar a la población y que se prevenga. La clínica en general viene
+
+4
+00:00:18,820 --> 00:00:23,380
+con el antecedente de una fuente de monóxido de carbono, ejemplo una estufa, un brasero,
+
+5
+00:00:23,380 --> 00:00:28,460
+el calefonte en el caso de algún baño que esté adentro, por ejemplo, o bien algún auto
+
+6
+00:00:28,460 --> 00:00:33,180
+más viejo o un bus que está muy viejo, o bien la exposición directa al humo en el caso de un
+
+7
+00:00:33,180 --> 00:00:39,300
+incendio, por ejemplo. Segundo lugar, la clínica puede ser leve y lamentablemente cuando es leve
+
+8
+00:00:39,300 --> 00:00:45,220
+es bastante inespecífica y ejemplo puede venir simplemente con malestar general, con cefalea
+
+9
+00:00:45,220 --> 00:00:50,260
+o con una clínica que simula una infección respiratoria alta y ejemplo desde que empieza
+
+10
+00:00:50,260 --> 00:00:55,380
+el invierno y se empiezan a calefaccionar con un brasero en una casa, andan todos con
+
+11
+00:00:55,380 --> 00:00:59,300
+dolor de cabeza y eso es porque están intoxicados con monóxido de carbono, así que mucho cuidado
+
+12
+00:00:59,300 --> 00:01:05,020
+y los casos más graves en el que la intoxicación es mucho más alta, pues viene con una clínica
+
+13
+00:01:05,020 --> 00:01:10,260
+severa de disnea, de dificultad respiratoria, de hipoxia, con todo el daño que eventualmente
+
+14
+00:01:10,260 --> 00:01:14,540
+se puede generar en los órganos, ya sea con compromisos de conciencia por hipoxia
+
+15
+00:01:14,540 --> 00:01:19,980
+cerebral o incluso con un impacto por hipoxia cardiaca, con la diferencia que en este
+
+16
+00:01:19,980 --> 00:01:24,740
+caso no hay una obstrucción de la arteria coronaria que destapar, sino que hay una hipoxia
+
+17
+00:01:24,780 --> 00:01:30,020
+porque el monóxido de carbono desplaza al oxígeno en su unión con la hemoglobina.
+
+18
+00:01:30,020 --> 00:01:36,180
+Ahora, cosa importante, el examen pulmonar está normal porque la vida aérea está totalmente normal,
+
+19
+00:01:36,180 --> 00:01:41,780
+el problema es la sangre que está intoxicada con este gas, lo mismo ocurre con la saturación
+
+20
+00:01:41,780 --> 00:01:48,780
+de oxígeno, saturan absolutamente normal, es más los saturómetros que se usan en los
+
+21
+00:01:48,780 --> 00:01:54,020
+dedos habitualmente censan al monóxido de carbono igual que como si fuera oxígeno,
+
+22
+00:01:54,020 --> 00:01:58,740
+así que es muy frecuente que me dice satura 100% y la verdad que está severamente intoxicado,
+
+23
+00:01:58,740 --> 00:02:04,740
+lo mismo ocurre con la presión arterial de oxígeno en el sentido en que, para lo que
+
+24
+00:02:04,740 --> 00:02:11,420
+nos gusta la química, la dinámica de los gases, la presión parcial de un gas eventualmente
+
+25
+00:02:11,420 --> 00:02:16,300
+no está influida por la presión del otro, así que la presión arterial de oxígeno va a
+
+26
+00:02:16,300 --> 00:02:20,020
+estar normal, solamente que en la hemoglobina no va a haber oxígeno, sino que va a haber
+
+27
+00:02:20,020 --> 00:02:25,900
+monóxido de carbono y finalmente vienen sin cianosis, de hecho la cianosis se produce
+
+28
+00:02:25,900 --> 00:02:31,980
+por la carbaminoemoglobina que la carbaminoemoglobina es la por el dióxido de carbono, en cambio
+
+29
+00:02:31,980 --> 00:02:38,180
+la carbuxyemoglobina que es la del monóxido de carbono habitualmente es de color roja,
+
+30
+00:02:38,180 --> 00:02:43,020
+de color rosado, así que uno habla de los famosos muertos rosados, se lo encuentra
+
+31
+00:02:43,020 --> 00:02:49,980
+muerto en su casa intoxicado, pero está sin cianosis y si es que tiene levideces,
+
+32
+00:02:49,980 --> 00:02:54,180
+las levideces son de color rosado también, así que es parte de lo que se enseña en
+
+33
+00:02:54,180 --> 00:02:58,340
+medicina forense como para identificar la causa de muerte. El diagnóstico ya
+
+34
+00:02:58,340 --> 00:03:02,220
+dijimos es con la carbuxyemoglobina, no me servía ni en el examen físico ni
+
+35
+00:03:02,220 --> 00:03:06,100
+en las radiografías, sino que había una sospecha clínica basada en la fuente
+
+36
+00:03:06,100 --> 00:03:10,940
+y en esta clínica y el examen que se pide es la carbuxyemoglobina que en lo
+
+37
+00:03:10,940 --> 00:03:15,220
+habitual es que esté en cero o menor a uno por ciento, pero en este caso si está
+
+38
+00:03:15,220 --> 00:03:20,020
+arriba de cinco por ciento hace el diagnóstico. Segundo lugar o en último
+
+39
+00:03:20,020 --> 00:03:25,180
+lugar el tratamiento de esta intoxicación es darle oxígeno al cien por
+
+40
+00:03:25,180 --> 00:03:29,740
+ciento de inmediato ante la sola sospecha, o sea yo no voy a esperar a
+
+41
+00:03:29,740 --> 00:03:32,820
+que le tomen la carbuxyemoglobina y que llegue el resultado del examen,
+
+42
+00:03:32,820 --> 00:03:37,420
+sino que inmediatamente oxígeno al cien por ciento. En segundo lugar
+
+43
+00:03:37,420 --> 00:03:41,140
+obviamente alejarlo de la fuente en el sentido que hay que ir a buscarle
+
+44
+00:03:41,140 --> 00:03:44,460
+dirigidamente a alguien que se intoxica con esto, hay que ver qué es lo que
+
+45
+00:03:44,460 --> 00:03:47,580
+pasó porque es algo que es potencialmente letal, ejemplo arreglar el
+
+46
+00:03:47,580 --> 00:03:53,860
+auto, sacar el calcón de la casa, etcétera. Y en algunos casos seleccionados se
+
+47
+00:03:53,860 --> 00:03:57,820
+puede mejorar el resultado y el pronóstico llevándolo a una cámara
+
+48
+00:03:57,820 --> 00:04:00,940
+hipervárica como para que entre una cantidad de oxígeno todavía mucho
+
+49
+00:04:00,940 --> 00:04:04,780
+mayor, pero habitualmente no están disponibles en todas partes así que lo
+
+50
+00:04:04,820 --> 00:04:08,180
+más habitual es que se maneje solamente con el oxígeno al cien por ciento
+
+51
+00:04:08,180 --> 00:04:13,620
+durante el tiempo que el cuerpo demora en eliminar el gas y algunas
+
+52
+00:04:13,620 --> 00:04:17,900
+indicaciones que se describen en la literatura al menos de la cámara
+
+53
+00:04:17,900 --> 00:04:22,260
+hipervárica es que tenga la carbuxyemoglobina mayor a 25 por ciento
+
+54
+00:04:22,260 --> 00:04:25,940
+o en el caso del embarazo mayor a 20 por ciento, que venga con compromiso
+
+55
+00:04:25,940 --> 00:04:29,020
+de conciencia o sea con un cuadro grave, que venga con un infarto o
+
+56
+00:04:29,020 --> 00:04:32,340
+que venga con una acidosis metabólica importante que en este
+
+57
+00:04:32,380 --> 00:04:37,140
+caso hay una acidosis no respiratoria porque no es por el aumento de CO2
+
+58
+00:04:37,140 --> 00:04:41,460
+sino que es una acidosis que está por la hipoxia que genera una
+
+59
+00:04:41,460 --> 00:04:44,940
+acidosis láctica así que está con un pH abajo de 7,1 no dice está muy
+
+60
+00:04:44,940 --> 00:04:48,300
+muy grave tiene que irse a la cámara hipervárica de estar disponible
+
+61
+00:04:48,300 --> 00:04:51,340
+también. Y bueno esa fue esta clase nos vemos en los siguientes videos.

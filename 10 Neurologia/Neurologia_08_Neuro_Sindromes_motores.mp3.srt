@@ -1,0 +1,463 @@
+1
+00:00:00,000 --> 00:00:06,840
+Hola, hola. En este video vamos a hablar de los síndromes motores. No los vamos a ver
+
+2
+00:00:06,840 --> 00:00:10,160
+todos por acaso, pero les recuerdo que lo más importante son el síndrome
+
+3
+00:00:10,160 --> 00:00:14,600
+piramidal, los síndromes extra piramidales, el síndrome de denervación
+
+4
+00:00:14,600 --> 00:00:20,120
+o afectación del del nervio periférico motor, cierto? El síndrome cerebeloso,
+
+5
+00:00:20,120 --> 00:00:24,660
+que acuérdense que el cerebelo coordina los movimientos, las
+
+6
+00:00:24,660 --> 00:00:27,760
+enfermedades de la placa motora como en la miastenia grave, cierto? Y
+
+7
+00:00:27,760 --> 00:00:31,200
+finalmente las miopatías. Repito, no los vamos a ver todos, solamente
+
+8
+00:00:31,200 --> 00:00:35,160
+vamos a ver la diferencia entre el síndrome piramidal y el de denervación
+
+9
+00:00:35,160 --> 00:00:39,680
+y finalmente un paralelo entre el síndrome de denervación o neuropatía,
+
+10
+00:00:39,680 --> 00:00:44,960
+cierto? Y las miopatías. Empecemos con este paralelo entre el síndrome de
+
+11
+00:00:44,960 --> 00:00:50,120
+primera versus el síndrome de segunda motoneurona. El de primera motoneurona
+
+12
+00:00:50,120 --> 00:00:53,840
+también se llama síndrome piramidal y el de segunda motoneurona también se
+
+13
+00:00:53,840 --> 00:00:59,680
+llama síndrome de denervación. Y antes de empezar recordemos cuál
+
+14
+00:00:59,720 --> 00:01:04,000
+era la vía motora. En la corteza motora de un lado, cierto? En el lóbulo frontal
+
+15
+00:01:04,000 --> 00:01:09,400
+está el soma de la primera motoneurona. Esa es una neurona bastante larga, por
+
+16
+00:01:09,400 --> 00:01:12,760
+si acaso, que manda un axón que se decusa a nivel del bulbo requirio, la
+
+17
+00:01:12,760 --> 00:01:16,960
+degustación de las pirámides y luego baja por el tracto motor o cortico
+
+18
+00:01:16,960 --> 00:01:22,040
+espinal hasta el hasta anterior de la médula. Ahí hace sinapsis, cierto? Y
+
+19
+00:01:22,040 --> 00:01:26,560
+sale por el lado y lateral hacia el músculo. O sea, son dos motoneuronas.
+
+20
+00:01:26,640 --> 00:01:31,680
+Una tiene su soma en el cerebro, en la corteza motora y el otro tiene su
+
+21
+00:01:31,680 --> 00:01:34,840
+soma en el hasta anterior de la médula contralateral porque la degustación
+
+22
+00:01:34,840 --> 00:01:40,560
+se produjo a nivel del bulbo requirio. La segunda motoneurona, cierto? Sale
+
+23
+00:01:40,560 --> 00:01:46,000
+desde el hasta anterior de la médula, cierto? Directamente hacia el
+
+24
+00:01:46,000 --> 00:01:51,040
+nervio periférico y llega hasta el músculo en donde hace que se contraiga
+
+25
+00:01:51,040 --> 00:01:55,080
+al liberar acetylcolina, cierto? Que es el neurotransmisor de la parte
+
+26
+00:01:55,080 --> 00:02:00,040
+motora. Ambas vienen con parecia, ambas vienen con debilidad, tanto el de
+
+27
+00:02:00,040 --> 00:02:03,800
+primera como el de segunda motoneurona, con la diferencia que en los de
+
+28
+00:02:03,800 --> 00:02:07,320
+primeras motoneurona habitualmente vienen con un síndrome piramidal que
+
+29
+00:02:07,320 --> 00:02:13,160
+así se llama, dígase, con hipertonía o espasticidad y con hiperreflexia. En
+
+30
+00:02:13,160 --> 00:02:17,680
+cambio, en el de segunda motoneurona suele venir con hipotonía y con
+
+31
+00:02:17,680 --> 00:02:22,280
+hiporreflexia o con arreflexia. O sea, repito, síndrome piramidal,
+
+32
+00:02:22,480 --> 00:02:26,480
+dígase afectación del sistema nervioso central, por la general viene con
+
+33
+00:02:26,480 --> 00:02:30,280
+espasticidad, con hipertonía, como se ve, ejemplo, en un niño con parálisis
+
+34
+00:02:30,280 --> 00:02:34,320
+cerebral o en algún paciente que haya tenido un accidente vascular. En
+
+35
+00:02:34,320 --> 00:02:38,160
+cambio, el síndrome de denervación, la afectación de la segunda motoneurona
+
+36
+00:02:38,160 --> 00:02:43,520
+suele ser hiporreflectica y hipotónica. Pero, y aquí un gran pero y que es
+
+37
+00:02:43,520 --> 00:02:47,720
+súper importante, en agudo el síndrome de primera motoneurona suele
+
+38
+00:02:47,720 --> 00:02:51,240
+venir con disminución del tono y con disminución de los reflejos que
+
+39
+00:02:51,280 --> 00:02:55,320
+luego va aumentando con el tiempo. Así que, en agudo, el accidente vascular
+
+40
+00:02:55,320 --> 00:02:58,800
+encefálico viene con hipotonia, ya a medida que van pasando los días se va
+
+41
+00:02:58,800 --> 00:03:05,840
+produciendo la espasticidad. Y lo mismo en agudo, un síndrome de sección
+
+42
+00:03:05,840 --> 00:03:09,880
+medular viene igualmente con hipotonia de las extremidades inferiores,
+
+43
+00:03:09,880 --> 00:03:13,400
+cierto, ya a medida que va pasando el tiempo eventualmente evoluciona
+
+44
+00:03:13,400 --> 00:03:18,560
+luego con la espasticidad también. Veamos ahora, segundo lugar en el
+
+45
+00:03:18,600 --> 00:03:23,480
+síndrome piramidal a veces viene con clonus, que es un tipo de hiperreflexia
+
+46
+00:03:23,480 --> 00:03:29,880
+en el cual al hiper extender muy bruscamente el pie, es cierto, se
+
+47
+00:03:29,880 --> 00:03:34,080
+produce una contracción clónica de los gastrocnemios y viene también con
+
+48
+00:03:34,080 --> 00:03:39,400
+el signo de babinski, que es este reflejo plantar extensor. En cambio, en
+
+49
+00:03:39,400 --> 00:03:42,840
+la afectación de la segunda motoneurona, habitualmente viene con
+
+50
+00:03:42,840 --> 00:03:46,240
+fasciculaciones y en muchos casos viene con atrofia también que suele
+
+51
+00:03:46,280 --> 00:03:51,120
+ser de predominio distal. Vamos a ver que la atrofia se puede ver en el
+
+52
+00:03:51,120 --> 00:03:57,320
+largo plazo también en la alteración de la primera motoneurona, pero la
+
+53
+00:03:57,320 --> 00:04:01,280
+hipotonia, hiporreflexia, fasciculaciones y atrofia suelen ser
+
+54
+00:04:01,280 --> 00:04:04,200
+las cuatro cosas más frecuentes que uno ve en una alteración de
+
+55
+00:04:04,200 --> 00:04:08,200
+segunda motoneurona. Dentro de las patologías que me producen un
+
+56
+00:04:08,200 --> 00:04:11,960
+síndrome piramidal suele estar el accidente vascular encefálico, la
+
+57
+00:04:12,000 --> 00:04:16,040
+esclerosis múltiple, los tumores cerebrales, etcétera, dígase,
+
+58
+00:04:16,320 --> 00:04:19,720
+afectaciones habitualmente del sistema nervioso central. En cambio,
+
+59
+00:04:20,320 --> 00:04:24,480
+el síndrome de nervación de segunda motoneurona, cierto, son las
+
+60
+00:04:24,480 --> 00:04:27,760
+cosas que afectan al nervio periférico, como las polineuropatías,
+
+61
+00:04:27,760 --> 00:04:30,480
+el síndrome de Guillain-Barré, la mononeurotis múltiple, entre
+
+62
+00:04:30,480 --> 00:04:33,720
+otras, que las vamos a ver con algún detalle en otra clase. Veamos
+
+63
+00:04:33,720 --> 00:04:37,040
+ahora el paralelo entre las neuropatías, dígase, de segunda
+
+64
+00:04:37,360 --> 00:04:41,880
+motoneurona y las miopatías, dígase, la afectación directa del
+
+65
+00:04:41,880 --> 00:04:46,440
+músculo. En este caso, ambas igualmente vienen con debilidad,
+
+66
+00:04:46,560 --> 00:04:50,080
+dado que la fuerza depende de que funcione todo el sistema
+
+67
+00:04:50,080 --> 00:04:53,080
+completo, desde el cerebro hasta el músculo, cierto. Segundo
+
+68
+00:04:53,080 --> 00:04:56,320
+lugar, las neuropatías suelen venir con debilidad, que es
+
+69
+00:04:56,320 --> 00:05:00,240
+de periódico distal, dado que el nervio se va afectando en
+
+70
+00:05:00,240 --> 00:05:03,720
+toda su extensión, cierto, y el lugar que en primer lugar
+
+71
+00:05:04,040 --> 00:05:09,520
+se manifiesta es justamente la debilidad más distal, en los
+
+72
+00:05:09,520 --> 00:05:11,880
+pies, por ejemplo, antes que las manos y en los pies distal,
+
+73
+00:05:12,080 --> 00:05:15,120
+antes que los cuádriceps. En cambio, en las miopatías
+
+74
+00:05:15,120 --> 00:05:18,480
+habitualmente la debilidad es de periódico proximal, con
+
+75
+00:05:18,480 --> 00:05:21,000
+debilidad de la cintura escapular o de los glúteos
+
+76
+00:05:21,240 --> 00:05:24,960
+de los muslos también. En el caso de las neuropatías
+
+77
+00:05:24,960 --> 00:05:28,760
+habitualmente viene con atrofia, dado que es un síndrome
+
+78
+00:05:28,760 --> 00:05:31,320
+de segunda motoneurona, que habíamos dicho que la atrofia
+
+79
+00:05:31,320 --> 00:05:34,320
+era algo importante. En cambio, en las miopatías, en algunos
+
+80
+00:05:34,320 --> 00:05:36,600
+casos viene incluso con hipertrofia, como en las
+
+81
+00:05:36,600 --> 00:05:39,520
+distrofias musculares, como la distrofia muscular de
+
+82
+00:05:40,080 --> 00:05:44,600
+Duchenne. Se ve también en algunos casos de miopatías
+
+83
+00:05:44,600 --> 00:05:48,680
+en que sí hay atrofia, como en la miopatía por
+
+84
+00:05:48,680 --> 00:05:50,720
+cuerpos de inclusión, que viene con atrofia de los
+
+85
+00:05:50,720 --> 00:05:56,400
+cuádriceps y con atrofia de los antebrazos también,
+
+86
+00:05:56,400 --> 00:05:58,720
+pero hay algunas otras que vienen sin atrofia, como
+
+87
+00:05:59,280 --> 00:06:02,480
+ocurre la polimiositis o la polimia de gérumática.
+
+88
+00:06:03,400 --> 00:06:05,960
+Las neuropatías habitualmente vienen también con
+
+89
+00:06:05,960 --> 00:06:09,280
+alteraciones sensitivas, debido justamente a que el
+
+90
+00:06:09,280 --> 00:06:11,400
+nervio periférico no solamente tiene fibras
+
+91
+00:06:11,400 --> 00:06:14,760
+motoras, sino que sensitivas también. Las miopatías,
+
+92
+00:06:14,760 --> 00:06:18,360
+en cambio, suelen venir con la CK elevada justamente
+
+93
+00:06:18,360 --> 00:06:21,280
+porque la destrucción de las fibras musculares,
+
+94
+00:06:21,280 --> 00:06:24,840
+cierto, libera la creatinofofokinasa. Y
+
+95
+00:06:25,240 --> 00:06:27,880
+finalmente las diferencias en la electromiografía,
+
+96
+00:06:27,880 --> 00:06:30,720
+las neuropatías habitualmente vienen con una
+
+97
+00:06:30,720 --> 00:06:34,440
+afectación de la conducción nerviosa. Dígase,
+
+98
+00:06:34,440 --> 00:06:36,920
+hay un enlentescimiento o algún otro tipo de
+
+99
+00:06:36,920 --> 00:06:40,680
+alteración en la conducción de el impulso nervioso
+
+100
+00:06:40,680 --> 00:06:43,200
+a través del mismo nervio periférico. En cambio,
+
+101
+00:06:43,200 --> 00:06:46,800
+en las miopatías la velocidad de conducción es
+
+102
+00:06:46,800 --> 00:06:49,520
+normal debido a que el nervio está bien y lo
+
+103
+00:06:49,520 --> 00:06:52,000
+que se ve es que la respuesta muscular es lo
+
+104
+00:06:52,000 --> 00:06:54,920
+que está alterado finalmente. Algunas
+
+105
+00:06:54,920 --> 00:06:57,600
+enfermedades que producen neuropatías, las mismas
+
+106
+00:06:57,600 --> 00:06:59,600
+que ya vimos antes en el síndrome de segunda
+
+107
+00:06:59,880 --> 00:07:02,160
+motoneurona, las polineuropatías, el síndrome
+
+108
+00:07:02,160 --> 00:07:04,080
+de Guillain-Barré, la neuritis múltiple, entre
+
+109
+00:07:04,080 --> 00:07:06,800
+otras. En cambio, las típicas miopatías que
+
+110
+00:07:06,800 --> 00:07:09,320
+hay que saber son la distrofia muscular, las
+
+111
+00:07:09,320 --> 00:07:11,520
+polimiositis, la dermatomiositis, la
+
+112
+00:07:11,520 --> 00:07:13,880
+polimiaje romática y la miositis por cuerpos
+
+113
+00:07:13,880 --> 00:07:16,040
+de inclusión. Eso es todo lo que hay que saber
+
+114
+00:07:16,040 --> 00:07:17,680
+por ahora. Nos vemos en los siguientes temas y
+
+115
+00:07:17,680 --> 00:07:20,600
+vamos a seguir ahondando en estas cosas, así
+
+116
+00:07:20,600 --> 00:07:21,400
+que los espero ahí.

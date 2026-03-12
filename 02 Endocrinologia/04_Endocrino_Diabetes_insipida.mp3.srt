@@ -1,0 +1,287 @@
+1
+00:00:00,000 --> 00:00:07,400
+Hola, ¿cómo están? Veamos hipotiroidismo recordando, en primer lugar, su clínica,
+
+2
+00:00:07,400 --> 00:00:11,160
+astenia, adinamia, que es un síntoma inespecífico, pero muy frecuente,
+
+3
+00:00:11,160 --> 00:00:16,960
+¿cierto? Se siente mal, intolerancia al frío, se pone mucho más frío lento de lo que era,
+
+4
+00:00:16,960 --> 00:00:22,640
+constipación, piel seca, ¿cierto? Bradipsicia, como un poco más lento en los casos más graves,
+
+5
+00:00:22,640 --> 00:00:26,480
+incluso compromisos de conciencia o una pseudo demencia en el adulto mayor,
+
+6
+00:00:26,480 --> 00:00:31,940
+caída de la cola de las cejas, que es algo que se describe que las cejas se
+
+7
+00:00:31,940 --> 00:00:38,460
+enchican, ¿cierto? Porque se les cae la parte más lateral, una bradicardia, aunque es raro
+
+8
+00:00:38,460 --> 00:00:44,540
+verlo en los casos leves, pero se puede ver en los casos ya más severos, con una hipotermia
+
+9
+00:00:44,540 --> 00:00:49,700
+también, nuevamente en los casos más severos, hiporreflexia o arreflexia, más una serie de
+
+10
+00:00:49,700 --> 00:00:54,180
+alteraciones en los exámenes de laboratorio, ejemplo de los que hay que saber la anemia,
+
+11
+00:00:54,180 --> 00:00:59,500
+que suele ser una anemia macrosística con aumento del BCM, hiponatremia, acuérdense
+
+12
+00:00:59,500 --> 00:01:04,340
+que era de las hiponatremias con el bec normal, con el volumen extracelular normal,
+
+13
+00:01:04,340 --> 00:01:11,780
+una hiper bilirubinemia de tipo indirecta, que se describe mucho como una hipterisia tardía
+
+14
+00:01:11,780 --> 00:01:16,420
+en el neonato, por ejemplo, aunque se puede ver en los adultos también, la dislipidemia,
+
+15
+00:01:16,420 --> 00:01:22,140
+que habitualmente viene con hiper colesterolemia, aunque puede venir también con hipertrigliseridemia,
+
+16
+00:01:22,140 --> 00:01:27,100
+y finalmente se puede ver un aumento en la CK e incluso es una de las tantas causas de
+
+17
+00:01:27,860 --> 00:01:35,260
+que existe el hipoteroidismo. Ahora, el screening habitualmente se hace con la TCH, recordando que
+
+18
+00:01:35,260 --> 00:01:40,220
+es una enfermedad bastante frecuente y que por lo mismo se recomienda el screening en el
+
+19
+00:01:40,220 --> 00:01:45,340
+adulto mayor, en las mujeres que tienen más riesgo de las enfermedades autoinmunes y de la
+
+20
+00:01:45,340 --> 00:01:49,980
+tiroides de Hashimoto también, y en cualquier paciente que tenga cualquier síntoma, y luego
+
+21
+00:01:50,180 --> 00:01:58,700
+se confirma el diagnóstico con la TCH más la T4 libre. En el caso de que tenga un hipoteroidismo
+
+22
+00:01:58,700 --> 00:02:05,740
+primario, ejemplo una tiroiditis de Hashimoto, recordemos que la TCH habitualmente está alta,
+
+23
+00:02:05,740 --> 00:02:10,740
+y como buen hipoteroidismo la T4 libre va a estar baja, en el caso de que sea secundario,
+
+24
+00:02:10,740 --> 00:02:16,300
+hipoficiario, la TCH en cambio va a estar baja, que esa es como la gran diferencia y
+
+25
+00:02:16,300 --> 00:02:20,660
+obviamente como buen hipoteroidismo la T4 libre va a estar baja también. En ese caso,
+
+26
+00:02:20,660 --> 00:02:25,940
+obviamente estudiarlo con una resonancia magnética nuclear, porque en toda alteración secundaria,
+
+27
+00:02:25,940 --> 00:02:31,260
+en cualquier problema que aparentemente es de la hipófisis, siempre se estudia con resonancia.
+
+28
+00:02:31,260 --> 00:02:37,420
+¿Cuál es el tratamiento del hipoteroidismo? Pues obviamente es con la lebotiroxina, eso
+
+29
+00:02:37,420 --> 00:02:42,580
+es algo que todo el mundo sabe, la dosis recomendamos que se la prendan 1,6 microgramos
+
+30
+00:02:42,580 --> 00:02:49,420
+por kilo de peso, y fíjense que en una persona de 60 y pocos kilos son más o menos 100 microgramos,
+
+31
+00:02:49,420 --> 00:02:55,740
+o sea, no se empieza con 25 ni con 50 sino que directamente con una dosis relativamente alta.
+
+32
+00:02:55,740 --> 00:03:01,500
+Ahora, lo más importante se tiene que ajustar por la TCH buscando que esta TCH esté en un
+
+33
+00:03:01,500 --> 00:03:07,660
+rango normal, habitualmente se controla cada seis semanas hasta que se logra que llegue al
+
+34
+00:03:07,660 --> 00:03:12,540
+rango normal, y ahí se puede controlar cada tres a seis meses, y una vez que ya se logra
+
+35
+00:03:12,540 --> 00:03:18,380
+estabilidad y que anda bien con su dosis habitual de la leotiroxina, pues se puede
+
+36
+00:03:18,380 --> 00:03:22,700
+alargar cada seis meses, incluso cada un año sin ningún problema, por si acaso.
+
+37
+00:03:22,700 --> 00:03:30,580
+¿Cuál era el objetivo de la TCH? Dijimos rango normal de 0,4 a 4 unidades por litro,
+
+38
+00:03:30,580 --> 00:03:36,300
+aunque en algunos textos aparece de 0,5 a 5, ese sería el rango óptimo,
+
+39
+00:03:36,300 --> 00:03:40,180
+hay quienes son un poquito más estrictos y que buscan que esté entre 1 y 3,
+
+40
+00:03:40,180 --> 00:03:44,900
+pero que quede bien claro con que esté dentro del rango normal, la evidencia dice que estamos bien.
+
+41
+00:03:45,780 --> 00:03:51,700
+Si la TCH de control estuviera en 0,2, o sea, está debajo del rango, esto significa que se
+
+42
+00:03:51,700 --> 00:03:56,100
+me pasó la mano con la dosis y lo que debo hacer es bajar la dosis de leotiroxina,
+
+43
+00:03:56,100 --> 00:04:01,540
+si es que en cambio está en 8,4, está por arriba del rango, eso quiere decir que me
+
+44
+00:04:01,620 --> 00:04:06,700
+falta darle alguna dosis un poquito más alta para que baje la TCH, ¿cierto? Así que tengo
+
+45
+00:04:06,700 --> 00:04:12,180
+que subir la dosis de leotiroxina y finalmente si estuviera en 2,4, si está dentro del rango
+
+46
+00:04:12,180 --> 00:04:17,500
+objetivo, si es que está entre 0,4 y 4, en ese caso se mantiene la dosis de leotiroxina,
+
+47
+00:04:17,500 --> 00:04:21,820
+así que eso es algo que hay que saber y que hay que saber enfrentar relativamente bien.
+
+48
+00:04:21,820 --> 00:04:29,580
+Una cosa importante en el hipotereudismo secundario, no solamente que la TCH está
+
+49
+00:04:29,580 --> 00:04:34,140
+al revés, sino que no me sirve para el seguimiento, en ese caso el seguimiento
+
+50
+00:04:34,140 --> 00:04:40,500
+necesariamente se hace con la T4 libre, o sea que quede bien claro cómo sigo un hipotereudismo
+
+51
+00:04:40,500 --> 00:04:47,300
+con TCH, excepto en la causa hipoficiaria en que se sigue con T4 libre como única hormona
+
+52
+00:04:47,300 --> 00:04:52,300
+importante. Hay algunas excepciones que hay que saber y que las vamos a ver muy rápido,
+
+53
+00:04:52,300 --> 00:04:56,740
+las más importantes son los cardiópatas y los adultos mayores, en algunas partes sale
+
+54
+00:04:56,740 --> 00:05:03,340
+arriba de 60 años en adelante, en algunas otras recomendaciones arriba de 65 años,
+
+55
+00:05:03,340 --> 00:05:07,580
+en el sentido en que ambos tienen riesgos de arritmas, por ejemplo, y se recomienda
+
+56
+00:05:07,580 --> 00:05:13,460
+iniciar ahí sí con una dosis más baja, ejemplo 25 microgramos o bien 50 microgramos al día,
+
+57
+00:05:13,460 --> 00:05:20,140
+y se va subiendo de a poco esta dosis, logrando la mínima dosis necesaria para que
+
+58
+00:05:20,140 --> 00:05:27,700
+la TCH esté dentro del rango esperado para ese grupo, o sea evitar darle una dosis muy alta
+
+59
+00:05:27,700 --> 00:05:33,340
+para evitar que tenga frilación auricular u otra arritmia. Segundo lugar, en el adulto mayor,
+
+60
+00:05:33,340 --> 00:05:40,260
+muy mayor, arriba de 75 años o arriba de 80 años, en general se busca un objetivo con
+
+61
+00:05:40,260 --> 00:05:46,780
+una TCH un poquito más alta, ya que en esa edad normalmente la TCH es un poco más alta,
+
+62
+00:05:46,780 --> 00:05:51,140
+y segundo lugar por lo mismo que habíamos dicho que aumenta el riesgo de las complicaciones a
+
+63
+00:05:51,140 --> 00:06:00,060
+nivel cardíaca. El rango clásico es de 3 a 6, aunque en algunas partes aparece de 3 a 7,5 y
+
+64
+00:06:00,060 --> 00:06:06,260
+en algunas otras aparece desde 0,5 hasta 7,5, pero 3 a 6 es el que se repite más,
+
+65
+00:06:06,260 --> 00:06:15,260
+recordando que en distintos textos hay distintos niveles de corte. En el embarazo,
+
+66
+00:06:15,660 --> 00:06:21,820
+en este caso se recomienda ser un poquito más estrictos en el control del hipotiroidismo con
+
+67
+00:06:21,820 --> 00:06:27,940
+una dosis un poco más alta y que se mantenga con TCH abajo de 2,5 con un rango entre 0,4 y
+
+68
+00:06:27,940 --> 00:06:33,740
+2,5 como el objetivo, o sea si estuviera en 3,9 habría que subirle un poquito la dosis.
+
+69
+00:06:33,740 --> 00:06:38,460
+Y lo último en el caso del hipotiroidismo subclínico, la regla general es que no se
+
+70
+00:06:38,460 --> 00:06:42,820
+trata a menos que la TCH esté arriba de 10 o que venga con algunas otras complicaciones
+
+71
+00:06:43,020 --> 00:06:48,060
+que vamos a ver más adelante en la respectiva clase. Eso es todo, nos vemos en los siguientes
+
+72
+00:06:48,060 --> 00:06:48,660
+videos. ¡Que estén bien!

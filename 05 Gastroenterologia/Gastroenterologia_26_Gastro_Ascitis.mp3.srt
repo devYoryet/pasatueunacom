@@ -1,0 +1,719 @@
+1
+00:00:00,000 --> 00:00:07,800
+Hola, hola, en este vídeo vamos a ver la asitis en todas sus variantes, por si
+
+2
+00:00:07,800 --> 00:00:11,780
+acaso es un tema algo complejo, así que pónganme mucha atención por favor.
+
+3
+00:00:11,780 --> 00:00:16,240
+Empecemos con el cuadro clínico, lo más clásico o lo que más se
+
+4
+00:00:16,240 --> 00:00:20,560
+describe es el aumento del perímetro abdominal, la matidez
+
+5
+00:00:20,560 --> 00:00:24,700
+desplazable y el signo de la ola en cuanto a que la asitis es la
+
+6
+00:00:24,700 --> 00:00:27,980
+acumulación de líquido en la cavidad peritoneal que es una de las
+
+7
+00:00:27,980 --> 00:00:31,660
+explicaciones frecuentes del daño hepático crónico. El diagnóstico es
+
+8
+00:00:32,460 --> 00:00:36,700
+fundamentalmente clínico, pero en algunos casos me queda la duda y se
+
+9
+00:00:36,700 --> 00:00:41,100
+objetiva con una imagen con la ecografía abdominal como examen de
+
+10
+00:00:41,100 --> 00:00:45,980
+lección, así que repito la ecografía me sirve para confirmar el diagnóstico de
+
+11
+00:00:45,980 --> 00:00:49,500
+asitis en particular en algún paciente obeso, por ejemplo, que sea
+
+12
+00:00:49,500 --> 00:00:53,940
+difícil el examen físico o en un asitis muy leve, pero lo importante es
+
+13
+00:00:53,940 --> 00:00:58,740
+que la etiología por la general no me la da solamente la clínica y la
+
+14
+00:00:58,740 --> 00:01:02,180
+eco, sino que hay que pedir un examen que se llama la gradiente de albúmina,
+
+15
+00:01:02,180 --> 00:01:06,820
+que es la diferencia entre la albúmina en el plasma y la albúmina en el
+
+16
+00:01:06,820 --> 00:01:11,100
+líquido acítico. Si es que esta gradiente, si es que esta diferencia es
+
+17
+00:01:11,100 --> 00:01:15,660
+mayor o igual a 1,1 gramos por decilitro, en ese caso el
+
+18
+00:01:15,660 --> 00:01:19,940
+diagnóstico es una asitis por hipertensión portal. Dígase viene
+
+19
+00:01:19,940 --> 00:01:23,740
+con menos albúmina el líquido acítico y por lo mismo es que
+
+20
+00:01:23,740 --> 00:01:27,540
+habría una hipertensión portal que produce congestión y que produce una
+
+21
+00:01:28,140 --> 00:01:33,980
+trasudación de líquido pero con poca albúmina hacia el peritoneo. En
+
+22
+00:01:33,980 --> 00:01:38,220
+cambio, si es que la diferencia es menor a 1,1, o sea, si es que viene con
+
+23
+00:01:38,220 --> 00:01:44,260
+más albúmina el líquido acítico, en ese caso sería algo más o menos
+
+24
+00:01:44,260 --> 00:01:49,300
+equivalente al exudado en el estudio de líquido pleural y las causas más
+
+25
+00:01:49,300 --> 00:01:54,220
+frecuentes son las neoplásicas, las inflamatorias, etcétera. Ejemplo, una
+
+26
+00:01:54,220 --> 00:01:58,660
+carcinomatosis peritoneal, una tuberculosis peritoneal, etcétera. O sea, hay otras
+
+27
+00:01:58,660 --> 00:02:04,500
+causas además. Ahora, el pronóstico de la asitis por la general es bastante
+
+28
+00:02:04,500 --> 00:02:10,420
+malo. El 50% de los pacientes se muere antes de tres años y de hecho
+
+29
+00:02:10,420 --> 00:02:14,460
+solamente un tercio llega a los cinco años pero no es que se mueran de
+
+30
+00:02:14,460 --> 00:02:18,340
+la asitis, sino que la asitis me muestra que ya hay un grado de avance
+
+31
+00:02:18,340 --> 00:02:23,860
+importante en el daño hepático y por lo mismo el tratamiento final de
+
+32
+00:02:23,860 --> 00:02:28,060
+los pacientes con la asitis suele ser el trasplante hepático sabiendo que
+
+33
+00:02:28,060 --> 00:02:31,340
+según la severidad de la asitis que tenga ahora eventualmente yo puedo hacer
+
+34
+00:02:31,340 --> 00:02:35,260
+alguna cosa adicional, pero repito, la asitis viene con un pronóstico de
+
+35
+00:02:35,260 --> 00:02:39,100
+vida bastante corto y el trasplante hepático es el tratamiento último en
+
+36
+00:02:39,100 --> 00:02:42,780
+todos los casos. Ahora, vamos a ver el manejo de la asitis con bastante
+
+37
+00:02:42,780 --> 00:02:47,820
+detalle ahora y les adelanto que es distinto según si es que una asitis
+
+38
+00:02:47,820 --> 00:02:52,860
+común, una asitis refractaria al tratamiento diurético, cierto, si es
+
+39
+00:02:52,860 --> 00:02:57,100
+una asitis a tensión o si es una asitis complicada con una infección que
+
+40
+00:02:57,100 --> 00:03:00,660
+se llama la peritonitis bacteriana espontánea que viene con un manejo con
+
+41
+00:03:00,660 --> 00:03:03,500
+bastante detalle también y que hay que saberlo completo por si acaso. Así
+
+42
+00:03:03,500 --> 00:03:07,740
+que empecemos con el manejo de la asitis común. Recordemos que si es que
+
+43
+00:03:07,740 --> 00:03:10,940
+hay una asitis simple lo más importante son los diuréticos que
+
+44
+00:03:10,940 --> 00:03:15,740
+habitualmente se dan dos, B asociado desde el inicio más la
+
+45
+00:03:15,740 --> 00:03:19,980
+restricción de sal. Actualmente se recomienda no restringir el agua
+
+46
+00:03:19,980 --> 00:03:25,140
+debido a que no ha demostrado un mayor beneficio y la restricción de agua
+
+47
+00:03:25,140 --> 00:03:28,300
+igualmente se complica con sed que puede ser algo molesto así que
+
+48
+00:03:28,300 --> 00:03:32,060
+diuréticos y que no coma sal, una dieta hiposódica, cierto.
+
+49
+00:03:32,060 --> 00:03:35,940
+Segundo lugar, los diuréticos hay que saberlo. Se deja la furosemida más la
+
+50
+00:03:35,940 --> 00:03:39,900
+espironolactona en dosis relativamente altas. Se empieza
+
+51
+00:03:39,900 --> 00:03:44,540
+habitualmente con 40 miligramos al día de furosemida y 100 miligramos al
+
+52
+00:03:44,540 --> 00:03:49,060
+día de espironolactona y esta dosis se puede ir aumentando por dos, por
+
+53
+00:03:49,060 --> 00:03:53,300
+tres hasta por cuatro veces como dosis máxima. Si con esa dosis no
+
+54
+00:03:53,300 --> 00:03:57,940
+responde uno habla de una asitis refractaria y en este caso si bien se
+
+55
+00:03:57,940 --> 00:04:02,940
+siguen dando los diuréticos cambia el manejo y de elección es el
+
+56
+00:04:02,940 --> 00:04:06,940
+manejarlo con una paracentesis evacuadora. Ahora aquí lo puse junto a
+
+57
+00:04:06,940 --> 00:04:10,580
+la asitis atención en el sentido que ambas se manejan de la misma
+
+58
+00:04:10,580 --> 00:04:14,980
+forma con una paracentesis evacuadora con la diferencia que la asitis
+
+59
+00:04:15,020 --> 00:04:20,580
+atención es un diagnóstico clínico, cierto, en que la pared abdominal se
+
+60
+00:04:20,580 --> 00:04:24,740
+palpa muy tensa debido a que hay una acumulación excesiva de este líquido
+
+61
+00:04:24,740 --> 00:04:29,780
+acítico. Como cosa importante cada vez que se hace una paracentesis evacuadora
+
+62
+00:04:29,780 --> 00:04:34,740
+y que se sacan más de cinco litros hay que reponer albúmina dado que de
+
+63
+00:04:34,740 --> 00:04:40,260
+lo contrario se complica con un síndrome hepato renal. Ahora la cantidad
+
+64
+00:04:40,460 --> 00:04:45,580
+de albúmina que se da es 8 gramos por litro sacado en total o sea si le
+
+65
+00:04:45,580 --> 00:04:50,260
+saco solamente un litro no repongo nada. Si le saco cinco litros hay que
+
+66
+00:04:50,260 --> 00:04:55,380
+reponer 40 milígramos de albúmina, perdón, 40 gramos de albúmina por
+
+67
+00:04:55,380 --> 00:04:59,980
+vía endovenosa. Si es que le saco 10 litros que son más o menos los
+
+68
+00:04:59,980 --> 00:05:05,260
+volúmenes más frecuentes en este caso se reponen 80 gramos de albúmina
+
+69
+00:05:05,260 --> 00:05:08,660
+como para que quede bien claro el corte de los 5 litros no es que
+
+70
+00:05:08,660 --> 00:05:14,580
+sobre eso haya que empezar a dar los 8 gramos sino que sobre eso se dan los
+
+71
+00:05:14,580 --> 00:05:19,580
+8 gramos pero por la cantidad total de líquido sacado. Ahora como cosa
+
+72
+00:05:19,580 --> 00:05:24,380
+súper importante antes de evacuar siempre hay que descartar una
+
+73
+00:05:24,380 --> 00:05:28,380
+peritonitis bacteriana espontánea dado que de lo contrario el
+
+74
+00:05:28,380 --> 00:05:31,740
+paciente se puede choquear se puede morir me puede hacer un síndrome
+
+75
+00:05:31,740 --> 00:05:36,500
+hepato renal o sea repito antes de la paracentesis evacuadora hay que
+
+76
+00:05:36,500 --> 00:05:40,420
+hacer una paracentesis diagnóstica para descartar una complicación
+
+77
+00:05:40,420 --> 00:05:44,380
+infecciosa y recién después de eso se evacúa y se repone albúmina como
+
+78
+00:05:44,380 --> 00:05:49,100
+para evitar que me haga un síndrome hepato renal. Ahora como opción a la
+
+79
+00:05:49,100 --> 00:05:53,620
+citis refractaria y a la citis atención en vez de las paracentesis
+
+80
+00:05:53,620 --> 00:05:59,060
+evacuadoras periódicas cierto se puede hacer una derivación de la
+
+81
+00:05:59,060 --> 00:06:02,060
+circulación portosistémica de manera de descomprimir esta
+
+82
+00:06:02,060 --> 00:06:05,780
+hipertensión portal que se puede hacer con un tips o con algún otro
+
+83
+00:06:05,780 --> 00:06:10,940
+tipo de dispositivo cierto pero lo malo es que me aumenta el riesgo de
+
+84
+00:06:10,940 --> 00:06:16,020
+encefalopatía así que el tips está absolutamente contraindicado
+
+85
+00:06:16,020 --> 00:06:20,660
+en los pacientes que vienen con la encefalopatía hepática pero insisto
+
+86
+00:06:20,660 --> 00:06:24,540
+es una opción que le mejora la calidad de vida a estos pacientes que tienen
+
+87
+00:06:24,540 --> 00:06:27,620
+que estar con una punción cada ciertas semanas.
+
+88
+00:06:27,620 --> 00:06:32,060
+Vemos ahora este último tema la peritonitis bacteriana espontánea o
+
+89
+00:06:32,900 --> 00:06:37,700
+en este caso hay que acordarse de esta frase si es que un paciente tiene a
+
+90
+00:06:37,700 --> 00:06:42,620
+citis hay que descartar la pve en cualquier tipo de descompensación si
+
+91
+00:06:42,620 --> 00:06:45,980
+es que el paciente se descompensa con lo que sea pero viene con la citi el
+
+92
+00:06:45,980 --> 00:06:49,940
+primer examen siempre es la paracentesis diagnóstica como para
+
+93
+00:06:49,940 --> 00:06:53,540
+descartar una pve bueno si está con un infarto el primer examen es un
+
+94
+00:06:53,540 --> 00:06:57,860
+electro obviamente pero si es que es el cuadro compatible con esto
+
+95
+00:06:57,860 --> 00:07:01,660
+ejemplo con una encefalopatía hepática con una citi atención o con
+
+96
+00:07:01,660 --> 00:07:05,860
+lo que sea en ese caso el primer examen es la paracentesis diagnóstica
+
+97
+00:07:05,860 --> 00:07:09,500
+como para poder descartar la pve de inmediato.
+
+98
+00:07:09,500 --> 00:07:14,900
+Empecemos ahora con la etiología por la general se produce simplemente una
+
+99
+00:07:14,900 --> 00:07:19,260
+traslocación bacteriana o traslocación bacteriana se puede se
+
+100
+00:07:19,260 --> 00:07:23,460
+puede usar con n o sin n esa palabra por si acaso dígase desde el
+
+101
+00:07:23,460 --> 00:07:27,900
+intestino se salen algunas poquitas bacterias hacia el líquido acítico en
+
+102
+00:07:27,940 --> 00:07:31,700
+este caso por ser por hipertensión por tal cierto viene con muy poquitos
+
+103
+00:07:31,700 --> 00:07:36,660
+anticuerpos y se puede dar algún grado de proliferación bacteriana
+
+104
+00:07:36,660 --> 00:07:40,780
+importante el cuadro clínico por la general es simplemente un daño
+
+105
+00:07:40,780 --> 00:07:44,140
+hepático crónico que se descompensa con cualquier cosa tal como dijimos
+
+106
+00:07:44,140 --> 00:07:48,340
+un empeoramiento agudo de la encefalopatía por ejemplo en algunos
+
+107
+00:07:48,340 --> 00:07:52,500
+casos insisto se presenta como citis atención y habíamos dicho antes que
+
+108
+00:07:52,500 --> 00:07:57,540
+antes de evacuar de inmediato hay que descartar una pve cierto y en
+
+109
+00:07:57,540 --> 00:08:01,740
+algunos casos ya viene con el cuadro más inflamatorio cierto con el dolor
+
+110
+00:08:01,740 --> 00:08:06,380
+abdominal con fiebre y es raro que venga con signos peritoniales como
+
+111
+00:08:06,380 --> 00:08:09,940
+buena peritonitis cierto pero en algunos casos sí los presenta también
+
+112
+00:08:09,940 --> 00:08:15,340
+el diagnóstico ya dijimos se hace con la paracentesis diagnóstica en la
+
+113
+00:08:15,340 --> 00:08:20,760
+cual yo hago una función abdominal pero sacó solamente un poquito de
+
+114
+00:08:20,760 --> 00:08:25,820
+líquido y lo mando a analizar y el punto de corte es que tenga mayor
+
+115
+00:08:25,820 --> 00:08:30,900
+igual a 250 polimorfos nucleares por mil por milímetro cúbico y que
+
+116
+00:08:30,900 --> 00:08:35,460
+tenga además un predominio de polimorfos nucleares dado que las
+
+117
+00:08:35,460 --> 00:08:39,660
+causas de predominio mononuclear son el cáncer y la tuberculosis aunque
+
+118
+00:08:39,660 --> 00:08:43,460
+son súper raros por si acaso cuando se hace una paracentesis diagnóstica
+
+119
+00:08:43,460 --> 00:08:47,060
+habitualmente el número de polimorfos nucleares es lo único que
+
+120
+00:08:47,060 --> 00:08:53,220
+se informa ahora como yo puedo sospechar o descartar una
+
+121
+00:08:53,260 --> 00:08:57,460
+peritonitis secundaria ejemplo una apendicitis aguda en el sentido en que
+
+122
+00:08:57,460 --> 00:09:01,620
+alguien con un daño hepático crónico y con asiti igualmente tiene todo el
+
+123
+00:09:01,620 --> 00:09:05,100
+derecho del mundo a que se complique con una diverticulitis con una
+
+124
+00:09:05,100 --> 00:09:09,980
+apendicitis o con alguna otra cosa de ese tipo en ese caso si es que me
+
+125
+00:09:09,980 --> 00:09:13,820
+sale un líquido con múltiples tipos de bacterias inmediatamente hay que
+
+126
+00:09:13,820 --> 00:09:17,940
+sospechar una peritonitis secundaria lo mismo si es que viene con pus o
+
+127
+00:09:17,940 --> 00:09:21,540
+con un recuento de polimorfos nucleares demasiado alto arriba de
+
+128
+00:09:21,540 --> 00:09:26,620
+100 mil si se fijan el punto de corte era apenas de 250 y aquí estamos
+
+129
+00:09:26,620 --> 00:09:32,580
+hablando de mucho más que eso cierto arriba de 100 mil y finalmente si es
+
+130
+00:09:32,580 --> 00:09:35,620
+que viene con signos peritoniales son cosas que me obligan de inmediato a
+
+131
+00:09:35,620 --> 00:09:39,660
+sospechar una complicación quirúrgica cierto a alguna peritonitis
+
+132
+00:09:39,660 --> 00:09:45,060
+secundaria finalmente el tratamiento de la pve suele ser con antibióticos
+
+133
+00:09:45,060 --> 00:09:49,100
+endovenosos que cubran los gram negativos el cefotaxismo 2 gramos
+
+134
+00:09:49,100 --> 00:09:52,740
+cada 8 horas por 7 días es el esquema más usado acuérdense que la
+
+135
+00:09:52,740 --> 00:09:55,980
+secrexona se usa mucho menos en el daño hepático debido a que
+
+136
+00:09:55,980 --> 00:10:00,220
+justamente se metaboliza por vía hepática en cambio el cefotaxismo se
+
+137
+00:10:00,220 --> 00:10:03,940
+metaboliza por vía renal o se excreta por vía renal
+
+138
+00:10:03,940 --> 00:10:08,780
+además se le deja albúmina como profilaxis de síndrome patorrenal con
+
+139
+00:10:08,780 --> 00:10:12,460
+la diferencia que en la paracentesis evacuadora se dejaba 8 gramos por
+
+140
+00:10:12,460 --> 00:10:18,220
+litro que se sacaba en cambio en la pve que no se saca nada se deja 1
+
+141
+00:10:18,380 --> 00:10:23,500
+5 gramos por kilo de peso endovenoso en las primeras seis horas en el día
+
+142
+00:10:23,500 --> 00:10:27,740
+uno cierto y luego se da una segunda dosis al tercer día de un gramo por
+
+143
+00:10:27,740 --> 00:10:33,140
+kilo de peso del paciente igualmente por vía endovenosa o sea fíjense en
+
+144
+00:10:33,140 --> 00:10:37,620
+la pve se deja antibióticos se deja albúmina como la profilaxis del
+
+145
+00:10:37,620 --> 00:10:41,220
+síndrome patorrenal las dosis esa yo recomiendo que sí se las aprendan
+
+146
+00:10:41,220 --> 00:10:44,180
+de las pocas dosis que hay que saber y finalmente algo súper
+
+147
+00:10:44,180 --> 00:10:48,540
+importante no hay que evacuar si ustedes drenan una pve el paciente se
+
+148
+00:10:48,540 --> 00:10:52,700
+muere evoluciona habitualmente a un síndrome patorrenal y se puede
+
+149
+00:10:52,700 --> 00:10:57,060
+descompensar y morir bastante rápido y esto algo un poquito contraintuitivo
+
+150
+00:10:57,060 --> 00:11:01,100
+cierto porque uno dice está con una infección en el abdomen cierto debería
+
+151
+00:11:01,100 --> 00:11:03,860
+evacuarlo como un absceso pero en este caso está absolutamente
+
+152
+00:11:03,860 --> 00:11:07,220
+contraindicado evacuar y por lo mismo es que antes de una
+
+153
+00:11:07,220 --> 00:11:11,660
+paracentesis evacuadora en la citi refractaria y en la citi atención se
+
+154
+00:11:11,660 --> 00:11:15,900
+descartaba la pve de manera de no evacuarlo en el caso de que se confirme
+
+155
+00:11:15,900 --> 00:11:21,140
+ahora después de que ha tenido una pve habitualmente queda con antibióticos
+
+156
+00:11:21,140 --> 00:11:24,980
+profilácticos en este caso se suele dejar con el cotrimoxazol letosí
+
+157
+00:11:24,980 --> 00:11:28,580
+alta en el cotrimoxazol fuerte o bien con alguna quinolona como el
+
+158
+00:11:28,580 --> 00:11:32,300
+ciprofloxacino que se deja una vez al día y en este caso las
+
+159
+00:11:32,300 --> 00:11:36,980
+indicaciones más importantes es la peritonitis previa lo que se conoce
+
+160
+00:11:36,980 --> 00:11:43,060
+como una profilaxis secundaria de pve segundo lugar hay que saber que queda
+
+161
+00:11:43,060 --> 00:11:48,140
+con esto a permanencia hasta que se haga un trasplante hepático o hasta
+
+162
+00:11:48,140 --> 00:11:51,340
+que el paciente se muera y finalmente hay que hay que saber que
+
+163
+00:11:51,340 --> 00:11:54,860
+hay algunos casos en que si se deja una profilaxis primaria con
+
+164
+00:11:54,860 --> 00:11:59,260
+antibióticos endovenosos al menos durante algún algún tiempito que es
+
+165
+00:11:59,260 --> 00:12:02,660
+cuando está con una hemorragia digestiva alta por varices esofágicas
+
+166
+00:12:02,660 --> 00:12:06,620
+y se deja igualmente por un tiempo más largo en el caso de que el estudio
+
+167
+00:12:06,620 --> 00:12:10,580
+del líquido acítico muestra que venga con un nivel de albúmina muy baja
+
+168
+00:12:10,580 --> 00:12:14,740
+abajo de 1.5 gramos por decilitro dado que ahí el riesgo de que se infecte
+
+169
+00:12:14,740 --> 00:12:19,460
+es mucho más alto o sea en resumen cómo se manejaba a un paciente que
+
+170
+00:12:19,460 --> 00:12:23,380
+venía con una clínica de pve una funcionando a todo paciente que
+
+171
+00:12:23,380 --> 00:12:27,420
+eventualmente puede hacer una pve y es una pve hasta que se muestre lo
+
+172
+00:12:27,420 --> 00:12:30,860
+contrario 2 se maneja con antibióticos con el cefotaximo
+
+173
+00:12:30,860 --> 00:12:34,620
+endovenoso 3 se le deja albúmina como profilaxis del síndrome
+
+174
+00:12:35,460 --> 00:12:40,900
+4 queda con profilaxis de la pve a futuro con antibióticos de por vida
+
+175
+00:12:40,900 --> 00:12:46,940
+cierto o hasta que se trasplante y como cosa final jamás se evacúa dado que
+
+176
+00:12:46,940 --> 00:12:50,220
+lo contrario el paciente se muere de síndrome patorenal también ya bueno
+
+177
+00:12:50,220 --> 00:12:53,860
+eso es todo algo largo pero es súper importante que no me confundan la
+
+178
+00:12:53,860 --> 00:12:57,860
+acítis común y corriente con furosenía y espironolactona cierto de
+
+179
+00:12:57,860 --> 00:13:01,220
+las otras que sí se evacuaban de esta que en cambio no se evacuaba
+
+180
+00:13:01,220 --> 00:13:04,300
+sino que se evacuaba con antibióticos ya que estén bien nos vemos en el siguiente tema

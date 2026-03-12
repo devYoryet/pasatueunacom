@@ -1,0 +1,317 @@
+Hola, ¿cómo están? Hablemos de un tema que es un poco difícil,
+
+que es la elección de antibióticos en las neumonías.
+
+Y sepan que va a servir como una especie de repaso de varios antibióticos.
+
+Sepan que muchos antibióticos sirven y cubren a los microorganismos más frecuentes,
+
+que son el neumococo, el hemófilo, en particular el neumococo, ese es el más importante.
+
+Y dentro de eso están las penicilinas, como ejemplo la amoxicilina, la ampicilina,
+
+la penicilina misma, la penicilina G, la penicilina B, etc.
+
+La bioral es la que habitualmente se deja la B, aunque la más barata
+
+y la que uno más compra es la amoxicilina en la práctica.
+
+Aparte de esto, uno puede reforzar a las penicilinas con los inhibidores de la beta-lactamasa,
+
+que son el ácido clavulánico y el sulbactam.
+
+Y acuérdense que estos habitualmente se indican cuando se sospecha
+
+que puede haber un germen que produzca la beta-lactamasa,
+
+como ejemplo el mismo hemófilo o un estafilococcoaurus, por ejemplo.
+
+Aparte de esto, sirven los macrólidos, que cubren muy bien los focos respiratorios,
+
+tanto de las bacterias típicas, que son el neumococo y el hemófilo,
+
+como los atípicos, que están el micoplasma, la clamidia, etc.
+
+Y ahí tenemos la eritromicina, la claditromicina y el que más se usa actualmente,
+
+que es la acitromicina, que se toma solamente una vez al día y es por menos tiempo.
+
+Estas también las tetraciclinas, en específico la doxiciclina,
+
+cubre bien el foco neumónico también y muchas veces se usa como uno de los fármacos de elección
+
+cuando es alérgico, ejemplo, y le han caído mal los macrólidos.
+
+Aparte de esto, me sirven las cephalosporinas, pero solo desde la segunda generación en adelante.
+
+Las de primera generación habitualmente no cubren hemófilo y tampoco cubren bien el neumococo.
+
+En cambio, desde la segunda hasta las generaciones que siguen después
+
+cubren muy bien el foco respiratorio.
+
+El cefuroximo es el más clásico y se puede tomar por vía oral,
+
+así que es algo que está disponible y que en la práctica se usa.
+
+También me sirven las cephalosporinas de tercera generación,
+
+que la cefraxona y el cefotaximo son los más utilizados por regla general
+
+de estos antibióticos y son los que se dan por vía endovenosa.
+
+Pero aparte de eso, sepan al menos la cefixima,
+
+que es la clásica cephalosporina de tercera generación que se toma por vía oral.
+
+Aparte de esto, tengo las quinolonas respiratorias,
+
+que están el levofloxacino y el moxifloxacino,
+
+que cubren muy bien igualmente a los bichos típicos y también a los atípicos.
+
+Y en el caso del moxifloxacino, cubre igualmente a los anaerobios.
+
+Así que levo y moxi, ambos tienen una cobertura muy similar,
+
+pero el moxi suma anaerobios además.
+
+Y finalmente, si yo tengo un paciente que es alérgico a alguno de esos antibióticos,
+
+pues simplemente no hay que darle ese antibiótico y hay que darle otro.
+
+Si es que es alérgico a la amoxicilina,
+
+pues hay que darle acetromicina, por ejemplo.
+
+Igualmente, si es que es alérgico al levofloxacino,
+
+le voy a dar alguna cosa diferente.
+
+La típica pregunta es, ¿qué pasa si es alérgico a la amoxicilina?
+
+Le puedo dar la septaxona y eso lo vimos en otra clase,
+
+pero se los recuerdo, por la general sí se puede dar,
+
+a menos que haya tenido una reacción alérgica severa
+
+o una reacción alérgica mediada por IgE,
+
+porque esas tienen riesgo de complicarse y de volverse más severas a la siguiente.
+
+Y esto sigue siendo más complejo todavía,
+
+porque en el caso de las neumonías intrahospitalarias,
+
+que hay que saber su definición, por si acaso,
+
+que son las que empiezan desde dos días después de hospitalizarse
+
+hasta siete días después de haberse enviado de alta,
+
+o sea, dos días después de ingreso,
+
+porque acuérdense que si es que inicia antes,
+
+si es que inicia el mismo día en que se hospitaliza, por ejemplo,
+
+uno asume que se contagió antes de hospitalizarse
+
+y que hay una neumonía adquirida de la comunidad,
+
+y obviamente si es que empieza la clínica con una hospitalización reciente,
+
+ya en su casa, pero habiendo estado en el hospital hace poco,
+
+uno dice esto nuevamente puede ser por una infección intrahospitalaria.
+
+Y lo relevante en este caso es que pueden ser por los bichos resistentes del hospital,
+
+y obviamente en cada uno de los centros hospitalarios
+
+puede haber distintos tipos de microorganismos resistentes,
+
+pero lo más frecuentes son el estafilococcus aureus meticilino resistente
+
+y la pseudomonas aureginosa.
+
+Pero puede ser igualmente estos microorganismos BLE,
+
+que son los que tienen una beta-lactamasa de espectro expandido,
+
+como ejemplo una clebsiela BLE,
+
+que el espectro expandido quiere decir que no solamente degradan a las penicilinas,
+
+sino que además a las céfalosporinas.
+
+Así que la única forma de manejarlos con un beta-lactámico
+
+es con el inipenema o con algún otro carboapenémico.
+
+Y finalmente el acinetobacter que tiene un patrón de resistencia
+
+y de infección muy similar a la pseudomonas.
+
+De hecho son primos, son gram negativos, no fermentadores,
+
+tanto pseudomonas como el acinetobacter.
+
+Ahora, la vancomicina elinesolide son los fármacos de elección
+
+para el estafilococcus aureus meticilino resistente,
+
+en particular la vancomicina que suele ser el más usado,
+
+y para la pseudomonas se pueden usar las céfalosporinas de tercera generación
+
+con accionante pseudomonas como la ceftacidima o la cefoperasona.
+
+Se puede usar también las céfalosporinas de cuarta generación como el cefepime
+
+y finalmente los carboapenémicos, pero no todos.
+
+Sirve el inipeném, sirve el mero peném
+
+y no sirve el ertapeném que no cubre bien el pseudomonas
+
+a pesar de que es el más barato y el que se puede usar de manera ambulatoria
+
+habitualmente con una pura dosis al día.
+
+El inipeném es bueno, pero no cubre pseudomonas.
+
+Ahora, ¿qué fármaco se va a dejar en específico?
+
+Pues algo que cubra a los bichos convencionales no resistentes
+
+de las neumonías comunes y corrientes,
+
+más algo que cubra a los bichos específicos de cada uno de los hospitales.
+
+Si me dicen que en este hospital hay pseudomonas,
+
+pues va a quedar con inipeném, por ejemplo.
+
+Ahora, en el caso de la neumonía en los pacientes inmunodeprimidos,
+
+igualmente hay que saber que pueden ser causadas por microorganismos oportunistas,
+
+por infecciones oportunistas, que se abrían como I-O.
+
+Y el más frecuente, al menos en los pacientes VIH,
+
+es el neumocistis girobeci.
+
+Así que hay que cubrirlo con cotrimoxazol,
+
+que es el tratamiento de elección.
+
+Y si es que hay alergia a la sulfa,
+
+porque acuérdense que el cotrimoxazol es sulfametoxazol más trimetoprim,
+
+en ese caso se puede dejar odapsona o clindamicida.
+
+Ahora, algo que tienen en común tanto la neumonía intrahospitalaria
+
+como la neumonía en el paciente inmunodeprimido,
+
+es que en ambos casos, como puede haber algunos otros microorganismos más infrecuentes,
+
+hay que hacer un estudio microbiológico,
+
+de manera de identificar qué microorganismo tiene
+
+y dejar un tratamiento más acotado.
+
+O sea, cuando yo no lo he identificado todavía,
+
+deja un tratamiento de un espectro muy amplio,
+
+con cobertura de la neumonía comunitaria,
+
+y además la cobertura de los bichos resistentes
+
+o los bichos oportunistas, dependiendo qué tipo de factor de riesgo tenga.
+
+Y una vez que ya he hecho el estudio de identificar el microorganismo
+
+más la sensibilidad, pues en ese caso acoto mi espectro de acción
+
+de manera dirigida al microorganismo que identifico.
+
+Lo mismo ocurre en los pacientes que están en la UCI,
+
+que habitualmente se cultivan y se ajusta el tratamiento de una manera más específica.
+
+Ahora, sigue habiendo otras excepciones todavía,
+
+como la neumonía post-influenza,
+
+en este caso no la por-influenza, que es la neumonía viral
+
+que ocurre en agudo, durante el cuadro agudo,
+
+sino que la que ocurre algunas semanas después,
+
+una o dos semanas después de la influenza,
+
+en este caso debo cubrir, además del neumococo,
+
+hay que cubrir el estafilococo aureus.
+
+Así que habitualmente queda con Cetraxona para el neumococo,
+
+más Cloxacilina o Bancomicina
+
+para la cobertura del estafilococo aureus también.
+
+Y finalmente, una neumonía que no responde en 48 a 72 horas,
+
+en el sentido en que después de dos a tres días de antibiótico,
+
+uno espera que haya una mejoría clínica significativa.
+
+Si eso no ha ocurrido, pues uno no dice que hay resistencia,
+
+sino que la pregunta es, ¿habrá una complicación?
+
+En específico, ¿habrá una empiema?
+
+Y en ese caso que quede claro, no se cambia el tratamiento antibiótico.
+
+El antibiótico se mantiene exactamente igual.
+
+Lo que yo hago es pedirle una radiografía de control,
+
+y en el caso de que la radiografía me muestre que hay un derrame,
+
+pues se funciona.
+
+Y si es que confirmo que hay una empiema,
+
+el manejo de la empiema era el mismo esquema antibiótico,
+
+pero más un tubo pleural para adrenarlo.
+
+Ahora, si es que no encuentro ninguna otra causa,
+
+pues en ese caso, si la radiografía estaba normal y no había una empiema,
+
+la duda es, ¿habrá resistencia antibiótica?
+
+Y en ese caso, eventualmente sí cambio el tratamiento antibiótico
+
+mientras tengo el resultado del cultivo.
+
+En el sentido en que ahí nuevamente se va a hacer el estudio microbiológico.
+
+Si se fijan, un tema bastante complejo, amplio,
+
+con hartas aristas, hartas variables,
+
+pero que hay que saberlo bien, así que aprendérselo.
+
+¡Que estén bien!

@@ -1,0 +1,223 @@
+1
+00:00:00,000 --> 00:00:06,530
+Hola, hola. ¿Cómo están? En este vídeo vamos a dar inicio al tema de patología
+
+2
+00:00:06,530 --> 00:00:10,970
+biliar. Vamos a ver algunas generalidades en la semiología, más el
+
+3
+00:00:10,970 --> 00:00:15,850
+recordar cuáles son las enfermedades que se asocian a la presencia de
+
+4
+00:00:15,850 --> 00:00:20,050
+cálculos en la vesícula, ¿cierto? Y vamos a ver la choleritiasis simple no
+
+5
+00:00:20,050 --> 00:00:23,970
+complicada como un tema específico. Empecemos con las generalidades de la
+
+6
+00:00:23,970 --> 00:00:28,490
+semiología, recordando que por un lado está la choleritiasis, que son los
+
+7
+00:00:28,490 --> 00:00:32,650
+cálculos en la vesícula, y que habitualmente o es asintomática y se
+
+8
+00:00:32,650 --> 00:00:36,290
+diagnostica en una ecografía que se hace por otra razón, ejemplo en contexto
+
+9
+00:00:36,290 --> 00:00:40,170
+de un embarazo, o bien viene con el cólico biliar, así que podría venir
+
+10
+00:00:40,170 --> 00:00:43,970
+con dolor, como el único síntoma, habitualmente un dolor que es
+
+11
+00:00:43,970 --> 00:00:47,570
+intermitente, ¿cierto?, y que luego eso sucede. Luego está la
+
+12
+00:00:47,570 --> 00:00:54,010
+colexistitis aguda, que en este caso ya no solamente hay cálculos en la
+
+13
+00:00:54,010 --> 00:00:57,050
+vesícula, sino que hay algún grado de infección y de inflamación
+
+14
+00:00:57,050 --> 00:01:00,770
+importante, y el síntoma más importante es el dolor, que ya no es un
+
+15
+00:01:00,770 --> 00:01:04,850
+dolor que sea corto en cuanto a su duración, sino que se mantiene en el
+
+16
+00:01:04,850 --> 00:01:09,530
+tiempo, ¿cierto? Muchas veces se agrega fiebre como uno de los síntomas de la
+
+17
+00:01:09,530 --> 00:01:13,730
+inflamación. Aparte de esto está la coledocolitiasis, que ya son los
+
+18
+00:01:13,730 --> 00:01:17,610
+cálculos no en la vesícula, sino que han pasado al colédoco, ¿cierto?, y
+
+19
+00:01:17,610 --> 00:01:21,650
+por lo general se ve con el dolor, a veces con vómitos también, más
+
+20
+00:01:21,650 --> 00:01:27,450
+higtericia, y está la colangitis aguda, que es ya la infección de la
+
+21
+00:01:27,450 --> 00:01:31,410
+viabilidad, que es una coledocolitiasis que a su vez se infecta y que viene con
+
+22
+00:01:31,410 --> 00:01:35,810
+la triada del dolor más higtericia, más fiebre, que se conoce como la
+
+23
+00:01:35,810 --> 00:01:39,130
+triada de Charcot, y a veces en algunos casos viene con la penta de
+
+24
+00:01:39,130 --> 00:01:42,570
+Reynolds, ¿cierto?, que viene además con compromiso de conciencia y con
+
+25
+00:01:42,570 --> 00:01:46,610
+hipotensión arterial. Les pongo en azul más oscuro las cosas más
+
+26
+00:01:46,610 --> 00:01:50,290
+importantes, si se fijan en la coledocolitiasis, el dolor es lo más
+
+27
+00:01:50,290 --> 00:01:54,730
+importante en la colesistitis, es el dolor más la fiebre, el coledocolitiasis es
+
+28
+00:01:54,730 --> 00:01:58,930
+el dolor más la higtericia, ¿cierto?, y en la colangitis aguda son las tres
+
+29
+00:01:58,930 --> 00:02:03,250
+cosas, el dolor más la higtericia más la fiebre. Vemos ahora la coledocolitiasis
+
+30
+00:02:03,250 --> 00:02:08,730
+simple, los otros temas los vamos a ver en detalle en su respectiva clase, y
+
+31
+00:02:08,730 --> 00:02:12,250
+comencemos recordando que la clínica de la coledocolitiasis usualmente es
+
+32
+00:02:12,250 --> 00:02:15,970
+asintomática, la inmensa mayoría de los casos es solamente un
+
+33
+00:02:15,970 --> 00:02:19,250
+hallazgo, ¿cierto?, o bien se puede ver con el colicobiliar como
+
+34
+00:02:19,250 --> 00:02:23,410
+unicorriente, que suele ser un cuadro de dolor recurrente, habitualmente en el
+
+35
+00:02:23,410 --> 00:02:27,570
+epigastrio o bien en el hipocondrio derecho, ¿cierto?, que suele durar entre 20
+
+36
+00:02:27,570 --> 00:02:32,050
+a 30 minutos y luego eso sucede y que muchas veces se asocia además a
+
+37
+00:02:32,050 --> 00:02:36,250
+náuseas y a vómito. El diagnóstico de la coledocolitiasis por regla
+
+38
+00:02:36,250 --> 00:02:39,850
+general es con la ecografía, es el examen de elección como para
+
+39
+00:02:39,850 --> 00:02:43,210
+iniciar el estudio en todos los pacientes en los cuales se sospecha
+
+40
+00:02:43,210 --> 00:02:48,010
+que hay patología biliar, y el tratamiento además suele ser en Chile
+
+41
+00:02:48,010 --> 00:02:53,130
+quirúrgico debido a que en Chile al menos se recomienda que se haga una
+
+42
+00:02:53,130 --> 00:02:56,930
+colisistectomía laparoscópica, en sentido en que viene con menos riesgo que
+
+43
+00:02:56,930 --> 00:03:01,130
+la cirugía abierta, ahora la abierta acuérdense que va obligatoria en el
+
+44
+00:03:01,130 --> 00:03:04,370
+caso que se sospeche que además hay un cáncer de vesícula y además es
+
+45
+00:03:04,370 --> 00:03:08,370
+electiva debido a que la coledocolitiasis simple no está
+
+46
+00:03:08,370 --> 00:03:11,930
+complicada, el paciente no se va a morir en este momento, así que se hace
+
+47
+00:03:11,930 --> 00:03:16,490
+en el momento en que haya como disponibilidad de cirujano y aparte de
+
+48
+00:03:16,490 --> 00:03:20,890
+eso que el paciente esté en óptimas condiciones como para poder someterse a
+
+49
+00:03:20,890 --> 00:03:25,650
+esta cirugía. Que quede bien claro esto no aplica a todos los países, hay
+
+50
+00:03:25,650 --> 00:03:29,890
+algunos lugares en el mundo, ejemplo Europa y Estados Unidos, que la
+
+51
+00:03:29,890 --> 00:03:33,890
+colelitiasis simple asintomática eventualmente la manejan con una
+
+52
+00:03:33,890 --> 00:03:37,530
+conducta expectante, pero en Chile en particular en donde el riesgo de
+
+53
+00:03:37,530 --> 00:03:41,210
+cáncer de vesícula es especialmente alto por un tema genético, en este
+
+54
+00:03:41,210 --> 00:03:44,930
+caso se recomienda que si se opere todo paciente que tiene cálculos en
+
+55
+00:03:44,930 --> 00:03:47,930
+la vesícula y bueno todo lo que hay que saber por ahora en los siguientes
+
+56
+00:03:47,930 --> 00:03:52,730
+temas vamos a profundizar en la patología biliar así que ahí nos vemos

@@ -1,0 +1,1027 @@
+1
+00:00:00,000 --> 00:00:07,810
+Hola, hola. Veamos las familias más importantes de antihipertensivos y cuáles son sus efectos
+
+2
+00:00:07,810 --> 00:00:12,850
+adversos de manera de saber cuándo elegir uno o cuándo elegir otro. Y empecemos con
+
+3
+00:00:12,850 --> 00:00:17,090
+los famosos YECA, los inhibidores de la enzima convertidora de angiotensina, de
+
+4
+00:00:17,090 --> 00:00:21,970
+los cuales el Nalapril es el que más se usa. Ahora hay algunos otros como el Captopril,
+
+5
+00:00:21,970 --> 00:00:27,290
+el Lysinopril, etc. El Captopril todavía es útil en el manejo de las crisis hipertensivas
+
+6
+00:00:27,290 --> 00:00:32,210
+en el sentido en que tiene una vida media muy corta que no me sirve para la hipertensión
+
+7
+00:00:32,210 --> 00:00:37,490
+crónica, pero sí me sirve para un episodio agudo en el cual yo necesito bajar rápidamente
+
+8
+00:00:37,490 --> 00:00:43,130
+su presión arterial. El Lysinopril eventualmente se puede usar en el daño hepático crónico
+
+9
+00:00:43,130 --> 00:00:47,890
+en el sentido en que los niveles de Nalapril podrían ser un poquito más erráticos.
+
+10
+00:00:47,890 --> 00:00:55,330
+Los ARA2, que son los bloqueadores o inhibidores del receptor de angiotensina,
+
+11
+00:00:55,330 --> 00:01:01,370
+de hecho ARA significa antagonistas del receptor de angiotensina 2, en este caso
+
+12
+00:01:01,370 --> 00:01:06,810
+más importante es el Losartan, como le dicen los pacientes cierto, el Lotarsan,
+
+13
+00:01:06,810 --> 00:01:11,650
+pero es Losartan, y aparte de eso está el Candesartan, el Balsartan, entre otros,
+
+14
+00:01:11,650 --> 00:01:16,410
+y sepan que por viola general tanto los Yeca como los ARA2 son similares,
+
+15
+00:01:16,410 --> 00:01:21,210
+los tres son buenos, bonitos y baratos, y actualmente la verdad es que se puede elegir
+
+16
+00:01:21,210 --> 00:01:25,330
+cualquiera de ellos y no es como antes en que uno siempre elegía los Yeca antes que los
+
+17
+00:01:25,330 --> 00:01:30,570
+ARA2, actualmente son iguales, son iguales y en más hay muchos que eligen el Losartan,
+
+18
+00:01:30,690 --> 00:01:34,490
+porque se toma solamente una vez al día en comparación con el Nalapril que se toma
+
+19
+00:01:34,490 --> 00:01:41,050
+dos veces al día. Ahora sí, algo importante es, se elige solamente uno, no puedo quedar con
+
+20
+00:01:41,050 --> 00:01:47,290
+ambos fármacos, es o el Nalapril o el Losartan, no los dos juntos, sus efectos
+
+21
+00:01:47,290 --> 00:01:51,930
+adversos son similares, dentro de eso lo más importante es que tienden a la hipercalemia
+
+22
+00:01:51,930 --> 00:01:57,170
+y que eventualmente pueden bajarme un poquito el clíres y agregar una insuficiencia renal
+
+23
+00:01:57,170 --> 00:02:03,170
+aguda más grave a una que ya existe o agravarme una insuficiencia renal crónica
+
+24
+00:02:03,170 --> 00:02:08,410
+con una insuficiencia renal aguda adicional lo cual hace que habitualmente están contraindicados
+
+25
+00:02:08,410 --> 00:02:13,090
+cuando el potasio está arriba de 6, o sea una hipercalemia, acuérdense que es arriba
+
+26
+00:02:13,090 --> 00:02:17,650
+de 5 hipercalemia, arriba de 6 ya es un poquito más severa, y están contraindicados
+
+27
+00:02:17,650 --> 00:02:22,170
+igualmente cuando el clírens de creatinina está abajo de 30 ml minuto y el paciente
+
+28
+00:02:22,170 --> 00:02:27,690
+todavía no está en diálisis, son de elección sí o sí en los pacientes con diabetes
+
+29
+00:02:27,690 --> 00:02:31,930
+y en los pacientes que tienen proteínuria en el sentido en que disminuyen la progresión
+
+30
+00:02:31,930 --> 00:02:37,010
+de la nefropatía diabética y disminuyen la progresión de las fallas renal en
+
+31
+00:02:37,010 --> 00:02:42,330
+contexto de proteínuria ya sea en síndrome nefrótico o en alguna nefropatía con
+
+32
+00:02:42,330 --> 00:02:48,450
+una proteínuria sin rango nefrótico también, los YECA pueden producir y solamente
+
+33
+00:02:48,450 --> 00:02:54,970
+los YECA y no los ARA2, TOS y angioedema, de hecho la TOS es una de las complicaciones
+
+34
+00:02:54,970 --> 00:02:59,690
+o de los efectos adversos más importantes y en ese caso es obligatorio cambiarlo por
+
+35
+00:02:59,690 --> 00:03:05,210
+un ARA2, o sea repito ARA2 y YECA se pueden usar indistintamente pero si es que hay
+
+36
+00:03:05,210 --> 00:03:10,650
+alguna indicación para cambiar un YECA por un ARA2 es que o le de TOS o que le de
+
+37
+00:03:10,650 --> 00:03:16,290
+angioedema una reacción alérgica importante. Vemos ahora el beta bloqueo o los beta
+
+38
+00:03:16,290 --> 00:03:22,410
+bloqueantes o los bloqueadores beta, habitualmente son bloqueadores beta 1 por
+
+39
+00:03:22,410 --> 00:03:27,210
+si acaso, el Atenolol es el más importante, el que más se usa, ahora el
+
+40
+00:03:27,210 --> 00:03:32,530
+Carbidilol se puede usar también que es bloqueador beta 1, beta 2 y alfa 1
+
+41
+00:03:32,530 --> 00:03:36,770
+además y que se usa habitualmente en insuficiencia cardiaca también como
+
+42
+00:03:36,770 --> 00:03:42,090
+uno de los fármacos que disminuye la remodelación del miocardio pero el
+
+43
+00:03:42,090 --> 00:03:46,170
+Atenolol en general es el que se usa más porque es más específico cierto para el
+
+44
+00:03:46,170 --> 00:03:49,930
+tema de la presión arterial. Están absolutamente contraindicados en los
+
+45
+00:03:49,930 --> 00:03:54,890
+casos de asma y de EPOC porque acuérdense que pueden generar una
+
+46
+00:03:54,890 --> 00:04:00,290
+crisis obstructiva importante, el salbutamol es un beta agonista y en
+
+47
+00:04:00,290 --> 00:04:04,570
+este caso son beta bloqueantes así que es todo lo contrario, algunos
+
+48
+00:04:04,570 --> 00:04:07,650
+dicen que están contraindicados o al menos si lo están relativamente
+
+49
+00:04:07,650 --> 00:04:11,530
+contraindicados en la diabetes en el sentido en que eventualmente pueden
+
+50
+00:04:11,530 --> 00:04:15,050
+ocultar los síntomas de una hipoglicemia porque recordemos que los
+
+51
+00:04:15,050 --> 00:04:18,090
+síntomas de la hipoglicemia son en primer lugar los síntomas
+
+52
+00:04:18,090 --> 00:04:22,250
+adrenérgicos y en segundo lugar los neuroglucopénicos y los adrenérgicos
+
+53
+00:04:22,250 --> 00:04:27,810
+no son tan graves y con el beta bloqueo se pueden pasar totalmente
+
+54
+00:04:27,810 --> 00:04:31,890
+desapercibido y enmascararlos y que finalmente me haga una hipoglicemia
+
+55
+00:04:31,890 --> 00:04:36,250
+muy severa pero repito es una contraindicación solamente relativa
+
+56
+00:04:36,250 --> 00:04:39,170
+en el sentido en que no se puede dar en pacientes que están con
+
+57
+00:04:39,210 --> 00:04:44,210
+insulina o que están con glivenclamida o que han tenido hipoglicemia pero sí se
+
+58
+00:04:44,210 --> 00:04:49,690
+pueden dejar en otro contexto. Su utilidad además de la hipertensión
+
+59
+00:04:49,690 --> 00:04:53,370
+arterial es en contexto de una jequeca por ejemplo en la
+
+60
+00:04:53,370 --> 00:04:56,810
+fibrilación auricular en que se usan como control de la frecuencia
+
+61
+00:04:56,810 --> 00:05:01,970
+cardíaca etcétera y además en específico me sirve la betalol como
+
+62
+00:05:01,970 --> 00:05:04,570
+uno de los fármacos endovenosos para el tratamiento de las crisis
+
+63
+00:05:04,570 --> 00:05:08,690
+hipertensivas en particular en las emergencias hipertensivas que suelen
+
+64
+00:05:08,690 --> 00:05:13,170
+requerir de un fármaco no por vía oral sino que por vía endovenosa y me
+
+65
+00:05:13,170 --> 00:05:17,250
+sirven también para las crisis hipertensivas en la precláusula.
+
+66
+00:05:17,250 --> 00:05:21,530
+Las tiacidas o diuréticos tiacídicos, el más importante es la hidroclorotia cida
+
+67
+00:05:21,530 --> 00:05:25,090
+me sirve también la clortalidona y a las mismos en la clase de diurético
+
+68
+00:05:25,090 --> 00:05:28,770
+en este caso los efectos adversos más importantes es que tienden a la
+
+69
+00:05:28,770 --> 00:05:33,330
+hipocalemia, a la resistencia a la insulina, la dilipidemia, la
+
+70
+00:05:33,330 --> 00:05:36,970
+hiperuricemia así que están contraindicados en la gota y aparte
+
+71
+00:05:37,250 --> 00:05:42,370
+de eso suelen ser útiles en el caso de que haya edema hipercalemia. Ahora
+
+72
+00:05:42,370 --> 00:05:45,690
+recordemos que uno de los efectos adversos de todos los diuréticos era
+
+73
+00:05:45,690 --> 00:05:50,810
+también la hiponatremia así que en este caso puede haber un poquito más
+
+74
+00:05:50,810 --> 00:05:56,730
+de hiponatremia y recordemos además en el caso de la hipocalemia, la
+
+75
+00:05:56,730 --> 00:06:00,650
+hipocalemia asociada en particular a la clortalidona más que a las
+
+76
+00:06:00,650 --> 00:06:04,410
+tiacidas lo que más influía en reducir esta hipocalemia era
+
+77
+00:06:04,410 --> 00:06:07,450
+disminuir el consumo de sal en el sentido en que no respetar la dieta
+
+78
+00:06:07,450 --> 00:06:12,410
+agrava esta tendencia a la hipocalemia. Son un poco menos eficaces que los
+
+79
+00:06:12,410 --> 00:06:17,010
+otros así que muchas veces en los textos más actuales se recomiendan
+
+80
+00:06:17,010 --> 00:06:20,730
+no usarlos como fármacos de primera línea sino que usarlo en conjunto
+
+81
+00:06:20,730 --> 00:06:24,250
+con algún otro fármaco un poco más eficaz y eso aplica tanto al
+
+82
+00:06:24,250 --> 00:06:28,050
+beta bloqueo como a las tiacidas. Vemos ahora los bloqueadores del
+
+83
+00:06:28,050 --> 00:06:32,850
+calcio de hidropididínicos que en este caso el ambludipino es el más
+
+84
+00:06:32,850 --> 00:06:36,810
+importante o por no decir es el único que se usa debido a que el
+
+85
+00:06:36,810 --> 00:06:40,730
+nifedipino y el nitrendipino están absolutamente obsoletos han sido
+
+86
+00:06:40,730 --> 00:06:44,130
+completamente desplazados por el abludipino que tiene una vida media
+
+87
+00:06:44,130 --> 00:06:47,850
+mucho más larga se usa solamente una vez al día pero todavía mantiene
+
+88
+00:06:47,850 --> 00:06:51,810
+algunos efectos adversos habitualmente leves en particular puede
+
+89
+00:06:51,810 --> 00:06:55,250
+aumentar el riesgo de reflujo gastroesofágico y además puede
+
+90
+00:06:55,250 --> 00:06:57,770
+generar algo de demas y de molestias en las extremidades
+
+91
+00:06:57,770 --> 00:07:01,850
+inferiores. Por otro lado están los bloqueadores del calcio no
+
+92
+00:07:01,850 --> 00:07:04,490
+dihidropididínico en los cuales el único que se usa en la
+
+93
+00:07:04,490 --> 00:07:09,330
+práctica es el Diltiazem en el sentido en que el verapamilo que es el otro
+
+94
+00:07:09,330 --> 00:07:15,890
+no dihidropididínico él tiene muy poco efecto en la presión arterial
+
+95
+00:07:15,890 --> 00:07:20,410
+es más cardio selectivo en el sentido en que tiende más a la
+
+96
+00:07:20,410 --> 00:07:26,170
+bradicardia que a la hipotención. Ahora los efectos adversos tanto
+
+97
+00:07:26,170 --> 00:07:30,330
+del Diltiazem como del verapamilo es que pueden generar algo de
+
+98
+00:07:30,330 --> 00:07:35,010
+bradicardia. El abludipino actúa casi exclusivamente en el sistema
+
+99
+00:07:35,010 --> 00:07:38,930
+circulatorio periférico el verapamilo casi exclusivamente en el corazón
+
+100
+00:07:38,930 --> 00:07:43,930
+pero el Diltiazem puede actuar en ambos así que las bradiarridnias lo
+
+101
+00:07:43,930 --> 00:07:48,410
+contraindican y acuérdense que el Diltiazem además es útil en la
+
+102
+00:07:48,410 --> 00:07:51,810
+proteinuria en el sentido en que tendría a disminuirla igual que
+
+103
+00:07:51,810 --> 00:07:55,330
+los Yeca igual que el Ara2. Bueno un poco menos eficaz que esos
+
+104
+00:07:55,450 --> 00:08:01,050
+fármacos pero aún así puede ser un buen coadyuvante. Finalmente están
+
+105
+00:08:01,050 --> 00:08:05,050
+los inhibidores del receptor de aldosterona al menos de las
+
+106
+00:08:05,050 --> 00:08:08,170
+familias que habitualmente se usan hay algunas otras pero que se usan
+
+107
+00:08:08,170 --> 00:08:11,650
+mucho menos y en este caso el espironolactona y la eplerenona son
+
+108
+00:08:11,650 --> 00:08:14,570
+los dos que hay que saber. Sepan que son útiles en la
+
+109
+00:08:14,570 --> 00:08:19,370
+hipertensión refractaria y en la hipertensión secundaria aún hiper
+
+110
+00:08:19,370 --> 00:08:22,450
+aldosteronismo primario. Es útil también en la insuficiencia
+
+111
+00:08:22,450 --> 00:08:25,730
+cardiaca y en la CITI ¿cierto? Y acuérdense que su efecto
+
+112
+00:08:25,730 --> 00:08:28,410
+verso más importante es que tienden a la hipercalemia porque
+
+113
+00:08:28,410 --> 00:08:32,410
+son ahorradores de potasio. Ahora la gran pregunta está bien ya
+
+114
+00:08:32,410 --> 00:08:36,130
+me aprendí los anti hipertensivos pero cuál uso y la verdad es que
+
+115
+00:08:36,130 --> 00:08:39,970
+depende de las comorbilidades y depende igualmente del potasio
+
+116
+00:08:39,970 --> 00:08:42,610
+en el sentido que hay algunos que tienden a la hipercalemia como
+
+117
+00:08:42,610 --> 00:08:45,930
+los Yeca por ejemplo o los Ara2 o la espironolactona y otros
+
+118
+00:08:45,930 --> 00:08:49,330
+que tienden en cambio a la hipocalemia como los diuréticos
+
+119
+00:08:50,090 --> 00:08:54,370
+así que con eso se va decidiendo. Ahora si está todo normal no
+
+120
+00:08:54,370 --> 00:08:56,850
+tengo nada así, mi única enfermedad es que soy hipertenso
+
+121
+00:08:56,850 --> 00:09:00,890
+y nada más en ese caso se suele dejar un Yeca o un Ara2
+
+122
+00:09:00,890 --> 00:09:04,490
+cualquiera de los dos más ambrodipino o hidrochlorodiacida
+
+123
+00:09:04,490 --> 00:09:08,890
+cualquiera de los dos. Los Artan ambrodipino es lo que está
+
+124
+00:09:08,890 --> 00:09:11,210
+de moda al menos al momento de grabar este video porque se
+
+125
+00:09:11,210 --> 00:09:14,530
+toma solamente una vez al día ambos fan. Y veamos ahora unos
+
+126
+00:09:14,530 --> 00:09:17,650
+casos como para ver si esto quedó claro o no. Así que
+
+127
+00:09:17,690 --> 00:09:21,170
+empecemos con esto. Un hombre de 36 años sin antecedentes y
+
+128
+00:09:21,170 --> 00:09:23,770
+solamente tiene una hipertensión de reciente
+
+129
+00:09:23,770 --> 00:09:26,690
+diagnóstico y sus presiones arteriales en promedio son
+
+130
+00:09:26,690 --> 00:09:31,490
+140 con 92 o sea está algo elevado. Si es que hay que
+
+131
+00:09:31,490 --> 00:09:34,930
+hacer algo sería partirle los cambios en el estilo de vida
+
+132
+00:09:34,930 --> 00:09:38,010
+cierto y por lo menos un fármaco en este caso está
+
+133
+00:09:38,010 --> 00:09:40,850
+bajo de 150 a 100 así que sería aceptable que quedara
+
+134
+00:09:40,850 --> 00:09:43,050
+con un fármaco o eventualmente puede quedar con
+
+135
+00:09:43,050 --> 00:09:45,570
+dos. Si es que queda con un fármaco habría que elegir
+
+136
+00:09:46,490 --> 00:09:50,770
+o un ara 2 como los fármacos de elección y si hubiese
+
+137
+00:09:50,770 --> 00:09:53,890
+estado en cambio en 160 a 100 en ese caso no habría ninguna
+
+138
+00:09:53,890 --> 00:09:56,090
+duda de que sí hay que partirle directamente con los
+
+139
+00:09:56,090 --> 00:09:58,770
+dos fármacos. Es aceptable también partir con dos
+
+140
+00:09:58,770 --> 00:10:01,410
+fármacos de inmediato y como no tiene nada más que
+
+141
+00:10:01,410 --> 00:10:07,130
+eso los fármacos serían el yeka o el ara 2 uno de los
+
+142
+00:10:07,130 --> 00:10:10,530
+dos más el ambrodipino o el hidrochlorodiacida. A los
+
+143
+00:10:10,530 --> 00:10:15,930
+36 años con presiones 160 a 110 o 160 a 100 como en
+
+144
+00:10:15,930 --> 00:10:17,970
+ese caso habría que buscar una causa secundaria
+
+145
+00:10:17,970 --> 00:10:21,570
+también. El siguiente caso hombre 52 años con
+
+146
+00:10:21,570 --> 00:10:24,130
+antecedentes de diabetes que acuérdense que en la
+
+147
+00:10:24,130 --> 00:10:26,050
+diabetes uno era un poquito más estricto en los
+
+148
+00:10:26,050 --> 00:10:29,210
+controles y que está con hipertensión en
+
+149
+00:10:29,210 --> 00:10:31,730
+tratamiento con los artán 100 miligramos al día que
+
+150
+00:10:31,730 --> 00:10:34,170
+es una buena dosis y con presiones arteriales que
+
+151
+00:10:34,170 --> 00:10:38,690
+en promedio está con 120 a 80 uno dice para hacer un
+
+152
+00:10:38,690 --> 00:10:40,930
+diabético se le exige que esté debajo de 130 a
+
+153
+00:10:40,930 --> 00:10:44,850
+80 en estricto rigor está casi bien controlado le
+
+154
+00:10:44,850 --> 00:10:47,890
+falta el 80 que justo está en el punto de corte si
+
+155
+00:10:47,890 --> 00:10:49,970
+alguien me dice no le voy a hacer ningún ajuste y lo
+
+156
+00:10:49,970 --> 00:10:52,770
+voy a dejar así es aceptable por si acaso pero si
+
+157
+00:10:52,770 --> 00:10:55,610
+alguien quisiera hacer alguna cosa como adicional
+
+158
+00:10:55,610 --> 00:10:57,650
+por él no hay ninguna duda en que hay que agregarle
+
+159
+00:10:57,650 --> 00:11:00,570
+un segundo fármaco. Es más en un diabético no
+
+160
+00:11:00,570 --> 00:11:02,730
+queda mucha duda que idealmente tiene que estar
+
+161
+00:11:02,730 --> 00:11:05,050
+con dos fármacos en la actualidad. Si hubiese
+
+162
+00:11:05,090 --> 00:11:08,250
+estado con 134 a 86 en ese caso además habría
+
+163
+00:11:08,250 --> 00:11:10,690
+estado mal controlado porque acuérdense que en el
+
+164
+00:11:10,690 --> 00:11:12,890
+diabético hay consenso que tiene que ser presiones
+
+165
+00:11:12,890 --> 00:11:16,170
+arteriales abajo de 130 a 80 así que sin ninguna
+
+166
+00:11:16,170 --> 00:11:17,770
+duda habría que haber agregado el segundo
+
+167
+00:11:17,770 --> 00:11:21,690
+fármaco. El tercer caso una mujer de 44 años
+
+168
+00:11:21,690 --> 00:11:23,690
+que es hipertensa en tratamiento con en el
+
+169
+00:11:23,690 --> 00:11:26,370
+april 10 miligramos cada 12 horas más amlodipino
+
+170
+00:11:26,370 --> 00:11:29,570
+5 miligramos al día hasta ahí estamos bien está
+
+171
+00:11:29,570 --> 00:11:32,210
+con presiones arteriales 120 a 74 hasta ahí
+
+172
+00:11:32,250 --> 00:11:35,090
+estamos bien también pero empezó con edema en
+
+173
+00:11:35,090 --> 00:11:37,090
+los tobillos y si se acuerdan en el edema de los
+
+174
+00:11:37,090 --> 00:11:39,610
+tobillos era una complicación del amlodipino y
+
+175
+00:11:39,610 --> 00:11:41,210
+cada vez que un fármaco me genera alguna
+
+176
+00:11:41,210 --> 00:11:43,290
+complicación estoy obligado a suspenderlo y
+
+177
+00:11:43,290 --> 00:11:45,250
+cambiarlo por otro así que en este caso
+
+178
+00:11:45,250 --> 00:11:47,810
+habría que suspender el amlodipino sí o sí y
+
+179
+00:11:47,810 --> 00:11:50,610
+eventualmente evaluar el agregar hidroloro
+
+180
+00:11:50,610 --> 00:11:53,450
+tessida o algún otro fármaco que hasta puede
+
+181
+00:11:53,450 --> 00:11:56,010
+servir para el edema. En este otro caso una
+
+182
+00:11:56,010 --> 00:11:58,890
+mujer de 42 años con antecedentes de EPOC por
+
+183
+00:11:58,890 --> 00:12:01,010
+tener EPOC ya no le puedo dejar Atenolol
+
+184
+00:12:01,810 --> 00:12:03,890
+hipertensión arterial en tratamiento con en el
+
+185
+00:12:03,890 --> 00:12:06,730
+april 20 miligramos cada 12 que está bien pero
+
+186
+00:12:06,730 --> 00:12:08,410
+está con presiones que en promedio están en
+
+187
+00:12:08,410 --> 00:12:11,730
+156 con 92 pues sin ninguna duda tengo que
+
+188
+00:12:11,730 --> 00:12:14,090
+agregar un segundo fármaco ejemplo amlodipino
+
+189
+00:12:14,090 --> 00:12:17,810
+5 miligramos e incluso amlodipino 10 miligramos
+
+190
+00:12:17,810 --> 00:12:20,810
+si es que no logro que baje de los 140 a
+
+191
+00:12:20,810 --> 00:12:24,810
+90 o de los 130 a 80 según que tan exigente
+
+192
+00:12:24,810 --> 00:12:28,170
+sea en su manejo ahora que tenga EPOC a los
+
+193
+00:12:28,170 --> 00:12:30,570
+42 años es raro por su caso ojalá haya
+
+194
+00:12:30,570 --> 00:12:33,930
+dejado de fumar. Hombre 50 años con antecedentes
+
+195
+00:12:33,930 --> 00:12:36,130
+de gota e hipertensión por tener gota ya no
+
+196
+00:12:36,130 --> 00:12:38,290
+puedo dejarle un diurético cierto en
+
+197
+00:12:38,290 --> 00:12:40,650
+tratamiento con Atenolol 50 miligramos al
+
+198
+00:12:40,650 --> 00:12:42,850
+día hasta ahí es un fármaco que no es
+
+199
+00:12:42,850 --> 00:12:44,850
+habitual en la actualidad como como
+
+200
+00:12:44,850 --> 00:12:47,370
+monoterapia y está con presiones arteriales
+
+201
+00:12:47,370 --> 00:12:50,210
+que en promedio están en 150 100 dentro de
+
+202
+00:12:50,210 --> 00:12:52,850
+las opciones una sería agregar un segundo
+
+203
+00:12:52,850 --> 00:12:56,850
+fármaco ejemplo en el april o en los
+
+204
+00:12:56,850 --> 00:12:59,090
+artal la otra opción es eventualmente
+
+205
+00:12:59,090 --> 00:13:01,610
+cambiar a otro fármaco por estar con
+
+206
+00:13:01,610 --> 00:13:04,650
+presiones en 150 100 a pesar de estar ya
+
+207
+00:13:04,650 --> 00:13:07,290
+con un antipertensivo sí o sí va a quedar
+
+208
+00:13:07,290 --> 00:13:09,570
+con dos fármaco así que una de las
+
+209
+00:13:09,570 --> 00:13:10,970
+opciones sería agregar un segundo
+
+210
+00:13:10,970 --> 00:13:13,050
+fármaco y la otra es reemplazar por
+
+211
+00:13:13,050 --> 00:13:15,370
+completo el Atenolol por los otros dos
+
+212
+00:13:15,370 --> 00:13:17,250
+fármaco digase cualquiera que no
+
+213
+00:13:17,250 --> 00:13:19,450
+sea teacida así que ejemplo los
+
+214
+00:13:19,450 --> 00:13:22,490
+artal más amlodipino o en el april
+
+215
+00:13:22,490 --> 00:13:25,090
+más el mismo Atenolol por ejemplo y
+
+216
+00:13:25,090 --> 00:13:27,330
+el último una mujer de 50 años que
+
+217
+00:13:27,330 --> 00:13:28,530
+es hipertense que está en tratamiento
+
+218
+00:13:28,530 --> 00:13:31,570
+con en el april 10 milígamos cada 12
+
+219
+00:13:31,570 --> 00:13:33,090
+horas y está con presiones arteriales
+
+220
+00:13:33,090 --> 00:13:37,170
+están en 160 con 104 y que en los
+
+221
+00:13:37,170 --> 00:13:39,650
+electrolitos nos muestran un potasio
+
+222
+00:13:39,650 --> 00:13:41,850
+que está en 5,8 aquí vamos por
+
+223
+00:13:41,850 --> 00:13:43,530
+parte número uno está con una
+
+224
+00:13:43,530 --> 00:13:45,530
+hipercalemia la hipercalemia me
+
+225
+00:13:45,530 --> 00:13:47,970
+contraindica los yeka pero es una
+
+226
+00:13:47,970 --> 00:13:50,530
+hipercalemia más severa cierto arriba
+
+227
+00:13:50,530 --> 00:13:52,810
+de 6 así que en este caso si le
+
+228
+00:13:52,810 --> 00:13:54,450
+tengo que agregar alguna cosa yo le
+
+229
+00:13:54,450 --> 00:13:57,170
+agregaría hidrocloroteacida
+
+230
+00:13:57,210 --> 00:13:59,010
+porque es un buen segundo fármaco y
+
+231
+00:13:59,010 --> 00:14:01,610
+aparte porque me tiende a bajar el
+
+232
+00:14:01,610 --> 00:14:03,650
+potasio si es que hubiese estado con
+
+233
+00:14:03,650 --> 00:14:06,570
+el potasio en 3.6 en cambio no le
+
+234
+00:14:06,570 --> 00:14:08,530
+habría agregado una teacida porque me
+
+235
+00:14:08,530 --> 00:14:10,130
+va a bajar el potasio más todavía
+
+236
+00:14:10,130 --> 00:14:12,130
+sino que eventualmente o se le puede
+
+237
+00:14:12,130 --> 00:14:14,490
+subir la misma dosis del en el
+
+238
+00:14:14,490 --> 00:14:16,650
+april o idealmente se hubiese
+
+239
+00:14:16,650 --> 00:14:18,330
+agregado alguna dosis de algún otro
+
+240
+00:14:18,330 --> 00:14:20,210
+fármaco como el amlodipino por
+
+241
+00:14:20,210 --> 00:14:22,770
+ejemplo y finalmente si hubiese
+
+242
+00:14:22,770 --> 00:14:24,730
+estado con el potasio en 4.7
+
+243
+00:14:24,730 --> 00:14:26,970
+absolutamente normal pues se
+
+244
+00:14:26,970 --> 00:14:28,690
+agrega un segundo fármaco cualquiera
+
+245
+00:14:28,690 --> 00:14:31,490
+sin complicarse tanto ahora si
+
+246
+00:14:31,490 --> 00:14:34,490
+estuviera con 5.8 y alguien me dice
+
+247
+00:14:34,490 --> 00:14:36,250
+sabes que igual está tendiendo la
+
+248
+00:14:36,250 --> 00:14:38,210
+hipercalemia quiero cambiar el en el
+
+249
+00:14:38,210 --> 00:14:40,010
+april por un fármaco distinto pues
+
+250
+00:14:40,010 --> 00:14:43,010
+es algo absolutamente aceptable y se
+
+251
+00:14:43,010 --> 00:14:45,210
+puede cambiar por ejemplo a
+
+252
+00:14:45,210 --> 00:14:47,210
+amlodipino más algún otro fármaco
+
+253
+00:14:47,210 --> 00:14:49,650
+más una teacida entre otros y
+
+254
+00:14:49,650 --> 00:14:51,330
+bueno espero que haya quedado claro
+
+255
+00:14:51,330 --> 00:14:52,730
+no es tan fácil y todavía queda
+
+256
+00:14:52,730 --> 00:14:53,890
+hipertensión así que nos vemos en
+
+257
+00:14:53,890 --> 00:14:56,890
+los siguientes vídeos ánimo

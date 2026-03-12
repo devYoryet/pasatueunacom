@@ -1,0 +1,303 @@
+1
+00:00:03,150 --> 00:00:07,270
+Hola, hola, ¿cómo están? Hablemos de una de las complicaciones crónicas de la diabetes que es la
+
+2
+00:00:07,270 --> 00:00:12,510
+neuropatía diabética. Acá lo importante es conocer las clínicas de las distintas formas en
+
+3
+00:00:12,510 --> 00:00:18,030
+que se manifiestan las polineuropatías diabéticas. En primer lugar está la neuropatía
+
+4
+00:00:18,030 --> 00:00:24,830
+sensitiva o neuropatía sensitiva distalsimétrica o polineuropatía sensitiva y aquí hay que
+
+5
+00:00:24,830 --> 00:00:29,230
+recordar que hay una disminución de la sensibilidad. La sensibilidad que más se afecta
+
+6
+00:00:29,230 --> 00:00:34,550
+es la termalgésica y la vibratoria, aunque se puede afectar la sensibilidad táctil, fina,
+
+7
+00:00:34,550 --> 00:00:39,230
+la táctil, gruesa y toda la sensibilidad en general, pero la de la temperatura, la del dolor
+
+8
+00:00:39,230 --> 00:00:43,870
+y la de las vibraciones es la más frecuente y aquí es importante que se afecte la del dolor
+
+9
+00:00:43,870 --> 00:00:48,190
+en el sentido en que aumenta el riesgo de diabetes justamente porque se hace herida y
+
+10
+00:00:48,190 --> 00:00:53,950
+no le duele, no se da cuenta. En segundo lugar suele afectar la parte distal, empieza
+
+11
+00:00:53,950 --> 00:00:58,190
+como en calcetín que me afecta los pies pero eventualmente me puede afectar las manos
+
+12
+00:00:58,190 --> 00:01:03,270
+también y ahí uno habla de una distribución en guantes y calcetín o sea de predominio distal.
+
+13
+00:01:03,270 --> 00:01:07,950
+Aparte de esto puede venir no solamente con alteraciones sensitivas sino que con atrofia
+
+14
+00:01:07,950 --> 00:01:14,190
+muscular distal o con atrofia cutánea distal en el sentido en que si bien la parte sensitiva
+
+15
+00:01:14,190 --> 00:01:18,870
+es el núcleo de la clínica se afecta la parte motora también porque se afecta el nervio
+
+16
+00:01:18,870 --> 00:01:24,350
+periférico en general. En segundo lugar está la neuropatía dolorosa que puede venir con
+
+17
+00:01:24,350 --> 00:01:29,310
+toda la clínica sensitiva que vimos antes pero se agrega este dolor de características
+
+18
+00:01:29,310 --> 00:01:34,990
+urentes con alodinia y con hiperalgesia que es lo que se conoce en general como un dolor
+
+19
+00:01:34,990 --> 00:01:41,070
+de tipo neuropático. Recordemos que urente es que quema, que alodinia es que se genera
+
+20
+00:01:41,070 --> 00:01:46,310
+dolor con un estímulo generalmente no doloroso como ejemplo el roce y la hiperalgesia
+
+21
+00:01:46,310 --> 00:01:50,870
+es que se genera dolor con un estímulo habitualmente doloroso pero la intensidad
+
+22
+00:01:50,870 --> 00:01:57,830
+del dolor generado es mucho mayor al estímulo así ejemplo lo pellizco o lo pincho con algo y
+
+23
+00:01:57,830 --> 00:02:02,470
+le duele demasiado. Todas esas cosas sugieren dolor neuropático que se ve no solamente en
+
+24
+00:02:02,470 --> 00:02:07,950
+la neuropatía diabética sino que en otras neuropatías como ejemplo en la neuropatía
+
+25
+00:02:07,950 --> 00:02:15,830
+posherpética. Ahora la amiotrófica como su nombre lo dice viene con atrofia muscular y
+
+26
+00:02:15,830 --> 00:02:21,390
+no solamente la distal sino que habitualmente con atrofia más proximal dígase atrofia de los
+
+27
+00:02:21,390 --> 00:02:29,510
+cuadriceps de los músculos de la extremidad superior por ejemplo etcétera. Ahora no son
+
+28
+00:02:29,510 --> 00:02:33,710
+las únicas también están las neuropatías por atrapamiento que la más clásica es el
+
+29
+00:02:33,710 --> 00:02:38,790
+túnel carpiano o el síndrome de atrapamiento cubital en específico el túnel carpiano se
+
+30
+00:02:38,790 --> 00:02:43,750
+asocia fuertemente a diabetes por si acaso el cubital también un poquito aunque el
+
+31
+00:02:43,790 --> 00:02:49,790
+carpiano es el más frecuente y finalmente tengo las neuropatías de tipo cranial dentro de las
+
+32
+00:02:49,790 --> 00:02:55,150
+cuales asociadas a diabetes la más frecuente es la parálisis del tercer par o nervio o
+
+33
+00:02:55,150 --> 00:03:00,070
+culo motor y aparte de eso se pueden afectar los otros nervios o culo motores dígase el
+
+34
+00:03:00,070 --> 00:03:06,670
+cuarto que se llama igualmente el nervio troclear y el sexto que se llama el nervio
+
+35
+00:03:06,670 --> 00:03:12,470
+abducens o abducente. Ahora tercero cuarto y sexto todos son o culo motores pero el que
+
+36
+00:03:12,510 --> 00:03:17,470
+se llama o culo motor es el tercero por si acaso recordemos bien rápido la parálisis del tercer
+
+37
+00:03:17,470 --> 00:03:21,910
+par habitualmente viene con imposibilidad de ver hacia arriba hacia abajo y hacia medial así
+
+38
+00:03:21,910 --> 00:03:27,670
+que el ojo habitualmente se me va hacia lateral y se genera un poco de tosis más un poco de
+
+39
+00:03:27,670 --> 00:03:32,790
+midriasis eso lo vamos a ver con más detalle en neuro por si acaso pero solamente para
+
+40
+00:03:32,790 --> 00:03:37,150
+recordarlo. El cuarto par es la imposibilidad de ver hacia infero medial así que lo que se
+
+41
+00:03:37,150 --> 00:03:42,590
+me puede ir un poquito hacia atrás y el sexto par es imposibilidad de ver hacia lateral así
+
+42
+00:03:42,590 --> 00:03:47,710
+que habitualmente el ojo se me va un poquito hacia adentro. Ahora cómo se diagnostica la
+
+43
+00:03:47,710 --> 00:03:52,230
+neuropatía diabética el diagnóstico es absolutamente clínico y por eso es tan
+
+44
+00:03:52,230 --> 00:03:56,630
+importante conocer las clínicas y saber diferenciarlas ahora cuando me queda la
+
+45
+00:03:56,630 --> 00:04:01,630
+duda eventualmente si le puedo solicitar un examen que es la electromiografía que
+
+46
+00:04:01,750 --> 00:04:07,310
+evalúa el funcionamiento del nervio del nervio periférico y me confirma el diagnóstico pero que
+
+47
+00:04:07,310 --> 00:04:12,030
+quede bien claro el diagnóstico clínico habitualmente es el más importante el tratamiento
+
+48
+00:04:12,030 --> 00:04:17,070
+de la neuropatía diabética por la general es cuidar los pies eso es muy importante en el
+
+49
+00:04:17,070 --> 00:04:22,310
+sentido en que se complica con pie diabético segundo lugar el control metabólico el manejo
+
+50
+00:04:22,310 --> 00:04:28,030
+de la diabetes sabiendo que las neuropatías son algo irreversibles pero eventualmente esto
+
+51
+00:04:28,030 --> 00:04:34,110
+sí me puede ayudar a evitar la progresión y podría mejorar un poquito los síntomas finalmente
+
+52
+00:04:34,110 --> 00:04:41,110
+el manejo del dolor cuando viene con el dolor neuropático existen varios fármacos que son
+
+53
+00:04:41,110 --> 00:04:45,990
+eficaces en esto y son los moduladores del dolor no me sirve el paracetamol ni los
+
+54
+00:04:45,990 --> 00:04:51,910
+sáines ni los corticoides o sea no me sirven los analgésicos estándar sino que tengo
+
+55
+00:04:51,910 --> 00:04:59,430
+que usar estos moduladores del dolor neuropático o estabilizadores del nervio periférico dentro
+
+56
+00:04:59,430 --> 00:05:04,030
+de los cuales los más importantes actualmente son algunos antidepresivos duales como la
+
+57
+00:05:04,030 --> 00:05:10,590
+bellafaxina o la duloxetina que ambos actúan por varios neurotransmisores pero en particular
+
+58
+00:05:10,590 --> 00:05:15,470
+por la vía serotoninérgica que si se acuerdan eran de segunda línea en el tratamiento de la
+
+59
+00:05:15,470 --> 00:05:22,270
+depresión aparte de eso los clásicos moduladores del dolor neuropático gaba que
+
+60
+00:05:22,270 --> 00:05:27,350
+son la gaba pentina y la pregabalina y finalmente todavía se pueden usar los antidepresivos
+
+61
+00:05:27,350 --> 00:05:32,750
+triciclicos en dosis bajas son eficaces no hay diferencia entre los medicamentos que están
+
+62
+00:05:32,750 --> 00:05:36,590
+acá los tricíclicos son mucho más baratos que la bellafaxina pero acuérdense que no
+
+63
+00:05:36,590 --> 00:05:41,110
+se pueden usar en adulto mayor así que habitualmente están reservados a pacientes
+
+64
+00:05:41,110 --> 00:05:46,590
+jóvenes que pueden seguir esto y que tienen un bajo riesgo de cardio toxicidad por los triciclicos
+
+65
+00:05:46,590 --> 00:05:53,070
+ahora la otra pregunta que hay es le dejo insulina a una neuropatía diabética y la verdad
+
+66
+00:05:53,070 --> 00:05:58,390
+que no está demostrado que per se sea una indicación pero se suele dejar en la neuropatía
+
+67
+00:05:58,390 --> 00:06:05,390
+dolorosa y en la neuropatía amiotrófica en el sentido en que me sirve para ganar peso y
+
+68
+00:06:05,390 --> 00:06:10,550
+recuperar la atrofia muscular y eventualmente me acelera el control metabólico que me
+
+69
+00:06:10,550 --> 00:06:14,710
+podría disminuir un poco el dolor también sabiendo que lo fundamental van a ser estos
+
+70
+00:06:14,710 --> 00:06:19,670
+fármacos estabilizadores de la conducción nerviosa finalmente en el caso de las neuropatías
+
+71
+00:06:19,670 --> 00:06:25,190
+por atrapamiento ya sea en contexto de diabetes o por alguna otra razón por la general se
+
+72
+00:06:25,190 --> 00:06:31,190
+operan se descomprimen mediante una cirugía de liberación en el caso del túnel carpiano
+
+73
+00:06:31,190 --> 00:06:36,830
+se corta el retináculo flexor pero sepan que hay algunos casos en que responden bien a la
+
+74
+00:06:37,590 --> 00:06:43,870
+quinezioterapia más un buen control metabólico y sepan que en ese caso sí suele indicarse la
+
+75
+00:06:43,870 --> 00:06:49,030
+electromiografía como para estar seguro en qué lugar está el atrapamiento antes de ir a
+
+76
+00:06:49,030 --> 00:06:54,470
+descomprimir quirúrgicamente y bueno eso fue todo de este tema un tema corto pero importante

@@ -1,0 +1,231 @@
+1
+00:00:00,000 --> 00:00:07,020
+Ya vimos cómo se diagnosticaba la artritis romatoide, veamos ahora el
+
+2
+00:00:07,020 --> 00:00:09,900
+manejo, el tratamiento que hay que saberlo como médico general por su
+
+3
+00:00:09,900 --> 00:00:13,940
+caso, y a grandes rasgos el tratamiento de la artritis romatoide es con un
+
+4
+00:00:13,940 --> 00:00:18,020
+conjunto de fármacos que se llaman las drogas modificadoras de la artritis
+
+5
+00:00:18,020 --> 00:00:23,220
+romatoide o DMARS, que la gente los abrevia como o nos menciona como los
+
+6
+00:00:23,220 --> 00:00:26,900
+DMARS, pero está en español es drogas modificadoras de artritis
+
+7
+00:00:26,900 --> 00:00:31,380
+romatoide, así que se llaman DMARS nomás. ¿Cuál es el más importante?
+
+8
+00:00:31,380 --> 00:00:36,740
+El metotrexate es el de elección de primera línea y se deja una dosis a la
+
+9
+00:00:36,740 --> 00:00:39,820
+semana, o sea es un fármaco relativamente fácil de tomar y que
+
+10
+00:00:39,820 --> 00:00:43,900
+como su nombre lo dice modifica radicalmente la evolución de esta
+
+11
+00:00:43,900 --> 00:00:48,380
+enfermedad, haciendo que los síntomas sean mucho menos intensos y evitando
+
+12
+00:00:48,380 --> 00:00:52,820
+que evolucione al daño articular, mejorando la calidad de vida y
+
+13
+00:00:52,820 --> 00:00:55,780
+mejorando la sobrevida además, o sea en el fondo es un fármaco que sirve
+
+14
+00:00:55,780 --> 00:01:00,020
+bastante. Cuando no son suficientes, cuando no anda bien, pues habitualmente
+
+15
+00:01:00,180 --> 00:01:05,780
+se agrega un segundo fármaco o bien se cambia con mayor frecuencia por un
+
+16
+00:01:05,780 --> 00:01:09,620
+segundo fármaco, que vamos a ver la lista después, cuando con esto no es
+
+17
+00:01:09,620 --> 00:01:13,140
+suficiente, pues habitualmente ahí sí ya se empiezan a mezclar ya sea dos
+
+18
+00:01:13,140 --> 00:01:16,740
+o tres fármacos, o sea siempre empiezo con metotrexate, segunda
+
+19
+00:01:16,740 --> 00:01:21,140
+línea otro DMARS, tercera línea dos o tres de estos fármacos que están
+
+20
+00:01:21,140 --> 00:01:25,020
+mezclados, ¿cierto? Y de última línea está la terapia biológica con
+
+21
+00:01:25,340 --> 00:01:29,980
+distintos anticuerpos monoclonales, en particular los anti TNF alfa,
+
+22
+00:01:29,980 --> 00:01:34,260
+¿cierto? ¿Cuáles son los DMARS que hay que saber? El metotrexate ya
+
+23
+00:01:34,260 --> 00:01:37,340
+dijimos el más importante de elección, pero que está contradicado,
+
+24
+00:01:37,340 --> 00:01:41,100
+por ejemplo, en el embarazo. Aparte de esto hay una lista bastante
+
+25
+00:01:41,100 --> 00:01:45,420
+larga que vale la pena saber al menos cuáles son y saber que son
+
+26
+00:01:45,420 --> 00:01:48,980
+inmunomoduladores que se usan en otras enfermedades también, como
+
+27
+00:01:48,980 --> 00:01:54,260
+la acetiboprina, el micofenolato, el leflunomide, la sulfasalacina y
+
+28
+00:01:54,300 --> 00:01:57,380
+la hidroxicloroquina, que es el más antiguo de estos fármacos por
+
+29
+00:01:57,380 --> 00:02:02,780
+su caso. Los biológicos habitualmente son inhibidores del receptor
+
+30
+00:02:02,780 --> 00:02:06,580
+del TNF alfa, son anticuerpos monoclonales que lo atacan y lo
+
+31
+00:02:06,580 --> 00:02:11,940
+más importante son el etanercept, el adalimumaf y finalmente el
+
+32
+00:02:11,940 --> 00:02:15,020
+infliximaf, aunque hay otros también que pueden ser útiles
+
+33
+00:02:15,020 --> 00:02:19,540
+también. En Chile estos fármacos sí se dan, al menos están en
+
+34
+00:02:19,540 --> 00:02:23,340
+la ley ricartezoto y además la artritis rhumatoide es una
+
+35
+00:02:23,380 --> 00:02:26,260
+patología auge, así que hay que saber que en la práctica sí puede
+
+36
+00:02:26,260 --> 00:02:31,060
+llegar a un paciente que está con un cuadro, pero que quede claro
+
+37
+00:02:31,060 --> 00:02:34,980
+que no haya respondido bien al metotrexate y a los demás
+
+38
+00:02:34,980 --> 00:02:39,220
+fármacos porque los biológicos son muy caros y su problema
+
+39
+00:02:39,220 --> 00:02:42,180
+fundamental es el tema del financiamiento en el sistema de
+
+40
+00:02:42,180 --> 00:02:46,220
+salud. Ahora, ¿qué es lo que pasa en el embarazo que dijimos
+
+41
+00:02:46,220 --> 00:02:49,780
+que estaban conreindicados los dimars, en particular, el
+
+42
+00:02:49,780 --> 00:02:51,980
+metotrexate y la verdad es que tienden a estar como
+
+43
+00:02:51,980 --> 00:02:54,340
+contraindicados los demás también, en la práctica se
+
+44
+00:02:54,340 --> 00:02:57,220
+manejan con fármacos biológicos por si acaso. Y segundo
+
+45
+00:02:57,220 --> 00:03:00,140
+lugar, ¿qué pasa con el tratamiento sintomático que no
+
+46
+00:03:00,140 --> 00:03:02,780
+lo mencionamos ahí? Pues hay que saberlo, además para el
+
+47
+00:03:02,780 --> 00:03:06,300
+manejo del dolor se pueden dejar paracetamol, aignes y
+
+48
+00:03:06,300 --> 00:03:08,900
+corticoides, o sea el tratamiento de la artritis
+
+49
+00:03:08,900 --> 00:03:11,420
+rhumatoide es lo más importante sobre las drogas
+
+50
+00:03:11,420 --> 00:03:14,140
+modificadoras, pero eso no quiere decir que se le dejen
+
+51
+00:03:14,140 --> 00:03:16,900
+los otros fármacos para el manejo sintomático, pero
+
+52
+00:03:16,900 --> 00:03:19,460
+que quede claro, los corticoides modifican la
+
+53
+00:03:19,500 --> 00:03:23,140
+enfermedad, no solamente me sirven para los síntomas y por
+
+54
+00:03:23,140 --> 00:03:25,940
+lo tanto no son el tratamiento más importante. El más
+
+55
+00:03:25,940 --> 00:03:29,220
+importante, repito, y con que se aprendan eso y se le
+
+56
+00:03:29,220 --> 00:03:32,620
+scale en lo más profundo son las drogas modificadoras y
+
+57
+00:03:32,620 --> 00:03:35,660
+de última línea los fármacos biológicos. Dejemos
+
+58
+00:03:35,660 --> 00:03:37,540
+esta clase hasta acá, nos vemos en el siguiente video.

@@ -1,0 +1,207 @@
+1
+00:00:00,000 --> 00:00:07,720
+Hola, ¿cómo están? Veamos muy brevemente la estenosis carotidia recordando que su
+
+2
+00:00:07,720 --> 00:00:11,760
+clínica por el general es absolutamente asintomática y se ve
+
+3
+00:00:11,760 --> 00:00:15,680
+simplemente como un hallazgo en una ecografía de cuello que se pide por
+
+4
+00:00:15,680 --> 00:00:21,240
+alguna otra causa, ejemplo en el estudio de la patología de tiroides entre
+
+5
+00:00:21,240 --> 00:00:24,960
+otras. Ahora, a veces se ve como un soplo cervical y acuérdense en
+
+6
+00:00:24,960 --> 00:00:28,760
+particular en pacientes con factores de riesgo cardiovascular que es parte
+
+7
+00:00:28,760 --> 00:00:33,480
+del examen físico, el ocultar el cuello y finalmente en algunos casos ya más
+
+8
+00:00:33,480 --> 00:00:37,600
+graves, ¿cierto? Se manifiesta con sus clásicos síntomas que son los
+
+9
+00:00:37,600 --> 00:00:42,920
+accidentes cerebrovascular, ya sea un accidente químico transitorio o un
+
+10
+00:00:42,920 --> 00:00:47,840
+accidente vascular encefálico que puede quedar o no secuelado según cómo
+
+11
+00:00:47,840 --> 00:00:52,000
+se maneje. En ambos casos, ya sea que encuentre un soplo cervical o que
+
+12
+00:00:52,000 --> 00:00:54,800
+venga con síntomas neurológicos, ¿cierto? En ambos casos yo
+
+13
+00:00:54,800 --> 00:00:59,280
+dirigidamente debo ir a buscar la fuente embólica y dentro de eso se
+
+14
+00:00:59,280 --> 00:01:03,920
+busca si es que hay una estenosis carotidia. El diagnóstico de esta
+
+15
+00:01:03,920 --> 00:01:07,640
+estenosis carotidia se hace con la ecografía Doppler de carotidas o
+
+16
+00:01:07,640 --> 00:01:12,240
+ecografía Doppler de cuello y va a confirmar el diagnóstico si es que hay
+
+17
+00:01:12,240 --> 00:01:15,800
+una estenosis, pero no de cualquier valor, tiene que ser al menos del
+
+18
+00:01:15,800 --> 00:01:19,840
+50%. Así que está debajo de eso, uno habla de una estenosis no
+
+19
+00:01:19,840 --> 00:01:24,120
+significativa. Desde el 50%, en cambio, se habla de una estenosis
+
+20
+00:01:24,120 --> 00:01:28,680
+significativa o una estenosis propiamente tal. Ahora, ¿cuál es el
+
+21
+00:01:28,680 --> 00:01:33,040
+tratamiento de la estenosis carotidia? Por lo general es el darle
+
+22
+00:01:33,040 --> 00:01:36,720
+estatinas más el manejo de los factores de rego cardiovascular,
+
+23
+00:01:36,720 --> 00:01:41,240
+aspirina, etcétera, más la endarterectomía, pero hay que saber
+
+24
+00:01:41,240 --> 00:01:45,200
+cuáles son las indicaciones específicas de la endarterectomía
+
+25
+00:01:45,200 --> 00:01:48,560
+carotidia que lo que hace es justamente abrir la carotida y sacar
+
+26
+00:01:48,560 --> 00:01:52,680
+esta placa de ateroma que está produciendo la obstrucción y es
+
+27
+00:01:52,680 --> 00:01:56,840
+número uno que venga con una estenosis asintomática mayor o igual a
+
+28
+00:01:56,840 --> 00:02:01,280
+70% y segundo lugar que venga con síntomas con un accidente
+
+29
+00:02:01,280 --> 00:02:04,160
+químico transitorio o con un accidente vascular encefálico. Así
+
+30
+00:02:04,160 --> 00:02:08,280
+que repito, ¿cuáles son las dos indicaciones de endarterectomía?
+
+31
+00:02:08,280 --> 00:02:11,760
+Que es lo único que hay que saber, que en el Doppler me muestre una
+
+32
+00:02:11,760 --> 00:02:16,160
+estenosis arriba de 70% o bien que sea una estenosis significativa
+
+33
+00:02:16,160 --> 00:02:20,280
+arriba de 50% más que venga con los síntomas neurológicos de
+
+34
+00:02:20,280 --> 00:02:23,720
+esquemia cerebral. Veamos un par de casos como para que no quede
+
+35
+00:02:23,720 --> 00:02:27,160
+ninguna duda, si es que viene con un accidente vascular encefálico
+
+36
+00:02:27,160 --> 00:02:29,960
+de tipo isquémico, en el sentido que si es de tipo hemorrágico
+
+37
+00:02:29,960 --> 00:02:33,560
+obviamente no es por esto, pero si es que fuera de tipo isquémico
+
+38
+00:02:33,560 --> 00:02:36,640
+y al momento de hacer el estudio de fuente embólica viene con
+
+39
+00:02:36,640 --> 00:02:41,400
+una estenosis de un 20%, en ese caso yo digo es una estenosis
+
+40
+00:02:41,400 --> 00:02:44,880
+no significativa y la conducta es seguir buscando la fuente
+
+41
+00:02:44,880 --> 00:02:48,480
+embólica porque no era la causa esta estenosis porque está
+
+42
+00:02:48,480 --> 00:02:51,680
+abajo de 50%. Si es que en cambio viene con un accidente
+
+43
+00:02:51,680 --> 00:02:56,200
+vascular encefálico y con una estenosis de 60% en ese caso
+
+44
+00:02:56,200 --> 00:02:59,760
+si se confirma el diagnóstico, ¿cierto? Y además sería
+
+45
+00:02:59,760 --> 00:03:04,040
+indicación de una endarterectomía de las carotias en
+
+46
+00:03:04,040 --> 00:03:08,520
+cuanto a que si yo puedo atribuirle la causalidad del
+
+47
+00:03:08,520 --> 00:03:11,480
+accidente vascular a esta estenosis. O sea que quede bien
+
+48
+00:03:11,480 --> 00:03:15,720
+claro, repito, lo más importante de esta clase es
+
+49
+00:03:15,760 --> 00:03:19,240
+justamente eso, arriba de 70% o que venga con síntomas,
+
+50
+00:03:19,240 --> 00:03:22,120
+pero que además cumpla con el criterio de ser una estenosis
+
+51
+00:03:22,120 --> 00:03:25,360
+significativa de 50% más. Y bueno, eso es todo lo que hay
+
+52
+00:03:25,360 --> 00:03:27,360
+que saber. Nos vemos en el siguiente tema.

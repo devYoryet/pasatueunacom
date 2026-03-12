@@ -1,0 +1,399 @@
+1
+00:00:03,580 --> 00:00:04,540
+Hola, hola, cómo están?
+
+2
+00:00:04,540 --> 00:00:08,140
+En este video vamos a hablar de los primeros temas de neuro oftalmología.
+
+3
+00:00:08,340 --> 00:00:11,980
+En específico vamos a hablar de las lesiones de la vía visual,
+
+4
+00:00:11,980 --> 00:00:14,820
+que es algo bastante sencillo, pero que también es fácil confundirse.
+
+5
+00:00:15,140 --> 00:00:16,820
+Así que empecemos con un esquema.
+
+6
+00:00:16,820 --> 00:00:19,180
+Imagínense, esos son los ojos.
+
+7
+00:00:19,180 --> 00:00:21,580
+Ahí está los nervios ópticos.
+
+8
+00:00:21,580 --> 00:00:25,380
+Acuérdense que la parte medial del nervio óptico se decusa
+
+9
+00:00:25,380 --> 00:00:29,060
+y la parte medial es la que trae información de las retinas mediales.
+
+10
+00:00:29,340 --> 00:00:31,860
+En cambio, la parte lateral del nervio óptico
+
+11
+00:00:31,860 --> 00:00:34,140
+que trae información de las retinas laterales,
+
+12
+00:00:34,140 --> 00:00:36,900
+esa se mantiene y lateral y toda esta información
+
+13
+00:00:36,900 --> 00:00:40,980
+llega finalmente al lóbulo occipital, que es en donde se procesa
+
+14
+00:00:41,340 --> 00:00:43,260
+la información visual.
+
+15
+00:00:43,260 --> 00:00:47,100
+Aparte de esto, recuerden que el campo visual viene invertido
+
+16
+00:00:47,100 --> 00:00:50,500
+respecto a las retinas, porque todo el efecto del cristalino
+
+17
+00:00:50,500 --> 00:00:54,380
+y los demás lentas del ojo, acuérdense que producen
+
+18
+00:00:54,380 --> 00:00:56,100
+una inversión de la imagen.
+
+19
+00:00:56,100 --> 00:00:59,860
+Por lo tanto, la información que que recibe las retinas mediales
+
+20
+00:00:59,860 --> 00:01:03,300
+es la información lateral del campo visual y viceversa.
+
+21
+00:01:03,780 --> 00:01:07,980
+Ahora, como cosa final, que es donde mucha gente se confunde,
+
+22
+00:01:08,300 --> 00:01:12,820
+el campo visual cuando se escribe o cuando se informa en alguna parte
+
+23
+00:01:13,100 --> 00:01:16,500
+la que está al lado derecho del observador es justamente
+
+24
+00:01:16,740 --> 00:01:18,220
+el campo visual del ojo derecho.
+
+25
+00:01:18,220 --> 00:01:21,260
+O sea, no es como cuando uno ve a un paciente o una radiografía
+
+26
+00:01:21,540 --> 00:01:24,460
+en que habitualmente uno está acostumbrado a ver a los pacientes de frente
+
+27
+00:01:24,700 --> 00:01:28,780
+y que lo que ellos tienen al lado izquierdo está a nuestro lado derecho.
+
+28
+00:01:28,980 --> 00:01:29,820
+En este caso, no.
+
+29
+00:01:29,820 --> 00:01:33,820
+En este caso, el campo visual que se ve a su lado derecho
+
+30
+00:01:33,820 --> 00:01:36,220
+es el campo visual derecho del paciente que fue evaluado.
+
+31
+00:01:36,620 --> 00:01:40,220
+Así que ahí estaría el nervio óptico, el quiasma, la cintilla
+
+32
+00:01:40,220 --> 00:01:41,740
+y atrás el lóbulo occipital.
+
+33
+00:01:41,740 --> 00:01:43,580
+Y para que quede claro, vamos a ver bien
+
+34
+00:01:43,580 --> 00:01:46,540
+cómo se vería una lesión en cada uno de estos puntos,
+
+35
+00:01:46,780 --> 00:01:49,740
+tomando en cuenta que el lado derecho va a ser el lado de ella
+
+36
+00:01:49,740 --> 00:01:52,700
+y el lado izquierdo va a ser el lado de acá, igual que la forma
+
+37
+00:01:52,700 --> 00:01:56,860
+en que ustedes van a estar viéndolo desde su propio lado derecho izquierdo.
+
+38
+00:01:57,820 --> 00:02:00,700
+Si tengo una lesión a nivel del nervio óptico,
+
+39
+00:02:00,700 --> 00:02:03,140
+obviamente se me afectan ambas retinas de ese ojo
+
+40
+00:02:03,140 --> 00:02:05,500
+o al menos la información que viene de ambas retinas de ese ojo
+
+41
+00:02:05,860 --> 00:02:07,980
+y simplemente no ve nada por ese campo visual.
+
+42
+00:02:07,980 --> 00:02:11,100
+Así que se ve como una amaurosis y lateral.
+
+43
+00:02:11,100 --> 00:02:13,020
+Así lesión de nervio óptico.
+
+44
+00:02:13,020 --> 00:02:16,300
+En este caso derecho me produce una amaurosis derecha.
+
+45
+00:02:17,060 --> 00:02:19,460
+Si es que lo que se daña es el quiasma óptico.
+
+46
+00:02:19,460 --> 00:02:22,620
+Ahí acuérdense, se va a afectar la información que viene
+
+47
+00:02:23,380 --> 00:02:26,540
+de la parte medial del nervio óptico que recibe a su vez
+
+48
+00:02:26,540 --> 00:02:28,980
+esa información de la parte medial de las retinas.
+
+49
+00:02:29,220 --> 00:02:33,380
+Así que lo que se afecta es el campo visual contralateral de la parte medial,
+
+50
+00:02:33,380 --> 00:02:35,900
+o sea, la parte temporal de ambos ojos.
+
+51
+00:02:35,900 --> 00:02:38,740
+O sea, habría una hemianopsia bitemporal.
+
+52
+00:02:39,100 --> 00:02:41,700
+Acuérdense que la lesión de quiama es característica
+
+53
+00:02:41,700 --> 00:02:45,460
+de los tumores de hipófisis y no siempre es completa.
+
+54
+00:02:45,460 --> 00:02:48,660
+A veces se ve simplemente una cuadrantopsia bitemporal
+
+55
+00:02:48,860 --> 00:02:51,500
+y eso igualmente es algo patognomónico de una lesión de quiama.
+
+56
+00:02:52,380 --> 00:02:55,420
+En el caso de que haya una lesión retroquiasmática,
+
+57
+00:02:55,540 --> 00:02:59,300
+ejemplo de la cintilla óptica, en ese caso se afectan
+
+58
+00:02:59,540 --> 00:03:03,660
+solamente un lado de la retina, solamente un lado del nervio óptico
+
+59
+00:03:03,900 --> 00:03:06,860
+y obviamente se afecta el campo visual contralateral.
+
+60
+00:03:06,860 --> 00:03:10,140
+Así que habitualmente una lesión de la cintilla óptica izquierda
+
+61
+00:03:10,140 --> 00:03:13,340
+en este caso se traduce en una lesión
+
+62
+00:03:14,060 --> 00:03:17,300
+o un defecto del campo visual con una hemianopsia homónima
+
+63
+00:03:17,620 --> 00:03:18,820
+del lado derecho.
+
+64
+00:03:18,820 --> 00:03:21,260
+Así que ya saben, lesiones retroquiasmáticas
+
+65
+00:03:21,260 --> 00:03:24,780
+producen hemianopsias homónimas contralaterales.
+
+66
+00:03:24,980 --> 00:03:27,340
+Se llaman homónimas porque son derecha en ambos ojos.
+
+67
+00:03:28,060 --> 00:03:32,100
+Ahora, en el caso de una lesión de el lóbulo occipital,
+
+68
+00:03:32,380 --> 00:03:35,060
+pues igualmente es una lesión retroquiasmática,
+
+69
+00:03:35,060 --> 00:03:38,340
+así que nuevamente se va a ver como una hemianopsia homónima
+
+70
+00:03:38,340 --> 00:03:41,740
+contralateral. En este caso es el lóbulo occipital izquierdo,
+
+71
+00:03:41,740 --> 00:03:45,340
+así que se produce una hemianopsia homónima derecha.
+
+72
+00:03:45,940 --> 00:03:49,740
+Entonces, en resumen, la lesión del nervio óptico me produce
+
+73
+00:03:49,740 --> 00:03:51,900
+una amaurosis y lateral.
+
+74
+00:03:51,900 --> 00:03:55,140
+La del quiasma óptico me produce una hemianopsia
+
+75
+00:03:55,140 --> 00:03:57,580
+o una cuadrantopsia bitemporal.
+
+76
+00:03:57,580 --> 00:04:01,980
+Las lesiones retroquiasmáticas, ya sea de la cintilla óptica,
+
+77
+00:04:01,980 --> 00:04:05,500
+de la radiación óptica o del lóbulo occipital me producen
+
+78
+00:04:05,500 --> 00:04:07,860
+hemianopsias homónimas contralaterales o bien
+
+79
+00:04:08,540 --> 00:04:10,940
+una cuadrantopsia homónima contralateral.
+
+80
+00:04:11,100 --> 00:04:13,340
+O sea, puede ser una lesión incompleta.
+
+81
+00:04:13,820 --> 00:04:16,940
+Y la última cosa que se pregunta con cierta frecuencia
+
+82
+00:04:17,260 --> 00:04:20,140
+es qué es esto de congruente versus no congruente
+
+83
+00:04:20,140 --> 00:04:23,780
+que se refiere a qué tan parecido es el defecto en el ojo derecho
+
+84
+00:04:23,780 --> 00:04:25,100
+con el ojo izquierdo.
+
+85
+00:04:25,100 --> 00:04:29,740
+Es más congruente mientras más se parece la hemianopsia en ambos ojos,
+
+86
+00:04:29,740 --> 00:04:32,460
+mientras más se parece el defecto visual en ambos ojos.
+
+87
+00:04:32,460 --> 00:04:34,060
+En cambio, es no congruente.
+
+88
+00:04:34,060 --> 00:04:36,820
+Ejemplo, si es que en una viene con una cuadrantopsia superior
+
+89
+00:04:37,100 --> 00:04:40,420
+y en la otra con una hemianopsia completa o con una cuadrantopsia inferior
+
+90
+00:04:40,980 --> 00:04:45,540
+y mientras más congruente es, pues más cercano el lóbulo occipital está
+
+91
+00:04:45,860 --> 00:04:49,580
+y mientras menos congruente es, pues más cercano a la cintilla,
+
+92
+00:04:49,580 --> 00:04:53,220
+a la parte más anterior está y al medio está obviamente la radiación.
+
+93
+00:04:53,700 --> 00:04:57,260
+O sea, en resumen, la congruencia me sirve como un elemento clínico
+
+94
+00:04:57,260 --> 00:05:00,660
+como para ver qué tan atrás del que es más óptico está esta lesión,
+
+95
+00:05:00,660 --> 00:05:03,340
+aunque en la práctica, la verdad, en todos estos casos
+
+96
+00:05:03,340 --> 00:05:06,180
+se termina haciendo una resonancia magnética de cerebro, cierto?
+
+97
+00:05:06,180 --> 00:05:08,900
+Y con eso se ve finalmente qué lesionada y en dónde está
+
+98
+00:05:08,900 --> 00:05:10,620
+y cuál es la causa, etcétera.
+
+99
+00:05:10,620 --> 00:05:11,340
+Y eso es todo.
+
+100
+00:05:11,340 --> 00:05:15,140
+En los siguientes videos vamos a profundizar en otros temas de neuro oftalmología.

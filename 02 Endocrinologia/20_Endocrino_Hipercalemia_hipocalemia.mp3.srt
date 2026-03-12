@@ -1,0 +1,251 @@
+1
+00:00:00,000 --> 00:00:06,890
+Hola, hola, ¿cómo están? Hablemos de la hiperprolactinemia, recordando que su
+
+2
+00:00:06,890 --> 00:00:10,650
+clínica es distinta según si es que es un hombre o una mujer. En las mujeres se
+
+3
+00:00:10,650 --> 00:00:15,330
+ve con el clásico cuadro de amenorrea galactorrea, o sea, no menstrua y
+
+4
+00:00:15,330 --> 00:00:20,210
+vienen con secreción de leche por las glándulas mamarias. En cambio, los
+
+5
+00:00:20,210 --> 00:00:24,650
+hombres no tienen útero, así que no menstruan y aparte de esto no tienen
+
+6
+00:00:24,650 --> 00:00:27,850
+estrógenos como para que esté lista la glándula mamaria y por lo tanto
+
+7
+00:00:27,850 --> 00:00:32,450
+tampoco tienen galactorrea. En general se ven simplemente como un hipogonadismo
+
+8
+00:00:32,450 --> 00:00:36,610
+y por lo mismo en todo hombre con un cuadro de hipogonadismo uno de los
+
+9
+00:00:36,610 --> 00:00:41,770
+exámenes a pedir de primera línea es la prolactina. En resumen, astenia,
+
+10
+00:00:41,770 --> 00:00:46,610
+disminución del alivio, difunción eréctil, son los síntomas más frecuentes
+
+11
+00:00:46,610 --> 00:00:51,530
+junto con la pérdida del vello corporal, entre otras. Dentro de las
+
+12
+00:00:51,530 --> 00:00:54,850
+causas hay que saber que hay dos que son las más importantes. Número uno
+
+13
+00:00:54,850 --> 00:00:58,530
+los fármacos y dentro de los fármacos los más importantes son los
+
+14
+00:00:58,530 --> 00:01:02,330
+antidopaminérgicos que los dos grupos de antidopaminérgicos que hay que
+
+15
+00:01:02,330 --> 00:01:05,730
+saber son, número uno los antipsicóticos que se usan en las
+
+16
+00:01:05,730 --> 00:01:09,690
+patologías psiquiátricas y segundo lugar los antieméticos también pero
+
+17
+00:01:09,690 --> 00:01:13,770
+que quede bien claro no son los únicos hay muchos otros fármacos que
+
+18
+00:01:13,770 --> 00:01:17,730
+eventualmente se asocian a esto así que toda paciente con amenorrea
+
+19
+00:01:17,730 --> 00:01:20,970
+galactorrea la primera pregunta que hay que hacerle con mucho detalle
+
+20
+00:01:20,970 --> 00:01:23,530
+es qué fármacos son los que está tomando.
+
+21
+00:01:23,530 --> 00:01:28,610
+Segundo lugar los prolactinomas o adenomas hiperproductores de prolactina
+
+22
+00:01:28,610 --> 00:01:32,890
+a nivel del hipófisis. El diagnóstico por el general se hace con prolactina
+
+23
+00:01:32,890 --> 00:01:37,090
+con niveles plasmáticos de prolactina pero lo más importante
+
+24
+00:01:37,090 --> 00:01:41,850
+antes de eso la primera medida siempre siempre siempre es descartar el
+
+25
+00:01:41,850 --> 00:01:45,730
+embarazo en el sentido en que si es que hago el diagnóstico de una
+
+26
+00:01:45,730 --> 00:01:48,890
+hiper prolactinemia y se me pasa el diagnóstico del embarazo pues hago
+
+27
+00:01:48,890 --> 00:01:52,570
+el ridículo cierto y eso es algo que no se me puede pasar. Ahora la
+
+28
+00:01:52,570 --> 00:01:56,730
+típica pregunta que hay qué pasa cuando el embarazo es muy improbable
+
+29
+00:01:56,730 --> 00:02:01,370
+ejemplo me asegura que no mantiene relaciones sexuales cuando está
+
+30
+00:02:01,370 --> 00:02:06,050
+tomando anticonceptivos y lo está tomando bien o cuando tuvo la regla
+
+31
+00:02:06,050 --> 00:02:11,190
+hace muy poco tiempo a pesar de que está solamente con la galactorrea y
+
+32
+00:02:11,190 --> 00:02:15,890
+nada más pues en ese caso se pide el test de embarazo igual. Que quede muy
+
+33
+00:02:15,890 --> 00:02:21,730
+claro si el embarazo es muy improbable los niveles de prolactina
+
+34
+00:02:21,730 --> 00:02:25,690
+ahí pasan a ser el examen más importante porque lo más probable es
+
+35
+00:02:25,690 --> 00:02:29,170
+que efectivamente no esté embarazada pero como médico debo pedir el test
+
+36
+00:02:29,170 --> 00:02:32,330
+de embarazo igual y hay que explicarle a la paciente que hay que pedir el
+
+37
+00:02:32,330 --> 00:02:35,650
+test de embarazo de todas formas porque no me puedo arriesgar. Ahora
+
+38
+00:02:35,650 --> 00:02:39,330
+cuál es el tratamiento de la hiper prolactinemia depende de la causa
+
+39
+00:02:39,330 --> 00:02:42,610
+si es por fármacos en ese caso obviamente que suspender el fármaco
+
+40
+00:02:42,610 --> 00:02:46,330
+pero si es que es un fármaco demasiado importante ejemplo el
+
+41
+00:02:46,330 --> 00:02:50,690
+antipsicótico en contexto de una esquizofrenia severa cierto en ese
+
+42
+00:02:50,690 --> 00:02:55,050
+caso voy a intentar reemplazarlo por algún otro fármaco que venga con
+
+43
+00:02:55,050 --> 00:02:58,770
+menos hiper prolactinemia si es que no lo puedo reemplazar o si es que no me
+
+44
+00:02:58,770 --> 00:03:02,450
+funciona pues voy a darle el tratamiento sintomático cierto con la
+
+45
+00:03:02,450 --> 00:03:05,690
+terapia de reemplazo hormonal o con la testosterona en el caso del
+
+46
+00:03:05,690 --> 00:03:09,410
+hombre porque acuérdense que se traduce la hiper prolactinemia en un
+
+47
+00:03:09,410 --> 00:03:12,690
+hipogonadismo tanto femenino como masculino y segundo lugar los
+
+48
+00:03:12,690 --> 00:03:17,570
+agonistas dopaminérgicos que justamente me sirven para bajar los
+
+49
+00:03:17,570 --> 00:03:20,770
+niveles de prolactina porque acuérdense que la dopamina que se
+
+50
+00:03:20,770 --> 00:03:24,810
+liberaba desde el hipotálamo inhibía la liberación de prolactina por
+
+51
+00:03:24,810 --> 00:03:28,290
+lipófisis si es que en cambio tengo un prolactinoma de elección
+
+52
+00:03:28,290 --> 00:03:33,090
+actualmente son los agonistas dopaminérgicos y dentro de esto la
+
+53
+00:03:33,090 --> 00:03:36,810
+cavergolina cierto y la bromo criptina son lo más importante yo
+
+54
+00:03:36,810 --> 00:03:39,770
+me acuerdo siempre de una paciente que decía doctor yo tenía mucha
+
+55
+00:03:39,770 --> 00:03:43,850
+leche y con la criptonita se me quitó pero en verdad se refería a la
+
+56
+00:03:44,730 --> 00:03:49,730
+bromo criptina pero repito la cavergolina la ha desplazado un poco
+
+57
+00:03:49,730 --> 00:03:54,370
+en el sentido en que es más eficaz y es más fácil de tomar también me
+
+58
+00:03:54,370 --> 00:03:58,730
+sirven los agonistas dopaminérgicos para los tumores grandes y pequeños y
+
+59
+00:03:58,730 --> 00:04:03,330
+eso que quede bien claro que la cirugía actualmente en la práctica
+
+60
+00:04:03,330 --> 00:04:07,210
+nunca se usa como un tratamiento de primera línea sino que solamente de
+
+61
+00:04:07,210 --> 00:04:11,330
+segunda línea cuando no ha respondido bien al tratamiento con la
+
+62
+00:04:11,330 --> 00:04:16,170
+cavergolina o con algún otro de los agonistas dopaminérgicos queda claro
+
+63
+00:04:16,170 --> 00:04:20,890
+pues espero que sí nos vemos en el siguiente vídeo que estén bien

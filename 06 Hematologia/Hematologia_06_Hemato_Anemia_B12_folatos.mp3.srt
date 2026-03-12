@@ -1,0 +1,383 @@
+1
+00:00:00,000 --> 00:00:07,970
+Siguiendo con la anemia, vamos a ver la anemia por déficit de B12 y la anemia por déficit de folatos también.
+
+2
+00:00:07,970 --> 00:00:13,170
+Y empecemos con la por déficit de vitamina B12 que también se llama cianocobalamina.
+
+3
+00:00:13,170 --> 00:00:17,490
+Y acuérdense que al igual que los folatos se utiliza la síntesis de ADN,
+
+4
+00:00:17,490 --> 00:00:21,570
+la síntesis de los ácidos nucleicos, así que sirve para la proliferación celular.
+
+5
+00:00:21,570 --> 00:00:26,130
+Las causas, la más importante es la mala absorción.
+
+6
+00:00:26,130 --> 00:00:31,330
+Ejemplo, que sea de causa autoinmune que es la más frecuente que se llama anemia perniciosa,
+
+7
+00:00:31,330 --> 00:00:36,050
+en la cual hay anticuerpos en contra de las células parietales del estómago
+
+8
+00:00:36,050 --> 00:00:42,210
+que son las que producen el factor intrínseco, que es una proteína que se une al factor extrínseco,
+
+9
+00:00:42,210 --> 00:00:45,810
+que es la misma vitamina B12 y juntas se absorben en el híbrido endistal.
+
+10
+00:00:45,810 --> 00:00:50,210
+Ahora, segundo lugar, la cirugía gástrica, ya sea una gastrectomía por un cáncer, por ejemplo,
+
+11
+00:00:50,210 --> 00:00:53,570
+o un bypass gástrico, en el sentido en que nuevamente en el estómago,
+
+12
+00:00:53,570 --> 00:00:58,370
+en las células parietales del estómago, era en donde se producía y se secretaba este factor intrínseco
+
+13
+00:00:58,370 --> 00:01:00,930
+y al operarlo obviamente disminuyó eso también.
+
+14
+00:01:01,250 --> 00:01:03,970
+Segundo lugar, la cirugía de híbrido endistal, porque ya dijimos,
+
+15
+00:01:03,970 --> 00:01:09,010
+ahí es donde se absorbe el factor intrínseco unido a la vitamina B12, ¿cierto?
+
+16
+00:01:09,010 --> 00:01:14,530
+Y finalmente, en otras causas de mala absorción como la enfermedad celíaca, la enfermedad de Crohn, etcétera.
+
+17
+00:01:14,530 --> 00:01:18,370
+Segundo lugar, también se puede producir por una falta de ingesta,
+
+18
+00:01:18,370 --> 00:01:23,250
+que es algo que se ve en los últimos años, en particular en las personas con una dieta vegana
+
+19
+00:01:23,250 --> 00:01:27,650
+o una dieta vegetariana estricta, mal llevada, en el sentido en que bien llevada,
+
+20
+00:01:27,890 --> 00:01:33,570
+con una asesoría de un profesional en la cual se asegure el aporte de B12, no debería tener ningún problema.
+
+21
+00:01:33,570 --> 00:01:39,090
+¿Cuál es la clínica número uno? El síndrome anémico, pero no es lo único.
+
+22
+00:01:39,090 --> 00:01:42,770
+La vitamina B12 también sirve mucho para el sistema nervioso,
+
+23
+00:01:42,770 --> 00:01:47,090
+así que suele asociarse a una demencia o una pseudodemencia.
+
+24
+00:01:47,090 --> 00:01:51,250
+Puede venir con afectación de la médula espinal también, con una mielopatía,
+
+25
+00:01:51,250 --> 00:01:54,770
+que es la más clásica en la degeneración combinada subaguda de la médula.
+
+26
+00:01:54,930 --> 00:02:00,050
+Puede venir igualmente con afectación del sistema nervioso periférico, con neuropatía.
+
+27
+00:02:00,050 --> 00:02:05,010
+En la hemograma, lo más importante es que puede verse la anemia o bien una pancitopenia,
+
+28
+00:02:05,010 --> 00:02:08,450
+en el sentido en que dijimos que servía para la proliferación celular,
+
+29
+00:02:08,450 --> 00:02:12,850
+porque servía para la síntesis de ADN, así que me afectan las tres líneas celulares,
+
+30
+00:02:12,850 --> 00:02:15,250
+glóbulos rojos, glóbulos blancos y plaquetas también.
+
+31
+00:02:15,250 --> 00:02:20,370
+Segundo lugar, es una anemia macrocítica, de hecho viene con el BCM arriba de 100,
+
+32
+00:02:20,610 --> 00:02:25,410
+y suele ser incluso megaloblástica, dígase con el BCM, no solamente que arriba de 100,
+
+33
+00:02:25,410 --> 00:02:30,530
+sino que arriba de 108, ejemplo 120, 115, cualquier valor similar.
+
+34
+00:02:30,530 --> 00:02:35,890
+Y es muy frecuente que en el frotis se describa además una hipersegmentación
+
+35
+00:02:35,890 --> 00:02:41,250
+del núcleo de los neutrófilos, o que se describa también como neutrófilo hipersegmentado.
+
+36
+00:02:41,250 --> 00:02:45,650
+El diagnóstico se hace directamente con los niveles de B12, se miden,
+
+37
+00:02:45,650 --> 00:02:49,010
+así se solicita como niveles de B12 en plasma.
+
+38
+00:02:49,090 --> 00:02:53,410
+Y si es que quedase alguna duda, ejemplo porque el hemograma es muy sugerente,
+
+39
+00:02:53,410 --> 00:02:58,770
+pero los niveles de B12 están en el rango normal bajo, se puede pedir la homocisteína,
+
+40
+00:02:58,770 --> 00:03:02,930
+se puede pedir un examen que se llama el ácido metil malónico,
+
+41
+00:03:02,930 --> 00:03:06,530
+y también se pueden pedir los anticuerpos en contra de las células parietales
+
+42
+00:03:06,530 --> 00:03:09,410
+para buscar directamente la anemia perniciosa,
+
+43
+00:03:09,410 --> 00:03:13,810
+que es la causa más frecuente de anemia por el déficit de B12.
+
+44
+00:03:13,810 --> 00:03:18,610
+Ahora, recordemos que la homocisteína y el ácido metil malónico
+
+45
+00:03:18,690 --> 00:03:22,530
+en el contexto de un déficit de B12 tienden a aumentarse,
+
+46
+00:03:22,530 --> 00:03:26,370
+son productos que se elevan ante la falta de B12.
+
+47
+00:03:26,370 --> 00:03:30,290
+En cambio, en el déficit de folato solamente se eleva la homocisteína
+
+48
+00:03:30,290 --> 00:03:32,050
+y no se eleva el ácido metil malónico,
+
+49
+00:03:32,050 --> 00:03:36,850
+así que eventualmente me sirve para hacer la diferencia entre uno u otro déficit.
+
+50
+00:03:36,850 --> 00:03:39,810
+¿Cuál es el tratamiento del déficit de vitamina B12?
+
+51
+00:03:39,810 --> 00:03:43,650
+Obviamente es la vitamina B12 que se da habitualmente por vía intramuscular
+
+52
+00:03:43,650 --> 00:03:47,410
+cuando ya está establecida la anemia,
+
+53
+00:03:47,490 --> 00:03:49,250
+queremos que esto actúe rápido, ¿cierto?
+
+54
+00:03:49,250 --> 00:03:51,970
+En cambio, la profilaxis que se da en la gente vegana,
+
+55
+00:03:51,970 --> 00:03:56,290
+en la gente con cirugías gástricas, en la gente vegetariana,
+
+56
+00:03:56,290 --> 00:03:59,330
+habitualmente va a ser por vía intramuscular
+
+57
+00:03:59,330 --> 00:04:01,410
+cuando es por una causa de mala absorción,
+
+58
+00:04:01,410 --> 00:04:04,130
+ejemplo, una cirugía gástrica, ¿cierto?
+
+59
+00:04:04,130 --> 00:04:07,010
+O bien por vía oral cuando es una causa de baja ingesta
+
+60
+00:04:07,010 --> 00:04:09,810
+como ocurría en los pacientes veganos y vegetarianos.
+
+61
+00:04:10,450 --> 00:04:14,930
+Ahora, el déficit de B12 a veces se puede confundir con la hemólisis,
+
+62
+00:04:14,930 --> 00:04:16,290
+eso hay que saberlo,
+
+63
+00:04:16,290 --> 00:04:19,570
+así que vamos a ver un paralelo,
+
+64
+00:04:19,570 --> 00:04:23,810
+y la causa de esta confusión es justamente que en el déficit de B12
+
+65
+00:04:23,810 --> 00:04:26,850
+se produce una eritropoiesis inefectiva
+
+66
+00:04:26,850 --> 00:04:30,610
+y eventualmente también hay lisis celular en la misma médula ósea,
+
+67
+00:04:30,610 --> 00:04:34,770
+y eso hace que, ejemplo, la LDH se eleva en ambas,
+
+68
+00:04:34,770 --> 00:04:36,930
+en el caso de la hemólisis porque se rompen los glóbulos rojos,
+
+69
+00:04:36,930 --> 00:04:41,810
+en el caso del déficit de B12 porque se rompen los precursores de los glóbulos rojos,
+
+70
+00:04:42,290 --> 00:04:46,290
+además la bilirrubina indirecta puede elevarse también en ambos,
+
+71
+00:04:46,290 --> 00:04:51,330
+y el BCM dijimos que podría estar elevado también en el caso de la hemólisis
+
+72
+00:04:51,330 --> 00:04:55,730
+por los reticulositos, así que fíjense, LDH, bilirrubina y BCM
+
+73
+00:04:55,730 --> 00:04:57,250
+pueden verse exactamente igual,
+
+74
+00:04:57,250 --> 00:05:00,930
+y eso hace que un médico eventualmente se pueda confundir.
+
+75
+00:05:00,930 --> 00:05:04,050
+Así que la gran diferencia me la hacen los reticulositos
+
+76
+00:05:04,050 --> 00:05:07,890
+en el sentido en que el déficit de B12 es una anemia arregenerativa
+
+77
+00:05:07,890 --> 00:05:10,610
+en el cual el índice reticulositario está muy bajo,
+
+78
+00:05:10,610 --> 00:05:13,250
+habitualmente bajo 2 e incluso bajo 1,
+
+79
+00:05:13,250 --> 00:05:16,130
+y en el caso de la hemólisis suele estar arriba de 2.
+
+80
+00:05:16,130 --> 00:05:20,290
+Veamos ahora el déficit de folatos, que es lo mismo que la vitamina B9,
+
+81
+00:05:20,290 --> 00:05:23,410
+entonces ya dijimos B12, sinónimo de cianocobalamina,
+
+82
+00:05:23,410 --> 00:05:25,730
+folatos, sinónimo de vitamina B9,
+
+83
+00:05:25,730 --> 00:05:30,370
+y en este caso las causas nuevamente están la mala absorción intestinal.
+
+84
+00:05:30,370 --> 00:05:35,170
+Segundo lugar, el consumo crónico de sulfas, ejemplo,
+
+85
+00:05:35,170 --> 00:05:38,930
+en los pacientes con VIH que usan el cotrimoxazol de manera crónica
+
+86
+00:05:38,930 --> 00:05:41,730
+como profilaxis para el neumociste giroveche,
+
+87
+00:05:41,730 --> 00:05:45,890
+y finalmente la no ingesta, aunque es muy muy raro en Chile
+
+88
+00:05:45,890 --> 00:05:48,690
+y en los países en desarrollo en el sentido en que
+
+89
+00:05:48,690 --> 00:05:52,050
+las harinas suelen estar suplementadas con ácido fólico.
+
+90
+00:05:52,050 --> 00:05:57,010
+Ahora, su clínica y su demograma se ven muy similares al déficit de B12,
+
+91
+00:05:57,010 --> 00:06:00,610
+el diagnóstico se hace igualmente con los niveles de folatos,
+
+92
+00:06:00,610 --> 00:06:04,290
+así que muchas veces ante la duda se piden niveles de folatos y de B12,
+
+93
+00:06:04,290 --> 00:06:08,770
+aunque es muy raro el déficit de folatos por esta suplementación
+
+94
+00:06:08,770 --> 00:06:11,570
+que hay a nivel gubernamental en varios países,
+
+95
+00:06:11,570 --> 00:06:15,330
+y finalmente el tratamiento obviamente es darle ácido fólico.
+
+96
+00:06:15,330 --> 00:06:17,810
+Así que eso es todo, nos vemos en el siguiente video.

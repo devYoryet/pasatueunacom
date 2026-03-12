@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:07,820
+Hola, hola. En este video vamos a hablar de síndrome nefrótico y ya pasamos en nefrítico,
+
+2
+00:00:07,820 --> 00:00:13,220
+así que empecemos con esto recordando las causas. En este caso son glomerulopatías,
+
+3
+00:00:13,220 --> 00:00:19,060
+no glomerulonefritis, sino que glomerulopatías, otro tipo de enfermedades del glomérulo
+
+4
+00:00:19,060 --> 00:00:23,700
+que no son necesariamente inflamatorias. Ahora, también algunas glomerulonefritis,
+
+5
+00:00:23,700 --> 00:00:27,540
+como ejemplo, la mensaje ocapilar, algunos casos de la glomerulonefritis lúbica,
+
+6
+00:00:27,540 --> 00:00:31,340
+por ejemplo, pero repito, lo más frecuente es que sean otro tipo de enfermedades
+
+7
+00:00:31,340 --> 00:00:35,780
+de glomérulo y justamente generan otro tipo de síndrome, en este caso el síndrome nefrótico.
+
+8
+00:00:35,780 --> 00:00:41,100
+El diagnóstico se hace con dos cosas, la proteínuria por un lado y la clínica por el otro,
+
+9
+00:00:41,100 --> 00:00:46,540
+y en este caso no es cualquier proteínuria, tiene que ser una en rango nefrótico,
+
+10
+00:00:46,540 --> 00:00:52,020
+que era una proteínuria de 24 horas mayor a 3 gramos al día, incluso en algunos textos
+
+11
+00:00:52,020 --> 00:00:56,740
+sale mayor a 3,5 gramos al día, aunque lo más frecuente es que sea todavía más alto,
+
+12
+00:00:56,740 --> 00:01:02,940
+arriba de 5, arriba de 10 incluso. Segundo lugar, se puede ver como un índice proteínuria
+
+13
+00:01:02,940 --> 00:01:09,260
+creatinuria mayor a 3, que es equivalente a una proteínura de 24 horas de 3 gramos al día,
+
+14
+00:01:09,260 --> 00:01:14,340
+y recordemos cuál era el valor normal de la proteínuria, porque está en rango nefrótico,
+
+15
+00:01:14,340 --> 00:01:21,180
+cuál es la normal en alguien sin proteínuria, y acuérdense que es menor a 300 milígramos al día,
+
+16
+00:01:21,620 --> 00:01:30,620
+o sea menor a 0,3 del índice proteínuria creatinuria, o sea que estamos 10 veces arriba del valor normal máximo.
+
+17
+00:01:30,620 --> 00:01:37,500
+En los niños, como es más difícil juntar orina 24 horas y como tienen un tamaño más pequeño,
+
+18
+00:01:37,500 --> 00:01:44,620
+el punto de corte de la proteínuria en rango nefrótico es mayor a 40 milígramos por metro cuadrado por hora,
+
+19
+00:01:45,060 --> 00:01:54,860
+que es más o menos mayor a un gramo por metro cuadrado al día, en el sentido en que 40 por 24 horas es casi mil milígramos,
+
+20
+00:01:54,860 --> 00:02:00,260
+es casi un gramo, pero ese punto de corte hay que saberlo, 40 milígramos por metro cuadrado por hora
+
+21
+00:02:00,260 --> 00:02:03,860
+es el punto de corte para la proteínuria nefrótica en niños.
+
+22
+00:02:03,860 --> 00:02:11,060
+Ahora, ¿cuál es esta clínica? También hay que saberla, número 1, edema, número 2, hipoalbuminemia,
+
+23
+00:02:11,500 --> 00:02:18,500
+la algumina baja menor a 3,5 gramos por decilitro, y alguien puede decir, eso no es algo de la clínica,
+
+24
+00:02:18,500 --> 00:02:23,020
+sino que es un examen de laboratorio, lo cual es cierto, pero esa es la triada fundamental,
+
+25
+00:02:23,020 --> 00:02:26,620
+que tiene que haber proteínuria en rango nefrótico, edema e hipoalbuminemia.
+
+26
+00:02:26,620 --> 00:02:31,620
+Ahora, otras cosas que puede haber también son dilipidemia, de hecho la hay con mucha frecuencia,
+
+27
+00:02:31,620 --> 00:02:38,260
+lipiduria, en el sentido en que se pierden gotas de grasa y se pueden ver en el sedimento de orina,
+
+28
+00:02:38,420 --> 00:02:42,420
+porque eso es algo bien característico del síndrome nefrótico por sobre cualquier otra patología,
+
+29
+00:02:42,420 --> 00:02:49,420
+las orinas espumosas, en el sentido en que las proteínas pueden generar este efecto de espuma,
+
+30
+00:02:49,420 --> 00:02:56,020
+pero recordemos que la causa más frecuente de orina espumosa es el detergente o lo que sea
+
+31
+00:02:56,020 --> 00:03:01,620
+que se use para limpiar el baño que queda ahí, así que mucho cuidado con ese antecedente,
+
+32
+00:03:01,620 --> 00:03:06,420
+y finalmente pueden ir apareciendo las distintas complicaciones del síndrome nefrótico,
+
+33
+00:03:06,580 --> 00:03:11,620
+dentro de estas las infecciones y las trombosis son las más importantes infecciones porque
+
+34
+00:03:11,620 --> 00:03:17,460
+eventualmente se pierden anticuerpos, el complemento, etcétera, trombosis porque se van
+
+35
+00:03:17,460 --> 00:03:21,940
+perdiendo las proteínas anticoagulantes como la proteína C, la proteína S, entre otras,
+
+36
+00:03:21,940 --> 00:03:26,340
+y a medida que va pasando el tiempo evoluciona también una insuficiencia renal crónica,
+
+37
+00:03:26,340 --> 00:03:31,340
+que acuérdense que la proteínuria constante va haciendo que caiga el clíres.
+
+38
+00:03:31,340 --> 00:03:36,180
+Algo importantísimo relacionado con las complicaciones, el síndrome nefrótico es
+
+39
+00:03:36,180 --> 00:03:41,340
+algo grave, es algo muy grave en el sentido en que sin un tratamiento adecuado la mayoría
+
+40
+00:03:41,340 --> 00:03:46,780
+de los pacientes se muere, en cambio identificando la causa y manejándolo a tiempo a la mayoría
+
+41
+00:03:46,780 --> 00:03:51,980
+de los pacientes en cambio les va bastante bien. La segunda cosa que hay que ver luego
+
+42
+00:03:51,980 --> 00:03:56,020
+de haber hecho el diagnóstico de un síndrome nefrótico es ver si es que es puro o impuro,
+
+43
+00:03:56,020 --> 00:04:01,500
+y eso se hace con una serie de exámenes, sedimento de orina, ana, anca, los anticuerpos
+
+44
+00:04:01,500 --> 00:04:08,420
+anti streptolicina O, el complemento, etcétera. El sedimento es para ver si es que hay hematuria
+
+45
+00:04:08,420 --> 00:04:14,340
+y toda la parte inmunológica en busca de alguna otra enfermedad, aparte de eso hay que pedir
+
+46
+00:04:14,340 --> 00:04:19,180
+función renal, obviamente. Va a ser impuro si es que viene con hematuria o con hipertensión,
+
+47
+00:04:19,180 --> 00:04:22,980
+o sea con los elementos del síndrome nefrítico, el edema sí lo comparten entre ambos,
+
+48
+00:04:22,980 --> 00:04:26,980
+pero la hematuria y la hipertensión son del nefrítico, así que si es que están en
+
+49
+00:04:27,540 --> 00:04:32,740
+el síndrome nefrótico inmediatamente es impuro, que venga con los anticuerpos que están positivos
+
+50
+00:04:32,740 --> 00:04:38,980
+para alguna de las glomerulonefritis, ejemplo que venga con la anti streptolicina elevada,
+
+51
+00:04:38,980 --> 00:04:43,420
+con los anos positivos, con el complemento bajo, con cualquiera de esas cosas inmediatamente
+
+52
+00:04:43,420 --> 00:04:48,100
+ya pasa a ser impuro. Y en tercer lugar si viene con falla renal, en el sentido en que el
+
+53
+00:04:48,100 --> 00:04:51,820
+síndrome nefrótico puede evolucionar a una falla renal, pero eso toma habitualmente mucho
+
+54
+00:04:51,820 --> 00:04:56,380
+tiempo. Si es que debuta con falla renal lo más probable es que hay una glomerulonefritis
+
+55
+00:04:56,380 --> 00:05:01,620
+detrás, y si bien puede que no, es una de las cosas que hay que ir a descartar.
+
+56
+00:05:01,620 --> 00:05:08,220
+Ahora, ¿por qué es importante diferenciar el puro del impuro? Porque si es que es puro,
+
+57
+00:05:08,220 --> 00:05:13,260
+y además es un niño, o sea un niño puro, o en este caso es un síndrome nefrótico puro
+
+58
+00:05:13,260 --> 00:05:17,660
+en contexto de un paciente pediátrico, por el que en general se asume que es causada
+
+59
+00:05:17,660 --> 00:05:22,020
+por una enfermedad de cambios mínimos, que es lo mismo que la nefrosis lipoidea.
+
+60
+00:05:22,020 --> 00:05:27,300
+O sea, enfermedad de cambios mínimos y nefrosis lipoidea es la enfermedad más frecuente
+
+61
+00:05:27,300 --> 00:05:32,680
+que causa el síndrome nefrótico, es en los niños y es puro. Y en ese caso no lo
+
+62
+00:05:32,680 --> 00:05:39,300
+biópsico, sino que voy directamente al tratamiento con corticoides orales, habitualmente
+
+63
+00:05:39,300 --> 00:05:44,380
+por bastante tiempo, son mínimo dos meses, incluso puede ser hasta tres meses, y son
+
+64
+00:05:44,380 --> 00:05:48,660
+dosis bastante altas de prenizona con las que quedan estos niños. Ahora, si
+
+65
+00:05:48,700 --> 00:05:52,140
+fuera impuro, o sea con hematuria, con hipertensión, con falla renal, con lo que sea,
+
+66
+00:05:52,140 --> 00:05:57,220
+si fuera en un adulto, o si es que no responde los corticoides en contexto de algo que yo
+
+67
+00:05:57,220 --> 00:06:03,060
+sospechaba una nefrosis lipoidea, en ese caso debo ir a la biopsia renal. O sea,
+
+68
+00:06:03,060 --> 00:06:09,540
+en resumen, cuando yo biopcio un síndrome nefrótico, biopsia siempre, a menos claro
+
+69
+00:06:09,540 --> 00:06:13,260
+que todo apunte a que es una enfermedad de cambios mínimos, porque es un paciente
+
+70
+00:06:13,260 --> 00:06:18,580
+pediátrico con un síndrome nefrótico puro que responde al tratamiento con corticoides
+
+71
+00:06:18,580 --> 00:06:25,580
+durante algunos pocos meses. Ahora, la biopsia renal me da el diagnóstico específico
+
+72
+00:06:25,580 --> 00:06:29,460
+en los casos en que se realiza, y de esa manera se puede hacer el tratamiento específico
+
+73
+00:06:29,460 --> 00:06:33,980
+de la causa. Algo importante, me cambia el manejo cuando es un síndrome nefrótico
+
+74
+00:06:33,980 --> 00:06:41,500
+congénito, que se define como el menor a tres meses, el que se diagnostica en
+
+75
+00:06:41,540 --> 00:06:46,460
+la etapa neonatal o en los primeros meses de vida, pero eventualmente se puede extender
+
+76
+00:06:46,460 --> 00:06:52,420
+hasta los 12 meses debido a que no todos los cuadros son tan graves y no todos los cuadros
+
+77
+00:06:52,420 --> 00:06:57,100
+son rápidamente diagnosticados por los padres y por los médicos. Y en este caso,
+
+78
+00:06:57,100 --> 00:07:02,220
+lo que se estudia en primer lugar son los test genéticos, en el sentido en que hay
+
+79
+00:07:02,220 --> 00:07:06,500
+una lista de genes que se han identificado y que se relacionan con el síndrome nefrótico
+
+80
+00:07:06,500 --> 00:07:11,660
+congénito. Ese que yo los identifico, pues confirmo el diagnóstico de inmediato.
+
+81
+00:07:11,660 --> 00:07:16,220
+Además, es muy frecuente que sí se haga una biopsia renal de entrada, así que fíjense,
+
+82
+00:07:16,220 --> 00:07:20,340
+aunque sea puro, aunque sea puro y que sea un niño, si es un niño menor de un año,
+
+83
+00:07:20,340 --> 00:07:24,660
+y en particular si es que es un niño de menos de tres meses, hay que biopsearlo,
+
+84
+00:07:24,660 --> 00:07:28,740
+y el primer examen ni siquiera es la biopsia, sino que son las pruebas genéticas en busca
+
+85
+00:07:28,740 --> 00:07:32,900
+de las causas específicas. Ahora, ¿cuál es el tratamiento del congénito? Y esto es lo
+
+86
+00:07:32,900 --> 00:07:36,700
+último que hay que saber, es el trasplante renal, en el sentido en que de lo contrario el
+
+87
+00:07:36,700 --> 00:07:41,380
+niño se muere de infecciones, de trombosis, de las complicaciones del síndrome nefrótico y
+
+88
+00:07:41,380 --> 00:07:44,780
+que no tiene cura porque no responde a corticoides. Y en este caso, por lo mismo,
+
+89
+00:07:44,780 --> 00:07:48,660
+es que es tan importante no perder tiempo en darle una prueba con corticoides e ir
+
+90
+00:07:48,660 --> 00:07:52,820
+directamente a diagnosticarlo rápido para ponerlo en la lista de trasplante renal cuanto
+
+91
+00:07:52,820 --> 00:07:57,740
+antes. ¿Cuál es el manejo general del síndrome nefrótico? Pues número uno,
+
+92
+00:07:57,740 --> 00:08:01,420
+disminuir la proteínuria. Acuérdense que las complicaciones se van generando justamente
+
+93
+00:08:01,740 --> 00:08:06,340
+por la pérdida de las proteínas y para esto lo que más me sirve son los YECA,
+
+94
+00:08:06,340 --> 00:08:13,300
+como el Endalapril, los Ara2, como los Artam, cualquiera de los dos sirven por igual. Y como
+
+95
+00:08:13,300 --> 00:08:16,940
+alternativa tengo, si es que no es suficiente con ellos o si estuvieran conreindicados,
+
+96
+00:08:16,940 --> 00:08:24,900
+es agregar el Diltiazep, que es un bloqueador del calcio no dihydropiridínico que sirve
+
+97
+00:08:24,900 --> 00:08:29,060
+igualmente para bajar la proteínura. Ahora, ¿qué dieta le doy a alguien que está
+
+98
+00:08:29,060 --> 00:08:34,500
+perdiendo mucha proteína? ¿Le doy más proteínas o le doy menos como para que haya una
+
+99
+00:08:34,500 --> 00:08:40,460
+proteínura menor y que haya menos falla renal? La verdad es que finalmente al poner estas dos
+
+100
+00:08:40,460 --> 00:08:46,020
+cosas en un balance se ha concluido que la mejor dieta es la dieta normoprotéica simplemente.
+
+101
+00:08:46,020 --> 00:08:50,220
+Ahora, no es que hay que darle cualquier dieta, sino que hay que asegurarse que
+
+102
+00:08:50,220 --> 00:08:55,620
+sea una dieta con una carga de proteínas que esté dentro de lo normal, ni en exceso,
+
+103
+00:08:55,940 --> 00:09:02,900
+ni tampoco en disminución. Aparte de esto, el manejo del edema, por el general se hace con
+
+104
+00:09:02,900 --> 00:09:07,740
+furosemida, pero hay que acordarse que en este caso es un paciente que está con edema,
+
+105
+00:09:07,740 --> 00:09:12,980
+pero que no está hiperbolemico. El edema se produce por la reducción de la presión
+
+106
+00:09:12,980 --> 00:09:17,780
+oncótica capilar, así que tengo el riesgo de que evolucione a una falla pre-renal,
+
+107
+00:09:17,780 --> 00:09:22,020
+así que mucho cuidado con la furosemida que, repito, se puede dejar, en particular
+
+108
+00:09:22,020 --> 00:09:26,620
+los casos de edema muy marcados que pueden ser muy incómodos para caminar, para vestirse,
+
+109
+00:09:26,620 --> 00:09:31,820
+etcétera, pero si la creatinina sube eventualmente lo estoy volviendo pre-renal y hay que tener
+
+110
+00:09:31,820 --> 00:09:37,740
+cuidado con eso. Cuando se usa la albúmina endovenosa, la verdad es que sirve poco en
+
+111
+00:09:37,740 --> 00:09:41,580
+el sentido de que si le doy albúmina el efecto va a ser solamente transitorio porque
+
+112
+00:09:41,580 --> 00:09:45,660
+la va a excretar por vía uninar igual, porque justamente está perdiendo albúmina,
+
+113
+00:09:45,660 --> 00:09:52,020
+pero en los casos de una anasarca severa o refractaria y que eventualmente está con
+
+114
+00:09:52,020 --> 00:09:54,980
+alguna complicación más importante y que se está choqueando, por ejemplo,
+
+115
+00:09:54,980 --> 00:10:00,380
+debido a una hipoalbuminemia muy severa, en esos casos sí se puede dar la albúmina
+
+116
+00:10:00,380 --> 00:10:05,140
+endovenosa, incluso sabiendo que va a tener un efecto acotado en el tiempo,
+
+117
+00:10:05,140 --> 00:10:08,540
+pero es una opción en los casos de anasarca más severa.
+
+118
+00:10:08,540 --> 00:10:13,620
+Ahora, en tercer lugar, hay que dar un tratamiento de la causa específica y por lo
+
+119
+00:10:13,660 --> 00:10:19,980
+mismo era tan importante el tema de la biopsia y como última cosa hay que saber el
+
+120
+00:10:19,980 --> 00:10:24,820
+manejo de las complicaciones. Respecto a las infecciones, número uno, hay que
+
+121
+00:10:24,820 --> 00:10:29,660
+vacunar contra el neumococo y ojalá con todas las vacunas que le falte a todos
+
+122
+00:10:29,660 --> 00:10:33,180
+los pacientes que tengan un síndrome nefrótico. Segundo lugar, hay que darle
+
+123
+00:10:33,180 --> 00:10:37,340
+antibióticos en el caso de que tenga infecciones. Y respecto a las tromboses,
+
+124
+00:10:37,340 --> 00:10:41,540
+lo anticoaguló o no, y la verdad es que se anticoagula, pero solamente SOS,
+
+125
+00:10:41,540 --> 00:10:45,900
+o sea, solamente en el caso de que tenga efectivamente una trombosis.
+
+126
+00:10:45,900 --> 00:10:50,940
+Si es que no es obligatorio, tiene mayor riesgo, hay que educarlo acerca de la
+
+127
+00:10:50,940 --> 00:10:54,740
+clínica de TEP y de la trombosis, pero no se anticoagula a menos que tenga
+
+128
+00:10:54,740 --> 00:10:59,860
+trombosis, porque el riesgo de la anticoagulación en ese caso superaría
+
+129
+00:10:59,860 --> 00:11:03,700
+a un paciente que está solamente con el síndrome nefrótico, pero que está
+
+130
+00:11:03,700 --> 00:11:08,420
+sin una trombosis previa. Respecto a la causa específica, la única que hay
+
+131
+00:11:08,460 --> 00:11:13,060
+que saber en detalle es la necrosis lipoidea o enfermedad de cambios mínimos
+
+132
+00:11:13,060 --> 00:11:16,260
+que se nota, acuérdense, con corticoides orales, tal como dijimos antes,
+
+133
+00:11:16,260 --> 00:11:20,460
+en dosis alta y por bastante tiempo. Eso es todo.
+
+134
+00:11:20,460 --> 00:11:21,620
+Nos vemos en el siguiente video.

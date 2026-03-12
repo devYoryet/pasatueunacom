@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:07,420
+Hola, ¿cómo están? En este video vamos a hablar del síndrome de Cushing, recordando
+
+2
+00:00:07,420 --> 00:00:11,020
+un concepto muy importante que es que el síndrome de Cushing no es lo mismo que la
+
+3
+00:00:11,020 --> 00:00:15,580
+enfermedad de Cushing. La enfermedad de Cushing es una de las tantas causas del síndrome
+
+4
+00:00:15,580 --> 00:00:20,740
+de Cushing. De hecho, es la segunda después del uso de fármacos, el uso de corticoides
+
+5
+00:00:20,740 --> 00:00:26,180
+exógeno. Y en específico, la enfermedad de Cushing es un tumor hipoficiario productor
+
+6
+00:00:26,180 --> 00:00:31,100
+de ACTH que luego genera esta especie de síndrome de Cushing secundario de
+
+7
+00:00:31,100 --> 00:00:35,540
+causa hipoficiaria, ¿cierto? Ahora, recordemos su clínica, hay que saberla con mucho detalle.
+
+8
+00:00:35,540 --> 00:00:40,140
+En primer lugar, Astenia Adenamia, y viene subrayada la palabra Astenia porque es el
+
+9
+00:00:40,140 --> 00:00:45,820
+síntoma más frecuente, que es muy inespecífico por si acaso, pero es el más frecuente. Aunque
+
+10
+00:00:45,820 --> 00:00:50,300
+hay algunos que son mucho más específicos, en particular la obesidad centrípeta, ¿cierto?
+
+11
+00:00:50,300 --> 00:00:55,180
+El aumento del perímetro abdominal con el tungo, que es una especie de joroba que aparece
+
+12
+00:00:55,180 --> 00:01:01,340
+en la espalda alta, ¿cierto? Más la cara de luna, la obesidad centrípeta en general,
+
+13
+00:01:01,340 --> 00:01:06,420
+dice espalda, abdomen y cara. Es muy frecuente que aparezcan estrías violáceas, además,
+
+14
+00:01:06,420 --> 00:01:12,820
+en el abdomen. Las estrías en general se asocian a los corticoides y a la obesidad
+
+15
+00:01:12,820 --> 00:01:17,860
+también, pero en este caso es de un color morado, como vino tinto, un color mucho más
+
+16
+00:01:17,860 --> 00:01:23,620
+oscuro. Además, el signo más frecuente es la atrofia muscular, dígase, se adelgaza
+
+17
+00:01:23,620 --> 00:01:28,900
+las piernas, se adelgazan las extremidades superiores también y en cambio engorda la
+
+18
+00:01:28,900 --> 00:01:34,300
+parte central. O sea, hay obesidad centrípeta más atrofia periférica. Eso sería como
+
+19
+00:01:34,300 --> 00:01:39,260
+el resumen. Además, se puede complicar con hipertensión secundaria, ¿cierto?
+
+20
+00:01:39,260 --> 00:01:43,580
+Y con diabetes. Y esas dos cosas además aumentan el riesgo cardiovascular en contexto
+
+21
+00:01:43,580 --> 00:01:48,100
+de este síndrome, así que hay un riesgo de morirse de infarto, por ejemplo, de
+
+22
+00:01:48,100 --> 00:01:52,780
+accidente vascular encefálico, etcétera. Hay riesgos de fractura también por osteoporosis
+
+23
+00:01:52,780 --> 00:01:59,300
+secundaria. El cortisol actúa en los huesos, lo va debilitando y además con alguna
+
+24
+00:01:59,300 --> 00:02:03,740
+frecuencia hay hirsutismo en las mujeres en el sentido en que las glándulas superrenales
+
+25
+00:02:03,740 --> 00:02:08,460
+no solamente producen cortisol, sino que producen también aldosterona, que me genera
+
+26
+00:02:08,460 --> 00:02:14,740
+la hipertensión y produce los andrógenos adrenales, ¿cierto? Como la dihidroepiandrosterona,
+
+27
+00:02:14,740 --> 00:02:19,540
+que puede producir algún grado de hirsutismo. Además, en algunos casos hay hiperglicenia
+
+28
+00:02:19,540 --> 00:02:24,900
+sin llegar a una diabetes, hipocalemia, alcalosis y esas tres cosas son lo contrario
+
+29
+00:02:24,900 --> 00:02:29,140
+que la insuficiencia superrenal, que en cambio había hipoglicemia, hipercalemia y tendencia
+
+30
+00:02:29,140 --> 00:02:33,540
+a la acidosis metabólica. En el Cushing, obviamente, se ve lo contrario. Y finalmente,
+
+31
+00:02:33,540 --> 00:02:37,700
+recuerden que el exceso de corticoides genera algún grado de inmunodepresión
+
+32
+00:02:37,700 --> 00:02:42,460
+y esto se traduce finalmente en infecciones y esa es la primera causa de muerte de los
+
+33
+00:02:42,460 --> 00:02:48,460
+pacientes con un síndrome de Cushing, seguido luego del aumento de riesgo cardiovascular,
+
+34
+00:02:48,460 --> 00:02:53,740
+infarto, etcétera. Vamos a ver el estudio del síndrome de Cushing, que sigue un orden bien
+
+35
+00:02:53,740 --> 00:02:58,740
+detallado y que hay que saberlo, partiendo obviamente por una buena anamnesis y examen
+
+36
+00:02:58,740 --> 00:03:05,140
+físico, porque si me dice que está tomando prednisona o algún otro corticoide exógeno,
+
+37
+00:03:05,140 --> 00:03:09,660
+está clara cuál es la causa, pero si no he determinado una causa, debo seguir un estudio
+
+38
+00:03:09,660 --> 00:03:15,980
+con un orden muy muy estricto. En primer lugar, hay que confirmar el grado de hipercortisolismo,
+
+39
+00:03:15,980 --> 00:03:21,540
+o sea, el objetivo que efectivamente haya un exceso de producción y de liberación de cortisol
+
+40
+00:03:21,540 --> 00:03:26,620
+y esto se hace con cualquiera de tres exámenes, los tres funcionan igualmente bien. En primer
+
+41
+00:03:26,620 --> 00:03:31,180
+lugar, el cortisol libre urinario de 24 horas, que es muy antiguo y que sigue plenamente
+
+42
+00:03:31,180 --> 00:03:37,900
+vigente. Segundo lugar, el cortisol en saliva, que se toma en la noche, que quede muy claro,
+
+43
+00:03:37,900 --> 00:03:43,140
+es de muy fácil toma de muestra, es de muy fácil análisis también, lo cual hace que para
+
+44
+00:03:43,580 --> 00:03:48,780
+algunos médicos sea de elección en la actualidad, aunque repito, los tres que vamos a mencionar
+
+45
+00:03:48,780 --> 00:03:53,340
+sirven igual y habitualmente se toma más de uno de manera simultánea. Y en tercer lugar,
+
+46
+00:03:53,340 --> 00:03:57,740
+está la prueba de su presión corta con dexametasona, que lo que mide es el cortisol
+
+47
+00:03:57,740 --> 00:04:03,220
+basal y luego el cortisol post haber dado una dosis de dexametasona. Y lo normal,
+
+48
+00:04:03,220 --> 00:04:08,060
+por si acaso, es que al darle dexametasona, que es un corticoide, se suprima el eje
+
+49
+00:04:08,060 --> 00:04:14,540
+hipotálamo hipoficiario superrenal, que baje la TCH y que baje el cortisol. Recuerden lo que se
+
+50
+00:04:14,540 --> 00:04:20,220
+mide acá es el cortisol y se usa dexametasona justamente porque no me altera los niveles de
+
+51
+00:04:20,220 --> 00:04:24,380
+cortisol, al menos en la medición, a diferencia de otros corticoides como la hidrocortisona,
+
+52
+00:04:24,380 --> 00:04:30,220
+que sí me altera esta medición. O sea, en resumen, se da el cortisol basal, se mide y
+
+53
+00:04:30,220 --> 00:04:35,020
+luego de eso se da una dosis, acuérdense, pequeña en la prueba de su presión corta y
+
+54
+00:04:35,020 --> 00:04:39,100
+lo normal es que suprima, que bajen los niveles de cortisol. Si es que no bajan,
+
+55
+00:04:39,100 --> 00:04:44,300
+en cambio se asume que hay un hipercortisolismo. Si es que tengo dos de estas pruebas que están
+
+56
+00:04:44,300 --> 00:04:48,380
+alteradas, en ese caso se confirma el hipercortisolismo y lo mismo ocurre si tengo
+
+57
+00:04:48,380 --> 00:04:53,940
+una que está demasiado alterada y en ese caso voy a ir a la segunda línea de exámenes que
+
+58
+00:04:53,940 --> 00:04:59,100
+son los necesarios para localizar la causa. Si es una causa hipoficiaria o si es una
+
+59
+00:04:59,100 --> 00:05:04,900
+causa superrenal. Los dos exámenes para esto son, por un lado la ACTH y por otro lado la
+
+60
+00:05:04,900 --> 00:05:10,180
+prueba de su presión larga, que la diferencia que tiene con la de su presión corta es que se
+
+61
+00:05:10,180 --> 00:05:15,700
+da una dosis de dexametasona más alta y por más días y es una forma de intentar suprimirlo
+
+62
+00:05:15,700 --> 00:05:21,060
+de manera más intensa. ¿Cómo se interpreta en esto? Va a ser de causa hipoficiaria,
+
+63
+00:05:21,060 --> 00:05:25,460
+o sea una enfermedad de Cushing, un tumor productor de ACTH, es cierto? Si es que la
+
+64
+00:05:25,460 --> 00:05:32,260
+ACTH está alta, obviamente es que es por causa de un tumor que produce ACTH, esta ACTH va a estar
+
+65
+00:05:32,260 --> 00:05:38,220
+elevada y segundo lugar, el tumor hipoficiario se acuerda que alguna vez fue una hipófisis
+
+66
+00:05:38,220 --> 00:05:44,060
+normal que suprimía con dexametasona y al darle una dosis bien alta suprime también. O sea,
+
+67
+00:05:44,060 --> 00:05:49,900
+ACTH alta y que suprima con la prueba de su presión larga, el diagnóstico sin ninguna
+
+68
+00:05:49,900 --> 00:05:55,300
+duda es una causa hipoficiaria. Segundo lugar, va a ser de tipo superrenal, en cambio,
+
+69
+00:05:55,300 --> 00:06:00,580
+si la ACTH está baja y si es que no suprime, en el sentido en que las causas superrenales
+
+70
+00:06:00,580 --> 00:06:07,860
+son ACTH independiente, así que aunque no haya ACTH, hay el hipercortisolismo igual y
+
+71
+00:06:07,860 --> 00:06:13,540
+segundo lugar, no va a suprimir en el sentido en que el efecto de la dexametasona es bajar
+
+72
+00:06:13,540 --> 00:06:18,700
+la ACTH y en este caso ya está baja y por lo tanto no hay ningún cambio. Finalmente,
+
+73
+00:06:18,700 --> 00:06:23,500
+la última línea es ir a mirar el lugar específico de donde viene el problema. Se
+
+74
+00:06:23,500 --> 00:06:28,180
+hace habitualmente con una resonancia magnética o un ataque, que sea de hipófisis, en el caso
+
+75
+00:06:28,180 --> 00:06:32,460
+que antes haya determinado que la causa era hipoficiaria. Por ejemplo, yo puedo buscar un
+
+76
+00:06:32,460 --> 00:06:37,740
+tumor o bien lo hago de las superrenales en el caso de que se sospeche o un tumor o una
+
+77
+00:06:37,740 --> 00:06:42,820
+hiperplasia. La diferencia justamente me la va a dar esta imagen. Veamos las distintas
+
+78
+00:06:42,820 --> 00:06:46,860
+causas y el tratamiento del síndrome de Cushing. La causa más frecuente es el uso
+
+79
+00:06:46,860 --> 00:06:51,340
+de corticoides exógenos. Ejemplo, en una paciente que está con un lupus y que está con
+
+80
+00:06:51,340 --> 00:06:56,180
+alguna dosis de prenizona importante. Segundo lugar, la enfermedad de Cushing que dijimos que
+
+81
+00:06:56,180 --> 00:07:01,940
+era este tumor hipoficiario que era productor de ACTH. En tercer lugar, un adenoma superrenal
+
+82
+00:07:01,940 --> 00:07:07,300
+que es hiperproductor de cortisol. En cuarto lugar, la hiperplasia superrenal que no tiene
+
+83
+00:07:07,300 --> 00:07:12,180
+nada que ver con la hiperplasia superrenal congénita. Eso ocurre en cambio todo lo
+
+84
+00:07:12,180 --> 00:07:16,020
+contrario. Hay una insuficiencia superrenal, así que acá es una hiperplasia superrenal por
+
+85
+00:07:16,020 --> 00:07:21,900
+alguna otra causa. En quinto lugar, el síndrome de ACTH tópico en el cual habitualmente hay un
+
+86
+00:07:21,900 --> 00:07:27,700
+cáncer de células pequeñas en alguno de los pulmones que a su vez va a hiperproducir la
+
+87
+00:07:27,700 --> 00:07:33,900
+ACTH o algún peptido que sea muy similar a la ACTH y luego de eso se produce este síndrome
+
+88
+00:07:33,900 --> 00:07:38,460
+de Cushing pero en contexto de un cáncer de pulmones. El tratamiento de estos es que está
+
+89
+00:07:38,460 --> 00:07:43,020
+con corticoides exógenos. Obviamente es disminuir esta dosis de corticoides en la
+
+90
+00:07:43,020 --> 00:07:47,420
+medida de lo posible porque obviamente si está con alguna enfermedad muy grave de base,
+
+91
+00:07:47,420 --> 00:07:53,500
+eventualmente el precio que hay que pagar es que quede con un síndrome de Cushing y esto se
+
+92
+00:07:53,500 --> 00:07:59,100
+puede hacer eventualmente dándole otros fármacos que permitan ahorrar los corticoides que permitan
+
+93
+00:07:59,100 --> 00:08:05,340
+bajar un poco la dosis sin desmerecer el tratamiento de base que está recibiendo. Y
+
+94
+00:08:05,340 --> 00:08:09,460
+en todas las demás, si se fijan, son tumores, son algo que es resecable,
+
+95
+00:08:09,460 --> 00:08:15,020
+así que por la general se maneja con cirugía, dígase sacar el tumor que está generando el
+
+96
+00:08:15,020 --> 00:08:19,140
+problema y en el caso de la hiperplasia superrenal que suele ser un problema bilateral,
+
+97
+00:08:19,140 --> 00:08:23,340
+habitualmente se sacan las dos glándulas superrenales en el sentido en que es peor
+
+98
+00:08:23,340 --> 00:08:27,980
+quedarse con el síndrome de Cushing que quedarse sin las glándulas superrenales y
+
+99
+00:08:27,980 --> 00:08:33,500
+luego de eso darle la suplementación con el cortisol y con la fludrocortisona, ¿cierto?
+
+100
+00:08:33,940 --> 00:08:40,380
+Veamos un caso y con esto cerramos esta clase, un hombre de 67 años que ha bajado de peso,
+
+101
+00:08:40,380 --> 00:08:44,740
+hasta ahí puede ser un cáncer, alguna otra cosa, más tos, eventualmente puede ser un
+
+102
+00:08:44,740 --> 00:08:49,460
+cáncer de pulmón, una tuberculosis o cualquier otra cosa, pero que viene con hipocalemia y
+
+103
+00:08:49,460 --> 00:08:53,860
+con hipertensión arterial que son dos cosas que se podían ver en el síndrome de Cushing,
+
+104
+00:08:53,860 --> 00:09:00,420
+en este caso sería un síndrome de secreción ectópica de ACTH, el primer examen en este
+
+105
+00:09:00,460 --> 00:09:05,380
+caso es una radiografía como para ir a buscar el tumor, ¿cierto? Pero luego de eso se puede
+
+106
+00:09:05,380 --> 00:09:08,860
+estudiar igual con todo lo que vimos del síndrome de Cushing. Eso es todo,
+
+107
+00:09:08,860 --> 00:09:13,140
+nos vemos en el siguiente video y ahí vamos a ver más cosas de las glándulas superrenales.

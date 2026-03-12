@@ -1,0 +1,303 @@
+1
+00:00:00,000 --> 00:00:06,740
+Hola, ¿cómo están? En esta clase vamos a hablar del hipotiroidismo congénito,
+
+2
+00:00:06,740 --> 00:00:10,940
+recordando que su causa más frecuente es la de higienesia tiroidea, ya sea con
+
+3
+00:00:10,940 --> 00:00:14,700
+agenesia, o sea que nunca se forma la glándula tiroides, con hipogenecia que
+
+4
+00:00:14,700 --> 00:00:18,740
+sí se forma pero más pequeña, o con ectopia, dígase que queda en alguna
+
+5
+00:00:18,740 --> 00:00:23,100
+parte en el conducto tirogloso, cierto, en la migración que tiene la
+
+6
+00:00:23,100 --> 00:00:27,700
+tiroides embrionaria durante el desarrollo embrionario y fetal, y
+
+7
+00:00:27,700 --> 00:00:31,840
+esto puede venir con o sin alteraciones en la batería enzimática
+
+8
+00:00:31,840 --> 00:00:37,400
+encargada de la producción de las hormonas tiroides además. El screening
+
+9
+00:00:37,400 --> 00:00:40,840
+es la forma en que habitualmente se hace el diagnóstico, se recomienda hacerlo
+
+10
+00:00:40,840 --> 00:00:46,120
+después de las 48 horas de vida porque antes viene falseado en algunas
+
+11
+00:00:46,120 --> 00:00:50,800
+oportunidades con la interacción con la madre intrauterina, cierto, se
+
+12
+00:00:50,800 --> 00:00:55,120
+recomienda hacerlo entre las 48 y 72 horas de vida, o sea antes de dar al
+
+13
+00:00:55,120 --> 00:01:01,520
+niño de alta del hospital y se hace con TSH en sangre ya sea capilar o
+
+14
+00:01:01,520 --> 00:01:06,320
+venosa, muchas veces se hace una toma de sangre capilar que es más fácil
+
+15
+00:01:06,320 --> 00:01:10,720
+pero en muchos centros se hace con una toma venosa que habitualmente o va a
+
+16
+00:01:10,720 --> 00:01:15,480
+un tubo de ensayo o a un papel, a un papel filtro que va finalmente a
+
+17
+00:01:15,480 --> 00:01:19,680
+ser analizado junto con el PKU, que acuérdense que es el segundo
+
+18
+00:01:19,680 --> 00:01:24,640
+screening neonatal que se hace que es para la fenilcetonuria, o sea en
+
+19
+00:01:24,640 --> 00:01:28,000
+Chile en los primeros días se piden esos dos screenings de manera obligatoria
+
+20
+00:01:28,000 --> 00:01:33,640
+y eso está en el sistema público. ¿Qué pasa con el screening con T4 en
+
+21
+00:01:33,640 --> 00:01:37,520
+vez de TSH? La verdad es que es algo perfectamente aceptable y se hace en
+
+22
+00:01:37,520 --> 00:01:43,400
+otros países pero, repito, en Chile se prefiere la TSH como el examen
+
+23
+00:01:43,400 --> 00:01:47,720
+estándar para este screening. Si es que estuviera el screening alterado, si es
+
+24
+00:01:47,720 --> 00:01:52,080
+que estuviera positivo con una TSH alta arriba de 15, en ese caso se va
+
+25
+00:01:52,080 --> 00:01:56,960
+a confirmar de inmediato con una TSH más una T4 libre, en este caso si se
+
+26
+00:01:56,960 --> 00:02:01,200
+hace con una toma en sangre venosa siempre, y dependiendo del resultado se
+
+27
+00:02:01,200 --> 00:02:06,080
+toma una decisión. Si están ambos normales, en ese caso era un falso
+
+28
+00:02:06,080 --> 00:02:11,720
+positivo, cierto, y el manejo va a ser simplemente observar y explicarle que
+
+29
+00:02:11,720 --> 00:02:15,400
+ahí no tiene realmente un hipotiroidismo congénito. Si es que la
+
+30
+00:02:15,400 --> 00:02:18,880
+TSH está alta pero la T4 libre está normal, igual que en los
+
+31
+00:02:18,880 --> 00:02:22,560
+adultos habría un hipotiroidismo subclínico en el cual está en
+
+32
+00:02:22,560 --> 00:02:27,160
+discusión si es que hay que tratarlo o no en los niños y lo que se hace
+
+33
+00:02:27,160 --> 00:02:31,280
+habitualmente antes de tomar esa decisión es esperar y repetir los
+
+34
+00:02:31,280 --> 00:02:35,840
+exámenes en siete días y con eso se decide finalmente. Repito, es
+
+35
+00:02:35,840 --> 00:02:40,280
+discutible si tratar el hipotiroidismo subclínico en niños o el
+
+36
+00:02:40,280 --> 00:02:44,520
+hipotiroidismo subclínico congénito o no. Finalmente, si es que
+
+37
+00:02:44,520 --> 00:02:48,640
+están realmente alterados con la TSH alta y la T4 libre que está
+
+38
+00:02:48,640 --> 00:02:51,560
+baja, se confirma el diagnóstico de hipotiroidismo congénito
+
+39
+00:02:51,560 --> 00:02:55,480
+primario y la conducta es tratarlo y que quede bien claro se trata
+
+40
+00:02:55,480 --> 00:03:00,480
+desde muy temprano. Es más, hay algunas personas que recomiendan
+
+41
+00:03:00,480 --> 00:03:04,280
+que incluso un screening demasiado alterado es indicación de
+
+42
+00:03:04,280 --> 00:03:07,520
+tratarlo de inmediato hasta que se tenga el resultado de las pruebas
+
+43
+00:03:07,520 --> 00:03:11,440
+confirmatorias y la dosis de la levotiroxina es bastante más
+
+44
+00:03:11,440 --> 00:03:15,920
+alta, al menos ajustado por kilo de peso en cuanto no es 1,6
+
+45
+00:03:15,920 --> 00:03:19,800
+microgramos por kilo como se da en el adulto, sino que es 10
+
+46
+00:03:19,800 --> 00:03:23,120
+a 15 microgramos por kilo de peso. No importa la dosis, lo
+
+47
+00:03:23,120 --> 00:03:26,960
+que sí importa es que se debe tratar desde muy temprano con
+
+48
+00:03:26,960 --> 00:03:30,240
+dosis relativamente altas ajustadas por el peso corporal.
+
+49
+00:03:31,160 --> 00:03:34,600
+Ahora, cuál es su clínica y que quede claro lo más frecuente
+
+50
+00:03:34,600 --> 00:03:38,080
+es que sean asintomáticos al nacimiento y por lo mismo es
+
+51
+00:03:38,080 --> 00:03:42,920
+que es tan importante hacer el screening, pero como otras
+
+52
+00:03:42,920 --> 00:03:46,360
+cosas que son frecuentes y que hay que saberlas, puede
+
+53
+00:03:46,360 --> 00:03:49,360
+presentarse con higtericia habitualmente tardía de
+
+54
+00:03:49,360 --> 00:03:52,120
+predominio indirecto, así que todo niño con una higtericia
+
+55
+00:03:52,120 --> 00:03:57,280
+tardía se estudia entre otros exámenes con una TSH, el
+
+56
+00:03:57,280 --> 00:04:00,680
+llanto puede ser ronco, como una voz un poco más ronca
+
+57
+00:04:00,680 --> 00:04:04,280
+de lo habitual, aunque ese es como un síntoma algo
+
+58
+00:04:04,280 --> 00:04:08,320
+inespecífico, cierto, y que es dependiente de la audición
+
+59
+00:04:08,320 --> 00:04:11,600
+de cada una de las personas que lo están evaluando.
+
+60
+00:04:11,640 --> 00:04:14,520
+Aparte de eso, puede venir con algunas alteraciones a nivel
+
+61
+00:04:14,520 --> 00:04:17,520
+del cordón umbilical, ejemplo que se demore más de lo normal
+
+62
+00:04:17,520 --> 00:04:20,320
+en caerse, ejemplo más de dos semanas o con una hernia
+
+63
+00:04:20,320 --> 00:04:23,000
+umbilical, que si bien se considera algo normal en el
+
+64
+00:04:23,000 --> 00:04:25,640
+racionacío y en el lactante, en el caso de que venga
+
+65
+00:04:25,640 --> 00:04:28,960
+con otros elementos clínicos me deben hacer sospechar un
+
+66
+00:04:28,960 --> 00:04:32,240
+hipotereodismo congénito y aparte de esto puede venir
+
+67
+00:04:32,240 --> 00:04:34,920
+con toda la clínica de un hipotereodismo ya más grave
+
+68
+00:04:34,920 --> 00:04:38,240
+con salorrea, hipotonía, letargia, hipotermia, piel
+
+69
+00:04:38,280 --> 00:04:42,880
+seca, con mixedema, con macroglosia, etcétera, pero lo
+
+70
+00:04:42,880 --> 00:04:46,320
+más importante es que en el largo plazo evoluciona a
+
+71
+00:04:46,320 --> 00:04:50,760
+déficit cognitivo, cierto, que se conoce como cretinismo.
+
+72
+00:04:50,760 --> 00:04:53,800
+Así que ¿qué es el cretinismo? Es justamente este
+
+73
+00:04:53,800 --> 00:04:56,880
+daño cerebral en un niño debido a un hipotereodismo
+
+74
+00:04:56,880 --> 00:04:59,800
+congénito y por lo mismo es tan tan importante hacer
+
+75
+00:04:59,800 --> 00:05:02,200
+el screening. Eso es todo, nos vemos en el siguiente
+
+76
+00:05:02,200 --> 00:05:03,040
+video que estén muy bien.

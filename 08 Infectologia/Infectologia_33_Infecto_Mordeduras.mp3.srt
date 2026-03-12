@@ -1,0 +1,231 @@
+1
+00:00:00,000 --> 00:00:07,460
+Hola hola, ¿cómo están? Hablemos del famoso síndrome de Sjögren, que es correcto
+
+2
+00:00:07,460 --> 00:00:11,420
+pronunciarlo en español como chogren y que en verdad se pronuncia de alguna
+
+3
+00:00:11,420 --> 00:00:15,540
+manera totalmente rara en sueco y yo no sé pronunciar en sueco así que lo
+
+4
+00:00:15,540 --> 00:00:19,860
+buscan en google translate o en chatgp y el que quiera escucharlo bien. Pero
+
+5
+00:00:19,860 --> 00:00:23,420
+vamos a las cosas importantes, su clínica es así, hay que saberla y hay
+
+6
+00:00:23,420 --> 00:00:27,300
+que saberla en detalle. Viene con un síndrome de zika. Zika no es lo mismo
+
+7
+00:00:27,300 --> 00:00:30,180
+que el síndrome de Sjögren por si acaso, aunque el síndrome de zika suele
+
+8
+00:00:30,180 --> 00:00:33,420
+ser la manifestación más frecuente y a veces la única del síndrome de
+
+9
+00:00:33,420 --> 00:00:37,420
+Sjögren, que es un síndrome de zika, un síndrome de sequedad. Por un lado
+
+10
+00:00:37,420 --> 00:00:41,700
+viene con seroftalmia, sequedad ocular que se puede traducir en creatitis
+
+11
+00:00:41,700 --> 00:00:46,420
+puntata, en hipolacrímia, en molestias oculares como bien
+
+12
+00:00:46,420 --> 00:00:49,540
+inespecíficas en algunas oportunidades. En segundo lugar con
+
+13
+00:00:49,540 --> 00:00:53,900
+serostomía, sequedad de la boca, así tengo poca saliva, siento que se me
+
+14
+00:00:53,900 --> 00:00:57,300
+queda pegado el pan, etcétera. Y finalmente puede venir también con
+
+15
+00:00:57,300 --> 00:01:00,820
+sequedad de otros órganos como sequedad vaginal al momento de tener
+
+16
+00:01:00,820 --> 00:01:05,660
+relaciones sexuales, por ejemplo. Además en el caso del síndrome de
+
+17
+00:01:05,660 --> 00:01:10,700
+Sjögren más severo, puede venir con manifestaciones extra glandulares que
+
+18
+00:01:10,700 --> 00:01:16,420
+no solamente afectan las glándulas lacrimales y salivales, sino que puede
+
+19
+00:01:16,420 --> 00:01:20,140
+afectar otros órganos. La más importante es la artritis, que suele
+
+20
+00:01:20,140 --> 00:01:23,260
+ser una artritis no erosiva, pero además puede venir con fibrosis
+
+21
+00:01:23,260 --> 00:01:27,420
+pulmonar, con nefitis interticial, entre una larga lista de otras
+
+22
+00:01:27,420 --> 00:01:30,900
+manifestaciones. Pero recordemos que el síndrome de Sjögren es lo más
+
+23
+00:01:30,900 --> 00:01:35,660
+importante y es lo que suele definir de una u otra forma esta patología.
+
+24
+00:01:35,660 --> 00:01:39,300
+Su diagnóstico se hace con una serie de criterios que no vale la pena
+
+25
+00:01:39,300 --> 00:01:43,300
+saberlos, pero la parte clínica es la más importante y estos distintos
+
+26
+00:01:43,300 --> 00:01:47,540
+criterios dan puntaje. Dentro de ellos la clínica, la presencia de
+
+27
+00:01:47,540 --> 00:01:51,180
+anticuerpos, algunos exámenes generales que me muestran, por ejemplo,
+
+28
+00:01:51,500 --> 00:01:55,820
+una paraproteinemia, etcétera, más eventualmente la biopsia salival.
+
+29
+00:01:56,180 --> 00:01:59,140
+La clínica hay que saberla, los anticuerpos hay que saberlos también
+
+30
+00:01:59,140 --> 00:02:03,100
+y la biopsia salival habitualmente se saca un pedazo de mucosa oral
+
+31
+00:02:03,380 --> 00:02:06,100
+para ir a ver las glándulas salivales menores que suelen estar
+
+32
+00:02:06,100 --> 00:02:09,860
+afectadas y que son más fáciles de biopsiar que una parótica,
+
+33
+00:02:09,860 --> 00:02:14,420
+por ejemplo. Ahora, hay muchos otros criterios, no son los únicos
+
+34
+00:02:14,420 --> 00:02:19,140
+y, repito, no vale la pena saberlos. Los marcadores de Sjögren
+
+35
+00:02:19,220 --> 00:02:23,420
+son fundamentalmente tres. Por un lado, está el factor reumatoide
+
+36
+00:02:23,420 --> 00:02:26,500
+que está positivo, un porcentaje muy alto de los pacientes con
+
+37
+00:02:26,500 --> 00:02:30,580
+esta enfermedad y, aparte de eso, los anticuerpos antirro y antilá
+
+38
+00:02:30,580 --> 00:02:33,500
+que son un tipo de anas. Así que en la práctica son factor
+
+39
+00:02:33,500 --> 00:02:37,180
+reumatoide positivo, ana positivo y en el perfil ena me sale
+
+40
+00:02:37,180 --> 00:02:41,700
+o ro o la o ro y la positivo. Finalmente, el tratamiento
+
+41
+00:02:41,700 --> 00:02:44,820
+del síndrome de Sjögren suele ser sintomático para los síntomas
+
+42
+00:02:44,820 --> 00:02:47,740
+del síndrome de zika, para los síntomas de la sequedad.
+
+43
+00:02:48,060 --> 00:02:51,820
+Dígase, para la ser oftalmia se usan lágrimas artificiales.
+
+44
+00:02:52,140 --> 00:02:55,780
+Para la serostomía habitualmente se da que tome más agua o bien
+
+45
+00:02:55,780 --> 00:02:58,700
+se dejan secretagobos que puede ser un limón, por ejemplo,
+
+46
+00:02:58,700 --> 00:03:01,660
+o alguna otra cosa similar. Y finalmente, para la sequedad
+
+47
+00:03:01,660 --> 00:03:05,820
+vaginal, la lubricación vaginal. Y finalmente, para los
+
+48
+00:03:05,820 --> 00:03:08,780
+síntomas extra glandulares, la verdad es que se maneja bien
+
+49
+00:03:08,780 --> 00:03:12,220
+similar al lupus y no vale la pena entrar en mayores detalles,
+
+50
+00:03:12,220 --> 00:03:15,700
+pero corticoides, ahorradores de corticoides y la hidroxicloroquina
+
+51
+00:03:15,700 --> 00:03:20,060
+que ha demostrado bastante utilidad en esta patología también.
+
+52
+00:03:20,980 --> 00:03:23,740
+Como cosa final, acuérdense que existe el Sjögren primario,
+
+53
+00:03:23,740 --> 00:03:26,580
+que es el que acabamos de explicar, y aparte está el secundario,
+
+54
+00:03:26,580 --> 00:03:29,980
+que secundario a otra enfermedad autoinmune, ejemplo, secundario
+
+55
+00:03:29,980 --> 00:03:32,180
+lupus, secundario también a una artritis reumatoide.
+
+56
+00:03:32,420 --> 00:03:35,140
+Y en este caso, además hay que dar el manejo de la enfermedad
+
+57
+00:03:35,140 --> 00:03:37,020
+de base. Y bueno, eso es todo.
+
+58
+00:03:37,020 --> 00:03:38,540
+Nos vemos en el siguiente video. Que estén bien.

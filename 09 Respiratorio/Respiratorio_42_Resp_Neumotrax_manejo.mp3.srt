@@ -1,0 +1,191 @@
+1
+00:00:00,000 --> 00:00:06,760
+Hola, ¿cómo están? Hablemos ahora del manejo del pneumotórax que a grandes rasgos
+
+2
+00:00:06,760 --> 00:00:12,060
+varía según el tamaño, según su severidad. Si es que es menor a 15% o si
+
+3
+00:00:12,060 --> 00:00:17,780
+es mayor a 15% es lo que me determina la decisión terapéutica y a veces no
+
+4
+00:00:17,780 --> 00:00:22,300
+me dan el porcentaje del tamaño, sino que simplemente me dan los centímetros
+
+5
+00:00:22,300 --> 00:00:28,060
+de ancho o de alto y el 15% es más o menos 2 centímetros de ancho o 3
+
+6
+00:00:28,060 --> 00:00:31,380
+centímetros de alto cuando son pneumotórax que están en la zona más
+
+7
+00:00:31,380 --> 00:00:35,940
+alta de la calidad torácica. Así que si me dicen que tiene 3 centímetros de
+
+8
+00:00:35,940 --> 00:00:39,860
+ancho, se manejaría como uno mayor a 15%. Si me dicen en cambio que tiene
+
+9
+00:00:39,860 --> 00:00:43,340
+solamente 1 centímetro de ancho y de alto, en ese caso se maneja como uno
+
+10
+00:00:43,340 --> 00:00:47,700
+menor a 15%. Cuando es menor a 15% se considera una
+
+11
+00:00:47,700 --> 00:00:52,500
+pneumotórax pequeño de bajo riesgo y se maneja simplemente con analgésicos
+
+12
+00:00:52,500 --> 00:00:57,140
+en el sentido en que la probabilidad de que se reabsorba solo es muy alta,
+
+13
+00:00:57,140 --> 00:01:01,940
+pero sí se recomienda el realizarle una radiografía de control en 4 a 6 horas,
+
+14
+00:01:01,940 --> 00:01:07,540
+así que habitualmente queda la misma urgencia en observación y a las 4 o 6
+
+15
+00:01:07,540 --> 00:01:11,420
+horas se hace una nueva radiografía. Si es que está estable uno le dice mira
+
+16
+00:01:11,420 --> 00:01:16,300
+esto anda bien se va a reabsorber solo, así que queda con observación, se
+
+17
+00:01:16,300 --> 00:01:20,420
+manda para su casa, explicándole los signos de alarma
+
+18
+00:01:20,420 --> 00:01:25,380
+obviamente y si es que crece en cambio en ese caso se va a manejar con
+
+19
+00:01:25,380 --> 00:01:30,580
+drenaje igual que cómo se manejan los mayores a 15% que por la general el
+
+20
+00:01:30,580 --> 00:01:35,340
+drenaje del aire se hace o con una sonda pleural o con un tubo pleural con
+
+21
+00:01:35,340 --> 00:01:39,660
+una toracostomía más una trampa de agua y con instalación del tubo
+
+22
+00:01:39,660 --> 00:01:44,420
+pleural. La toracostomía es lo mismo que el tubo pleural y la trampa de
+
+23
+00:01:44,420 --> 00:01:47,980
+agua es lo que se pone al final del tubo como para evitar que entre
+
+24
+00:01:47,980 --> 00:01:52,220
+el aire desde el ambiente a la cadera pleural. Cuando hay un segundo
+
+25
+00:01:52,220 --> 00:01:56,180
+episodio y aquí que quede esto bien claro, independientemente del tamaño, me
+
+26
+00:01:56,180 --> 00:02:01,060
+da lo mismo si es de un centímetro o si es que es de 80%, independientemente
+
+27
+00:02:01,060 --> 00:02:06,100
+del tamaño desde el segundo episodio en adelante se maneja con cirugía y la
+
+28
+00:02:06,100 --> 00:02:11,420
+cirugía habitualmente va a producir un sellamiento de la pleura y a
+
+29
+00:02:11,420 --> 00:02:15,660
+remover los blebs o las bulas que eventualmente pueda haber como
+
+30
+00:02:15,660 --> 00:02:20,060
+causa secundaria del neumotórax. Que quede bien claro actualmente se
+
+31
+00:02:20,100 --> 00:02:24,580
+prefiere la cirugía por videotoracoscopía en vez de la cirugía
+
+32
+00:02:24,580 --> 00:02:29,420
+abierta dado que es bastante menos cruenta y esto se puede hacer
+
+33
+00:02:29,420 --> 00:02:33,940
+relativamente fácil en el sentido en que suelen ser pacientes
+
+34
+00:02:33,940 --> 00:02:38,300
+relativamente jóvenes que aguantan bien esta cirugía. Cuando neumotórax
+
+35
+00:02:38,300 --> 00:02:42,420
+es atención en cambio, habíamos dicho que hay que drenarlo de manera
+
+36
+00:02:42,420 --> 00:02:45,340
+urgente, la forma en que habitualmente se hace es con una
+
+37
+00:02:45,340 --> 00:02:49,740
+función inmediata ya sea en el segundo espacio intercostal en la
+
+38
+00:02:49,740 --> 00:02:54,540
+línea medio clavicular o sea aquí arriba o bien en el quinto espacio
+
+39
+00:02:54,540 --> 00:02:58,460
+intercostal a nivel de la línea axilar media, esos son los dos lugares en
+
+40
+00:02:58,460 --> 00:03:02,380
+los cuales se puede funcionar. Que quede bien claro de segunda línea
+
+41
+00:03:02,380 --> 00:03:06,100
+igualmente se instala un tubo pleural y es más en el caso de que yo
+
+42
+00:03:06,100 --> 00:03:10,140
+tenga disponible el tubo pleural como para instalarlo de inmediato
+
+43
+00:03:10,140 --> 00:03:14,460
+eventualmente se puede manejar con una pleuroctomía directa cierto, sin
+
+44
+00:03:14,460 --> 00:03:19,420
+pasar por la función del segundo espacio intercostal pero repito
+
+45
+00:03:19,420 --> 00:03:22,740
+siempre y cuando se puede hacer inmediatamente dado que en neumotórax
+
+46
+00:03:22,740 --> 00:03:26,380
+atención si no se maneja de inmediato el paciente simplemente se
+
+47
+00:03:26,380 --> 00:03:29,660
+muere. Y bueno eso es todo lo que hay que saber nos vemos con otros temas
+
+48
+00:03:29,660 --> 00:03:33,260
+en los siguientes vídeos. Que estén bien.

@@ -1,0 +1,307 @@
+1
+00:00:00,000 --> 00:00:08,900
+Hola, ¿cómo están? Vamos a empezar con este tema complejo del cáncer en hematología
+
+2
+00:00:08,900 --> 00:00:12,260
+y vamos a empezar con un video solamente a modo de introducción
+
+3
+00:00:12,260 --> 00:00:16,460
+en el sentido que es difícil, pero se logra entender bastante bien.
+
+4
+00:00:16,460 --> 00:00:21,500
+Así que empecemos a ver algunas nociones dentro del cáncer hematológico,
+
+5
+00:00:21,500 --> 00:00:26,380
+empezando por algo que hay que entender, que es que los cánceres hematológicos
+
+6
+00:00:26,380 --> 00:00:30,060
+parten diseminados desde el inicio, a diferencia de un cáncer gástrico, por ejemplo,
+
+7
+00:00:30,180 --> 00:00:34,460
+que empieza con una lesión que luego crece y que al final se disemina.
+
+8
+00:00:34,460 --> 00:00:38,420
+En este caso, si empieza la médula ósea en un punto, esas células ya rápidamente
+
+9
+00:00:38,420 --> 00:00:41,500
+alcanzan la médula ósea de todo el cuerpo y la sangre también.
+
+10
+00:00:41,500 --> 00:00:43,500
+Ahora, hay algunas excepciones.
+
+11
+00:00:43,500 --> 00:00:49,460
+El linfoma de Hodgkin de algunos tipos en particular eventualmente se comporta
+
+12
+00:00:49,460 --> 00:00:52,220
+más como un carcinoma en la forma en que se diseminan,
+
+13
+00:00:52,220 --> 00:00:55,100
+pero la regla general es parten diseminados.
+
+14
+00:00:55,100 --> 00:00:57,660
+Segundo lugar, suelen ser quimiosensibles.
+
+15
+00:00:57,700 --> 00:01:04,020
+La quimioterapia cumple un rol muy importante en el manejo del cáncer en hematología.
+
+16
+00:01:04,020 --> 00:01:08,460
+Muchas veces es curativa y en las que no, muchas veces igualmente sirve
+
+17
+00:01:08,460 --> 00:01:10,460
+para aumentar la sobrevida.
+
+18
+00:01:11,300 --> 00:01:16,660
+En los cánceres de alto grado o agresivos, en general son curables,
+
+19
+00:01:16,660 --> 00:01:21,340
+pero lo malo es que si es que no responden, eventualmente sí causan la muerte muy rápido.
+
+20
+00:01:21,340 --> 00:01:24,500
+Ejemplo, las leucemias agúas, los linfomas de alto grado.
+
+21
+00:01:24,540 --> 00:01:30,140
+En cambio, los de bajo grado o indolentes suelen ser mucho más lentos en su avance,
+
+22
+00:01:30,140 --> 00:01:31,340
+pero suelen ser incurable.
+
+23
+00:01:31,340 --> 00:01:35,020
+Así que en estos casos la quimioterapia habitualmente se reserva
+
+24
+00:01:35,020 --> 00:01:40,300
+como para la última fase, en el momento en que antes avanza tan lento que se puede observar.
+
+25
+00:01:41,100 --> 00:01:45,180
+Ahora, los cánceres hematológicos todos actualmente en su biopsia
+
+26
+00:01:45,180 --> 00:01:51,660
+van a un extensivo análisis y estudio inmunohistoquímico y citogenético.
+
+27
+00:01:51,660 --> 00:01:54,500
+Número 1, para saber exactamente qué tipo de cáncer es.
+
+28
+00:01:54,500 --> 00:01:59,340
+Número 2, para identificar los potenciales target u objetivos de ataque
+
+29
+00:01:59,340 --> 00:02:02,460
+con las quimioterapias, con los anticuerpos monoclonales, etc.
+
+30
+00:02:02,460 --> 00:02:06,580
+En el sentido que en la actualidad existen anticuerpos monoclonales
+
+31
+00:02:06,580 --> 00:02:10,060
+y fármacos súper específicos para cada uno de estos tipos de cánceres
+
+32
+00:02:10,060 --> 00:02:12,420
+y cada día se están desarrollando más.
+
+33
+00:02:12,420 --> 00:02:17,220
+Aparte de esto, siempre en todos, la última línea, la última última
+
+34
+00:02:17,220 --> 00:02:19,220
+es el trasplante de médula ósea.
+
+35
+00:02:19,220 --> 00:02:23,180
+Se usa en general en aquellos en los cuales falla la quimioterapia
+
+36
+00:02:23,180 --> 00:02:27,980
+o en los crónicos indolentes como menos agresivos que no son curables,
+
+37
+00:02:27,980 --> 00:02:30,660
+como el único tratamiento con opción curativa.
+
+38
+00:02:30,660 --> 00:02:35,980
+Pero tiene lo malo que 1, es caro, 2, a veces es difícil conseguir el donante
+
+39
+00:02:35,980 --> 00:02:39,940
+y 3, es bastante riesgoso, en el sentido en que la forma en que funciona es
+
+40
+00:02:39,940 --> 00:02:45,740
+yo le mato el sistema inmune absolutamente, le mato la médula ósea con una superquimioterapia
+
+41
+00:02:45,780 --> 00:02:51,460
+y luego de eso le pongo una médula ósea de un donante, con la esperanza de que pegue.
+
+42
+00:02:51,460 --> 00:02:56,500
+Pero en el intertanto puede ocurrir, número 1, que se me inmunode prima demasiado
+
+43
+00:02:56,500 --> 00:02:58,500
+y se infecte y se muera, por ejemplo.
+
+44
+00:02:58,500 --> 00:03:04,940
+Número 2, que la médula del donante no pegue, que no sea compatible, que no quede bien.
+
+45
+00:03:04,940 --> 00:03:09,620
+Y número 3, que sí pegue pero ataque finalmente al cuerpo de la misma persona
+
+46
+00:03:09,620 --> 00:03:15,620
+que lo está recibiendo, que es lo que se conoce como la enfermedad de injerto contra huésped.
+
+47
+00:03:15,620 --> 00:03:21,260
+Finalmente sepan, todos los cánceres hematológicos se complican con infecciones como número 1,
+
+48
+00:03:21,260 --> 00:03:26,740
+aparte con trombosis y finalmente con hemorragias y esas 3 son las causas de muerte más importantes.
+
+49
+00:03:26,740 --> 00:03:30,060
+Infecciones número 1, trombosis número 2 y hemorragia número 3
+
+50
+00:03:30,060 --> 00:03:35,460
+y repito, eso aplica en general a las leucemias, linfomas, vialomas, etcétera, a todos.
+
+51
+00:03:35,460 --> 00:03:42,260
+Veamos la clasificación, nuevamente como una nusión, sabiendo que hay muchos tipos de clasificaciones diferentes.
+
+52
+00:03:42,900 --> 00:03:48,940
+En este video vamos a ver aquella que yo creo que es la que más sirve como para entender y aprender.
+
+53
+00:03:48,940 --> 00:03:53,620
+Pero sepan que algunos lo clasifican, por ejemplo, en mieloides y linfoides.
+
+54
+00:03:53,620 --> 00:03:57,500
+Los mismos linfoides se pueden dividir en de células B y de células T,
+
+55
+00:03:57,500 --> 00:04:02,220
+en agresivos e indolentes que ya lo mencionamos brevemente y muchas otras.
+
+56
+00:04:02,220 --> 00:04:08,100
+Pero lo que vamos a ver acá es esta, en leucemias, linfomas, síndromes mieloproliferativos,
+
+57
+00:04:08,140 --> 00:04:12,780
+mielodispláceas, gamopatías monoclonales y bueno, algunas otras neoplasias.
+
+58
+00:04:12,780 --> 00:04:15,060
+O sea, sepan que hay distintos tipos.
+
+59
+00:04:15,060 --> 00:04:17,900
+Ejemplos de leucemias pueden ser agudas o crónicas.
+
+60
+00:04:17,900 --> 00:04:24,860
+Dentro de las agudas, leucemia linfática aguda, leucemia mieloide aguda y cada una de ellas a su vez se subdivide en otros tipos.
+
+61
+00:04:24,860 --> 00:04:30,260
+Las crónicas, leucemia linfática crónica, leucemia mieloide crónica, leucemia de células peludas,
+
+62
+00:04:30,260 --> 00:04:33,220
+leucemia T, lo que ustedes quieran, hay varias más.
+
+63
+00:04:33,260 --> 00:04:39,940
+Los linfomas que a su vez se subdividen en el linfoma de Hodgkin que tiene un manejo un poco diferente.
+
+64
+00:04:39,940 --> 00:04:44,900
+A su vez aquí hay cuatro subtipos que no hay por qué detallarlos por si acaso.
+
+65
+00:04:44,900 --> 00:04:49,620
+Y linfomas no Hodgkin en los cuales hay muchos tipos y nuevamente el de células B es el más clásico,
+
+66
+00:04:49,620 --> 00:04:53,220
+pero hay de células T también, hay agresivos, hay indolentes, etcétera.
+
+67
+00:04:53,220 --> 00:05:00,020
+Están como temas aparte los síndromes mieloproliferativos que sí incluyen a una leucemia, la leucemia mieloide crónica,
+
+68
+00:05:00,020 --> 00:05:09,820
+pero aparte está la trombocitosis esencial, la policitemia vera y la mielofibrosis que también se llama metaplasia mieloide
+
+69
+00:05:09,820 --> 00:05:14,180
+y que sepan que es correcto agruparlos porque comparten muchas características.
+
+70
+00:05:14,180 --> 00:05:21,980
+Además están las mielodisplácias que hay muchos tipos y que en general se pueden entender como una especie de leucemia mieloide in situ,
+
+71
+00:05:21,980 --> 00:05:28,860
+en el sentido en que está limitada a la médula pero que eventualmente pueden evolucionar a una leucemia mieloide aguda después.
+
+72
+00:05:28,900 --> 00:05:37,900
+Están las gamapatías monoclonales dentro de las cuales está el mieloma múltiple, el MGAS que es la gamapatía monoclonal de significado incierto
+
+73
+00:05:37,900 --> 00:05:46,300
+con sus siglas en inglés, la macroglobulinemia de Waldström, la amiloidosis, etcétera.
+
+74
+00:05:46,300 --> 00:05:53,860
+Y finalmente hay otras neoplasias como ejemplo la mastocitosis, la histocitosis y algunas otras que no he mencionado acá tampoco.
+
+75
+00:05:54,460 --> 00:06:00,860
+Ahora, lo importante, no son lo mismo, no son lo mismo, la leucemia no es lo mismo que mielodisplase, que no es lo mismo que mielofibrosis,
+
+76
+00:06:00,860 --> 00:06:08,420
+que no es lo mismo que mieloma, que no es lo mismo que linfoma, ya, y hay que saber la diferencia y eso es justamente lo que vamos a ver en los próximos videos.
+
+77
+00:06:08,420 --> 00:06:09,420
+Ahí nos vemos.

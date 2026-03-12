@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:06,880
+Hola, ¿cómo están? Vamos a cerrar este tema de las enfermedades pulmonares
+
+2
+00:00:06,880 --> 00:00:11,040
+interticiales con el tema de las neumoconiosis, que recordemos que son un
+
+3
+00:00:11,040 --> 00:00:16,480
+conjunto de enfermedades en las cuales se expone a un inhalante inorgánico
+
+4
+00:00:16,480 --> 00:00:19,960
+que se va acumulando en los pulmones y que se produce una reacción
+
+5
+00:00:19,960 --> 00:00:24,320
+inflamatoria en contra de esta cosa, repito, inorgánica, lo cual lo
+
+6
+00:00:24,320 --> 00:00:28,000
+diferencia de la neumonitis por hipersensibilidad, que en cambio es
+
+7
+00:00:28,000 --> 00:00:31,040
+algo orgánico que genera una reacción de tipo alérgica, así que
+
+8
+00:00:31,040 --> 00:00:35,040
+repito, las neumoconiosis no son por hipersensibilidad sino que son por
+
+9
+00:00:35,040 --> 00:00:39,240
+acumulación de algún compuesto inorgánico, siendo la silicosis que es
+
+10
+00:00:39,240 --> 00:00:42,800
+por acumulación de sílice, la neumoconiosis del carbón en que se
+
+11
+00:00:42,800 --> 00:00:46,280
+acumula por un lado el carbón y por otro lado el sílice también, y la
+
+12
+00:00:46,280 --> 00:00:50,120
+asbestosis en las cuales se acumula asbestos, cierto, las más frecuentes, aunque
+
+13
+00:00:50,120 --> 00:00:54,200
+hay algunas otras mucho más raras como la veriliosis, etcétera. Recordemos
+
+14
+00:00:54,200 --> 00:00:58,560
+las generalidades de estas enfermedades. Número uno son
+
+15
+00:00:58,560 --> 00:01:03,060
+enfermedades de tipo laboral, así que se acogen al menos en Chile al régimen
+
+16
+00:01:03,060 --> 00:01:06,560
+de las enfermedades profesionales. Segundo lugar es algo que está muy
+
+17
+00:01:06,560 --> 00:01:11,160
+regulado en la actualidad y los trabajos en los cuales hay exposición a
+
+18
+00:01:11,160 --> 00:01:15,360
+los inhalantes que se pueden complicar con esto, están muy regulados por
+
+19
+00:01:15,360 --> 00:01:20,160
+regla general y por lo mismo su incidencia ha caído mucho, aún sigue
+
+20
+00:01:20,160 --> 00:01:23,960
+habiendo algunos pacientes que son muy antiguos que siguen con esta
+
+21
+00:01:23,960 --> 00:01:28,000
+enfermedad o que están trabajando en algún trabajo informal sin una
+
+22
+00:01:28,000 --> 00:01:32,680
+normativa o una aplicación de medidas de seguridad que sea correcta. Además
+
+23
+00:01:32,680 --> 00:01:37,160
+el diagnóstico es fundamentalmente clínico más el antecedente de la
+
+24
+00:01:37,160 --> 00:01:42,320
+exposición al sílice, al asbestos o al carbón, cierto, que esté bien
+
+25
+00:01:42,320 --> 00:01:46,960
+claramente identificado y finalmente se corrobora con una imagen también,
+
+26
+00:01:46,960 --> 00:01:50,960
+pero por regla general el diagnóstico exige esos tres elementos,
+
+27
+00:01:50,960 --> 00:01:55,040
+la clínica, la imagen y en particular el antecedente de exposición que es
+
+28
+00:01:55,080 --> 00:02:00,680
+más importante. Finalmente el manejo suele ser simplemente el soporte,
+
+29
+00:02:00,680 --> 00:02:05,240
+dígase el oxígeno por ejemplo, en los casos muy graves eventualmente el
+
+30
+00:02:05,240 --> 00:02:08,980
+trasplante pulmonar también, así que nuevamente lo más importante no es el
+
+31
+00:02:08,980 --> 00:02:14,360
+manejo sino que es el evitar que se desarrollen, dígase la prevención de
+
+32
+00:02:14,360 --> 00:02:18,000
+estas enfermedades. Vemos ahora la silicosis que es la más frecuente,
+
+33
+00:02:18,000 --> 00:02:22,880
+habitualmente es por exposición a sílice que es algo que se encuentra
+
+34
+00:02:22,880 --> 00:02:26,080
+habitualmente en las fábricas de vidrio, en particular cuando se corta el
+
+35
+00:02:26,080 --> 00:02:31,000
+vidrio, en las de roca, igualmente cuando se corta la roca y sale como el
+
+36
+00:02:31,000 --> 00:02:35,160
+polvo de roca, en la arena cierto y en los materiales de construcción.
+
+37
+00:02:35,160 --> 00:02:39,800
+Segundo lugar la radiografía se suele ver con múltiples nódulos que son
+
+38
+00:02:39,800 --> 00:02:43,240
+más frecuentes en los lóbulos superiores que los inferiores, aunque
+
+39
+00:02:43,240 --> 00:02:47,840
+es algo que se puede ver de distintas formas, que lo que manda
+
+40
+00:02:48,280 --> 00:02:53,720
+más que el tipo de patrón radiológico, habitualmente es el antecedente de la
+
+41
+00:02:53,720 --> 00:02:57,240
+exposición y el cuadro clínico más la imagen que venga con alguna
+
+42
+00:02:57,240 --> 00:03:02,720
+alteración que sea compatible, más que sea especialmente clásica. Además se
+
+43
+00:03:02,720 --> 00:03:06,520
+describe como una cosa bien propia de la silicosis, la calcificación de los
+
+44
+00:03:06,520 --> 00:03:10,960
+nódulos mediastínicos en cáscara de huevo, en el sentido que se
+
+45
+00:03:10,960 --> 00:03:14,520
+ven como un huevito justamente y que es algo que se ve en algunos casos
+
+46
+00:03:14,560 --> 00:03:19,520
+de tuberculosis también, pero aquí algo que hay que recordar, la tuberculosis
+
+47
+00:03:19,520 --> 00:03:23,080
+suele ser una de las complicaciones de la silicosis también. O sea,
+
+48
+00:03:23,080 --> 00:03:26,800
+acuérdense, los pacientes con silicosis que eventualmente se complican
+
+49
+00:03:26,800 --> 00:03:30,440
+de alguna forma, además de descartar las neumonías común y corriente que
+
+50
+00:03:30,440 --> 00:03:33,480
+se ve en cualquier paciente con una patología pulmonar, hay que ir
+
+51
+00:03:33,480 --> 00:03:37,040
+dirigidamente a buscar tuberculosis también dado que es un factor de
+
+52
+00:03:37,040 --> 00:03:40,840
+riesgo bastante importante para que se complique de esta forma.
+
+53
+00:03:41,240 --> 00:03:45,840
+La neumoconiosis del minero del carbón por la general es por exposición
+
+54
+00:03:45,840 --> 00:03:48,600
+a carbón y también a sílice que está en las minas de carbón.
+
+55
+00:03:48,960 --> 00:03:53,360
+Pero acuérdense que no se llama silicosis del carbón, sino que se
+
+56
+00:03:53,360 --> 00:03:57,160
+llama neumoconiosis debido a que la fisiopatología es ligeramente
+
+57
+00:03:57,160 --> 00:04:02,040
+distinta. Acá habría una especie de sinergia entre la inflamación
+
+58
+00:04:02,040 --> 00:04:06,240
+causada por el sílice, es cierto, más la presencia del carbón.
+
+59
+00:04:07,200 --> 00:04:11,120
+Las minas de carbón más importantes en Chile, cierto, son las de Lota
+
+60
+00:04:11,120 --> 00:04:17,760
+Schweier y es algo que actualmente ya hay muy pocos casos, solamente
+
+61
+00:04:17,760 --> 00:04:21,280
+los pacientes más antiguos que llegan con esto. Ahora, la radiografía
+
+62
+00:04:21,280 --> 00:04:24,080
+suele ser bastante similar a la silicosis y el cuadro clínico
+
+63
+00:04:24,080 --> 00:04:27,960
+también, por si acaso. La asbestosis, que es la última que vamos a ver
+
+64
+00:04:27,960 --> 00:04:30,320
+y que hay que saberla, viene con algunas diferencias.
+
+65
+00:04:31,000 --> 00:04:34,720
+La exposición es al asbestos, que era un material de construcción
+
+66
+00:04:34,720 --> 00:04:37,840
+muy bueno, por si acaso, desde el punto de vista de que no se quemaba,
+
+67
+00:04:37,840 --> 00:04:40,600
+de que era un buen aislamiento térmico y acústico, cierto,
+
+68
+00:04:40,600 --> 00:04:44,480
+pero con lo malo que era muy riesgoso desde el punto de vista de las
+
+69
+00:04:44,480 --> 00:04:47,280
+personas que trabajaban ahí. No la gente que vive en una casa
+
+70
+00:04:47,280 --> 00:04:51,040
+con asbestos no tiene ningún riesgo, pero la gente que corta el asbestos
+
+71
+00:04:51,040 --> 00:04:56,240
+que manipula las tablas de asbestos con volatilización
+
+72
+00:04:56,240 --> 00:04:59,360
+de las fibras de asbestos, en ese caso sí viene con un riesgo
+
+73
+00:04:59,360 --> 00:05:02,840
+que es alto. El nombre de la antigua fábrica que había en Chile
+
+74
+00:05:02,880 --> 00:05:06,120
+y que está cerrada, por si acaso, en la actualidad, era Pizarreño,
+
+75
+00:05:06,120 --> 00:05:09,480
+por si acaso, por si alguien viene con alguna cosa rara y les dice
+
+76
+00:05:09,480 --> 00:05:13,320
+que había trabajado en esa empresa, pues hay que ir a buscar la asbestosis.
+
+77
+00:05:13,960 --> 00:05:16,600
+Ahora, dos cosas que hay que saber de la asbestosis.
+
+78
+00:05:16,920 --> 00:05:19,000
+Número uno, afecta mucho la pleura.
+
+79
+00:05:19,000 --> 00:05:22,920
+De hecho, en la radiografía se describe como una epaqui pleuritis
+
+80
+00:05:24,080 --> 00:05:25,920
+calcificada más en las bases.
+
+81
+00:05:26,880 --> 00:05:32,040
+Que sea paqui significa grueso, cierto, y con la afectación con calcio.
+
+82
+00:05:32,080 --> 00:05:34,680
+Se ve blanca, de ahí vamos a ver alguna imagen y va a quedar super claro.
+
+83
+00:05:35,040 --> 00:05:38,280
+Y finalmente es de la neumoconiosis la que se complica
+
+84
+00:05:38,280 --> 00:05:42,480
+con mayor frecuencia con cáncer, ya sea el cáncer de pulmón
+
+85
+00:05:42,480 --> 00:05:45,880
+o bronquial, cierto, que es algo que se ve en todas las neumoconiosis
+
+86
+00:05:45,880 --> 00:05:49,360
+o bien en específico con el mesotelioma, que habitualmente
+
+87
+00:05:49,360 --> 00:05:52,400
+es una complicación de la asbestosis en particular.
+
+88
+00:05:52,680 --> 00:05:56,080
+Y de hecho se considera igualmente una enfermedad laboral,
+
+89
+00:05:56,320 --> 00:06:00,160
+una enfermedad que está causada por la exposición a este asbestos.
+
+90
+00:06:00,960 --> 00:06:03,600
+Aquí se ve una radiografía de la silicosis, si se fijan
+
+91
+00:06:03,600 --> 00:06:05,920
+los múltiples nódulos más en los lóbulos superiores.
+
+92
+00:06:06,320 --> 00:06:08,800
+Si es que me dijeran que viene con un cuadro agudo
+
+93
+00:06:08,800 --> 00:06:12,240
+y que nunca se había expuesto al sílice, en ese caso
+
+94
+00:06:12,240 --> 00:06:15,080
+puede ser una tuberculosis miliar, esa radiografía también.
+
+95
+00:06:15,840 --> 00:06:18,640
+Segundo lugar, acá se ve la asbestosis, cierto,
+
+96
+00:06:18,960 --> 00:06:22,320
+que si bien en los pulmones las imágenes pueden ser
+
+97
+00:06:22,320 --> 00:06:26,560
+de alguna otra cosa también, la calcificación de las bases
+
+98
+00:06:27,520 --> 00:06:31,240
+En esa zona la Pachypleuritis calcificada mayor en las bases
+
+99
+00:06:31,240 --> 00:06:33,600
+es algo bien característico de esa patología.
+
+100
+00:06:34,000 --> 00:06:36,880
+Y finalmente aquí se ve una imagen de un aneumoconiosis
+
+101
+00:06:36,880 --> 00:06:39,320
+del minero del carbón, que es la única razón
+
+102
+00:06:39,680 --> 00:06:41,880
+por la cual se sabe que es eso y que no es una neumonía
+
+103
+00:06:41,880 --> 00:06:44,240
+o una tuberculosis o alguna otra cosa, es simplemente
+
+104
+00:06:44,240 --> 00:06:47,440
+el antecedente de haber estado expuesto laboralmente
+
+105
+00:06:47,440 --> 00:06:48,640
+a una mina de carbón.
+
+106
+00:06:48,640 --> 00:06:49,800
+Y bueno, eso es todo.
+
+107
+00:06:49,800 --> 00:06:51,280
+Nos vemos en los siguientes temas. Que estén bien.

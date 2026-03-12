@@ -1,0 +1,627 @@
+1
+00:00:00,000 --> 00:00:07,510
+Hola, hola, ¿cómo están? En este vídeo vamos a hablar de las miastenias de estas
+
+2
+00:00:07,510 --> 00:00:11,430
+enfermedades autoinmunes que afectan la placa motora y vamos a ver en
+
+3
+00:00:11,430 --> 00:00:17,110
+particular la miastenia gravis o la miastenia posináptica, cierto, y la de
+
+4
+00:00:17,110 --> 00:00:20,910
+Lambert-Eaton que es la presináptica y que lo único que hay que saber es
+
+5
+00:00:20,910 --> 00:00:24,070
+las diferencias que tiene con la miastenia grave. Va a quedar bien claro
+
+6
+00:00:24,070 --> 00:00:27,510
+así que empecemos de inmediato con la miastenia gravis recordando que es
+
+7
+00:00:27,510 --> 00:00:33,350
+una enfermedad de etiología autoinmune en el cual hay anticuerpos en contra
+
+8
+00:00:33,350 --> 00:00:37,990
+del receptor de acetilcolina, dígase es una enfermedad en el cual se afecta la
+
+9
+00:00:37,990 --> 00:00:42,870
+placa motora y en donde llega el axón de la segunda motoneurona, libera el
+
+10
+00:00:42,870 --> 00:00:46,470
+enero transmisor que es la acetilcolina y que debería actuar en
+
+11
+00:00:46,470 --> 00:00:50,390
+el receptor de acetilcolina que está en el músculo, en este caso estos
+
+12
+00:00:50,390 --> 00:00:56,030
+receptores están ocupados o atacados por los anticuerpos y finalmente no
+
+13
+00:00:56,030 --> 00:01:01,310
+puede actuar bien. Insisto, es posináptica debido a que el receptor de
+
+14
+00:01:01,310 --> 00:01:06,630
+acetilcolina está justamente en el lado de la fiera muscular y no en el
+
+15
+00:01:06,630 --> 00:01:11,150
+lado del terminal axónico de la neurona motora. El cuadro clínico hay
+
+16
+00:01:11,150 --> 00:01:16,070
+que saberlo perfecto por si acaso, habitualmente se ve en dos grupos en
+
+17
+00:01:16,070 --> 00:01:18,710
+mujeres jóvenes porque es una enfermedad autoinmune que ya sabemos
+
+18
+00:01:18,710 --> 00:01:22,670
+que son más frecuentes en ese grupo de pacientes aunque se ve en algunos
+
+19
+00:01:22,750 --> 00:01:27,550
+casos también en hombres de más de 50 años y ahí suele asociarse muchas
+
+20
+00:01:27,550 --> 00:01:33,350
+veces a cánceres por si acaso, pero son los dos grandes grupos y subrayo
+
+21
+00:01:33,350 --> 00:01:36,670
+mujer joven porque la inmensa mayoría de los casos se ve justamente en ese
+
+22
+00:01:36,670 --> 00:01:41,770
+grupo. Se caracteriza por debilidad de tipo fluctuante, hay algunos días en
+
+23
+00:01:41,770 --> 00:01:46,430
+que anda con más debilidad y en otros con menos y una de las cosas más
+
+24
+00:01:46,430 --> 00:01:49,630
+importantes de la mestina gravia es que suele venir con bastante
+
+25
+00:01:49,830 --> 00:01:53,790
+afectación de los ojos tanto del parpadeo como de los movimientos de los
+
+26
+00:01:53,790 --> 00:01:58,270
+ojos así que muchas veces viene con tosis, dígase un parpado se cae un
+
+27
+00:01:58,270 --> 00:02:03,510
+poco, con diplopia, dígase que ve doble o extravismo, algún ojo se le va
+
+28
+00:02:03,510 --> 00:02:07,910
+un poco más para algún lado que igualmente suelen ser de tipo
+
+29
+00:02:07,910 --> 00:02:12,270
+fluctuante. Como cosa importantísima en la miastinia gravis y que la
+
+30
+00:02:12,270 --> 00:02:16,590
+diferencia de la miastinia de Lambert-Eaton va empeorando a medida que
+
+31
+00:02:16,590 --> 00:02:25,270
+se realizan repeticiones, dígase se va agotando la acetilcolina y va
+
+32
+00:02:25,270 --> 00:02:29,710
+aumentando el grado de debilidad. Finalmente hay algunas pruebas que
+
+33
+00:02:29,710 --> 00:02:35,550
+eventualmente me ayudan para soportar el diagnóstico, para apoyar
+
+34
+00:02:35,550 --> 00:02:39,350
+al diagnóstico y las que se usan en la actualidad son las pruebas
+
+35
+00:02:39,350 --> 00:02:45,470
+funcionales con la compresa de hielo local, ejemplo se pone una compresa
+
+36
+00:02:45,470 --> 00:02:51,390
+fría en un ojo y se ve que tiende a mejorar la tosis, tiende a mejorar la
+
+37
+00:02:51,390 --> 00:02:56,190
+oftalmoplegia después de algunos minutos. Antes en cambio se hacía lo que
+
+38
+00:02:56,190 --> 00:03:01,030
+se llamaba la prueba de hidrofonio, que el hidrofonio era un inhibidor de
+
+39
+00:03:01,030 --> 00:03:05,470
+la acetilcolina esterasa que tenía una vida media bastante corta, se
+
+40
+00:03:05,470 --> 00:03:09,630
+administraba y se veía igualmente que los síntomas mejoraban
+
+41
+00:03:09,630 --> 00:03:14,350
+mucho pero era una prueba que solamente esta mejoría tenía una
+
+42
+00:03:14,350 --> 00:03:18,510
+duración corta pero que servía como para el diagnóstico. Actualmente ya no se
+
+43
+00:03:18,510 --> 00:03:22,590
+usa, ha sido desplazada por estas otras pruebas más baratas, más fáciles y
+
+44
+00:03:22,590 --> 00:03:28,510
+con menos efectos adversos como la de la compresa fría. El diagnóstico no es
+
+45
+00:03:28,510 --> 00:03:33,110
+solamente clínico, en la actualidad se recomienda confirmarlo con alguna
+
+46
+00:03:33,110 --> 00:03:36,950
+prueba adicional, las que más se usan dado que son las más sensibles y muy
+
+47
+00:03:36,950 --> 00:03:40,790
+específicas además es la medición de los anticuerpos en contra del
+
+48
+00:03:40,790 --> 00:03:45,910
+receptor de acetilcolina, dígase ir a medir directamente la causa y en el
+
+49
+00:03:45,910 --> 00:03:49,670
+caso de que estén positivos más una clínica compatible se confirma el
+
+50
+00:03:49,670 --> 00:03:53,910
+diagnóstico. Cuando salen negativos eventualmente se buscan algunos otros
+
+51
+00:03:53,910 --> 00:03:58,710
+anticuerpos que se asocian a esto como los anticuerpos anti-MUSC y anti-LRPA
+
+52
+00:03:58,710 --> 00:04:03,230
+P4 que diga que no hay por qué saberse el nombre, el único que sí
+
+53
+00:04:03,230 --> 00:04:07,270
+hay que saber son los anticuerpos en contra del receptor de acetilcolina
+
+54
+00:04:07,270 --> 00:04:10,670
+porque hay que saber la fisiopatología de la miastina de Gravis y
+
+55
+00:04:10,670 --> 00:04:14,590
+en algunos casos en que igualmente me queda la duda se puede pedir la
+
+56
+00:04:14,590 --> 00:04:18,510
+electromibigrafía que lo que muestra es una conducción nerviosa que está
+
+57
+00:04:18,510 --> 00:04:22,870
+normal pero en el nivel de la unión neuromuscular de la placa motora
+
+58
+00:04:22,870 --> 00:04:26,830
+cierto hay un el entecimiento el entrega de esta información pero
+
+59
+00:04:26,830 --> 00:04:32,030
+repito los anticuerpos son lo más importante, lo más sensible, lo más
+
+60
+00:04:32,030 --> 00:04:35,790
+específico. El tratamiento de la miastina de Gravis hay que saber al
+
+61
+00:04:35,790 --> 00:04:40,590
+menos lo general, número uno como tratamiento sintomático se usan
+
+62
+00:04:40,590 --> 00:04:44,910
+inhibidores de la acetilcolina esterasa como la piridioestimina o la
+
+63
+00:04:44,910 --> 00:04:49,870
+neostimina que justamente mejora un poco la fuerza y segundo lugar como
+
+64
+00:04:49,870 --> 00:04:53,390
+buena enfermedad auto inmune se puede manejar con los corticoides más una
+
+65
+00:04:53,390 --> 00:04:56,630
+serie de inmunomoduladores que no tiene por qué saber el médico
+
+66
+00:04:56,630 --> 00:05:01,670
+general como para disminuir la circulación de anticuerpos también.
+
+67
+00:05:01,990 --> 00:05:05,830
+En el caso de que venga asociada a un timoma y les adelanto esto la
+
+68
+00:05:05,830 --> 00:05:09,150
+miastina de Gravis a veces es una complicación de los timomas que
+
+69
+00:05:09,150 --> 00:05:13,190
+si bien son tumores benignos eventualmente si se complican con
+
+70
+00:05:13,190 --> 00:05:18,310
+problemas inmunológicos en este caso se opera con una timectomía y se cura
+
+71
+00:05:18,310 --> 00:05:21,550
+la miastina de Gravis en un porcentaje importante de los pacientes
+
+72
+00:05:21,550 --> 00:05:24,830
+así que sería de las pocas enfermedades auto inmunes que se
+
+73
+00:05:24,830 --> 00:05:28,710
+manejan con cirugía por si acaso y finalmente en el caso que esté con
+
+74
+00:05:28,750 --> 00:05:32,990
+una crisis de miastenia con una debilidad muy intensa que le impide
+
+75
+00:05:32,990 --> 00:05:37,190
+caminar por ejemplo o alguna cosa de ese tipo se puede manejar igual que
+
+76
+00:05:37,190 --> 00:05:40,350
+el síndrome de Guillain-Barré con inmunoglobulina G endovenosa
+
+77
+00:05:40,350 --> 00:05:42,590
+en dosis alta o con la plasma férceis.
+
+78
+00:05:43,350 --> 00:05:47,790
+Finalmente hay que evitar los descompensantes que dentro de esto
+
+79
+00:05:47,790 --> 00:05:52,630
+lo que hay que saber son algunos fármacos y dentro de ellos algunos
+
+80
+00:05:52,630 --> 00:05:56,350
+antibióticos como las quinolonas y los macróleos que si se acuerdan
+
+81
+00:05:56,390 --> 00:06:00,670
+estaban contraindicados también en la torsión de puntas y los
+
+82
+00:06:00,670 --> 00:06:05,030
+aminolicócidos y en particular los aminolicócidos tópicos que
+
+83
+00:06:05,030 --> 00:06:08,870
+pueden producir síntomas oculares importantes y que se usan con
+
+84
+00:06:08,870 --> 00:06:11,630
+mucha frecuencia en el tratamiento de las conjuntivitis bacterianas
+
+85
+00:06:11,630 --> 00:06:15,550
+por ejemplo así que fíjense la miastina Gravis se puede descompensar
+
+86
+00:06:15,550 --> 00:06:18,510
+con algunos antibióticos y aparte con algunos otros fármacos
+
+87
+00:06:18,510 --> 00:06:21,950
+como el beta bloqueo, los relajantes musculares que están
+
+88
+00:06:21,950 --> 00:06:25,190
+absolutamente contraindicados en los pacientes que tienen estas
+
+89
+00:06:25,190 --> 00:06:28,870
+patologías. Ahora hay una lista bastante más larga así que
+
+90
+00:06:28,870 --> 00:06:32,510
+todo paciente con miastina Gravis antes de darle un medicamento
+
+91
+00:06:32,510 --> 00:06:36,150
+hay que revisar si que se le puede dar o no pero al menos las
+
+92
+00:06:36,150 --> 00:06:38,670
+quinolonas, los macrólidos, los aminolicócidos son de los
+
+93
+00:06:38,670 --> 00:06:41,390
+que hay que saber que están absolutamente contraindicados
+
+94
+00:06:41,390 --> 00:06:42,310
+y el beta bloqueo también.
+
+95
+00:06:43,390 --> 00:06:46,550
+Veamos ahora muy rápido la miastina de Lambert-Eaton hay
+
+96
+00:06:46,550 --> 00:06:50,910
+que saber que existe número uno y es una enfermedad igualmente
+
+97
+00:06:50,910 --> 00:06:54,070
+autoinmune pero en este caso los anticuerpos no van en
+
+98
+00:06:54,070 --> 00:06:57,950
+contra del receptor posináptico sino que van en contra de un
+
+99
+00:06:57,950 --> 00:07:01,110
+canal de calcio presináptico que aguérdense que cuando
+
+100
+00:07:01,110 --> 00:07:05,350
+llegaba la onda de polarización cierto se abría los canales
+
+101
+00:07:05,350 --> 00:07:08,670
+de sodio voltaje dependiente y llegaban finalmente a estos
+
+102
+00:07:08,670 --> 00:07:11,910
+canales de calcio voltaje dependiente entraba el calcio
+
+103
+00:07:11,910 --> 00:07:15,790
+y en ese momento se activaba todo el sistema para liberar
+
+104
+00:07:15,790 --> 00:07:20,350
+la acetilcolina o el neurotransmisor en otro tipo de
+
+105
+00:07:20,350 --> 00:07:23,190
+neurona y en este caso son esos canales los que están
+
+106
+00:07:23,190 --> 00:07:26,270
+siendo atacados con los anticuerpos habitualmente la
+
+107
+00:07:26,270 --> 00:07:29,830
+miastina de Lambert-Eaton es un fenómeno para neoplásico y
+
+108
+00:07:29,830 --> 00:07:33,990
+que suele verse en particulares en contexto de el cáncer de
+
+109
+00:07:33,990 --> 00:07:37,030
+pulmón de células pequeñas así que hay que ir a buscarlo
+
+110
+00:07:37,030 --> 00:07:40,470
+de manera dirigida y en el caso de que lo tenga hay que
+
+111
+00:07:40,470 --> 00:07:41,790
+tratar ese cáncer.
+
+112
+00:07:42,550 --> 00:07:44,590
+El cuadro clínico hay que saber fundamentalmente las
+
+113
+00:07:44,590 --> 00:07:47,990
+diferencias con la miastina de Gravis y en este caso
+
+114
+00:07:47,990 --> 00:07:50,950
+suele venir con debilidad de tipo proximal que ahí se
+
+115
+00:07:50,950 --> 00:07:54,830
+parece un poco más a las miopatías que a la miastenia el
+
+116
+00:07:54,830 --> 00:07:57,470
+compromiso ocular se puede ver igual que en la miastenia
+
+117
+00:07:57,470 --> 00:08:01,350
+cierto pero la gran diferencia es número uno mejora con las
+
+118
+00:08:01,350 --> 00:08:03,710
+repeticiones a diferencia de la miastina de Gravis que
+
+119
+00:08:03,710 --> 00:08:06,830
+empeoraba con las repeticiones acá con las
+
+120
+00:08:06,830 --> 00:08:09,150
+repeticiones como que al final le entra el calcio igual
+
+121
+00:08:09,150 --> 00:08:11,270
+aunque estén bloqueados en cambio en la miastina de
+
+122
+00:08:11,270 --> 00:08:16,070
+Gravis se agotaba la acetilcolina y segundo lugar en
+
+123
+00:08:16,070 --> 00:08:20,790
+el caso de los problemas presinápticos además hay
+
+124
+00:08:20,790 --> 00:08:24,670
+compromiso autonómico dígase afectación de las pupilas
+
+125
+00:08:24,670 --> 00:08:29,190
+cierto sensación de boca seca etcétera debido a que
+
+126
+00:08:29,190 --> 00:08:34,630
+en el caso de los anticuerpos en contra del canal de
+
+127
+00:08:34,630 --> 00:08:39,110
+de calcio se afecta tanto el sistema motor común y
+
+128
+00:08:39,110 --> 00:08:41,470
+corriente como el sistema parasimpático por ejemplo
+
+129
+00:08:41,470 --> 00:08:44,270
+que igualmente está con neuronas que liberan
+
+130
+00:08:44,310 --> 00:08:47,510
+pero que actúan no solamente en los receptores
+
+131
+00:08:47,510 --> 00:08:50,030
+nicotínicos de las fibras musculares sino que también
+
+132
+00:08:50,030 --> 00:08:54,790
+en los receptores muscarínicos cierto del sistema
+
+133
+00:08:54,790 --> 00:08:57,870
+digestivo por ejemplo o sea fíjense las grandes dos
+
+134
+00:08:57,870 --> 00:09:00,790
+diferencias son número uno mejora con las repeticiones
+
+135
+00:09:00,790 --> 00:09:05,590
+y número dos por ser presináptico me afecta el
+
+136
+00:09:05,590 --> 00:09:08,110
+sistema colinergico no solamente nicotínicos sino que
+
+137
+00:09:08,110 --> 00:09:10,430
+el muscarínicos también y por lo mismo hay
+
+138
+00:09:10,430 --> 00:09:15,110
+afectación autonómica el diagnóstico suele ser con
+
+139
+00:09:15,110 --> 00:09:18,510
+los mismos exámenes cierto con la electromigrafía y
+
+140
+00:09:18,510 --> 00:09:21,350
+algunos similares y como cosa súper importante está
+
+141
+00:09:21,350 --> 00:09:24,790
+el test de ejercicio que se ve que después de
+
+142
+00:09:24,790 --> 00:09:29,350
+realizar ejercicio mejora la fuerza mejoran los
+
+143
+00:09:29,350 --> 00:09:32,150
+síntomas a diferencia de lo que ocurría con la
+
+144
+00:09:32,150 --> 00:09:35,710
+miestina gravis que en cambio peoraba el tratamiento
+
+145
+00:09:35,790 --> 00:09:43,390
+es un poco distinto es con el amifampridine que es un
+
+146
+00:09:43,390 --> 00:09:47,070
+fármaco que actúa justamente en la zona presináptica
+
+147
+00:09:47,070 --> 00:09:49,910
+y con los corticoides y los inmunomoduladores más
+
+148
+00:09:49,910 --> 00:09:52,110
+el tratamiento del cáncer de células pequeñas en
+
+149
+00:09:52,110 --> 00:09:55,590
+el caso de que lo tenga pero en resumen sí quiero que
+
+150
+00:09:55,590 --> 00:09:58,350
+sepan el cuadro de la miestina gravis debilidad
+
+151
+00:09:58,350 --> 00:10:01,070
+fluctuante con mucho compromiso o culomotor cierto
+
+152
+00:10:01,070 --> 00:10:03,230
+y que empeora con las repeticiones y que sepan
+
+153
+00:10:03,230 --> 00:10:05,830
+que existe la miestina del Lambert-Eaton que en
+
+154
+00:10:05,830 --> 00:10:08,390
+cambio mejora con las repeticiones y que viene con
+
+155
+00:10:08,390 --> 00:10:11,430
+el compromiso de la pupila y no solamente de los
+
+156
+00:10:11,430 --> 00:10:13,910
+párpados y de los movimientos y bueno eso es todo lo
+
+157
+00:10:13,910 --> 00:10:15,550
+que hay que saber nos vemos en el siguiente tema

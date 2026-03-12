@@ -1,0 +1,383 @@
+1
+00:00:00,000 --> 00:00:06,690
+Hola, ¿cómo están? En este video vamos a comenzar con el tema de las pelvis
+
+2
+00:00:06,690 --> 00:00:10,850
+pónduloartropatía o espondilopatía seronegativa, como quieran llamarlas, con
+
+3
+00:00:10,850 --> 00:00:15,350
+algunas generalidades que permiten entender un poquito mejor a este
+
+4
+00:00:15,350 --> 00:00:18,830
+conjunto de enfermedades. Empecemos con la lista como para saber qué
+
+5
+00:00:18,830 --> 00:00:22,850
+enfermedades son. En primer lugar, la más importante de todas, la
+
+6
+00:00:22,850 --> 00:00:25,850
+espondilitis anquilosante o espondilobartritis anquilosante.
+
+7
+00:00:25,850 --> 00:00:29,930
+Segundo lugar, la espondilitis no radiográfica, que es la misma espondilitis
+
+8
+00:00:29,930 --> 00:00:33,930
+anquilosante, pero cuando todavía no ha generado algún cambio en la radiografía,
+
+9
+00:00:33,930 --> 00:00:37,930
+¿cierto? La artritis psoriática, que es la que se asocia a psoriasis.
+
+10
+00:00:37,930 --> 00:00:40,930
+La artritis asociada a enfermedades inflamatorias intestinales, que es la
+
+11
+00:00:40,930 --> 00:00:43,930
+que se asocia a enfermedad de Crohn y también a colitis ulcerosa.
+
+12
+00:00:43,930 --> 00:00:47,930
+La artritis reactiva, que una de sus variantes es el síndrome de Reiter,
+
+13
+00:00:47,930 --> 00:00:51,930
+que ya viene con un compromiso sistémico más importante, que es la que ocurre
+
+14
+00:00:51,930 --> 00:00:55,930
+después de alguna infección. De hecho, su otro nombre es artritis
+
+15
+00:00:55,930 --> 00:00:59,930
+post-infecciosa, aunque hay que saber que se comporta como una pelvis
+
+16
+00:00:59,930 --> 00:01:03,930
+pondyloatropatía y por lo mismo va dentro de esta lista.
+
+17
+00:01:03,930 --> 00:01:07,930
+Y sepan que además está la espondilitis indiferenciada, que es aquella que
+
+18
+00:01:07,930 --> 00:01:11,930
+se ve que hay una pelvis pondyloatropatía, pero todavía no me queda claro
+
+19
+00:01:11,930 --> 00:01:15,930
+cuál de ellas va a ser, porque no viene con el cuadro clínico completo.
+
+20
+00:01:15,930 --> 00:01:19,930
+Dentro de los exámenes, sepan que son 0 negativas,
+
+21
+00:01:19,930 --> 00:01:23,930
+o sea que vienen con ningún anticuerpo que esté positivo, ni factor
+
+22
+00:01:23,930 --> 00:01:27,930
+inhumatoide, ni ANA, ni ANCA, ni ningún otro, pero que pueden venir
+
+23
+00:01:27,930 --> 00:01:31,930
+con la positividad del HLAV27, que queda muy claro,
+
+24
+00:01:31,930 --> 00:01:35,930
+no es un anticuerpo, eso es un gen. Es un gen del complejo
+
+25
+00:01:35,930 --> 00:01:39,930
+de histocompatibilidad. En este caso, si viene con el HLAV27,
+
+26
+00:01:39,930 --> 00:01:43,930
+es esa asocia a espondilitis alquilosante y también
+
+27
+00:01:43,930 --> 00:01:47,930
+a todas las demás. Repito, no es un marcador que sea específico
+
+28
+00:01:47,930 --> 00:01:51,930
+de una de las peas, sino que de las peas en su conjunto y se asocia
+
+29
+00:01:51,930 --> 00:01:55,930
+también a la enfermedad inflamatoria intestinal, etc.
+
+30
+00:01:55,930 --> 00:01:59,930
+El primer examen que uno suele solicitar frente a esta sospecha clínica
+
+31
+00:01:59,930 --> 00:02:03,930
+cuando hay afectación axial, son las radiografías de sacroiliaca,
+
+32
+00:02:03,930 --> 00:02:07,930
+en el sentido en que si están alteradas y ya me muestran un signo
+
+33
+00:02:07,930 --> 00:02:11,930
+de sacroiliatis, habitualmente me hacen el diagnóstico, pero si es que están
+
+34
+00:02:11,930 --> 00:02:15,930
+normales, en cambio uno suele ir al mejor examen que es la resonancia
+
+35
+00:02:15,930 --> 00:02:19,930
+magnética nuclear de sacroiliacas y de columnas, en el sentido en que
+
+36
+00:02:19,930 --> 00:02:23,930
+se puede demostrar los cambios más iniciales y ver una sacroiliatis
+
+37
+00:02:23,930 --> 00:02:27,930
+no radiográfica todavía con alguna sensibilidad bastante mayor.
+
+38
+00:02:27,930 --> 00:02:31,930
+Esto de aquí es especialmente importante en las que vienen sin el compromiso
+
+39
+00:02:31,930 --> 00:02:35,930
+axial evidente, sino que con el compromiso más periférico,
+
+40
+00:02:35,930 --> 00:02:39,930
+que es lo que vamos a ver ahora. La enfermedad inicial,
+
+41
+00:02:39,930 --> 00:02:43,930
+ya sea una espondilitis anquilosante inicial, se caracteriza muchas veces
+
+42
+00:02:43,930 --> 00:02:47,930
+por venir con la radiografía normal, pero por sí venir con
+
+43
+00:02:47,930 --> 00:02:51,930
+una alteración en la resonancia magnética desde bastante temprano.
+
+44
+00:02:51,930 --> 00:02:55,930
+Repito, el primer examen sigue siendo la radiografía, pero el mejor examen
+
+45
+00:02:55,930 --> 00:02:59,930
+es la resonancia. La clínica de las PEAS, por el general,
+
+46
+00:02:59,930 --> 00:03:03,930
+viene con manifestaciones articulares y con manifestaciones
+
+47
+00:03:03,930 --> 00:03:07,930
+extra articulares de los dos tipos, y a su vez las manifestaciones
+
+48
+00:03:07,930 --> 00:03:11,930
+articulares pueden ser con una artritis periférica, que es lo más frecuente
+
+49
+00:03:11,930 --> 00:03:15,930
+en todas, que no sean la espondilitis anquilosante, o con una
+
+50
+00:03:15,930 --> 00:03:19,930
+artritis axial, que es lo más frecuente de la espondilitis anquilosante, pero sepan,
+
+51
+00:03:19,930 --> 00:03:23,930
+tanto la afectación periférica como la afectación axial se pueden ver
+
+52
+00:03:23,930 --> 00:03:27,930
+en cualquiera de estas pelvis pondiluatropatía. Veamos con algún detalle
+
+53
+00:03:27,930 --> 00:03:31,930
+la artritis periférica. Habitualmente es una oligoartritis asimétrica
+
+54
+00:03:31,930 --> 00:03:35,930
+de articulaciones grandes y pequeñas. Repito, oligoartritis, o sea
+
+55
+00:03:35,930 --> 00:03:39,930
+dos a cuatro articulaciones asimétrica, o sea,
+
+56
+00:03:39,930 --> 00:03:43,930
+ejemplo la rodilla de un lado, el codo del otro, y una metacarpos
+
+57
+00:03:43,930 --> 00:03:47,930
+falángica de la otra mano, por ejemplo, de grandes y pequeñas articulaciones,
+
+58
+00:03:47,930 --> 00:03:51,930
+o sea rodilla, codo, la cadera,
+
+59
+00:03:51,930 --> 00:03:55,930
+incluso el tobillo, o bien las interfalángicas
+
+60
+00:03:55,930 --> 00:03:59,930
+de los pies o de las manos. Dentro de la artritis
+
+61
+00:03:59,930 --> 00:04:03,930
+axial, lo más frecuente es la sacroelitis, o sacroileitis,
+
+62
+00:04:03,930 --> 00:04:07,930
+seguido luego de la afectación de las otras articulaciones
+
+63
+00:04:07,930 --> 00:04:11,930
+de la columna, en particular la columna lumbar, aunque puede afectar
+
+64
+00:04:11,930 --> 00:04:15,930
+el esqueleto axial completo, incluso a nivel de las costillas
+
+65
+00:04:15,930 --> 00:04:19,930
+también en las articulaciones costocondrales o en las costovertebrales,
+
+66
+00:04:19,930 --> 00:04:23,930
+y es muy frecuente que vengan con lumbago inflamatorio, que acuérdense que
+
+67
+00:04:23,930 --> 00:04:27,930
+es el que se caracteriza por ser mayor en el reposo y por ir
+
+68
+00:04:27,930 --> 00:04:31,930
+sediendo a medida que se va realizando actividad física. Dentro del
+
+69
+00:04:31,930 --> 00:04:35,930
+compromiso extraarticular, en cambio, hay que saber que la
+
+70
+00:04:35,930 --> 00:04:39,930
+uveitis o la eridociclitis es lo más frecuente, se ve incluso
+
+71
+00:04:39,930 --> 00:04:43,930
+incluso en un 20 a 30% de los casos de espondilitis anquilosante
+
+72
+00:04:43,930 --> 00:04:47,930
+y se asocia también a la psoriática, a las enfermedades
+
+73
+00:04:47,930 --> 00:04:51,930
+inflamatorias intestinales, etcétera. O sea, es algo que
+
+74
+00:04:51,930 --> 00:04:55,930
+el compromiso extraarticular es común en las distintas pelvis
+
+75
+00:04:55,930 --> 00:04:59,930
+pondilopatías, el eritema nodoso y epidoderma gangrenoso son las
+
+76
+00:04:59,930 --> 00:05:03,930
+afectaciones más frecuentes dentro de la piel, las entesitis
+
+77
+00:05:03,930 --> 00:05:07,930
+y en particular las dactilitis también son muy frecuentes
+
+78
+00:05:07,930 --> 00:05:11,930
+dentro de la entesitis, ejemplo, la facitis plantar
+
+79
+00:05:11,930 --> 00:05:15,930
+o la entesitis aquiliana, por ejemplo, y la dactilitis
+
+80
+00:05:15,930 --> 00:05:19,930
+se llama también dedos en salchicha, que, insisto, se puede ver
+
+81
+00:05:19,930 --> 00:05:23,930
+en cualquiera de las pelvis espondilopatías, pero se ve especialmente
+
+82
+00:05:23,930 --> 00:05:27,930
+frecuente en la psoriática. Y finalmente puede venir con afectación
+
+83
+00:05:27,930 --> 00:05:31,930
+genital, ejemplo, uretritis o úlceras genitales o bien
+
+84
+00:05:31,930 --> 00:05:35,930
+intestinal como ocurre, por ejemplo, en las enfermedades inflamatorias
+
+85
+00:05:35,930 --> 00:05:39,930
+intestinales. Espero que quede bien claro, la espondilitis anquilosante
+
+86
+00:05:39,930 --> 00:05:43,930
+puede afectar igualmente algún síntoma digestivo o algún síntoma
+
+87
+00:05:43,930 --> 00:05:47,930
+genital, aunque los síntomas genitales son mucho más frecuentes en
+
+88
+00:05:47,930 --> 00:05:51,930
+la artritis reactiva, en particular en el síndrome de Reiter
+
+89
+00:05:51,930 --> 00:05:55,930
+o de Raita o como sea que se pronuncie eso, y finalmente la
+
+90
+00:05:55,930 --> 00:05:59,930
+afectación intestinal es mucho más frecuente en las enfermedades inflamatorias intestinales.
+
+91
+00:05:59,930 --> 00:06:03,930
+Espero que haya quedado claro, o sea, fíjense, todas vienen con un cuadro clínico
+
+92
+00:06:03,930 --> 00:06:07,930
+con una técnica de grandes y pequeñas articulaciones, con compromiso axial,
+
+93
+00:06:07,930 --> 00:06:11,930
+con manifestaciones extraarticulares que son comunes y con el
+
+94
+00:06:11,930 --> 00:06:15,930
+HLA-B27 que puede estar positivo en todas ellas.
+
+95
+00:06:15,930 --> 00:06:19,930
+Pero que haya quedado claro, nos vamos a los siguientes temas y a verlos con mayor detalle.
+
+96
+00:06:19,930 --> 00:06:21,930
+Que estén muy bien.

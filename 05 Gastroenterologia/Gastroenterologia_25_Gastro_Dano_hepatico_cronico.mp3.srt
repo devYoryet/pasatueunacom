@@ -1,0 +1,283 @@
+1
+00:00:00,000 --> 00:00:07,390
+En este video vamos a dar inicio al gran tema de daño hepático crónico y en los
+
+2
+00:00:07,390 --> 00:00:11,430
+siguientes videos vamos a ir viendo las distintas complicaciones y su manejo.
+
+3
+00:00:11,430 --> 00:00:15,950
+Así que empecemos recordando que es sinónimo de enfermedad hepática
+
+4
+00:00:15,950 --> 00:00:21,550
+crónica y que no es lo mismo que la cirrosis hepática. La cirrosis es un
+
+5
+00:00:21,550 --> 00:00:26,150
+concepto más histológico, cierto, que se caracteriza por fibrosis y
+
+6
+00:00:26,150 --> 00:00:30,350
+nódulos de regeneración hepática. En cambio el daño hepático crónico es
+
+7
+00:00:30,350 --> 00:00:34,310
+una mirada un poco más desde la patología en sí, desde la
+
+8
+00:00:34,310 --> 00:00:39,150
+fisiopatología, la disfunción hepática, la hipertensión portal, etc. Ahora la
+
+9
+00:00:39,150 --> 00:00:42,790
+cirrosis hepática está estrechamente relacionada con el daño hepático
+
+10
+00:00:42,790 --> 00:00:46,550
+crónico, así que en la jerga médica muchas veces sí se usan como
+
+11
+00:00:46,550 --> 00:00:51,310
+sinónimo. Vemos ahora la etiología del daño hepático crónico. Lo más
+
+12
+00:00:51,310 --> 00:00:54,430
+frecuente es el consumo de alcohol y luego de eso las distintas
+
+13
+00:00:54,430 --> 00:00:59,110
+hepatitis crónicas que hay, dígase el NASH, el virus hepatitis C, el virus
+
+14
+00:00:59,150 --> 00:01:04,110
+hepatitis B, más las causas autoinmunes tanto de hepatitis como de
+
+15
+00:01:04,110 --> 00:01:07,430
+colestaseas. Acuérdense que las colestaseas crónicas evolucionan
+
+16
+00:01:07,430 --> 00:01:11,390
+igualmente a daño hepático crónico. Algunas llamas raras como las
+
+17
+00:01:11,390 --> 00:01:14,430
+enfermedades de depósito como la hemocromatosis, la enfermedad de
+
+18
+00:01:14,430 --> 00:01:19,270
+Wilson, la amilidosis hepática, etc. Y finalmente algunas más raras
+
+19
+00:01:19,270 --> 00:01:21,790
+todavía como la insuficiencia cardíaca derecha, la cirrosis
+
+20
+00:01:21,790 --> 00:01:26,270
+cardíaca, entre otras. El cuadro clínico, esto hay que saberlo,
+
+21
+00:01:26,750 --> 00:01:30,950
+por la general viene con dos grandes grupos de enfermedades o de
+
+22
+00:01:30,950 --> 00:01:35,230
+manifestaciones. Por un lado las causadas por hipertensión portal y
+
+23
+00:01:35,230 --> 00:01:38,550
+por otro lado las causadas por la insuficiencia hepática, por la
+
+24
+00:01:38,550 --> 00:01:41,950
+falta de funcionamiento del hepatocito en sí. En cambio, la
+
+25
+00:01:41,950 --> 00:01:46,670
+hipertensión portal es debido a la deformación de la arquitectura
+
+26
+00:01:46,670 --> 00:01:50,870
+hepática, va aumentando la presión de la arteria porta, lo
+
+27
+00:01:50,870 --> 00:01:55,070
+cual se traduce en acididad, en hemorragia, etc. Vamos a ir
+
+28
+00:01:55,110 --> 00:01:58,790
+viendo las alteraciones asociadas a hipertensión portal. La más
+
+29
+00:01:58,790 --> 00:02:02,150
+frecuente de todas es la espleno megalia, que por regla general
+
+30
+00:02:02,150 --> 00:02:05,950
+más allá de un hallazgo en el examen físico no trae mayores
+
+31
+00:02:05,950 --> 00:02:10,470
+consecuencias, salvo que sea muy intensa y que disminuya el
+
+32
+00:02:10,470 --> 00:02:13,750
+nivel de plaquetas, que acuérdense que la insuficiencia hepática
+
+33
+00:02:13,750 --> 00:02:17,750
+se traduce en una coagulopatía y en este caso puede empeorarse
+
+34
+00:02:17,910 --> 00:02:21,870
+por la plaquetopenia también. Las varices esofágicas que son
+
+35
+00:02:21,910 --> 00:02:25,510
+una causa de muerte, incluso en los pacientes con daño hepático
+
+36
+00:02:25,510 --> 00:02:29,070
+crónico cuando se rompen y sangran, la asitis que vamos a ver que
+
+37
+00:02:29,070 --> 00:02:34,070
+es bien complejo el manejo y que vamos a dedicar una clase
+
+38
+00:02:34,070 --> 00:02:37,390
+directa a ese tema, el síndrome hepato renal, igualmente
+
+39
+00:02:37,390 --> 00:02:41,270
+algo muy muy grave que lo vamos a ver con detalle también
+
+40
+00:02:41,670 --> 00:02:45,110
+y en algunos otros casos se ve el aumento de la circulación
+
+41
+00:02:45,110 --> 00:02:48,830
+colateral, no solamente a través de las varices esofágicas
+
+42
+00:02:48,830 --> 00:02:53,910
+sino de las varices rectales o anales, los hemorroides
+
+43
+00:02:54,190 --> 00:02:57,710
+y finalmente esta imagen de cabeza de medusa en la circulación
+
+44
+00:02:57,710 --> 00:03:02,750
+umbilical, que se ve el aumento de la vasculatura
+
+45
+00:03:03,590 --> 00:03:07,030
+alrededor del ombligo, que se describe como una imagen en cabeza
+
+46
+00:03:07,030 --> 00:03:11,030
+de medusa. Ahora algunas otras alteraciones más asociadas
+
+47
+00:03:11,030 --> 00:03:14,430
+a la insuficiencia hepática, la hipterisia, que no es algo
+
+48
+00:03:14,430 --> 00:03:17,630
+tan frecuente por si acaso, pero que se puede ver en los
+
+49
+00:03:17,790 --> 00:03:21,270
+estadíos más avanzados, el fétor hepático que es un olor
+
+50
+00:03:21,550 --> 00:03:24,230
+bien característico a los pacientes con daño hepático
+
+51
+00:03:24,230 --> 00:03:28,590
+crónico grave, la encefalopatía hepática que ya se ve
+
+52
+00:03:28,590 --> 00:03:33,630
+en las últimas etapas de
+
+53
+00:03:33,910 --> 00:03:39,070
+el daño hepático crónico, la cobulopatía, la hipoalbuminemia
+
+54
+00:03:39,430 --> 00:03:43,230
+el hipocretismo digital que justamente el hígado ayuda
+
+55
+00:03:43,230 --> 00:03:46,830
+a limpiar la sangre de algunas toxinas y en este caso
+
+56
+00:03:46,830 --> 00:03:50,470
+al no limpiarlo bien se liberan algunos factores de crecimiento
+
+57
+00:03:51,070 --> 00:03:54,950
+que se traducen en este hipocretismo digital y finalmente
+
+58
+00:03:55,550 --> 00:03:59,790
+se asocia igualmente a síntomas de hipogonadismo con ginecomastia
+
+59
+00:03:59,990 --> 00:04:02,910
+o con pérdida del vello corporal en el caso de los hombres.
+
+60
+00:04:03,230 --> 00:04:07,710
+Ahora respecto a la parotidomegalia, la parotidomegalia
+
+61
+00:04:07,990 --> 00:04:11,190
+en sí no es un signo de daño hepático crónico,
+
+62
+00:04:11,190 --> 00:04:13,710
+sino que de consumo crónico de alcohol por si acaso.
+
+63
+00:04:14,310 --> 00:04:16,830
+Así que ahí habría una pequeña diferencia.
+
+64
+00:04:17,110 --> 00:04:21,190
+Y lo otro es que las telenjectasias es algo inespecífico
+
+65
+00:04:21,190 --> 00:04:23,990
+que se puede ver también en el daño hepático crónico,
+
+66
+00:04:23,990 --> 00:04:26,910
+aunque se ve en un montón de otras patologías también.
+
+67
+00:04:27,590 --> 00:04:31,350
+Lo importante es saber las causas y saber que el cuadro
+
+68
+00:04:31,590 --> 00:04:33,790
+el cuadro clínico puede ser bastante complejo.
+
+69
+00:04:33,990 --> 00:04:36,550
+Y lo más importante lo vamos a ver en los siguientes videos,
+
+70
+00:04:36,550 --> 00:04:39,830
+que es el manejo específico de cada una de las complicaciones.
+
+71
+00:04:39,830 --> 00:04:40,950
+Así que nos vemos ahí.

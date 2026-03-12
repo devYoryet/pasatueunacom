@@ -1,0 +1,391 @@
+1
+00:00:00,000 --> 00:00:06,860
+Hola, ¿cómo están? En este video vamos a hablar del traumatismo encéfalo craneano
+
+2
+00:00:06,860 --> 00:00:13,540
+que se suele abreviar como TEC y acuérdense que lo más importante en el TEC es saber
+
+3
+00:00:13,540 --> 00:00:18,820
+si es que se le pide o no un ATTACK. TACK en este caso es una tomografía axial computada
+
+4
+00:00:18,820 --> 00:00:23,800
+y la que se pide en un contexto de un paciente con un golpe en la cabeza es un ATTACK sin
+
+5
+00:00:23,800 --> 00:00:29,260
+contraste más con ventana ósea. Dígase sin contraste en cuanto a lo que me interesa
+
+6
+00:00:29,260 --> 00:00:34,580
+saber si es que hay hemorragias o no y eso se ve bien porque la sangre se ve blanca
+
+7
+00:00:34,580 --> 00:00:39,220
+el ATTACK sin contraste y segundo lugar con ventana ósea o con un ATTACK de cráneo
+
+8
+00:00:39,220 --> 00:00:42,860
+en cuanto yo quiero ver también si es que hay o no una fractura de cráneo. Las
+
+9
+00:00:42,860 --> 00:00:46,540
+indicaciones más importantes son, y que hay que saberlas todas por si acaso, número
+
+10
+00:00:46,540 --> 00:00:52,260
+uno el examen neurológico alterado, o sea que viene con hemipoestesia, hemiparesia
+
+11
+00:00:52,260 --> 00:00:56,380
+o con una alteración de algún par craneal o lo que sea inmediatamente hay que pedirle
+
+12
+00:00:56,380 --> 00:01:01,780
+un ATTACK. Número dos si viene con el Glasgow alterado, si es que viene con menos de 15
+
+13
+00:01:01,780 --> 00:01:06,100
+puntos que es el máximo de la escala de Glasgow, que va entre 3 y 15 con que tenga
+
+14
+00:01:06,100 --> 00:01:11,940
+14 puntos ya estoy obligado a pedirle un ATTACK de cerebro sin contraste de inmediato.
+
+15
+00:01:11,940 --> 00:01:15,420
+Número tres si es que viene con cualquier signo clínico de una fractura de cráneo
+
+16
+00:01:15,420 --> 00:01:19,780
+dentro de esto es el signo de raccoon o del mapache que viene con un ojo
+
+17
+00:01:20,340 --> 00:01:29,420
+con una equimosis periocular o bien el signo de battle cierto que es la equimosis retro auricular
+
+18
+00:01:29,420 --> 00:01:35,380
+ambas son como signo de fractura de cráneo y por lo mismo son indicación de ATTACK, lo
+
+19
+00:01:35,380 --> 00:01:40,900
+mismo con la otorragia que es salida de sangre por el oído o bien con un hemotímpano en la
+
+20
+00:01:40,900 --> 00:01:45,500
+otoscopia cierto que se puede ver igualmente el tímpano con sangre es un signo de
+
+21
+00:01:45,500 --> 00:01:51,580
+fractura de la base de cráneo, a esto hay que sumarle la otorragia que es salida no solo
+
+22
+00:01:51,580 --> 00:01:57,180
+de sangre sino que de líquido cefalorraquídeo y la rinorraquia que es la salida pero por la
+
+23
+00:01:57,180 --> 00:02:01,300
+nariz en ambos casos lo que se sospecha no es solamente una fractura de cráneo sino que
+
+24
+00:02:01,300 --> 00:02:05,300
+además un teca abierto en cuanto el líquido cefalorraquídeo está filtrando por el oído
+
+25
+00:02:05,300 --> 00:02:10,780
+y por la nariz respectivamente. En cuanto a la edad esto hay que saberlo si es que tiene
+
+26
+00:02:10,780 --> 00:02:17,140
+más de 60 a 65 años según la fuente que uno busque 60 años es la que se repite más en la
+
+27
+00:02:17,140 --> 00:02:22,220
+literatura internacional inmediatamente yo se dispara el riesgo de un hematoma subdural así
+
+28
+00:02:22,220 --> 00:02:29,900
+que hay que pedirle un ataque igual y respecto de los niños ahí hay algo más de discusión pero
+
+29
+00:02:29,900 --> 00:02:34,900
+no queda ninguna duda si un lactante de menos de tres meses se golpea en la cabeza se cae de
+
+30
+00:02:34,900 --> 00:02:39,860
+la cama por ejemplo se le hace un ataque sí o sí y si tienen menos de dos años la regla
+
+31
+00:02:39,860 --> 00:02:45,500
+general es que se pida un ataque pero en la actualidad se dice si tiene menos de dos años
+
+32
+00:02:45,500 --> 00:02:50,940
+y está sin ninguna alteración de ningún tipo ni siquiera un chichón en la cabeza en ese caso
+
+33
+00:02:50,940 --> 00:02:57,660
+no se pide pero si viene con cualquier alteración por mínima que sea aunque no sea dentro de la
+
+34
+00:02:57,660 --> 00:03:04,800
+lista de signos de alarma que vamos a ver en ese caso si se pide o sea en resumen se pide
+
+35
+00:03:04,800 --> 00:03:10,560
+cuando tienen menos de dos años y cualquier alteración se pide cuando tiene menos de tres
+
+36
+00:03:10,560 --> 00:03:15,360
+meses aunque no tenga ninguna alteración y se pide cuando viene con cualquier edad siempre
+
+37
+00:03:15,360 --> 00:03:19,000
+y cuando venga con cualquiera de los otros signos de alarma que estamos viendo en el
+
+38
+00:03:19,000 --> 00:03:26,480
+cuadro más grande es indicación de tac una amnesia que dura más de 30 minutos no la es
+
+39
+00:03:26,480 --> 00:03:31,580
+una amnesia que dura solamente algunos pocos minutos algunos ponen el punto de corte en 15
+
+40
+00:03:31,580 --> 00:03:36,980
+minutos pero la que más se repite es amnesia de 30 minutos la otra la que viene con vómitos
+
+41
+00:03:36,980 --> 00:03:44,300
+mayor a 2 a 3 episodios de vómitos en el sentido que pueden ser un signo de o un síntoma de
+
+42
+00:03:44,300 --> 00:03:49,420
+una hipertensión endocriniana si viene con convulsiones las convulsiones la única
+
+43
+00:03:49,420 --> 00:03:55,100
+excepción sería la convulsión inmediata en el mismo golpe si es que alguien se golpea y
+
+44
+00:03:55,100 --> 00:04:00,020
+convulsiona en ese instante y nada más no es un signo de alarma pero si es que convulsiona
+
+45
+00:04:00,020 --> 00:04:05,220
+en cualquier otro momento en ese caso si lo es si es que viene bajo los efectos del alcohol
+
+46
+00:04:05,220 --> 00:04:10,300
+o de las drogas y este es súper importante en el sentido en que muchas veces uno atribuye
+
+47
+00:04:10,300 --> 00:04:15,140
+las alteraciones del paciente a que está borracho pero en este caso al yo no poder
+
+48
+00:04:15,140 --> 00:04:21,220
+hacer un buen examen físico estoy obligado a pedirle una neuroimagen y no hacerlo puede
+
+49
+00:04:21,220 --> 00:04:26,180
+repercutirme desde el punto de vista médico legal si es que viene sin ninguna alteración
+
+50
+00:04:26,220 --> 00:04:32,260
+pero fue un golpe de alta energía ejemplo de un accidente de tránsito y salió disparado y golpeó
+
+51
+00:04:32,260 --> 00:04:37,340
+contra el pavimento o alguna cosa de ese tipo inmediatamente es un signo de alarma también si
+
+52
+00:04:37,340 --> 00:04:41,380
+viene con cephalía intensa que al igual que los vómitos repetidos ciertos son signos
+
+53
+00:04:41,380 --> 00:04:45,580
+de hipertensión endocriniana y finalmente si es que viene con cualquier cosa que me
+
+54
+00:04:45,580 --> 00:04:50,940
+aumente el riesgo de hemorragias ejemplo si es usuario de anticobulantes orales o si es
+
+55
+00:04:50,940 --> 00:04:56,980
+que viene con alguna alteración de la hemostasia con una enfermedad de von willebrand o una
+
+56
+00:04:56,980 --> 00:05:02,780
+como hemofilia de base en ese caso también estoy obligado a pedirle un ataque o sea fíjense la
+
+57
+00:05:02,780 --> 00:05:08,580
+lista es larga pero es relativamente obvia y hay que saberla con algún detalle ahora no
+
+58
+00:05:08,580 --> 00:05:14,180
+son indicaciones esto hay que saberlo igualmente número uno que venga con un chichón en ese
+
+59
+00:05:14,180 --> 00:05:18,700
+caso no a menos que tenga menos de dos años que en ese caso si es indicación que
+
+60
+00:05:18,700 --> 00:05:23,300
+haya tenido una pérdida de conciencia transitoria y breve o sea la conclusión
+
+61
+00:05:23,300 --> 00:05:28,100
+el que quede medio atontado después del golpe es algo que no es indicación si es que dura
+
+62
+00:05:28,100 --> 00:05:33,860
+más de 30 minutos o más de 15 minutos en ese caso sí pero si es que es breve autolimitada
+
+63
+00:05:33,860 --> 00:05:38,860
+y el paciente ahora está bien con un Glasgow de 15 en ese caso no es indicación a menos
+
+64
+00:05:38,860 --> 00:05:45,020
+claro que sea un lactante menor de dos años en ese caso sí que venga con una amnesia breve
+
+65
+00:05:45,100 --> 00:05:49,780
+abajo de 30 minutos en ese caso tampoco es indicación y finalmente que tenga vómitos
+
+66
+00:05:49,780 --> 00:05:54,140
+por una vez porque ya habíamos dicho que los vómitos que me hacían sospechar una
+
+67
+00:05:54,140 --> 00:05:59,340
+hipertensión endocriniana era dos o tres es que tiene solamente uno eso puede estar
+
+68
+00:05:59,340 --> 00:06:05,020
+dado por la simple reacción desautonómica en relación al golpe en la cabeza ahora
+
+69
+00:06:05,020 --> 00:06:12,620
+cuál es el manejo del tech de manera general número uno como toda urgencia cierto el abc
+
+70
+00:06:12,620 --> 00:06:17,460
+más el soporte en el caso que tenga alguna complicación las distintas medidas de neuro
+
+71
+00:06:17,460 --> 00:06:22,860
+protección si es que convulsión a se le dejan anticonvulsiva antes cierto el manejo de la
+
+72
+00:06:22,860 --> 00:06:30,180
+presión arterial evitando las hipertensiones muy altas pero sin bajarle tanto su presión
+
+73
+00:06:30,180 --> 00:06:35,260
+arterial tampoco etcétera más el manejo de las distintas complicaciones que eventualmente
+
+74
+00:06:35,260 --> 00:06:40,460
+se puedan ver en el ataque ejemplos es que me hace un hematoma estructural hay que
+
+75
+00:06:40,460 --> 00:06:45,740
+drenarlo etcétera si es que viene con un tech abierto en ese caso además hay que hacer
+
+76
+00:06:45,740 --> 00:06:52,020
+una cirugía de cierre del tech más el dejarle antibióticos de amplio espectro endovenoso
+
+77
+00:06:52,020 --> 00:06:55,700
+como para evitar que se complique con una meningite y finalmente si es que viene con
+
+78
+00:06:55,700 --> 00:07:01,180
+un hematoma ejemplo un hematoma subdural o un hematoma extradural en ese caso hay que
+
+79
+00:07:01,180 --> 00:07:06,780
+drenarlo con el neurocirujano hay algunas pocas excepciones de un subdural muy pequeño
+
+80
+00:07:06,780 --> 00:07:13,020
+y que se instala en más tiempo y que no se complica que eventualmente se maneja de
+
+81
+00:07:13,020 --> 00:07:18,180
+forma no quirúrgica pero en contexto de un tech y en particular el manejo que tiene
+
+82
+00:07:18,180 --> 00:07:25,900
+que saber el médico general es que los hematomas intracraniales de este tipo se operan a
+
+83
+00:07:25,900 --> 00:07:31,020
+diferencia de el accidente vascular hemorrágico que la regla general es que en cambio no se
+
+84
+00:07:31,620 --> 00:07:38,380
+repito hematoma subdural y extradural cirugía en cambio el hematoma intracerebral por la general
+
+85
+00:07:38,380 --> 00:07:43,780
+no se opera vemos ahora rápidamente las diferencias clínicas entre el hematoma subdural y el
+
+86
+00:07:43,780 --> 00:07:49,260
+epidural acuérdense que el hematoma subdural es más frecuente en el adulto mayor y es por
+
+87
+00:07:49,260 --> 00:07:55,300
+sangramiento venoso por lo mismo habitualmente se instala de manera más lenta cierto y viene
+
+88
+00:07:55,300 --> 00:07:59,780
+con algo que se conoce como el intervalo lúcido que es el tiempo en el cual el
+
+89
+00:07:59,780 --> 00:08:04,260
+paciente está bien antes de empezar con el cuadro de hipertensión endocriniana y con
+
+90
+00:08:04,260 --> 00:08:09,540
+compromiso de conciencia cierto que suele durar varias horas en cambio el epidural es
+
+91
+00:08:09,540 --> 00:08:15,100
+un sangramiento arterial y por lo mismo se desarrolla con mayor velocidad cierto y viene
+
+92
+00:08:15,100 --> 00:08:19,540
+con un intervalo lúcido que es más corto ahora desde el punto de vista clínico la verdad que es
+
+93
+00:08:19,540 --> 00:08:24,180
+absolutamente imposible diferenciar uno del otro así que en la práctica la única forma
+
+94
+00:08:24,180 --> 00:08:30,300
+de estar seguro que es un subdural o un epidural es con la TAC si es que me muestra una imagen de
+
+95
+00:08:30,300 --> 00:08:35,340
+semiluna que lo vamos a ver en otra clase cierto sería un hematoma subdural confirmado en
+
+96
+00:08:35,340 --> 00:08:42,380
+cambio si es que viene con una imagen biconvexa en ese caso es un hematoma epidural y bueno
+
+97
+00:08:42,380 --> 00:08:47,860
+es todo lo que hay que saber y acuérdense de memoria las indicaciones de TAC en el TEC
+
+98
+00:08:47,860 --> 00:08:49,060
+que estén bien nos vemos

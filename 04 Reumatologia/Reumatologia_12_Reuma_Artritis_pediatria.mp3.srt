@@ -1,0 +1,231 @@
+1
+00:00:00,000 --> 00:00:07,320
+Hola, hola. Vamos a ver este tema tan interesante de la nefritis intersticial que
+
+2
+00:00:07,320 --> 00:00:10,620
+simplemente hay que saber que existe y hay que saber identificarla. Así que
+
+3
+00:00:10,620 --> 00:00:14,260
+empecemos con cuál es su definición, como para no confundirlo con otros
+
+4
+00:00:14,260 --> 00:00:18,820
+conceptos, y en la inflamación del intersticio renal o de los túbulos y
+
+5
+00:00:18,820 --> 00:00:21,900
+el intersticio renal, por lo que se llama también nefritis tubulo
+
+6
+00:00:21,900 --> 00:00:26,060
+intersticial. Ahora, que quede claro, no es una glomerulo nefritis, los
+
+7
+00:00:26,060 --> 00:00:29,660
+glomerulos están bien, no hay hematuria dismórfica, eventualmente el
+
+8
+00:00:29,660 --> 00:00:32,900
+sedimento puede haber alteraciones, pero no hay hematuria dismórfica, eso es
+
+9
+00:00:32,900 --> 00:00:37,340
+lo importante. ¿Cuál es la etiología? Lo más importante son los fármacos,
+
+10
+00:00:37,340 --> 00:00:41,860
+ejemplo los aines, los antibióticos, ejemplo los betalactámicos, así las
+
+11
+00:00:41,860 --> 00:00:46,100
+penicilinas, las esfalosporinas, son muy importantes igualmente. Segundo
+
+12
+00:00:46,100 --> 00:00:50,020
+lugar, se puede dar por infecciones, ya sea por la infección misma o ya
+
+13
+00:00:50,020 --> 00:00:53,940
+sea por el tratamiento antibiótico asociado a las infecciones, y
+
+14
+00:00:53,940 --> 00:00:57,620
+finalmente ya más infrecuentemente se ve asociado a distintas
+
+15
+00:00:57,620 --> 00:01:01,780
+enfermedades autoinmunes, dentro de esas la enfermedad o el síndrome de
+
+16
+00:01:01,780 --> 00:01:06,180
+Sjögren, el más importante, pero también al upus, alguna vasculitis y a la
+
+17
+00:01:06,180 --> 00:01:10,660
+sarcoidosis también, así que se puede eventualmente preguntar como una
+
+18
+00:01:10,660 --> 00:01:15,460
+complicación del síndrome de Sjögren o de la sarcoidosis. Ahora, ¿cuál es
+
+19
+00:01:15,460 --> 00:01:19,900
+su clínica? Por el general viene con insuficiencia renal, puede venir con
+
+20
+00:01:19,900 --> 00:01:24,140
+proteínuria, puede venir con leucocituria, esos leucocitos en orina
+
+21
+00:01:24,140 --> 00:01:27,820
+pueden ser eosinófilos también, pero eso no es lo más importante, lo más
+
+22
+00:01:27,820 --> 00:01:31,860
+importante no es la afectación renal solamente, sino que es esa triada que
+
+23
+00:01:31,860 --> 00:01:36,660
+viene con fiebre, con rash y con eosinofilia, más los eosinófilos que
+
+24
+00:01:36,660 --> 00:01:41,500
+vienen en orina también. Ahora, ahí está entre paréntesis la sigla DRESS,
+
+25
+00:01:41,500 --> 00:01:47,340
+el síndrome de DRESS, que significa una reacción a drogas con
+
+26
+00:01:47,340 --> 00:01:51,820
+eosinofilia y síntomas y síntomas sistémicos, en el sentido que viene
+
+27
+00:01:51,820 --> 00:01:55,660
+con fiebre y en este caso viene con el compromiso renal también, bueno y con
+
+28
+00:01:55,660 --> 00:02:00,420
+el rash. No siempre viene con el síndrome de DRESS completo, a veces viene
+
+29
+00:02:00,420 --> 00:02:03,740
+solamente limitada, pero lo más frecuente es que viene con esa triada
+
+30
+00:02:03,740 --> 00:02:08,660
+con fiebre, rash, eosinofilia, más el compromiso renal que acabamos de
+
+31
+00:02:08,660 --> 00:02:12,780
+mencionar. El síndrome de DRESS se ve de manera independiente en
+
+32
+00:02:12,780 --> 00:02:16,180
+dermatología y algo habitualmente grave, es de las complicaciones
+
+33
+00:02:16,180 --> 00:02:20,100
+cutáneas a fármacos más graves que hay, así que cada vez que tenga una
+
+34
+00:02:20,180 --> 00:02:23,580
+reacción cutánea con eosinofilia en contexto de un fármaco, asústense
+
+35
+00:02:23,580 --> 00:02:27,780
+porque eventualmente puede ser alguna de estas patologías, incluyendo una
+
+36
+00:02:27,780 --> 00:02:32,420
+enefritis interticial secundaria a esta reacción a fármaco. Existe una
+
+37
+00:02:32,420 --> 00:02:36,380
+bien rara que se llama el síndrome o culo renal idiopático, que es
+
+38
+00:02:36,380 --> 00:02:40,460
+autoinmune, pero habitualmente no por fármaco, sino que espontáneo y que
+
+39
+00:02:40,460 --> 00:02:43,940
+además de la enefritis tubulointerticial, viene con una uveitis
+
+40
+00:02:43,940 --> 00:02:47,700
+asociada, así que se puede preguntar también en contexto de uveitis y un
+
+41
+00:02:47,700 --> 00:02:52,140
+paciente con uveitis más el compromiso renal, eventualmente acuérdense que
+
+42
+00:02:52,140 --> 00:02:56,180
+existe este tipo de enfermedades raras. ¿Cómo se hace el diagnóstico? Pues con
+
+43
+00:02:56,180 --> 00:02:58,740
+la biopsia renal, es la única forma de estar seguro y que se ve
+
+44
+00:02:58,740 --> 00:03:02,700
+justamente la inflamación del interticio de los tubulos y no del
+
+45
+00:03:02,700 --> 00:03:07,100
+glomérulo. ¿Y cuál era el tratamiento de esta enfermedad? Pues jamás lo
+
+46
+00:03:07,100 --> 00:03:09,780
+hemos dicho, pero como buena enfermedad autoinmune que está
+
+47
+00:03:09,780 --> 00:03:13,320
+secundaria a un fármaco, por un lado hay que suspender el fármaco o la
+
+48
+00:03:13,320 --> 00:03:16,740
+causa, así que es una infección, hay que darle los antibióticos y si es
+
+49
+00:03:16,740 --> 00:03:20,680
+que es una enfermedad autoinmune hay que tratarla, más los corticoides en
+
+50
+00:03:20,680 --> 00:03:24,260
+el sentido en que es una reacción inmunológica importante y los corticoides
+
+51
+00:03:24,260 --> 00:03:28,060
+siempre sirven para modular esta reacción inflamatoria. Ahora, algo
+
+52
+00:03:28,060 --> 00:03:32,700
+importante, el tratamiento se da ante la sola sospecha clínica, así que yo
+
+53
+00:03:32,700 --> 00:03:37,380
+veo a un paciente que está con fiebre, rash, eosinofilia y falla renal, pues
+
+54
+00:03:37,380 --> 00:03:41,340
+inmediatamente le parto los corticoides antes de la biopsia renal,
+
+55
+00:03:41,340 --> 00:03:44,780
+en el sentido en que la biopsia renal eventualmente se demora en ser
+
+56
+00:03:44,780 --> 00:03:50,060
+tomada y eventualmente se demora también en ser informada y mientras
+
+57
+00:03:50,060 --> 00:03:53,660
+tanto se parten los corticoides nomás. Eso es todo lo que hay que saber, nos
+
+58
+00:03:53,660 --> 00:03:57,180
+vemos en los siguientes temas, estén bien.

@@ -1,0 +1,219 @@
+1
+00:00:00,000 --> 00:00:10,250
+Veamos la crisis hipertensiva, empezando por los conceptos, que es una crisis y en general se divide en dos tipos.
+
+2
+00:00:10,250 --> 00:00:20,750
+Número uno, la hipertensión severa y asintomática, que es la antigua crisis hipertensiva o que se llama también una simple urgencia o una crisis simple.
+
+3
+00:00:20,750 --> 00:00:26,250
+Y el otro concepto muy importante, en cambio, es la emergencia hipertensiva.
+
+4
+00:00:26,250 --> 00:00:34,250
+¿Cuál es la crisis hipertensiva común y corriente? Son presiones arteriales mayores o iguales a 180 con 120.
+
+5
+00:00:34,250 --> 00:00:42,250
+Al menos ese es el punto de corte más aceptado en general y lo más importante, pero que viene sin daño a un órgano blanco
+
+6
+00:00:42,250 --> 00:00:47,250
+o al menos sin signos de que haya alguna complicación importante relacionada con la hipertensión en este momento agudo.
+
+7
+00:00:47,250 --> 00:00:55,250
+En cambio, la emergencia hipertensiva son el mismo punto de corte, arriba o igual a 180, 120 o incluso puede ser un poco menos,
+
+8
+00:00:55,250 --> 00:00:59,250
+pero que viene con signos de daño a órgano blanco en agudo.
+
+9
+00:00:59,250 --> 00:01:03,250
+Dentro de los ejemplos más importantes se puede estar complicando con un infarto, por ejemplo,
+
+10
+00:01:03,250 --> 00:01:10,250
+con un accidente vascular encefálico, con una disección aórtica, con una insuficiencia cardiaca muy severa con edema pulmonar aguda
+
+11
+00:01:10,250 --> 00:01:16,250
+o con una encefalopatía hipertensiva, entre otras. Todas esas se consideran emergencias hipertensivas.
+
+12
+00:01:17,250 --> 00:01:27,250
+La diferencia entre ambas es porque el manejo cambia, pero antes veamos los dos aspectos a balancear en el manejo de una crisis hipertensiva.
+
+13
+00:01:27,250 --> 00:01:33,250
+Por un lado, si yo bajo la presión arterial de manera muy rápido, tengo riesgo de generar isquemia.
+
+14
+00:01:33,250 --> 00:01:40,250
+Los órganos están acostumbrados a un nivel de presión arterial bastante alta y si lo bajo muy rápido
+
+15
+00:01:40,250 --> 00:01:47,250
+puede que no le llegue suficiente sangre al menos en esos minutos, en esas horas en que siguen vaso contraído.
+
+16
+00:01:47,250 --> 00:01:52,250
+Así que hay riesgo de isquemia, hay que tener cuidado de no bajarlo tan rápido en algunos escenarios.
+
+17
+00:01:52,250 --> 00:01:58,250
+Y segundo lugar, el no bajarla, el dejarla alta, tiene riesgo de empezar con el daño a los órganos blancos.
+
+18
+00:01:58,250 --> 00:02:03,250
+Entonces, ¿cómo manejo la simple crisis? Les adelanto, se maneja con fármacos bioral.
+
+19
+00:02:03,250 --> 00:02:07,250
+En cambio, la emergencia hipertensiva, la que viene con una complicación grave,
+
+20
+00:02:07,250 --> 00:02:11,250
+es cierto, porque la general se maneja con fármacos endovenosos.
+
+21
+00:02:11,250 --> 00:02:17,250
+Dentro de los fármacos, el que más se usa es el Captopril, como alternativa está la Clonidina también,
+
+22
+00:02:17,250 --> 00:02:21,250
+que es un alfa-2 bloqueante.
+
+23
+00:02:21,250 --> 00:02:27,250
+Respecto al nifedipino que se usó durante tanto tiempo, la verdad es que actualmente no se recomienda
+
+24
+00:02:27,250 --> 00:02:33,250
+y la explicación es súper sencilla. En general, el bajarla muy rápido me puede generar isquemia, ya lo dijimos,
+
+25
+00:02:33,250 --> 00:02:39,250
+y el nifedipino es muy errático, en el sentido en que puede bajarla muy muy rápido, de manera muy intensa,
+
+26
+00:02:39,250 --> 00:02:45,250
+y de hecho la mayoría de isquemias que se han descrito en contexto de una crisis hipertensiva
+
+27
+00:02:45,250 --> 00:02:49,250
+que se maneja de manera muy agresiva, ha sido justamente con el nifedipino.
+
+28
+00:02:49,250 --> 00:02:52,250
+Así que actualmente ya no se usa.
+
+29
+00:02:52,250 --> 00:03:00,250
+El objetivo en general es darle algún fármaco que me permita llegar a menos de 160-110 en la primera hora,
+
+30
+00:03:00,250 --> 00:03:05,250
+si es que está demasiado alta, bajarla en un 30% por ejemplo,
+
+31
+00:03:05,250 --> 00:03:10,250
+pero en el largo plazo, y además es la medida más importante,
+
+32
+00:03:10,250 --> 00:03:15,250
+hay que hacer el ajuste del tratamiento antipertensivo si es que lo estaba recibiendo,
+
+33
+00:03:15,250 --> 00:03:19,250
+o bien hay que iniciarlos en el caso de que no los haya recibido.
+
+34
+00:03:19,250 --> 00:03:23,250
+O sea, en general son pacientes hipertensos crónicos que están mal manejados,
+
+35
+00:03:23,250 --> 00:03:27,250
+ya sea porque no han sido diagnosticados, porque no adhieren al tratamiento,
+
+36
+00:03:27,250 --> 00:03:30,250
+o porque están con un tratamiento que es absolutamente insuficiente e inadecuado,
+
+37
+00:03:30,250 --> 00:03:34,250
+y ajustarlo va a ser fundamental en evitar que esto recurra,
+
+38
+00:03:34,250 --> 00:03:36,250
+y además en el manejo de la crisis misma.
+
+39
+00:03:36,250 --> 00:03:41,250
+O sea, repito, lo más importante en la simple urgencia es el ajuste de medicamentos,
+
+40
+00:03:41,250 --> 00:03:48,250
+recordando que el Captopril me puede servir para que le baje su presión arterial como en este instante.
+
+41
+00:03:48,250 --> 00:03:54,250
+Las emergencias hipertensivas en cambio, ya dijimos, son fármacos endovenosos de manera bastante agresiva.
+
+42
+00:03:54,250 --> 00:03:58,250
+El nitropruciato es el más clásico, la betalol se usa también.
+
+43
+00:03:58,250 --> 00:04:03,250
+Hay una lista interminable de otros antipertensivos endovenosos, todos son similares,
+
+44
+00:04:03,250 --> 00:04:07,250
+y aparte de eso hay que hacer el tratamiento de la complicación específica.
+
+45
+00:04:07,250 --> 00:04:11,250
+Si está con un infarto, por ejemplo, darle aspirina, el stent, etc.
+
+46
+00:04:11,250 --> 00:04:18,250
+Ahora, la velocidad y el objetivo de presión arterial con el que yo manejo una emergencia,
+
+47
+00:04:18,250 --> 00:04:21,250
+la verdad es que depende de la complicación específica,
+
+48
+00:04:21,250 --> 00:04:25,250
+y el ejemplo más clásico, en el caso de una disección aórtica, por ejemplo,
+
+49
+00:04:25,250 --> 00:04:29,250
+hay que bajar la presión arterial muy rápido y además de bajarla rápido,
+
+50
+00:04:29,250 --> 00:04:35,250
+hay que bajarla a niveles bastante más bajos que en el manejo de un edema pulmonar agudo,
+
+51
+00:04:35,250 --> 00:04:37,250
+por ejemplo, en el cual la voy a bajar más lento.
+
+52
+00:04:37,250 --> 00:04:42,250
+Lo mismo con el AVE hemorrágico, se baja más rápido y más intenso que en el AVE isquémico,
+
+53
+00:04:42,250 --> 00:04:48,250
+en que habitualmente se toleran las presiones arteriales bastante elevadas
+
+54
+00:04:48,250 --> 00:04:50,250
+a fin de evitar que haya más isquemia cerebral.
+
+55
+00:04:50,250 --> 00:04:54,250
+Eso es todo, nos vemos en el siguiente video con todavía más temas de presión arterial.

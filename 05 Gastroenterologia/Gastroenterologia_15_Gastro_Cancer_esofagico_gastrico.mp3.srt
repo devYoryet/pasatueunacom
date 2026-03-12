@@ -1,0 +1,435 @@
+1
+00:00:00,000 --> 00:00:07,430
+Hola hola, ¿cómo están? Hablemos del cáncer de esófago y del cáncer de
+
+2
+00:00:07,430 --> 00:00:11,710
+estómago o bien el cáncer esofágico y gástrico respectivamente, que si bien
+
+3
+00:00:11,710 --> 00:00:17,030
+son temas distintos y bastante amplios, ambos tienen algunas cosas en común así
+
+4
+00:00:17,030 --> 00:00:20,470
+que vale la pena verlos en un único vídeo. Empecemos con el cáncer
+
+5
+00:00:20,470 --> 00:00:24,090
+esofágico y recordemos en primer lugar cuáles son sus factores de
+
+6
+00:00:24,090 --> 00:00:29,130
+riesgo. El más importante es fumar el cigarrillo. El consumo de alcohol se
+
+7
+00:00:29,130 --> 00:00:33,850
+asocia también pero en bastante menor medida y en particular como algo que
+
+8
+00:00:33,850 --> 00:00:39,850
+potencia el efecto nocivo del cigarrillo. Se asocia igualmente al reflujo
+
+9
+00:00:39,850 --> 00:00:45,010
+gastro esofágico en particular el tipo de adenocarcinoma que muchas veces se
+
+10
+00:00:45,010 --> 00:00:49,530
+ve también después de que ya se ha diagnosticado el esófago de Barrett
+
+11
+00:00:49,530 --> 00:00:54,210
+que si se acuerdan el esófago de Barrett era la metaplasia de tipo
+
+12
+00:00:54,210 --> 00:00:58,210
+intestinal en el esófago. Si recuerdan una metaplasia es el
+
+13
+00:00:58,210 --> 00:01:03,690
+reemplazo de un tipo de tejido por uno diferente, el epitelio normal de el
+
+14
+00:01:03,690 --> 00:01:08,410
+esófago, acuérdense es un epitelio plano pluri estratificado, en
+
+15
+00:01:08,410 --> 00:01:11,650
+cambio el esófago de Barrett se parece más al epitelio del intestino
+
+16
+00:01:11,650 --> 00:01:16,850
+dígase un epitelio cilíndrico mono estratificado. Ahora, no todos los
+
+17
+00:01:16,850 --> 00:01:20,930
+esófagos de Barrett evolucionan a un cáncer de esófago, de hecho por
+
+18
+00:01:20,930 --> 00:01:25,130
+la general simplemente se observan y se le deja el manejo del reflujo y
+
+19
+00:01:25,130 --> 00:01:28,850
+únicamente los casos en que vienen con algún grado de displacia importante,
+
+20
+00:01:28,850 --> 00:01:32,850
+una displacia de alto grado, en ese caso si se operan los esófagos de
+
+21
+00:01:32,850 --> 00:01:37,970
+Barrett de manera profiláctica. Bueno, habiendo ya cerrado este mini
+
+22
+00:01:37,970 --> 00:01:42,010
+paréntesis de esófagos de Barrett, veamos la clínica del cáncer de
+
+23
+00:01:42,010 --> 00:01:47,090
+esófago, recordando que es una clínica que aparece bastante tardía en
+
+24
+00:01:47,090 --> 00:01:50,010
+la evolución de la enfermedad, habitualmente cuando el cáncer ya
+
+25
+00:01:50,010 --> 00:01:54,090
+está avanzado y se caracteriza fundamentalmente por dos síntomas, por
+
+26
+00:01:54,090 --> 00:01:57,810
+un lado la disfagia lógica, que si se acuerdan la disfagia lógica es la que
+
+27
+00:01:57,810 --> 00:02:02,610
+afecta fundamentalmente la ingesta de alimentos sólidos grandes y solamente
+
+28
+00:02:02,610 --> 00:02:06,930
+a medida que va pasando el tiempo va afectando a los alimentos más
+
+29
+00:02:06,930 --> 00:02:11,330
+pequeños y los líquidos quedan solamente para el final, que es lo
+
+30
+00:02:11,330 --> 00:02:16,730
+lógico, esperable en el caso de un tumor que va creciendo y que va
+
+31
+00:02:16,730 --> 00:02:20,330
+obstruyendo a lo largo de bastante tiempo, a diferencia de la
+
+32
+00:02:20,330 --> 00:02:24,610
+disfagia y lógica que es característica de la acalacia, cierto, de los
+
+33
+00:02:24,610 --> 00:02:29,090
+trastornos neuromotores como por ejemplo en el Crest también en la
+
+34
+00:02:29,090 --> 00:02:33,410
+esclerodermia y que en este caso se afecta desde muy temprano tanto la
+
+35
+00:02:33,410 --> 00:02:36,770
+ingesta de líquidos como la ingesta de sólidos. Segundo lugar, la baja de
+
+36
+00:02:36,770 --> 00:02:39,850
+peso es otro de los síntomas que se ve con frecuencia tanto en el
+
+37
+00:02:39,850 --> 00:02:45,010
+cáncer de esófago como en los cánceres digestivos de estómago y
+
+38
+00:02:45,010 --> 00:02:49,690
+de colon también. El diagnóstico del cáncer esofágico, al igual que la
+
+39
+00:02:49,690 --> 00:02:53,290
+mayoría de los cánceres del tubo digestivo o en todos ellos, cierto, es
+
+40
+00:02:53,290 --> 00:02:57,290
+con una endoscopía, en este caso una endoscopía digestiva alta, cierto, que
+
+41
+00:02:57,290 --> 00:03:03,490
+es la forma en la cual se llega al esófago más una biopsia del tumor o
+
+42
+00:03:03,490 --> 00:03:09,250
+del epitelio. Segundo lugar, la etapificación como para ver tanto la
+
+43
+00:03:09,250 --> 00:03:14,090
+invasión transmural del tumor como las eventuales metástasis, cierto, es
+
+44
+00:03:14,090 --> 00:03:17,930
+en primer lugar con un ataque que ve bastante bien si es que hay metástasis
+
+45
+00:03:17,930 --> 00:03:23,770
+en el mediastino, en los ganglios a nivel del abdomen, cierto, y también en
+
+46
+00:03:23,770 --> 00:03:29,850
+el hígado, como la endosonografía que ve muy bien la invasión transmural del
+
+47
+00:03:29,850 --> 00:03:34,930
+tumor. La endosonografía se usa cada vez más debido justamente a que la
+
+48
+00:03:34,930 --> 00:03:38,210
+invasión transmural es el factor pronóstico más importante, tal como
+
+49
+00:03:38,210 --> 00:03:42,530
+lo vamos a ver ahora, y finalmente se etapifica igualmente no antes de la
+
+50
+00:03:42,530 --> 00:03:47,010
+cirugía solo, sino que también después de la cirugía, una vez que ya
+
+51
+00:03:47,010 --> 00:03:53,570
+se ha operado, se manda a anatomía patológica, el esófago, el tumor y las
+
+52
+00:03:53,570 --> 00:03:58,410
+adenopatías que se sacaron y de esa manera se completa con una
+
+53
+00:03:58,410 --> 00:04:03,330
+etapificación post quirúrgica que le queda más información al fin.
+
+54
+00:04:03,330 --> 00:04:09,590
+Igual que en la inmensa mayoría de los cánceres del tubo digestivo es la
+
+55
+00:04:09,590 --> 00:04:14,270
+invasión transmural lo que define el riesgo de metástasis a distancia y
+
+56
+00:04:14,270 --> 00:04:18,030
+por lo tanto lo que define igualmente la sobrevida en el largo
+
+57
+00:04:18,030 --> 00:04:22,710
+plazo. El tratamiento del cáncer de esófago por la general es la cirugía,
+
+58
+00:04:22,710 --> 00:04:27,610
+es el único con intención curativa, aunque sepan que la quimioterapia y la
+
+59
+00:04:27,610 --> 00:04:31,110
+radioterapia sí cumplen un rol, lo más frecuente es que se den
+
+60
+00:04:31,110 --> 00:04:35,790
+post quirúrgico aunque obviamente va a depender de las características del
+
+61
+00:04:35,790 --> 00:04:40,470
+paciente, del tumor en cuanto al tamaño, la diseminación, la
+
+62
+00:04:40,470 --> 00:04:44,430
+histología, etcétera, pero repito lo más importante es el cáncer de
+
+63
+00:04:44,430 --> 00:04:47,590
+esófago y los cánceres del tubo digestivo se manejan de manera
+
+64
+00:04:47,630 --> 00:04:52,030
+quirúrgica con recepción del tumor y de todas las zonas que eventualmente
+
+65
+00:04:52,030 --> 00:04:57,950
+puedan estar comprometidas. El riesgo gástrico, recuerden acá que el factor
+
+66
+00:04:57,950 --> 00:05:04,740
+de riesgo más importante es la colonización por el hícoba, la parte
+
+67
+00:05:04,740 --> 00:05:09,100
+genética también cumple un rol importante en particular en los
+
+68
+00:05:09,100 --> 00:05:12,860
+cánceres gástricos en pacientes más jóvenes y además el estilo de
+
+69
+00:05:12,860 --> 00:05:18,020
+vida, el fumar, el consumir alcohol y el comer alguna dieta muy abundante
+
+70
+00:05:18,020 --> 00:05:22,780
+en carne, en particular las carnes asadas y con una baja ingesta de
+
+71
+00:05:22,780 --> 00:05:27,640
+vegetales, cierto, se asocia también al cáncer gástrico. El helicodácter
+
+72
+00:05:27,640 --> 00:05:30,860
+pylori y el cigarrillo y el alcohol son los factores de riesgo más
+
+73
+00:05:30,860 --> 00:05:36,260
+importante. En Chile hay mucho cáncer gástrico, de hecho es la primera
+
+74
+00:05:36,260 --> 00:05:41,180
+causa por muerte por cáncer en hombres y es la segunda causa de
+
+75
+00:05:41,180 --> 00:05:45,140
+muerte por cáncer en mujeres en Chile. El cuadro clínico por el
+
+76
+00:05:45,140 --> 00:05:50,340
+general llega tarde también, suele venir con una clínica que es
+
+77
+00:05:50,340 --> 00:05:54,620
+absolutamente asintomática en los estadíos iniciales y que empieza con
+
+78
+00:05:54,620 --> 00:05:58,540
+síntomas recién cuando el cáncer ya está más avanzado y suele ser el
+
+79
+00:05:58,540 --> 00:06:04,220
+dolor epigástrico por un lado, baja de peso cierto, anemia ferropénica, las
+
+80
+00:06:04,220 --> 00:06:07,580
+adenopatías supraclaviculares y en algunos casos se palpa también
+
+81
+00:06:07,580 --> 00:06:11,660
+alguna masa abdominal que es justamente el cáncer cuando ya está
+
+82
+00:06:11,660 --> 00:06:16,220
+muy muy grande. El diagnóstico igual que en el cáncer de esófago, cierto, con
+
+83
+00:06:16,220 --> 00:06:21,180
+la endoscopía y biopsia, la etapificación es igual también con la
+
+84
+00:06:21,180 --> 00:06:25,860
+TAC, la endosonografía y la cirugía y el pronóstico igualmente acá la
+
+85
+00:06:25,860 --> 00:06:30,020
+invasión transmural es lo más importante, al punto que uno clasifica
+
+86
+00:06:30,020 --> 00:06:34,580
+el cáncer gástrico según hasta qué punto de las capas del tubo
+
+87
+00:06:34,580 --> 00:06:38,780
+digestivo invade. Si es que solamente invade la mucosa o máximo hasta la
+
+88
+00:06:38,780 --> 00:06:43,220
+submucosa, en ese caso uno habla de un cáncer incipiente, si es que invade la
+
+89
+00:06:43,220 --> 00:06:47,900
+muscular de la mucosa, si era mucosa todavía, así que es incipiente también,
+
+90
+00:06:47,900 --> 00:06:53,820
+en cambio desde el momento en que ya invade la muscular propia o la serosa
+
+91
+00:06:53,820 --> 00:06:57,260
+cierto, si ya llega más allá uno habla de un cáncer avanzado así
+
+92
+00:06:57,260 --> 00:07:02,940
+que la invasión transmural es lo que me determina la clasificación entre
+
+93
+00:07:02,940 --> 00:07:06,340
+el cáncer incipiente que tiene un excelente pronóstico y el cáncer
+
+94
+00:07:06,340 --> 00:07:10,620
+avanzado que en cambio viene con un pronóstico bastante más malo.
+
+95
+00:07:10,620 --> 00:07:15,700
+La clasificación de Bormann que va desde el Bormann 1 hasta el Bormann 4
+
+96
+00:07:15,700 --> 00:07:20,300
+si se acuerdan es una clasificación de los cánceres avanzados, así que
+
+97
+00:07:20,300 --> 00:07:23,460
+cada vez que le digan viene con Bormann 3 que es el más frecuente que
+
+98
+00:07:23,460 --> 00:07:27,900
+viene con una zona suelevantada y alguna otra ulcerada, en ese caso les
+
+99
+00:07:27,900 --> 00:07:32,300
+están hablando de un cáncer que ya es avanzado. Finalmente el
+
+100
+00:07:32,300 --> 00:07:35,700
+tratamiento del cáncer gástrico igualmente la cirugía es el único
+
+101
+00:07:35,700 --> 00:07:39,140
+con intención curativo, obviamente la técnica quirúrgica es distinta a la
+
+102
+00:07:39,140 --> 00:07:43,380
+del cáncer esofágico cierto y finalmente la quimioterapia y la
+
+103
+00:07:43,380 --> 00:07:48,860
+radioterapia también cumplen algún rol en el manejo posterior y bueno
+
+104
+00:07:48,860 --> 00:07:51,900
+eso es todo lo que hay que saber, el cuadro clínico que se estudia con
+
+105
+00:07:51,900 --> 00:07:56,020
+endoscopía y que la cirugía es lo más importante para el manejo y que
+
+106
+00:07:56,020 --> 00:07:59,580
+la invasión transmural acuérdense es el factor pronóstico fundamental.
+
+107
+00:07:59,580 --> 00:08:03,660
+Lamentablemente uno suele llegar tarde al diagnóstico justamente
+
+108
+00:08:03,660 --> 00:08:07,180
+porque no da ningún síntoma en las etapas iniciales. Nos vemos en el
+
+109
+00:08:07,180 --> 00:08:09,940
+siguiente vídeo, que estén bien.

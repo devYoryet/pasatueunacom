@@ -1,0 +1,403 @@
+1
+00:00:00,000 --> 00:00:06,780
+Hola, hola, ¿cómo están? Veamos ahora el manejo de la pancreatitis agua recordando
+
+2
+00:00:06,780 --> 00:00:11,460
+que es un manejo hospitalario. Esta es una enfermedad que puede ser bastante grave
+
+3
+00:00:11,460 --> 00:00:15,140
+así que el paciente no se maneja ambulatoriamente, incluso en los casos
+
+4
+00:00:15,140 --> 00:00:19,700
+en que se ve leve, en ese caso se hospitaliza, se le pide un montón de
+
+5
+00:00:19,700 --> 00:00:23,060
+exámenes, al menos por algunos días y si evoluciona bien eventualmente si
+
+6
+00:00:23,060 --> 00:00:26,580
+se lo puede dar de alta relativamente rápido. Si es que en cambio está mal
+
+7
+00:00:26,580 --> 00:00:31,260
+puede estar hospitalizado por varias semanas incluso. Número uno, la base
+
+8
+00:00:31,740 --> 00:00:36,420
+del manejo de la pancreatitis aguda es el régimen cero, nada por vía oral en el
+
+9
+00:00:36,420 --> 00:00:42,660
+sentido en que la ingesta de alimentos, ¿cierto? estimula la liberación de
+
+10
+00:00:42,660 --> 00:00:47,020
+enzimas pancreaticas que a su vez agravan el daño, la necrosis que se
+
+11
+00:00:47,020 --> 00:00:51,300
+está produciendo. En segundo lugar hay que hidratar al paciente, ¿cierto? Son
+
+12
+00:00:51,300 --> 00:00:54,980
+pacientes que suelen venir bastante hipovolémicos, acuérdense que la
+
+13
+00:00:54,980 --> 00:00:59,060
+misma inflamación puede generar un tercer espacio y que se sale una
+
+14
+00:00:59,060 --> 00:01:03,340
+parte importante del volumen hacia el extravascular, así que suero
+
+15
+00:01:03,340 --> 00:01:09,300
+fisiológico endovenoso es el segundo pilar y el tercero es la analgesia que
+
+16
+00:01:09,300 --> 00:01:13,580
+por la general se maneja con aines por vía endovenosa también. Como cosa
+
+17
+00:01:13,580 --> 00:01:17,900
+adicional acuérdense la pancreatitis aguda se complicaba con una serie de
+
+18
+00:01:17,900 --> 00:01:21,980
+alteraciones de la homeostasis, ¿cierto? así que es obligatorio darle el
+
+19
+00:01:21,980 --> 00:01:25,740
+soporte e ir arreglando las distintas alteraciones que se vayan
+
+20
+00:01:25,740 --> 00:01:28,740
+enviando, ejemplo si es que hay hipóxia, dale oxígeno, si es que hay
+
+21
+00:01:28,740 --> 00:01:33,780
+hipocalcemia, dale calcio, etcétera. Como cosa adicional ya que va a estar en
+
+22
+00:01:33,780 --> 00:01:37,940
+régimen cero, hay que darle nutrición de alguna manera y la regla
+
+23
+00:01:37,940 --> 00:01:42,780
+general es que si es que es leve, no, basta darle suero glucosado por vía
+
+24
+00:01:42,780 --> 00:01:47,300
+endovenosa y nada más, pero si es moderada a severa hay que complementarlo
+
+25
+00:01:47,300 --> 00:01:51,060
+con alguna alimentación por alguna otra vía y si les pregunto por vía
+
+26
+00:01:51,060 --> 00:01:55,140
+parenteral o por vía enteral y la respuesta es sin ninguna duda en la
+
+27
+00:01:55,140 --> 00:02:00,740
+actualidad enteral, la parenteral anda bien también pero es más cara, es más
+
+28
+00:02:00,740 --> 00:02:04,940
+complicada y se ha visto que tiene más complicaciones que la vía enteral
+
+29
+00:02:04,940 --> 00:02:09,780
+y con enteral me refiero a alimentarlo por una sonda nasogallunal en el
+
+30
+00:02:09,780 --> 00:02:13,740
+sentido en que de ninguna manera puede ser nasogástrica dado que desde el
+
+31
+00:02:13,740 --> 00:02:17,660
+estómago todavía hay paso por el duodeno, por el lugar en donde se
+
+32
+00:02:17,660 --> 00:02:21,220
+liberan las enzimas pancráticas pero ya pasado el duodeno en el
+
+33
+00:02:21,220 --> 00:02:26,100
+intestino más hacia distal, en ese caso sí se puede dejar la
+
+34
+00:02:26,100 --> 00:02:29,460
+nutrición enteral sin ningún problema y de hecho repito está indicada en los
+
+35
+00:02:29,460 --> 00:02:34,100
+casos moderado a severo. La otra típica pregunta es hay que dejarle
+
+36
+00:02:34,100 --> 00:02:38,460
+antibiótico a una pancretitis aguda y la regla general es que no, las
+
+37
+00:02:38,460 --> 00:02:41,940
+pancretitis aguda se manejan sin antibiótico a menos claro que el
+
+38
+00:02:41,940 --> 00:02:47,060
+paciente esté infectado y en este caso se asume que está infectado ya sea
+
+39
+00:02:47,060 --> 00:02:51,060
+porque se demostró esta infección con un hemocultivo por ejemplo que
+
+40
+00:02:51,060 --> 00:02:55,860
+resulta positivo para una clebsiella o para una Echerecha coli cierto o bien
+
+41
+00:02:55,860 --> 00:03:00,660
+en el cultivo por punción de la necrosis infectada que no se
+
+42
+00:03:00,660 --> 00:03:05,580
+recomienda solicitarlo pero si eventualmente se pide y me demuestra
+
+43
+00:03:05,580 --> 00:03:09,940
+que está infectado en ese caso se le deja antibióticos también por una
+
+44
+00:03:09,940 --> 00:03:14,100
+infección demostrada y la segunda indicación es que se asuma que está
+
+45
+00:03:14,100 --> 00:03:18,060
+infectado por el hecho de evolucionar con una clínica especialmente grave o
+
+46
+00:03:18,060 --> 00:03:21,940
+bien que no responda que evolucione mal a pesar de el tratamiento o sea
+
+47
+00:03:21,940 --> 00:03:27,540
+fíjense la pancretitis grave si requiere antibióticos no solamente por
+
+48
+00:03:27,540 --> 00:03:31,260
+su gravedad sino porque se asume que está infectada en el sentido en
+
+49
+00:03:31,260 --> 00:03:35,140
+que se correlaciona bastante la infección con la gravedad del
+
+50
+00:03:35,140 --> 00:03:38,740
+cuadro clínico ahora que antibióticos se deja antibióticos de
+
+51
+00:03:38,740 --> 00:03:42,260
+amplio espectro porque la general queda con cepepime que cubre a
+
+52
+00:03:42,260 --> 00:03:46,900
+los gram positivos y a los gram negativos también más el metronidazol
+
+53
+00:03:46,900 --> 00:03:51,380
+como para la cobertura de los anaerobios el cepepime suele cubrir
+
+54
+00:03:51,380 --> 00:03:57,020
+bastante bien a la pseudomonas también al acinetobacter a las bacterias
+
+55
+00:03:57,020 --> 00:04:02,460
+no fermentadoras no cubre a las ble así que si es que hay riesgo de
+
+56
+00:04:02,460 --> 00:04:06,220
+bacterias ble en ese caso se deja algún carvapenémico más el
+
+57
+00:04:06,220 --> 00:04:10,860
+metronidazol ahora está indicada la cirugía en las pancretitis aguda y
+
+58
+00:04:10,860 --> 00:04:14,540
+nuevamente la regla general es que no requiere de cirugía a menos claro que
+
+59
+00:04:14,540 --> 00:04:19,620
+esté infectado y no solamente infectado sino que además esté muy
+
+60
+00:04:19,620 --> 00:04:23,020
+grave que venga con un shock séptico por ejemplo en ese caso estoy obligado
+
+61
+00:04:23,020 --> 00:04:27,520
+a desfocar a sacar el foco infeccioso en la cirugía que
+
+62
+00:04:27,520 --> 00:04:31,700
+empeore a pesar de estar recibiendo los antibióticos o bien que no
+
+63
+00:04:31,700 --> 00:04:36,180
+mejore en cuatro semanas en ese caso si se hace una debilidad quirúrgica
+
+64
+00:04:36,180 --> 00:04:40,740
+del páncreas o sea fíjense la infección me determina tanto la
+
+65
+00:04:40,740 --> 00:04:44,300
+necesidad de antibióticos como la necesidad de cirugía y la regla
+
+66
+00:04:44,300 --> 00:04:47,940
+general es que una pancretitis no infectada no se maneje ni con
+
+67
+00:04:47,940 --> 00:04:52,260
+antibióticos ni tampoco con cirugía ahora lo último es que viene con un
+
+68
+00:04:52,260 --> 00:04:57,140
+acceso en la tac que acuérdense que se pedía a las 48 horas como como
+
+69
+00:04:57,140 --> 00:05:01,140
+mínimo cierto en ese caso requiere de drenaje quirúrgico también vemos
+
+70
+00:05:01,140 --> 00:05:04,640
+ahora el manejo del pseudoquiste pancreático que es una de las
+
+71
+00:05:04,640 --> 00:05:08,580
+complicaciones más más frecuente y por el general si es que es
+
+72
+00:05:08,580 --> 00:05:12,980
+asintomático simplemente se observa en cambio si es que viene con síntomas
+
+73
+00:05:12,980 --> 00:05:17,060
+ya sea el dolor que es lo más frecuente o la higtericia en ese caso
+
+74
+00:05:17,060 --> 00:05:22,460
+se opera y lo mismo si es que viene con alguna complicación ejemplo con
+
+75
+00:05:22,460 --> 00:05:26,980
+una sobre infección que ya deja de ser un pseudoquiste cierto y pasa a
+
+76
+00:05:26,980 --> 00:05:31,140
+llamarse un acceso o bien si es que obstruye por ejemplo el conducto
+
+77
+00:05:31,140 --> 00:05:36,820
+pancreático o la viabilidad en esos casos se opera y es una cirugía de
+
+78
+00:05:36,860 --> 00:05:41,700
+drenaje aunque como cosa importante de primera línea se suele indicar un
+
+79
+00:05:41,700 --> 00:05:45,580
+drenaje por función y solamente si es que no anda bien en ese caso se hace
+
+80
+00:05:45,580 --> 00:05:49,460
+un drenaje de tipo quirúrgico algo súper importante a veces uno se
+
+81
+00:05:49,460 --> 00:05:52,780
+queda con la duda si es que el pseudoquiste es la causa de los
+
+82
+00:05:52,780 --> 00:05:56,180
+síntomas que hay o bien si es que está con dolor ejemplo por la misma
+
+83
+00:05:56,180 --> 00:06:04,060
+pancreatitis y ahí por el general se aplica esta regla del 666 de que los
+
+84
+00:06:04,260 --> 00:06:08,700
+6 tomas o los síntomas solamente van a ser causados por el pseudoquiste o con
+
+85
+00:06:08,700 --> 00:06:12,580
+alta probabilidad lo van a hacer si es que mide más de 6 centímetros y
+
+86
+00:06:12,580 --> 00:06:16,420
+además si es que lleva más de 6 semanas de lo contrario si es que en un
+
+87
+00:06:16,420 --> 00:06:20,260
+pseudoquiste más pequeño o que lleva menos tiempo quédense con la duda a
+
+88
+00:06:20,260 --> 00:06:24,420
+lo mejor no es el pseudoquiste la causa de los síntomas y por lo mismo
+
+89
+00:06:24,420 --> 00:06:27,940
+se pueda observar ahora si no les queda ninguna duda que la causa de
+
+90
+00:06:27,940 --> 00:06:31,580
+los síntomas es el pseudoquiste en ese caso se drena por función igual
+
+91
+00:06:32,020 --> 00:06:36,980
+vemos finalmente el manejo del absceso como la segunda complicación en este
+
+92
+00:06:36,980 --> 00:06:40,860
+caso ya dijimos los abscesos se consideran una infección así que se
+
+93
+00:06:40,860 --> 00:06:44,700
+agrega los antibióticos cierto el cepepime más el metronidazolendovenoso
+
+94
+00:06:44,700 --> 00:06:49,860
+más el drenaje que en este caso sí o sí es quirúrgico como último
+
+95
+00:06:49,860 --> 00:06:54,540
+tema cuando una pancreatitis aguda se asume que es por causa litiácica
+
+96
+00:06:54,540 --> 00:06:57,660
+que habíamos dicho que era la causa más frecuente y en particular si es
+
+97
+00:06:57,700 --> 00:07:04,340
+que viene con un coledo con litiasis en ese mismo instante hay que drenarlo y
+
+98
+00:07:04,340 --> 00:07:09,100
+hay que hacer una CPR urgente como para descartar la litiasis y hay que
+
+99
+00:07:09,100 --> 00:07:15,500
+hacer el retiro por vía endoscópico de este cálculo cierto como para que
+
+100
+00:07:15,500 --> 00:07:18,860
+se acabe esta pancreatitis de una vez por todas y bueno es todo lo que
+
+101
+00:07:18,860 --> 00:07:22,020
+hay que saber nos vemos en el siguiente tema

@@ -1,0 +1,595 @@
+1
+00:00:00,000 --> 00:00:07,180
+Hola, hola, ¿cómo están? Hablemos de este tema tiroiditis, que es un tema bastante
+
+2
+00:00:07,180 --> 00:00:11,540
+amplio que incluye múltiples patologías, así que veamos un esquema
+
+3
+00:00:11,540 --> 00:00:16,580
+general. Están las tipo aguda, subaguda y crónicas. Dentro de la aguda, las más
+
+4
+00:00:16,580 --> 00:00:21,260
+importantes son las infecciosas, que son por bacterias grapositivas, la más
+
+5
+00:00:21,260 --> 00:00:25,040
+frecuente es el filococcus aurus, luego el streptococcopiogenes. Dentro de las
+
+6
+00:00:25,040 --> 00:00:28,560
+subagudas, la más importante es la tiroiditis subaguda de Kervein o
+
+7
+00:00:28,560 --> 00:00:32,560
+simplemente tiroiditis de Kervein, pero muy relacionadas con ésta y tiene
+
+8
+00:00:32,560 --> 00:00:35,520
+muchas cosas en común, así que las vamos a ver en conjunto. Está la
+
+9
+00:00:35,520 --> 00:00:38,920
+tiroiditis posparto y la tiroiditis silente, que esa última, como su nombre lo
+
+10
+00:00:38,920 --> 00:00:42,660
+dice, viene sin síntomas. Y finalmente, dentro de las tiroiditis crónicas, la
+
+11
+00:00:42,660 --> 00:00:46,000
+más frecuente es la tiroiditis de Hashimoto, que a su vez es la más
+
+12
+00:00:46,000 --> 00:00:49,960
+frecuente de las tiroiditis en general, y la tiroiditis de Riedel, que
+
+13
+00:00:49,960 --> 00:00:54,320
+por el contrario es muy muy rara. Respecto a la clínica, la aguda suele
+
+14
+00:00:54,320 --> 00:00:58,380
+verse como un absceso, con toda toda la clínica del absceso, diga
+
+15
+00:00:58,380 --> 00:01:03,260
+se eritema, aumento de volumen, dolor, etcétera. Suele ser unilateral y
+
+16
+00:01:03,260 --> 00:01:08,900
+finalmente es un bocio, obviamente, doloroso porque está infectado y en
+
+17
+00:01:08,900 --> 00:01:12,780
+algunos casos incluso viene con fiebre o con todas las manifestaciones
+
+18
+00:01:12,780 --> 00:01:17,500
+sistémicas de una sepsis. En el caso de la tiroiditis subaguda, suele venir
+
+19
+00:01:17,500 --> 00:01:21,100
+con bocio doloroso, que aumenta a la palpación de la glándula tiroides,
+
+20
+00:01:21,100 --> 00:01:25,140
+mientras que las crónicas, por el al general, es un bocio indoloro que
+
+21
+00:01:25,180 --> 00:01:29,660
+va a ser como en bolsa de gusanos en el caso de la tiroiditis de Hashimoto,
+
+22
+00:01:29,660 --> 00:01:33,020
+en cambio se palpa como un bocio leñoso muy duro en el caso de la
+
+23
+00:01:33,020 --> 00:01:37,540
+tiroiditis de Riedel. Finalmente, respecto a la función tiroidea en la
+
+24
+00:01:37,540 --> 00:01:41,660
+subaguda, en la etapa inicial, cuando se está inflamando y se está
+
+25
+00:01:41,660 --> 00:01:45,900
+destruyendo la glándula tiroides, suele venir con una fase hipertiroidea
+
+26
+00:01:45,900 --> 00:01:49,900
+y luego, cuando ya se acaba la hormona tiroidea que estaba
+
+27
+00:01:49,900 --> 00:01:53,580
+acumulada, va a evolucionar a una fase en cambio hipotiroidea, así que
+
+28
+00:01:53,580 --> 00:01:57,580
+se puede diagnosticar o pesquisar tanto en la etapa del hipertiroidismo
+
+29
+00:01:57,580 --> 00:02:02,060
+como en la del hipotiroidismo y finalmente al final se resuelve
+
+30
+00:02:02,060 --> 00:02:06,060
+todo y queda en cambio eutiroideo el paciente. En la crónica,
+
+31
+00:02:06,060 --> 00:02:09,540
+en cambio, es muy frecuente que vengan con hipotiroidismo, en particular
+
+32
+00:02:09,540 --> 00:02:12,780
+la de Hashimoto. Y segundo lugar, en el caso de la de Hashimoto,
+
+33
+00:02:12,780 --> 00:02:16,980
+viene además con la positividad de los anticuerpos anti TPO.
+
+34
+00:02:16,980 --> 00:02:20,740
+Veamos con un poco más de detalle la tiroiditis aguda. Habíamos
+
+35
+00:02:20,780 --> 00:02:24,780
+dicho que su etiología era infecciosa, hasta filococco aureus y luego
+
+36
+00:02:24,780 --> 00:02:28,780
+el streptococo piógenes o streptococo betamolítico grupo A.
+
+37
+00:02:28,780 --> 00:02:32,780
+Su clínica, ya dijimos, una masa cervical unilateral, bien
+
+38
+00:02:32,780 --> 00:02:36,780
+inflamatoria, similar a un absceso, en algunas ocasiones incluso hay
+
+39
+00:02:36,780 --> 00:02:40,780
+un absceso propiamente tal que haya que drenar, puede venir con fiebre
+
+40
+00:02:40,780 --> 00:02:44,780
+y lo más frecuente es que venga de manera eutiroideo, sin alteraciones
+
+41
+00:02:44,780 --> 00:02:48,780
+en las pruebas tiroides, pero en algunos casos más raros, sí se produce
+
+42
+00:02:48,820 --> 00:02:52,820
+algo de liberación de hormona tiroidea y puede venir con un cuadro
+
+43
+00:02:52,820 --> 00:02:56,820
+de un hipertiroidismo. El diagnóstico habitualmente es con la clínica
+
+44
+00:02:56,820 --> 00:03:00,820
+pero se suele complementar con la ecografía que ve el absceso
+
+45
+00:03:00,820 --> 00:03:04,820
+que ve la inflamación en esa zona y con la punción aspiración
+
+46
+00:03:04,820 --> 00:03:08,820
+con agujas finas que más que enviarse a una biopsia, en este caso
+
+47
+00:03:08,820 --> 00:03:12,820
+sale pus y de esa manera se confirma el diagnóstico.
+
+48
+00:03:12,820 --> 00:03:16,820
+¿Cómo se hace el tratamiento de esta enfermedad que es de causa infecciosa? Obviamente
+
+49
+00:03:16,860 --> 00:03:20,860
+se hace con teóricos habitualmente por vía endovenosa, ejemplo
+
+50
+00:03:20,860 --> 00:03:24,860
+vancomisina, si es que no sé exactamente si es que es un estafilococo
+
+51
+00:03:24,860 --> 00:03:28,860
+resistente o no, o bien con cefasolina o con cloxacilina
+
+52
+00:03:28,860 --> 00:03:32,860
+en el caso de que ya sepa que se trata de una bacteria sensible.
+
+53
+00:03:32,860 --> 00:03:36,860
+El drenaje se hace habitualmente en la misma punción, ya sea
+
+54
+00:03:36,860 --> 00:03:40,860
+con una aguja fina o con una aguja un poquito más gruesa, y en el caso
+
+55
+00:03:40,860 --> 00:03:44,860
+de que no sea suficiente, de que no responda o de que no se pueda
+
+56
+00:03:44,900 --> 00:03:48,900
+hacer un drenaje quirúrgico, pero repito, la regla general
+
+57
+00:03:48,900 --> 00:03:52,900
+es que se drene por punción. Vemos ahora la tiroiditis
+
+58
+00:03:52,900 --> 00:03:56,900
+subaguda, que es lo mismo que la tiroiditis de Kervain, que es lo
+
+59
+00:03:56,900 --> 00:04:00,900
+mismo a su vez que la tiroiditis granulocítica o de células gigantes
+
+60
+00:04:00,900 --> 00:04:04,900
+todo eso son sinónimos, subaguda, Kervain, granulocítica y células gigantes
+
+61
+00:04:04,900 --> 00:04:08,900
+y que a su vez se asocia a la posparto, que es aquella que ocurre
+
+62
+00:04:08,900 --> 00:04:12,900
+posparto, o sea, si es que tengo el mismo cuadro clínico, exactamente igual, pero
+
+63
+00:04:12,940 --> 00:04:16,940
+después del parto, en ese caso se llama tiroiditis posparto, y si no tiene
+
+64
+00:04:16,940 --> 00:04:20,940
+absolutamente ningún síntoma, en ese caso se llama tiroiditis silente, pero
+
+65
+00:04:20,940 --> 00:04:24,940
+las agrupamos porque los exámenes, las alteraciones y la clínica
+
+66
+00:04:24,940 --> 00:04:28,940
+es muy similar, con la única excepción que la silente viene
+
+67
+00:04:28,940 --> 00:04:32,940
+habitualmente sin ningún síntoma o a lo más con algunos síntomas
+
+68
+00:04:32,940 --> 00:04:36,940
+de hipertiroidismo. Vemos ahora cuál es la etiología
+
+69
+00:04:36,940 --> 00:04:40,940
+de la tiroiditis subaguda de Kervain, por lo que la general es autoinmune, seguramente
+
+70
+00:04:40,980 --> 00:04:44,980
+postinfecciosa, así que suele ser algo solamente
+
+71
+00:04:44,980 --> 00:04:48,980
+transitorio que se arregla algún tiempo después, y su clínica hay que saberla con bastante detalle
+
+72
+00:04:48,980 --> 00:04:52,980
+suele venir antecedente de una infección respiratoria alta previa
+
+73
+00:04:52,980 --> 00:04:56,980
+y por lo mismo es postinfecciosa, segundo lugar, lo más importante,
+
+74
+00:04:56,980 --> 00:05:00,980
+bocio doloroso que aumenta al palpar la granula tiroides
+
+75
+00:05:00,980 --> 00:05:04,980
+a veces el dolor de la tiroides se refleja en otras zonas
+
+76
+00:05:04,980 --> 00:05:08,980
+ejemplo con otalgia, acuérdense que la causa más frecuente de otalgia
+
+77
+00:05:09,020 --> 00:05:13,020
+que es la otalgia refleja, con alguna ateración en otra parte del cuerpo
+
+78
+00:05:13,020 --> 00:05:17,020
+que no sea en el oído, incluyendo la tiroides subaguda de Kervain
+
+79
+00:05:17,020 --> 00:05:21,020
+es muy frecuente que venga con hipertiroidismo, habíamos dicho que luego evoluciona a hipotiroidismo
+
+80
+00:05:21,020 --> 00:05:25,020
+y finalmente a eutiroidismo, y como última cosa, es raro
+
+81
+00:05:25,020 --> 00:05:29,020
+en algunos casos que venga con síntomas más sistémicos, con mialgias, con artalgias
+
+82
+00:05:29,020 --> 00:05:33,020
+con fiebre, y en este caso es importante porque
+
+83
+00:05:33,020 --> 00:05:37,020
+puede cambiar un poquito el manejo, o al menos
+
+84
+00:05:37,060 --> 00:05:39,060
+el esquema de fármacos que le voy a dejar
+
+85
+00:05:39,060 --> 00:05:43,060
+¿Cómo se diagnostica? Con la clínica, bocio doloroso
+
+86
+00:05:43,060 --> 00:05:47,060
+con ese cuadro clínico es algo que me confirma inmediatamente
+
+87
+00:05:47,060 --> 00:05:51,060
+el diagnóstico de la tiroides subaguda de Kervain, pero hay una serie de exámenes
+
+88
+00:05:51,060 --> 00:05:55,060
+de apoyo diagnóstico, ejemplo la TCH y la T4 libre
+
+89
+00:05:55,060 --> 00:05:59,060
+que pueden mostrar un hipertiroidismo de tipo primario, porque es por liberación
+
+90
+00:05:59,060 --> 00:06:03,060
+de las hormonas tiroideas, segundo lugar
+
+91
+00:06:03,100 --> 00:06:07,100
+que también puede venir con aumento de la tiroglobulina, que es esta proteína que está
+
+92
+00:06:07,100 --> 00:06:11,100
+adentro de los folículos en el coloides de tiroideo, que en este caso se rompe
+
+93
+00:06:11,100 --> 00:06:15,100
+y se libera, aparte de esto viene con una disminución
+
+94
+00:06:15,100 --> 00:06:19,100
+de la captación de yovo radiactivo, porque si bien hay una gran liberación
+
+95
+00:06:19,100 --> 00:06:23,100
+que quede claro, no hay una hiperproducción, sino que solamente hay una hiperliberación
+
+96
+00:06:23,100 --> 00:06:27,100
+de lo que ya se produjo antes, así que la captación de yovo radiactivo está disminuida
+
+97
+00:06:27,100 --> 00:06:31,100
+¿Y qué pasa con los anticuerpos anti-TPO?
+
+98
+00:06:31,140 --> 00:06:35,140
+No hay negativos, pero si es que estuvieran positivos, que en un porcentaje
+
+99
+00:06:35,140 --> 00:06:39,140
+de los casos sí lo está, tiene riesgo de evolucionar después
+
+100
+00:06:39,140 --> 00:06:43,140
+a una tiroiditis de Hashimoto, o sea, fíjense, un porcentaje
+
+101
+00:06:43,140 --> 00:06:47,140
+bajo pero aún así importante de la tiroiditis subaguda
+
+102
+00:06:47,140 --> 00:06:51,140
+finalmente se vuelve una tiroiditis crónica con hipotiroidismo
+
+103
+00:06:51,140 --> 00:06:55,140
+¿Cuál es el tratamiento de la tiroiditis subaguda de Kervain?
+
+104
+00:06:55,140 --> 00:06:59,140
+Y esto hay que saberlo, es con aines, los aines me sirven para el dolor
+
+105
+00:06:59,180 --> 00:07:03,180
+Es el beta bloqueo que me sirve para los síntomas de hipertiroidismo, así que solamente
+
+106
+00:07:03,180 --> 00:07:07,180
+se dejan si es que esos síntomas están presentes y que quede muy muy claro
+
+107
+00:07:07,180 --> 00:07:11,180
+no se usan las drogas anti-tiroideas, o sea, el Atenolol sí
+
+108
+00:07:11,180 --> 00:07:15,180
+el metimazol en cambio no. Finalmente, cuando le dejo
+
+109
+00:07:15,180 --> 00:07:19,180
+prednisona, y la verdad es que se deja en esos raros casos en que viene con mucha
+
+110
+00:07:19,180 --> 00:07:23,180
+mitalgia, fiebre, artralgia, y que no responde a los aines, en ese caso
+
+111
+00:07:23,180 --> 00:07:27,180
+para el manejo de estos síntomas sistémicos muy intensos se puede agregar
+
+112
+00:07:27,220 --> 00:07:31,220
+pero repito, el tratamiento no son los corticoides, son los aines
+
+113
+00:07:31,220 --> 00:07:35,220
+como fármaco de primera línea. Finalmente veamos la tiroiditis crónica
+
+114
+00:07:35,220 --> 00:07:39,220
+¿cierto? Recordando que la tiroiditis de Hashimoto es la más frecuente
+
+115
+00:07:39,220 --> 00:07:43,220
+hay una infiltración linfocitaria a nivel de la glándula tiroides
+
+116
+00:07:43,220 --> 00:07:47,220
+y su causa, ya dijimos, es autoinmune, su clínica
+
+117
+00:07:47,220 --> 00:07:51,220
+habitualmente viene con este bocio difuso en bolsa de gusanos, más
+
+118
+00:07:51,220 --> 00:07:55,220
+los síntomas de hipotiroidismo no siempre están al inicio
+
+119
+00:07:55,260 --> 00:07:59,260
+a veces aparecen después, y el diagnóstico por la general
+
+120
+00:07:59,260 --> 00:08:03,260
+es con la clínica, más el hipotiroidismo, ¿cierto?
+
+121
+00:08:03,260 --> 00:08:07,260
+más los anticuerpos anti TPO, que son lo patognomónico
+
+122
+00:08:07,260 --> 00:08:11,260
+o lo que se asocia a este caso, que a veces no se informan
+
+123
+00:08:11,260 --> 00:08:15,260
+como anticuerpos anti peroxidase tiroidea, sino que como anticuerpos
+
+124
+00:08:15,260 --> 00:08:19,260
+antimicrosomales, por si acaso. Finalmente, ¿cuál es el tratamiento de la tiroiditis
+
+125
+00:08:19,260 --> 00:08:23,260
+de Hashimoto? Pues es simplemente el tratamiento del hipotiroidismo
+
+126
+00:08:23,300 --> 00:08:27,300
+en el caso de que haya hipotiroidismo, o sea, le botiroxina, pero repito
+
+127
+00:08:27,300 --> 00:08:31,300
+solo en el caso de que haya hipotiroidismo. ¿Qué pasa si hay hipotiroidismo subclínico?
+
+128
+00:08:31,300 --> 00:08:35,300
+Pues no se trata, simplemente se sigue de una manera
+
+129
+00:08:35,300 --> 00:08:39,300
+más frecuente por estar en contexto de una tiroiditis
+
+130
+00:08:39,300 --> 00:08:43,300
+crónica que tiene riesgo de evolucionar a un hipotiroidismo
+
+131
+00:08:43,300 --> 00:08:47,300
+ya no subclínico sino que propiamente tal. Finalmente, la tiroiditis de Riedel
+
+132
+00:08:47,300 --> 00:08:51,300
+que repito es muy muy rara, su causa igualmente es autoinmune, en este caso
+
+133
+00:08:51,340 --> 00:08:55,340
+hay una fibrosis de la glándula tiroides, a veces se asocia a una fibrosis
+
+134
+00:08:55,340 --> 00:08:59,340
+de otras estructuras del cuello o del mediastino también, de hecho
+
+135
+00:08:59,340 --> 00:09:03,340
+una de las cosas que hay que buscar es que no haya una esclerosis sistémica como
+
+136
+00:09:03,340 --> 00:09:07,340
+una esclerodermia. ¿Cuál es su clínica? Y hay que saberla bien
+
+137
+00:09:07,340 --> 00:09:11,340
+es un bocio duro, leñoso cierto, a veces que puede ser muy grande
+
+138
+00:09:11,340 --> 00:09:15,340
+lo más frecuente es que sea eutiroidio, pero en algunos casos puede ser
+
+139
+00:09:15,340 --> 00:09:19,340
+hipotiroidio también y finalmente puede evolucionar a compresión
+
+140
+00:09:19,380 --> 00:09:23,380
+de las distintas estructuras del cuello, ya sea los vasos sanguíneos, los nervios
+
+141
+00:09:23,380 --> 00:09:27,380
+la tráquea, etcétera, acuérdense que la tiroides está en estrecha
+
+142
+00:09:27,380 --> 00:09:31,380
+relación con la tráquea, el diagnóstico habitualmente es clínico
+
+143
+00:09:31,380 --> 00:09:35,380
+pero más una confirmación con biopsia en que se muestra que efectivamente
+
+144
+00:09:35,380 --> 00:09:39,380
+hay fibrosis de algunas zonas de la tiroides y como
+
+145
+00:09:39,380 --> 00:09:43,380
+última cosa el tratamiento de la tiroiditis de Riedel, la verdad es que no hay nada
+
+146
+00:09:43,380 --> 00:09:47,380
+que sirva mucho pero los corticoides aparentemente logran una remisión
+
+147
+00:09:47,420 --> 00:09:51,420
+en un porcentaje importante de los pacientes y en otros evitan
+
+148
+00:09:51,420 --> 00:09:55,420
+que siga avanzando, pues eso es todo, espero que haya quedado claro
+
+149
+00:09:55,420 --> 00:09:57,420
+nos vemos en los siguientes temas

@@ -1,0 +1,635 @@
+1
+00:00:03,280 --> 00:00:06,280
+Hola, ¿cómo están? Hablemos de un tema que es un poco difícil,
+
+2
+00:00:06,280 --> 00:00:08,680
+que es la elección de antibióticos en las neumonías.
+
+3
+00:00:08,680 --> 00:00:12,680
+Y sepan que va a servir como una especie de repaso de varios antibióticos.
+
+4
+00:00:12,680 --> 00:00:17,680
+Sepan que muchos antibióticos sirven y cubren a los microorganismos más frecuentes,
+
+5
+00:00:17,680 --> 00:00:22,280
+que son el neumococo, el hemófilo, en particular el neumococo, ese es el más importante.
+
+6
+00:00:22,280 --> 00:00:28,680
+Y dentro de eso están las penicilinas, como ejemplo la amoxicilina, la ampicilina,
+
+7
+00:00:28,680 --> 00:00:33,080
+la penicilina misma, la penicilina G, la penicilina B, etc.
+
+8
+00:00:33,080 --> 00:00:36,080
+La bioral es la que habitualmente se deja la B, aunque la más barata
+
+9
+00:00:36,080 --> 00:00:39,080
+y la que uno más compra es la amoxicilina en la práctica.
+
+10
+00:00:39,080 --> 00:00:44,680
+Aparte de esto, uno puede reforzar a las penicilinas con los inhibidores de la beta-lactamasa,
+
+11
+00:00:44,680 --> 00:00:47,680
+que son el ácido clavulánico y el sulbactam.
+
+12
+00:00:47,680 --> 00:00:50,680
+Y acuérdense que estos habitualmente se indican cuando se sospecha
+
+13
+00:00:50,680 --> 00:00:54,080
+que puede haber un germen que produzca la beta-lactamasa,
+
+14
+00:00:54,080 --> 00:01:00,080
+como ejemplo el mismo hemófilo o un estafilococcoaurus, por ejemplo.
+
+15
+00:01:00,080 --> 00:01:05,080
+Aparte de esto, sirven los macrólidos, que cubren muy bien los focos respiratorios,
+
+16
+00:01:05,080 --> 00:01:08,080
+tanto de las bacterias típicas, que son el neumococo y el hemófilo,
+
+17
+00:01:08,080 --> 00:01:12,080
+como los atípicos, que están el micoplasma, la clamidia, etc.
+
+18
+00:01:12,080 --> 00:01:17,080
+Y ahí tenemos la eritromicina, la claditromicina y el que más se usa actualmente,
+
+19
+00:01:17,080 --> 00:01:21,080
+que es la acitromicina, que se toma solamente una vez al día y es por menos tiempo.
+
+20
+00:01:21,080 --> 00:01:25,080
+Estas también las tetraciclinas, en específico la doxiciclina,
+
+21
+00:01:25,080 --> 00:01:31,080
+cubre bien el foco neumónico también y muchas veces se usa como uno de los fármacos de elección
+
+22
+00:01:31,080 --> 00:01:35,080
+cuando es alérgico, ejemplo, y le han caído mal los macrólidos.
+
+23
+00:01:35,080 --> 00:01:40,080
+Aparte de esto, me sirven las cephalosporinas, pero solo desde la segunda generación en adelante.
+
+24
+00:01:40,080 --> 00:01:45,080
+Las de primera generación habitualmente no cubren hemófilo y tampoco cubren bien el neumococo.
+
+25
+00:01:45,080 --> 00:01:49,080
+En cambio, desde la segunda hasta las generaciones que siguen después
+
+26
+00:01:49,080 --> 00:01:51,080
+cubren muy bien el foco respiratorio.
+
+27
+00:01:51,080 --> 00:01:54,080
+El cefuroximo es el más clásico y se puede tomar por vía oral,
+
+28
+00:01:54,080 --> 00:01:57,080
+así que es algo que está disponible y que en la práctica se usa.
+
+29
+00:01:57,080 --> 00:02:01,080
+También me sirven las cephalosporinas de tercera generación,
+
+30
+00:02:01,080 --> 00:02:06,080
+que la cefraxona y el cefotaximo son los más utilizados por regla general
+
+31
+00:02:06,080 --> 00:02:09,080
+de estos antibióticos y son los que se dan por vía endovenosa.
+
+32
+00:02:09,080 --> 00:02:12,080
+Pero aparte de eso, sepan al menos la cefixima,
+
+33
+00:02:12,080 --> 00:02:16,080
+que es la clásica cephalosporina de tercera generación que se toma por vía oral.
+
+34
+00:02:17,080 --> 00:02:20,080
+Aparte de esto, tengo las quinolonas respiratorias,
+
+35
+00:02:20,080 --> 00:02:22,080
+que están el levofloxacino y el moxifloxacino,
+
+36
+00:02:22,080 --> 00:02:28,080
+que cubren muy bien igualmente a los bichos típicos y también a los atípicos.
+
+37
+00:02:28,080 --> 00:02:32,080
+Y en el caso del moxifloxacino, cubre igualmente a los anaerobios.
+
+38
+00:02:32,080 --> 00:02:36,080
+Así que levo y moxi, ambos tienen una cobertura muy similar,
+
+39
+00:02:36,080 --> 00:02:39,080
+pero el moxi suma anaerobios además.
+
+40
+00:02:39,080 --> 00:02:44,080
+Y finalmente, si yo tengo un paciente que es alérgico a alguno de esos antibióticos,
+
+41
+00:02:44,080 --> 00:02:47,080
+pues simplemente no hay que darle ese antibiótico y hay que darle otro.
+
+42
+00:02:47,080 --> 00:02:50,080
+Si es que es alérgico a la amoxicilina,
+
+43
+00:02:50,080 --> 00:02:52,080
+pues hay que darle acetromicina, por ejemplo.
+
+44
+00:02:52,080 --> 00:02:56,080
+Igualmente, si es que es alérgico al levofloxacino,
+
+45
+00:02:56,080 --> 00:02:58,080
+le voy a dar alguna cosa diferente.
+
+46
+00:02:58,080 --> 00:03:01,080
+La típica pregunta es, ¿qué pasa si es alérgico a la amoxicilina?
+
+47
+00:03:01,080 --> 00:03:05,080
+Le puedo dar la septaxona y eso lo vimos en otra clase,
+
+48
+00:03:05,080 --> 00:03:09,080
+pero se los recuerdo, por la general sí se puede dar,
+
+49
+00:03:09,080 --> 00:03:12,080
+a menos que haya tenido una reacción alérgica severa
+
+50
+00:03:12,080 --> 00:03:15,080
+o una reacción alérgica mediada por IgE,
+
+51
+00:03:15,080 --> 00:03:19,080
+porque esas tienen riesgo de complicarse y de volverse más severas a la siguiente.
+
+52
+00:03:19,080 --> 00:03:21,080
+Y esto sigue siendo más complejo todavía,
+
+53
+00:03:21,080 --> 00:03:24,080
+porque en el caso de las neumonías intrahospitalarias,
+
+54
+00:03:24,080 --> 00:03:26,080
+que hay que saber su definición, por si acaso,
+
+55
+00:03:26,080 --> 00:03:29,080
+que son las que empiezan desde dos días después de hospitalizarse
+
+56
+00:03:29,080 --> 00:03:32,080
+hasta siete días después de haberse enviado de alta,
+
+57
+00:03:32,080 --> 00:03:34,080
+o sea, dos días después de ingreso,
+
+58
+00:03:34,080 --> 00:03:36,080
+porque acuérdense que si es que inicia antes,
+
+59
+00:03:36,080 --> 00:03:38,080
+si es que inicia el mismo día en que se hospitaliza, por ejemplo,
+
+60
+00:03:38,080 --> 00:03:41,080
+uno asume que se contagió antes de hospitalizarse
+
+61
+00:03:41,080 --> 00:03:43,080
+y que hay una neumonía adquirida de la comunidad,
+
+62
+00:03:43,080 --> 00:03:48,080
+y obviamente si es que empieza la clínica con una hospitalización reciente,
+
+63
+00:03:48,080 --> 00:03:51,080
+ya en su casa, pero habiendo estado en el hospital hace poco,
+
+64
+00:03:51,080 --> 00:03:56,080
+uno dice esto nuevamente puede ser por una infección intrahospitalaria.
+
+65
+00:03:56,080 --> 00:04:00,080
+Y lo relevante en este caso es que pueden ser por los bichos resistentes del hospital,
+
+66
+00:04:00,080 --> 00:04:03,080
+y obviamente en cada uno de los centros hospitalarios
+
+67
+00:04:03,080 --> 00:04:06,080
+puede haber distintos tipos de microorganismos resistentes,
+
+68
+00:04:07,080 --> 00:04:11,080
+pero lo más frecuentes son el estafilococcus aureus meticilino resistente
+
+69
+00:04:11,080 --> 00:04:14,080
+y la pseudomonas aureginosa.
+
+70
+00:04:14,080 --> 00:04:17,080
+Pero puede ser igualmente estos microorganismos BLE,
+
+71
+00:04:17,080 --> 00:04:19,080
+que son los que tienen una beta-lactamasa de espectro expandido,
+
+72
+00:04:19,080 --> 00:04:21,080
+como ejemplo una clebsiela BLE,
+
+73
+00:04:21,080 --> 00:04:26,080
+que el espectro expandido quiere decir que no solamente degradan a las penicilinas,
+
+74
+00:04:26,080 --> 00:04:30,080
+sino que además a las céfalosporinas.
+
+75
+00:04:30,080 --> 00:04:33,080
+Así que la única forma de manejarlos con un beta-lactámico
+
+76
+00:04:33,080 --> 00:04:36,080
+es con el inipenema o con algún otro carboapenémico.
+
+77
+00:04:36,080 --> 00:04:40,080
+Y finalmente el acinetobacter que tiene un patrón de resistencia
+
+78
+00:04:40,080 --> 00:04:42,080
+y de infección muy similar a la pseudomonas.
+
+79
+00:04:42,080 --> 00:04:46,080
+De hecho son primos, son gram negativos, no fermentadores,
+
+80
+00:04:46,080 --> 00:04:49,080
+tanto pseudomonas como el acinetobacter.
+
+81
+00:04:49,080 --> 00:04:53,080
+Ahora, la vancomicina elinesolide son los fármacos de elección
+
+82
+00:04:53,080 --> 00:04:58,080
+para el estafilococcus aureus meticilino resistente,
+
+83
+00:04:58,080 --> 00:05:01,080
+en particular la vancomicina que suele ser el más usado,
+
+84
+00:05:01,080 --> 00:05:05,080
+y para la pseudomonas se pueden usar las céfalosporinas de tercera generación
+
+85
+00:05:05,080 --> 00:05:09,080
+con accionante pseudomonas como la ceftacidima o la cefoperasona.
+
+86
+00:05:09,080 --> 00:05:13,080
+Se puede usar también las céfalosporinas de cuarta generación como el cefepime
+
+87
+00:05:13,080 --> 00:05:16,080
+y finalmente los carboapenémicos, pero no todos.
+
+88
+00:05:16,080 --> 00:05:19,080
+Sirve el inipeném, sirve el mero peném
+
+89
+00:05:19,080 --> 00:05:22,080
+y no sirve el ertapeném que no cubre bien el pseudomonas
+
+90
+00:05:22,080 --> 00:05:26,080
+a pesar de que es el más barato y el que se puede usar de manera ambulatoria
+
+91
+00:05:26,080 --> 00:05:28,080
+habitualmente con una pura dosis al día.
+
+92
+00:05:28,080 --> 00:05:31,080
+El inipeném es bueno, pero no cubre pseudomonas.
+
+93
+00:05:31,080 --> 00:05:34,080
+Ahora, ¿qué fármaco se va a dejar en específico?
+
+94
+00:05:34,080 --> 00:05:38,080
+Pues algo que cubra a los bichos convencionales no resistentes
+
+95
+00:05:38,080 --> 00:05:40,080
+de las neumonías comunes y corrientes,
+
+96
+00:05:40,080 --> 00:05:45,080
+más algo que cubra a los bichos específicos de cada uno de los hospitales.
+
+97
+00:05:45,080 --> 00:05:48,080
+Si me dicen que en este hospital hay pseudomonas,
+
+98
+00:05:48,080 --> 00:05:50,080
+pues va a quedar con inipeném, por ejemplo.
+
+99
+00:05:50,080 --> 00:05:55,080
+Ahora, en el caso de la neumonía en los pacientes inmunodeprimidos,
+
+100
+00:05:55,080 --> 00:06:00,080
+igualmente hay que saber que pueden ser causadas por microorganismos oportunistas,
+
+101
+00:06:00,080 --> 00:06:03,080
+por infecciones oportunistas, que se abrían como I-O.
+
+102
+00:06:03,080 --> 00:06:06,080
+Y el más frecuente, al menos en los pacientes VIH,
+
+103
+00:06:06,080 --> 00:06:08,080
+es el neumocistis girobeci.
+
+104
+00:06:08,080 --> 00:06:11,080
+Así que hay que cubrirlo con cotrimoxazol,
+
+105
+00:06:11,080 --> 00:06:13,080
+que es el tratamiento de elección.
+
+106
+00:06:13,080 --> 00:06:15,080
+Y si es que hay alergia a la sulfa,
+
+107
+00:06:15,080 --> 00:06:19,080
+porque acuérdense que el cotrimoxazol es sulfametoxazol más trimetoprim,
+
+108
+00:06:19,080 --> 00:06:22,080
+en ese caso se puede dejar odapsona o clindamicida.
+
+109
+00:06:23,080 --> 00:06:27,080
+Ahora, algo que tienen en común tanto la neumonía intrahospitalaria
+
+110
+00:06:27,080 --> 00:06:30,080
+como la neumonía en el paciente inmunodeprimido,
+
+111
+00:06:30,080 --> 00:06:34,080
+es que en ambos casos, como puede haber algunos otros microorganismos más infrecuentes,
+
+112
+00:06:34,080 --> 00:06:36,080
+hay que hacer un estudio microbiológico,
+
+113
+00:06:36,080 --> 00:06:40,080
+de manera de identificar qué microorganismo tiene
+
+114
+00:06:40,080 --> 00:06:42,080
+y dejar un tratamiento más acotado.
+
+115
+00:06:42,080 --> 00:06:45,080
+O sea, cuando yo no lo he identificado todavía,
+
+116
+00:06:45,080 --> 00:06:47,080
+deja un tratamiento de un espectro muy amplio,
+
+117
+00:06:47,080 --> 00:06:50,080
+con cobertura de la neumonía comunitaria,
+
+118
+00:06:50,080 --> 00:06:53,080
+y además la cobertura de los bichos resistentes
+
+119
+00:06:53,080 --> 00:06:57,080
+o los bichos oportunistas, dependiendo qué tipo de factor de riesgo tenga.
+
+120
+00:06:57,080 --> 00:07:02,080
+Y una vez que ya he hecho el estudio de identificar el microorganismo
+
+121
+00:07:02,080 --> 00:07:07,080
+más la sensibilidad, pues en ese caso acoto mi espectro de acción
+
+122
+00:07:07,080 --> 00:07:10,080
+de manera dirigida al microorganismo que identifico.
+
+123
+00:07:10,080 --> 00:07:13,080
+Lo mismo ocurre en los pacientes que están en la UCI,
+
+124
+00:07:13,080 --> 00:07:17,080
+que habitualmente se cultivan y se ajusta el tratamiento de una manera más específica.
+
+125
+00:07:17,080 --> 00:07:20,080
+Ahora, sigue habiendo otras excepciones todavía,
+
+126
+00:07:20,080 --> 00:07:22,080
+como la neumonía post-influenza,
+
+127
+00:07:22,080 --> 00:07:25,080
+en este caso no la por-influenza, que es la neumonía viral
+
+128
+00:07:25,080 --> 00:07:28,080
+que ocurre en agudo, durante el cuadro agudo,
+
+129
+00:07:28,080 --> 00:07:31,080
+sino que la que ocurre algunas semanas después,
+
+130
+00:07:31,080 --> 00:07:33,080
+una o dos semanas después de la influenza,
+
+131
+00:07:33,080 --> 00:07:36,080
+en este caso debo cubrir, además del neumococo,
+
+132
+00:07:36,080 --> 00:07:37,080
+hay que cubrir el estafilococo aureus.
+
+133
+00:07:37,080 --> 00:07:41,080
+Así que habitualmente queda con Cetraxona para el neumococo,
+
+134
+00:07:41,080 --> 00:07:43,080
+más Cloxacilina o Bancomicina
+
+135
+00:07:43,080 --> 00:07:46,080
+para la cobertura del estafilococo aureus también.
+
+136
+00:07:46,080 --> 00:07:51,080
+Y finalmente, una neumonía que no responde en 48 a 72 horas,
+
+137
+00:07:51,080 --> 00:07:54,080
+en el sentido en que después de dos a tres días de antibiótico,
+
+138
+00:07:54,080 --> 00:07:57,080
+uno espera que haya una mejoría clínica significativa.
+
+139
+00:07:57,080 --> 00:08:01,080
+Si eso no ha ocurrido, pues uno no dice que hay resistencia,
+
+140
+00:08:01,080 --> 00:08:04,080
+sino que la pregunta es, ¿habrá una complicación?
+
+141
+00:08:04,080 --> 00:08:06,080
+En específico, ¿habrá una empiema?
+
+142
+00:08:06,080 --> 00:08:10,080
+Y en ese caso que quede claro, no se cambia el tratamiento antibiótico.
+
+143
+00:08:10,080 --> 00:08:12,080
+El antibiótico se mantiene exactamente igual.
+
+144
+00:08:12,080 --> 00:08:14,080
+Lo que yo hago es pedirle una radiografía de control,
+
+145
+00:08:14,080 --> 00:08:17,080
+y en el caso de que la radiografía me muestre que hay un derrame,
+
+146
+00:08:17,080 --> 00:08:18,080
+pues se funciona.
+
+147
+00:08:18,080 --> 00:08:20,080
+Y si es que confirmo que hay una empiema,
+
+148
+00:08:20,080 --> 00:08:22,080
+el manejo de la empiema era el mismo esquema antibiótico,
+
+149
+00:08:22,080 --> 00:08:25,080
+pero más un tubo pleural para adrenarlo.
+
+150
+00:08:25,080 --> 00:08:28,080
+Ahora, si es que no encuentro ninguna otra causa,
+
+151
+00:08:28,080 --> 00:08:32,080
+pues en ese caso, si la radiografía estaba normal y no había una empiema,
+
+152
+00:08:32,080 --> 00:08:34,080
+la duda es, ¿habrá resistencia antibiótica?
+
+153
+00:08:34,080 --> 00:08:38,080
+Y en ese caso, eventualmente sí cambio el tratamiento antibiótico
+
+154
+00:08:38,080 --> 00:08:42,080
+mientras tengo el resultado del cultivo.
+
+155
+00:08:42,080 --> 00:08:45,080
+En el sentido en que ahí nuevamente se va a hacer el estudio microbiológico.
+
+156
+00:08:45,080 --> 00:08:48,080
+Si se fijan, un tema bastante complejo, amplio,
+
+157
+00:08:48,080 --> 00:08:51,080
+con hartas aristas, hartas variables,
+
+158
+00:08:51,080 --> 00:08:53,080
+pero que hay que saberlo bien, así que aprendérselo.
+
+159
+00:08:53,080 --> 00:08:54,080
+¡Que estén bien!

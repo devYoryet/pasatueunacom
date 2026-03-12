@@ -1,0 +1,543 @@
+1
+00:00:00,000 --> 00:00:07,690
+Hola, hola, ¿cómo están? En este vídeo vamos a ver las urgencias oncológicas y su manejo,
+
+2
+00:00:07,690 --> 00:00:11,690
+recordando que las más importantes son el síndrome de compresión de la benacaba superior
+
+3
+00:00:11,690 --> 00:00:15,690
+o simplemente síndrome de benacaba superior, el síndrome de compresión medular,
+
+4
+00:00:15,690 --> 00:00:21,690
+la hipercalcemia maligna severa, el síndrome de lisis tumoral y finalmente la hemorragia tumoral,
+
+5
+00:00:21,690 --> 00:00:26,690
+recordando que todas ellas requieren una identificación y un manejo muy, muy rápido, urgente
+
+6
+00:00:26,690 --> 00:00:30,690
+y luego de eso requieren además un manejo oncológico, o sea, del cáncer de base,
+
+7
+00:00:30,690 --> 00:00:34,690
+que también debe ser urgente en el sentido en que ya sabemos que este cáncer se está complicando
+
+8
+00:00:34,690 --> 00:00:41,690
+con algo grave. Como detalle, muchas veces la forma en que debuta un cáncer es precisamente
+
+9
+00:00:41,690 --> 00:00:46,690
+con una de estas urgencias, así que no siempre se tiene el diagnóstico previo del cáncer
+
+10
+00:00:46,690 --> 00:00:50,690
+al momento de tener que enfrentarlo. Empecemos con este síndrome de benacaba superior
+
+11
+00:00:50,690 --> 00:00:54,690
+y sepan que su causa más frecuente son el cáncer de pulmón y en segundo lugar
+
+12
+00:00:54,690 --> 00:00:59,690
+algunos linfomas que dan adenopatía en el mediastino y que finalmente comprimen la benacaba superior.
+
+13
+00:00:59,690 --> 00:01:04,690
+Su clínica, hay que saberla y hay que saberla bien, suele ser cefalea, compromiso de conciencia,
+
+14
+00:01:04,690 --> 00:01:09,690
+o sea, afectación de la cabeza, del sistema nervioso central, tos, disnea, de hecho
+
+15
+00:01:09,690 --> 00:01:15,690
+la disnea es como el síntoma más frecuente por edema larigio, etc.
+
+16
+00:01:15,690 --> 00:01:20,690
+Y finalmente viene con edema, eritema y con dilatación de las venas de la cara,
+
+17
+00:01:20,690 --> 00:01:24,690
+del cuello y de las extremidades superiores. A veces solamente se comprime
+
+18
+00:01:24,690 --> 00:01:28,690
+una de las venas brachiocefálicas y se ve la afectación de la mitad de la cara
+
+19
+00:01:28,690 --> 00:01:32,690
+y de una de las extremidades superiores y otras veces es de las dos.
+
+20
+00:01:32,690 --> 00:01:38,690
+El diagnóstico se hace con la clínica, así que no hay que hacer ningún examen para confirmarlo,
+
+21
+00:01:38,690 --> 00:01:42,690
+pero en la práctica sí se pide un ataque de tórax para confirmar el cáncer.
+
+22
+00:01:42,690 --> 00:01:47,690
+O sea, repito, el síndrome, como buen síndrome, conjunto de síntomas y signos
+
+23
+00:01:47,690 --> 00:01:52,690
+se diagnostica solamente con la clínica, pero no está de más el pedir un ataque urgente
+
+24
+00:01:52,690 --> 00:01:56,690
+si es que está disponible. ¿Cuál es el tratamiento?
+
+25
+00:01:56,690 --> 00:02:01,690
+Número uno, se pueden dar los corticoides endovenosos, no es la medida más importante
+
+26
+00:02:01,690 --> 00:02:05,690
+en la actualidad, no me sirven todos los cánceres, me sirven los linfomas,
+
+27
+00:02:05,690 --> 00:02:10,690
+así que si tengo un diagnóstico previo o confirmado de linfoma o una sospecha alta
+
+28
+00:02:10,690 --> 00:02:14,690
+de linfoma, se administra el endovenoso. Segundo lugar, lo que se recomienda
+
+29
+00:02:14,690 --> 00:02:19,690
+en la actualidad y que ha desplazado el resto de los manejos, un stent venoso
+
+30
+00:02:19,690 --> 00:02:23,690
+o una trompectomía, o sea, llamar al cirujano vascular para que vaya a descomprimir
+
+31
+00:02:23,690 --> 00:02:28,690
+de manera directa la benacaba. Esa es la forma en que se maneja en la urgencia
+
+32
+00:02:28,690 --> 00:02:33,690
+y ese es el tratamiento más importante actualmente. Acuérdense, si no lo hago
+
+33
+00:02:33,690 --> 00:02:38,690
+el paciente se puede morir. Ahora, luego de eso debo ir a una confirmación biopsica
+
+34
+00:02:38,690 --> 00:02:42,690
+en el caso de que no se tenga y luego el tratamiento oncológico urgente
+
+35
+00:02:42,690 --> 00:02:46,690
+y siempre se recomienda en la actualidad contar antes con una biopsia
+
+36
+00:02:46,690 --> 00:02:50,690
+como para saber exactamente qué tipo de cáncer es, antes de iniciar
+
+37
+00:02:50,690 --> 00:02:54,690
+el tratamiento oncológico de manera de que la quimioterapia o la radioterapia
+
+38
+00:02:54,690 --> 00:02:57,690
+sea óptima para ese tipo de tumor en específico.
+
+39
+00:02:57,690 --> 00:03:01,690
+¿Qué pasa con la radioterapia urgente que era lo que se enseñaba antes?
+
+40
+00:03:01,690 --> 00:03:05,690
+Pues actualmente está obsoleta, no es el tratamiento de elección, de hecho
+
+41
+00:03:05,690 --> 00:03:09,690
+ni siquiera está claro si es que sirve en comparación con el stent venoso
+
+42
+00:03:09,690 --> 00:03:14,690
+que es el tratamiento con mejores resultados, así que solamente se usa
+
+43
+00:03:14,690 --> 00:03:18,690
+cuando no tengo nada más, pero es muy raro que tenga un equipo de radioterapia
+
+44
+00:03:18,690 --> 00:03:22,690
+en un complejo de alta complejidad y que no tenga un stent que es algo que
+
+45
+00:03:22,690 --> 00:03:27,690
+habitualmente es más fácil de comprar y de instalar.
+
+46
+00:03:27,690 --> 00:03:31,690
+Veamos ahora el síndrome de compresión medular.
+
+47
+00:03:31,690 --> 00:03:35,690
+Acuérdense que las causas habitualmente son metástasis, lo más frecuente
+
+48
+00:03:35,690 --> 00:03:39,690
+es que sean metástasis de los cánceres que van a los huesos,
+
+49
+00:03:39,690 --> 00:03:42,690
+cáncer de mama, cáncer de próstata, el cáncer de pulmón.
+
+50
+00:03:42,690 --> 00:03:46,690
+El mielomus múltiple puede comprimir también por si acaso.
+
+51
+00:03:46,690 --> 00:03:51,690
+Su clínica obviamente es dolor lumbar o dolor espinal en alguna parte
+
+52
+00:03:51,690 --> 00:03:59,690
+más un síndrome medular, los síntomas neurológicos de un síndrome medular,
+
+53
+00:03:59,690 --> 00:04:06,690
+ejemplo, paraplegia, un nivel sensitivo, la alteración del control de los esfínteres, etc.
+
+54
+00:04:06,690 --> 00:04:09,690
+Eso hay que verlo con más detalle en neurología.
+
+55
+00:04:09,690 --> 00:04:12,690
+Y tiene un riesgo que es el daño irreversible, en el sentido en que
+
+56
+00:04:12,690 --> 00:04:16,690
+el tumor está comprimiendo en este momento, pero si yo no descomprimo rápido
+
+57
+00:04:16,690 --> 00:04:20,690
+es muy probable que quede finalmente con reducción de la movilidad,
+
+58
+00:04:20,690 --> 00:04:23,690
+con algún problema del control de esfínteres de manera permanente.
+
+59
+00:04:23,690 --> 00:04:27,690
+Así que por lo mismo se considera una urgencia más allá de solamente el dolor.
+
+60
+00:04:27,690 --> 00:04:31,690
+El diagnóstico se hace con la clínica, pero en la práctica se pide siempre
+
+61
+00:04:31,690 --> 00:04:35,690
+una resonancia magnética nuclear para confirmar la ubicación del tumor
+
+62
+00:04:35,690 --> 00:04:39,690
+en el sentido en que hay que ir a intervenirlo de manera urgente.
+
+63
+00:04:39,690 --> 00:04:43,690
+Y el tratamiento por regla general son los corticoides endovenosos,
+
+64
+00:04:43,690 --> 00:04:48,690
+ese es el tratamiento que como médico general debo dar, que serviría también
+
+65
+00:04:48,690 --> 00:04:53,690
+en la bienacaba superior, más algo que ataque al tumor de manera urgente,
+
+66
+00:04:53,690 --> 00:04:58,690
+ya sea una radioterapia urgente o una cirugía urgente, y eso va a depender
+
+67
+00:04:58,690 --> 00:05:03,690
+según el tipo de tumor, la localización y la disponibilidad de medios que tengan en el hospital.
+
+68
+00:05:04,690 --> 00:05:07,690
+Vamos con la siguiente, la hipercalcemia maligna.
+
+69
+00:05:07,690 --> 00:05:12,690
+La hipercalcemia maligna es una paciencia que puede ser leve y en ese caso se tiende
+
+70
+00:05:12,690 --> 00:05:16,690
+a manejar la causa de base, o bien puede ser grave y en ese caso sí hay una urgencia.
+
+71
+00:05:16,690 --> 00:05:20,690
+Su clínica hay que saberlo, lo vamos a ver con más detalle en nefro,
+
+72
+00:05:20,690 --> 00:05:24,690
+pero viene con compromiso de conciencia, debilidad, con deshidratación,
+
+73
+00:05:24,690 --> 00:05:27,690
+luego de eso evoluciona arritmias, el paciente se choquea, etc.
+
+74
+00:05:27,690 --> 00:05:33,690
+El diagnóstico se hace con la calcemia, idealmente con un calcio corregido
+
+75
+00:05:34,690 --> 00:05:39,690
+Uno habla de una hipercalcemia severa, si está arriba de 10,5 en cambio
+
+76
+00:05:39,690 --> 00:05:44,690
+hay una hipercalcemia común y corriente, el normal del calcio es de 8,5 a 10,5
+
+77
+00:05:44,690 --> 00:05:48,690
+y hay que corregirlo por albumina siempre, y si es que no lo quiero corregir
+
+78
+00:05:48,690 --> 00:05:50,690
+se pide un calcio ionico.
+
+79
+00:05:50,690 --> 00:05:54,690
+El tratamiento de la hipercalcemia maligna sigue un orden que hay que saber,
+
+80
+00:05:54,690 --> 00:05:59,690
+número uno suero fisiológico, hay que hidratar rápidamente al paciente,
+
+81
+00:05:59,690 --> 00:06:04,690
+en parte porque me baja la calcemia y en parte porque el paciente se deshidrata
+
+82
+00:06:04,690 --> 00:06:07,690
+por la hipercalcemia misma que suele generar un círculo vicioso,
+
+83
+00:06:07,690 --> 00:06:11,690
+en el sentido que la hipercalcemia me genera una diabetes insípida nefrogénica
+
+84
+00:06:11,690 --> 00:06:14,690
+que me deshidrata más, que me aumenta la calcemia más todavía.
+
+85
+00:06:14,690 --> 00:06:19,690
+La calcitonina no es tan importante, pero actualmente se recomienda darla
+
+86
+00:06:19,690 --> 00:06:22,690
+si es que está disponible desde el inicio, y en una segunda instancia
+
+87
+00:06:22,690 --> 00:06:26,690
+se dan los bifofonatos por vía endovenosa, que el más importante
+
+88
+00:06:26,690 --> 00:06:31,690
+es el ácido solendrónico, solamente en los pocos pacientes que no toleran esto
+
+89
+00:06:31,690 --> 00:06:36,690
+eventualmente se puede usar algún anticuerpo monoclonal en contra de los osteoclastos,
+
+90
+00:06:36,690 --> 00:06:40,690
+pero repito, no es lo habitual, la urgencia es suero fisiológico
+
+91
+00:06:40,690 --> 00:06:44,690
+y segundo lugar los bifofonatos para estabilizar.
+
+92
+00:06:44,690 --> 00:06:48,690
+Como el penúltimo tema, veamos el síndrome de lisis tumoral,
+
+93
+00:06:48,690 --> 00:06:51,690
+hay que saber, número uno, cuáles son sus causas, y la más importante,
+
+94
+00:06:51,690 --> 00:06:56,690
+más importante es la quimioterapia, en particular en cánceres muy agresivos
+
+95
+00:06:56,690 --> 00:07:00,690
+como linfomas de alto grado o leucemias agudas, al momento que se inicia
+
+96
+00:07:00,690 --> 00:07:07,690
+con su quimioterapia en las siguientes horas y días se expone a una lisis celular masiva,
+
+97
+00:07:07,690 --> 00:07:12,690
+pero también se ve a veces el síndrome espontáneo de lisis tumoral
+
+98
+00:07:12,690 --> 00:07:15,690
+en tumores muy grandes o en estos mismos tumores muy agresivos
+
+99
+00:07:15,690 --> 00:07:17,690
+que acabamos de mencionar.
+
+100
+00:07:17,690 --> 00:07:21,690
+Su clínica por la general es un cuadro en específico pero bastante grave,
+
+101
+00:07:21,690 --> 00:07:26,690
+el paciente se siente mal y luego de eso evoluciona a falla renal,
+
+102
+00:07:26,690 --> 00:07:31,690
+a compromiso de conciencia, a un estado de shock y finalmente el paciente se muere
+
+103
+00:07:31,690 --> 00:07:38,690
+y su diagnóstico es en general objetivando la presencia de hipercalemia,
+
+104
+00:07:38,690 --> 00:07:43,690
+de hiperfosfatemia y de hiperurisemia que son justamente los compuestos
+
+105
+00:07:43,690 --> 00:07:47,690
+que se liberan desde el interior de la célula al momento de lizarse la célula,
+
+106
+00:07:47,690 --> 00:07:49,690
+al momento de romperse la célula.
+
+107
+00:07:49,690 --> 00:07:54,690
+Hay que saber que hay que darle profilaxis a los pacientes que se van a someter a quimioterapia,
+
+108
+00:07:54,690 --> 00:07:59,690
+se hace antes de la quimioterapia y por lo general lo más importante es el suero fisiológico,
+
+109
+00:07:59,690 --> 00:08:05,690
+segundo lugar el alcalinizar la sangre con el bicarbonato de sodio,
+
+110
+00:08:05,690 --> 00:08:10,690
+acuérdense que eso me ayuda tanto a eliminar más rápido el ácido úrico
+
+111
+00:08:10,690 --> 00:08:16,690
+como para disminuir el riesgo de que se produzca esta comolisis masiva
+
+112
+00:08:16,690 --> 00:08:22,690
+y finalmente me sirven los fármacos para evitar la hiperurisemia,
+
+113
+00:08:22,690 --> 00:08:29,690
+la rasburicasa sería de elección por sobre el alopurinol para esta causa en particular,
+
+114
+00:08:29,690 --> 00:08:33,690
+pero se deja solamente en los casos que tienen un riesgo más alto,
+
+115
+00:08:33,690 --> 00:08:37,690
+de lo contrario el suero fisiológico más el bicarbonato es suficiente
+
+116
+00:08:37,690 --> 00:08:43,690
+y en los casos en que hay que dejarle un fármaco para bajar el ácido úrico,
+
+117
+00:08:43,690 --> 00:08:48,690
+si no está la rasburicasa, bueno como alternativa se puede usar el alopurinol.
+
+118
+00:08:48,690 --> 00:08:53,690
+Ahora el tratamiento una vez que ya se produjo son los mismos fármacos
+
+119
+00:08:53,690 --> 00:08:58,690
+más el soporte en UCI, o sea soporte en UCI más todo el manejo de la hipercalemia,
+
+120
+00:08:58,690 --> 00:09:02,690
+de la hiperfosfemia, de la hiperurisemia, del shock, etc.
+
+121
+00:09:02,690 --> 00:09:06,690
+Más el suero fisiológico, el bicarbonato, la rasburicasa
+
+122
+00:09:06,690 --> 00:09:11,690
+y se deja además furosemida o algún otro diurético de asa también.
+
+123
+00:09:11,690 --> 00:09:14,690
+Finalmente el último tema muy breve, la hemorragia tumoral,
+
+124
+00:09:14,690 --> 00:09:18,690
+acuérdense que el manejo el igual que todas las demás hemorragias
+
+125
+00:09:18,690 --> 00:09:22,690
+en primer lugar es la compresión, segundo lugar el suero fisiológico
+
+126
+00:09:22,690 --> 00:09:27,690
+como para reponer la bolemia, el ácido tranexámico
+
+127
+00:09:27,690 --> 00:09:29,690
+la verdad es que se usa en muchos tipos de cánceres,
+
+128
+00:09:29,690 --> 00:09:32,690
+no en todos, pero eventualmente se puede usar.
+
+129
+00:09:32,690 --> 00:09:35,690
+Y luego de eso el manejo específico según el tumor.
+
+130
+00:09:35,690 --> 00:09:39,690
+Ejemplo, radioterapia de la zona que está sangrando, cirugía del tumor,
+
+131
+00:09:39,690 --> 00:09:43,690
+embolización, pero no hay que olvidarse que cuando es un tumor
+
+132
+00:09:43,690 --> 00:09:47,690
+que está en una etapa terminal muy avanzada
+
+133
+00:09:47,690 --> 00:09:52,690
+simplemente se da el tratamiento paliativo como para que no sufra,
+
+134
+00:09:52,690 --> 00:09:55,690
+para que no se angustie y finalmente que fallezca de una manera
+
+135
+00:09:55,690 --> 00:09:57,690
+que no sea tan terrible.
+
+136
+00:09:57,690 --> 00:09:59,690
+Esto es todo, nos vemos en el siguiente video.

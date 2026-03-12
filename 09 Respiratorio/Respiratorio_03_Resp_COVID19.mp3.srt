@@ -1,0 +1,175 @@
+1
+00:00:03,410 --> 00:00:09,890
+Hola, hola. ¿Cómo están? Hablemos de COVID-19. Que sepan que significa la enfermedad causada por
+
+2
+00:00:09,890 --> 00:00:15,970
+el coronavirus del año 2019. Así que lo más correcto es hablar de la COVID-19 y no de el
+
+3
+00:00:15,970 --> 00:00:22,810
+COVID-19, porque es la enfermedad. Ahora, el agente es el SARS-CoV-2. Así que el virus se
+
+4
+00:00:22,810 --> 00:00:27,770
+llama SARS-CoV-2. En cambio, la enfermedad se llama COVID-19. Y como cosa importante,
+
+5
+00:00:27,770 --> 00:00:33,090
+no hay que confundirlo con el SARS-CoV-1, que era el del antiguo SARS del que hubo en China
+
+6
+00:00:33,090 --> 00:00:39,050
+hace muchos años atrás y que SARS significa el síndrome de dificultad respiratoria severa y
+
+7
+00:00:39,050 --> 00:00:45,250
+habitualmente aguda. Ahora, la clínica de la infección por SARS-CoV-2 o la clínica de la
+
+8
+00:00:45,250 --> 00:00:51,130
+COVID-19 es muy amplia y va desde los pacientes que están absolutamente asintomáticos, más los
+
+9
+00:00:51,130 --> 00:00:55,010
+que pasan por una clínica de un refrieo, de una infección respiratoria alta viral,
+
+10
+00:00:55,010 --> 00:00:59,090
+hasta los que pasan por un cuadro un poquito más severo desde el punto de vista de los
+
+11
+00:00:59,090 --> 00:01:04,930
+síntomas con un síndrome gripal exactamente igual que una influenza, hasta finalmente los
+
+12
+00:01:04,930 --> 00:01:11,570
+que cursan con el SARS, que es este síndrome ya severo de afectación respiratoria y que es
+
+13
+00:01:11,570 --> 00:01:17,770
+en estricto rigor una neumonía viral o una neumonitis viral. Ahora, aparte de eso,
+
+14
+00:01:17,770 --> 00:01:21,490
+hay que conocer los factores de riesgo para agravarse, que el más importante es la edad.
+
+15
+00:01:21,490 --> 00:01:25,730
+Mientras mayor edad tiene, mayor riesgo tiene de evolucionar mal. Y segundo lugar,
+
+16
+00:01:26,290 --> 00:01:30,410
+coincide que los factores de riesgo son los mismos factores de riesgo cardiovascular.
+
+17
+00:01:30,410 --> 00:01:34,850
+Dígase la hipertensión, la obesidad, el antecedente de patología cardiovascular,
+
+18
+00:01:34,850 --> 00:01:39,170
+la diabetes mellitus, etcétera. Y a eso hay que sumarle obviamente los pacientes con
+
+19
+00:01:39,170 --> 00:01:44,890
+patología respiratoria o con patología cardíaca de otra índole, en el sentido en
+
+20
+00:01:44,890 --> 00:01:50,930
+que nuevamente se descompensan con cualquier cosa, incluyendo la infección por COVID o
+
+21
+00:01:51,130 --> 00:01:56,330
+por la COVID. Ahora, el tratamiento de la COVID-19 va a depender justamente de la
+
+22
+00:01:56,330 --> 00:02:00,210
+gravedad. Si es que está asintomático, no hay que hacer absolutamente nada. Si es que tiene
+
+23
+00:02:00,210 --> 00:02:05,570
+una infección respiratoria alta, leve o un síndrome gripal, el tratamiento solamente es
+
+24
+00:02:05,570 --> 00:02:09,810
+sintomático con paracetamol como el fármaco de elección. Y si es que está con una
+
+25
+00:02:09,810 --> 00:02:15,770
+neumonía ya más grave, el manejo ya más complejo y es con soporte e incluye algunas
+
+26
+00:02:15,770 --> 00:02:20,330
+medidas como la heparina de bajo peso molecular, como para evitar que se complique
+
+27
+00:02:20,330 --> 00:02:25,050
+con trombosis, los corticoides que ha sido uno de los fármacos que más ha disminuido la
+
+28
+00:02:25,050 --> 00:02:30,370
+mortalidad en este caso, y algunos antivirales específicos que se ven en la clase
+
+29
+00:02:30,370 --> 00:02:35,650
+específica de neumonía viral, por si acaso. Ahora, el diagnóstico de esta enfermedad es con
+
+30
+00:02:35,650 --> 00:02:42,650
+la PCR. Ese es el examen de elección que es muy sensible y además es muy específica.
+
+31
+00:02:42,650 --> 00:02:48,450
+Su sensibilidad habitualmente ronda el 90% y la especificidad es cercana al 100%. Así que
+
+32
+00:02:48,450 --> 00:02:53,290
+es el gold standard para el diagnóstico de esta enfermedad. Ahora, el antígeno también sirve,
+
+33
+00:02:53,290 --> 00:02:59,610
+es de un resultado inmediato, es más rápido, tiene menor sensibilidad. Así que el problema
+
+34
+00:02:59,610 --> 00:03:04,810
+es justamente eso, pero la sensibilidad aumenta mucho más cuando son pacientes con síntomas.
+
+35
+00:03:04,810 --> 00:03:08,570
+En pacientes asintomáticos me sirve muy poco, pero en pacientes con síntomas sí
+
+36
+00:03:08,570 --> 00:03:13,050
+tiene una sensibilidad aceptable, cercana incluso a la de la PCR, solamente un poquito más baja,
+
+37
+00:03:13,050 --> 00:03:19,250
+y su especificidad sigue siendo cercana al 100%. Ahora, aparte de eso existe el diagnóstico
+
+38
+00:03:19,250 --> 00:03:24,170
+imaginológico solamente por la TAC. La radiografía de tórax puede eventualmente
+
+39
+00:03:24,170 --> 00:03:28,810
+sugerirme esto más el cuadro clínico, pero la TAC hay algunos patrones que son bien
+
+40
+00:03:28,810 --> 00:03:33,210
+característicos y categóricos de COVID-19 que eventualmente me hacen el diagnóstico sin
+
+41
+00:03:33,210 --> 00:03:39,250
+necesidad de otro examen. Finalmente, la prevención, todo el mundo ya la conoce,
+
+42
+00:03:39,250 --> 00:03:44,610
+es cierto, son las vacunas por un lado y todas las medidas de prevención del contagio
+
+43
+00:03:44,610 --> 00:03:49,410
+de infusión respiratoria por la general aparte. Y bueno, eso es todo en la clase
+
+44
+00:03:49,410 --> 00:03:52,010
+de Neumonitis Viral, lo veremos con un poco más de detalle. Que estén bien.

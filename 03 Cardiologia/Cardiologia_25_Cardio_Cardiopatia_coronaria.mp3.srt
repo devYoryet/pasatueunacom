@@ -1,0 +1,99 @@
+1
+00:00:00,000 --> 00:00:06,600
+Hola, ¿cómo están? En este vídeo vamos a ver muy brevemente la cardiopatía coronaria,
+
+2
+00:00:06,600 --> 00:00:09,840
+recordando que es la causa más frecuente de insuficiencia cardíaca. Su clínica,
+
+3
+00:00:09,840 --> 00:00:13,400
+por el al general, es una insuficiencia cardíaca izquierda, en el sentido en que
+
+4
+00:00:13,400 --> 00:00:17,040
+es por afectación del ventrículo izquierdo, aunque hay casos igualmente de infarto de
+
+5
+00:00:17,040 --> 00:00:20,120
+ventrículo derecho que pueden quedar con una insuficiencia derecha.
+
+6
+00:00:20,120 --> 00:00:25,280
+Habitualmente viene con el antecedente de haber tenido un infarto, aunque no siempre,
+
+7
+00:00:25,280 --> 00:00:30,880
+a veces es un infarto que pasa desapercibido y simplemente viene con el antecedente de los
+
+8
+00:00:30,880 --> 00:00:34,480
+factores de riesgo cardiovascular que me hacen asumir que pudo haber tenido un infarto en
+
+9
+00:00:34,480 --> 00:00:41,520
+algún momento. En el electrocardiograma lo más importante es que viene con las ondas Q o los
+
+10
+00:00:41,520 --> 00:00:47,320
+complejos QS, en el sentido en que, acuérdense, las alteraciones del ST y de la onda T solían
+
+11
+00:00:47,320 --> 00:00:52,440
+normalizar después del episodio agudo, en cambio las ondas Q pueden permanecer en el
+
+12
+00:00:52,440 --> 00:00:56,760
+tiempo. Así que si es que tengo un paciente con insuficiencia cardíaca y está con onda Q en
+
+13
+00:00:56,800 --> 00:01:02,360
+las derivaciones de 2, de 3 y ABF que son las inferiores, yo digo seguramente tuvo un infarto
+
+14
+00:01:02,360 --> 00:01:07,920
+antiguo en la pará inferior y justamente esa es la causa de su insuficiencia cardíaca.
+
+15
+00:01:07,920 --> 00:01:12,280
+El diagnóstico habitualmente se hace con el ecocardiograma, aunque ya vimos que el
+
+16
+00:01:12,280 --> 00:01:17,480
+electrocardiograma nos podía ayudar también, y lo que se suele ver es una zona ya sea
+
+17
+00:01:17,480 --> 00:01:23,600
+akinética, que no se mueve, que es la cicatriz cierto, o una zona hipokinética que
+
+18
+00:01:23,600 --> 00:01:28,280
+igualmente quedó con algún daño después del infarto. El tratamiento de la cardiopatía
+
+19
+00:01:28,280 --> 00:01:33,360
+coronaria es el manejar los factores de riesgo cardiovascular, como para evitar que
+
+20
+00:01:33,360 --> 00:01:37,520
+se vuelva a infartar, más el manejo general que ya vimos de la insuficiencia cardíaca
+
+21
+00:01:37,520 --> 00:01:42,040
+con los YECA, el beta bloqueo, la aspirina lactona, los diuréticos, etc. Ahora,
+
+22
+00:01:42,040 --> 00:01:47,000
+que quede bien claro, ¿qué es lo más importante en el April o la aspirina en el
+
+23
+00:01:47,000 --> 00:01:50,320
+caso de un paciente con cardiopatía coronaria? Y lo más importante es la aspirina,
+
+24
+00:01:50,320 --> 00:01:55,480
+en el sentido de que es el fármaco que más aumenta la sobrevida al evitar que el paciente
+
+25
+00:01:55,480 --> 00:01:59,040
+se reinfarme. Y bueno, eso es todo lo que hay que saber. Nos vemos en el siguiente video.

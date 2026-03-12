@@ -1,0 +1,163 @@
+1
+00:00:00,000 --> 00:00:08,340
+Hola hola, en este vídeo vamos a hablar del accidente vascular encefálico de tipo lacunar,
+
+2
+00:00:08,340 --> 00:00:14,420
+que son uno de tipo isquémico pero muy pequeño en la zona más interna del cerebro y recordemos
+
+3
+00:00:14,420 --> 00:00:21,260
+que su etiología es en los pacientes hipertensos, cierto, se iba produciendo daño de las
+
+4
+00:00:21,260 --> 00:00:25,180
+arterias penetrantes del cerebro que son las que irrigan la zona más profunda,
+
+5
+00:00:25,180 --> 00:00:29,900
+la zona más interna del cerebro, se producen habitualmente aneurismas en esas
+
+6
+00:00:29,900 --> 00:00:34,580
+arterias penetrantes, las que finalmente se trombosan y se produce esta lesión que
+
+7
+00:00:34,580 --> 00:00:40,660
+aunque puede ser bastante pequeña puede venir con muchos síntomas. El cuadro clínico es el de
+
+8
+00:00:40,660 --> 00:00:45,580
+los accidentes vasculares encefálicos en general, dígase signos focales de inicio súbito,
+
+9
+00:00:45,580 --> 00:00:52,820
+de inicio ictal y se suele hablar de los cuatro síndromes lacunares que no siempre se
+
+10
+00:00:52,820 --> 00:00:58,700
+dan por si acaso pero que sería por un lado la hemiparesia pura o sea solamente hemiparesia
+
+11
+00:00:58,700 --> 00:01:04,820
+como el único signo focal sin nada más. Número dos, la hemipoestesia pura, dígase que no siente
+
+12
+00:01:04,820 --> 00:01:10,180
+bien la mitad del cuerpo pero nada más. La hemiparesia con hemipoestesia, dígase que
+
+13
+00:01:10,180 --> 00:01:15,780
+viene con estos dos síntomas pero sin otros síntomas de tipo focal y finalmente la
+
+14
+00:01:15,780 --> 00:01:22,300
+disatria manotor pedrega que le cuesta hablar lento como borracho más una mano
+
+15
+00:01:22,300 --> 00:01:28,140
+que está con algún grado de hemiparesia también. Habitualmente como no afectan la
+
+16
+00:01:28,140 --> 00:01:33,100
+convexidad del cerebro, la corteza cerebral sino que solamente la zona más interna suele
+
+17
+00:01:33,100 --> 00:01:39,020
+venir sin afasia. Acuérdense que el área de broca y el área de ver ni que están en la
+
+18
+00:01:39,020 --> 00:01:44,820
+corteza cerebral sí puede venir repito con disatria que es el que habla como raro cierto
+
+19
+00:01:44,820 --> 00:01:52,100
+pero la afasia en cambio es el poder emitir el lenguaje o comprender el lenguaje y en este
+
+20
+00:01:52,100 --> 00:01:57,900
+caso suele no haber afasia, suele venir sin compromiso de conciencia tampoco dado que la
+
+21
+00:01:57,900 --> 00:02:04,460
+conciencia depende o de las vías activantes del tronco encéfalo o del funcionamiento de la
+
+22
+00:02:04,460 --> 00:02:10,300
+corteza cerebral en conjunto. El compromiso de conciencia se suele ver o en los accidentes
+
+23
+00:02:10,300 --> 00:02:16,020
+de tronco encéfalo o en los accidentes grandes de la arteria cerebral media por ejemplo
+
+24
+00:02:16,580 --> 00:02:24,500
+un accidente no de tipo lacunar sino que de tipo embólico por ejemplo y como síntoma adicional
+
+25
+00:02:24,500 --> 00:02:30,060
+o como algo bien característico de su cuadro clínico es que tienden a mejorar con el tiempo
+
+26
+00:02:30,060 --> 00:02:36,060
+con la gran diferencia que un accidente isquímico transitorio mejora del todo dentro
+
+27
+00:02:36,060 --> 00:02:41,620
+de las primeras 24 horas habitualmente dentro de algunos minutos en cambio los aves lacunares
+
+28
+00:02:41,620 --> 00:02:46,540
+suelen ir mejorando lentamente a veces quedan con alguna secuela a veces quedan sin ninguna
+
+29
+00:02:46,540 --> 00:02:52,620
+secuela también pero es algo que demora más de 24 horas en desaparecer. La tac suele estar
+
+30
+00:02:52,620 --> 00:02:58,380
+absolutamente normal, son lesiones muy pequeñas que en este caso no se ven y finalmente en el
+
+31
+00:02:58,380 --> 00:03:03,300
+caso de la resonancia magnética nuclear a veces si ve una pequeña lesión justamente en
+
+32
+00:03:03,300 --> 00:03:10,220
+la zona más interna del cerebro. Como cosa final acuérdense el diagnóstico si bien es
+
+33
+00:03:10,220 --> 00:03:16,860
+absolutamente clínico se suele confirmar con la resonancia magnética nuclear que ve finalmente
+
+34
+00:03:16,860 --> 00:03:23,260
+esta lesión y con la tac igualmente que no me muestre alguna lesión más grande que no sea de
+
+35
+00:03:23,260 --> 00:03:30,500
+tipo lacunar también o sea al final si bien uno puede sospecharlo fuertemente es la evolución
+
+36
+00:03:30,500 --> 00:03:35,260
+y el resultado de las neuroimágenes lo que me permite hacer la diferencia entre un ave
+
+37
+00:03:35,260 --> 00:03:40,900
+lacunar y un ave de otro tipo. Finalmente el manejo es exactamente igual al de un ave
+
+38
+00:03:40,900 --> 00:03:47,180
+isquémico dígase si es que se presenta con menos de 4.5 horas por ejemplo hay
+
+39
+00:03:47,180 --> 00:03:52,980
+que trombolizarlo también y bueno eso es todo acuérdense ave lacunar con un cuadro
+
+40
+00:03:52,980 --> 00:03:57,540
+clínico un poquito más estrecho cierto pero que finalmente es un ave isquémico y se
+
+41
+00:03:57,540 --> 00:04:00,300
+maneje igual que un ave isquémico también. Nos vemos en el siguiente tema que estén bien.

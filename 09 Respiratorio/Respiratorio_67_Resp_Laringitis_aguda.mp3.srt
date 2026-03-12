@@ -1,0 +1,347 @@
+1
+00:00:02,990 --> 00:00:07,510
+Hola, ¿cómo están? Vamos a hablar de la laryngitis aguda, que es una patología muy, muy frecuente,
+
+2
+00:00:07,510 --> 00:00:12,350
+causada generalmente por distintos virus respiratorios, pero el más frecuente es el virus para influenza
+
+3
+00:00:12,350 --> 00:00:17,230
+y es justamente lo que tengo yo ahora, así que cae, cae de anillo al dedo la clase, ¿ya?
+
+4
+00:00:17,230 --> 00:00:22,470
+La clínica es TOS, como buena infección respiratoria, pero más difunía,
+
+5
+00:00:22,470 --> 00:00:26,750
+y la difunía es lo que hace la diferencia con las otras localizaciones de las infecciones respiratorias altas.
+
+6
+00:00:26,750 --> 00:00:29,470
+Aparte de eso, puede venir con fiebre, como buena infección viral,
+
+7
+00:00:29,630 --> 00:00:33,430
+y el examen pulmonar habitualmente es normal porque es una infección alta, no baja,
+
+8
+00:00:33,430 --> 00:00:39,030
+aunque a veces uno sí puede escuchar en el examen pulmonar algunos de los ruidos que vienen de la vía aérea superior.
+
+9
+00:00:39,030 --> 00:00:45,310
+El diagnóstico absolutamente clínico no requiere ningún examen y el tratamiento como buena infección respiratoria alta
+
+10
+00:00:45,310 --> 00:00:51,430
+es absolutamente sintomático, con paracetamol, con inés, si es que está con mucha fiebre, con mucha mitalgia, con mucho malestar.
+
+11
+00:00:51,430 --> 00:00:57,190
+Ahora, sirven los corticoides y la verdad es que podrían ayudar a disminuir la duración de la difunía,
+
+12
+00:00:57,230 --> 00:01:02,390
+pero por la general no es tan indicado y solamente se lo dejaríamos a un cantante, a un profesor,
+
+13
+00:01:02,390 --> 00:01:06,470
+a alguien que tiene que hacer un discurso y que necesita que la difunía le dure menos días.
+
+14
+00:01:06,470 --> 00:01:12,470
+Ahora, una de las variantes de la laryngitis aguda es la laryngitis obstructiva,
+
+15
+00:01:12,470 --> 00:01:16,110
+que es cuando ya viene con más gravedad, con algo de compromiso de la vía aérea,
+
+16
+00:01:16,110 --> 00:01:21,070
+y que también se llama CRUP viral, así que la laryngitis obstructiva es sinónimo del CRUP viral,
+
+17
+00:01:21,510 --> 00:01:27,630
+y no es lo mismo que el CRUP espasmódico, por si acaso, y veamos acá que la causa es exactamente la misma,
+
+18
+00:01:27,630 --> 00:01:33,830
+el virus para influenza y otros virus también, su clínica habitualmente es en un rango de edad bien determinado,
+
+19
+00:01:33,830 --> 00:01:42,390
+que es entre los seis meses de edad y los tres años, y su clínica suele ser muy similar a la de la laryngitis aguda,
+
+20
+00:01:42,390 --> 00:01:47,390
+pero se describe con dos cosas adicionales, número uno, que viene con esta tos no comunicorriente,
+
+21
+00:01:47,390 --> 00:01:53,550
+sino que una tos de perro, la difunía, más el estridor, el estridor es lo que habitualmente me hace la diferencia
+
+22
+00:01:53,550 --> 00:01:57,910
+con una laryngitis no obstructiva, y que suele ser de tipo inspiratorio,
+
+23
+00:01:57,910 --> 00:02:03,390
+dígase de ese tipo, pero puede ser bifásico también a la inspiración y a la expiración.
+
+24
+00:02:03,390 --> 00:02:07,710
+Muchas veces viene con harta fiebre, con mialgias, en particular en los primeros días,
+
+25
+00:02:07,710 --> 00:02:12,390
+como buena para influenza, y en los casos más graves ya puede aparecer disnea,
+
+26
+00:02:12,390 --> 00:02:16,030
+empiezan a aparecer los signos de uso de musculatura accesoria,
+
+27
+00:02:16,030 --> 00:02:20,390
+y ya los casos más graves, agitación, cianosis, compromiso de conciencia.
+
+28
+00:02:20,390 --> 00:02:25,910
+El diagnóstico nuevamente es absolutamente clínico, pero eventualmente pueden tener alguna utilidad
+
+29
+00:02:25,910 --> 00:02:30,910
+algunos otros exámenes como la radiografía y el hemograma que, insisto, no son necesarios,
+
+30
+00:02:30,910 --> 00:02:34,590
+el diagnóstico es clínico, pero si es que yo tengo la duda, los puedo pedir,
+
+31
+00:02:34,590 --> 00:02:38,390
+la radiografía me muestra el famoso signo de la punta de lápiz,
+
+32
+00:02:38,390 --> 00:02:41,510
+que es distinto a lo que se ve en una epiglotitis, por ejemplo,
+
+33
+00:02:41,510 --> 00:02:46,950
+y en el caso del hemograma se ve un hemograma viral, dígase, con linfocitosis, como buena infección viral.
+
+34
+00:02:46,950 --> 00:02:52,510
+Ahora, esta es una radiografía de cuello anterior o posterior, y se ve acá la imagen de la punta de lápiz,
+
+35
+00:02:52,510 --> 00:02:59,830
+que es justamente que la vía aérea se cierra de manera aguda en la laryngia.
+
+36
+00:02:59,830 --> 00:03:05,910
+El tratamiento de la laryngitis obstructiva hay que saberlo, se hace en base a la severidad,
+
+37
+00:03:05,910 --> 00:03:09,030
+que se evalúa con el score de Wesley, que no hay que saberlo de memoria,
+
+38
+00:03:09,030 --> 00:03:15,390
+pero que se subclasifica según la severidad en grado 1, grado 2, grado 3 y grado 4.
+
+39
+00:03:15,390 --> 00:03:22,830
+El grado 1 es el que viene sin obstrucción, a lo más un poco de estridor con la agitación o con la actividad física.
+
+40
+00:03:22,830 --> 00:03:25,630
+El grado 12 es el que ya tiene estridor de reposo.
+
+41
+00:03:25,630 --> 00:03:32,110
+El grado 3 es el que viene ya con agitación, en el sentido en que el niño se siente ahogado y se angustia.
+
+42
+00:03:32,110 --> 00:03:36,390
+Y finalmente está el grado 4, que es el que viene con una falla respiratoria,
+
+43
+00:03:36,390 --> 00:03:42,150
+y se asocian a esos mismos puntajes del score de Wesley que, insisto, no vale la pena saberlo.
+
+44
+00:03:42,150 --> 00:03:47,910
+Lo mejor es ver que sea sin obstrucción, con estridor de reposo, con agitación y con falla respiratoria.
+
+45
+00:03:47,910 --> 00:03:52,990
+Ahora, ¿qué pasa cuando me dicen estaba mal pero en el camino se mejoró?
+
+46
+00:03:52,990 --> 00:03:58,550
+Debería manejarlo como el grado 1, en el sentido que en este momento está sin obstrucción.
+
+47
+00:03:58,550 --> 00:03:59,710
+¿Cómo se maneja el grado 1?
+
+48
+00:03:59,710 --> 00:04:03,270
+Bueno, tratamiento sintomático, es una laryngitis no obstructiva,
+
+49
+00:04:03,270 --> 00:04:07,590
+y recordemos que el aire frío, que es algo que se ha enseñado siempre,
+
+50
+00:04:07,590 --> 00:04:15,430
+el aire frío puede ayudar, no está demostrado que sirva y tiene el riesgo de exponer a la hipotermia un agua, a un bebé, así que no.
+
+51
+00:04:15,430 --> 00:04:18,710
+Y respecto al uso de corticoides, eventualmente sí se pueden indicar,
+
+52
+00:04:18,710 --> 00:04:22,150
+y lo que se busca acá es evitar que esto recurra,
+
+53
+00:04:22,150 --> 00:04:26,070
+y sirve en particular cuando me dicen esas frases, se mejoró en el camino.
+
+54
+00:04:26,070 --> 00:04:29,510
+En la casa estaba mal, estaba muy obstruido, y se mejoró.
+
+55
+00:04:29,510 --> 00:04:32,830
+Uno le dice, bueno, lo vamos a mandar con un poquito de dexametasona para la casa,
+
+56
+00:04:32,830 --> 00:04:34,430
+para evitar que esto recurra.
+
+57
+00:04:34,430 --> 00:04:37,950
+El grado 2 es la que se pregunta con mayor frecuencia y que hay que saberla,
+
+58
+00:04:37,950 --> 00:04:43,150
+y en este caso se maneja activamente con fármacos, con adrenalina nebulizada,
+
+59
+00:04:43,150 --> 00:04:51,350
+puede ser adrenalina rasémica o la adrenalina común y corriente que se llama también levoepinefrina o levoadrenalina.
+
+60
+00:04:51,350 --> 00:04:56,390
+La dosis de la rasémica es de 0,05 ml por kilo de peso,
+
+61
+00:04:56,390 --> 00:05:01,390
+y la de la adrenalina común y corriente que en la que suele estar disponible es 10 veces esa dosis,
+
+62
+00:05:01,390 --> 00:05:08,310
+o sea 0,5 ml por kilo de peso, y se deja más dexametasona en dosis relativamente altas,
+
+63
+00:05:08,310 --> 00:05:11,110
+0,6 miligramos por kilo es lo recomendado.
+
+64
+00:05:11,110 --> 00:05:15,550
+Ahora, en el grado 3 y también en el grado 2 que no responde rápido,
+
+65
+00:05:15,550 --> 00:05:19,390
+en ese caso se suele agregar oxígeno, si es que está con desaturación,
+
+66
+00:05:19,390 --> 00:05:23,470
+y aparte de eso se evalúa si es que se hospitaliza o no.
+
+67
+00:05:23,470 --> 00:05:28,710
+Si respondiera muy rápido al mismo manejo anterior, en ese caso se puede mandar para la casa,
+
+68
+00:05:28,750 --> 00:05:32,230
+pero habitualmente se deja en la urgencia por más tiempo antes de enviarlo,
+
+69
+00:05:32,230 --> 00:05:38,270
+y si no responde rápido o llegó muy grave, en ese caso obviamente se deja hospitalizado al menos un día.
+
+70
+00:05:38,270 --> 00:05:40,830
+Y lo último, ¿qué pasa cuando está grado 4?
+
+71
+00:05:40,830 --> 00:05:44,790
+Pues en ese caso hay que intubarlo y se maneja habitualmente la UCI también,
+
+72
+00:05:44,790 --> 00:05:47,630
+y la intubación no puede hacerlo cualquier persona,
+
+73
+00:05:47,630 --> 00:05:52,430
+tiene que ser un especialista, una persona que trabaje en intensivo,
+
+74
+00:05:52,510 --> 00:05:57,350
+o bien un anestesista que pueda intubar esta laryngia que está tan obstruida,
+
+75
+00:05:57,350 --> 00:06:02,110
+que está tan edematosa y habitualmente se hace con un tubo un poco más pequeño del esperable
+
+76
+00:06:02,110 --> 00:06:05,670
+para la edad en el sentido en que la laryngia está justamente obstruida.
+
+77
+00:06:05,670 --> 00:06:11,030
+Y bueno, finalmente lo que se pregunta también es si es que hay que dejar la antibiótico,
+
+78
+00:06:11,030 --> 00:06:13,670
+y en este caso no, es una infección viral,
+
+79
+00:06:13,670 --> 00:06:15,710
+solamente si se sospecha una infección bacteriana,
+
+80
+00:06:15,710 --> 00:06:20,030
+dígase que, ejemplo, empieza a empeorar nuevamente y agrega fiebre,
+
+81
+00:06:20,070 --> 00:06:23,590
+o bien empieza con expectoración mucopurulenta que antes no tenía,
+
+82
+00:06:23,590 --> 00:06:29,190
+y finalmente el tema del estudio solamente se hace cuando es recurrente.
+
+83
+00:06:29,190 --> 00:06:32,190
+Por el general, insisto, diagnostico clínico y manejo empírico,
+
+84
+00:06:32,190 --> 00:06:37,630
+pero cuando fuera recurrente, en ese caso conviene ir a buscar alguna causa obstructive,
+
+85
+00:06:37,630 --> 00:06:41,350
+y se van a pedir seguramente imágenes o una nasofibrolaryngoscopia.
+
+86
+00:06:41,350 --> 00:06:44,310
+Y con eso termina esta clase, esto se pregunta, hay que saberlo,
+
+87
+00:06:44,310 --> 00:06:47,750
+tanto en pediatría como en otro rino, así que aprendedselo que estén bien.

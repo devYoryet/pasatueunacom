@@ -1,0 +1,719 @@
+1
+00:00:00,000 --> 00:00:07,060
+Hola, ¿cómo están? En este video vamos a hablar de las gamopatías monoclonales,
+
+2
+00:00:07,060 --> 00:00:12,220
+que es un tema más o menos largo, y comencemos por saber cómo se clasifican, cuáles son.
+
+3
+00:00:12,220 --> 00:00:15,300
+Número uno, el mieloma múltiple, que no es el más frecuente,
+
+4
+00:00:15,300 --> 00:00:20,300
+pero es el que hay que saberse en detalle, su clínica, las alteraciones de sus exámenes,
+
+5
+00:00:20,300 --> 00:00:25,620
+de sus imágenes, etcétera. Aparte de eso está el M. gas, que la sigla en inglés
+
+6
+00:00:25,620 --> 00:00:29,780
+significa monoclonal, gamepathy, the uncertain significance,
+
+7
+00:00:29,780 --> 00:00:34,660
+o sea, gamopatía monoclonal de significado incierto, y justamente tiene un significado incierto
+
+8
+00:00:34,660 --> 00:00:38,420
+en el sentido de que un bajo porcentaje se puede transformar en un mieloma.
+
+9
+00:00:38,420 --> 00:00:43,940
+Aparte de eso está la macroglobulinemia de Waldestrom, que en alemán se pronuncia
+
+10
+00:00:43,940 --> 00:00:49,500
+Waldestrom, y que es el tipo de mieloma IgM, por si acaso.
+
+11
+00:00:49,500 --> 00:00:55,140
+Y finalmente está la amiloidosis, que si bien puede ser por otras causas,
+
+12
+00:00:55,140 --> 00:00:59,540
+también hay algunas amiloidosis que son un tipo de gamopatía monoclonal.
+
+13
+00:01:00,020 --> 00:01:06,980
+El diagnóstico de todas ellas habitualmente empieza o participa de este diagnóstico
+
+14
+00:01:06,980 --> 00:01:11,980
+la electroforesis de proteína, y luego de eso se confirma con una biopsia de medula ósea.
+
+15
+00:01:11,980 --> 00:01:15,380
+Ahora, y esto hay que saberlo, esto es lo importante, esto es lo común
+
+16
+00:01:15,380 --> 00:01:19,860
+a las gamopatías monoclonales en general, ¿qué es lo que me muestra la electroforesis?
+
+17
+00:01:19,860 --> 00:01:25,020
+Me muestra un PIC monoclonal de alguna proteína, habitualmente alguna inmunoglobulina,
+
+18
+00:01:25,180 --> 00:01:30,540
+o bien algún pedazo de inmunoglobulina, como por ejemplo una cadena liviana o una cadena pesada.
+
+19
+00:01:30,540 --> 00:01:32,620
+¿Y qué es lo que me muestra la biopsia de medula ósea?
+
+20
+00:01:32,620 --> 00:01:38,140
+Pues me muestra la proliferación clonal de células en la medula ósea,
+
+21
+00:01:38,140 --> 00:01:40,980
+habitualmente células plasmáticas, que si se acuerdan,
+
+22
+00:01:40,980 --> 00:01:45,500
+lo normal era que los linfocitos B que se activaban y empezaban a producir anticuerpos,
+
+23
+00:01:45,500 --> 00:01:48,060
+se transformaban en plasmositos o células plasmáticas,
+
+24
+00:01:48,060 --> 00:01:53,100
+que son las que justamente están hechas para producir y liberar los anticuerpos,
+
+25
+00:01:53,140 --> 00:01:56,340
+o bien en algunos casos no alcanzan a verse de esa forma,
+
+26
+00:01:56,340 --> 00:01:59,100
+sino que se ven como un linfocito B común y corriente,
+
+27
+00:01:59,100 --> 00:02:01,820
+pero lo más frecuente, repito, es que se vea como células plasmáticas,
+
+28
+00:02:01,820 --> 00:02:04,620
+al menos en el mieloma, al menos en el M-Gas.
+
+29
+00:02:06,340 --> 00:02:10,500
+Veamos una electroforesis, así se ve una electroforesis normal,
+
+30
+00:02:10,500 --> 00:02:15,700
+si se fijan hay un PIC en la parte de la algúmina y luego hay varias ondas, ¿cierto?
+
+31
+00:02:15,700 --> 00:02:19,740
+La última es la onda gamma, en donde se ven las gamaglobulinas,
+
+32
+00:02:19,780 --> 00:02:23,180
+y en el caso de una electroforesis con un PIC monoclonal,
+
+33
+00:02:23,180 --> 00:02:27,260
+se ve justamente un PIC muy elevado en la parte gamma.
+
+34
+00:02:27,860 --> 00:02:31,940
+Ahora, la diferencia entre un PIC monoclonal, que es muy puntiagudo, muy alto,
+
+35
+00:02:31,940 --> 00:02:35,980
+y un PIC policlonal, como el que se ve, por ejemplo, en una infección,
+
+36
+00:02:35,980 --> 00:02:39,060
+es que el policlonal es mucho más ancho y más achatado.
+
+37
+00:02:40,340 --> 00:02:45,060
+Empecemos con el mieloma múltiple, que repito, es el que hay que saberse de memoria
+
+38
+00:02:45,060 --> 00:02:48,500
+y es el que hay que saber identificar en un cuadro clínico,
+
+39
+00:02:48,500 --> 00:02:53,060
+habitualmente es un adulto mayor, es clásico, arriba de los 60 años,
+
+40
+00:02:53,060 --> 00:02:57,780
+arriba de los 70, 80 años, el síntoma más frecuente son los dolores óseos,
+
+41
+00:02:57,780 --> 00:03:02,260
+que a veces se describe como dolor óseo, pero otras veces como dolor en la espalda,
+
+42
+00:03:02,260 --> 00:03:06,940
+dolor en las rodillas o alguna cosa así, lesiones óseas en la radiografía,
+
+43
+00:03:06,940 --> 00:03:11,300
+que se ve como lesiones líticas, aparte de esto suele venir con anemia,
+
+44
+00:03:12,020 --> 00:03:17,860
+con falla renal o con proteínuria, con hipercalcemia, con un síndrome nefrótico,
+
+45
+00:03:17,860 --> 00:03:24,260
+en algunos casos más graves, o sea, fíjense, calcio, anemia, óseo, renal,
+
+46
+00:03:24,260 --> 00:03:31,180
+y finalmente puede venir con esta paraproteginemia, que ya dijimos que era un aumento de las inmunoglobulinas
+
+47
+00:03:31,180 --> 00:03:35,220
+y que si yo le hago una electroforesis se va a ver como un PIC monoclonal,
+
+48
+00:03:35,220 --> 00:03:42,420
+o sea, una paraproteginemia monoclonal por liberación de inmunoglobulinas a nivel de la médula ósea.
+
+49
+00:03:43,260 --> 00:03:47,780
+El hemograma, acuérdense, que se describe no solamente con la anemia,
+
+50
+00:03:47,780 --> 00:03:52,780
+sino que a veces viene con pancitopenia en el sentido en que invade la médula ósea
+
+51
+00:03:52,780 --> 00:04:01,220
+y puede dañar la producción de las células hemáticas de una manera bastante importante,
+
+52
+00:04:01,220 --> 00:04:05,620
+y muchas veces se describe además una enorme elevación de la VHS,
+
+53
+00:04:05,820 --> 00:04:12,420
+dígase, arriba de 100, arriba de 80, por ejemplo, y el fenómeno de Roulot,
+
+54
+00:04:12,420 --> 00:04:19,100
+que es que las células rojas, los hematíes, se apilan como una pila de moneda,
+
+55
+00:04:19,100 --> 00:04:22,300
+y en el flútex se ven unidos como una línea, de ahí vamos a ver una foto.
+
+56
+00:04:22,980 --> 00:04:27,980
+El tratamiento de mieloma múltiple, por lo general, es observarlo en las etapas iniciales
+
+57
+00:04:27,980 --> 00:04:34,140
+porque es algo que va avanzando muy lento, y ya en las etapas más avanzadas sirve la quimioterapia,
+
+58
+00:04:34,140 --> 00:04:38,820
+el rituximab, que son los anticuerpos monoclonales en contra de los linfocitos B,
+
+59
+00:04:38,820 --> 00:04:44,820
+y en este caso son linfocitos B que se han diferenciado a ser una célula plasmática,
+
+60
+00:04:44,820 --> 00:04:48,620
+y finalmente el único con intención curativa es el trasplante de médula ósea,
+
+61
+00:04:48,620 --> 00:04:50,380
+que rara vez se usa, por si acaso.
+
+62
+00:04:51,020 --> 00:04:53,380
+En este caso se ven radiografías, ¿cierto?
+
+63
+00:04:53,380 --> 00:04:58,060
+Aquí están un poco más de cerca y se ven todas esas lesiones líticas.
+
+64
+00:04:58,060 --> 00:05:02,380
+Ahora, la típica pregunta es ¿por qué yo le pido una radiografía de cráneo
+
+65
+00:05:02,380 --> 00:05:04,540
+y no una radiografía de otra parte del cuerpo?
+
+66
+00:05:04,540 --> 00:05:07,860
+Y la verdad es que porque el cráneo es más delgado, porque si se acuerdan,
+
+67
+00:05:07,860 --> 00:05:15,540
+el mieloma está no solamente en el cráneo, sino que está en toda la médula ósea de todo el esqueleto.
+
+68
+00:05:16,860 --> 00:05:20,740
+En esta otra foto, que era la misma que estaba al principio, se ve un número
+
+69
+00:05:20,740 --> 00:05:23,740
+que nuevamente está lleno de lesiones líticas,
+
+70
+00:05:23,740 --> 00:05:27,580
+y además en la parte amarilla, si se fijan, hay una fractura también.
+
+71
+00:05:27,580 --> 00:05:30,620
+Así que en este caso hay una fractura sobre hueso patológico
+
+72
+00:05:30,660 --> 00:05:33,700
+en contexto de una infiltración por mieloma.
+
+73
+00:05:35,300 --> 00:05:38,980
+El frotis, eso que se ve ahí, es el fenómeno de Rouleau,
+
+74
+00:05:38,980 --> 00:05:41,180
+por si es que alguna vez vieran un frotis.
+
+75
+00:05:42,060 --> 00:05:45,460
+Y vamos ahora con la segunda, con la gamma patigia monoclonal
+
+76
+00:05:45,460 --> 00:05:48,140
+del significado incierto, que es mucho más corto, por si acaso.
+
+77
+00:05:48,140 --> 00:05:50,900
+De hecho, el mieloma, como dijimos, era el que había que saber bien.
+
+78
+00:05:50,900 --> 00:05:54,020
+Y sepan acá que su clínica y sus exámenes,
+
+79
+00:05:54,020 --> 00:05:58,060
+aparte de la paraproteginemia monoclonal, es absolutamente nada.
+
+80
+00:05:58,100 --> 00:06:01,340
+No tiene síntomas y no tiene ninguna de las alteraciones del mieloma.
+
+81
+00:06:01,340 --> 00:06:05,100
+O sea, ¿cómo es que alguien llegue a enterarse que tiene un M-Gas?
+
+82
+00:06:05,100 --> 00:06:09,060
+Y la razón es que se hizo un examen de sangre general,
+
+83
+00:06:09,060 --> 00:06:13,620
+las proteínas le salían altas, la algúmina podía estar normal o baja,
+
+84
+00:06:13,620 --> 00:06:16,980
+y uno dice, qué raro, hagámosle una electroforesis,
+
+85
+00:06:16,980 --> 00:06:19,900
+y le sale justamente que hay un PIC monoclonal,
+
+86
+00:06:19,900 --> 00:06:24,060
+se hace la biopsia de médula ósea, se ve que hay una proliferación ahí,
+
+87
+00:06:24,060 --> 00:06:27,620
+pero que no alcanza a ser un mieloma, y uno dice, bueno, tiene un M-Gas.
+
+88
+00:06:27,820 --> 00:06:29,700
+Ahora, ¿cuál es la importancia?
+
+89
+00:06:29,700 --> 00:06:32,940
+Número uno, que es la gamopatía monoclonal más frecuente,
+
+90
+00:06:32,940 --> 00:06:37,140
+y segundo lugar, que su tratamiento es simplemente observar
+
+91
+00:06:37,140 --> 00:06:39,540
+que no hay que entrar a hacer nada más,
+
+92
+00:06:39,540 --> 00:06:42,620
+pero hay que observarlo de manera activa,
+
+93
+00:06:42,620 --> 00:06:45,420
+porque un 2% sí puede transformarse en un mieloma.
+
+94
+00:06:45,420 --> 00:06:48,380
+O sea, 98% no pasa absolutamente nada,
+
+95
+00:06:48,380 --> 00:06:50,900
+pero de ahí viene el nombre de significado incierto,
+
+96
+00:06:50,900 --> 00:06:55,860
+en el sentido de que un 2% sí puede evolucionar después a un cáncer.
+
+97
+00:06:56,460 --> 00:07:00,100
+Sigamos con la macroglobulinemia de Balde-Strom,
+
+98
+00:07:00,100 --> 00:07:04,100
+o Balde-Strom, como quieran decirlo, es con M al final,
+
+99
+00:07:04,100 --> 00:07:08,260
+y recuerden que su clínica habitualmente es inespecífica,
+
+100
+00:07:08,260 --> 00:07:12,380
+o bien totalmente asintomática, y nuevamente se ve como un hallazgo,
+
+101
+00:07:12,380 --> 00:07:14,580
+pero en los casos en que ya avanza más,
+
+102
+00:07:14,580 --> 00:07:18,220
+puede empezar con anemia, con astenia, mareos, cefalea,
+
+103
+00:07:18,220 --> 00:07:21,180
+ósea, fíjense, son síntomas bien inespecíficos,
+
+104
+00:07:21,180 --> 00:07:23,820
+y lo que sí hay que saber es que eventualmente se complica
+
+105
+00:07:23,820 --> 00:07:27,660
+con un síndrome de hiperdiscosidad por la IgM,
+
+106
+00:07:27,660 --> 00:07:30,660
+y se traduce en fenómenos trombóticos,
+
+107
+00:07:30,660 --> 00:07:34,820
+en ese caso puede evolucionar a compromiso del sistema nervioso central,
+
+108
+00:07:34,820 --> 00:07:37,420
+como por los trompos a nivel cerebral,
+
+109
+00:07:37,420 --> 00:07:41,900
+y lo más importante es que lo que se detecta y lo que la caracteriza,
+
+110
+00:07:41,900 --> 00:07:46,900
+y lo que es la diferencia de las demás gamapatías monoclonales,
+
+111
+00:07:46,900 --> 00:07:49,900
+es que en este caso tengo un cuadro producido por IgM,
+
+112
+00:07:49,900 --> 00:07:52,700
+por inmunoglobulina tipo M.
+
+113
+00:07:53,900 --> 00:07:55,700
+¿Cuál es el tratamiento de esto?
+
+114
+00:07:55,700 --> 00:07:57,500
+Muy similar a un mieloma, la verdad,
+
+115
+00:07:57,500 --> 00:08:01,900
+y habitualmente se le añade los antiagregantes y los anticoagulantes,
+
+116
+00:08:01,900 --> 00:08:05,700
+porque justamente viene con este síndrome de hiperdiscosidad.
+
+117
+00:08:05,700 --> 00:08:07,820
+Lo último, la amiloidosis,
+
+118
+00:08:07,820 --> 00:08:11,620
+acuérdense que su definición es una enfermedad de depósito,
+
+119
+00:08:11,620 --> 00:08:16,700
+lo que se deposita es amiloide, que es un tipo de proteína, cierto,
+
+120
+00:08:16,700 --> 00:08:21,500
+que se altera, y esto se va acumulando en distintos órganos,
+
+121
+00:08:21,580 --> 00:08:25,580
+por ejemplo en los riñones, en el corazón, en el hígado, en los músculos, etcétera.
+
+122
+00:08:25,580 --> 00:08:28,980
+Hay distintos tipos, no hay que saberlos con ningún detalle por si acaso,
+
+123
+00:08:28,980 --> 00:08:31,580
+pero está la por depósito de amiloide A,
+
+124
+00:08:31,580 --> 00:08:35,180
+la por depósito de cadenas ligeras de inmunoglobulina,
+
+125
+00:08:35,180 --> 00:08:37,980
+la por depósito de trans-tirretina,
+
+126
+00:08:37,980 --> 00:08:42,780
+y la por beta-2-microglobulina, entre otras, hay otras más.
+
+127
+00:08:42,780 --> 00:08:45,380
+Hay distintas causas que hay que saber también,
+
+128
+00:08:45,380 --> 00:08:47,980
+en el sentido en que si tengo un cuadro que es compatible,
+
+129
+00:08:47,980 --> 00:08:50,980
+hay que ver si viene con algún factor de riesgo.
+
+130
+00:08:51,060 --> 00:08:56,660
+Número 1, la amiloidosis primaria, que ya dijimos era una de estas gamapatías monoclonales,
+
+131
+00:08:56,660 --> 00:09:00,460
+puede ser secundaria a otra gamapatía monoclonal,
+
+132
+00:09:00,460 --> 00:09:04,460
+ejemplo secundaria a un mieloma, una amiloidosis secundaria a mieloma,
+
+133
+00:09:04,460 --> 00:09:06,780
+puede ser secundaria a algunas enfermedades autoinmunes,
+
+134
+00:09:06,780 --> 00:09:12,260
+a lupus, a artritis romatoide, por ejemplo, a enfermedades inflamatorias intestinales,
+
+135
+00:09:12,260 --> 00:09:16,060
+y finalmente secundaria a algunas infecciones crónicas como la tuberculosis también.
+
+136
+00:09:16,060 --> 00:09:20,860
+O sea, no hay una única causa, las amiloidosis son una serie de enfermedades
+
+137
+00:09:20,860 --> 00:09:26,740
+de depósito bastante heterogéneas, tanto en su origen como en su forma de presentación.
+
+138
+00:09:27,460 --> 00:09:32,060
+Sempan que el diagnóstico por regla general es con biopsia de algún órgano
+
+139
+00:09:32,060 --> 00:09:35,140
+que muestre la acumulación del amiloide,
+
+140
+00:09:35,140 --> 00:09:40,140
+y lo más frecuente o lo ideal es que se biopsie en primer lugar la grasa abdominal,
+
+141
+00:09:40,140 --> 00:09:42,740
+en el sentido en que es una biopsia de bajo riesgo.
+
+142
+00:09:42,740 --> 00:09:47,340
+No tiene tanto rendimiento como una biopsia del corazón o de los riñones, por ejemplo,
+
+143
+00:09:47,420 --> 00:09:52,020
+o que una biopsia hepática, pero sí tiene un riesgo desangrado mucho menor,
+
+144
+00:09:52,020 --> 00:09:54,020
+así que es de primera línea.
+
+145
+00:09:54,020 --> 00:09:57,220
+¿Cuál es el tratamiento de la amiloidosis?
+
+146
+00:09:57,220 --> 00:10:00,620
+Sepan que en general es tratar la causa de base, si es que hay una,
+
+147
+00:10:00,620 --> 00:10:05,420
+ejemplo, manejar la artritis romatoide o el mieloma,
+
+148
+00:10:05,420 --> 00:10:10,220
+más obviamente el soporte según las disfunciones de los distintos órganos que vayan apareciendo.
+
+149
+00:10:10,220 --> 00:10:13,420
+Suele tener mal pronóstico a medida que se va complicando.
+
+150
+00:10:13,500 --> 00:10:17,100
+Y no vimos la clínica, así que veámosla muy rápido.
+
+151
+00:10:17,100 --> 00:10:19,100
+En general es una clínica bien vaga,
+
+152
+00:10:19,100 --> 00:10:24,100
+en específica más las especificas de las complicaciones de cada uno de los órganos que se va dañando.
+
+153
+00:10:24,100 --> 00:10:27,500
+Dígase, en el caso de la piel se ve equímosis,
+
+154
+00:10:27,500 --> 00:10:31,700
+es una piel como más débil, más acartonada, más fácil de romper,
+
+155
+00:10:31,700 --> 00:10:35,700
+y se describe igualmente el púrpura periocular.
+
+156
+00:10:35,700 --> 00:10:38,100
+O sea, si alguien me dice me pegaron con un palo en la cabeza
+
+157
+00:10:38,100 --> 00:10:41,900
+y se me pone un ojo con una equímosis alrededor,
+
+158
+00:10:41,980 --> 00:10:44,980
+eso es un tech con una fractura de cráneo.
+
+159
+00:10:44,980 --> 00:10:47,980
+Pero si es que es espontáneo y puede ser bilateral,
+
+160
+00:10:47,980 --> 00:10:50,980
+en ese caso hay que acordarse de la amiloidose.
+
+161
+00:10:50,980 --> 00:10:55,980
+Segundo lugar, en el corazón se complica con una miocardioepatía restrictiva,
+
+162
+00:10:55,980 --> 00:10:57,980
+que tiene mal pronóstico por si acaso.
+
+163
+00:10:57,980 --> 00:11:00,980
+A nivel renal, falla renal, síndrome nefrótico,
+
+164
+00:11:00,980 --> 00:11:04,980
+una proteinuria no nefrótica también, igual que en el mieloma.
+
+165
+00:11:04,980 --> 00:11:08,980
+En el hígado eventualmente puede haber un daño hepático crónico.
+
+166
+00:11:09,060 --> 00:11:14,060
+En el sistema nervioso periférico se puede ver como neuropatía.
+
+167
+00:11:14,060 --> 00:11:19,060
+Y finalmente en los músculos, que es una de las cosas más clásicas,
+
+168
+00:11:19,060 --> 00:11:22,060
+se deposita y aumenta su tamaño.
+
+169
+00:11:22,060 --> 00:11:25,660
+Por ejemplo, puede venir con macroglosia, con la lengua grande,
+
+170
+00:11:25,660 --> 00:11:28,660
+y con aumento de volumen de algunos músculos de los deltoides,
+
+171
+00:11:28,660 --> 00:11:30,260
+por ejemplo, o de algún otro músculo.
+
+172
+00:11:30,260 --> 00:11:33,060
+O sea, fíjense, el cuadro clínico es bien raro,
+
+173
+00:11:33,140 --> 00:11:36,140
+pero si a alguien le dicen cardiopatía restrictiva,
+
+174
+00:11:36,140 --> 00:11:39,140
+más equimosis, más macroglosia,
+
+175
+00:11:39,140 --> 00:11:42,140
+acuérdense de la miolidosis como una de las cosas importantes
+
+176
+00:11:42,140 --> 00:11:45,140
+y la conducta es ir a hacer una biopsia de grasa abdominal
+
+177
+00:11:45,140 --> 00:11:48,140
+más un montón de otros exámenes en busca de la causa.
+
+178
+00:11:48,140 --> 00:11:49,140
+Y eso es todo.
+
+179
+00:11:49,140 --> 00:11:52,140
+Les dije que era largo y además era difícil de pronunciar.
+
+180
+00:11:52,140 --> 00:11:54,140
+Así que nos vemos en los siguientes videos.

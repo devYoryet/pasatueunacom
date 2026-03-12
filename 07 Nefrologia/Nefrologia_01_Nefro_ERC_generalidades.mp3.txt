@@ -1,0 +1,411 @@
+Hola, hola, ¿cómo están? En este video vamos a hablar de los trastornos hidroelectrolíticos,
+
+pero vamos a ver solamente algunas generalidades, la clínica, el diagnóstico,
+
+y en otros videos vamos a hablar del manejo específico de la mayoría de ellos.
+
+Y comencemos con ¿cuáles son los valores normales de los electrolitos que un médico general se tiene que saber?
+
+Pues se tiene que saber los del sodio, que son de 135 a 145 mil equivalentes por litro,
+
+o bien 140 a más menos 5, hay que saberse los del potasio, que es 3,5 a 5 mil equivalentes por litro,
+
+las del calcio, que son 8,5 a 10,5, aquí ya no son mil equivalentes, son miligramos por decilitro,
+
+y además, acuérdense que el calcio hay que corregirlo por albúmina, que lo vamos a ver después,
+
+del magnesio no hay que saberlo, pero se los pongo ahí igual como para que lo vean,
+
+es de 1,7 a 2,2 miligramos por decilitro también,
+
+y finalmente el diagnóstico de las alteraciones hidroelectrolíticas se hace precisamente sabiéndose estos valores
+
+y comparándolo con el valor que me entrega.
+
+Si está por debajo del rango hay una hipocalemia, natremia, calcemia, magnesemia,
+
+si está por arriba en cambio hay una hiper, igualmente natremia, calcemia, magnesemia, calcemia, etc.
+
+Si la alteración es leve, por lo general se trata con algún fármaco o con algún electrolito vía oral,
+
+esto de acá más el manejo de la causa, que lo más importante justamente es saber las causas específicas
+
+de cada una de ellas para identificarla, buscarla y tratarla,
+
+y en cambio cuando hay alguna alteración grave puede ser muy muy riesgoso,
+
+ya sea con complicaciones cardiacas, cerebrales, etc.,
+
+y en ese caso habitualmente se maneja con tratamiento endovenoso,
+
+ya sea de aportar lo que le falta o de darle alguna otra cosa
+
+para evitar que se complique con lo que le sobra.
+
+Ahora, ¿qué pasa con el fósforo? ¿El fósforo hay que saberlo?
+
+Pues la verdad no hay que saber el valor normal, pero sepan que es de 2,5 a 4,5 milígramos por decilitro
+
+y la verdad es que la forma en que me lo aprendí yo es que me sabía la del calcio
+
+y sé que es 6 menos que lo del calcio.
+
+El calcio de 8,5 a 10,5 pues el fósforo 6 menos, 2,5 a 4,5.
+
+Ustedes pueden aprenderlo como quieran.
+
+Siga ahora, hablemos de ciertas generalidades de las alteraciones asociadas al sodio
+
+y que quede bien claro, las natremias dependen del balance de agua,
+
+no del balance de sal, del agua que entra y del agua que sale
+
+y ¿qué me determina en cambio el balance de sodio?
+
+Si yo como mucho sodio o pierdo mucho sodio,
+
+eso se traduce en alteraciones no de las natremias sino que de las volemias
+
+y eso hay que saberlo y hay que tenerlo bien claro
+
+porque en general el sistema de la hormona antidiurética
+
+y el sistema de la sed son suficientes para compensar las natremias
+
+en cuanto a las variaciones de entradas y salidas de sal.
+
+En cambio, no lo puede hacer de manera tan eficiente
+
+cuando hay problemas de entrada y salida de agua.
+
+Recapitulando, las natremias dependen del agua,
+
+las volemias dependen del sodio.
+
+Las alteraciones del sodio, tanto la hipernatremia como la hiponatremia
+
+afectan por regla general el sistema nervioso central.
+
+O sea, son regosas a nivel del cerebro, no afectan el corazón.
+
+La hiponatremia, de hecho, se traduce habitualmente en edema cerebral
+
+que empieza con náuseas, con cefalea y luego con compromiso de conciencia
+
+y con todo un cuadro de hipertensión endocriniana,
+
+por ejemplo, que está ahí entre paréntesis.
+
+Las hipernatremias, en cambio, el cerebro empieza a achicarse
+
+y eso hace que finalmente se puedan cortar algunos vasos sanguíneos
+
+y que se produzca una hemorragia cerebral o alguna hemorragia intracranial.
+
+La corrección rápida de la hiponatremia y de las natremias en general
+
+se asocia también a una complicación del sistema nervioso central
+
+que se llama la mielinolisis pontina, que es bastante grave por si acaso
+
+y que eventualmente hace que el paciente se muera.
+
+Así que hay que tener harto cuidado al momento de corregir las hiponatremias.
+
+Sigamos ahora con las alteraciones del potasio.
+
+En el caso del potasio, tanto la hiper como la hipocalemia
+
+habitualmente vienen con debilidad, o sea, afectan los músculos
+
+y con arritmia, o sea, afectan el corazón también.
+
+Fíjense, el potasio no afecta al cerebro, afecta al corazón y a los músculos.
+
+La hipocalemia, aparte de debilidad y arritmia, cierto,
+
+una de sus alteraciones más importantes es que viene
+
+con alargamiento del intervalo cuté.
+
+Y acuérdense que cuando yo tengo un cuté largo
+
+eventualmente se desencadena un tipo de taquicarde ventricular polimorfa
+
+que se llama la torsión de puntas o torsade point en francés.
+
+En el caso de la hipercalemia, aparte de la debilidad
+
+y las arritmias, lo que se suele ver en el electrocardiogramo
+
+son las ondas T picudas, cierto, y a medida que va pasando el tiempo
+
+el QRS se va volviendo cada vez más ancho.
+
+Eventualmente puede haber bloqueos también en auriculos ventriculares
+
+y finalmente se desencadenan arritmias ventriculares malignas, cierto,
+
+taquicarde ventricular y muerte.
+
+Ahora, ¿cuál es el primer examen que yo le pido a una alteración del potasio,
+
+en particular a una hipercalemia?
+
+Por lo general no son los electrolitos sino que es el electrocardiograma,
+
+en el sentido que inmediatamente me ha dado una información instantánea,
+
+cierto, que ya me permite actuar.
+
+Y en segundo lugar ahí sí voy a ver los electrolitos
+
+como para ver exactamente qué nivel de potasio tiene.
+
+Hablemos muy brevemente de la parálisis hipocalémica
+
+que no son las hipocalemias comunes y corrientes,
+
+sino que es una enfermedad bien específica
+
+pero que viene con una clínica bien florida de la hipocalemia.
+
+Es una enfermedad que es genética, pero a pesar de ser genética
+
+no se manifiesta en la infancia temprana,
+
+sino que suele iniciar en adolescentes,
+
+en particular en adolescentes que empiezan a hacer actividad física más intensa.
+
+Y por el general los síntomas aparecen al despertar
+
+o bien después de hacer ejercicio.
+
+Dormió y despierta el día siguiente y no se puede mover.
+
+O bien hizo ejercicio y luego de descansar ya no se puede mover tampoco.
+
+El examen neurológico por el general es normal,
+
+dígase, viene con los reflejos osteotendinos absolutamente normales,
+
+lo cual hace una gran diferencia,
+
+ejemplo con la parálisis asociada al síndrome de Guillain-Barré.
+
+Así que recuerden, esta existe,
+
+y la forma en que se diagnostica finalmente es midiendo los niveles de potasio
+
+y la forma en que se trata es justamente dándole potasio.
+
+Aquí tengo un electrocardiograma
+
+y si se fijan en las ondas T se ven súper altas y picudas
+
+y eso es lo característico de la hipercalemia.
+
+Así que en este caso sería una hipercalemia con las ondas T altas y picudas.
+
+Y en este caso en cambio si se fijan el QRS ya se deformó completamente,
+
+está súper ancho y se une con la onda T
+
+y se ve como un complejo QRS-T medio raro,
+
+y eso es lo característico de una hipercalemia más grave todavía.
+
+O sea, empieza con las ondas T bien picudas, bien altas,
+
+y se van volviendo cada vez más altas
+
+a medida que se va desdibujando el QRS hasta que finalmente queda así.
+
+Hablemos ahora del calcio muy rápido.
+
+La hipocalcemia por el general viene con debilidad,
+
+con tetánea, así que hay como contracturas muscularias, con clonus,
+
+eventualmente al hacer una dorsiflexión extrema y forzada del pie, por ejemplo,
+
+queda moviéndose el pie de manera repetitiva.
+
+Puede venir con parestecias peribucales,
+
+o sea, no solamente afecta la parte motora,
+
+eventualmente puede venir con algunos pocos síntomas sensitivos también,
+
+con fasciculaciones, o sea, hay como hiperactividad muscular en general.
+
+Los reflejos osteotendinos se aumentan.
+
+Todo esto se puede resumir en un cuadro de tetánea también, por si acaso.
+
+Y viene con dos signos bien característicos de la hipocalcemia,
+
+que son el signo de Chibostec, que es que se golpea la cara
+
+y se contrae esa mitad de la cara porque viene con una gran irritabilidad
+
+del nervio facial también, o sea, es como una hiperreflexia del nervio facial.
+
+Y el signo de Tuguso, o Truceau, se pronuncia con una U y finalmente con una O,
+
+así Tuguso, que se insufla el manguito de depresión arterial
+
+hasta que hay cierto grado de isquemia en la extremidad superior
+
+y eso hace que se contraiga la mano y se flecta de manera involuntaria.
+
+Ahora, en el electrocardiograma la hipocalcemia también me alarga el cuté,
+
+igual que la hipocalcemia, y eventualmente también me puede desencadenar
+
+una arritmia ventricular polimorfa con contorsión de puntas.
+
+En el caso de la hipercalcemia viene con debilidad también,
+
+entonces fíjese, el calcio afecta a los músculos,
+
+produce debilidad tanto para arriba como para abajo,
+
+pero además es muy frecuente que venga con compromiso de conciencia.
+
+La hipercalcemia en particular tiende a la deshidratación
+
+y tiende al compromiso de conciencia, a la desorientación, al sopor, al coma, etc.
+
+Es frecuente que venga con constipación además,
+
+y puede venir con una diabetes insípida de tipo nefrogénica
+
+que en la clínica se ve como poliuria y con tendencia a la hipernatremia además,
+
+o sea la hipercalcemia se puede complicar con hipernatremia
+
+y además que la diabetes insípida pierde agua,
+
+lo cual agrava todavía la hipercalcemia y se produce un círculo vicioso.
+
+Y como otra cosa importante es que puede venir con este cuadro de deshidratación
+
+la hipercalcemia asociada justamente a que puede ser la causa,
+
+la deshidratación, como que puede ser la complicación de la diabetes insípida.
+
+En el caso del magnesio hay que saberlo muy brevemente,
+
+la hipomagnesemia es algo raro, que no se ve mucho
+
+y cuando se manifiesta se ve con el cúte largo
+
+y con tendencia a la torsión de puntas también,
+
+y hay que sospecharla e ir a buscarla dirigidamente
+
+cuando yo tengo una hipocalemia refractaria,
+
+o sea, si es que el potasio está bajo, intento corregirlo y no se soluciona
+
+y no sube y no sube y se mantiene bajo,
+
+a lo mejor lo que hay detrás es que el magnesio también está bajo
+
+y eso me perpetúa un intercambio con el potasio.
+
+¿Cuál es el tratamiento de la hipomagnesemia,
+
+que esta es la única vez que vamos a hablar de hipomagnesemia
+
+en todas estas dispositivas de nefrología?
+
+Pues obviamente es darle magnesio, el sulfato de magnesio,
+
+y en el caso de la hipermagnesemia, que es más rara todavía,
+
+sepan que en general se ve como complicación del tratamiento
+
+de la preeclampsia con sulfato de magnesio,
+
+acuérdense que el manejo de la eclampsia y la profilaxis de la eclampsia
+
+en contexto de una preeclampsia se hacía con sulfato de magnesio endovenoso
+
+y cuando se me pasa la mano se produce esta hipermagnesemia
+
+y sepan que por el general viene con arreflexia
+
+o con disminución de los reflejos osteotendinos
+
+y luego abolición completa,
+
+puede venir con una disminución de la frecuencia respiratoria
+
+y finalmente ya se desencadenan las arritmas también
+
+y por lo mismo es que toda paciente obstétrica con preeclampsia
+
+que está recibiendo sulfato de magnesio
+
+siempre debe ir acompañado de evaluación de los reflejos
+
+y de la frecuencia respiratoria también.
+
+¿Cuál era el tratamiento de la hipermagnesemia?
+
+Recordémoslo, es el calcio, el gluconato de calcio
+
+al igual que la hipercalemia, la hiperpotasemia,
+
+me estabiliza la membrana.
+
+Así que hipermagnesemia, hipocalcemia e hipercalemia
+
+las tres cosas se tratan habitualmente con gluconato de calcio.
+
+Sigamos acá, ¿cuáles eran las que producían debilidad?
+
+Si se acuerda eran las hiperpotasemia, calcemia y magnesemia.
+
+¿Cuáles son las que producen de las hipo?
+
+De las hipo, las mismas, o sea las alteraciones del potasio,
+
+del calcio y del magnesio tanto para arriba como para abajo
+
+eventualmente se traducen en debilidad.
+
+¿Cuáles eran las que me alargaban el cuté?
+
+Eran, acuérdense, las hipo y no las natremia
+
+porque el sodio no afecta el corazón,
+
+sino que son la hipocalemia, hipocalcemia e hipomagnesemia.
+
+¿Cuáles eran las que venían con compromiso de conciencia?
+
+Si se acuerda eran todas las del sodio
+
+y aparte la hipercalcemia.
+
+La hipercalcemia más la hipernatremia
+
+que podía venir con una hemorragia, acuérdense,
+
+la hiponatremia que podía venir con el edema cerebral
+
+y la corrección rápida de la hiponatremia
+
+que se traducía en la mielinolysis pontina.
+
+¿Quedó más o menos claro? Esto fue una introducción.
+
+En los siguientes temas vamos a ir viendo
+
+el manejo específico de cada alteración.
+
+Así que ahí nos vemos.

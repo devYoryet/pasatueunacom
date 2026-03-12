@@ -1,0 +1,535 @@
+1
+00:00:00,000 --> 00:00:06,050
+Hola, ¿cómo están? Sigamos con el síndrome nefrótico.
+
+2
+00:00:06,050 --> 00:00:10,550
+En esta clase vamos a hablar de las patologías específicas que lo causan,
+
+3
+00:00:10,550 --> 00:00:14,550
+empezando por la más frecuente por lejos, que es la enfermedad de cambios mínimos,
+
+4
+00:00:14,550 --> 00:00:17,550
+que por si acaso es sinónimo de la nefrosis lipoidea.
+
+5
+00:00:17,550 --> 00:00:24,050
+Y sepan que se llama cambios mínimos justamente porque la biopsia se ve normal en el microscopio óptico.
+
+6
+00:00:24,050 --> 00:00:28,350
+De hecho, para ver las alteraciones que hay se requiere del microscopio electrónico
+
+7
+00:00:28,350 --> 00:00:30,850
+y ahí se ve que desaparecen los pedicelos.
+
+8
+00:00:30,850 --> 00:00:32,850
+O sea, ¿cuál es la alteración que hay?
+
+9
+00:00:32,850 --> 00:00:36,350
+La desaparición de los pedicelos que no se ve en la microscopía óptica
+
+10
+00:00:36,350 --> 00:00:38,350
+y que no hay que confundirlo con los podocitos.
+
+11
+00:00:38,350 --> 00:00:44,350
+Los podocitos son las células que vienen con algunas prolongaciones de citoplasma,
+
+12
+00:00:44,350 --> 00:00:48,350
+que son como un pie y por eso se llaman podocitos, las células con pies.
+
+13
+00:00:48,350 --> 00:00:52,350
+Y dentro de los podocitos a su vez se subdividen en cosas cada vez más pequeñas,
+
+14
+00:00:52,350 --> 00:00:54,350
+que es lo que se conoce como pedicelos.
+
+15
+00:00:54,350 --> 00:00:58,350
+O sea, los podocitos se mantienen y los pedicelos es lo que desaparece
+
+16
+00:00:58,850 --> 00:01:01,850
+y eso solamente, repito, se ve en la microscopía electrónica.
+
+17
+00:01:01,850 --> 00:01:04,850
+Ahora, ¿cuál es la clínica de la enfermedad de cambios mínimos?
+
+18
+00:01:04,850 --> 00:01:07,350
+Por el general es un niño entre 5 y 10 años.
+
+19
+00:01:07,350 --> 00:01:11,850
+Esas son las edades más frecuentes, pero puede ser un niño de cualquier edad en realidad.
+
+20
+00:01:11,850 --> 00:01:16,850
+Puede ser más pequeño, incluso en lactantes, pero acuérdense que en menores de un año
+
+21
+00:01:16,850 --> 00:01:19,850
+hay que sospechar las causas genéticas como una de las fundamentales.
+
+22
+00:01:19,850 --> 00:01:25,850
+Y en segundo lugar se puede ver también en adultos y en niños más grandes.
+
+23
+00:01:26,350 --> 00:01:30,350
+Pero en general la edad más frecuente es 5 a 10 años.
+
+24
+00:01:30,350 --> 00:01:34,850
+Ahora, en segundo lugar viene con un síndrome nefrótico puro.
+
+25
+00:01:34,850 --> 00:01:36,850
+Siempre es totalmente puro.
+
+26
+00:01:36,850 --> 00:01:41,850
+Entonces, niño con síndrome nefrótico puro, lo más probable por lejos, lejos, lejos
+
+27
+00:01:41,850 --> 00:01:44,850
+es que sea una enfermedad de cambios mínimos o nefrocilipoidea.
+
+28
+00:01:44,850 --> 00:01:47,350
+¿Cuál es el manejo de esta enfermedad?
+
+29
+00:01:47,350 --> 00:01:50,350
+La verdad es que se le da una prueba terapéutica comprendizona.
+
+30
+00:01:50,350 --> 00:01:54,350
+Hay que saber que son corticoides habitualmente en dosis bien altas
+
+31
+00:01:54,350 --> 00:01:56,350
+y se dejan por dos a tres meses.
+
+32
+00:01:56,350 --> 00:02:00,350
+La más clásica, aunque obviamente va a ir variando de la forma en que responda,
+
+33
+00:02:00,350 --> 00:02:05,350
+es partirle 60 milígramos de prednisona por metro cuadrado,
+
+34
+00:02:05,350 --> 00:02:12,850
+lo cual es una dosis bien alta, y eso se mantiene como por seis semanas
+
+35
+00:02:12,850 --> 00:02:17,350
+y luego de eso se evalúa si es que se baja la dosis o no a 40 milígramos
+
+36
+00:02:17,350 --> 00:02:19,850
+para completar dos o tres meses.
+
+37
+00:02:19,850 --> 00:02:22,350
+En general la dosis se puede bajar un poquito antes
+
+38
+00:02:22,350 --> 00:02:25,350
+si es que responde y la proteína cae rápido
+
+39
+00:02:25,350 --> 00:02:27,850
+y se puede terminar un poco antes igualmente
+
+40
+00:02:27,850 --> 00:02:31,350
+si es que la proteína se acaba y desaparece antes.
+
+41
+00:02:32,350 --> 00:02:35,350
+Si es que mejora, por el general se da de alta y uno se queda tranquilo.
+
+42
+00:02:35,350 --> 00:02:37,850
+Lo que tuvo fue efectivamente un síndrome nefrótico
+
+43
+00:02:37,850 --> 00:02:40,850
+por una enfermedad de cambios mínimos que suele ser autolimitada.
+
+44
+00:02:40,850 --> 00:02:44,350
+En cambio, si es que no mejora, estoy obligado a hacer una biopsia ranal.
+
+45
+00:02:44,350 --> 00:02:47,350
+En el sentido en que yo digo, a lo mejor tiene otra causa distinta
+
+46
+00:02:47,350 --> 00:02:49,350
+que también está con un síndrome nefrótico puro
+
+47
+00:02:49,350 --> 00:02:51,350
+y tengo que estar seguro de que es,
+
+48
+00:02:51,350 --> 00:02:54,350
+en el sentido que si lo identifico a una causa diferente
+
+49
+00:02:54,350 --> 00:02:57,350
+tengo que ir a tratarla de una manera diferente.
+
+50
+00:02:57,350 --> 00:03:01,350
+La segunda enfermedad es la famosa nefropatía membranosa
+
+51
+00:03:01,350 --> 00:03:04,350
+que es sinónimo de glomerulopatía membranosa
+
+52
+00:03:04,350 --> 00:03:09,350
+que en su vez es sinónimo de nefropatía o glomerulopatía extramembranosa.
+
+53
+00:03:09,350 --> 00:03:12,350
+Así que membranosa y extramembranosa es lo mismo
+
+54
+00:03:12,350 --> 00:03:16,350
+y en este caso nefropatía y glomerulopatía igualmente es lo mismo.
+
+55
+00:03:16,350 --> 00:03:19,350
+Fíjense, no son glomerulonefritis.
+
+56
+00:03:19,350 --> 00:03:22,350
+Hasta ahora no hemos visto ninguna glomerulonefritis
+
+57
+00:03:22,350 --> 00:03:24,350
+como causa de síndrome nefrótico,
+
+58
+00:03:24,350 --> 00:03:26,350
+sino que estamos viendo glomerulopatías
+
+59
+00:03:26,350 --> 00:03:29,350
+y por lo mismo son cinematuria.
+
+60
+00:03:29,350 --> 00:03:32,350
+Su etiología en este caso es autoinmune.
+
+61
+00:03:32,350 --> 00:03:34,350
+Un ejemplo puede asociarse al lupus
+
+62
+00:03:34,350 --> 00:03:37,350
+como ocurre en la nefropatía lupica tipo 5.
+
+63
+00:03:37,350 --> 00:03:40,350
+Puede asociarse a fármacos que me desencadenan.
+
+64
+00:03:40,350 --> 00:03:42,350
+Una respuesta inmunológica también.
+
+65
+00:03:42,350 --> 00:03:44,350
+O puede ser espontánea también.
+
+66
+00:03:44,350 --> 00:03:48,350
+Hay gente que desarrolla un síndrome nefrótico
+
+67
+00:03:48,350 --> 00:03:51,350
+por una nefropatía membranosa por mala suerte nomás.
+
+68
+00:03:51,350 --> 00:03:54,350
+Porque sí, porque desarrolla esa enfermedad autoinmune en específico.
+
+69
+00:03:54,350 --> 00:03:57,350
+Su clínica, sepan que suele ser un adulto.
+
+70
+00:03:57,350 --> 00:04:00,350
+Es raro en niños, se puede ver, pero en general es un adulto
+
+71
+00:04:00,350 --> 00:04:02,350
+y que tiene un síndrome nefrótico puro.
+
+72
+00:04:02,350 --> 00:04:04,350
+De hecho es la causa más frecuente
+
+73
+00:04:04,350 --> 00:04:06,350
+de síndrome nefrótico puro en el adulto
+
+74
+00:04:06,350 --> 00:04:10,350
+y también de síndrome nefrótico en contexto de fármacos.
+
+75
+00:04:10,350 --> 00:04:13,350
+Y como cosa importante suele ser de rápida instalación
+
+76
+00:04:13,350 --> 00:04:16,350
+en particular en comparación con la nefropatía diabética
+
+77
+00:04:16,350 --> 00:04:19,350
+que es la otra causa de síndrome nefrótico importante en adulto.
+
+78
+00:04:19,350 --> 00:04:24,350
+Se caracteriza por la presencia de los anticuerpos antiPLA-R2.
+
+79
+00:04:24,350 --> 00:04:26,350
+Sepan que existen y sepan que hay un anticuerpo
+
+80
+00:04:26,350 --> 00:04:28,350
+que eventualmente se puede detectar.
+
+81
+00:04:28,350 --> 00:04:31,350
+Ahora, si es que no está presente,
+
+82
+00:04:31,350 --> 00:04:34,350
+no quita que puede hacer una nefropatía membranosa igual
+
+83
+00:04:34,350 --> 00:04:36,350
+y eso se va a ver en la biopsia.
+
+84
+00:04:36,350 --> 00:04:40,350
+Que justamente se ve que la membrana se vuelve gruesa
+
+85
+00:04:40,350 --> 00:04:44,350
+y viene con un patrón bien característico en la histología.
+
+86
+00:04:45,350 --> 00:04:48,350
+Como otra causa está la nefropatía diabética.
+
+87
+00:04:48,350 --> 00:04:52,350
+En este caso sepan que su clínica en general es un diabético de larga data.
+
+88
+00:04:52,350 --> 00:04:54,350
+No es una complicación que sea aguda.
+
+89
+00:04:54,350 --> 00:04:56,350
+Si alguien me dice yo tengo diabetes hace un año
+
+90
+00:04:56,350 --> 00:04:58,350
+y estoy con un síndrome nefrótico muy grave,
+
+91
+00:04:58,350 --> 00:05:01,350
+lo que tiene es en cambio una nefropatía membranosa.
+
+92
+00:05:01,350 --> 00:05:05,350
+Pero si es que es de larga data, en ese caso sí puede ser.
+
+93
+00:05:05,350 --> 00:05:09,350
+En segundo lugar suele venir con un síndrome nefrótico puro también.
+
+94
+00:05:09,350 --> 00:05:14,350
+Y que suele ser de lenta instalación y de lento agravamiento.
+
+95
+00:05:14,350 --> 00:05:17,350
+Repito, si es que es de rápida instalación
+
+96
+00:05:17,350 --> 00:05:20,350
+o si lleva muy poquito tiempo con diabetes,
+
+97
+00:05:20,350 --> 00:05:24,350
+lo más probable es que sea una glomerulopatía membranosa
+
+98
+00:05:24,350 --> 00:05:26,350
+y no una simple nefropatía diabética.
+
+99
+00:05:26,350 --> 00:05:30,350
+Ahora, finalmente se va a saber al final con la biopsia ranal.
+
+100
+00:05:31,350 --> 00:05:34,350
+La otra era la glomerulonefritis mensaje ocapilar.
+
+101
+00:05:34,350 --> 00:05:37,350
+Fíjense, esta es la primera glomerulonefritis que hemos mencionado
+
+102
+00:05:37,350 --> 00:05:39,350
+como causa de síndrome nefrótico.
+
+103
+00:05:39,350 --> 00:05:43,350
+Recuerden que era sinónimo de glomerulonefritis membrano proliferativa.
+
+104
+00:05:43,350 --> 00:05:47,350
+Y su clínica habitualmente son adolescentes y adultos jóvenes.
+
+105
+00:05:47,350 --> 00:05:51,350
+Algo similar a lo que ocurre con la nefropatía porigial.
+
+106
+00:05:51,350 --> 00:05:53,350
+Que es el mismo rango de edad,
+
+107
+00:05:53,350 --> 00:05:55,350
+aunque puede ocurrir en verdad a cualquier edad,
+
+108
+00:05:55,350 --> 00:05:57,350
+pero esas son las edades más frecuentes.
+
+109
+00:05:57,350 --> 00:06:00,350
+Es un síndrome nefrótico que va a ser siempre impuro
+
+110
+00:06:00,350 --> 00:06:04,350
+porque viene con hematuria y además apuérdese que era hipocomplementémica.
+
+111
+00:06:04,350 --> 00:06:06,350
+Al igual que la nefropatía porigial,
+
+112
+00:06:06,350 --> 00:06:08,350
+es muy frecuente que se descompense también
+
+113
+00:06:08,350 --> 00:06:10,350
+en contexto de las infecciones respiratorias.
+
+114
+00:06:10,350 --> 00:06:14,350
+Así que es muy frecuente que se dé el síndrome nefrótico
+
+115
+00:06:14,350 --> 00:06:16,350
+durante la infección respiratoria
+
+116
+00:06:16,350 --> 00:06:19,350
+o algún tiempo después de la infección respiratoria.
+
+117
+00:06:19,350 --> 00:06:23,350
+Y finalmente la gloméruloesclerosis focal y segmentaria
+
+118
+00:06:23,350 --> 00:06:26,350
+que se abrevia de esa forma como HEVS.
+
+119
+00:06:26,350 --> 00:06:28,350
+Gloméruloesclerosis focal y segmentaria
+
+120
+00:06:28,350 --> 00:06:31,350
+que en la biopsia se ve como esclerosis de los glomérulos
+
+121
+00:06:31,350 --> 00:06:32,350
+en zonas focales y segmentarias.
+
+122
+00:06:32,350 --> 00:06:35,350
+Así que el nombre viene del patrón histológico.
+
+123
+00:06:35,350 --> 00:06:39,350
+Sepan que su clínica habitualmente viene asociada al VIH
+
+124
+00:06:39,350 --> 00:06:42,350
+o algunos otros virus, pero el VIH en particular
+
+125
+00:06:42,350 --> 00:06:45,350
+se asocia a raza negra también, hay que saberlo,
+
+126
+00:06:45,350 --> 00:06:48,350
+y suele ser causa de síndrome nefrótico puro también.
+
+127
+00:06:48,350 --> 00:06:50,350
+Porque recordemos que las nefróticas impuras
+
+128
+00:06:50,350 --> 00:06:53,350
+habitualmente son la glomérulo neflitis
+
+129
+00:06:53,350 --> 00:06:55,350
+y esta es una glomérulopatía
+
+130
+00:06:55,350 --> 00:06:57,350
+que se llama gloméruloesclerosis focal y segmentaria.
+
+131
+00:06:57,350 --> 00:06:59,350
+¿Quedó claro?
+
+132
+00:06:59,350 --> 00:07:00,350
+Esperemos que sí.
+
+133
+00:07:00,350 --> 00:07:02,350
+Así que nos vemos en los siguientes temas.
+
+134
+00:07:02,350 --> 00:07:03,350
+Que estén bien.

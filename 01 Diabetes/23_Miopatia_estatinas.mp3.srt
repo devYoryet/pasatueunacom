@@ -1,0 +1,339 @@
+1
+00:00:03,220 --> 00:00:08,020
+Hola, hola. Hablemos de las miopatías por estatinas. Al menos en medicina siempre
+
+2
+00:00:08,020 --> 00:00:13,020
+nos enseñan que las estatinas tienen riesgos de mialgia, de randomiólisis, de cosas
+
+3
+00:00:13,020 --> 00:00:16,900
+relacionadas con los músculos, pero adelantemos que son bastante infrecuentes
+
+4
+00:00:16,900 --> 00:00:20,980
+y que por el general las estatinas son fármacos eficaces, que reducen la
+
+5
+00:00:20,980 --> 00:00:24,300
+mortalidad por infarto y por patología cardiovascular, y son
+
+6
+00:00:24,300 --> 00:00:29,700
+bastante seguras, pero sepan que hay dos tipos de miopatías o de síntomas
+
+7
+00:00:29,700 --> 00:00:35,020
+relacionados a daño muscular por estatinas. Por un lado están las no
+
+8
+00:00:35,020 --> 00:00:39,660
+severas, dígase miálgias, un poquito de debilidad, y con las secas que pueden
+
+9
+00:00:39,660 --> 00:00:44,100
+estar absolutamente normales o bien un poquito elevadas, y las otras son las
+
+10
+00:00:44,100 --> 00:00:48,700
+más severas, que la más importante son la randomiólisis y aparte de eso la
+
+11
+00:00:48,700 --> 00:00:53,940
+mionecrosis, que puede ser una especie de reacción inmune y que
+
+12
+00:00:53,940 --> 00:00:58,620
+en el caso de que esté mediada por estatinas, obviamente hay que suspenderlas
+
+13
+00:00:59,420 --> 00:01:03,980
+En estos dos casos suele venir con la seca muy elevada, y de hecho el solo
+
+14
+00:01:03,980 --> 00:01:08,820
+hecho que la seca esté muy elevada en contexto del uso de estatinas ya me
+
+15
+00:01:08,820 --> 00:01:12,700
+hace sospechar fuertemente que hay una complicación severa. Ahora, ¿cuál es
+
+16
+00:01:12,700 --> 00:01:17,600
+el manejo de esto? Número uno, buscar otra causa. Al menos en las no
+
+17
+00:01:17,600 --> 00:01:21,540
+severas yo tengo tiempo para buscar una causa antes de suspender las
+
+18
+00:01:21,540 --> 00:01:25,940
+estatinas, y en ese caso le puedo pedir una TCH en busca de hipotiroidismo,
+
+19
+00:01:25,940 --> 00:01:29,460
+que es una causa de miopatía bien frecuente, y los niveles de vitamina D
+
+20
+00:01:29,460 --> 00:01:34,460
+también, que si está bajo eso me puede generar mialgias, etcétera. Ahora, luego
+
+21
+00:01:34,460 --> 00:01:38,420
+de eso se suspende y veo si es que se mejoran los síntomas, porque si no se
+
+22
+00:01:38,420 --> 00:01:42,860
+mejoran nunca, obviamente era causado o por una enfermedad
+
+23
+00:01:42,860 --> 00:01:46,820
+autoinmune, por ejemplo una polimiositis, una polimiaje aromática,
+
+24
+00:01:46,820 --> 00:01:51,180
+o por alguna cosa que produzca dolor sin nada mucho más grave como
+
+25
+00:01:51,180 --> 00:01:54,620
+una fibromialgia. Así que es muy importante que antes de creerle al
+
+26
+00:01:54,620 --> 00:01:58,980
+paciente que la causa de su mialgia son las estatinas, se busque otra causa
+
+27
+00:01:58,980 --> 00:02:05,060
+y se vea que los síntomas desaparezcan al suspender el medicamento.
+
+28
+00:02:05,060 --> 00:02:09,740
+Ahora, una vez que se suspenden y que desaparecen lo ideal es iniciar una
+
+29
+00:02:09,740 --> 00:02:15,380
+estatina diferente, y dentro de esas la fluvastatina, la pravastatina y la
+
+30
+00:02:15,380 --> 00:02:19,100
+pitavastatina son las que tienen menos riesgo de mialgia por el
+
+31
+00:02:19,100 --> 00:02:23,420
+general, pero tienen un problema que si bien tienen un bajísimo riesgo de
+
+32
+00:02:23,420 --> 00:02:29,060
+mialgia no son tan potentes para bajar el LDL, así que muchas veces uno se
+
+33
+00:02:29,060 --> 00:02:33,540
+queda con la duda acá y si le dejo su bastatina mejor que tiene un poquito
+
+34
+00:02:33,540 --> 00:02:40,340
+menos de riesgo de mialgia, pero el impacto en el LDL es un poquito
+
+35
+00:02:40,340 --> 00:02:43,740
+mejor, así que tengo esas dos opciones y la última opción que hay
+
+36
+00:02:43,740 --> 00:02:47,220
+también es bajarle la dosis. Ejemplo, el sistema público a lo
+
+37
+00:02:47,220 --> 00:02:52,740
+mejor no haya suficientes recursos como para darle algo diferente a la
+
+38
+00:02:52,740 --> 00:02:56,860
+atorvastatina, así que en ese caso simplemente si estaba con 80 milígramos
+
+39
+00:02:56,860 --> 00:03:02,140
+se lo bajo a 40 milígramos y veo cómo va. En el caso de la recurrencia, a
+
+40
+00:03:02,140 --> 00:03:05,900
+pesar de haber hecho estas cosas, de haber cambiado por una estatina
+
+41
+00:03:05,900 --> 00:03:09,500
+distinta o haber bajado esta dosis, pues no me queda más que
+
+42
+00:03:09,500 --> 00:03:15,140
+cambiarme de medicamento al Estimide, que acuérdense que impedía la
+
+43
+00:03:15,140 --> 00:03:19,540
+absorción a nivel intestinal del LDL, así que sirve bastante, pero
+
+44
+00:03:19,700 --> 00:03:25,900
+recordando que es un poquito menos eficaz que las estatinas. Ahora, si es
+
+45
+00:03:25,900 --> 00:03:29,580
+que viene con una de estas complicaciones más severa, aquí estoy
+
+46
+00:03:29,580 --> 00:03:33,780
+obligado a suspender sí o sí y no lo puedo reiniciar, sino que por el
+
+47
+00:03:33,780 --> 00:03:37,540
+contrario hay que hacer el manejo de la rhabdomiólisis, de la
+
+48
+00:03:37,540 --> 00:03:40,260
+mionecrosis, en el caso de la rhabdomiólisis con todo el
+
+49
+00:03:40,260 --> 00:03:43,380
+manejo de la falla renal, con la hidratación con serofisiológico y
+
+50
+00:03:43,380 --> 00:03:47,780
+en la mionecrosis obviamente con corticoides endovenoso, etcétera, y
+
+51
+00:03:47,900 --> 00:03:51,660
+aparte de eso tengo que ver si no estará interactuando con algún
+
+52
+00:03:51,660 --> 00:03:54,940
+otro fármaco, dado que es muy infrecuente que haya una
+
+53
+00:03:54,940 --> 00:03:58,780
+rhabdomiólisis por estatina, así que igualmente hay que ver que
+
+54
+00:03:58,780 --> 00:04:02,940
+no haya alguna otra causa que sea evidente y ver con qué fármaco
+
+55
+00:04:03,940 --> 00:04:07,380
+pueda estar interactuando, y dentro de esto el ejemplo más
+
+56
+00:04:07,380 --> 00:04:12,340
+clásico son los fibratos, de hecho la típica pregunta es ¿puedo
+
+57
+00:04:12,340 --> 00:04:15,660
+yo mezclar una estatina con un fibrato? y la respuesta es, con
+
+58
+00:04:15,660 --> 00:04:19,100
+el higienfibroxilo no, en el sentido en que se dispara el
+
+59
+00:04:19,100 --> 00:04:22,620
+riesgo de rhabdomiólisis, pero sí se puede con el fenofibrato
+
+60
+00:04:22,620 --> 00:04:25,820
+con mucho cuidado y solamente se hace en casos de
+
+61
+00:04:25,820 --> 00:04:29,180
+hipercolesterolemia, con una hipertirolemia muy alta que
+
+62
+00:04:29,180 --> 00:04:33,900
+no baja suficientemente con la estatina sola, en este
+
+63
+00:04:33,900 --> 00:04:37,420
+caso que dice que después de suspender en el caso de una
+
+64
+00:04:37,420 --> 00:04:40,220
+complicación severa, pues el único fármaco que me queda
+
+65
+00:04:40,220 --> 00:04:43,500
+para seguir manejándolo es el escetimide, así que
+
+66
+00:04:43,580 --> 00:04:48,380
+finalmente el escetimide se deja en lugar de la estatina
+
+67
+00:04:48,380 --> 00:04:51,340
+cuando hay que suspenderla de manera definitiva, ya sea
+
+68
+00:04:51,340 --> 00:04:53,900
+porque tuvo una complicación severa o ya sea porque tuvo
+
+69
+00:04:53,900 --> 00:04:56,780
+una complicación no tan severa, pero que no hubo cómo
+
+70
+00:04:56,780 --> 00:04:59,180
+manejarla con otras estatinas o con una dosis más baja.
+
+71
+00:05:00,220 --> 00:05:03,980
+Ahora, la última cosa es, yo le pido secada de control a
+
+72
+00:05:03,980 --> 00:05:07,260
+los pacientes con estatinas que están sin ningún síntoma,
+
+73
+00:05:07,260 --> 00:05:10,620
+sin ninguna cosa, y la respuesta es no, solamente se
+
+74
+00:05:10,620 --> 00:05:13,580
+piden en los pacientes que tienen síntomas, que tienen
+
+75
+00:05:13,580 --> 00:05:16,700
+mialgia, que tienen alguna otra cosa o bien en los
+
+76
+00:05:16,700 --> 00:05:19,260
+pacientes que vienen con falla renal, en el sentido en
+
+77
+00:05:19,260 --> 00:05:23,100
+que ahí aumenta un poquito el riesgo, pero que quede bien
+
+78
+00:05:23,100 --> 00:05:26,780
+claro que andar pidiendo seca por pedirlas no está
+
+79
+00:05:26,780 --> 00:05:30,540
+indicado, aunque siempre sirve el tener una seca
+
+80
+00:05:30,540 --> 00:05:33,100
+basal antes de iniciar el tratamiento con estatinas
+
+81
+00:05:33,100 --> 00:05:36,060
+como para tener alguna idea general que no venga con
+
+82
+00:05:36,060 --> 00:05:39,340
+alguna otra miopatía, por ejemplo. Así que solo sí
+
+83
+00:05:39,340 --> 00:05:42,620
+síntomas, ese es el resumen. Y bueno, eso fue todo de esta
+
+84
+00:05:42,620 --> 00:05:44,620
+clase muy corta, así que nos vemos en el siguiente video.
+
+85
+00:05:44,620 --> 00:05:45,100
+Que estén bien.

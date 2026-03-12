@@ -1,0 +1,475 @@
+1
+00:00:03,180 --> 00:00:07,700
+Hola, ¿cómo están? Vamos a hablar del derrame pleural que es un tema que hay que saber manejar.
+
+2
+00:00:07,700 --> 00:00:13,380
+Sepan que su clínica por el general es o asintomático o bien viene con disnea y en algunos
+
+3
+00:00:13,380 --> 00:00:19,620
+casos, en particular cuando de base hay algo que pueda generar algo de dolor, puede venir
+
+4
+00:00:19,620 --> 00:00:25,640
+con un dolor tipo puntada de costado o dolor pleurítico. Aparte de esto, en los casos más
+
+5
+00:00:25,640 --> 00:00:30,780
+grandes se puede ocultar una disminución del mumullo pulmonar con matidez más la
+
+6
+00:00:30,780 --> 00:00:39,540
+egofonía que es que al ocultar la transmisión de la voz en vez de escucharse como habitualmente
+
+7
+00:00:39,540 --> 00:00:45,480
+se escucha que se escucha en vez de que diga 33 se escucha tu tu tu y si que está con una
+
+8
+00:00:45,480 --> 00:00:50,620
+neumonía y hay broncofonía se escucha 33 la egofonía en cambio que suena como una voz de
+
+9
+00:00:50,620 --> 00:00:57,980
+cabra 33 en ese caso uno dice bueno esto me hace sospechar un derrame pleural. El diagnóstico
+
+10
+00:00:57,980 --> 00:01:03,420
+es con la radiografía de tórax de esa manera se objetiva que hay un derrame pero lo más
+
+11
+00:01:03,420 --> 00:01:08,580
+importante es que debe ir a una punción dado que lo importante del derrame es buscar directamente
+
+12
+00:01:08,580 --> 00:01:14,180
+su etiología. En la práctica se funcionan todos o casi todos los derrames la única
+
+13
+00:01:14,180 --> 00:01:21,620
+excepción sería un derrame muy pequeño con una causa como evidente y muy pequeño es
+
+14
+00:01:21,620 --> 00:01:26,860
+porque habitualmente hace difícil la función misma. Ahora la función por el general se
+
+15
+00:01:26,860 --> 00:01:32,140
+hace guiado por ecografía en la actualidad dado que disminuye el riesgo de neumotógrax y de
+
+16
+00:01:32,140 --> 00:01:38,060
+otras complicaciones. Lo primero que uno revisa son los famosos criterios de light. Esos son
+
+17
+00:01:38,060 --> 00:01:44,060
+fundamentales es lo que me permite hacer la diferencia entre un transudado que es todo un
+
+18
+00:01:44,060 --> 00:01:50,220
+grupo de derrames pleurales de un exudado que son los más importantes desde el punto de
+
+19
+00:01:50,220 --> 00:01:55,260
+vista médico sabiendo que los transudados son los más frecuentes. Sepan que el primer
+
+20
+00:01:55,260 --> 00:02:02,660
+criterio de light es la LDH que la relación pleura plasma sea mayor a 0.6 o mayor a 60 por
+
+21
+00:02:02,660 --> 00:02:08,340
+ciento o sea la LDH de líquido pleural dividido por la LDH plasmática o sea tengo que tomar
+
+22
+00:02:08,340 --> 00:02:14,260
+las dos muestras la de líquido pleural y la de sangre que sea mayor a 0.6. La otra es
+
+23
+00:02:14,260 --> 00:02:20,300
+que la LDH de la pleura sola sea mayor a dos tercios del máximo soportado para el plasma
+
+24
+00:02:20,300 --> 00:02:26,660
+o sea en la práctica que esté arriba de 180 dado que en la mayor parte de los laboratorios
+
+25
+00:02:26,660 --> 00:02:33,420
+el corte de la LDH plasmática es 270 y dos tercios de 270 es 180 así que en ese caso
+
+26
+00:02:33,420 --> 00:02:40,500
+solamente tengo una muestra la muestra pleural. El tercero es la relación de las proteínas
+
+27
+00:02:40,500 --> 00:02:45,500
+totales no solamente de la LDH sino que de las proteínas en general en una relación
+
+28
+00:02:45,500 --> 00:02:52,580
+pleura plasma mayor a 50 por ciento o mayor a 0.5 y finalmente se agrega en varias guías el
+
+29
+00:02:52,580 --> 00:03:02,580
+colesterol solo arriba de 40 o arriba de 45 en la pleura o sea fíjense la LDH arriba de 180
+
+30
+00:03:02,580 --> 00:03:11,060
+y el colesterol solo arriba de 40 o de 45 son algunos exámenes que me permiten hacer la
+
+31
+00:03:11,060 --> 00:03:16,980
+diferencia sin ver los resultados de la sangre en cambio en los otros tengo que hacer el cálculo
+
+32
+00:03:16,980 --> 00:03:24,220
+si es que está absolutamente normal y no tiene ninguno de esos criterios uno habla de un
+
+33
+00:03:24,220 --> 00:03:30,580
+transudado si es que tiene un criterio o más en ese caso es un exudado basta un criterio
+
+34
+00:03:30,580 --> 00:03:36,340
+para que sea un exudado y lo más frecuente es que uno ve la LDH y con eso ya sabe
+
+35
+00:03:36,340 --> 00:03:40,940
+inmediatamente si es que es un transudado o un exudado una vez que ya he visto los criterios
+
+36
+00:03:40,940 --> 00:03:45,100
+de light y ya vi si es que era un transudado o un exudado hay que saber que los transudados
+
+37
+00:03:45,100 --> 00:03:53,180
+es simplemente que sale agua desde los vasos sanguíneos desde los tejidos hacia el espacio
+
+38
+00:03:53,180 --> 00:03:57,580
+pleural y la causa más importante son la insuficiencia cardíaca el daño hepático crónico
+
+39
+00:03:57,580 --> 00:04:02,900
+y el síndrome nefrótico y ahí la conducta es simplemente tratar la causa si se fijan es
+
+40
+00:04:02,900 --> 00:04:07,900
+extravasación de líquido ya sea por un aumento de la presión hidroestática capilar como ocurre
+
+41
+00:04:07,900 --> 00:04:13,340
+la insuficiencia cardíaca o por una caída en la presión oncótica capilar porque hay pocas
+
+42
+00:04:13,340 --> 00:04:17,580
+proteínas en el plasma como ocurre en el síndrome nefrótico o en el daño hepático ahora
+
+43
+00:04:17,580 --> 00:04:22,020
+cuando tengo un exudado en cambio hay que ir a buscar dirigidamente la causa habitualmente
+
+44
+00:04:22,020 --> 00:04:26,180
+son causas inflamatorias aunque pueden ser otras también pero lo más frecuente es que haya
+
+45
+00:04:26,180 --> 00:04:31,340
+una exudación activa de líquido por aumento de la permeabilidad por inflamación y en este
+
+46
+00:04:31,340 --> 00:04:36,460
+caso se subdividen en de predominio polimorforo nuclear y de predominio mononuclear los
+
+47
+00:04:36,460 --> 00:04:41,940
+polimorforo nucleares habitualmente se asocian a las neumonías dígase los derrames para
+
+48
+00:04:41,940 --> 00:04:48,820
+neumónico simple o no infectado y aparte están los derrames para neumónicos complicados
+
+49
+00:04:48,820 --> 00:04:55,420
+o infectados o en piema ahora en piema y derrame para neumónico complicado son más
+
+50
+00:04:55,580 --> 00:05:00,980
+o menos lo mismo ahora el piema es el que viene con pus a la inspección del líquido
+
+51
+00:05:00,980 --> 00:05:06,100
+pleural así que sería como una diferencia más cualitativa pero desde el punto de
+
+52
+00:05:06,100 --> 00:05:11,580
+vista del análisis citoquímico y del manejo el complicado y el piema son exactamente
+
+53
+00:05:11,580 --> 00:05:16,060
+igual en cambio el derrame para neumónico simple se maneja diferente porque repito
+
+54
+00:05:16,060 --> 00:05:21,020
+ese no está infectado ahora la diferencia entre ambos se hace con esos parámetros
+
+55
+00:05:21,060 --> 00:05:26,900
+el pH el lactato y el gramicultivo en el caso del derrame para neumónico simple el pH está
+
+56
+00:05:26,900 --> 00:05:33,980
+arriba de 7,2 habitualmente está arriba de 7,4 incluso el lactato está menos de 5 milimol
+
+57
+00:05:33,980 --> 00:05:38,220
+por litro y tanto el gram como el cultivo están negativos para bacterias o sea uno dice
+
+58
+00:05:38,220 --> 00:05:44,980
+ese es un líquido que no se ve ni acidótico ni con presencia de bacterias así que sería
+
+59
+00:05:44,980 --> 00:05:52,180
+simple no infectado en cambio el piema viene con todos los parámetros al revés o sea con un
+
+60
+00:05:52,180 --> 00:05:59,140
+pH que está abajo de 7,2 con un lactato que está arriba de 5 o con un gram o cultivo que
+
+61
+00:05:59,140 --> 00:06:06,100
+ven bacterias ahora en este caso me basta un criterio para que esto ya sea considerado un
+
+62
+00:06:06,100 --> 00:06:11,620
+derrame para neumónico complicado ahora el derrame para neumónico simple se maneja
+
+63
+00:06:11,620 --> 00:06:17,740
+simplemente con antibióticos el derrame si se drena pero en la misma tora cosente si y no
+
+64
+00:06:17,740 --> 00:06:22,780
+es necesario hacer nada más en cambio el empiema tiene que quedar con un tubo pleural que queda
+
+65
+00:06:22,780 --> 00:06:27,940
+drenando por varios días y en los casos más complicados en que no drena eventualmente hay
+
+66
+00:06:27,940 --> 00:06:34,420
+que ir a de corticar o hay que ir a sacar como para que pueda drenar bien de hecho el
+
+67
+00:06:34,420 --> 00:06:39,820
+manejo habitual de un empiema que se tabica es el tubo si con el tubo no ando bien se le
+
+68
+00:06:39,820 --> 00:06:44,980
+dan los fibrino líticos e pleurales y si no anda bien con eso también pues no queda más que
+
+69
+00:06:44,980 --> 00:06:51,100
+hacer una videotoracoscopia videotoracoscopia perdón para poder drenar en el caso de los
+
+70
+00:06:51,100 --> 00:06:56,340
+depredominium mononuclear los dos más importantes son la tuberculosis y el cáncer y la forma
+
+71
+00:06:56,340 --> 00:07:00,940
+de hacer la diferencia es con la adenosina de aminasa la famosa ada con las vasiloscopías
+
+72
+00:07:00,940 --> 00:07:07,980
+obviamente y con la biopsia pleural en general el ada es lo más fácil de ver suele estar
+
+73
+00:07:07,980 --> 00:07:14,180
+arriba de 50 en la tuberculosis suele estar en cambio abajo de 30 en el cáncer pero sepan
+
+74
+00:07:14,180 --> 00:07:20,780
+que un buen corte es 40 arriba de 40 tuberculosis abajo de 40 lo más probable es que no sea
+
+75
+00:07:20,780 --> 00:07:25,180
+tuberculosis pero si es que queremos hilar un poquito más fino arriba de 50 y abajo de 30
+
+76
+00:07:25,180 --> 00:07:30,860
+las vasiloscopías en la tuberculosis pueden estar positivas y ahí confirman o bien pueden
+
+77
+00:07:30,860 --> 00:07:36,980
+estar negativas no tienen buen rendimiento ni la vasiloscopia ni la pcr en la tuberculosis
+
+78
+00:07:36,980 --> 00:07:42,900
+pleural y finalmente la biopsia que es el examen que tiene un rendimiento más alto ahí sí se ven
+
+79
+00:07:42,900 --> 00:07:50,460
+los vasilos de la tuberculosis cierto que se ven como vasilos ácido alcohol resistente respecto
+
+80
+00:07:50,460 --> 00:07:56,660
+al cáncer los parámetros son los que están ahí menor a 30 helada la vasiloscopia obviamente
+
+81
+00:07:56,660 --> 00:08:02,460
+negativa y la biopsia que me va a mostrar que hay un cáncer de pleura ahora la tuberculosis
+
+82
+00:08:02,460 --> 00:08:09,020
+se trata con los antibióticos de la misma tuberculosis pulmonárdiga se con rifampicina
+
+83
+00:08:09,020 --> 00:08:15,340
+y cionazía piracinamida y etambutol y el cáncer pues se maneja con cirugía quimioterapia
+
+84
+00:08:15,340 --> 00:08:20,660
+radioterapia etcétera ahora cuando se biopsian los derrames mononucleares pues
+
+85
+00:08:20,660 --> 00:08:26,060
+habitualmente se biopsian dado que va a buscar el cáncer como una de las causas más
+
+86
+00:08:26,060 --> 00:08:31,340
+importantes y además porque la biopsia es el examen que tiene mayor rendimiento en la
+
+87
+00:08:31,340 --> 00:08:37,180
+tuberculosis sabiendo que si tengo un derrame mononuclear que es categórico para tuberculosis
+
+88
+00:08:37,180 --> 00:08:42,620
+eventualmente no es obligatorio hacer la biopsia finalmente dentro de los mononucleares hay
+
+89
+00:08:42,620 --> 00:08:48,500
+algunos otros más raros como el derrame que se asocia a tritirromatoide o al lupus que en
+
+90
+00:08:48,500 --> 00:08:53,300
+ese caso vienen con el antecedente de esas enfermedades o bien el derrame asociado a
+
+91
+00:08:53,300 --> 00:08:58,140
+un linfoma que como una de sus características importantes es que vienen con nada alta
+
+92
+00:08:58,140 --> 00:09:04,060
+también y que eventualmente se pueden confundir con un derrame tuberculoso ahora
+
+93
+00:09:04,060 --> 00:09:09,620
+veamos unos muy poquitos detalles del estudio del líquido plural sepan que si yo tengo
+
+94
+00:09:09,620 --> 00:09:15,820
+una empiema o un líquido polimorfo nuclear con muchas células y con el hada muy alta
+
+95
+00:09:15,820 --> 00:09:21,620
+eso es una empiema y eso es un error muy clásico en que hay una empiema con una hada
+
+96
+00:09:21,620 --> 00:09:26,020
+de 100 y me dicen tuberculosis pero no es tuberculosis es una empiema y la gran diferencia
+
+97
+00:09:26,020 --> 00:09:31,340
+es que viene con el predominio mononuclear con el pH bajo con ese tipo de cosas cuando yo
+
+98
+00:09:31,340 --> 00:09:36,940
+tengo un derrame hemorrágico una de las causas de esto es el tep así que si alguien viene con
+
+99
+00:09:36,940 --> 00:09:41,660
+una clínica que eventualmente puede ser un tep más un derrame hemorrágico eso es un tep
+
+100
+00:09:41,660 --> 00:09:46,740
+o al menos es lo más probable así que hay que hay que anticoagularlo aunque venga con una
+
+101
+00:09:46,740 --> 00:09:51,020
+hemorragia en la pleura que quede bien claro si es que yo tengo un citoquímico que es
+
+102
+00:09:51,020 --> 00:09:59,180
+categórico de tuberculosis pues en ese caso número uno hago un estudio de TBC pulmonar o sea
+
+103
+00:09:59,180 --> 00:10:05,540
+la vaciloscopia la PCR de expectoración y en segundo lugar si es que no encuentro una
+
+104
+00:10:05,540 --> 00:10:10,260
+TBC pulmonar recién ahí voy a ir a buscar dirigidamente el estudio de la TBC pleural
+
+105
+00:10:10,260 --> 00:10:16,980
+con la eventual biopsia o con el cultivo de líquido pleural ahora la vaciloscopia la
+
+106
+00:10:16,980 --> 00:10:24,460
+PCR y la biopsia de la pleura son los exámenes que justamente van a buscar el vacilo de la
+
+107
+00:10:24,460 --> 00:10:30,380
+pleura también y hay que saber que la biopsia es el que tiene un rendimiento más alto pero
+
+108
+00:10:30,380 --> 00:10:35,540
+cualquiera de los otros que encuentre el vacilo de la tuberculosis pues obviamente
+
+109
+00:10:35,540 --> 00:10:41,500
+es diagnóstico ahora finalmente si yo tengo un exudado mononuclear que no es categórico de
+
+110
+00:10:41,500 --> 00:10:46,900
+una tuberculosis pues en ese caso si va a la biopsia pleural y acuérdense que la forma
+
+111
+00:10:46,900 --> 00:10:52,900
+que se hace habitualmente es por vía percutánea o por videotoracoscopía ambos son de un
+
+112
+00:10:52,900 --> 00:10:58,100
+rendimiento similar y que se haga uno u otro va a depender de la disponibilidad de equipos
+
+113
+00:10:58,100 --> 00:11:03,860
+y del entrenamiento del personal en un determinado lugar ahora aquí se ve una imagen
+
+114
+00:11:03,860 --> 00:11:09,160
+de un derrame pleural acuérdense que se borra el receso costodiafragmático aquí en
+
+115
+00:11:09,200 --> 00:11:16,320
+el lado izquierdo se ve el receso en cambio en el lado derecho está absolutamente borrado y ahí
+
+116
+00:11:16,320 --> 00:11:21,840
+está con una línea amarilla en donde debería haberse visto y finalmente se ve esta famosa
+
+117
+00:11:21,840 --> 00:11:28,480
+curva de damoassau que es lo más característico y que ayuda a diferenciar al derrame plural de
+
+118
+00:11:28,480 --> 00:11:33,120
+una neumonía por ejemplo que igualmente se puede ver con velamiento de la base y eso
+
+119
+00:11:33,120 --> 00:11:34,480
+es todo nos vemos en el siguiente vídeo

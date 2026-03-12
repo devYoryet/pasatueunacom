@@ -1,0 +1,211 @@
+1
+00:00:00,000 --> 00:00:16,690
+Hola, ¿cómo están? Hablemos de la polimiositis y de la dermatomiositis, que son un conjunto de enfermedades que se asocian a afectación de los músculos, la miositis, y en el caso de la dermatomiositis, además, afectación de la piel. Eso es lo más importante.
+
+2
+00:00:16,690 --> 00:00:26,690
+Ahora, ¿cuál es su clínica? Como buena miopatía, viene con debilidad de predominio proximal, a diferencia de las neuropatías, en cambio, que vienen con debilidad de predominio distal.
+
+3
+00:00:26,690 --> 00:00:35,690
+Segundo lugar, en el caso de la dermatomiositis, viene con un compromiso cutáneo bien característico. Hay tres rash que hay que saber, hay que saber identificarlos, ¿cierto?
+
+4
+00:00:35,690 --> 00:00:40,690
+Que son el rash heliotropo, que es el que aparece habitualmente alrededor de los ojos.
+
+5
+00:00:40,690 --> 00:00:46,690
+El lugar más frecuente son los párpados superiores, pero puede estar también en los párpados inferiores, me dieron un poquito de edema también.
+
+6
+00:00:47,690 --> 00:00:58,690
+Y se llama heliotropo porque tiene el color de una flor que se llama heliotropo, que es un poco lilacia, como violacia. Es un rash bien lila o morado.
+
+7
+00:00:58,690 --> 00:01:05,690
+Segundo lugar, viene el rash en manto, que habitualmente afecta el pecho, los hombros y la espalda.
+
+8
+00:01:05,690 --> 00:01:12,690
+Y finalmente, el rash de gotrón o las pápulas de gotrón, que son unas lesiones eritematosas que aparecen sobre los nudillos,
+
+9
+00:01:12,690 --> 00:01:18,690
+ya sea de las metacarpofalángicas o de las articulaciones interfalángicas, tanto proximales como distales.
+
+10
+00:01:18,690 --> 00:01:26,690
+No son las únicas afectaciones, aparte está la fibrosis pulmonar, por ejemplo, en particular en el síndrome anti-sintetasa,
+
+11
+00:01:26,690 --> 00:01:34,690
+que se asocia a los anticuerpos anti-HO1, y además puede venir con algo de disfagia, aunque la disfagia es más característica de otra enfermedad
+
+12
+00:01:35,690 --> 00:01:40,690
+que es la esclerodermia, por si acaso, pero se puede ver también tanto la dermatomidositis como en la amidositis,
+
+13
+00:01:40,690 --> 00:01:45,690
+por el hecho que están afectando a los músculos, incluyendo los músculos del esófago también.
+
+14
+00:01:45,690 --> 00:01:49,690
+Se pueden afectar otros músculos como el músculo cardíaco también, por si acaso.
+
+15
+00:01:49,690 --> 00:01:56,690
+¿Cómo se hace el diagnóstico? Por la general es con la clínica, ya dijimos la debilidad proximal es el síntoma cardinal,
+
+16
+00:01:56,690 --> 00:02:05,690
+más la CK elevada, en el sentido en que la creatin-kinasa o CPK, la creatin-fosfokinasa, es el marcador de daño muscular más importante
+
+17
+00:02:05,690 --> 00:02:09,690
+y en ambas enfermedades tiende a elevarse bastante.
+
+18
+00:02:09,690 --> 00:02:16,690
+En el caso de que tenga el compromiso cutáneo propio de la dermatomidositis, el diagnóstico habitualmente es clínico también
+
+19
+00:02:16,690 --> 00:02:20,690
+y con la CK ya no se necesita absolutamente ningún examen adicional.
+
+20
+00:02:21,690 --> 00:02:27,690
+En cambio, cuando me queda la duda, en ese caso suelo tener que complementarlo con algún examen de apoyo
+
+21
+00:02:27,690 --> 00:02:34,690
+y lo más importante son, por un lado, la biopsia de músculo, que se muestra justamente el ataque del sistema inmunitario en contra de los músculos.
+
+22
+00:02:34,690 --> 00:02:40,690
+Segundo lugar, la electromiografía, que me muestra una conducción nerviosa normal porque no hay neuropatía,
+
+23
+00:02:40,690 --> 00:02:44,690
+pero con una afectación de la respuesta muscular porque hay una miopatía.
+
+24
+00:02:44,690 --> 00:02:52,690
+Y finalmente, alguna imagen como ejemplo de la resonancia magnética nuclear que también me puede demostrar algún grado de la afectación muscular.
+
+25
+00:02:52,690 --> 00:02:56,690
+¿Qué anticuerpos eran los marcadores de la dermatomidositis y de la polimidositis?
+
+26
+00:02:56,690 --> 00:03:04,690
+En particular, de la dermatomidositis se han descrito estos anticuerpos, el HO1, el MI2, el SRP, entre otros.
+
+27
+00:03:04,690 --> 00:03:11,690
+Hay otros más, por su caso, pero el anti-HO1 es, insisto, el que hay que saber porque es el que se asocia a fibrosis pulmonar,
+
+28
+00:03:11,690 --> 00:03:18,690
+es el que se asocia al síndrome anti-sintetasa, que se caracteriza por afectación cutánea, afectación muscular y afectación pulmonar,
+
+29
+00:03:18,690 --> 00:03:21,690
+o sea, en resumen, dermatomidositis más fibrosis pulmonar.
+
+30
+00:03:21,690 --> 00:03:27,690
+El tratamiento de la polimidositis y de la dermatomidositis es muy similar porque la general es con corticoides,
+
+31
+00:03:27,690 --> 00:03:33,690
+suelen responder relativamente bien y en algunas oportunidades hay que agregarle un ahorrador de corticoides,
+
+32
+00:03:33,690 --> 00:03:35,690
+pero sigue siendo eso manejo del especialista.
+
+33
+00:03:35,690 --> 00:03:38,690
+Lo que el médico general tiene que saber es reconocerle el cuadro clínico,
+
+34
+00:03:38,690 --> 00:03:41,690
+así que veamos inmediatamente algunas imágenes.
+
+35
+00:03:41,690 --> 00:03:46,690
+Eso sí, algo adicional, siempre hay que buscar un cáncer en la dermatomidositis,
+
+36
+00:03:46,690 --> 00:03:50,690
+en el sentido en que suele ser una manifestación paraneoplásica
+
+37
+00:03:50,690 --> 00:03:54,690
+y en un porcentaje no despreciable de los casos hay un cáncer de base
+
+38
+00:03:54,690 --> 00:04:00,690
+en el cual va a ser muy importante buscar y detectar para manejarlo a tiempo desde el punto de vista oncológico también.
+
+39
+00:04:00,690 --> 00:04:07,690
+Aquí se ve el clásico rash eliotropo, fíjense que se ve un poco más violáceo, un poco más morado en particular.
+
+40
+00:04:07,690 --> 00:04:12,690
+Se ve aquí tanto en párpados superiores como los párpados inferiores y viene con algún grado de edema.
+
+41
+00:04:12,690 --> 00:04:15,690
+Este es otro caso nuevamente con el color bien característico,
+
+42
+00:04:15,690 --> 00:04:19,690
+en este caso también afecta tanto los párpados superiores como los inferiores,
+
+43
+00:04:19,690 --> 00:04:26,690
+recordando que el lugar más frecuente y que hay que ir a buscar dirigidamente en alguien con debilidad proximal son los párpados superiores.
+
+44
+00:04:26,690 --> 00:04:30,690
+Este es el rash en manto más clásico, ahí con afectación en el pecho.
+
+45
+00:04:30,690 --> 00:04:35,690
+Este es el mismo un poco más morado y más grave, cierto que no solamente está en el cuello y la espalda alta,
+
+46
+00:04:35,690 --> 00:04:40,690
+sino que en este caso está en la espalda baja también, es como una exacerbación de la dermatomiositis.
+
+47
+00:04:40,690 --> 00:04:46,690
+Y finalmente tengo aquí el rash de gotrón más clásico, cierto, con afectación de los nudillos.
+
+48
+00:04:46,690 --> 00:04:51,690
+Ahora, si me dijeran tiene todo esto pero no tiene debilidad, está con la CK normal,
+
+49
+00:04:51,690 --> 00:04:54,690
+los músculos están estrictamente normales en todos los exámenes,
+
+50
+00:04:54,690 --> 00:05:00,690
+¿eso cómo se llama? Y pues tiene un nombre que es la dermatomiositis amniopática,
+
+51
+00:05:00,690 --> 00:05:06,690
+o sea es una dermatomiositis pero sin afectación de los músculos y se diagnostica solamente con la clínica,
+
+52
+00:05:06,690 --> 00:05:16,690
+es más rara, pero sepan que la distribución del rash es tan característico que su presencia per se ya me confirma que hay una dermatomiositis igual.
+
+53
+00:05:16,690 --> 00:05:20,690
+Y bueno, eso es todo, nos vemos en los siguientes temas, que estén muy bien.

@@ -1,0 +1,439 @@
+1
+00:00:00,000 --> 00:00:07,260
+Hola, hola, ¿cómo están? Hablemos de la insuficiencia suprarrenal, recordando que es
+
+2
+00:00:07,260 --> 00:00:10,980
+una patología que hay que conocer y hay que saber sospechar tanto con la
+
+3
+00:00:10,980 --> 00:00:14,940
+clínica como con los exámenes de laboratorio. Recordemos sus causas, la
+
+4
+00:00:14,940 --> 00:00:18,800
+más frecuente es de causa suprarrenal, en segundo lugar es la causa
+
+5
+00:00:18,800 --> 00:00:22,180
+hipoficiaria, cierto, el hipopituitarismo y dentro de las causas
+
+6
+00:00:22,180 --> 00:00:26,460
+suprarrenales la más frecuente es la adrenalitis autoinmune, seguida
+
+7
+00:00:26,460 --> 00:00:29,580
+luego de la adrenalitis tuberculosa que durante muchos años fue la
+
+8
+00:00:29,580 --> 00:00:33,800
+causa más frecuente pero actualmente debido al tratamiento de la tuberculosis
+
+9
+00:00:33,800 --> 00:00:38,220
+cierto ha bajado mucho y es la autoinmune en cambio la más frecuente. Su clínica
+
+10
+00:00:38,220 --> 00:00:41,940
+hay que saberla con bastante detalle, en primer lugar astenia que es el
+
+11
+00:00:41,940 --> 00:00:45,060
+síntoma más frecuente por lejos, adinamia esa es una clínica
+
+12
+00:00:45,060 --> 00:00:48,740
+relativamente inespecífica al punto que se ve incluso en la enfermedad
+
+13
+00:00:48,740 --> 00:00:53,020
+contraria que es el síndrome de Cushing, cierto. Segundo lugar algunos
+
+14
+00:00:53,020 --> 00:00:56,480
+síntomas igualmente inespecíficos de tipo abdominal, cierto, de tipo
+
+15
+00:00:56,480 --> 00:01:01,700
+digestivo, náuseas, vómitos, dolor abdominal, diarrea, etcétera. En tercer lugar
+
+16
+00:01:01,700 --> 00:01:05,280
+la hiperpigmentación pero esto solamente se ve en la insuficiencia
+
+17
+00:01:05,280 --> 00:01:10,080
+suprarrenal primaria debido que acuérdense al no haber la producción
+
+18
+00:01:10,080 --> 00:01:14,200
+de cortisol aumenta la liberación hipoficiaria de ACTH y esta se
+
+19
+00:01:14,200 --> 00:01:19,480
+libera junto con la MSH que la MSH es la hormona estimulante de los
+
+20
+00:01:19,480 --> 00:01:23,360
+melanocitos y se genera esta hiperpigmentación que como se ve
+
+21
+00:01:23,360 --> 00:01:27,280
+generalmente con melanoplaquias en la boca, cierto, o con zonas
+
+22
+00:01:27,280 --> 00:01:31,280
+hiperpigmentadas en particular en las palmas de las manos, en la cara, en los
+
+23
+00:01:31,280 --> 00:01:35,320
+genitales. Dentro de los exámenes que me orientan a que estoy en contexto
+
+24
+00:01:35,320 --> 00:01:39,560
+de una insuficiencia suprarrenal hay tres que son los más importantes la
+
+25
+00:01:39,560 --> 00:01:44,920
+hipercalemia, la hiponatremia y la hipoglicemia. Cualquiera de esas tres
+
+26
+00:01:44,920 --> 00:01:50,000
+ya sea que estén en rango alterado o que estén en el límite
+
+27
+00:01:50,200 --> 00:01:55,920
+ejemplo un potasio que esté en 3,5 en 3,6 que está normal pero aún así si es
+
+28
+00:01:55,920 --> 00:01:59,640
+que viene con una elisemia de 58 por ejemplo en contexto de una clínica
+
+29
+00:01:59,640 --> 00:02:03,680
+que es compatible me obliga a ir a descartar que no haya una insuficiencia
+
+30
+00:02:03,680 --> 00:02:07,600
+suprarrenal. Algunos otros exámenes que son un poco menos importantes pero
+
+31
+00:02:07,600 --> 00:02:11,880
+que hay que saber que pueden estar también sería la hipercalcemia, la
+
+32
+00:02:11,880 --> 00:02:16,400
+acidosis metabólica y finalmente algún grado de leucocitosis con
+
+33
+00:02:16,400 --> 00:02:20,320
+eosinofilia. Acuérdense, los corticoides bajan a los glóbulos rojos
+
+34
+00:02:20,320 --> 00:02:25,080
+pues la falta a los glóbulos blancos perdón la falta de corticoides en
+
+35
+00:02:25,080 --> 00:02:29,160
+cambio eleva a los glóbulos blancos y a los eosinófilos igualmente.
+
+36
+00:02:29,160 --> 00:02:33,440
+El denóstico de insuficiencia suprarrenal se hace con la prueba de
+
+37
+00:02:33,440 --> 00:02:37,720
+estimulación con ACTH que no quiero que me la confundan con la prueba de
+
+38
+00:02:37,720 --> 00:02:41,560
+supresión con dexametasona que era del Cushing. En el caso del Addison
+
+39
+00:02:41,560 --> 00:02:46,160
+concierto es la prueba con estimulación con ACTH que lo que
+
+40
+00:02:46,160 --> 00:02:51,040
+mide es el cortisol basal y luego el cortisol post ACTH y la forma en que
+
+41
+00:02:51,040 --> 00:02:55,240
+se interpreta es si es que el cortisol basal está demasiado bajo en ese caso
+
+42
+00:02:55,240 --> 00:03:00,160
+se confirma el diagnóstico de inmediato y eso el punto de corte es
+
+43
+00:03:00,160 --> 00:03:04,040
+80 nanomol por litro pero da exactamente igual ese punto de corte
+
+44
+00:03:04,040 --> 00:03:07,280
+lo que importa que si está demasiado bajo me basta una toma para
+
+45
+00:03:07,280 --> 00:03:11,080
+confirmarlo y en cambio si que está en el rango intermedio está abajo de
+
+46
+00:03:11,080 --> 00:03:16,520
+500 en ese caso se estimula con la ACTH cierto y debería subir lo normal es
+
+47
+00:03:16,520 --> 00:03:20,880
+que suba y que llega a más de 500 si eso no ocurre se confirma igualmente el
+
+48
+00:03:20,880 --> 00:03:25,760
+hipocortisolismo la insuficiencia suprarrenal. Algo importante eso el
+
+49
+00:03:25,760 --> 00:03:29,520
+cortisol basal y post ACTH no me diferencia las causas primarias de
+
+50
+00:03:29,520 --> 00:03:34,080
+las causas hipoficiarias así que eso se hace con otros exámenes lo
+
+51
+00:03:34,080 --> 00:03:38,240
+más importante son la ACTH si que está elevada en ese caso el
+
+52
+00:03:38,240 --> 00:03:41,720
+problema obviamente es de las superrenales y justamente la falta de
+
+53
+00:03:41,720 --> 00:03:45,360
+cortisol hace que la hipófisis que está buena aumente su producción de
+
+54
+00:03:45,360 --> 00:03:49,200
+ACTH y además como en las glándulas superrenales se produce la
+
+55
+00:03:49,200 --> 00:03:52,840
+aldosterona la aldosterona va a estar baja porque hay un problema que es
+
+56
+00:03:52,840 --> 00:03:56,560
+primario que es de las superrenales en cambio en las causas hipoficiarias
+
+57
+00:03:56,560 --> 00:04:00,440
+es al revés la ACTH va a estar baja porque justamente la causa es la
+
+58
+00:04:00,440 --> 00:04:04,280
+falta de ACTH y la aldosterona habitualmente va a estar alta como
+
+59
+00:04:04,280 --> 00:04:08,280
+una forma de compensar un poco esta falta de cortisol. El tratamiento de la
+
+60
+00:04:08,280 --> 00:04:13,000
+insuficiencia suprarrenal es con cortisol que es darle justamente lo que
+
+61
+00:04:13,000 --> 00:04:17,160
+le falta más en el caso de que sea de causa suprarrenal de que sea una
+
+62
+00:04:17,160 --> 00:04:20,240
+insuficiencia suprarrenal primaria en ese caso se agrega la
+
+63
+00:04:20,240 --> 00:04:25,120
+fludrocortisona que es el análogo de la aldosterona que es un mineral
+
+64
+00:04:25,120 --> 00:04:30,320
+corticoide que es lo que sirve ahí. Quede muy claro
+
+65
+00:04:30,320 --> 00:04:34,680
+en el caso de que haya estrés de que esté infectado el paciente que haya
+
+66
+00:04:34,680 --> 00:04:38,280
+tenido un traumatismo o cualquier otra cosa que aumente los
+
+67
+00:04:38,280 --> 00:04:42,600
+requerimientos de cortisol en el cuerpo pues hay que aumentar la dosis
+
+68
+00:04:42,600 --> 00:04:46,720
+de manera preventiva. Finalmente es súper importante saber
+
+69
+00:04:46,720 --> 00:04:51,280
+identificar y tratar adecuadamente las crisis superrenales o las crisis
+
+70
+00:04:51,280 --> 00:04:54,360
+adrenales o la insuficiencia suprarrenal aguda que es justamente lo
+
+71
+00:04:54,360 --> 00:04:57,400
+que vamos a ver ahora así que veamos este tema que es muy muy
+
+72
+00:04:57,440 --> 00:05:01,360
+importante de la crisis suprarrenal. Su clínica habitualmente es un paciente
+
+73
+00:05:01,360 --> 00:05:04,760
+que viene hipotenso, que viene choqueado y que no responde a la
+
+74
+00:05:04,760 --> 00:05:08,600
+administración de serofisiológico. Muchas veces se sospecha que es un
+
+75
+00:05:08,600 --> 00:05:12,640
+choque séptico o algún otro choque de tipo vasodilatador y se empieza a
+
+76
+00:05:12,640 --> 00:05:16,080
+manejar con drogas vasoactivas y tampoco anda bien en el sentido en
+
+77
+00:05:16,080 --> 00:05:19,560
+que lo que le falta son los corticoides. Dentro de los exámenes
+
+78
+00:05:19,560 --> 00:05:23,520
+que me orientan inmediatamente a que es una insuficiencia suprarrenal son
+
+79
+00:05:23,520 --> 00:05:26,680
+los mismos que habíamos visto recién, dígase la hipercalemia, la
+
+80
+00:05:26,680 --> 00:05:30,760
+hiponatremia y la hipoglicemia y aparte de esto hay que sospecharlo
+
+81
+00:05:30,760 --> 00:05:34,800
+fuertemente en el caso de que venga con algunos de los antecedentes que
+
+82
+00:05:34,800 --> 00:05:38,400
+orientan a esta enfermedad que es el uso de corticoides orales en el
+
+83
+00:05:38,400 --> 00:05:41,760
+sentido de que ahí se acostumbra a cierta dosis y si lo suspende
+
+84
+00:05:41,760 --> 00:05:46,440
+bruscamente o si se estresa ejemplo porque se infecta puede caer en un
+
+85
+00:05:46,440 --> 00:05:50,920
+déficit al menos funcional de los corticoides. Segundo lugar que venga
+
+86
+00:05:50,920 --> 00:05:53,920
+con clínica de una insuficiencia suprarrenal crónica ejemplo que venga
+
+87
+00:05:53,920 --> 00:05:58,320
+con la hiperpigmentación con las melanoplaquias o alguna cosa así.
+
+88
+00:05:58,320 --> 00:06:01,440
+En tercer lugar que tenga antecedentes de una hiperplasia suprarrenal
+
+89
+00:06:01,440 --> 00:06:05,280
+congénita que la vamos a ver que es una de las causas más importantes
+
+90
+00:06:05,280 --> 00:06:09,800
+de insuficiencia suprarrenal en particular en pediatría y además
+
+91
+00:06:09,800 --> 00:06:14,040
+que venga con alguna enfermedad que se asocie a adrenalitis cierto
+
+92
+00:06:14,040 --> 00:06:19,120
+ejemplo la infección por VIH que se asocia a la adrenalitis por el
+
+93
+00:06:19,120 --> 00:06:22,240
+citomégalovirus que eventualmente puede debutar como una crisis
+
+94
+00:06:22,400 --> 00:06:27,880
+suprarrenal o bien la meningococcemia en el sentido en que se asocia
+
+95
+00:06:27,880 --> 00:06:32,920
+a un infarto bilateral de la suprarrenal de tipo hemorrágico que
+
+96
+00:06:32,920 --> 00:06:36,720
+se llama el síndrome de Waterhouse-Fredericksen da lo mismo el
+
+97
+00:06:36,720 --> 00:06:40,680
+nombre pero es water como agua house como como casa cierto y
+
+98
+00:06:40,680 --> 00:06:46,680
+Frederickssen como Federico. Ahora cómo se estudia en contexto de una
+
+99
+00:06:46,680 --> 00:06:49,680
+crisis suprarrenal en la cual yo no tengo un diagnóstico previo sino que
+
+100
+00:06:49,680 --> 00:06:53,840
+simplemente me encuentro con este con este paciente que viene choqueado muy
+
+101
+00:06:53,840 --> 00:07:01,200
+mal con hipercalemia y con hipoglicemia pues a lo más se pide el cortisol basal
+
+102
+00:07:01,200 --> 00:07:06,000
+y luego de eso debo ir y tratarla de inmediato sin perder más tiempo
+
+103
+00:07:06,000 --> 00:07:09,760
+cómo se hace suero fisiológico y lo más importante los corticoides
+
+104
+00:07:09,760 --> 00:07:13,440
+endovenosos que el que más se usa en la hidrocortisona cierto y que
+
+105
+00:07:13,440 --> 00:07:17,040
+quede muy claro esto se hace ante la mera sospecha así que en resumen
+
+106
+00:07:17,480 --> 00:07:21,960
+que lo importante de la insuficiencia suprarrenal agúa o de la crisis
+
+107
+00:07:21,960 --> 00:07:25,880
+suprarrenal que es muy grave que tengo que sospecharla de lo contrario el
+
+108
+00:07:25,880 --> 00:07:29,000
+paciente se muere y que no puedo perder tiempo ante la mera sospecha
+
+109
+00:07:29,000 --> 00:07:32,520
+ya debo darle la hidrocortisona. Eso es todo nos vemos en el siguiente
+
+110
+00:07:32,520 --> 00:07:35,280
+vídeo que estén muy bien

@@ -1,0 +1,187 @@
+1
+00:00:00,000 --> 00:00:08,530
+En este vídeo vamos a hablar muy rápidamente de la mielitis transversa, recordemos que su
+
+2
+00:00:08,530 --> 00:00:12,530
+etiología habitualmente es post-infecciosa, aunque en algunos casos se da también en
+
+3
+00:00:12,530 --> 00:00:17,010
+contexto de enfermedades autoinmunes, en particular con una de las complicaciones
+
+4
+00:00:17,010 --> 00:00:22,010
+neurológicas del lupus y más infrecuentemente del síndrome de Sjögren también.
+
+5
+00:00:22,010 --> 00:00:26,370
+En algunos casos se da por la infección misma, durante la infección y no solamente
+
+6
+00:00:26,370 --> 00:00:27,370
+post-infecciosa.
+
+7
+00:00:27,370 --> 00:00:32,330
+Es algo raro por su caso, pero el cuadro clínico hay que saberlo, suele iniciar
+
+8
+00:00:32,330 --> 00:00:38,810
+muchas veces con dolor dorsal, la inflamación antes de producir el déficit neurológico
+
+9
+00:00:38,810 --> 00:00:43,130
+puede que produzca algún grado de dolor a nivel local y luego de eso evoluciona ya
+
+10
+00:00:43,130 --> 00:00:48,510
+con el síndrome de sección medular, dígase con la paraparecia, cierto, que en algunos
+
+11
+00:00:48,510 --> 00:00:51,970
+casos puede venir con una tetraparecia o con una tetraplegia, si es que viene
+
+12
+00:00:51,970 --> 00:00:57,690
+arriba de T1, acuérdense que la innervación de la extremidad superior es desde C5
+
+13
+00:00:57,690 --> 00:01:06,130
+hasta T1 y de la extremidad inferiores de L2 hasta S1, cierto, y finalmente en agudo
+
+14
+00:01:06,130 --> 00:01:11,170
+suele ser de tipos plácida y arrefléctica, igual que en el síndrome de Guillain-Barré,
+
+15
+00:01:11,170 --> 00:01:15,490
+en cambio luego de eso como buen síndrome de primera motoneurona, cierto, evoluciona
+
+16
+00:01:15,490 --> 00:01:18,810
+a la espasticidad y a la hiperreflexia.
+
+17
+00:01:18,810 --> 00:01:22,370
+En el caso de la mellitis transversa es muy frecuente que venga también con
+
+18
+00:01:22,370 --> 00:01:27,050
+síntomas disautonómicos, dígase incontinencia urinaria, incontinencia fecal, difusión
+
+19
+00:01:27,050 --> 00:01:31,810
+prenéctil, entre otras, y el diagnóstico en este caso se hace siempre con la resonancia
+
+20
+00:01:31,810 --> 00:01:37,330
+magnética nuclear, que me muestra la zona de afectación a nivel de la médula.
+
+21
+00:01:37,330 --> 00:01:41,650
+El tratamiento depende hasta cierto punto de la causa, pero si es que no hay una
+
+22
+00:01:41,650 --> 00:01:46,370
+causa que sea evidentemente tratable, se maneja con corticoides endovenosos,
+
+23
+00:01:46,370 --> 00:01:50,930
+cierto, en el caso de que sea causada por una esclerosis múltilbe, igualmente
+
+24
+00:01:50,930 --> 00:01:55,210
+los corticoides endovenosos son la fármaco más importante, y en algunos casos se
+
+25
+00:01:55,210 --> 00:01:59,930
+le agregan inmunomoduladores, incluso los inmunosupresores, pero sepan que como
+
+26
+00:01:59,930 --> 00:02:03,730
+buena enfermedad habitualmente autoinmunes, los corticoides son la base
+
+27
+00:02:03,730 --> 00:02:08,650
+del manejo de esta crisis, y en el caso de la mellitis transversa
+
+28
+00:02:08,650 --> 00:02:13,570
+post-infecciosa, que es la más frecuente, es raro que recurra después.
+
+29
+00:02:13,570 --> 00:02:17,610
+No me confundan la mellitis transversa con la tabes dorsalis, eso es algo
+
+30
+00:02:17,610 --> 00:02:22,770
+que me afecta fundamentalmente la parte dorsal de la médula, los cordones
+
+31
+00:02:22,770 --> 00:02:26,770
+posteriores, y en este caso es una complicación de la neurocífili, es un
+
+32
+00:02:26,770 --> 00:02:32,090
+tipo de neurocífili. Habitualmente viene con alteración proprioceptiva de la
+
+33
+00:02:32,090 --> 00:02:35,490
+sensibilidad táctil fina, cierto, y vibratoria, que era justamente lo que
+
+34
+00:02:35,490 --> 00:02:39,610
+se veía en los cordones posteriores, más una ataxia sensorial en que
+
+35
+00:02:39,610 --> 00:02:46,210
+justamente como la propriocepción está mala, camina de manera como un
+
+36
+00:02:46,210 --> 00:02:49,770
+poco más descoordinada, como borracho, cierto, y en algunos casos se
+
+37
+00:02:49,770 --> 00:02:54,010
+escribe también como dolor lancinante en ramalazo, cierto, debido
+
+38
+00:02:54,010 --> 00:02:58,050
+justamente a la afectación de la parte sensitiva de los cordones
+
+39
+00:02:58,050 --> 00:03:01,970
+posteriores. En algunos casos como buena neurocífili, cierto, viene con la
+
+40
+00:03:01,970 --> 00:03:05,930
+pupila de Argyle Robertson, que si se acuerdan era aquella que perdía el
+
+41
+00:03:05,930 --> 00:03:11,090
+reflejo fotomotor, pero mantenía el reflejo de acomodación, y sepan que
+
+42
+00:03:11,090 --> 00:03:15,730
+la tabes dorsalis es algo muy muy raro, que desde la era postantibiótico,
+
+43
+00:03:15,730 --> 00:03:19,810
+cierto, es muy muy infrecuente encontrarse con algún paciente que
+
+44
+00:03:19,810 --> 00:03:23,530
+llegue así. Habitualmente se tratan mucho antes y se diagnostican de la
+
+45
+00:03:23,530 --> 00:03:27,050
+sífilis mucho mucho antes y se amanezca con penicilina benzatina,
+
+46
+00:03:27,050 --> 00:03:30,290
+cierto. Y bueno, todo lo que hay que saber, nos vemos en el siguiente tema.
+
+47
+00:03:30,290 --> 00:03:32,690
+Que estén bien.

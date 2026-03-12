@@ -1,0 +1,467 @@
+1
+00:00:00,000 --> 00:00:07,320
+Veamos rápidamente las hepatitis agua por tóxicos, vamos a ver la hepatitis
+
+2
+00:00:07,320 --> 00:00:11,320
+alcohólica, la hepatitis por intoxicación por paracetamol, las
+
+3
+00:00:11,320 --> 00:00:15,760
+hepatitis por otros fármacos y vamos a mencionar la intoxicación por hongos
+
+4
+00:00:15,760 --> 00:00:20,600
+hepatotóxicos también, recordando que como buenas hepatitis aguda, cierto, lo
+
+5
+00:00:20,600 --> 00:00:25,040
+más importante es el soporte, hay que pedir el tiempo de protrombina, cierto,
+
+6
+00:00:25,040 --> 00:00:27,720
+como para ver si es que se hospitaliza o no, y el riesgo que
+
+7
+00:00:27,720 --> 00:00:30,880
+tienen las hepatitis agua en todos estos casos igualmente es la hepatitis
+
+8
+00:00:30,880 --> 00:00:35,000
+fulminante. Empecemos con la hepatitis alcohólica, esta es algo que hay que
+
+9
+00:00:35,000 --> 00:00:38,600
+saber, al menos un detalle importante. Número uno, el cuadro clínico
+
+10
+00:00:38,600 --> 00:00:42,800
+habitualmente viene asociado a consumo reciente de alcohol, a veces incluso el
+
+11
+00:00:42,800 --> 00:00:47,920
+paciente llega borracho, cierto, con este cuadro clínico de hepatitis agua.
+
+12
+00:00:47,920 --> 00:00:53,080
+Segundo lugar, en algunos casos sí viene con hipterisia, fiebre, con dolor
+
+13
+00:00:53,080 --> 00:00:58,620
+abdominal y a veces, en cambio, viene en contexto de un daño hepático
+
+14
+00:00:58,620 --> 00:01:02,100
+crónico de base que es un paciente cirrótico que es alcohólico y que en
+
+15
+00:01:02,100 --> 00:01:05,340
+este caso se intoxicó con alcohol y se complicó con una hepatitis agua
+
+16
+00:01:05,340 --> 00:01:08,580
+también. Ahora, eso no es algo que aparezca siempre, se puede ver también
+
+17
+00:01:08,580 --> 00:01:12,220
+en algún paciente adolescente, por ejemplo, que se intoxica con una
+
+18
+00:01:12,220 --> 00:01:16,460
+cantidad de alcohol importante y se complica con una hepatitis agua. El
+
+19
+00:01:16,460 --> 00:01:19,300
+diagnóstico, y esto es súper importante, así que pónganme
+
+20
+00:01:19,300 --> 00:01:24,900
+atención, es con la relación entre la GOT y la GPT mayor igual a 2, así
+
+21
+00:01:24,900 --> 00:01:28,540
+que en toda hepatitis agua lo primero que hay que ver no es solamente que
+
+22
+00:01:28,540 --> 00:01:32,880
+la GOT y la GPT estén elevadas y que me confirmen esta hepatitis, sino que
+
+23
+00:01:32,880 --> 00:01:37,180
+ver la relación entre ambas. Si la GOT está en 400, por ejemplo, y la
+
+24
+00:01:37,180 --> 00:01:42,460
+GPT está en 180, en ese caso es mayor a 2 y de inmediato hay que
+
+25
+00:01:42,460 --> 00:01:45,860
+sospechar una hepatitis alcohólica. Lo mismo en un paciente que venga con
+
+26
+00:01:45,860 --> 00:01:50,340
+consumo de alcohol reciente, cierto, y con una relación que esté menor a 2
+
+27
+00:01:50,340 --> 00:01:55,960
+pero cercana a 2, ejemplo que esté en 350 y 200 respectivamente, en ese
+
+28
+00:01:55,960 --> 00:02:01,120
+caso igualmente hay que sospechar una hepatitis alcohólica. El manejo, el
+
+29
+00:02:01,120 --> 00:02:05,160
+tratamiento de esto, lo más importante es la abstinencia alcohólica, el
+
+30
+00:02:05,160 --> 00:02:10,240
+soporte como en buena hepatitis agua, pero en el caso de que sea severa y la
+
+31
+00:02:10,240 --> 00:02:15,160
+severidad se determina según el score de madre, en este caso si
+
+32
+00:02:15,160 --> 00:02:18,120
+es que es severa se agregan los corticoides y en algunos casos
+
+33
+00:02:18,120 --> 00:02:21,840
+igualmente se agrega la pentoxifilina que eventualmente pueda servir, pero
+
+34
+00:02:21,840 --> 00:02:24,920
+al menos sepan que es de las pocas hepatitis agua en que
+
+35
+00:02:24,920 --> 00:02:28,480
+directamente se manejan con algún fármaco en particular, en específico
+
+36
+00:02:28,480 --> 00:02:33,280
+los corticoides endovenosos. Repito solo en la severa y eso se hace con un score
+
+37
+00:02:33,280 --> 00:02:37,600
+que se llama el score de madre y si es mayor o igual a 32 puntos en ese caso
+
+38
+00:02:37,600 --> 00:02:41,600
+hay que dejarle los corticoides porque responde a los corticoides y
+
+39
+00:02:41,600 --> 00:02:44,680
+segundo lugar porque el riesgo de evolucionar a una hepatitis fulminante
+
+40
+00:02:44,680 --> 00:02:49,920
+es mucho mayor. ¿Cómo se calcula este score? Esto hay que saberlo, es con los
+
+41
+00:02:49,920 --> 00:02:55,640
+niveles de bilirrubina más 4.6 multiplicado por la diferencia del tp
+
+42
+00:02:55,640 --> 00:03:01,000
+dígase el tiempo de protrombina esperado y menos el tiempo de
+
+43
+00:03:01,000 --> 00:03:05,320
+protrombina que se ve realmente, esto va a dar un número negativo por si
+
+44
+00:03:05,320 --> 00:03:10,840
+caso pero el número positivo o sea el tp que yo estoy evaluando menos
+
+45
+00:03:10,840 --> 00:03:16,800
+el tp esperado, esa diferencia, ese delta lo multiplico por 4.6 a eso le
+
+46
+00:03:16,800 --> 00:03:21,440
+sumo los niveles de bilirrubina y si es que me sale en 32 o más en ese caso
+
+47
+00:03:21,440 --> 00:03:25,080
+sería severa y se maneja con corticoides ya como para que quede
+
+48
+00:03:25,080 --> 00:03:28,920
+claro. Vemos ahora muy rápido la intoxicación por paracetamol, sepan
+
+49
+00:03:28,920 --> 00:03:34,160
+que el riesgo es arriba de 5 gramos de paracetamol en un adulto, en los
+
+50
+00:03:34,160 --> 00:03:38,680
+niños es arriba de 200 miligramos por kilo o sea son dosis bastante
+
+51
+00:03:38,680 --> 00:03:42,680
+altas por si acaso y en este caso el manejo específico que hay que
+
+52
+00:03:42,680 --> 00:03:46,480
+saber es el que hay que solicitarle los niveles plasmáticos de paracetamol
+
+53
+00:03:46,480 --> 00:03:50,560
+eso es lo más importante ese es el examen más importante todavía que las
+
+54
+00:03:50,560 --> 00:03:55,040
+pruebas hepáticas debido a que en la etapa inicial por ejemplo puede que
+
+55
+00:03:55,040 --> 00:03:58,700
+todavía no haya hepatitis y aún así el riesgo de que evolucione a una
+
+56
+00:03:58,700 --> 00:04:03,120
+hepatitis grave con falla hepática y muerte cierto sigue siendo alto
+
+57
+00:04:03,120 --> 00:04:07,760
+dependiendo repito de los niveles y luego de esto se le maneja con el
+
+58
+00:04:07,760 --> 00:04:12,160
+antídoto cierto que es la N-acetilcisteina y que la dosis o la
+
+59
+00:04:12,160 --> 00:04:17,240
+indicación depende de los niveles plasmáticos de paracetamol según el
+
+60
+00:04:17,240 --> 00:04:22,080
+normograma de rupak matthew a ver como para que se entienda un poco esto en
+
+61
+00:04:22,080 --> 00:04:26,720
+este normograma en un lado van los niveles plasmáticos de paracetamol y
+
+62
+00:04:26,720 --> 00:04:31,040
+en el otro van las horas que han pasado se dibuja este normograma con
+
+63
+00:04:31,040 --> 00:04:37,160
+una línea descendente cierto y si es que está por debajo de ese nivel el
+
+64
+00:04:37,160 --> 00:04:40,960
+nivel plasmático respecto al momento del ingesta cierto no hay
+
+65
+00:04:40,960 --> 00:04:44,960
+riesgo no hay por qué darle la N-acetilcisteina en cambio si es que
+
+66
+00:04:44,960 --> 00:04:49,680
+está arriba de eso el riesgo de que evolucione a una hepatitis aguda es
+
+67
+00:04:49,680 --> 00:04:54,520
+alto y en ese caso si se da la N-acetilcisteina que va variando su
+
+68
+00:04:54,520 --> 00:04:57,880
+dosis según el tamaño del paciente y según los niveles plasmáticos
+
+69
+00:04:57,880 --> 00:05:01,440
+también. Veamos ahora muy rápidamente la
+
+70
+00:05:01,440 --> 00:05:06,600
+intoxicación por hongos venenosos y recuerden que la amanita faloides es
+
+71
+00:05:06,600 --> 00:05:11,520
+el más grave de ellos cierto muy muy tóxica y lamentablemente es un hongo
+
+72
+00:05:11,520 --> 00:05:16,680
+muy polimorfo dígase que se parece mucho a otros hongos y que en
+
+73
+00:05:16,680 --> 00:05:21,200
+distintas zonas puede ser de colores distintos de formas distintas y en los
+
+74
+00:05:21,200 --> 00:05:28,800
+distintos estadíos como de avance de como de la evolución propia del hongo
+
+75
+00:05:28,800 --> 00:05:32,640
+desde que sale de la tierra hasta que libera sus esporas cierto puede ir
+
+76
+00:05:32,640 --> 00:05:36,840
+cambiando de forma y de color también así que es muy fácil que se confunda
+
+77
+00:05:36,840 --> 00:05:42,200
+y el consejo es este nunca jamás en la vida coman hongos silvestres ya así
+
+78
+00:05:42,200 --> 00:05:46,320
+nunca jamás incluso cuando alguna persona dice yo sí lo sé reconocer
+
+79
+00:05:46,320 --> 00:05:51,280
+etcétera no lo hagan nunca jamás y menos es que no saben de hongos dado
+
+80
+00:05:51,280 --> 00:05:55,960
+que se pueden morir ustedes y toda su familia también ya todos los años
+
+81
+00:05:55,960 --> 00:05:59,160
+en alguna parte del mundo y una familia que se muere con amanita
+
+82
+00:05:59,160 --> 00:06:02,160
+faloides y en chile es algo que hemos visto igualmente cada cierta
+
+83
+00:06:02,160 --> 00:06:09,040
+cantidad de años que ocurre alguna de estas tragedias cierto horrible respecto
+
+84
+00:06:09,040 --> 00:06:13,200
+al cuadro clínico esto hay que saberlo es lo único que hay que saber aparte de
+
+85
+00:06:13,200 --> 00:06:17,360
+que nunca hay que comer hongo silvestre viene con distintas fases la fase
+
+86
+00:06:17,360 --> 00:06:22,440
+inicial es asintomática y que suele durar mínimo seis horas es raro que
+
+87
+00:06:22,440 --> 00:06:26,840
+tenga síntomas en las primeras horas tras la ingesta lo cual hace que las
+
+88
+00:06:26,840 --> 00:06:30,160
+personas a veces no asocian sus síntomas a la ingesta de hongos que
+
+89
+00:06:30,160 --> 00:06:33,920
+puede haber sido el día antes a veces cuando mezclan hongos con otros
+
+90
+00:06:33,920 --> 00:06:37,760
+hongos venenosos si se producen síntomas antes pero el de la de la
+
+91
+00:06:37,760 --> 00:06:41,560
+amanita faloides habitualmente las primeras seis a diez horas vienen sin
+
+92
+00:06:41,560 --> 00:06:46,360
+ningún síntoma luego de eso viene con un una fase que viene con
+
+93
+00:06:46,360 --> 00:06:51,120
+diarrea que se se habla de la fase de gastroenteritis aguda que
+
+94
+00:06:51,120 --> 00:06:55,360
+habitualmente inicia después de esas horas que habíamos mencionado y que
+
+95
+00:06:55,360 --> 00:06:59,680
+dura uno a dos días y luego de eso viene con una fase de mejoría se
+
+96
+00:06:59,680 --> 00:07:04,240
+acaba esta diarrea aguda pero empieza con la fase más grave cierto en que
+
+97
+00:07:04,240 --> 00:07:08,840
+ya se produce la falla hepática habitualmente con falla renal también y
+
+98
+00:07:08,840 --> 00:07:12,160
+evoluciona rápidamente a una hepatitis fulminante y el paciente se
+
+99
+00:07:12,160 --> 00:07:17,200
+muere y esto suele ocurrir habitualmente después de 48 horas el
+
+100
+00:07:17,200 --> 00:07:22,000
+tratamiento por la general es el trasplante hepático o bien alguna
+
+101
+00:07:22,000 --> 00:07:25,520
+terapia de soporte muy intensa como el mars por ejemplo que son estas
+
+102
+00:07:25,520 --> 00:07:30,400
+diálisis de albúmina que es como una especie de hígado electrónico cierto
+
+103
+00:07:30,400 --> 00:07:35,680
+como un hígado artificial que me sirve mientras tanto consigo a un donante
+
+104
+00:07:35,680 --> 00:07:41,120
+de hígado y al inicio cuando yo me doy cuenta que el paciente se pudo
+
+105
+00:07:41,120 --> 00:07:45,200
+haber intoxicado con estos hongos cierto eventualmente yo sí le puedo
+
+106
+00:07:45,200 --> 00:07:49,560
+dejar el carbón activado en alta dosis como para disminuir la
+
+107
+00:07:49,560 --> 00:07:54,200
+absorción de las toxinas de este hongo y eventualmente me sirve
+
+108
+00:07:54,200 --> 00:07:59,480
+también la n-acetylcisteina pero repito lo más importante es el nunca comer
+
+109
+00:07:59,480 --> 00:08:04,080
+hongo silvestre finalmente las intoxicaciones por otros tóxicos y por
+
+110
+00:08:04,080 --> 00:08:08,480
+otros fármacos lo más importante es identificarlo cierto y en el caso de
+
+111
+00:08:08,480 --> 00:08:12,760
+que se haya identificado hay que retirarlo de inmediato el ejemplo más
+
+112
+00:08:12,760 --> 00:08:16,080
+más clásico es el paciente que está con tratamiento antituberculoso con
+
+113
+00:08:16,080 --> 00:08:20,080
+cuatro fármacos la conducta si es que evoluciona con una hepatitis es
+
+114
+00:08:20,120 --> 00:08:24,800
+inmediatamente suspender los cuatro fármacos y luego de eso ir iniciando los
+
+115
+00:08:24,800 --> 00:08:28,400
+uno por uno como para ver cuál es el que se está complicando con este
+
+116
+00:08:28,400 --> 00:08:31,920
+riesgo sabiendo que la piracinamida es el que tiene más riesgo por si acaso
+
+117
+00:08:31,920 --> 00:08:36,600
+y bueno eso es todo nos vemos en los siguientes temas que estén bien

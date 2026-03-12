@@ -1,0 +1,307 @@
+1
+00:00:00,000 --> 00:00:06,210
+Hola, hola, ¿cómo están? En este vídeo vamos a empezar con el tema de abdómen
+
+2
+00:00:06,210 --> 00:00:11,450
+agudo y vamos a ver algunas generalidades recordando que por definición es un
+
+3
+00:00:11,450 --> 00:00:16,530
+cuadro de dolor abdominal o de síntomas abdominales en general más signos de
+
+4
+00:00:16,530 --> 00:00:21,450
+alarma que me hacen sospechar que detrás hay una causa grave. Ahora, si se
+
+5
+00:00:21,450 --> 00:00:25,050
+fijan, el diagnóstico del abdómen agudo es un diagnóstico clínico que
+
+6
+00:00:25,050 --> 00:00:28,610
+justamente tengo que ir a ver si es que viene con algún signo de alarma o
+
+7
+00:00:28,610 --> 00:00:33,290
+no, pero el diagnóstico de la causa en específico es algo que puede ser mucho
+
+8
+00:00:33,290 --> 00:00:37,210
+más complejo. O sea, yo muchas veces me quedo simplemente con esa idea. Está con
+
+9
+00:00:37,210 --> 00:00:40,970
+un abdómen agudo pero todavía no tengo claro cuál es la causa. Ahora,
+
+10
+00:00:40,970 --> 00:00:44,250
+dentro de las causas hay que saber que es una lista muy larga. La
+
+11
+00:00:44,250 --> 00:00:48,050
+apendicitis aguda es la clásica pero no es la única. La asperitonitis
+
+12
+00:00:48,050 --> 00:00:51,810
+como complicación de ésta o que puede ser alguna primaria también como
+
+13
+00:00:51,810 --> 00:00:56,490
+en una PBE por ejemplo. Las diverticulitis, las pancreatitis, las
+
+14
+00:00:56,490 --> 00:01:02,250
+colesistitis, la colonitis, las perforaciones intestinales o de una
+
+15
+00:01:02,250 --> 00:01:07,610
+úlcera, la obstrucción intestinal, las embolias, las trombosis mesentérica y
+
+16
+00:01:07,610 --> 00:01:10,850
+los abdómenes agudos de causa vascular también que los vamos a ver
+
+17
+00:01:10,850 --> 00:01:15,490
+en alguna clase. Más las causas ginecológicas, obstétricas, etcétera.
+
+18
+00:01:15,490 --> 00:01:20,730
+O sea, son muchas las causas y como algo importante es una vez que yo hago
+
+19
+00:01:20,730 --> 00:01:24,210
+el diagnóstico de abdómen agudo y desde el punto de vista clínico tengo
+
+20
+00:01:24,650 --> 00:01:29,290
+alguna sospecha específica, hago el manejo de esa sospecha en particular.
+
+21
+00:01:29,290 --> 00:01:33,570
+O sea, si es que viene con todo el cuadro clínico de una colesistitis
+
+22
+00:01:33,570 --> 00:01:37,570
+aguda por ejemplo, inmediatamente voy a ir a pedirle los exámenes y voy
+
+23
+00:01:37,570 --> 00:01:42,370
+a dar el manejo orientado a esa causa en particular. Si finalmente la
+
+24
+00:01:42,370 --> 00:01:46,050
+descarto, pues sigo buscando alguna otra causa. Ahora, cuando es un
+
+25
+00:01:46,050 --> 00:01:50,850
+abdómen agudo inespecífico en que no me queda claro cuál de estas
+
+26
+00:01:50,850 --> 00:01:55,570
+causas es o si efectivamente es un cuadro grave, en ese caso se le pide
+
+27
+00:01:55,570 --> 00:01:59,570
+una imagen y las imágenes que se suelen pedir son la TAC de abdómen y
+
+28
+00:01:59,570 --> 00:02:04,210
+pelvis o bien la ecografía de abdómen y pelvis. La TAC suele ser
+
+29
+00:02:04,210 --> 00:02:07,810
+de elección en los adultos, la ecografía en cambio suele ser de
+
+30
+00:02:07,810 --> 00:02:12,370
+elección en los niños y lo mismo me aplica a la apendicitis,
+
+31
+00:02:12,370 --> 00:02:15,650
+por ejemplo, que la TAC nuevamente es lo que se pide habitualmente
+
+32
+00:02:15,650 --> 00:02:19,250
+en los adultos, en cambio la ECO es la que se pide en los niños.
+
+33
+00:02:19,250 --> 00:02:23,010
+Ahora, que quede bien claro de esta larga lista de causas, fíjense,
+
+34
+00:02:23,010 --> 00:02:27,730
+no todas requieren cirugía, algunas como la pancreatitis, por ejemplo,
+
+35
+00:02:27,730 --> 00:02:31,490
+se puede manejar de manera médica, no todas requieren antibióticos,
+
+36
+00:02:31,490 --> 00:02:36,250
+ejemplo, la pancreatitis igualmente se puede manejar sin antibiótico y
+
+37
+00:02:36,250 --> 00:02:40,690
+finalmente no todas vienen con signos peritoniales, ejemplo,
+
+38
+00:02:40,690 --> 00:02:43,690
+una embolia mesentérica puede venir absolutamente sin ningún
+
+39
+00:02:43,690 --> 00:02:49,450
+signo peritonial, lo mismo que una obstrucción intestinal inicial.
+
+40
+00:02:49,450 --> 00:02:52,570
+Ahora veamos cuáles son estos signos peritoniales que son uno
+
+41
+00:02:52,570 --> 00:02:55,170
+de los signos de alarma que en general de inmediato me muestran
+
+42
+00:02:55,170 --> 00:02:59,770
+que hay un abdomen agudo y que me reflejan que hay una
+
+43
+00:02:59,770 --> 00:03:02,770
+peritonitis y que están localizados solamente en una zona
+
+44
+00:03:02,770 --> 00:03:06,090
+del abdomen, uno habla de una peritonitis localizada,
+
+45
+00:03:06,090 --> 00:03:08,970
+en cambio es que están difusos, cierto, se habla de una
+
+46
+00:03:09,010 --> 00:03:13,130
+peritonitis difusa, la resistencia muscular a la
+
+47
+00:03:13,130 --> 00:03:19,010
+palpación es como el más básico, el inicial, luego de eso el
+
+48
+00:03:19,010 --> 00:03:22,090
+más clásico en cambio es el signo de Bloomberg que es que
+
+49
+00:03:22,090 --> 00:03:27,170
+al presionar cierto y soltar bruscamente al rebote ahí se
+
+50
+00:03:27,170 --> 00:03:32,170
+produce un dolor intenso, el signo de Robson que es lo mismo
+
+51
+00:03:32,170 --> 00:03:35,610
+que el Bloomberg pero contralateral, o sea yo comprimo el
+
+52
+00:03:35,650 --> 00:03:40,130
+lado izquierdo cierto y al soltar me duele el lado derecho,
+
+53
+00:03:40,130 --> 00:03:43,850
+el abdomen en tabla que ya es una resistencia muscular pero
+
+54
+00:03:43,850 --> 00:03:47,130
+mucho más intensa cierto que habitualmente me refleja una
+
+55
+00:03:47,130 --> 00:03:50,850
+peritonitis difusa, la disminución en los ruidos
+
+56
+00:03:50,850 --> 00:03:54,210
+hidroaerios en el sentido en que las peritonitis
+
+57
+00:03:54,210 --> 00:03:57,210
+habitualmente vienen con un ilio paralítico que
+
+58
+00:03:57,210 --> 00:04:00,450
+justamente hace que haya más distensión abdominal y que
+
+59
+00:04:00,450 --> 00:04:03,570
+haya una disminución de los ruidos hidroaerios,
+
+60
+00:04:03,570 --> 00:04:08,010
+el signo de Murphy que se ve al parpar el hipocondrio
+
+61
+00:04:08,010 --> 00:04:12,170
+derecho en el caso de una colisistitis agúa, el signo
+
+62
+00:04:12,170 --> 00:04:15,010
+de McBurney cierto que duele el punto de McBurney,
+
+63
+00:04:15,010 --> 00:04:19,050
+el signo del psoas que es al momento de levantar la pierna
+
+64
+00:04:19,050 --> 00:04:22,130
+me duele la zona del retroperitoneo que es en donde
+
+65
+00:04:22,130 --> 00:04:25,890
+está el músculo psoas iliaco cierto que habitualmente
+
+66
+00:04:25,890 --> 00:04:28,530
+me muestra que hay un proceso retrocecal así que
+
+67
+00:04:28,530 --> 00:04:31,730
+una de las cosas que quiero buscar en el caso en que se
+
+68
+00:04:31,730 --> 00:04:36,690
+sospeche ejemplo una apendicitis retrocecal o algún
+
+69
+00:04:36,690 --> 00:04:40,170
+proceso retroperitonial en general etcétera o sea hay un
+
+70
+00:04:40,170 --> 00:04:42,930
+montón de otros signos que hay que saber y todos ellos
+
+71
+00:04:42,930 --> 00:04:45,970
+en general son un signo de alarma porque me muestran que
+
+72
+00:04:45,970 --> 00:04:48,970
+hay una peritonitis y las peritonitis por la general
+
+73
+00:04:48,970 --> 00:04:52,690
+son algo que sí se ve en los abdomenes agúos pero
+
+74
+00:04:52,690 --> 00:04:54,770
+repito no todos los casos vienen con signos
+
+75
+00:04:54,770 --> 00:04:56,770
+peritoniales y bueno eso es lo que hay que ver por
+
+76
+00:04:56,770 --> 00:04:58,930
+ahora en las siguientes clases vamos a entrar a los
+
+77
+00:04:58,930 --> 00:05:00,530
+detalles así que nos vemos ahí que estén bien.

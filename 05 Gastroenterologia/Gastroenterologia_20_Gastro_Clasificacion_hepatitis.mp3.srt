@@ -1,0 +1,779 @@
+1
+00:00:00,000 --> 00:00:07,340
+Hola, ¿cómo están? En este video vamos a dar inicio a un gran tema a las hepatitis,
+
+2
+00:00:07,340 --> 00:00:11,300
+¿cierto? Y vamos a ver su clasificación en aguda y crónica, ¿cierto?, más
+
+3
+00:00:11,300 --> 00:00:16,100
+algunas generalidades y conceptos. De hecho, vamos a empezar con estos
+
+4
+00:00:16,100 --> 00:00:20,340
+conceptos. Número uno, ¿cuál es la clínica de las hepatitis, ya sea aguda
+
+5
+00:00:20,340 --> 00:00:23,220
+o crónica y sabiendo que muchas veces vienen sin ningún síntoma también?
+
+6
+00:00:23,220 --> 00:00:27,820
+Por el en general es la hetericia, coluria, acolia, en lo clásico de una
+
+7
+00:00:27,820 --> 00:00:31,580
+hepatitis A, por ejemplo, y en algunos casos viene con dolor abdominal, que
+
+8
+00:00:31,580 --> 00:00:35,260
+puede ser más o menos intenso, con dolor a la palpación del hígado, con
+
+9
+00:00:35,260 --> 00:00:39,740
+náuseas, etcétera. Pero, repito, la clínica de hepatitis muchas veces es
+
+10
+00:00:39,740 --> 00:00:43,100
+absolutamente ausente y se diagnostica con exámenes de laboratorio o bien
+
+11
+00:00:43,100 --> 00:00:46,660
+son estos síntomas que no son específicos de la hepatitis que se
+
+12
+00:00:46,660 --> 00:00:50,100
+ven también en las colestasias, por ejemplo. Segundo lugar, está el
+
+13
+00:00:50,100 --> 00:00:53,940
+patrón hepatítico en las pruebas hepáticas que se caracteriza por un
+
+14
+00:00:53,940 --> 00:00:58,540
+aumento importante de las transaminases de la GOT o de la GPT.
+
+15
+00:00:58,860 --> 00:01:03,220
+Eso es lo más importante. Ahora acuérdense que la GOT se eleva también
+
+16
+00:01:03,220 --> 00:01:06,460
+en un infarto, por ejemplo, así que si alguien está con un dolor
+
+17
+00:01:06,460 --> 00:01:10,140
+torácico intenso y con la GOT alta no estudien una causa hepática, sino
+
+18
+00:01:10,140 --> 00:01:13,980
+que sepan que lo que tiene es un infarto y además en el patrón
+
+19
+00:01:13,980 --> 00:01:18,060
+hepatítico habitualmente viene con elevación también de la bilirrubina,
+
+20
+00:01:18,060 --> 00:01:21,420
+muchas veces con elevación de la bilirrubina directa, que es lo más
+
+21
+00:01:21,420 --> 00:01:26,980
+frecuente cuando está arriba de un 20%, de 25%, de 30% según la fuente
+
+22
+00:01:27,020 --> 00:01:29,100
+que uno revise 20% es el que más se repite.
+
+23
+00:01:29,100 --> 00:01:32,180
+Por su caso, si está arriba de eso, uno habla de predominio directo.
+
+24
+00:01:32,180 --> 00:01:36,220
+Pero acuérdense que a veces en las hepatitis el daño hepatocelular
+
+25
+00:01:36,220 --> 00:01:39,020
+es tan grande que impide la conjugación.
+
+26
+00:01:39,380 --> 00:01:42,700
+Así que a veces puede ser con bilirrubina indirecta o no
+
+27
+00:01:42,700 --> 00:01:46,820
+conjugada también. Repito, lo más importante del patrón hepatítico
+
+28
+00:01:46,820 --> 00:01:49,380
+son las transaminases elevadas, cierto?
+
+29
+00:01:49,620 --> 00:01:53,180
+Dado que la bilirrubina se eleva también en las colestasias,
+
+30
+00:01:53,900 --> 00:01:58,380
+y las colestasias, en cambio, elevan la GGT, la fosfatasa alcalina,
+
+31
+00:01:58,380 --> 00:02:04,220
+cierto? En cambio, en este caso lo que se eleva son la GOT y la GPT,
+
+32
+00:02:04,460 --> 00:02:08,700
+que también se llaman AST y ALT respectivamente, cierto?
+
+33
+00:02:08,980 --> 00:02:13,140
+O la transaminasa glutámico oxalacético
+
+34
+00:02:13,140 --> 00:02:16,020
+y la transaminasa glutámico pirubica.
+
+35
+00:02:16,460 --> 00:02:20,300
+Ahora, el diagnóstico de hepatitis se hace justamente con la elevación
+
+36
+00:02:21,140 --> 00:02:25,140
+Así que la gran importancia de un patrón hepatítico de la elevación
+
+37
+00:02:25,140 --> 00:02:28,820
+de las transaminases es justamente que me confirma que hay una hepatitis,
+
+38
+00:02:28,820 --> 00:02:32,900
+aunque no me diferencia el tipo de hepatitis que pueda haber.
+
+39
+00:02:33,700 --> 00:02:35,940
+Aparte, está el concepto de insuficiencia hepática
+
+40
+00:02:35,940 --> 00:02:39,220
+que se puede ver tanto en las hepatitis agúas como en el daño
+
+41
+00:02:39,220 --> 00:02:40,660
+hepático crónico, cierto?
+
+42
+00:02:40,660 --> 00:02:44,940
+Y que por el general viene con la coagulopatía que se refleja
+
+43
+00:02:45,180 --> 00:02:48,500
+inmediatamente en que se alarga el tiempo de protrombina
+
+44
+00:02:48,500 --> 00:02:53,340
+o lo mismo, pero visto de otra forma, aumenta el INR, cierto?
+
+45
+00:02:53,660 --> 00:02:56,780
+Y a veces se ve también con una caída de la protrombinemia.
+
+46
+00:02:56,820 --> 00:02:58,860
+Esas tres cosas son exactamente lo mismo.
+
+47
+00:02:58,860 --> 00:03:02,980
+Se mide el tiempo de protrombina y con eso se calcula el porcentaje
+
+48
+00:03:02,980 --> 00:03:06,540
+de protrombinemia o el número del INR, cierto?
+
+49
+00:03:06,660 --> 00:03:11,420
+Habitualmente un TP absolutamente normal viene con una protrombinemia
+
+50
+00:03:11,420 --> 00:03:14,780
+de 100% y con un INR de 1.
+
+51
+00:03:14,780 --> 00:03:17,500
+En cambio, si se alarga el tiempo de protrombina,
+
+52
+00:03:17,740 --> 00:03:21,820
+cae el porcentaje de protrombinemia y se alarga también el INR.
+
+53
+00:03:22,460 --> 00:03:25,580
+La otra como manifestación más clásica y más grave
+
+54
+00:03:25,580 --> 00:03:29,820
+de la insuficiencia hepática es la encefalopatía hepática
+
+55
+00:03:29,820 --> 00:03:34,500
+que habitualmente se ve con asterixis en los casos iniciales, cierto?
+
+56
+00:03:34,500 --> 00:03:37,100
+Y luego de eso evoluciona al compromiso de conciencia
+
+57
+00:03:37,100 --> 00:03:38,500
+que ya son las cosas más graves.
+
+58
+00:03:38,500 --> 00:03:42,300
+Y finalmente, el concepto este de la hepatitis fulminante,
+
+59
+00:03:42,580 --> 00:03:46,700
+que es una hepatitis aguda, pero que se complica con encefalopatía
+
+60
+00:03:46,980 --> 00:03:50,300
+antes de las ocho semanas, desde el inicio de la hectericia
+
+61
+00:03:50,540 --> 00:03:56,100
+o de la hepatitis en sí, y en ese caso se podría
+
+62
+00:03:56,580 --> 00:03:59,620
+como resumir esta hepatitis fulminante en una hepatitis aguda
+
+63
+00:03:59,900 --> 00:04:02,940
+complicada con una falla hepática importante, cierto?
+
+64
+00:04:03,140 --> 00:04:06,860
+De hecho, el otro nombre que tiene es simplemente la falla hepática aguda.
+
+65
+00:04:07,100 --> 00:04:10,500
+Y acuérdense que está definida por la encefalopatía,
+
+66
+00:04:10,500 --> 00:04:13,220
+dígase por el compromiso de conciencia y es algo muy, muy grave,
+
+67
+00:04:13,220 --> 00:04:16,540
+tal como lo vamos a explicar con un poquito más de detalle en unos minutos.
+
+68
+00:04:17,420 --> 00:04:20,780
+Respecto a la hepatitis aguda y la hepatitis crónica
+
+69
+00:04:20,780 --> 00:04:24,020
+es la clasificación más importante, el tiempo que lleva.
+
+70
+00:04:24,340 --> 00:04:27,700
+Y vamos a ir viendo no solo el tiempo, sino que las causas son distintas.
+
+71
+00:04:27,700 --> 00:04:31,300
+El riesgo implícito es distinto también y el manejo también.
+
+72
+00:04:31,300 --> 00:04:33,500
+Así que lo vamos a ver con algún detalle.
+
+73
+00:04:33,500 --> 00:04:35,540
+Pero sí les adelanto esto.
+
+74
+00:04:35,540 --> 00:04:39,460
+Las hepatitis agudas en general vienen con un manejo en conjunto
+
+75
+00:04:39,460 --> 00:04:41,940
+que es muy similar y las hepatitis crónicas en general
+
+76
+00:04:42,180 --> 00:04:45,140
+igualmente vienen con un manejo en conjunto que es bastante similar.
+
+77
+00:04:45,820 --> 00:04:50,420
+Respecto a la definición, la hepatitis aguda es la que lleva menos de seis meses
+
+78
+00:04:50,420 --> 00:04:53,060
+debido a que la crónica es la que lleva seis meses o más.
+
+79
+00:04:53,300 --> 00:04:56,260
+Pero en la práctica, las hepatitis agudas son mucho más breves.
+
+80
+00:04:56,260 --> 00:04:58,860
+Suelen durar algunos días o algunas semanas y nada más.
+
+81
+00:04:58,860 --> 00:05:00,700
+Pero el punto de corte seis meses.
+
+82
+00:05:00,700 --> 00:05:02,740
+Segundo lugar, las causas de hepatitis aguda,
+
+83
+00:05:02,740 --> 00:05:05,780
+las más importantes son las virales y dentro de estos virus
+
+84
+00:05:06,020 --> 00:05:08,220
+la hepatitis A es el más frecuente.
+
+85
+00:05:08,220 --> 00:05:10,660
+Ha caído mucho con la higiene y con la vacunación, cierto?
+
+86
+00:05:10,940 --> 00:05:15,460
+La hepatitis B igualmente es causa de una infección aguda.
+
+87
+00:05:15,900 --> 00:05:19,700
+Acuérdense que la ve igualmente en un porcentaje muy bajo se vuelve crónica.
+
+88
+00:05:20,020 --> 00:05:23,100
+La hepatitis E que está muy subdiagnosticada
+
+89
+00:05:23,100 --> 00:05:25,860
+y que se parece mucho a la hepatitis A es causa de hepatitis aguda también.
+
+90
+00:05:26,340 --> 00:05:29,820
+Algunos otros virus hepatotropos como las de la familia de los herpes,
+
+91
+00:05:29,820 --> 00:05:33,420
+cierto, en particular el citomégalovirus, el virus de de de Epstein-Barg
+
+92
+00:05:33,420 --> 00:05:35,580
+y en algunos casos el virus herpes simplex,
+
+93
+00:05:35,580 --> 00:05:38,980
+incluso el virus varicella zóster se pueden complicar con hepatitis también.
+
+94
+00:05:39,740 --> 00:05:43,260
+El consumo de alcohol agudo, que en este caso lo que produce
+
+95
+00:05:43,260 --> 00:05:46,540
+es una hepatitis alcohólica aguda, cierto,
+
+96
+00:05:46,540 --> 00:05:48,580
+que la vamos a ver con algún detalle después.
+
+97
+00:05:48,580 --> 00:05:53,140
+Algunos tóxicos como las reacciones adversas a medicamentos.
+
+98
+00:05:53,420 --> 00:05:56,860
+Lo típico que se enseña, cierto, son los antimicóticos,
+
+99
+00:05:56,860 --> 00:06:00,980
+por ejemplo, como la fotiricina B o bien el tratamiento antituberculoso,
+
+100
+00:06:00,980 --> 00:06:04,060
+entre otras, y el consumo por hongos venenosos
+
+101
+00:06:04,060 --> 00:06:07,140
+como la manita faloides también me producen hepatitis aguda.
+
+102
+00:06:07,420 --> 00:06:10,980
+Y finalmente una que hay que saber, la hepatitis isquémica,
+
+103
+00:06:10,980 --> 00:06:12,740
+que la vamos a ver con algún detalle después,
+
+104
+00:06:12,740 --> 00:06:15,820
+que es causada justamente por la isquemia hepática
+
+105
+00:06:15,820 --> 00:06:17,060
+en un paciente que está choqueado.
+
+106
+00:06:17,860 --> 00:06:20,300
+Respecto a las causas de hepatitis crónica son distintas.
+
+107
+00:06:20,300 --> 00:06:24,180
+La más frecuente es la famosa NASH, la esteatoepatitis no alcohólica,
+
+108
+00:06:24,180 --> 00:06:25,940
+que la vamos a ver en una clase en particular.
+
+109
+00:06:26,420 --> 00:06:28,660
+Seguida de las hepatitis virales crónicas,
+
+110
+00:06:28,660 --> 00:06:30,500
+que la hepatitis C es la más importante,
+
+111
+00:06:30,740 --> 00:06:34,060
+que habitualmente solo se ve como hepatitis crónica,
+
+112
+00:06:34,060 --> 00:06:36,060
+es muy raro que se diagnostique la fase aguda
+
+113
+00:06:36,380 --> 00:06:40,220
+y la hepatitis B, que por el contrario solamente un porcentaje muy bajo
+
+114
+00:06:40,220 --> 00:06:42,820
+se vuelve crónica y la inmensa mayoría son casos agudos.
+
+115
+00:06:43,900 --> 00:06:47,900
+Hay vacunas en contra solamente de la hepatitis A y de la hepatitis B,
+
+116
+00:06:47,900 --> 00:06:50,860
+en contra de la hepatitis C aún no hay vacuna.
+
+117
+00:06:51,300 --> 00:06:54,140
+Las hepatitis autoinmunes son otra de las causas importantes
+
+118
+00:06:54,140 --> 00:06:58,060
+de hepatitis crónica y aparte de esto el consumo crónico de alcohol
+
+119
+00:06:58,060 --> 00:07:03,900
+y de otros tóxicos que afectan al hígado de otros hepatotóxicos.
+
+120
+00:07:04,260 --> 00:07:07,500
+Finalmente, la insuficiencia cardíaca derecha, cierto,
+
+121
+00:07:07,500 --> 00:07:10,580
+eventualmente me produce una hepatitis congestiva, cierto,
+
+122
+00:07:10,580 --> 00:07:13,420
+que se puede traducir también en daño hepático crónico.
+
+123
+00:07:13,420 --> 00:07:15,900
+O sea, fíjense, las causas son distintas.
+
+124
+00:07:15,900 --> 00:07:19,140
+En particular hay que saber que dentro de las crónicas
+
+125
+00:07:19,140 --> 00:07:22,780
+la estetoepatitis no alcohólica, que suele ser una hepatitis
+
+126
+00:07:22,780 --> 00:07:26,220
+de tipo metabólica, es la más frecuente seguida del virus C
+
+127
+00:07:26,460 --> 00:07:28,460
+y de la hepatitis autoinmunes.
+
+128
+00:07:28,460 --> 00:07:32,300
+En ambos casos es súper importante buscar activamente
+
+129
+00:07:32,300 --> 00:07:35,100
+y tratar la causa, con la diferencia que la hepatitis aguda,
+
+130
+00:07:35,100 --> 00:07:39,140
+lo que voy a ir a buscar es la serología viral, cierto,
+
+131
+00:07:39,140 --> 00:07:43,940
+más el preguntarles si es que estuve expuesto alcohol
+
+132
+00:07:43,940 --> 00:07:46,940
+o algún fármaco o algún hongo o algún otro tóxico.
+
+133
+00:07:46,940 --> 00:07:50,700
+En cambio, en la hepatitis crónica lo que voy a ir a buscar
+
+134
+00:07:50,700 --> 00:07:52,820
+son la serología de otros virus, cierto,
+
+135
+00:07:52,820 --> 00:07:54,900
+más los marcadores de autoinmunidad,
+
+136
+00:07:54,900 --> 00:07:57,620
+más eventualmente ir a ver si es que tiene algún signo
+
+137
+00:07:57,620 --> 00:08:00,220
+de estetosis hepática para descartar el NAS.
+
+138
+00:08:00,220 --> 00:08:03,820
+Pero, repito, causas distintas, pero en ambos el enfoque es
+
+139
+00:08:03,820 --> 00:08:06,820
+ir a buscar de manera activa la causa y tratarla
+
+140
+00:08:06,820 --> 00:08:10,100
+como el manejo básico de las hepatitis, ya sea aguda o crónica.
+
+141
+00:08:10,860 --> 00:08:12,940
+¿Cuál es el riesgo de las hepatitis aguda?
+
+142
+00:08:12,940 --> 00:08:15,580
+Esto hay que saberlo, es que se complican con hepatitis fulminante,
+
+143
+00:08:15,580 --> 00:08:16,900
+que es algo muy, muy grave.
+
+144
+00:08:16,900 --> 00:08:19,500
+En cambio, el riesgo de las hepatitis crónica es que se complican
+
+145
+00:08:19,500 --> 00:08:23,340
+con daño hepático crónico, con cirrosis hepática,
+
+146
+00:08:23,420 --> 00:08:26,700
+que no son lo mismo el daño hepático que la cirrosis.
+
+147
+00:08:26,700 --> 00:08:27,940
+Lo vamos a ver con algún detalle después,
+
+148
+00:08:27,940 --> 00:08:31,620
+pero muchas veces se usan como un término indistinto.
+
+149
+00:08:31,620 --> 00:08:35,580
+Así que, repito, el riesgo en aguda es la falla hepática aguda de la muerte.
+
+150
+00:08:35,860 --> 00:08:38,380
+En cambio, en la hepatitis crónica es que evoluciona
+
+151
+00:08:38,380 --> 00:08:41,860
+a la cirrosis con todas las complicaciones del daño hepático crónico.
+
+152
+00:08:42,420 --> 00:08:44,820
+¿Qué examen se pide en la hepatitis aguda?
+
+153
+00:08:44,820 --> 00:08:47,020
+El más importante, como para el manejo,
+
+154
+00:08:47,020 --> 00:08:50,340
+ya dijimos que había que pedir exámenes para el estudio etiológico,
+
+155
+00:08:50,340 --> 00:08:53,180
+pero el más exámen, el más importante de los exámenes
+
+156
+00:08:53,180 --> 00:08:56,900
+para el manejo, perdón, es el T.P. o el INR,
+
+157
+00:08:56,940 --> 00:09:00,100
+en el sentido que si es que está alargado el T.P.,
+
+158
+00:09:00,100 --> 00:09:04,300
+si es que viene con una protrombinemia calculada abajo de 50%
+
+159
+00:09:04,300 --> 00:09:09,580
+o un INR arriba de 1,5%, uno dice viene con falla hepática importante
+
+160
+00:09:09,580 --> 00:09:12,380
+y el riesgo de hepatitis fulminante se dispara.
+
+161
+00:09:12,380 --> 00:09:15,340
+Así que, por el general, se hospitaliza a todo paciente
+
+162
+00:09:15,340 --> 00:09:17,940
+que está con la coagulopatía hepática,
+
+163
+00:09:17,940 --> 00:09:21,260
+con un síntoma o algún signo de insuficiencia hepática.
+
+164
+00:09:21,980 --> 00:09:24,740
+El examen, en cambio, que se pide en la hepatitis crónica,
+
+165
+00:09:24,740 --> 00:09:26,980
+por el general, es la biopsia hepática,
+
+166
+00:09:26,980 --> 00:09:31,580
+dado que justamente me muestra el grado de daño que ya hay,
+
+167
+00:09:31,580 --> 00:09:34,020
+que se ve con el nivel de fibrosis, cierto,
+
+168
+00:09:34,020 --> 00:09:36,100
+más el grado de inflamación del hígado
+
+169
+00:09:36,100 --> 00:09:40,340
+que me muestra finalmente la velocidad con la cual está empeorando
+
+170
+00:09:40,340 --> 00:09:43,900
+y, obviamente, en ambos casos se piden, además, las pruebas hepáticas
+
+171
+00:09:43,900 --> 00:09:46,220
+como para ver el funcionamiento del hígado en general.
+
+172
+00:09:47,180 --> 00:09:50,140
+En el caso de la hepatitis fulminante, esto hay que saberlo también,
+
+173
+00:09:50,140 --> 00:09:52,980
+el tratamiento habitualmente es el trasplante hepático,
+
+174
+00:09:52,980 --> 00:09:54,700
+de lo contrario el paciente se muere,
+
+175
+00:09:54,780 --> 00:10:00,460
+así que recordar, hepatitis aguda que empieza con compromiso de conciencia
+
+176
+00:10:00,460 --> 00:10:02,580
+es un paciente que seguramente se va a morir
+
+177
+00:10:02,580 --> 00:10:04,580
+si es que yo no le hago un trasplante hepático
+
+178
+00:10:04,580 --> 00:10:07,100
+y lo hospitalizo desde antes del compromiso de conciencia,
+
+179
+00:10:07,100 --> 00:10:08,740
+que es lo más grave, por si acaso,
+
+180
+00:10:08,740 --> 00:10:14,100
+con el alargamiento del tiempo de protrombina,
+
+181
+00:10:14,100 --> 00:10:15,860
+dado que ahí ya me muestra estallendo,
+
+182
+00:10:15,860 --> 00:10:17,340
+hace la insuficiencia hepática
+
+183
+00:10:17,340 --> 00:10:19,580
+y eventualmente se me puede complicar mucho.
+
+184
+00:10:19,580 --> 00:10:24,260
+Ahora, en el caso del daño hepático crónico con complicaciones,
+
+185
+00:10:24,260 --> 00:10:27,100
+en ese caso el trasplante hepático igualmente es el manejo,
+
+186
+00:10:27,100 --> 00:10:30,900
+así que fíjense, tanto las hepatitis agudas como las hepatitis crónicas
+
+187
+00:10:30,900 --> 00:10:34,860
+vienen con riesgos asociados, uno en la insuficiencia hepática aguda
+
+188
+00:10:34,860 --> 00:10:37,740
+que se llama hepatitis fulminante y que termina en trasplante hepático
+
+189
+00:10:37,740 --> 00:10:40,900
+y la otra es la insuficiencia hepática crónica,
+
+190
+00:10:40,900 --> 00:10:43,220
+cierto que se llama daño hepático crónico
+
+191
+00:10:43,220 --> 00:10:45,460
+y que eventualmente, si es que ya se agrava más,
+
+192
+00:10:45,460 --> 00:10:48,020
+puede que termine con un trasplante hepático también.
+
+193
+00:10:48,700 --> 00:10:51,980
+Bueno, eso es todo por ahora, en los siguientes videos
+
+194
+00:10:51,980 --> 00:10:54,100
+vamos a ir viendo las cosas con más detalles,
+
+195
+00:10:54,100 --> 00:10:55,740
+así que nos vemos ahí, que estén bien.

@@ -1,0 +1,269 @@
+En esta clase vamos a hablar muy brevemente de la neumonía por neumocistis hirobechi,
+
+que acuérdense que su clínica habitualmente viene con el antecedente de VIH o de alguna
+
+otra inmunodeficiencia, de alguna otra causa de inmunodepresión, pero no siempre,
+
+en algunas ocasiones simplemente me dan algún antecedente que me hace sospechar
+
+que pueda haber VIH, porque acuérdense que una de las formas en que se hace
+
+el diagnóstico de VIH es justamente porque debuta con alguna infección oportunista
+
+y la más frecuente es, al menos como enfermedad de debut, el neumociste y en este caso
+
+puede que me diga, tiene otra clínica de infecciones oportunistas, por ejemplo,
+
+tuvo una toxoplasmosis, tiene candidiasis o está con una diarrea crónica o viene
+
+con antecedentes de alguna otra infección de transmisión sexual que me sugiere
+
+el riesgo de VIH o viene con alguna otra clínica más inespecífica como,
+
+ejemplo, algún hombre joven con baja de peso y que no me dan más antecedentes,
+
+dado que, si bien el VIH no discrimina por orientación sexual, ni por edad,
+
+ni por ninguna cosa, la mayoría de los casos de neumocistes y de Kirovichy
+
+se ven en la práctica en hombres jóvenes sexualmente activos.
+
+Ahora, se caracteriza igualmente por síntomas bastante arrastrados,
+
+que duran de dos semanas hasta dos meses al momento de la consulta,
+
+en eso se parece mucho a las neumonías atípicas, a parte de esto muy frecuente
+
+que viene con tos seca, no es una tos húmeda como las neumonías por neumococo,
+
+que viene con mucha expectoración, en este caso la triada es tos seca,
+
+fiebre y disnea y eso está subrayado por lo mismo porque es la triada
+
+del neumociste Kirovichy y aparte de esto es muy frecuente que venga
+
+con sibilancia o con crépito, o sea, con una clínica bilateral
+
+y que puede ser un poco obstructiva.
+
+Ahora, en un 50% de los casos, y eso es bastante, el examen pulmonar
+
+es absolutamente normal, por si acaso.
+
+Ahora, la radiografía habitualmente viene con un patrón albiolointerticial,
+
+bilateral, difuso y en el caso del ataque, que es raro que se pide,
+
+pero eventualmente si es que se pide un ataque, uno habla de un patrón
+
+en vidrio esmerilado bilateral.
+
+Ahora, la pregunta más importante acá es, pero todo lo que acabo de mencionar
+
+es igual a la neumonía típica por micoplasma,
+
+¿cómo hago para diferenciarlo?
+
+Y pues lo más importante en este caso es el antecedente de la inmunodepresión.
+
+Si me dicen esa clínica a los 8 años, eso seguramente es un micoplasma.
+
+En cambio, si me dicen esa misma clínica a los 40 años
+
+y con algún otro antecedente que surgiera VIH,
+
+en ese caso, lo más probable es que sea una neumonía por neumocistia
+
+y giroveche, pero aún así, como pueden confundirse,
+
+lo importante es estudiarlo.
+
+Ahora, ¿cómo se hace el diagnóstico?
+
+Lo importante es identificar el neumocistia, este hongo,
+
+y esto se puede hacer con la inmunofluorescencia directa,
+
+que durante mucho tiempo fue el examen de elección,
+
+actualmente la PCR la ha desplazado porque tiene una sensibilidad un poquito más alta,
+
+o bien con algunas tinciones que eventualmente pueden ver al neumocistia.
+
+Ahora, ¿sirve este famoso el beta de glucano?
+
+Y la verdad es que eventualmente sí sirve,
+
+aunque es una molécula, es un examen que es bastante inespecífico
+
+para los distintos tipos de hongos.
+
+Y por lo mismo, si es que está alterado,
+
+no me diferencia entre un neumocistia y giroveche y ejemplo, unas pergilus.
+
+Ahora, en la práctica la PCR hace el diagnóstico
+
+y solamente en algunos casos en que no está disponible
+
+y si tengo disponible el beta de glucano,
+
+puedo pedirlo como un examen que si sale negativo
+
+me baja bastante la probabilidad.
+
+Ahora, ¿cuál es el tratamiento de la neumonía por neumocistia?
+
+Pues de elección es el cotrimoxazol,
+
+acuérdense que el cotrimoxazol es la abreviación
+
+para el sulfametoxazol más trimetoprim.
+
+Tanto la sulfa como el trimetoprim
+
+son inhibidores de la cadena de síntesis del ácido fólico,
+
+así que en ambos casos actúan como en el mismo nivel enzimático,
+
+bueno, no en las mismas enzimas,
+
+pero sí en la misma cadena enzimática de las bacterias
+
+y en ambos casos tienen riesgo de producir un déficit de folatos
+
+para las personas también
+
+y se deja habitualmente por bastante tiempo,
+
+por 21 días al menos.
+
+Como opciones existen varias,
+
+las vamos a leer rápidamente sabiendo que el cotrimoxazol
+
+es el que hay que saber,
+
+pero existe la clindamicina más primaquina,
+
+la dapsona más trimetoprim,
+
+la pentamidina que en general se usa poco
+
+porque tiene muchas reacciones adversas a medicamentos
+
+y algunas más raras como la atobacuona.
+
+En la práctica, con que sepan el cotrimoxazol estamos bien
+
+y si es que se quieren aprender algo más,
+
+la clindamicina y la dapsona, con eso ya estamos listos.
+
+Ahora, no solamente se manejan con los antibióticos,
+
+aparte de eso hay que dejarle corticoides
+
+en el caso de que tenga hipoxemia
+
+y la hipoxemia acá se define como una PaO2 menor
+
+a 70 milímetros de mercurio
+
+o bien si es que no le he hecho los gases arteriales
+
+se puede hacer con una saturación arterial abajo de 73
+
+que es más o menos equivalente a los 70 de PaO2.
+
+Junto con eso, junto con el antibiótico
+
+y junto con los corticoides que por el general
+
+se va a manejar con corticoides endovenosos
+
+o con prenizona bioral en el caso de que se maneje
+
+por vía ambulatoria,
+
+en este caso hay que dejarle el soporte respiratorio
+
+si viene con un cuadro muy severo
+
+y con la triterapia antiretroviral.
+
+De hecho, acuérdense que el manejo del VIH mismo
+
+es habitualmente la medida más importante
+
+en el manejo de las infecciones oportunistas en general.
+
+Ahora, como cosa final, está la profilaxis para el neumocistis.
+
+No solamente el neumocistis, sino que muchas de las infecciones
+
+oportunistas del VIH requieren una profilaxis.
+
+En este caso se requiere tanto la profilaxis primaria
+
+como la secundaria.
+
+En el caso de la primaria es
+
+los pacientes que nunca han tenido una neumonía por neumocistis
+
+igualmente si cumplen con ciertos criterios
+
+van a recibir antibióticos
+
+y secundaria obviamente desde el momento en que ya tuvo
+
+va a quedar con antibióticos durante un buen tiempo.
+
+Ahora, la forma en que esto se toma habitualmente
+
+es solamente una vez al día del Cotrimoxasol.
+
+En cambio, el tratamiento habitualmente
+
+son tres veces al día, son tres pastillas al día
+
+y se mantiene durante todo el tiempo
+
+en que tengan los CD4 abajo de 200.
+
+O sea, mientras el grado de inmunodepresión
+
+que se mide con los niveles plasmáticos
+
+o con el recuento sanguíneo de CD4
+
+de los linfocitos T-Helper, que son lo mismo,
+
+mientras esté abajo de 200 uno dice
+
+en este caso debo mantener el Cotrimoxasol una vez al día.
+
+Ahora, hay algunas otras opciones
+
+como ejemplo el Cotrimoxasol tres veces a la semana
+
+o bien algunas otras un poquito más raras también,
+
+pero el que hay que saberse es el Cotrimoxasol diario.
+
+Como cosa final, parte de la profilaxis de neumocistis
+
+es la triterapia antiretroviral
+
+que además es lo único que me va a ayudar
+
+a que los CD4 vayan subiendo
+
+de manera que lleguen arriba de 200
+
+e idealmente en rango normal arriba de 500.
+
+Y bueno, eso fue esta clase.
+
+Nos vemos en los siguientes videos. ¡Que estén bien!

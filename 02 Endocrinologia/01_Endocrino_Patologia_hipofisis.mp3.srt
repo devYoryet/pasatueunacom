@@ -1,0 +1,719 @@
+1
+00:00:00,000 --> 00:00:07,860
+Hola, hola, ¿cómo están? En esta clase vamos a empezar viendo el eje hipotalámico-hipoficiario,
+
+2
+00:00:07,860 --> 00:00:13,820
+recordando que controla a varias, pero no a todas, las glándulas endocrinas que están en el cuerpo.
+
+3
+00:00:13,820 --> 00:00:20,420
+Recordemos que por él en general el hipotálamo que está en el cerebro produce y libera a las
+
+4
+00:00:20,420 --> 00:00:26,140
+hormonas liberadoras, a las release hormones, y acuérdense que estas viajan a través del
+
+5
+00:00:26,140 --> 00:00:31,620
+sistema porta-hipotalámico-hipoficiario hasta la hipófisis, induciendo la producción de
+
+6
+00:00:31,620 --> 00:00:37,900
+las tropinas o hormonas estimulantes, las que a su vez viajan a través de la sangre periférica
+
+7
+00:00:37,900 --> 00:00:45,780
+hacia las distintas glándulas endocrinas, e inducen la producción y la liberación de las
+
+8
+00:00:45,780 --> 00:00:51,740
+distintas hormonas, e inducen, perdón. Ahora, la hormona final es la que hace el feedback negativo
+
+9
+00:00:51,740 --> 00:00:56,780
+no solamente ante la hipófisis, sino que además a nivel del hipotálamo. O sea,
+
+10
+00:00:56,780 --> 00:01:01,620
+en resumen, el hipotálamo estimula al hipófisis, que a su vez estimula a las glándulas endocrinas,
+
+11
+00:01:01,620 --> 00:01:06,220
+la que a su vez hace un feedback negativo que inhibe al hipófisis y al hipotálamo,
+
+12
+00:01:06,220 --> 00:01:13,540
+y ahí se regula y se mantiene este equilibrio. Veamos algunos ejemplos. La CRH,
+
+13
+00:01:13,540 --> 00:01:18,940
+hormona liberadora de corticotropina, se libera en el hipotálamo, viaja hasta la
+
+14
+00:01:18,940 --> 00:01:25,900
+hipófisis, ahí induce la liberación de la ACTH, o adeno corticotropina, que a su vez
+
+15
+00:01:25,940 --> 00:01:30,820
+viaja hasta las glándulas superrenales e induce la liberación de cortisol. Por otro lado,
+
+16
+00:01:30,820 --> 00:01:37,380
+la TRH, o hormona liberadora de tirotropina, actúa a nivel del hipófisis, y se libera en
+
+17
+00:01:37,380 --> 00:01:43,700
+ese lugar la TSH, o tirotropina, o hormona tiroestimulante, la cual a su vez actúa
+
+18
+00:01:43,700 --> 00:01:49,780
+a nivel de la tiroides, para la liberación de T4, que es lo mismo que la tiroxina,
+
+19
+00:01:49,780 --> 00:01:56,940
+la que queda esto bien claro. Luego se transforma en T3, trillodotironina, para actuar a nivel de
+
+20
+00:01:56,940 --> 00:02:02,180
+los distintos órganos del cuerpo, pero es la T4, no la T3, la que produce el feedback negativo
+
+21
+00:02:02,180 --> 00:02:07,580
+a nivel del hipófisis y del hipotálamo. Y esto, repito, es importante, va a quedar más
+
+22
+00:02:07,580 --> 00:02:13,260
+claro después. La acción biológica la tiene la T3, pero el feedback negativo en este eje la
+
+23
+00:02:13,260 --> 00:02:20,740
+tiene la T4, la tiroxina. La GRH, o hormona liberadora de hormona de crecimiento, que
+
+24
+00:02:20,740 --> 00:02:26,300
+G viene de growth, que significa crecimiento en inglés, actúa a nivel del hipófisis,
+
+25
+00:02:26,300 --> 00:02:31,340
+cierto, y ahí se libera la hormona de crecimiento, o growth hormone, y finalmente esto actúa a
+
+26
+00:02:31,340 --> 00:02:38,460
+nivel del hígado, en donde se libera el IGF1, que significa factor de crecimiento similar
+
+27
+00:02:38,460 --> 00:02:43,940
+a la insulina tipo 1, y el otro nombre que tiene un poco más fácil es somatomedina,
+
+28
+00:02:43,940 --> 00:02:51,140
+y la GH también se llama somatotrofina, por si acaso. Ahora, la GNRH, o hormona liberadora
+
+29
+00:02:51,140 --> 00:02:57,620
+de gonadotropinas, se llama también LHRH, en sentido que la hormona liberadora de LH,
+
+30
+00:02:57,620 --> 00:03:01,660
+o hormona luteinizante, que es una de las dos gonadotropinas, esa se libera a nivel
+
+31
+00:03:01,660 --> 00:03:06,660
+del hipotálamo, esa actúa a nivel del hipófisis para que se libere la LH, o hormona
+
+32
+00:03:06,660 --> 00:03:12,700
+luteinizante, y la FSH, o hormona folículo estimulante, la cual a su vez actúa en
+
+33
+00:03:12,700 --> 00:03:17,100
+las gónadas, en los ovarios, y en los testículos, en el caso de los hombres, para que se
+
+34
+00:03:17,100 --> 00:03:23,700
+produzcan las hormonas sexuales, digasé, estradiol, y aparte de eso, la testosterona.
+
+35
+00:03:23,700 --> 00:03:27,780
+Influyen de manera muy importante también en la producción de los gametos, digasé,
+
+36
+00:03:27,780 --> 00:03:33,420
+en el ovocito, cierto, y el espermatozoide. Ahora, hay una gran excepción, que es
+
+37
+00:03:33,420 --> 00:03:39,660
+la prolactina, en este caso, no hay un tono estimulante importante desde el hipotálamo,
+
+38
+00:03:39,660 --> 00:03:43,900
+bueno, hay uno, pero no es tan importante, lo más importante es que hay un tono inhibitorio
+
+39
+00:03:43,900 --> 00:03:50,460
+a través de la dopamina, cierto, y finalmente la prolactina va a inducir la producción
+
+40
+00:03:50,460 --> 00:03:56,440
+de leche a nivel de la glándula mamaria. Ahora, la TRH sí tiene alguna acción estimulante,
+
+41
+00:03:56,440 --> 00:04:01,100
+que la TRH era la que estimulaba la tirotropina, si es que se acuerdan, igualmente
+
+42
+00:04:01,100 --> 00:04:04,980
+ayuda a estimular un poco la producción de prolactina, pero, repito, lo más importante
+
+43
+00:04:04,980 --> 00:04:09,180
+no es este tono estimulante, sino que el tono inhibitorio de la dopamina, y eso hace
+
+44
+00:04:09,180 --> 00:04:14,460
+que cuando hay una compresión del tallo hipoficiario, ahí se ve que aumenta la
+
+45
+00:04:14,460 --> 00:04:18,220
+prolactina porque se pierde este tono inhibitorio de la dopamina, en cambio,
+
+46
+00:04:18,220 --> 00:04:21,940
+sí se ve una disminución de todas las otras hormonas que se producen a nivel
+
+47
+00:04:21,940 --> 00:04:28,060
+del hipoficio. O sea, en resumen, la compresión del tallo hipoficiario va a interferir
+
+48
+00:04:28,060 --> 00:04:36,060
+en este eje hipotalámico-hipoficiario, va a interferir en el sistema porta-hipotalámico-hipoficiario,
+
+49
+00:04:36,060 --> 00:04:41,220
+y eso hace que se produzca un hipopituitarismo, pero con hiperprolactinemia.
+
+50
+00:04:41,220 --> 00:04:46,580
+Sigamos acá. Vamos a ir viendo la lesión a nivel del hipotálamo, de la hipófisis
+
+51
+00:04:46,580 --> 00:04:51,820
+y de la glándula endocrina, cómo se ve en los niveles de las hormonas liberadoras
+
+52
+00:04:51,820 --> 00:04:57,660
+hipotalámicas, en las hormonas estimulantes de la hipófisis y en la hormona final
+
+53
+00:04:57,660 --> 00:05:01,100
+de las distintas glándulas. Y lo más importante es recordar qué es lo que
+
+54
+00:05:01,100 --> 00:05:04,980
+ocurre en primer lugar. Entonces, si yo tengo una lesión en el hipotálamo,
+
+55
+00:05:04,980 --> 00:05:11,340
+lo primero que ocurre es que cae la RH, cae la hormona liberadora y eso
+
+56
+00:05:11,340 --> 00:05:15,940
+hace que, obviamente, no se estimule la hipófisis, así que cae igualmente la
+
+57
+00:05:15,940 --> 00:05:20,900
+hormona estimulante y que a su vez no se estimule la glándula final y
+
+58
+00:05:20,900 --> 00:05:24,300
+eso hace que caiga la hormona final también. Si es que se daña, en cambio,
+
+59
+00:05:24,340 --> 00:05:29,540
+la hipófisis, en ese caso va a caer la hormona estimulante, lo cual va a ser que
+
+60
+00:05:29,540 --> 00:05:33,260
+caiga la producción de hormona final y finalmente que se eleve porque se
+
+61
+00:05:33,260 --> 00:05:37,580
+pierde el feedback negativo hacia el hipotálamo, así que la hormona
+
+62
+00:05:37,580 --> 00:05:41,380
+liberadora hipotalámica, en cambio, se va a aumentar. Y finalmente, si es que
+
+63
+00:05:41,380 --> 00:05:46,060
+yo tengo un daño en la glándula, si es que tengo una hipoproducción
+
+64
+00:05:46,060 --> 00:05:49,620
+endocrina primaria a nivel de la glándula final, en ese caso se pierde
+
+65
+00:05:49,620 --> 00:05:53,140
+el feedback negativo hacia la hipófisis y el hipotálamo, así que va a
+
+66
+00:05:53,340 --> 00:05:57,300
+aumentar los niveles tanto de hormona liberadora como de las hormonas
+
+67
+00:05:57,300 --> 00:06:00,460
+estimulantes a nivel hipoficiario. Va quedando más o menos claro. Si es que
+
+68
+00:06:00,460 --> 00:06:04,020
+no, veamos qué pasa, en cambio, cuando hay hiperproducción a nivel del
+
+69
+00:06:04,020 --> 00:06:08,540
+hipófisis y a nivel de la glándula. Si es que hay una hiperproducción
+
+70
+00:06:08,540 --> 00:06:12,180
+a nivel hipoficiario, obviamente aumenta la liberación de esta
+
+71
+00:06:12,180 --> 00:06:16,980
+hormona estimulante, lo cual va a inducir que aumente igualmente la
+
+72
+00:06:16,980 --> 00:06:20,220
+producción de la hormona final, lo cual a su vez va a venir con un
+
+73
+00:06:20,260 --> 00:06:24,180
+feedback negativo hacia el hipotálamo y obviamente va a caer la producción
+
+74
+00:06:24,180 --> 00:06:27,780
+de las hormonas liberadoras hipotalámicas. En cambio, si es que
+
+75
+00:06:27,780 --> 00:06:32,380
+hay un aumento a nivel de la producción de la glándula final, ejemplo,
+
+76
+00:06:32,380 --> 00:06:35,780
+en un hipertiroidismo primario, en ese caso se produce el feedback
+
+77
+00:06:35,780 --> 00:06:39,340
+negativo hacia el hipotálamo, hacia la hipófisis y obviamente va a
+
+78
+00:06:39,340 --> 00:06:42,260
+caer la producción de las hormonas liberadoras y las hormonas
+
+79
+00:06:42,260 --> 00:06:46,020
+estimulantes. Si no quedó claro, pues va a quedar más claro ahora con
+
+80
+00:06:46,020 --> 00:06:51,540
+algunos casos. Vamos a ir viendo los distintos casos en el caso
+
+81
+00:06:51,540 --> 00:06:56,060
+del eje hipotálamo-hipoficiario suprarrenal con la ACTH y con el
+
+82
+00:06:56,060 --> 00:07:00,420
+cortisol. Y si es que yo tengo que la ACTH y el cortisol están
+
+83
+00:07:00,420 --> 00:07:04,340
+ambos elevados, ¿qué ocurrió primero? Fue que la ACTH se elevó
+
+84
+00:07:04,340 --> 00:07:08,660
+y estimuló al cortisol, que parece algo más obvio, o bien es
+
+85
+00:07:08,660 --> 00:07:12,740
+que el cortisol se elevó y eso estimula a la ACTH, eso no puede
+
+86
+00:07:12,740 --> 00:07:15,940
+ser en el sentido que el cortisol inhibe a la ACTH. Así que lo
+
+87
+00:07:15,940 --> 00:07:19,220
+que ocurrió en primer lugar fue que la ACTH se elevó, o sea, tengo
+
+88
+00:07:19,220 --> 00:07:22,860
+una hiperproducción de ACTH, o sea, tengo una enfermedad de
+
+89
+00:07:22,860 --> 00:07:26,700
+Cushing, que es un tumor productor de ACTH a nivel del hipófisis.
+
+90
+00:07:26,700 --> 00:07:29,380
+Va quedando un poquito más claro. Si es que no, veamos el
+
+91
+00:07:29,380 --> 00:07:33,180
+segundo caso. Tengo la ACTH que está alta y tengo el cortisol
+
+92
+00:07:33,180 --> 00:07:36,180
+que está bajo. En este caso, la única explicación que hay es que
+
+93
+00:07:36,180 --> 00:07:40,460
+el cortisol bajó inicialmente y eso hizo que se perdiera el
+
+94
+00:07:40,460 --> 00:07:44,300
+feedback negativo sobre la hipófisis y de esa manera se
+
+95
+00:07:44,300 --> 00:07:47,780
+elevó la ACTH. Así que el diagnóstico es un problema de
+
+96
+00:07:47,780 --> 00:07:50,900
+hipoproducción a nivel de la glándula suprarrenal, o sea,
+
+97
+00:07:50,900 --> 00:07:53,980
+estamos con una enfermedad de Addison o una insuficiencia
+
+98
+00:07:53,980 --> 00:07:57,980
+suprarrenal primaria. El tercer caso, la ACTH está baja y
+
+99
+00:07:57,980 --> 00:08:00,620
+el cortisol está bajo también. En este caso, la única
+
+100
+00:08:00,620 --> 00:08:04,660
+explicación es que la ACTH bajó, lo cual hizo que el
+
+101
+00:08:04,660 --> 00:08:07,980
+cortisol no fuera estimulado y bajara. Ese es el único
+
+102
+00:08:08,860 --> 00:08:11,860
+Así que nuevamente tengo una hipoproducción a nivel de la
+
+103
+00:08:11,860 --> 00:08:14,300
+hipófisis, así que el diagnóstico sería una
+
+104
+00:08:14,300 --> 00:08:17,540
+insuficiencia suprarrenal hipoficiaria o también llamada
+
+105
+00:08:17,540 --> 00:08:20,220
+insuficiencia suprarrenal secundaria, que se puede dar
+
+106
+00:08:20,220 --> 00:08:23,300
+ejemplo en contexto de un hipopituitarismo por alguna
+
+107
+00:08:23,300 --> 00:08:27,220
+razón. Y finalmente, si es que tengo la ACTH baja y el
+
+108
+00:08:27,220 --> 00:08:30,100
+cortisol que está elevado, en ese caso, al estar el
+
+109
+00:08:30,100 --> 00:08:34,380
+cortisol elevado, eso es lo que inhibe la liberación de
+
+110
+00:08:34,380 --> 00:08:36,940
+ACTH. Así que sin ninguna duda, tengo una hiper
+
+111
+00:08:36,940 --> 00:08:39,660
+producción a nivel suprarrenal y el diagnóstico
+
+112
+00:08:39,660 --> 00:08:42,180
+sería un síndrome de Cushing primario por hiper
+
+113
+00:08:42,180 --> 00:08:45,020
+producción adrenal de cortisol. Quedó un poquito más
+
+114
+00:08:45,020 --> 00:08:47,460
+claro. Si es que no, sigamos. Vamos a verlo ahora lo
+
+115
+00:08:47,460 --> 00:08:51,300
+mismo con la tiroides y de esta manera, si es que ya
+
+116
+00:08:51,300 --> 00:08:53,540
+queda totalmente claro, van a estar listos para
+
+117
+00:08:53,540 --> 00:08:56,460
+enfrentar el resto de las clases. Pero empecemos. La
+
+118
+00:08:56,460 --> 00:09:00,900
+TCH alta, la T4 alta, que fue en primer lugar lo que
+
+119
+00:09:00,900 --> 00:09:04,180
+ocurrió. Sin ninguna duda, la TCH se elevó, o sea,
+
+120
+00:09:04,220 --> 00:09:07,820
+tengo una hiper producción de TCH a nivel hipoficiario
+
+121
+00:09:07,820 --> 00:09:10,500
+porque ahí es donde se produce la TCH. Así que el
+
+122
+00:09:10,500 --> 00:09:14,340
+diagnóstico es un tumor productor de TCH a nivel de
+
+123
+00:09:14,340 --> 00:09:18,540
+la hipófici o un hipertiroidismo cierto de
+
+124
+00:09:18,540 --> 00:09:21,460
+tipo secundario de tipo hipoficiario. Si es que yo
+
+125
+00:09:21,460 --> 00:09:24,260
+tengo la TCH que está alta y la T4 libre que está
+
+126
+00:09:24,260 --> 00:09:27,340
+baja. En ese caso, lo que ocurrió en primer lugar
+
+127
+00:09:27,620 --> 00:09:30,700
+es que la T4 libre bajó, lo cual a su vez hizo
+
+128
+00:09:30,700 --> 00:09:35,780
+que no pudiera mantenerse en niveles normales la
+
+129
+00:09:35,780 --> 00:09:38,740
+TCH porque se pierde el tono inhibitorio y por lo
+
+130
+00:09:38,740 --> 00:09:41,700
+mismo sube. Así que lo que tengo es una hipo
+
+131
+00:09:41,700 --> 00:09:43,780
+producción a nivel de la glándula tiroides. O
+
+132
+00:09:43,780 --> 00:09:46,900
+sea, tengo un hipotiroidismo primario, ejemplo,
+
+133
+00:09:47,180 --> 00:09:49,620
+una enfermedad de Hashimoto o alguna otra por
+
+134
+00:09:49,620 --> 00:09:53,180
+el estilo. Si es que tengo la TCH baja y la T4
+
+135
+00:09:53,180 --> 00:09:55,300
+libre que también está baja, lo que ocurrió en
+
+136
+00:09:55,300 --> 00:09:57,700
+primer lugar, sin ninguna duda, es que cayó la
+
+137
+00:09:57,740 --> 00:10:00,860
+producción de TCH y por lo mismo no se estimuló la
+
+138
+00:10:00,860 --> 00:10:04,740
+tiroides y cae esta producción de T4, cierto?
+
+139
+00:10:05,100 --> 00:10:07,980
+Así que el diagnóstico sería un hipotiroidismo a
+
+140
+00:10:07,980 --> 00:10:11,380
+nivel hipoficiario o bien un hipotiroidismo
+
+141
+00:10:11,380 --> 00:10:14,740
+secundario. Y finalmente, si es que tengo la TCH
+
+142
+00:10:14,740 --> 00:10:17,500
+que está baja y la T4 libre que está alta, en
+
+143
+00:10:17,500 --> 00:10:19,900
+ese caso, el único orden lógico es que la T4
+
+144
+00:10:19,900 --> 00:10:22,860
+libre aumentó, lo cual a su vez inhibió a la
+
+145
+00:10:22,860 --> 00:10:27,420
+TCH. Así que tengo una hiperproducción de T4
+
+146
+00:10:27,420 --> 00:10:31,060
+libre, cierto, a nivel de la glándula final, o
+
+147
+00:10:31,060 --> 00:10:33,700
+sea, tengo un hipertiroidismo de tipo primario,
+
+148
+00:10:33,700 --> 00:10:36,580
+ejemplo, una enfermedad de Baseu Graves, si es
+
+149
+00:10:36,580 --> 00:10:39,060
+que no quedó claro, pues va a quedar claro las
+
+150
+00:10:39,060 --> 00:10:41,740
+siguientes clases igual. Pero veamos finalmente el
+
+151
+00:10:41,740 --> 00:10:44,300
+último tema relacionado con el eje hipotalámico
+
+152
+00:10:44,300 --> 00:10:46,780
+hipoficiario, que es la neurohipófisis. Lo
+
+153
+00:10:46,780 --> 00:10:49,340
+anterior era la adenohipófisis y en este
+
+154
+00:10:49,340 --> 00:10:51,980
+caso el hipotálamo es quien produce la
+
+155
+00:10:51,980 --> 00:10:55,580
+hormona y la libera en la neurohipófisis, o
+
+156
+00:10:55,580 --> 00:10:57,940
+sea, la hormona se produce arriba, pero viaja
+
+157
+00:10:57,940 --> 00:11:00,900
+a través de los axones de algunas neuronas, no
+
+158
+00:11:00,900 --> 00:11:03,260
+viaja a través del sistema porta, no viaja
+
+159
+00:11:03,260 --> 00:11:06,820
+a través de la sangre, sino que viaja de
+
+160
+00:11:06,820 --> 00:11:09,540
+manera nerviosa a través de un axón y por
+
+161
+00:11:09,540 --> 00:11:12,140
+lo mismo que se llama neurohipófisis y ahí se
+
+162
+00:11:12,140 --> 00:11:14,460
+liberan estas hormonas. Estas hormonas son
+
+163
+00:11:14,460 --> 00:11:18,860
+dos, la ADH, hormona antidiurética o vasopresina
+
+164
+00:11:18,860 --> 00:11:21,940
+y finalmente la oxitocina y lo que estimula
+
+165
+00:11:21,980 --> 00:11:26,500
+habitualmente la producción de ADH es el
+
+166
+00:11:26,500 --> 00:11:29,500
+aumento de la osmolaridad, la hiperosmolaridad o
+
+167
+00:11:29,500 --> 00:11:33,100
+la hipernatremia, lo cual a su vez hace que la
+
+168
+00:11:33,100 --> 00:11:35,820
+ADH actúe a nivel renal y aumente la
+
+169
+00:11:35,820 --> 00:11:38,860
+reabsorción de agua, bajando un poquito esta
+
+170
+00:11:38,860 --> 00:11:40,940
+osmolaridad plasmática. Y finalmente en el
+
+171
+00:11:40,940 --> 00:11:42,900
+caso de la oxitocina, el estímulo más
+
+172
+00:11:42,900 --> 00:11:46,260
+importante es la succión por parte del bebé
+
+173
+00:11:46,260 --> 00:11:49,060
+en el pezón, cierto, lo cual hace que se
+
+174
+00:11:49,060 --> 00:11:51,660
+probosca la inyección de leche y la oxitocina
+
+175
+00:11:51,660 --> 00:11:54,860
+además, como bien saben, tiene algún efecto a
+
+176
+00:11:54,860 --> 00:11:57,140
+nivel del útero, cierto, y es la encargada de
+
+177
+00:11:57,140 --> 00:11:58,660
+las contracciones uterinas durante el
+
+178
+00:11:58,660 --> 00:12:01,340
+parto. Y bueno, eso es todo, una clase larga
+
+179
+00:12:01,340 --> 00:12:02,900
+pero necesaria, así que nos vemos en los
+
+180
+00:12:02,900 --> 00:12:03,860
+siguientes temas. Que estén bien.

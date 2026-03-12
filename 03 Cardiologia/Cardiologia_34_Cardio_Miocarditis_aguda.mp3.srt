@@ -1,0 +1,227 @@
+1
+00:00:00,000 --> 00:00:07,410
+Hola, ¿cómo están? Hablemos muy brevemente de las miocarditis aguda, recordando que su
+
+2
+00:00:07,410 --> 00:00:11,970
+clínica suele ser concomitante a una infección respiratoria, ya sea actual o
+
+3
+00:00:11,970 --> 00:00:15,970
+previa, en el sentido en que muchas veces son causadas por
+
+4
+00:00:15,970 --> 00:00:19,290
+infecciones virales o bien son reacciones inmunológicas a una
+
+5
+00:00:19,290 --> 00:00:23,130
+infección viral previa, como ocurre con el COVID, por ejemplo. Además, en
+
+6
+00:00:23,130 --> 00:00:27,410
+algunas oportunidades viene con algún otro antecedente que me obliga a
+
+7
+00:00:27,410 --> 00:00:32,370
+sospecharla como la adenitis mesentérica, que per se es algo habitualmente
+
+8
+00:00:32,370 --> 00:00:35,870
+autolimitado que me refleja una infección viral, pero si es que viene
+
+9
+00:00:35,870 --> 00:00:39,970
+aparte con clínica de miocarditis, me apoya el diagnóstico de la miocarditis.
+
+10
+00:00:39,970 --> 00:00:43,430
+Lo mismo en la enfermedad de Kawasaki, que acuérdense que una de las
+
+11
+00:00:43,430 --> 00:00:48,110
+complicaciones más importantes en agudo y que era la causa más
+
+12
+00:00:48,110 --> 00:00:52,690
+frecuente de muerte en el Kawasaki agudo, era la miocarditis aguda y
+
+13
+00:00:52,690 --> 00:00:57,410
+finalmente el famoso PIMS, síndrome inflamatorio multisistémico
+
+14
+00:00:57,410 --> 00:01:00,690
+pediátrico, que era una de las complicaciones post-COVID.
+
+15
+00:01:00,690 --> 00:01:04,550
+Su clínica habitualmente viene con falla cardíaca aguda, con una
+
+16
+00:01:04,550 --> 00:01:08,630
+insuficiencia cardíaca congestiva aguda, con shock cardiogénico, en el
+
+17
+00:01:08,630 --> 00:01:12,150
+sentido en que puede ser muy grave. A veces viene con un curso un poquito
+
+18
+00:01:12,150 --> 00:01:15,670
+más lento, más subagudo. En otras oportunidades viene con un cuadro muy
+
+19
+00:01:15,670 --> 00:01:20,270
+muy muy grave, muy rápido, que lleva rápidamente a la muerte y que uno
+
+20
+00:01:20,270 --> 00:01:24,530
+habla de una miocarditis fulminante o una insuficiencia cardíaca fulminante
+
+21
+00:01:24,530 --> 00:01:28,090
+asociada a miocarditis. Además, con algunas frecuencias se complica con
+
+22
+00:01:28,090 --> 00:01:30,850
+arritmias, en particular con las arritmias ventriculares como la
+
+23
+00:01:30,850 --> 00:01:34,210
+taquicar de ventricular y se puede presentar como muerte súbita también.
+
+24
+00:01:34,210 --> 00:01:38,130
+El diagnóstico por la general requiere de una sospecha clínica
+
+25
+00:01:38,130 --> 00:01:43,650
+importante y se puede apoyar con la elevación de los parámetros de
+
+26
+00:01:43,650 --> 00:01:47,450
+daño miocárdico, dígase con las troponinas, que en este caso no es
+
+27
+00:01:47,550 --> 00:01:51,190
+en una sospecha de un infarto, sino que en una sospecha de miocarditis y se
+
+28
+00:01:51,190 --> 00:01:57,990
+elevan muchísimo. Lo mismo con la CKMB, incluso con la GOT, por ejemplo,
+
+29
+00:01:57,990 --> 00:02:01,510
+que es una transaminasa, se puede elevar bastante en esta enfermedad.
+
+30
+00:02:01,510 --> 00:02:06,470
+La ecografía cardíaca, el ecocardiograma, eventualmente me
+
+31
+00:02:06,470 --> 00:02:10,430
+muestra la difusión sistólica y es uno de los elementos de apoyo
+
+32
+00:02:10,430 --> 00:02:14,110
+diagnóstico más importante. Y en el caso del electrocardiograma, a veces
+
+33
+00:02:14,250 --> 00:02:19,210
+está normal y a veces está alterado con deformación del complejo QRS o
+
+34
+00:02:19,210 --> 00:02:23,210
+con arritmias de distinto tipo, por si acaso. La forma en que
+
+35
+00:02:23,210 --> 00:02:26,050
+habitualmente se confirma el diagnóstico es con la biopsia, la cual
+
+36
+00:02:26,050 --> 00:02:30,370
+suele no hacerse, por si acaso, sino que se maneja directamente ante una
+
+37
+00:02:30,370 --> 00:02:34,250
+alta sospecha clínica como una miocarditis y eso sí se ve con
+
+38
+00:02:34,250 --> 00:02:38,090
+alguna frecuencia en la biopsia de la autopsia. Dígase, el paciente se
+
+39
+00:02:38,090 --> 00:02:41,490
+muere, no sabemos bien de qué se murió porque había consultado por un
+
+40
+00:02:41,490 --> 00:02:45,150
+resfrío y luego de eso se complica y finalmente nadie sabe qué cosa
+
+41
+00:02:45,150 --> 00:02:48,830
+tenía y se ve que lo que tenía era una miocarditis fulminante,
+
+42
+00:02:48,830 --> 00:02:52,470
+gravísima y que falleció de eso. El tratamiento de las miocarditis
+
+43
+00:02:52,470 --> 00:02:56,390
+agúas, por lo general, es el soporte, dígase los fármacos
+
+44
+00:02:56,390 --> 00:02:59,510
+para la insuficiencia cardíaca, los antiharrítmicos en el caso de
+
+45
+00:02:59,510 --> 00:03:03,670
+que tenga arritmias, más eventualmente el manejo de la causa,
+
+46
+00:03:03,670 --> 00:03:08,710
+si es que se se identifica y como es una infección o es una
+
+47
+00:03:08,770 --> 00:03:12,730
+enfermedad autoinmune inflamatoria, muchas veces están indicados los
+
+48
+00:03:12,730 --> 00:03:16,210
+corticoides, la inmunoglobulina G endovenosa, en particular en el
+
+49
+00:03:16,210 --> 00:03:20,170
+Kawasaki y en el Sims y eventualmente en algunos casos que evolucionan
+
+50
+00:03:20,170 --> 00:03:24,170
+muy graves se manejan con el trasplante cardiaco también. Ahora,
+
+51
+00:03:24,170 --> 00:03:28,810
+para cerrar este tema, las vacunas pueden producir una
+
+52
+00:03:28,810 --> 00:03:32,050
+miocarditis y la verdad es que si viene una complicación muy
+
+53
+00:03:32,050 --> 00:03:36,330
+muy rara, eventualmente las vacunas sí pueden producir una
+
+54
+00:03:36,350 --> 00:03:39,270
+miocarditis, pero suele ser menos grave que la causada por los
+
+55
+00:03:39,270 --> 00:03:42,070
+virus, por si acaso, y eso es importante tenerlo bien, bien
+
+56
+00:03:42,070 --> 00:03:43,790
+claro. Y bueno, eso es todo lo que hay que saber.
+
+57
+00:03:43,790 --> 00:03:44,790
+Nos vemos en el siguiente tema.

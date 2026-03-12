@@ -1,0 +1,519 @@
+1
+00:00:03,280 --> 00:00:07,920
+Hola, hola, ¿cómo están? Entremos de lleno al tratamiento de la diabetes mellitus 2. Hay que saber
+
+2
+00:00:07,920 --> 00:00:13,000
+todos los pasos que hipoglicemiantes dejar, cuándo dejar insulina, etcétera, así que empecemos al
+
+3
+00:00:13,000 --> 00:00:18,760
+tiro. Sepan que el paso número uno es cambiar el estilo de vida, digas hacer deporte, dejar de
+
+4
+00:00:18,760 --> 00:00:24,400
+fumar, hacer dieta, bajar de peso en el caso de que venga con sobrepeso o con obesidad y
+
+5
+00:00:24,400 --> 00:00:30,280
+además iniciar metformina desde el diagnóstico. Actualmente la recomendación es, parta con
+
+6
+00:00:30,280 --> 00:00:36,920
+metformina de entrada y, si me preguntan, ¿hay alguna excepción? Pues podría haber una excepción
+
+7
+00:00:36,920 --> 00:00:41,400
+como para la vida real, al menos, un paciente con una diabetes leve, que tiene que ser leve,
+
+8
+00:00:41,400 --> 00:00:47,640
+o sea con una hemoglobina glicosilada apenas por sobre el óptimo y que venga con un
+
+9
+00:00:47,640 --> 00:00:51,680
+estilo de vida que no sea muy saludable pero que esté dispuesto a cambiarlo a un estilo
+
+10
+00:00:51,680 --> 00:00:57,160
+de vida bien saludable con tal de ahorrarse los fármacos. Uno dice, bueno, ya intentémoslo
+
+11
+00:00:57,160 --> 00:01:01,600
+y si en tres meses anda bien, se queda sin fármacos, pero la inmensa mayoría de los
+
+12
+00:01:01,600 --> 00:01:06,400
+diabéticos tipo 2 empiezan no sólo con el cambio en estilo de vida, sino que con metformina de
+
+13
+00:01:06,400 --> 00:01:13,080
+entrada. Ahora, el segundo paso que es cuando no he logrado un control glicémico adecuado,
+
+14
+00:01:13,080 --> 00:01:18,080
+entendido como que no he logrado bajar la hemoglobina glicosilada bajo 7 o bajo el
+
+15
+00:01:18,080 --> 00:01:22,440
+objetivo de control según su edad y su comorbilidad, en ese caso el segundo paso
+
+16
+00:01:22,440 --> 00:01:27,600
+es aumentar la dosis de metformina y si de ejemplo estaba con 500 cada 8, lo subo a un
+
+17
+00:01:27,600 --> 00:01:32,760
+gramo cada 8 o si es que estaba con 500 en la mañana, intento con 8.50 cada 12 horas, etcétera.
+
+18
+00:01:32,760 --> 00:01:38,760
+Ahora, cuando no es suficiente con eso tampoco y la hemoglobina glicosilada sigue arriba del
+
+19
+00:01:38,760 --> 00:01:42,800
+rango, pues lo que se hace es agregar un segundo hipoglicemiante oral. Ahora,
+
+20
+00:01:42,800 --> 00:01:46,160
+¿qué hipoglicemiante oral? La verdad es que va a depender de una serie de cosas que
+
+21
+00:01:46,160 --> 00:01:52,280
+vamos a ver en un rato más, pero en general aquí me quedo con la metformina y agrego un
+
+22
+00:01:52,280 --> 00:01:58,000
+medicamento adicional y fíjense, llegué a la dosis máxima de metformina antes de agregar el
+
+23
+00:01:58,000 --> 00:02:04,000
+segundo hipoglicemiante. Luego de eso, se sigue aumentando la dosis de este segundo
+
+24
+00:02:04,000 --> 00:02:08,400
+hipoglicemiante, o sea, antes de pasar la insulina yo me quedo con dos hipoglicemiantes
+
+25
+00:02:08,400 --> 00:02:13,040
+en dosis máxima y al menos yo les recomiendo que se sepan las dosis máximas de los
+
+26
+00:02:13,040 --> 00:02:17,960
+hipoglicemiantes más usados. En el caso de la metformina, la dosis máxima es 3 gramos al día,
+
+27
+00:02:17,960 --> 00:02:23,360
+1 gramo cada 8 horas, pero sepan que entre 2 y 3 es poca la diferencia, así que eventualmente
+
+28
+00:02:23,360 --> 00:02:29,640
+si alguien está con más de 2 gramos, con menos de 3 y con la hemoglobina glicosilada muy alta,
+
+29
+00:02:29,640 --> 00:02:34,000
+no me sirve seguir subiendo, ahí lo más probable es que le voy a agregar un segundo
+
+30
+00:02:34,000 --> 00:02:38,280
+hipoglicemiante. Ahora, en el caso de la glidenclemida, la dosis máxima al día es
+
+31
+00:02:38,280 --> 00:02:44,160
+20 milígramos al día, dígase 10 milígramos cada 12 horas, y esa es la forma en que
+
+32
+00:02:44,160 --> 00:02:48,880
+habitualmente se da. Y finalmente la cita agliptina, la dosis máxima son 100 milígramos al día,
+
+33
+00:02:48,880 --> 00:02:56,280
+que habitualmente se da 50 milígramos cada 12 horas. Ahora, el siguiente paso, que estoy
+
+34
+00:02:56,280 --> 00:03:01,400
+con los dos hipoglicemiantes y que sigo todavía con la hemoglobina glicosilada arriba de 7%,
+
+35
+00:03:01,400 --> 00:03:06,720
+es agregar insulina, y la forma en que se empieza es con insulina NPH, una dosis,
+
+36
+00:03:06,720 --> 00:03:13,800
+habitualmente en la noche. Y la dosis que habitualmente se deja son 10 unidades,
+
+37
+00:03:13,800 --> 00:03:19,440
+10 unidades subcutáneas de NPH una vez en la noche, aunque esa dosis puede variar según el
+
+38
+00:03:19,440 --> 00:03:25,400
+peso del paciente y algunas otras cosas, pero es la más habitual. Luego de eso, el paso
+
+39
+00:03:25,400 --> 00:03:31,000
+6 es habitualmente aumentar la NPH nocturna, pero siempre y cuando las glicemias de yuno
+
+40
+00:03:31,000 --> 00:03:34,920
+sigan muy altas, en el sentido en que acuérdense que la glicemia de yuno dependía
+
+41
+00:03:34,920 --> 00:03:40,520
+de la NPH nocturna, de la NPH de varias horas antes. En cambio, cuando la glicemia de yuno
+
+42
+00:03:40,520 --> 00:03:47,680
+está buena, lo que se suele agregar en cambio es una dosis de NPH, pero en la mañana,
+
+43
+00:03:47,680 --> 00:03:52,400
+que en específico acuérdense que bajaba las glicemias pre almuerzo y presena,
+
+44
+00:03:52,400 --> 00:03:57,360
+así que se deja siempre y cuando estén la glicemia de yuno buena, pero la glicemia
+
+45
+00:03:57,360 --> 00:04:02,560
+pre almuerzo y presena elevada. Finalmente, en el tratamiento de la diabetes 2 también se
+
+46
+00:04:02,560 --> 00:04:07,840
+pueden agregar estos refuerzos de insulina cristalina y habitualmente se hacía cuando
+
+47
+00:04:07,840 --> 00:04:13,280
+la glicemia pos comida estaban muy altas, en cambio las glicemias pre comidas estaban
+
+48
+00:04:13,280 --> 00:04:17,720
+buenas, porque acuérdense que las pre comidas incidían en las pos comidas,
+
+49
+00:04:17,720 --> 00:04:22,240
+así que si tengo las pos comidas malas y las pre comidas malas, lo que hago es ajustar
+
+50
+00:04:22,240 --> 00:04:26,960
+las NPH, pero si es que tengo la pos comida mala con la pre comida buena,
+
+51
+00:04:26,960 --> 00:04:31,840
+en ese caso solamente me queda ajustar las insulinas rápidas. Como cosa adicional,
+
+52
+00:04:31,840 --> 00:04:38,280
+en vez de las NPH también se puede dejar la insulina glargina o alguna otra de las
+
+53
+00:04:38,280 --> 00:04:44,160
+insulinas ultra lenta como el de temir o el de gludec. Ahora, sigamos con el tratamiento
+
+54
+00:04:44,160 --> 00:04:48,960
+de la diabetes 2. ¿Qué pasa cuando alguien está con metformina pero tiene
+
+55
+00:04:48,960 --> 00:04:53,480
+intolerancia a la metformina, le da diarrea, le da náuseas o alguna cosa de ese tipo?
+
+56
+00:04:53,480 --> 00:04:57,960
+Dado que la metformina es buena, bonita y barata, la recomendación actual es
+
+57
+00:04:57,960 --> 00:05:04,320
+intenté cambiar la dosificación y espaciarla o bien dejar los medicamentos de liberación
+
+58
+00:05:04,320 --> 00:05:13,160
+prolongada como la metformina XR, ya sea de 850 XR o de un gramo XR, la más frecuente es
+
+59
+00:05:13,160 --> 00:05:19,440
+la de 850 XR de liberación retardada y en el caso en que los síntomas gastrointestinales
+
+60
+00:05:19,440 --> 00:05:25,520
+sigan, pues no queda más que cambiarse a otro hipoglicemiante. O sea, suspendo la metformina
+
+61
+00:05:25,520 --> 00:05:32,000
+y voy a indicar un hipoglicemiante distinto. Ahora, cuando está contraindicada la metformina,
+
+62
+00:05:32,000 --> 00:05:38,040
+ejemplo en la falla renal o en la insuficiencia cardíaca, en ese caso lo habitual es que
+
+63
+00:05:38,040 --> 00:05:42,240
+estén contraindicados muchos de los otros hipoglicemiantes también, pero hay algunos
+
+64
+00:05:42,240 --> 00:05:45,960
+que no y en ese caso dejo este otro hipoglicemiante, pero la alternativa
+
+65
+00:05:45,960 --> 00:05:50,080
+obviamente es dejar insulina también. Si se acuerdan para la falla cardíaca y
+
+66
+00:05:50,080 --> 00:05:56,520
+para la falla renal me servían los GLP-1, me servían los SGLUT-2 y en el caso de la
+
+67
+00:05:56,520 --> 00:06:01,600
+falla cardíaca lo que más servía eran los SGLUT-2, pero que quede bien claro,
+
+68
+00:06:01,600 --> 00:06:06,480
+no está ahí, pero es importante, la insulina es una opción perfectamente aceptable también.
+
+69
+00:06:06,480 --> 00:06:13,280
+Cuando la hemoglobina glicosilada está muy elevada, arriba de 9%, o bien está arriba de
+
+70
+00:06:13,280 --> 00:06:19,400
+7 a 8% según cuál sea el objetivo de control glicémico de ese paciente en
+
+71
+00:06:19,440 --> 00:06:25,440
+específico y además estoy con los dos hipoglicemiantes en dosis máxima, ahí ya no puedo seguir subiendo ni
+
+72
+00:06:25,440 --> 00:06:31,360
+agregando más porque el máximo son dos de estos hipoglicemiantes y habitualmente lo que se
+
+73
+00:06:31,360 --> 00:06:38,440
+hace acá es iniciar insulina nomás, la insulina NPH y de entrada voy a ir a manejarlo de esa
+
+74
+00:06:38,440 --> 00:06:45,640
+forma. Ahora, como una opción a la insulina en el caso de que esté arriba de 9% es dejar
+
+75
+00:06:45,640 --> 00:06:53,040
+algunos de estos fármacos antidiabéticos nuevos como los agonistas del GLP-1, el peptido
+
+76
+00:06:53,040 --> 00:07:00,200
+símil al glucagón tipo 1. Ahora, algo importante que se pregunta y que hay que saber es una vez
+
+77
+00:07:00,200 --> 00:07:05,680
+que parto la insulina NPH en la diabetes 2, ¿debo mantener o debo suspender los hipoglicemiantes
+
+78
+00:07:05,680 --> 00:07:11,240
+orales? Y veamos lo que ocurre en la práctica, en la práctica la metformina se suele mantener,
+
+79
+00:07:11,240 --> 00:07:17,120
+en cambio los otros se suelen suspender sabiendo que no hay evidencia que de una u otra forma
+
+80
+00:07:17,120 --> 00:07:22,520
+obligue a quitarlos o a mantenerlos, yo podría suspender ambos o podría mantener ambos pero en
+
+81
+00:07:22,520 --> 00:07:27,720
+la práctica lo que ocurre es lo que está ahí. Eso sí, la decisión más correcta debería ser en
+
+82
+00:07:27,720 --> 00:07:31,360
+base a los recursos que hay, acuérdense que algunos hipoglicemiantes son caros, son más
+
+83
+00:07:31,360 --> 00:07:35,680
+caros que la insulina, aparte de esto la polifarmacia, si es alguien que está con muchos
+
+84
+00:07:35,680 --> 00:07:41,800
+medicamentos eventualmente puede servir el eliminar alguno de la lista y el peso,
+
+85
+00:07:41,800 --> 00:07:47,760
+acordándonos que la insulina hace que uno suba más de peso y ejemplo mantener la metformina es
+
+86
+00:07:47,760 --> 00:07:53,080
+algo que evita un poco la subida de peso y respecto a los otros hipoglicemiantes orales
+
+87
+00:07:53,080 --> 00:07:56,880
+y el peso va a depender de cada uno de ellos dado que algunos hacen que uno suba más de peso
+
+88
+00:07:56,880 --> 00:08:02,720
+y otros hacen que suba menos. Ahora, respondiendo la gran pregunta ¿y qué hipoglicemiante le
+
+89
+00:08:02,720 --> 00:08:07,600
+dejo a un diabético tipo 2? La respuesta siempre va a ser metformina de primera línea,
+
+90
+00:08:07,600 --> 00:08:13,560
+es buena, bonita, barata, segura, tiene todas las características que a uno le gusta en un
+
+91
+00:08:13,560 --> 00:08:18,400
+medicamento pero acuérdense que está contraindicada en la falla renal con un
+
+92
+00:08:18,400 --> 00:08:22,800
+clírens menor a 30 y también está contraindicada en la insuficiencia cardíaca
+
+93
+00:08:22,800 --> 00:08:26,840
+severa en el sentido en que tiene riesgo de acidosis láctica, así que ahí está
+
+94
+00:08:26,840 --> 00:08:31,160
+absolutamente contraindicada y debe dejar o insulina u otro hipoglicemiante que no esté
+
+95
+00:08:31,160 --> 00:08:37,080
+contraindicado. ¿Y qué pasa con el segundo hipoglicemiante? ¿Cuál dejo? Pues lo ideal es que
+
+96
+00:08:37,080 --> 00:08:43,840
+quede con un inhibidor de la dipeptidasa 4 como la citagliptina o un agonista del
+
+97
+00:08:43,840 --> 00:08:49,480
+GLP-1 como el liraglutide, por ejemplo, que si se acuerdan eran las hincretinas,
+
+98
+00:08:49,480 --> 00:08:57,280
+el liraglutide y los otros glutides, pero en la vida real muchas veces no hay dinero,
+
+99
+00:08:57,280 --> 00:09:01,200
+no hay recursos en el sistema de salud, así que ahí lo que se deja habitualmente es
+
+100
+00:09:01,200 --> 00:09:06,360
+glivenclamida no más. Ya glivenclamida es eficaz, es barata y sí tiene estos
+
+101
+00:09:06,360 --> 00:09:10,000
+riesgos de hipoglicemia, así que obviamente cuando ya está alguien con
+
+102
+00:09:10,000 --> 00:09:13,840
+hipoglicemia ahí no le puedo dejar glivenclamida y habrá que conseguir
+
+103
+00:09:13,840 --> 00:09:18,640
+recursos de alguna parte para dejarle o la citagliptina o el liraglutide y
+
+104
+00:09:18,640 --> 00:09:21,680
+lo mismo ocurre en los pacientes que tienen un riesgo muy alto como
+
+105
+00:09:21,680 --> 00:09:25,840
+alguien de más de 75 años, nuevamente el riesgo de hipoglicemia es muy
+
+106
+00:09:25,840 --> 00:09:30,760
+alto, así que tampoco va a quedar con glivenclamida, hasta es posible que se
+
+107
+00:09:30,760 --> 00:09:34,640
+pueda suspender la glivenclamida que estaba tomando antes dado que el
+
+108
+00:09:34,640 --> 00:09:37,840
+control glicémico se vuelve menos estricto, pero si es que hay que
+
+109
+00:09:37,840 --> 00:09:42,960
+mantener alguna cosa pues le voy a dejar o la citagliptina o el liraglutide
+
+110
+00:09:42,960 --> 00:09:46,800
+o alguna cosa de ese tipo. Acuérdense que en el caso de la
+
+111
+00:09:46,800 --> 00:09:52,120
+insuficiencia renal crónica con albuminuria estaba contraindicada la
+
+112
+00:09:52,120 --> 00:09:58,160
+metformina y tenían buenos resultados los GLP-1 y los SGLUT-2 y de hecho los
+
+113
+00:09:58,160 --> 00:10:03,680
+los SGLUT-2 acuérdense que me disminuían la progresión de la falla
+
+114
+00:10:03,680 --> 00:10:09,280
+renal los GLP-1 igual pero los SGLUT-2 que eran los que actuaban
+
+115
+00:10:09,280 --> 00:10:12,920
+mediante la inducción de glucosuria no funcionaban tan bien cuando la
+
+116
+00:10:12,920 --> 00:10:17,280
+falla renal era muy muy severa, ejemplo en un clearance bajo 30 lo
+
+117
+00:10:17,280 --> 00:10:22,320
+más probable es que va a quedar con un GLP-1 más que con un SGLUT-2 y
+
+118
+00:10:22,320 --> 00:10:27,200
+obviamente como alternativa en toda falla renal la insulina la insulina
+
+119
+00:10:27,200 --> 00:10:32,760
+NPH siempre fue el manejo de la diabetes con falla renal pero
+
+120
+00:10:32,760 --> 00:10:36,280
+actualmente estos medicamentos igualmente sirven. Si tiene un
+
+121
+00:10:36,280 --> 00:10:40,200
+infarto previo tiene un riesgo cardiovascular muy alto la verdad que
+
+122
+00:10:40,200 --> 00:10:47,680
+también va a quedar o con los blocadores del SGLUT-2 o con los
+
+123
+00:10:47,680 --> 00:10:53,560
+agonistas del GLP-1 ya que dijimos que servían en particular para disminuir la
+
+124
+00:10:53,560 --> 00:10:56,600
+progresión de la enfermedad cardiovascular y por supuesto la
+
+125
+00:10:56,600 --> 00:10:59,600
+insulina es una buena opción también y finalmente en la falla
+
+126
+00:10:59,600 --> 00:11:02,720
+cardiaca contraindicada la metformina contraindicada la glivia
+
+127
+00:11:02,720 --> 00:11:08,520
+inclamida y aquí me servía más que los GLP-1 los SGLUT-2 y obviamente la
+
+128
+00:11:08,520 --> 00:11:13,440
+insulina también así que fíjense muchos detalles veámoslos ahí de nuevo
+
+129
+00:11:13,440 --> 00:11:18,320
+esos detalles sirven de una otra forma para optimizar el manejo del
+
+130
+00:11:18,320 --> 00:11:22,480
+paciente diabético así que aprendérselo que estén bien

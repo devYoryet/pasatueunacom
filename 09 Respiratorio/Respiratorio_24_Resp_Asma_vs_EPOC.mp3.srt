@@ -1,0 +1,111 @@
+1
+00:00:03,220 --> 00:00:07,580
+Y veamos las diferencias entre el asma y el EPOC para no confundirse.
+
+2
+00:00:07,580 --> 00:00:13,020
+En el primer lugar hay diferencia entre el asma estable y el EPOC estable, o sea los pacientes que están bien.
+
+3
+00:00:13,020 --> 00:00:18,020
+En el asma los corticoides inhalados iban antes que los broncodilatadores de larga acción,
+
+4
+00:00:18,020 --> 00:00:23,980
+en cambio en el EPOC los broncodilatadores de larga acción iban antes que los corticoides inhalados,
+
+5
+00:00:23,980 --> 00:00:29,540
+y acuérdense que ahí solamente estaban indicados para disminuir los síntomas.
+
+6
+00:00:29,740 --> 00:00:34,540
+Segundo lugar, en el asma todo aumenta la sobrevida, los broncodilatadores, los corticoides,
+
+7
+00:00:34,540 --> 00:00:40,780
+en general el manejo completo evita que esto avance, que se complique, que el paciente se muera.
+
+8
+00:00:40,780 --> 00:00:46,100
+En cambio en el caso del EPOC solamente el dejar de fumar y el oxígeno domiciliario
+
+9
+00:00:46,100 --> 00:00:51,780
+eran las cosas que aumentaban la sobrevida, todos los PUF eran simplemente para disminuir los síntomas.
+
+10
+00:00:51,780 --> 00:00:57,460
+Respecto a la crisis asmática y al EPOC descompensado en el escenario del servicio de urgencia,
+
+11
+00:00:57,500 --> 00:01:02,020
+igualmente hay diferencias, en la crisis asmática el oxígeno se daba sin miedo,
+
+12
+00:01:02,020 --> 00:01:07,060
+no hay el riesgo de la hipercarbia, en cambio en el EPOC se daba el 24% con miedo,
+
+13
+00:01:07,060 --> 00:01:13,260
+así que mucho cuidado ahí al manejar a estos pacientes, es bien clásica la negligencia médica
+
+14
+00:01:13,260 --> 00:01:17,540
+de darle más oxígeno del que necesitaba el paciente con EPOC,
+
+15
+00:01:17,540 --> 00:01:20,820
+porque uno lo veía que llegaba con una insuficiencia refectatoria muy grave,
+
+16
+00:01:20,820 --> 00:01:22,820
+pero luego lo complico peor.
+
+17
+00:01:22,860 --> 00:01:27,580
+En el caso de la crisis asmática los antibióticos solo se dejaban cuando había una neumonía,
+
+18
+00:01:27,580 --> 00:01:31,500
+en cambio en el EPOC descompensados se dejan casi siempre la verdad,
+
+19
+00:01:31,500 --> 00:01:35,220
+porque habitualmente hay una neumonía aunque no la haya objetivado.
+
+20
+00:01:35,220 --> 00:01:41,580
+Y finalmente la pregunta que uno se hacía en la crisis asmática era si lo hospitalizaba o no,
+
+21
+00:01:41,580 --> 00:01:46,220
+y acuérdense que se hacía cuando el paciente estaba muy grave o bien no respondía,
+
+22
+00:01:46,220 --> 00:01:51,420
+y en cambio en el EPOC descompensado habitualmente se hospitaliza siempre,
+
+23
+00:01:51,460 --> 00:01:56,100
+aunque sea de manera transitoria en las salas ERA en el sistema público chileno,
+
+24
+00:01:56,100 --> 00:02:00,060
+que son estas salas de las enfermedades respiratorias del adulto,
+
+25
+00:02:00,060 --> 00:02:03,580
+y la pregunta que uno se hacía en cambio no era si es que hospitalizo o no,
+
+26
+00:02:03,580 --> 00:02:06,300
+sino que era si es que lo conecto al ventilador mecánico o no,
+
+27
+00:02:06,300 --> 00:02:09,980
+que se decidía en base a los gases de sangre arterial.
+
+28
+00:02:09,980 --> 00:02:13,860
+Así que eso, esas son las diferencias, nos vemos en los siguientes videos ya con otro tema.

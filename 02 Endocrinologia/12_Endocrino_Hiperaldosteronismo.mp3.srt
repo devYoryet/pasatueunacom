@@ -1,0 +1,311 @@
+1
+00:00:00,000 --> 00:00:07,380
+Hola, hola, ¿cómo están? Veamos el manejo del cáncer de tiroides, recordando que fue
+
+2
+00:00:07,380 --> 00:00:12,060
+diagnosticado mediante una APAF. Acuérdense que la forma en que se diagnostica el cáncer
+
+3
+00:00:12,060 --> 00:00:17,140
+de tiroides es en contexto del estudio del novelotiroidio, que después de la ecografía,
+
+4
+00:00:17,140 --> 00:00:22,940
+la TCH, etcétera, termina en una biopsia citológica con aguja fina. Ahora, veamos
+
+5
+00:00:22,940 --> 00:00:28,940
+las histologías, o al menos recordémoslas, en un 85%, al menos un 80% de los casos
+
+6
+00:00:28,940 --> 00:00:33,980
+es de tipo papilar, que es el más frecuente y es el de mejor pronóstico además. En
+
+7
+00:00:33,980 --> 00:00:39,180
+un 10 a 15% de los casos es de tipo folicular y esas dos histologías en conjunto se
+
+8
+00:00:39,180 --> 00:00:44,180
+llaman cáncer diferenciado de tiroides y son importantes recordarlos porque no
+
+9
+00:00:44,180 --> 00:00:47,580
+solamente que son la inmensa mayoría de los cánceres de tiroides, sino que además
+
+10
+00:00:47,580 --> 00:00:52,260
+tienen el mismo manejo que empieza con cirugía, una tiroidectomía habitualmente
+
+11
+00:00:52,260 --> 00:00:56,220
+total, solo casos muy seleccionados de tumores muy pequeños que no vale la pena
+
+12
+00:00:56,220 --> 00:01:00,900
+entrar en ese detalle se manejan con una cirugía parcial, una hemitiroidectomía,
+
+13
+00:01:00,900 --> 00:01:06,420
+repito lo habitual es que se manejan con una tiroidectomía total y luego de eso,
+
+14
+00:01:06,420 --> 00:01:10,220
+de segunda línea quedan con levotiroxina y con yodo reactivo, en el sentido en que
+
+15
+00:01:10,220 --> 00:01:15,780
+captan yodo y por lo mismo responden a esta radioterapia específica con yodo
+
+16
+00:01:15,780 --> 00:01:20,540
+reactivo. Respecto a la levotiroxina tiene doble función, por un lado es
+
+17
+00:01:20,540 --> 00:01:25,300
+porque suprime a la TCH y por lo mismo suprime el crecimiento de cualquier tumor
+
+18
+00:01:25,300 --> 00:01:28,700
+residual que haya quedado y segundo lugar porque al haberle hecho una
+
+19
+00:01:28,700 --> 00:01:33,580
+tiroidectomía total va a ser un hipotiroidismo post quirúrgico cierto
+
+20
+00:01:33,580 --> 00:01:37,540
+así que está obligado a quedar con levotiroxina, pero vamos a ver qué es
+
+21
+00:01:37,540 --> 00:01:41,700
+con algo más de detalles que son importantes. Si es que es un cáncer
+
+22
+00:01:41,700 --> 00:01:46,140
+de muy bajo riesgo, sin metástasis que es pequeño y que se operó y que
+
+23
+00:01:46,140 --> 00:01:49,900
+aparentemente se operó bien, en ese caso puede que no sea necesario
+
+24
+00:01:49,900 --> 00:01:53,380
+darle el yodo reactivo sino que simplemente se sigue y en el caso de
+
+25
+00:01:53,380 --> 00:01:58,980
+que haya una residiva recién ahí si se deja. Segundo lugar el objetivo de la
+
+26
+00:01:58,980 --> 00:02:05,540
+TCH respecto al tratamiento posterior con levotiroxina no es el habitual sino
+
+27
+00:02:05,540 --> 00:02:09,540
+que se suprime un poco más de lo normal porque queda con un objetivo
+
+28
+00:02:09,540 --> 00:02:14,500
+entre 0,1 y 0,4 y recordemos que en los pacientes sin cáncer con
+
+29
+00:02:14,500 --> 00:02:19,500
+hipotiroidismo el objetivo iba entre 0,4 y 4 o sea en resumen sea una
+
+30
+00:02:19,500 --> 00:02:23,020
+dosis un poquito más alta e incluso si es un cáncer de alto riesgo sea
+
+31
+00:02:23,020 --> 00:02:27,380
+una dosis todavía más alta para intentar lograr una TCH prácticamente
+
+32
+00:02:27,380 --> 00:02:34,380
+indetectable en un nivel abajo de 0,1. La pregunta que se hace es se sigue
+
+33
+00:02:34,380 --> 00:02:38,740
+haciendo la sintigrafía con yodo reactivo antes del yodo reactivo y la
+
+34
+00:02:38,740 --> 00:02:41,820
+verdad es que no está claro en muchos casos no está indicada
+
+35
+00:02:41,820 --> 00:02:45,780
+aparentemente no me cambia mucho la conducta pero todavía es aceptable
+
+36
+00:02:45,780 --> 00:02:49,860
+en los casos en que me queda la duda si es que hay alguna metástasis o
+
+37
+00:02:49,860 --> 00:02:53,620
+alguna otra cosa que no se vea en la ecografía que no se vea en el resto de
+
+38
+00:02:53,620 --> 00:02:57,580
+los exámenes eventualmente se puede hacer una sintigrafía en búsqueda de
+
+39
+00:02:57,580 --> 00:03:02,260
+un tumor residual o de alguna otra cosa que me permita finalmente ajustar
+
+40
+00:03:02,260 --> 00:03:06,700
+la dosis de yodo reactivo pero repito la sintigrafía actualmente no es tan
+
+41
+00:03:06,700 --> 00:03:10,540
+importante y no siempre se pide lo importante es la cirugía y la
+
+42
+00:03:10,540 --> 00:03:14,100
+levotiroxina y en la mayoría de los casos del yodo reactivo. Ahora con
+
+43
+00:03:14,100 --> 00:03:17,060
+que se hace el seguimiento esto muy importante también con tiro
+
+44
+00:03:17,060 --> 00:03:20,580
+globulina en ambos cánceres diferenciados tanto en el papilar como
+
+45
+00:03:20,580 --> 00:03:24,740
+en el folicular así que si en el futuro empieza a elevarse lo más
+
+46
+00:03:24,740 --> 00:03:28,420
+probable es que hay alguna metástasis o bien hay alguna residiva local
+
+47
+00:03:28,420 --> 00:03:34,060
+segundo lugar se sigue también con TCH tanto para ajustar la dosis de la
+
+48
+00:03:34,060 --> 00:03:37,220
+levotiroxina que acuérdense que tiene que quedar más suprimido como
+
+49
+00:03:37,220 --> 00:03:41,180
+para evitar que eventualmente quede con un hipotiroidismo y finalmente se
+
+50
+00:03:41,180 --> 00:03:44,100
+sigue también con ecografía local como para ver que no aparezcan
+
+51
+00:03:44,100 --> 00:03:49,300
+ganglios o alguna otra cosa similar. La otra histología que se ve con
+
+52
+00:03:49,300 --> 00:03:53,740
+alguna frecuencia es el cáncer medular de tiroides que es un 5% ésta se
+
+53
+00:03:53,740 --> 00:03:58,220
+asocia a las neoplasias endocrinas múltiples tipo 2 que viene con el
+
+54
+00:03:58,220 --> 00:04:01,940
+feocromositoma cierto con el hiperparatiroidismo primario también
+
+55
+00:04:01,940 --> 00:04:06,020
+y por lo mismo antes de hacer cualquier manejo de este cáncer lo
+
+56
+00:04:06,020 --> 00:04:10,700
+primero es pedirle metanefrinas y catecolaminas en orina en busca de un
+
+57
+00:04:11,620 --> 00:04:14,940
+porque acuérdense que los feocromositomas pueden ser muy graves y
+
+58
+00:04:14,940 --> 00:04:19,060
+en particular se descompensan durante la cirugía así que antes de hacerle la
+
+59
+00:04:19,060 --> 00:04:23,700
+tiroidectomía total que es el manejo del cáncer medular cierto tengo que
+
+60
+00:04:23,700 --> 00:04:27,540
+asegurarme que no tenga este otro cáncer que se asocia cierto que no
+
+61
+00:04:27,540 --> 00:04:32,900
+venga con un feocromositoma. Como cosa importante el cáncer medular no
+
+62
+00:04:32,900 --> 00:04:39,140
+responde a yo reactivo es por la proliferación de las células C o
+
+63
+00:04:39,140 --> 00:04:43,060
+para foliculares que son las que producen la calcitonina así que el
+
+64
+00:04:43,060 --> 00:04:46,740
+manejo post quirúrgico habitualmente es con quimioterapia y radioterapia
+
+65
+00:04:46,740 --> 00:04:50,740
+convencional para los distintos los distintos tipos de carcinoma que hay
+
+66
+00:04:50,740 --> 00:04:54,220
+el seguimiento ya no es con la tiroglobulina en este caso es con la
+
+67
+00:04:54,220 --> 00:04:58,700
+calcitonina y finalmente el último cáncer que hay que conocer que es el
+
+68
+00:04:58,700 --> 00:05:02,460
+cáncer anaplástico de tiroides que viene con un pronóstico muy malo
+
+69
+00:05:02,460 --> 00:05:06,060
+habitualmente empieza como un cáncer folicular o como un cáncer
+
+70
+00:05:06,060 --> 00:05:09,300
+papilar pero luego de eso ya deja de estar diferenciado se vuelve
+
+71
+00:05:09,300 --> 00:05:14,820
+indiferenciado cierto y evoluciona de una manera localmente muy agresiva el
+
+72
+00:05:14,820 --> 00:05:19,020
+tratamiento existe por la general es con cirugía en los casos que es
+
+73
+00:05:19,020 --> 00:05:23,180
+resecable en los que no simplemente con quimioterapia radioterapia y
+
+74
+00:05:23,180 --> 00:05:26,660
+eventualmente si es que viene con alguna mutación específica de algún
+
+75
+00:05:26,660 --> 00:05:29,940
+gen existen actualmente algunos fármacos que se usan como una
+
+76
+00:05:29,940 --> 00:05:35,020
+quimioterapia dirigida a atacar estas mutaciones o sea en resumen
+
+77
+00:05:35,020 --> 00:05:38,700
+mal pronóstico y se maneja como el manejo general del cáncer de cabeza y
+
+78
+00:05:38,700 --> 00:05:42,820
+cuello eso es todo que esté muy bien

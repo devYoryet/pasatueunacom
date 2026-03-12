@@ -1,0 +1,471 @@
+1
+00:00:00,000 --> 00:00:07,310
+Ya vimos las complicaciones derivadas de la hipertensión portal y ahora vamos a
+
+2
+00:00:07,310 --> 00:00:11,390
+ver las dos más importantes que derivan de la insuficiencia hepática, en
+
+3
+00:00:11,390 --> 00:00:15,910
+particular la encefalopatía hepática y segundo lugar la coagulopatía hepática.
+
+4
+00:00:15,910 --> 00:00:21,070
+Empecemos con la encefalopatía y recordemos que su etiología por el
+
+5
+00:00:21,070 --> 00:00:24,670
+general es la acumulación de toxinas, cierto que habitualmente son
+
+6
+00:00:24,670 --> 00:00:27,830
+depuradas por el hígado pero en este caso que está con daño hepático
+
+7
+00:00:27,830 --> 00:00:32,070
+crónico se vuelve insuficiente, se acumulan y finalmente alteran el
+
+8
+00:00:32,070 --> 00:00:36,430
+fusionamiento del cerebro. Dentro de estas toxinas el amonio se describe como
+
+9
+00:00:36,430 --> 00:00:40,150
+el más importante que eventualmente me sirve para el diagnóstico diferencial
+
+10
+00:00:40,150 --> 00:00:44,670
+también pero que quede bien claro no es el único. Segundo lugar la clínica es
+
+11
+00:00:44,670 --> 00:00:49,950
+como buena encefalopatía habitualmente viene con asterixis que son esos
+
+12
+00:00:49,950 --> 00:00:53,390
+movimientos de la mano en que no puede mantener el tono de la mano y
+
+13
+00:00:53,390 --> 00:00:56,750
+se tienden a caer que es algo que se ve en otras encefalopatías
+
+14
+00:00:56,750 --> 00:01:00,270
+metabólicas también como en el síndrome urémico, en la
+
+15
+00:01:00,350 --> 00:01:04,950
+encefalopatía urémica y las otras son el compromiso de conciencia ya sea como
+
+16
+00:01:04,950 --> 00:01:09,310
+algo más leve simplemente de desorientación o bien ya un
+
+17
+00:01:09,310 --> 00:01:13,390
+compromiso más cuantitativo cierto con sopor o con coma de los casos más
+
+18
+00:01:13,390 --> 00:01:17,550
+graves que habitualmente son de muy mal pronóstico también. El diagnóstico
+
+19
+00:01:17,550 --> 00:01:21,870
+es absolutamente clínico ya sea que venga con asterixis o con
+
+20
+00:01:21,870 --> 00:01:24,670
+compromiso de conciencia en contexto de un paciente con daño hepático
+
+21
+00:01:24,670 --> 00:01:27,590
+crónico eso me confirma el diagnóstico de una encefalopatía
+
+22
+00:01:27,590 --> 00:01:31,870
+hepática pero si me queda la duda que eventualmente pueda ser por algún
+
+23
+00:01:31,870 --> 00:01:36,230
+otro descompensante en ese caso se confirma con la amonemia con los
+
+24
+00:01:36,230 --> 00:01:40,870
+niveles elevados de amonio en ese caso me confirma que efectivamente es
+
+25
+00:01:40,870 --> 00:01:44,670
+compatible con una encefalopatía hepática pero que quede bien claro la
+
+26
+00:01:44,670 --> 00:01:49,490
+amonemia los niveles si están muy altos o no tan altos no me hacen
+
+27
+00:01:49,490 --> 00:01:54,470
+mayor diferencia su utilidad no tiene nada que ver ni con el manejo ni
+
+28
+00:01:54,510 --> 00:01:58,790
+con la severidad eso está todo dado por la clínica sino que simplemente me
+
+29
+00:01:58,790 --> 00:02:01,710
+sirven como para el diagnóstico diferencial de otras causas de
+
+30
+00:02:01,710 --> 00:02:05,670
+compromiso de conciencia. El tratamiento de una encefalopatía
+
+31
+00:02:05,670 --> 00:02:08,670
+hepática lo más importante es el tratamiento de las causas
+
+32
+00:02:08,670 --> 00:02:11,930
+descompensantes los pacientes con daño hepático crónico se
+
+33
+00:02:11,930 --> 00:02:15,150
+descompensan por cualquier cosa las infecciones son las
+
+34
+00:02:15,150 --> 00:02:18,550
+descompensaciones más frecuentes por ese caso y en ese caso hay que
+
+35
+00:02:18,550 --> 00:02:21,710
+tratarla activamente con antibióticos o con lo que sea si es
+
+36
+00:02:21,710 --> 00:02:26,670
+que es una causa diferente y además me sirve la lactulosa en el sentido en
+
+37
+00:02:26,670 --> 00:02:32,030
+que disminuye la acumulación de toxina en el intestino cierto ya sé
+
+38
+00:02:32,030 --> 00:02:37,430
+que se elimine un poco más rápido la dosis de lactulosa se ajusta de
+
+39
+00:02:37,430 --> 00:02:40,750
+manera que el paciente tenga dos a tres deposiciones al día que sean
+
+40
+00:02:40,750 --> 00:02:44,870
+blandas cierto si le doy menos que eso lo más probable es que todavía
+
+41
+00:02:44,870 --> 00:02:49,310
+puedo seguir subiendo y disminuyendo la cantidad de toxina y en
+
+42
+00:02:49,350 --> 00:02:52,710
+cambios es que ya empieza con diarrea más intensa la verdad es que las
+
+43
+00:02:52,710 --> 00:02:56,230
+molestias de la diarrea van a ser peores y seguramente no se va a
+
+44
+00:02:56,230 --> 00:03:00,750
+reflejar en una mejoría clínica de su compromiso de conciencia de su
+
+45
+00:03:00,750 --> 00:03:05,670
+encefalopatía finalmente como opciones a la lactulosa que no se
+
+46
+00:03:05,670 --> 00:03:08,590
+recomienda mucho porque son más caras y no han demostrado un
+
+47
+00:03:08,590 --> 00:03:12,510
+beneficio mejor que el de la lactulosa son algunos antibióticos
+
+48
+00:03:12,510 --> 00:03:16,190
+que no se absorben como la rifaximina cierto y la neomicina
+
+49
+00:03:16,470 --> 00:03:20,830
+esos dos eventualmente se pueden dejar en algún paciente que no tolere
+
+50
+00:03:20,830 --> 00:03:24,830
+bien la lactulosa por ejemplo vemos ahora la coagulopatía hepática
+
+51
+00:03:24,830 --> 00:03:29,310
+que hay que saber su fisioterapia de manera muy muy rápida número uno
+
+52
+00:03:29,310 --> 00:03:34,070
+en el hígado se producen las proteínas del plasma incluyendo
+
+53
+00:03:34,070 --> 00:03:37,670
+los factores de coagulación o al menos la gran mayoría de estas
+
+54
+00:03:37,670 --> 00:03:43,190
+proteínas cierto segundo la vitamina k acuérdense que se suele
+
+55
+00:03:43,230 --> 00:03:49,910
+absorber como buena vitamina lipídica cierto y su absorción depende
+
+56
+00:03:49,910 --> 00:03:53,870
+de los ácidos biliares y en este caso en una insuficiencia hepática
+
+57
+00:03:53,870 --> 00:03:57,790
+eventualmente hay una menor liberación y circulación de los
+
+58
+00:03:57,790 --> 00:04:01,470
+ácidos biliares y se produce un déficit de vitamina k además
+
+59
+00:04:01,470 --> 00:04:05,510
+eventualmente la espleno megalia puede reducir el número de
+
+60
+00:04:05,510 --> 00:04:09,830
+plaquetas cierto y finalmente esto se ha mencionado con mayor
+
+61
+00:04:09,910 --> 00:04:13,550
+fuerza en los últimos años también disminuyen los factores
+
+62
+00:04:13,550 --> 00:04:17,550
+anticoagulantes así que en algunos casos la coagulopatía hepática
+
+63
+00:04:17,550 --> 00:04:20,630
+no se traduce en hemorragias como se ve en la caída de factores
+
+64
+00:04:20,630 --> 00:04:23,430
+de coagulación de vitamina k y de plaquetas sino que se ve
+
+65
+00:04:23,430 --> 00:04:28,430
+también como trombosis ya ahora el cuadro clínico en la inmensa
+
+66
+00:04:28,430 --> 00:04:31,910
+mayoría de los casos es absolutamente asintomática es muy raro
+
+67
+00:04:31,910 --> 00:04:35,190
+que sean unas coagulopatías graves sino que simplemente se ve
+
+68
+00:04:35,190 --> 00:04:37,830
+en los exámenes de laboratorio con las alteraciones de los
+
+69
+00:04:37,870 --> 00:04:41,070
+tiempos de coagulación ahora en algunos casos si viene con
+
+70
+00:04:41,070 --> 00:04:44,190
+alteraciones de la hemostasia tanto hemostasia primaria porque
+
+71
+00:04:44,190 --> 00:04:47,150
+hay caída en las plaquetas como hemostasia secundaria lo
+
+72
+00:04:47,150 --> 00:04:49,990
+más frecuente porque hay caída en los factores de coagulación
+
+73
+00:04:49,990 --> 00:04:53,510
+y además de esto en algunos casos se producen estas
+
+74
+00:04:53,510 --> 00:04:56,230
+trombosis paradójicas que a pesar de que los tiempos de
+
+75
+00:04:56,230 --> 00:04:58,710
+coagulación están alargados cierto en que se ve como
+
+76
+00:04:58,710 --> 00:05:01,750
+que estuviera anticoagulado termina finalmente con la
+
+77
+00:05:01,750 --> 00:05:04,990
+trombosis de alguna alguna vena siendo la vena porta
+
+78
+00:05:04,990 --> 00:05:08,350
+la más clásica por su caso que hay hipertensión portal con
+
+79
+00:05:08,350 --> 00:05:11,350
+congestión venosa en ese punto más la pérdida de los
+
+80
+00:05:11,350 --> 00:05:14,950
+factores anticoagulantes se traduce en una trombosis de
+
+81
+00:05:14,950 --> 00:05:18,110
+la vena porta ahora el diagnóstico por el general es con
+
+82
+00:05:18,110 --> 00:05:21,310
+los exámenes de laboratorio el más importante es el
+
+83
+00:05:21,310 --> 00:05:24,510
+alargamiento del tiempo de protrombina o TP que acuérdense
+
+84
+00:05:24,510 --> 00:05:27,550
+que también se podía ver como el aumento del INR o la
+
+85
+00:05:27,550 --> 00:05:30,110
+caída de la protrombinemia aunque en algunos casos
+
+86
+00:05:30,110 --> 00:05:33,990
+igualmente se ve alargado el TPA o las plaquetas bajas
+
+87
+00:05:33,990 --> 00:05:38,150
+pero repito el aumento del TP es lo más característico de la
+
+88
+00:05:38,150 --> 00:05:41,990
+coagulopatía hepática en específico finalmente cuál es
+
+89
+00:05:41,990 --> 00:05:44,190
+el tratamiento de la coagulopatía hepática tomando
+
+90
+00:05:44,190 --> 00:05:47,030
+en cuenta que suele ser asintomática en la inmensa
+
+91
+00:05:47,030 --> 00:05:49,870
+mayoría de los casos es simplemente observar y saber
+
+92
+00:05:49,870 --> 00:05:53,510
+que más que una complicación grave es simplemente un
+
+93
+00:05:53,510 --> 00:05:56,150
+reflejo del grado de insuficiencia hepática en el
+
+94
+00:05:56,150 --> 00:05:59,190
+paciente con cirrosis en el paciente con daño hepático
+
+95
+00:05:59,190 --> 00:06:02,670
+crónico así que me sirve más como el pronóstico como
+
+96
+00:06:02,670 --> 00:06:05,950
+para la toma de decisiones del manejo del daño hepático
+
+97
+00:06:05,950 --> 00:06:08,950
+según su severidad que como algo que me asusta en sí y
+
+98
+00:06:08,950 --> 00:06:12,470
+que se pueda complicar ahora en los casos en que están
+
+99
+00:06:12,470 --> 00:06:14,790
+más descompensada lo fundamental es el manejo de
+
+100
+00:06:14,790 --> 00:06:17,870
+los descompensantes de las infecciones por ejemplo no
+
+101
+00:06:17,870 --> 00:06:20,350
+solamente la encefalopatía sino que la coagulopatía
+
+102
+00:06:20,350 --> 00:06:23,790
+igualmente se agravan cuando hay alguna infección
+
+103
+00:06:23,790 --> 00:06:26,310
+alguna inflamación o alguna descompensación por alguna
+
+104
+00:06:26,310 --> 00:06:30,230
+otra razón y finalmente se suele manejar con vitamina
+
+105
+00:06:31,190 --> 00:06:35,230
+o con el aporte de los factores de coagulación que
+
+106
+00:06:35,230 --> 00:06:38,430
+le falte pero eso es algo excepcional y se suele hacer
+
+107
+00:06:38,430 --> 00:06:41,590
+con crío con crío precipitado o con el plástico
+
+108
+00:06:41,590 --> 00:06:44,430
+congelado y en este caso las típicas indicaciones
+
+109
+00:06:44,430 --> 00:06:47,470
+es que esté efectivamente con hemorragias con una
+
+110
+00:06:47,470 --> 00:06:50,350
+alteración de la emostasia que sea más grave es cierto
+
+111
+00:06:50,350 --> 00:06:54,190
+o que se someta a un procedimiento invasivo como
+
+112
+00:06:54,190 --> 00:06:56,870
+una cirugía por ejemplo de lo contrario insisto lo
+
+113
+00:06:56,870 --> 00:06:59,510
+más frecuente es que simplemente se observe y lo
+
+114
+00:06:59,510 --> 00:07:02,070
+más importante es que se maneje los descompensantes
+
+115
+00:07:02,070 --> 00:07:05,110
+y bueno eso es todo y con eso se termina este gran
+
+116
+00:07:05,110 --> 00:07:06,990
+tema de daño hepático crónico así que espero que
+
+117
+00:07:06,990 --> 00:07:08,710
+les haya quedado claro y nos vemos en los siguientes
+
+118
+00:07:08,710 --> 00:07:09,310
+temas que estén bien.

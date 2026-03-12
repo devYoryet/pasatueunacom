@@ -1,0 +1,149 @@
+Y seguimos con este tema de los electrolitos. En este video vamos a hablar de las alteraciones
+
+del calcio en específico, del estudio de las alteraciones del calcio. Y empecemos
+
+con una tabla resumen. En general uno mira el calcio, mira la paratormona o PTH y
+
+mira el fósforo también y vamos a ir viendo qué pasa con el calcio y la paratormona
+
+y si están altos o bajos, qué diagnóstico es el que está asociado a cada una de
+
+estas cosas. Esto hay que saberlo perfecto. Si yo tengo el calcio alto y la paratormona
+
+alta, lo más probable es que tengo un hiperparatidismo primario, en el cual lo primero que ocurre
+
+es que sube la paratormona y eso hace que suba también el calcio y por lo tanto ambos
+
+están altos. Así que el diagnóstico hiperparatidismo primario. Si es que yo tengo el calcio alto
+
+y la paratormona está baja, pues es otra causa y dentro de esas la más importante
+
+es la hipercalcemia maligna, la hipercalcemia asociada a cáncer. Y en este caso lo
+
+que ocurre es que el cáncer me saca el calcio de los huesos o bien me hiper produce
+
+vitamina D o alguna otra cosa similar y eso hace que se eleve el calcio y obviamente al
+
+haber una hipercalcemia los niveles de paratormona bajan. Entonces fíjense, las
+
+hipercalcemia con PTH elevada igual hiperparaprimario con PTH baja en cambio
+
+cáncer. En el caso que el calcio esté bajo, si yo tengo una hipocalcemia con la paratormona
+
+elevada, lo más probable es que lo que tengo es un hiperparatidismo secundario que es el clásico
+
+de la insuficiencia renal en que por el contrario el calcio baja primero y eso hace que de
+
+manera reactiva la paratormona se eleve para compensar. Ahora si el calcio está normal y la
+
+PTH alta es lo mismo en el sentido en que ahí logra compensar. Así que es muy frecuente
+
+ver una falla renal con un hiperparatidismo secundario en que está con el calcio normal
+
+pero con la PTH si se ve elevada. Y finalmente si tengo las dos cosas bajas, si es que tengo el
+
+calcio bajo y la PTH baja, el diagnóstico es todo lo contrario un hipoparatidismo que es la causa
+
+más frecuente en la cirugía de tiroides, en la cual se sacan las glándulas paratiroides
+
+o bien se saca la irrigación de las glándulas paratiroides y se crea un hipoparatidismo
+
+transitorio. Así que la hipocalcemia sería la consecuencia del hipoparatidismo y ambas estarían
+
+en niveles hacia abajo. Ahora vemos qué pasa con el fósforo. ¿Qué pasa con el fósforo en el
+
+caso de que haya mucha paratormona en el hiperparatidismo primario? Pues baja en el
+
+sentido en que si bien la paratormona saca fósforo de los huesos aumenta su excreción
+
+renal y por lo tanto tiende a bajar el fósforo y por lo mismo es que la
+
+hiperfosfatemia tiende a subir a la paratormona como ocurre en la insuficiencia renal. En el
+
+cáncer habitualmente el fósforo está alto tanto porque los niveles de PTH es tan baja como
+
+porque el calcio va enrollendo los huesos y va sacando calcio junto con fósforo. En el caso
+
+del hiperparasecundario la insuficiencia renal habitualmente el fósforo está alto
+
+también porque si recordamos la fisiopatología de la osteodistrofia renal o del
+
+hiperparatidismo secundario, justamente empezaba con la retención de fósforos que
+
+lavan el calcio y que en conjunto elevaban luego la PTH. Y finalmente en el hipoparatidismo
+
+el fósforo tiene estar elevado también porque ya dijimos la paratormona tiende a excretar el
+
+fósforo y al no excretarlo puede elevar los niveles plasmáticos. Ahora no siempre, hay
+
+algunas veces en que está normal también o incluso algunos casos en que puede estar
+
+bajo pero lo que hace la diferencia si se fijan es lo otro, es el calcio y la PTH que
+
+si yo inmediatamente tengo que ser capaz de reconocer que diagnóstico tiene. Recordemos
+
+una cosa, el calcio debe corregirse por albúmina, el calcio o yo lo pido como calcio
+
+idiónico y de esa manera no requiero ninguna corrección o bien lo pido como calcio total y
+
+en ese caso debo hacer una corrección en el sentido en que la variación en la albúmina
+
+o en las proteínas plasmáticas me altera los niveles de calcio y el que importa para su
+
+función fisiológica es el calcio no total sino que el calcio que está libre, el calcio
+
+que está disuelto en el plasma. ¿Cuál es la fórmula de corrección? Es esa, calcio
+
+corregido es igual al calcio que me sale en el examen, el no corregido más 0.8 multiplicado
+
+por 4 menos la albúmina. Hay algunas veces en que se presenta de otra forma pero finalmente
+
+es la misma ecuación solamente que va en otro orden con los signos cambiados por ejemplo
+
+etcétera. Veamos un ejemplo, me dice que tiene una calcemia de 7,9 hasta ahí digo yo
+
+está con una hipocalcemia porque el normal es de 8,5 hasta 10,5 y la pregunta acá es
+
+si tiene la albúmina baja será que en verdad tiene una hipocalcemia, será que
+
+en verdad tiene una hipocalcemia más grave o será que en verdad está normal
+
+y solamente es una pseudo hipocalcemia o también llamada hipocalcemia ficticia y
+
+para eso se hace la corrección. Entonces el calcio corregido va a ser igual al
+
+calcio 7,9 más 0,8 por 4 menos la albúmina que es 3 o sea 7,9 más 0,8 multiplicado por 1
+
+o sea 7,9 más 0,8 porque 0,8 por 1 es 0,8 y finalmente me queda 8.7 y la respuesta es no
+
+había una real hipocalcemia sino que es una hipocalcemia ficticia. Veamos ahora el estudio
+
+de la hipercalcemia, si es que yo tengo el calcio que está elevado lo primero que hay que
+
+hacer es corregir el calcio en el sentido que si me normaliza al corregirlo pues no había una
+
+real hipercalcemia sino que solamente la albúmina estaba muy alta y había por lo tanto una
+
+hipercalcemia ficticia. Ahora una vez que ya lo confirmé que si existe el examen más importante
+
+es la PTH que ya dijimos que me diferenciaba en las dos grandes causas si la PTH está alta
+
+si está elevada pues el diagnóstico es un hiperparatilidismo primario ese es el
+
+diagnóstico si es que en cambio está baja el diagnóstico es seguramente un cáncer. Ahora
+
+¿no existen otras causas de hipercalcemia aparte de esas dos? La verdad es que sí,
+
+la hipervitaminosis D, la misma hidroclorotia acida que en ese caso sería leve y vendría
+
+con el antecedente de usar ese fármaco, la insuficiencia suprarrenal que habitualmente
+
+viene con hipercalemia y con hiponatremia pero eventualmente viene también con la
+
+hipercalcemia etcétera. Hay otras causas pero las más importantes son efectivamente el
+
+cáncer y el hiperparatilidismo primario. Eso es todo ahora lo único cómo se maneja
+
+el hiperparatilidismo primario les adelanto es con cirugía lo vamos a ver en los siguientes
+
+videos que estén bien.

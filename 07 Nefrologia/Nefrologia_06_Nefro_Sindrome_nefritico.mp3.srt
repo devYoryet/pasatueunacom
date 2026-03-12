@@ -1,0 +1,515 @@
+1
+00:00:00,000 --> 00:00:05,660
+Veamos un tema muy corto, los diuréticos.
+
+2
+00:00:05,660 --> 00:00:07,660
+Y comencemos por los diuréticos de asa.
+
+3
+00:00:07,660 --> 00:00:10,660
+Que acuérdense que son los que bloquean el canal de 2 cloro,
+
+4
+00:00:10,660 --> 00:00:14,660
+1 sodio y 1 potasio que está ubicado en el asa de gelle.
+
+5
+00:00:14,660 --> 00:00:16,660
+Y de ahí viene su nombre, los diuréticos de asa,
+
+6
+00:00:16,660 --> 00:00:18,660
+porque actúan en el asa de gelle.
+
+7
+00:00:18,660 --> 00:00:20,660
+El más importante es la furosemida,
+
+8
+00:00:20,660 --> 00:00:22,660
+de hecho es el único que hay que saber,
+
+9
+00:00:22,660 --> 00:00:26,660
+pero existen otros como la tora semida también.
+
+10
+00:00:26,660 --> 00:00:29,660
+Como cosa importante, tienen un buen clearance de agua libre.
+
+11
+00:00:29,660 --> 00:00:32,660
+Tienden a perder más agua que otros diuréticos,
+
+12
+00:00:32,660 --> 00:00:35,660
+lo cual hace que si es que hacen una hiponatremia,
+
+13
+00:00:35,660 --> 00:00:38,660
+que todos los diuréticos pueden tender a la hiponatremia,
+
+14
+00:00:38,660 --> 00:00:40,660
+en este caso como pierde bastante agua libre,
+
+15
+00:00:40,660 --> 00:00:42,660
+suele ser una hiponatremia bastante leve.
+
+16
+00:00:42,660 --> 00:00:45,660
+Es más, me servía también en el SIAD,
+
+17
+00:00:45,660 --> 00:00:47,660
+como uno de los tratamientos ayudantes
+
+18
+00:00:47,660 --> 00:00:50,660
+a la restricción de agua libre, si se acuerdan.
+
+19
+00:00:51,660 --> 00:00:53,660
+Tienden a la hipocalemia,
+
+20
+00:00:53,660 --> 00:00:56,660
+de hecho los diuréticos que más se usan en general
+
+21
+00:00:56,660 --> 00:00:58,660
+no son ahorradores de potasio,
+
+22
+00:00:58,660 --> 00:01:00,660
+sino que son perdedores de potasio,
+
+23
+00:01:00,660 --> 00:01:02,660
+como es el caso de la furosemida,
+
+24
+00:01:02,660 --> 00:01:04,660
+pueden generar hipocalcemia.
+
+25
+00:01:04,660 --> 00:01:07,660
+Y aparte de esto, un efecto que hay que saber de los diuréticos
+
+26
+00:01:07,660 --> 00:01:10,660
+es que pueden empeorar la resistencia a la insulina,
+
+27
+00:01:10,660 --> 00:01:12,660
+la dilipidemia y también la gota.
+
+28
+00:01:12,660 --> 00:01:14,660
+Pueden tender a la hiperurisemia.
+
+29
+00:01:14,660 --> 00:01:17,660
+Así que fíjense, los diuréticos tienen un rol
+
+30
+00:01:17,660 --> 00:01:21,660
+de tipo metabólico un poco tendiente a la diabetes,
+
+31
+00:01:21,660 --> 00:01:23,660
+la dilipidemia y la gota.
+
+32
+00:01:23,660 --> 00:01:27,660
+En general, son útiles para el tratamiento de varias enfermedades,
+
+33
+00:01:27,660 --> 00:01:30,660
+para lo que más se usa es para la insuficiencia cardíaca,
+
+34
+00:01:30,660 --> 00:01:32,660
+para la citis y para el manejo del edema,
+
+35
+00:01:32,660 --> 00:01:35,660
+en el sentido que, insisto, la furosemida es de los diuréticos
+
+36
+00:01:35,660 --> 00:01:39,660
+que hace que se pierda una mayor cantidad de volumen de agua y de sodio.
+
+37
+00:01:39,660 --> 00:01:43,660
+En el caso de las teacidas, actúan en un canal de NACL,
+
+38
+00:01:43,660 --> 00:01:48,660
+en un canal de sal que está en el tubulo contorneado distal en el nefrón.
+
+39
+00:01:48,660 --> 00:01:51,660
+El más importante es la hidrocloroteacida,
+
+40
+00:01:51,660 --> 00:01:54,660
+que en la práctica es el único que se usa en nuestro medio,
+
+41
+00:01:54,660 --> 00:01:57,660
+pero a veces se ve también la clortalidona,
+
+42
+00:01:57,660 --> 00:02:00,660
+que hay que saber que existe, que tiene algunas diferencias que las vamos a ver.
+
+43
+00:02:00,660 --> 00:02:04,660
+Tienden a la hiponatremia, igual que todos los diuréticos,
+
+44
+00:02:04,660 --> 00:02:06,660
+en este caso puede ser un poquito más grave
+
+45
+00:02:06,660 --> 00:02:11,660
+porque el clínase de agua libre no es tan grande como con la furosemida.
+
+46
+00:02:11,660 --> 00:02:15,660
+Además, tienden igualmente a la hipocalemia.
+
+47
+00:02:15,660 --> 00:02:19,660
+Esta hipocalemia empeora todavía si es que hay un consumo de sal muy grande,
+
+48
+00:02:19,660 --> 00:02:21,660
+por ejemplo, en un paciente hipertenso.
+
+49
+00:02:21,660 --> 00:02:25,660
+La hipercalcemia se ve en las teacidas, a diferencia de la furosemida
+
+50
+00:02:25,660 --> 00:02:28,660
+que tendía la hipocalcemia, y ahí está como la gran diferencia
+
+51
+00:02:28,660 --> 00:02:32,660
+en los efectos, sería el nivel del calcio.
+
+52
+00:02:32,660 --> 00:02:36,660
+Y finalmente también tiene algo de efecto metabólico,
+
+53
+00:02:36,660 --> 00:02:39,660
+resistencia a la insulina, dilipidemia e hiperurisemia,
+
+54
+00:02:39,660 --> 00:02:43,660
+que hace que esté contraindicado en general a los pacientes con gota.
+
+55
+00:02:43,660 --> 00:02:46,660
+Las teacidas, para lo que más se usan,
+
+56
+00:02:46,660 --> 00:02:49,660
+es para el tratamiento de la hipertensión arterial,
+
+57
+00:02:49,660 --> 00:02:51,660
+si bien actualmente no suelen ser de primera línea,
+
+58
+00:02:51,660 --> 00:02:54,660
+la verdad es que son buenos fármacos antihipertensivos.
+
+59
+00:02:54,660 --> 00:02:59,660
+La clorotalidona, dijimos que íbamos a dar un par de palabras acerca de ella,
+
+60
+00:02:59,660 --> 00:03:03,660
+número uno, es un mejor antihipertensivo que la hidroclorotiazida,
+
+61
+00:03:03,660 --> 00:03:06,660
+pero tiende a una mayor hipocalemia.
+
+62
+00:03:06,660 --> 00:03:10,660
+Así que no necesariamente es mejor, sino que viene con algo bueno,
+
+63
+00:03:10,660 --> 00:03:13,660
+que es que es más eficaz para bajar las presiones arteriales,
+
+64
+00:03:13,660 --> 00:03:17,660
+pero viene con algo peor, que es que tiende a mayor hipocalemia.
+
+65
+00:03:17,660 --> 00:03:21,660
+Así que el elegir una o la otra va a depender de cada uno de los pacientes,
+
+66
+00:03:21,660 --> 00:03:25,660
+en específico de qué problema sea el que tenga.
+
+67
+00:03:25,660 --> 00:03:28,660
+Ahora, si me dicen, alguien está con clorotalidona
+
+68
+00:03:28,660 --> 00:03:30,660
+y tiende a mucha hipocalemia, ¿qué hago?
+
+69
+00:03:30,660 --> 00:03:34,660
+Y me dice, A, lo paso a una hidroclorotiazida,
+
+70
+00:03:34,660 --> 00:03:37,660
+y B, ¿le bajo el consumo de sal?
+
+71
+00:03:37,660 --> 00:03:40,660
+Acuérdense que la medida más importante siempre es bajar el consumo de sal.
+
+72
+00:03:40,660 --> 00:03:43,660
+Si además le quiero cambiar el diurético, está bien,
+
+73
+00:03:43,660 --> 00:03:45,660
+pero lo más importante es bajar el consumo de sal.
+
+74
+00:03:45,660 --> 00:03:48,660
+Aparte están los inhibidores de la aldosterona,
+
+75
+00:03:48,660 --> 00:03:51,660
+dentro de los cuales la espironolactona es el más importante.
+
+76
+00:03:51,660 --> 00:03:54,660
+Además está la heplerenona, que es un poco más específico
+
+77
+00:03:54,660 --> 00:03:56,660
+de los receptores de aldosterona.
+
+78
+00:03:56,660 --> 00:04:00,660
+La espironolactona, en cambio, actúa también en otras hormonas,
+
+79
+00:04:00,660 --> 00:04:03,660
+en particular en hormonas sexuales.
+
+80
+00:04:03,660 --> 00:04:07,660
+Sus efectos adversos es que pueden tender a la hiponatremia,
+
+81
+00:04:07,660 --> 00:04:09,660
+y en este caso a la hipercalemia.
+
+82
+00:04:09,660 --> 00:04:12,660
+Acuérdense que los inhibidores de la aldosterona
+
+83
+00:04:12,660 --> 00:04:14,660
+son ahorradores de potasio,
+
+84
+00:04:14,660 --> 00:04:16,660
+y finalmente habíamos dicho que la espironolactona
+
+85
+00:04:16,660 --> 00:04:19,660
+podía medir con algunos otros efectos,
+
+86
+00:04:19,660 --> 00:04:23,660
+que puede venir con un efecto progestageno,
+
+87
+00:04:23,660 --> 00:04:25,660
+o proprogestageno,
+
+88
+00:04:25,660 --> 00:04:28,660
+y finalmente con un efecto antiandrogénico.
+
+89
+00:04:28,660 --> 00:04:30,660
+Así que en los hombres, por ejemplo,
+
+90
+00:04:30,660 --> 00:04:33,660
+eventualmente puede generar impotencia sexual,
+
+91
+00:04:33,660 --> 00:04:35,660
+astenia o alguna cosa de ese tipo.
+
+92
+00:04:35,660 --> 00:04:37,660
+Ahora, ¿para qué se usa la espironolactona?
+
+93
+00:04:37,660 --> 00:04:39,660
+La espironolactona, en general, y esto hay que saberlo,
+
+94
+00:04:39,660 --> 00:04:41,660
+se usa para la insuficiencia cardíaca,
+
+95
+00:04:41,660 --> 00:04:43,660
+ahí también servía la furosemida,
+
+96
+00:04:43,660 --> 00:04:45,660
+con la diferencia que la espironolactona
+
+97
+00:04:45,660 --> 00:04:47,660
+se usa en los casos sintomáticos
+
+98
+00:04:47,660 --> 00:04:49,660
+con una fracción de inyección muy baja,
+
+99
+00:04:49,660 --> 00:04:51,660
+abajo de 35%.
+
+100
+00:04:51,660 --> 00:04:53,660
+Sirve también para la CITIS, igual que la furosemida,
+
+101
+00:04:53,660 --> 00:04:58,660
+y finalmente me sirve para la hipertensión refractaria,
+
+102
+00:04:58,660 --> 00:05:00,660
+la cual está al menos con tres fármacos,
+
+103
+00:05:00,660 --> 00:05:02,660
+incluyendo un diurético si no anda bien,
+
+104
+00:05:02,660 --> 00:05:04,660
+pues habitualmente se agrega la espironolactona
+
+105
+00:05:04,660 --> 00:05:07,660
+y además se va a buscar una causa secundaria.
+
+106
+00:05:07,660 --> 00:05:12,660
+Ahora, la última familia son los bloqueadores del ENAC,
+
+107
+00:05:12,660 --> 00:05:17,660
+son los bloqueadores del canal epitelial de sodio,
+
+108
+00:05:17,660 --> 00:05:22,660
+eso significa ENAC, así epitelial, sodio, channel, así.
+
+109
+00:05:22,660 --> 00:05:24,660
+Y en este caso, los dos que hay que saber
+
+110
+00:05:24,660 --> 00:05:26,660
+son el amiloride y el triamterene.
+
+111
+00:05:26,660 --> 00:05:30,660
+Sepan que su única importancia es que son ahorradores de potasio,
+
+112
+00:05:30,660 --> 00:05:32,660
+así que igualmente van a atender a la hiponatremia
+
+113
+00:05:32,660 --> 00:05:34,660
+como, repito, todos los diuréticos,
+
+114
+00:05:34,660 --> 00:05:38,660
+solamente que en este caso tienden a la hipercalemia.
+
+115
+00:05:38,660 --> 00:05:42,660
+O sea, la espironolactona, los inhibidores de la aldosterona
+
+116
+00:05:42,660 --> 00:05:46,660
+y el amiloride y el triamterene son los ahorradores de potasio
+
+117
+00:05:46,660 --> 00:05:48,660
+los que tienden a la hipercalemia.
+
+118
+00:05:48,660 --> 00:05:52,660
+Ahora, ¿cuándo se usan? En general se usan muy poco,
+
+119
+00:05:52,660 --> 00:05:54,660
+pero si es que tengo un paciente con hipertensión
+
+120
+00:05:54,660 --> 00:05:56,660
+que tiende a la hipocalemia,
+
+121
+00:05:56,660 --> 00:05:58,660
+pues en vez de dejarle en alapril,
+
+122
+00:05:58,660 --> 00:06:00,660
+cierto que si me sirve para la hipocalemia
+
+123
+00:06:00,660 --> 00:06:04,660
+con hidroclonotiazida que me va a agravar la hipocalemia,
+
+124
+00:06:04,660 --> 00:06:07,660
+pues se lo dejo más triamterene, por ejemplo.
+
+125
+00:06:07,660 --> 00:06:11,660
+Y de esa manera soluciono ambos problemas.
+
+126
+00:06:11,660 --> 00:06:12,660
+Y eso es todo.
+
+127
+00:06:12,660 --> 00:06:15,660
+Así que ya saben los distintos tipos de diurético
+
+128
+00:06:15,660 --> 00:06:16,660
+y cuándo saca uno.
+
+129
+00:06:16,660 --> 00:06:17,660
+Nos vemos.

@@ -1,0 +1,683 @@
+1
+00:00:00,000 --> 00:00:06,970
+Hola, hola, ¿cómo están? Vamos a hablar de artritis romatoide, en específico su
+
+2
+00:00:06,970 --> 00:00:10,930
+clínica y el diagnóstico, el manejo lo vamos a dejar para otro vídeo, pero esto
+
+3
+00:00:10,930 --> 00:00:14,770
+es algo que hay que saber con bastante detalle porque es muy frecuente, se
+
+4
+00:00:14,770 --> 00:00:20,130
+puede ver incluso en un 1% de las mujeres en Chile y en el mundo,
+
+5
+00:00:20,130 --> 00:00:23,650
+así que es una enfermedad que hay que saber detectar, que tiene un cuadro
+
+6
+00:00:23,650 --> 00:00:28,010
+clínico bien característico y si bien a veces es difícil de identificar, es
+
+7
+00:00:28,010 --> 00:00:31,410
+de las cosas que el médico general deberíamos ser capaces de sospechar,
+
+8
+00:00:31,850 --> 00:00:34,970
+de confirmar el diagnóstico y de diferenciarlo de otras enfermedades
+
+9
+00:00:34,970 --> 00:00:38,250
+inmunológicas y no inmunes como la artrósis, por ejemplo, así que
+
+10
+00:00:38,250 --> 00:00:43,290
+empecemos con su clínica, por el general se ve como una artritis de
+
+11
+00:00:43,290 --> 00:00:47,730
+muchas articulaciones, o sea como una poli artritis crónica y subrayo ahí
+
+12
+00:00:47,730 --> 00:00:51,330
+la palabra itis en el sentido en que viene con signos de inflamación
+
+13
+00:00:51,330 --> 00:00:55,010
+articular, dígase con derrame articular, con eritema cierto, con
+
+14
+00:00:55,010 --> 00:00:58,570
+aumento de volumen, etcétera. Habitualmente afecta las manos, puede
+
+15
+00:00:58,570 --> 00:01:01,410
+afectar los pies también, pero las manos es lo más frecuente y las
+
+16
+00:01:01,410 --> 00:01:05,970
+articulaciones más clásicas son las interfalángicas proximales, las
+
+17
+00:01:05,970 --> 00:01:10,090
+metacarpofalángicas y finalmente las muñecas, o sea las distales
+
+18
+00:01:10,090 --> 00:01:13,450
+es más infrecuente, aunque la artritis rheumatoide puede afectar
+
+19
+00:01:13,450 --> 00:01:18,090
+prácticamente casi cualquier articulación. Que quede claro,
+
+20
+00:01:18,090 --> 00:01:22,490
+rodillas, codos, hombros, etcétera, se afectan con frecuencia también,
+
+21
+00:01:22,490 --> 00:01:26,970
+pero las manos y las muñecas son lo más frecuente. La rigidez
+
+22
+00:01:27,010 --> 00:01:30,810
+matinal, en particular, arriba de 30 minutos y muchas veces más de una
+
+23
+00:01:30,810 --> 00:01:34,330
+hora, más de dos horas incluso, es uno de los signos que o de los
+
+24
+00:01:34,330 --> 00:01:39,570
+síntomas que con mayor frecuencia se describen al momento de desarrollar
+
+25
+00:01:39,570 --> 00:01:42,090
+el cuadro clínico de esta enfermedad también, así que va en
+
+26
+00:01:42,090 --> 00:01:45,290
+otro color porque una poli artritis crónica con compromiso de mano y
+
+27
+00:01:45,290 --> 00:01:48,330
+rigidez matinal lo más probable por lejos es que sea una
+
+28
+00:01:48,330 --> 00:01:52,130
+artritis rheumatoide. Los nódulos rheumatoideos que se palpan
+
+29
+00:01:52,130 --> 00:01:56,290
+habitualmente en el codo son las manifestaciones extraarticulares
+
+30
+00:01:56,290 --> 00:02:00,210
+más frecuentes, aunque no son las únicas. Sepan que la artritis
+
+31
+00:02:00,210 --> 00:02:04,330
+habitualmente es erosiva y eso se ve en la radiografía con lesiones
+
+32
+00:02:04,330 --> 00:02:07,490
+en sacabocado o erosiones articulares, como quieran llamarlas,
+
+33
+00:02:07,490 --> 00:02:12,610
+y que quede bien claro, esto se debe a la proliferación del
+
+34
+00:02:12,610 --> 00:02:15,490
+tejido sinovial, cierto, de la membrana sinovial y genera
+
+35
+00:02:15,490 --> 00:02:18,450
+una cosa que se llama panus o que se le llama panus, que se
+
+36
+00:02:18,450 --> 00:02:22,210
+va comiendo de una u otra forma el hueso y es la clásica
+
+37
+00:02:22,210 --> 00:02:25,330
+artritis erosiva. Las otras causas que hay que saber en la
+
+38
+00:02:25,370 --> 00:02:28,130
+artritis psoriática que viene con un cuadro clínico totalmente
+
+39
+00:02:28,130 --> 00:02:31,410
+distinto y eventualmente la artritis séptica que también
+
+40
+00:02:31,410 --> 00:02:33,810
+viene con un cuadro clínico distinto, o sea, en resumen,
+
+41
+00:02:33,810 --> 00:02:36,650
+una poli artritis erosiva, lo más probable es que sea
+
+42
+00:02:36,650 --> 00:02:41,330
+artritis rheumatoide y no otra causa. Como cosa adicional
+
+43
+00:02:41,330 --> 00:02:45,330
+puede venir con algo de osteopenia, perdón,
+
+44
+00:02:45,330 --> 00:02:49,050
+juxta articular, o sea que en relación a la articulación
+
+45
+00:02:49,050 --> 00:02:51,810
+que está afectada, que está inflamada, el hueso
+
+46
+00:02:51,810 --> 00:02:54,890
+evoluciona a una pérdida de masa ósea, a una osteopenia.
+
+47
+00:02:54,890 --> 00:02:59,530
+Como cosa adicional dijimos que podría venir con síntomas
+
+48
+00:02:59,530 --> 00:03:02,730
+extraarticulares, dentro de esos puede venir con síntomas
+
+49
+00:03:02,730 --> 00:03:06,410
+sistémicos, ejemplo con fiebre, con un rash, con una
+
+50
+00:03:06,410 --> 00:03:09,330
+vasculitis secundaria, con afectación pulmonar, ejemplo
+
+51
+00:03:09,330 --> 00:03:13,730
+un derrame pleural, una fibrosis pulmonar, con
+
+52
+00:03:13,730 --> 00:03:17,650
+afectación miocárdica o cardíaca en general, ya sea
+
+53
+00:03:17,650 --> 00:03:20,730
+una miocarditis, una endocarditis autoinmune o bien
+
+54
+00:03:20,730 --> 00:03:23,250
+una pericarditis autoinmune también. O sea, en resumen,
+
+55
+00:03:23,250 --> 00:03:26,170
+puede generar una vasculitis y un compromiso
+
+56
+00:03:26,170 --> 00:03:28,810
+sistémico o puede afectar específicamente algunos
+
+57
+00:03:28,810 --> 00:03:31,250
+órganos, en particular los pulmones y el corazón.
+
+58
+00:03:31,250 --> 00:03:34,810
+Finalmente, dentro del esqueleto axial, que
+
+59
+00:03:34,810 --> 00:03:37,730
+habitualmente se respeta por la artritis rheumatoide
+
+60
+00:03:37,730 --> 00:03:40,050
+y que se afecta en cambio por la pelvispondyloatropatía,
+
+61
+00:03:40,050 --> 00:03:45,050
+la articulación atlantoaxoidea, esa sí se puede
+
+62
+00:03:45,050 --> 00:03:47,570
+afectar y de hecho se afecta con cierta frecuencia
+
+63
+00:03:47,890 --> 00:03:51,650
+en la artritis rheumatoide y como neumotecnia siempre
+
+64
+00:03:51,650 --> 00:03:55,210
+se enseña que hay mayor riesgo de una lesión cervical
+
+65
+00:03:55,210 --> 00:03:58,610
+en contexto de un accidente automovilístico en
+
+66
+00:03:58,610 --> 00:04:01,050
+los pacientes con artritis rheumatoide justamente
+
+67
+00:04:01,050 --> 00:04:03,450
+porque está afectada esta articulación. Pero sea
+
+68
+00:04:03,450 --> 00:04:05,130
+como sea, no es lo más importante del cuadro
+
+69
+00:04:05,130 --> 00:04:07,730
+clínico, lo más importante es la poliatritis crónica
+
+70
+00:04:07,730 --> 00:04:11,450
+con la rigidez matinal. Como cosa adicional,
+
+71
+00:04:11,450 --> 00:04:13,850
+debe ser sin otra causa que lo explique, en el
+
+72
+00:04:13,850 --> 00:04:15,970
+sentido que si tengo una causa que me explica
+
+73
+00:04:15,970 --> 00:04:18,610
+todos esos síntomas, en particular la poliatritis
+
+74
+00:04:18,610 --> 00:04:21,530
+crónica y la rigidez matinal de manera importante,
+
+75
+00:04:21,530 --> 00:04:24,290
+pues obviamente me inclino a ese otro diagnóstico.
+
+76
+00:04:24,290 --> 00:04:28,090
+Respecto a la clínica, no siempre se ve el cuadro
+
+77
+00:04:28,090 --> 00:04:29,850
+clásico, hay algunos cuadros que hay que saber
+
+78
+00:04:29,850 --> 00:04:31,890
+identificar también y que son un poco más
+
+79
+00:04:31,890 --> 00:04:34,250
+difíciles porque son distintos, en particular
+
+80
+00:04:34,250 --> 00:04:38,490
+la artritis rheumatoide inicial en el sentido en
+
+81
+00:04:38,490 --> 00:04:40,930
+que viene sin artritis, sino que solamente con
+
+82
+00:04:40,930 --> 00:04:44,250
+artragias y con edema de manos más la rigidez
+
+83
+00:04:44,290 --> 00:04:47,810
+matinal que suele presentarse de manera bastante
+
+84
+00:04:47,810 --> 00:04:50,730
+precoz. Y aparte de esto, el otro cuadro clínico
+
+85
+00:04:50,730 --> 00:04:53,450
+un poco raro es la artritis rheumatoide de larga
+
+86
+00:04:53,450 --> 00:04:55,930
+data que a veces incluso puede estar inactiva en
+
+87
+00:04:55,930 --> 00:04:58,050
+el sentido en que en ese momento puede estar sin
+
+88
+00:04:58,050 --> 00:05:00,330
+inflamación, pero viene con las deformaciones
+
+89
+00:05:00,330 --> 00:05:02,570
+clásicas que hay que saber que son tres.
+
+90
+00:05:02,570 --> 00:05:05,370
+Por un lado, la ráfaga cubital que los dedos
+
+91
+00:05:05,370 --> 00:05:08,930
+se desplazan hacia cubital. Segundo lugar,
+
+92
+00:05:08,930 --> 00:05:10,850
+los dedos en cuello de cisne que vamos a ver
+
+93
+00:05:10,890 --> 00:05:14,050
+una imagen y los dedos de sastre o dedos en
+
+94
+00:05:14,050 --> 00:05:16,690
+boutonniac que así se dice en francés sastre
+
+95
+00:05:16,690 --> 00:05:19,490
+por si acaso, que nuevamente son deformaciones
+
+96
+00:05:19,490 --> 00:05:22,450
+que hay que saber como diferenciar de los
+
+97
+00:05:22,450 --> 00:05:24,330
+nóvulos de Heberden, de los nóvulos de
+
+98
+00:05:24,330 --> 00:05:26,730
+Bouchard y que orientan fuertemente a artritis
+
+99
+00:05:26,730 --> 00:05:30,010
+rheumatoide por sobre cualquier otra enfermedad.
+
+100
+00:05:30,010 --> 00:05:32,130
+Los marcaones de la artritis rheumatoide son
+
+101
+00:05:32,130 --> 00:05:34,930
+dos. Hay que saberlos por un lado el factor
+
+102
+00:05:34,930 --> 00:05:37,730
+rheumatoide, por otro lado los anticuerpos
+
+103
+00:05:38,650 --> 00:05:43,490
+anti-csp, antipeptido citulinado y sepan que
+
+104
+00:05:43,490 --> 00:05:45,730
+cualquier de los dos que esté positivo me
+
+105
+00:05:45,730 --> 00:05:48,570
+apoya el diagnóstico de artritis rheumatoide
+
+106
+00:05:48,570 --> 00:05:49,930
+y si es que están los dos positivos,
+
+107
+00:05:49,930 --> 00:05:52,210
+pues más lo apoya todavía.
+
+108
+00:05:52,210 --> 00:05:54,810
+Y finalmente se piden también como marcadores
+
+109
+00:05:54,810 --> 00:05:57,850
+para ver el diagnóstico o para ver la
+
+110
+00:05:57,850 --> 00:05:59,970
+probabilidad diagnóstica, los marcadores
+
+111
+00:05:59,970 --> 00:06:02,130
+de inflamación sistémica, ejemplo la
+
+112
+00:06:02,130 --> 00:06:05,490
+VHS, la PCR, entre otras, en el sentido
+
+113
+00:06:05,570 --> 00:06:08,010
+que es una enfermedad inflamatoria
+
+114
+00:06:08,010 --> 00:06:10,250
+autoinmune, cierto, que genera inflamación
+
+115
+00:06:10,250 --> 00:06:12,690
+no solamente de las articulaciones, sino
+
+116
+00:06:12,690 --> 00:06:14,690
+que a nivel sistémico también.
+
+117
+00:06:14,690 --> 00:06:17,330
+El diagnóstico de la artritis rheumatoide
+
+118
+00:06:17,330 --> 00:06:18,810
+de esto, hay que saberlo, al menos
+
+119
+00:06:18,810 --> 00:06:22,690
+someramente, se hace con unos criterios
+
+120
+00:06:22,690 --> 00:06:24,610
+actualmente, que cada uno de estos
+
+121
+00:06:24,610 --> 00:06:27,290
+criterios me va dando puntaje y con
+
+122
+00:06:27,290 --> 00:06:29,290
+que tenga seis puntos o más, pues se
+
+123
+00:06:29,290 --> 00:06:30,770
+confirma el diagnóstico de esta
+
+124
+00:06:30,770 --> 00:06:33,090
+enfermedad. Dentro de esto, el que
+
+125
+00:06:33,130 --> 00:06:35,610
+tenga afectación de muchas articulaciones,
+
+126
+00:06:35,610 --> 00:06:37,650
+mientras más tenga, más puntaje da.
+
+127
+00:06:37,650 --> 00:06:39,850
+Ejemplos es que tiene 10 o más, en ese
+
+128
+00:06:39,850 --> 00:06:41,450
+caso de inmediatamente 5 puntos y me
+
+129
+00:06:41,450 --> 00:06:42,730
+falta solamente un punto para
+
+130
+00:06:42,730 --> 00:06:44,170
+confirmar el diagnóstico.
+
+131
+00:06:44,170 --> 00:06:45,850
+Segundo lugar, los marcadores que me
+
+132
+00:06:45,850 --> 00:06:47,410
+dan tres puntos, pero fíjense por si
+
+133
+00:06:47,410 --> 00:06:50,010
+solo no hacen el diagnóstico.
+
+134
+00:06:50,010 --> 00:06:52,370
+Además, los marcadores de inflamación
+
+135
+00:06:52,370 --> 00:06:53,970
+como la VHS y la PCR que me dan
+
+136
+00:06:53,970 --> 00:06:55,690
+solamente un punto porque son mucho
+
+137
+00:06:55,690 --> 00:06:57,570
+más inespecíficos, ¿cierto?
+
+138
+00:06:57,570 --> 00:06:59,170
+Y finalmente, la duración mayor a
+
+139
+00:06:59,170 --> 00:07:01,370
+seis semanas en el sentido en que ya
+
+140
+00:07:01,370 --> 00:07:03,370
+habíamos dicho que tenía que ser una
+
+141
+00:07:03,370 --> 00:07:06,050
+poliatritis crónica, pero lo podemos
+
+142
+00:07:06,050 --> 00:07:07,250
+resumir en que el diagnóstico es
+
+143
+00:07:07,250 --> 00:07:08,650
+clínico, en el sentido de que si
+
+144
+00:07:08,650 --> 00:07:11,650
+tengo un cuadro clínico compatible
+
+145
+00:07:11,650 --> 00:07:13,410
+con artritis reumatoide, pues el
+
+146
+00:07:13,410 --> 00:07:15,210
+diagnóstico seguramente es ese
+
+147
+00:07:15,210 --> 00:07:16,410
+porque se van a cumplir estos
+
+148
+00:07:16,410 --> 00:07:18,410
+criterios y si quieren agregarle
+
+149
+00:07:18,410 --> 00:07:21,330
+algo más, más el apoyo de los
+
+150
+00:07:21,330 --> 00:07:22,610
+marcadores y de los exámenes de
+
+151
+00:07:22,610 --> 00:07:23,690
+sangre.
+
+152
+00:07:23,690 --> 00:07:25,450
+¿Cómo se veía el pronóstico de
+
+153
+00:07:25,450 --> 00:07:27,170
+esta enfermedad? Pues lo más
+
+154
+00:07:27,170 --> 00:07:28,690
+importante son la clínica y los
+
+155
+00:07:28,690 --> 00:07:30,730
+marcadores también. Así que fíjense,
+
+156
+00:07:30,730 --> 00:07:32,930
+los mismos elementos que me dan el
+
+157
+00:07:32,930 --> 00:07:34,490
+diagnóstico me sirven para el
+
+158
+00:07:34,490 --> 00:07:36,410
+pronóstico. La clínica, mientras más
+
+159
+00:07:36,410 --> 00:07:37,610
+grave, peor, mientras más
+
+160
+00:07:37,610 --> 00:07:40,290
+articulaciones, más erosiones, más
+
+161
+00:07:40,290 --> 00:07:42,250
+falta de respuesta al tratamiento
+
+162
+00:07:42,250 --> 00:07:44,610
+haya, pues peor. Y respecto a los
+
+163
+00:07:44,610 --> 00:07:46,090
+marcadores, si es que están positivos
+
+164
+00:07:46,090 --> 00:07:47,770
+y mientras más positivos estén,
+
+165
+00:07:47,770 --> 00:07:49,050
+peor. En cambio, si es que están
+
+166
+00:07:49,050 --> 00:07:50,570
+negativos, el pronóstico es un
+
+167
+00:07:50,570 --> 00:07:51,890
+poquito mejor.
+
+168
+00:07:51,890 --> 00:07:53,330
+Con eso terminamos este video.
+
+169
+00:07:53,330 --> 00:07:54,810
+En el siguiente veremos el manejo
+
+170
+00:07:54,810 --> 00:07:55,810
+de la artritis reumatoide.
+
+171
+00:07:55,810 --> 00:07:56,810
+Ahí nos vemos.

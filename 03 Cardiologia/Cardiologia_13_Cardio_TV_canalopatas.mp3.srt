@@ -1,0 +1,343 @@
+1
+00:00:00,000 --> 00:00:06,460
+Hola, ¿cómo están? En este vídeo vamos a hablar de la taquicardia ventricular que es la
+
+2
+00:00:06,460 --> 00:00:11,260
+arritmia más grave de todas, más algunas canalopatías que son enfermedades genéticas
+
+3
+00:00:11,260 --> 00:00:15,780
+que se traducen eventualmente en taquicardia ventricular y en muerte súbita. Empecemos
+
+4
+00:00:15,780 --> 00:00:21,700
+con la taquicardia ventricular monomorfa que es la clásica. Viene con esa imagen que lo
+
+5
+00:00:21,700 --> 00:00:26,380
+más importante es que viene con un QRS ancho por su caso. En este caso la frecuencia está
+
+6
+00:00:26,380 --> 00:00:31,780
+más o menos en 250 por minuto y lo más importante los QRS son monomorfos,
+
+7
+00:00:31,780 --> 00:00:37,060
+dígase, todos tienen exactamente la misma forma. Habitualmente son causadas por una
+
+8
+00:00:37,060 --> 00:00:41,380
+zona de reentrada y lo más frecuente es que haya tenido un infarto, por ejemplo,
+
+9
+00:00:41,380 --> 00:00:47,500
+y que en el lugar del infarto queda una zona con una cicatriz cardíaca y se produce un
+
+10
+00:00:47,500 --> 00:00:52,780
+fenómeno de reentrada, dígase, queda dando vueltas alrededor de la cicatriz, la onda de
+
+11
+00:00:53,100 --> 00:00:59,380
+polarización del sistema éxito conductor. Además se pueden generar por las canalopatías,
+
+12
+00:00:59,380 --> 00:01:04,540
+ejemplo el síndrome de brugada, el síndrome de cutelargo o por algunas otras alteraciones
+
+13
+00:01:04,540 --> 00:01:10,940
+como la displace aritmogénica del ventrículo derecho, entre otras. Su clínica por reglas
+
+14
+00:01:10,940 --> 00:01:16,500
+generales son palpitaciones, como buena taquirritmia. Muchas veces llega choqueado,
+
+15
+00:01:16,500 --> 00:01:21,260
+de hecho, repito, es de las arritmias más graves y es la que habitualmente llega con
+
+16
+00:01:21,500 --> 00:01:26,820
+hemodinamia inestable y que requiere de la cardioversión eléctrica inmediata y además
+
+17
+00:01:26,820 --> 00:01:31,540
+se presenta muchas veces como muerte súbita, que acuérdense la definición de muerte súbita
+
+18
+00:01:31,540 --> 00:01:39,300
+es un paciente que sin ninguna causa explicable de repente fallece, ¿cierto? Y que desde el
+
+19
+00:01:39,300 --> 00:01:44,460
+inicio de los síntomas hasta el fallecimiento hay un tiempo muy corto que no permite que en
+
+20
+00:01:44,460 --> 00:01:49,540
+la autopsia se pueda identificar la causa. Si es que alguien, ejemplo, viene con un infarto
+
+21
+00:01:49,540 --> 00:01:54,820
+al corazón, se le muere un pedazo del corazón antes que el resto del cuerpo, en la autopsia se
+
+22
+00:01:54,820 --> 00:01:58,980
+ve que en una parte del corazón hay un infarto. En cambio, si es que alguien se muere muy,
+
+23
+00:01:58,980 --> 00:02:04,740
+muy rápido, ejemplo, en el mismo infarto, por ejemplo, pero se hace una arritmia y se muere
+
+24
+00:02:04,740 --> 00:02:09,140
+en unos pocos minutos, en ese caso en la autopsia se ve que todo el cuerpo se murió
+
+25
+00:02:09,140 --> 00:02:14,540
+al mismo tiempo y no se identifica la causa. Sigamos ahora. El diagnóstico de la
+
+26
+00:02:14,540 --> 00:02:19,220
+taquicardia ventricular es obviamente con el electrocardiograma y lo más importante es una
+
+27
+00:02:19,220 --> 00:02:24,220
+taquicardia con el QRS ancho y esa es la gran diferencia de las supraventriculares que son
+
+28
+00:02:24,220 --> 00:02:28,860
+con el QRS angosto, como ejemplo la taquicardia senusal, el flater auricular, la fibrilación
+
+29
+00:02:28,860 --> 00:02:32,900
+auricular o la taquicardia paroxística supraventricular. Todas esas son con el
+
+30
+00:02:32,900 --> 00:02:38,100
+QRS angosto y en el momento en que ya veo un QRS ancho me asusto y yo digo que estoy
+
+31
+00:02:38,100 --> 00:02:42,500
+en contexto de una taquicardia ventricular. El tratamiento de la taquicardia ventricular,
+
+32
+00:02:42,500 --> 00:02:46,940
+si es que viene con hemodinamia inestable, que es lo más frecuente, en ese caso se hace
+
+33
+00:02:46,940 --> 00:02:50,820
+la cardioversión eléctrica inmediata, si es que viene en paro, en cambio era un ritmo
+
+34
+00:02:50,820 --> 00:02:56,540
+desfibrilable que se maneja con la desfibrilación inmediata y acuérdense la diferencia entre la
+
+35
+00:02:56,540 --> 00:03:01,660
+desfibrilación y la cardioversión, es que la cardioversión es sincronizada con el ritmo
+
+36
+00:03:01,660 --> 00:03:08,940
+del paciente y uno lo ajusta por si acaso en el desfibrilador, lo deja no en
+
+37
+00:03:08,940 --> 00:03:15,780
+desfibrilación, sino que en cardioversión y al momento de yo gatillar, el aparato espera
+
+38
+00:03:15,780 --> 00:03:20,540
+hasta que esté sincronizado y recién en ese momento tira la descarga y se está con
+
+39
+00:03:20,540 --> 00:03:25,180
+hemodinamia estable, en cambio los antiarrítmicos específicos para la taquicardia ventricular
+
+40
+00:03:25,180 --> 00:03:30,180
+es la amiodarona o bien la lidocaína, si es que no tuviera amiodarona disponible.
+
+41
+00:03:31,180 --> 00:03:35,740
+Luego de eso, es muy frecuente que el paciente quede con un DAI, que quede con
+
+42
+00:03:35,740 --> 00:03:39,780
+un desfibrilador automático implantable, en el sentido en que alguien que me está
+
+43
+00:03:39,780 --> 00:03:44,100
+haciendo taquicardias ventriculares y que está con una causa que es irreversible tiene
+
+44
+00:03:44,100 --> 00:03:49,140
+riesgo de repetirlas y de morirse, así que en la práctica el paciente queda con
+
+45
+00:03:49,140 --> 00:03:53,940
+este desfibrilador implantable que es como un marcapaso que va leyendo siempre el ritmo
+
+46
+00:03:53,940 --> 00:03:57,420
+cardíaco y en el momento en que cae en taquicardia ventricular o en alguna otra cosa
+
+47
+00:03:57,420 --> 00:04:02,060
+más grave, hace un disparo cierto y saca al paciente de ese ritmo tan grave.
+
+48
+00:04:02,380 --> 00:04:06,900
+Veamos muy rápido otro tipo de taquicardia ventricular que es la torsión de puntas,
+
+49
+00:04:06,900 --> 00:04:13,140
+que viene muy de la mano con el síndrome de cutelargo, que también se conoce con su
+
+50
+00:04:13,140 --> 00:04:18,820
+nombre en francés que es Toxaz de Poin y que lo más importante acá es que hay que saber
+
+51
+00:04:18,820 --> 00:04:23,780
+reconocer la imagen, ahí se ve el patrón electrocardiográfico clásico de la torsión
+
+52
+00:04:23,780 --> 00:04:27,980
+de punta, lo más importante viene con el QRC ancho porque es una taquicardia ventricular,
+
+53
+00:04:27,980 --> 00:04:34,020
+en este caso va cambiando de forma, así que es una taquicardia ventricular de tipo
+
+54
+00:04:34,020 --> 00:04:39,380
+polimorfa, las puntas van cambiando de dirección, hay algunas partes que apuntan hacia arriba,
+
+55
+00:04:39,380 --> 00:04:43,340
+en otras hacia abajo y lo otro es que es muy clásico que se vea con ese patrón
+
+56
+00:04:43,340 --> 00:04:49,460
+como sinusoidal que va como aumentando y disminuyendo la amplitud del QRS.
+
+57
+00:04:49,460 --> 00:04:55,700
+La causa habitualmente de la torsión de puntas es el cutelargo, ya sea que venga
+
+58
+00:04:55,700 --> 00:05:03,740
+con una canalopatía de base, de tipo genética, dígase con un síndrome de cutelargo congénito
+
+59
+00:05:03,740 --> 00:05:10,300
+o ya sea por la hipocalcemia, hipomagnesemia que son alteraciones hidroelectrolíticas que
+
+60
+00:05:10,300 --> 00:05:15,620
+alargan el cuté, la bradicardia igualmente alarga el cuté, así que en un paciente con
+
+61
+00:05:15,620 --> 00:05:20,660
+un cutelargo yo debo evitar la bradicardia también, además de evitar la hipocalcemia,
+
+62
+00:05:20,660 --> 00:05:25,140
+la hipocalcemia y la hipomagnesemia. El tratamiento de la torsión de puntas,
+
+63
+00:05:25,140 --> 00:05:29,380
+si es que está con hemodinamia estable, por lo general es el sulfato de magnesio,
+
+64
+00:05:29,380 --> 00:05:33,780
+fíjense, en este caso me cambia el antirrítmico, habíamos dicho que para la
+
+65
+00:05:33,780 --> 00:05:38,460
+taquicardia ventricular común y corriente era la miodarona o la lidocaína, en este caso en
+
+66
+00:05:38,460 --> 00:05:43,140
+cambio es el magnesio y la forma en que se da como sulfato de magnesio, más obviamente
+
+67
+00:05:43,140 --> 00:05:47,860
+el tratamiento de la causa. En el caso del síndrome de cutelargo que es el que está
+
+68
+00:05:47,860 --> 00:05:57,340
+sin la arridnia, sino que está de manera basal, si es que el intervalo cuté es más de 11 de los
+
+69
+00:05:57,340 --> 00:06:05,740
+cuadraditos, más de 440 milisegundos, en ese caso, yo digo, viene con un cutelargo,
+
+70
+00:06:05,740 --> 00:06:10,500
+tiene un alto riesgo de evolucionar a una torsión de puntas y hay que instalarle
+
+71
+00:06:10,500 --> 00:06:15,620
+igualmente el desfrilador automático implantable. Aquí se ve una imagen,
+
+72
+00:06:16,380 --> 00:06:22,580
+y si se fijan está con un cuté muy largo, ahí es bastante más que 11, por si acaso.
+
+73
+00:06:23,460 --> 00:06:30,820
+Vemos ahora el síndrome de brugada, que era otra de las canalopatías genéticas que desencadenan
+
+74
+00:06:30,820 --> 00:06:35,100
+habitualmente taquicardia ventricular y muerte súbita. Su clínica es justamente esas dos cosas,
+
+75
+00:06:35,100 --> 00:06:40,180
+la muerte súbita por un lado, que es la presentación más frecuente o bien la
+
+76
+00:06:40,180 --> 00:06:46,540
+taquicardia ventricular. El diagnóstico se hace con el electrocardiograma y el manejo
+
+77
+00:06:46,540 --> 00:06:52,340
+por él en general es el desfrilador automático implantable. Ahora, ¿cómo se diagnostica como
+
+78
+00:06:52,340 --> 00:06:58,580
+un hallazgo? Dígase, le hago algún electro, ya sea porque algún pariente se murió de muerte
+
+79
+00:06:58,580 --> 00:07:03,580
+súbita o ya sea porque se le hizo por alguna otra razón, por un chequeo médico y me sale
+
+80
+00:07:03,580 --> 00:07:08,980
+esta imagen. En ese caso, yo digo, viene con un síndrome de brugada y hay que instalarle
+
+81
+00:07:09,260 --> 00:07:15,540
+el marca paso que viene con desfrilador. Además, la imagen más importante es esa que se puede ver
+
+82
+00:07:15,540 --> 00:07:20,860
+en B1 o en B2 con un bloqueo completo de rama derecha, dígase el RSR prima, ¿cierto?
+
+83
+00:07:20,860 --> 00:07:27,380
+Más el supra de nivel del ST que va cayendo, además más la onda T invertida. Esa es la
+
+84
+00:07:27,380 --> 00:07:31,940
+treada, hay que saber identificarlo y no se las puede pasar en el sentido en que al
+
+85
+00:07:31,940 --> 00:07:36,180
+detectarlo se puede salvar la vida de ese paciente. Y bueno, eso es todo lo que hay que
+
+86
+00:07:36,180 --> 00:07:37,380
+saber. Nos vemos en los siguientes temas.

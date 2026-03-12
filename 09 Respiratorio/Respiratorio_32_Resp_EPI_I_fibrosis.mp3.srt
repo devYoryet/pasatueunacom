@@ -1,0 +1,695 @@
+1
+00:00:00,000 --> 00:00:08,320
+Hola, en este video vamos a hablar de las enfermedades pulmonares interticiales o al
+
+2
+00:00:08,320 --> 00:00:11,640
+menos vamos a dar inicio a este gran tema. En específico vamos a ver las
+
+3
+00:00:11,640 --> 00:00:15,240
+generalidades, el enfrentamiento diagnóstico por ejemplo y segundo
+
+4
+00:00:15,240 --> 00:00:18,800
+lugar vamos a centrarnos en la más frecuente y en la más clásica, cierto,
+
+5
+00:00:18,800 --> 00:00:21,880
+que es la fibrosis pulmonar idiopática. Así que empecemos con
+
+6
+00:00:21,880 --> 00:00:26,240
+este esquema general recordando las causas. Recordemos que son muchas las
+
+7
+00:00:26,240 --> 00:00:29,960
+causas, la más frecuente y más importante la fibrosis pulmonar
+
+8
+00:00:29,960 --> 00:00:33,880
+idiopática que ya dijimos la vamos a ver con algún detalle. Aparte de esto la
+
+9
+00:00:33,880 --> 00:00:38,040
+neumonitis por hipersensibilidad o neumonitis alérgica que es una
+
+10
+00:00:38,040 --> 00:00:42,040
+reacción alérgica a la inhalación habitualmente crónica de distintos
+
+11
+00:00:42,040 --> 00:00:46,360
+alérgenos, ¿cierto? Las secundarias enfermedades autoinmunes como la
+
+12
+00:00:46,360 --> 00:00:49,800
+tritirromatoide, lupus, la enfermedad mixta del tejido conectivo, la
+
+13
+00:00:49,800 --> 00:00:53,440
+dermatomiosítil, la esclerodermia, la sarcoidosis, etcétera, que las vamos
+
+14
+00:00:53,440 --> 00:00:57,320
+a ver con algún detalle después también. Las neumoconiosis como las
+
+15
+00:00:57,320 --> 00:01:01,880
+vestosis, la silicosis, la neumoconiosis del carbón, las por fármacos como la
+
+16
+00:01:01,880 --> 00:01:05,800
+secundaria miodarona, nitrofrantoína, antineoplácicos, entre otros fármacos
+
+17
+00:01:05,800 --> 00:01:09,160
+que hay que saber y que los vamos a ver en otra clase. La neumonía
+
+18
+00:01:09,160 --> 00:01:13,840
+organizada criptogénica que antes se conocía como la BUP, la
+
+19
+00:01:13,840 --> 00:01:17,640
+linfangioleidomidomatosis, la histositosis pulmonar por células del
+
+20
+00:01:17,640 --> 00:01:21,640
+angerhans, etcétera. Ahí hay una gran lista con algunas otras que no
+
+21
+00:01:21,640 --> 00:01:24,280
+vale la pena saber, pero las que están acá las vamos a ver al menos
+
+22
+00:01:24,600 --> 00:01:28,840
+de alguna manera somera, sino en este video, en los siguientes videos. Veamos
+
+23
+00:01:28,840 --> 00:01:32,520
+cómo se estudian, esto hay que saberlo de memoria y de manera bastante clara.
+
+24
+00:01:32,520 --> 00:01:37,000
+Número uno, una anamnesis detallada que justamente vaya a buscar cualquiera
+
+25
+00:01:37,000 --> 00:01:40,080
+de estas causas secundarias como ir a buscar los síntomas de enfermedades
+
+26
+00:01:40,080 --> 00:01:44,120
+autoinmunes, el uso de fármaco, el consumo de cigarrillo que se asocia
+
+27
+00:01:44,120 --> 00:01:49,000
+a la firozis pulmonar, el antecedente de exposición a inhalantes como
+
+28
+00:01:49,000 --> 00:01:53,280
+animales, pájaros, etcétera. Los antecedentes familiares, dado que
+
+29
+00:01:53,280 --> 00:01:57,160
+hay algunas que siguen algún patrón familiar, etcétera. Segundo lugar,
+
+30
+00:01:57,160 --> 00:02:00,400
+el primer examen que habitualmente me muestra este patrón
+
+31
+00:02:00,400 --> 00:02:04,880
+inserticial suele ser la radiografía de tórax, pero luego y esto hay que
+
+32
+00:02:04,880 --> 00:02:08,680
+saberlo bastante bien, el examen de elección como para ver el patrón
+
+33
+00:02:08,680 --> 00:02:12,360
+imaginalógico e inmediatamente orientar a una causa es la TAC de
+
+34
+00:02:12,360 --> 00:02:16,160
+tórax. O sea, se estudia con imágenes como los exámenes
+
+35
+00:02:16,160 --> 00:02:19,960
+iniciales y siendo la TAC el más importante, pero la radiografía,
+
+36
+00:02:20,080 --> 00:02:23,720
+el examen inicial. Finalmente, cuando me queda la duda diagnóstica,
+
+37
+00:02:23,720 --> 00:02:28,640
+si es que no hay una historia clínica o algún otro elemento que
+
+38
+00:02:28,640 --> 00:02:33,160
+me oriente fuertemente a una de estas causas de esta extensalista,
+
+39
+00:02:33,160 --> 00:02:37,000
+se va a la diopsia pulmonar como gold standard final, cierto, o bien
+
+40
+00:02:37,000 --> 00:02:40,040
+al lavado bronquio al violar que eventualmente me sirve para
+
+41
+00:02:40,040 --> 00:02:44,080
+identificar algunas causas. Pero repito, lo más importante es la TAC,
+
+42
+00:02:44,080 --> 00:02:47,800
+dado que es la imagen que me muestra los detalles anátomo
+
+43
+00:02:47,800 --> 00:02:51,560
+patológico, cierto, al menos en la forma en la cual se distribuye.
+
+44
+00:02:51,560 --> 00:02:56,040
+Veamos ahora la fibrosis pulmonar idiopática, la vamos a ver con cierto
+
+45
+00:02:56,040 --> 00:03:02,360
+detalle, hay que saberlo por si acaso, es la enfermedad interticial pulmonar
+
+46
+00:03:02,360 --> 00:03:05,480
+más frecuente y además es la que tiene el peor pronóstico porque
+
+47
+00:03:05,480 --> 00:03:08,560
+habitualmente no responde a los distintos fármacos que eventualmente
+
+48
+00:03:08,560 --> 00:03:13,000
+se pueden dar. Empecemos recordando su cuadro clínico, los factores de
+
+49
+00:03:13,000 --> 00:03:16,720
+riesgo más importantes que sea adulto mayor suele ser una enfermedad rara
+
+50
+00:03:17,040 --> 00:03:20,720
+antes de los 60 años, aunque hay casos a los 40 a los 50 años también
+
+51
+00:03:21,080 --> 00:03:24,880
+y se asocia a fumar, pero a diferencia del epoque que requiere
+
+52
+00:03:25,120 --> 00:03:27,080
+una cantidad de cigarrillo bastante grande.
+
+53
+00:03:27,080 --> 00:03:30,360
+En este caso basta con que fume algunos pocos cigarrillos al día,
+
+54
+00:03:30,360 --> 00:03:32,200
+cierto, como para que ya aumente el riesgo.
+
+55
+00:03:32,200 --> 00:03:34,520
+Ya hay algunos pacientes que no fuman y que la desarrollan también,
+
+56
+00:03:34,520 --> 00:03:37,880
+por si acaso. Segundo lugar, el síntoma más importante en todas
+
+57
+00:03:38,200 --> 00:03:41,720
+estas enfermedades interticiales es la disnea, habitualmente una
+
+58
+00:03:41,960 --> 00:03:46,080
+disnea de esfuerzo, cierto, que aumenta, ya sea al caminar mucho,
+
+59
+00:03:46,080 --> 00:03:47,760
+al subir escaleras, etcétera.
+
+60
+00:03:47,760 --> 00:03:49,760
+Segundo lugar, es frecuente que venga con tos.
+
+61
+00:03:49,760 --> 00:03:53,480
+Habitualmente es tos seca, sin expectoración, aunque hay algunos casos
+
+62
+00:03:53,480 --> 00:03:56,440
+en que sí se complica con infecciones o bien en que hay
+
+63
+00:03:56,440 --> 00:04:00,440
+hiperproducción de expectoración también en el examen físico.
+
+64
+00:04:00,440 --> 00:04:04,160
+Lo que más se describe son los crépitos intensos difusos, cierto,
+
+65
+00:04:04,360 --> 00:04:07,560
+bastante fuertes y que suelen ser más fuertes en las bases,
+
+66
+00:04:07,560 --> 00:04:10,600
+debido a que en la fibrosis pulmonar idiopática lo que más afecta
+
+67
+00:04:10,600 --> 00:04:12,920
+son justamente las bases de los pulmones.
+
+68
+00:04:12,920 --> 00:04:15,840
+Además, en los casos más avanzados suelen aparecer
+
+69
+00:04:16,080 --> 00:04:18,920
+acropaquias o hipocritismo digital, que es algo que se ve más
+
+70
+00:04:18,920 --> 00:04:22,720
+en el cáncer de pulmón, pero que se puede ver también en este caso.
+
+71
+00:04:23,080 --> 00:04:27,280
+Y finalmente, para que sea una fibrosis pulmonar idiopática
+
+72
+00:04:27,280 --> 00:04:30,040
+y no secundaria alguna otra enfermedad, por el general
+
+73
+00:04:30,720 --> 00:04:33,840
+debe excluirse las otras causas que se puedan complicar
+
+74
+00:04:33,840 --> 00:04:36,120
+con este tipo de manifestaciones pulmonares también,
+
+75
+00:04:36,120 --> 00:04:39,680
+como ya dijimos, las enfermedades autoinmunes, las drogas, etcétera.
+
+76
+00:04:40,240 --> 00:04:42,120
+La radiografía, hay que recordarlo.
+
+77
+00:04:42,160 --> 00:04:46,480
+Lo que se ve es un patrón intertitial en panal de abeja
+
+78
+00:04:46,480 --> 00:04:49,680
+que se suele ver más fuerte en las bases y que se ve todavía
+
+79
+00:04:49,680 --> 00:04:51,160
+más fuerte en la tac.
+
+80
+00:04:51,160 --> 00:04:54,400
+Y en segundo lugar, suele ser algo que compromete en particular
+
+81
+00:04:54,400 --> 00:04:57,240
+las bases pulmonares y la periferia de los pulmones
+
+82
+00:04:57,480 --> 00:05:01,160
+más que la zona más central respecto de la tac.
+
+83
+00:05:01,160 --> 00:05:06,560
+Acuérdense la la panelización o la imagen en panal de abeja
+
+84
+00:05:06,560 --> 00:05:09,240
+es lo más frecuente, pero es muy frecuente que se altere
+
+85
+00:05:09,240 --> 00:05:12,320
+con algunas otras zonas de el parénquima pulmonar
+
+86
+00:05:12,320 --> 00:05:13,800
+que está absolutamente sano.
+
+87
+00:05:13,800 --> 00:05:16,760
+Y eso es algo que no siempre se ve en la radiografía de tórax
+
+88
+00:05:16,760 --> 00:05:19,200
+y se ve un poco mejor en la tac.
+
+89
+00:05:19,200 --> 00:05:21,640
+Aquí hay una imagen de las más clásicas, cierto?
+
+90
+00:05:21,640 --> 00:05:25,280
+Es un patrón de tipo intertitial que es lo más frecuente.
+
+91
+00:05:25,680 --> 00:05:29,480
+Y aquí se ve un atac y se fijan esas partes que están llenas
+
+92
+00:05:29,480 --> 00:05:31,920
+de hoyitos más pequeños, en particular en las bases
+
+93
+00:05:32,200 --> 00:05:35,360
+y además en la zona superior derecha, cierto?
+
+94
+00:05:35,560 --> 00:05:38,360
+Es lo que se conoce como una imagen en panal de abeja.
+
+95
+00:05:38,840 --> 00:05:42,440
+Ahora, cómo se ve la biopsia de la fibrosis pulmonar?
+
+96
+00:05:42,440 --> 00:05:46,520
+Habitualmente se ve como una neumonía intertitial usual
+
+97
+00:05:46,520 --> 00:05:50,240
+que se suele abreviar por sus siglas en inglés como UIP.
+
+98
+00:05:50,480 --> 00:05:54,280
+Pero acuérdense, UIP y FPI no son exactamente lo mismo.
+
+99
+00:05:54,640 --> 00:05:59,120
+La FPI, la fibrosis pulmonar idiopática es un diagnóstico clínico,
+
+100
+00:05:59,120 --> 00:06:01,000
+es el nombre de la enfermedad en sí.
+
+101
+00:06:01,000 --> 00:06:04,680
+En cambio, la UIP, la neumonía intertitial usual,
+
+102
+00:06:04,880 --> 00:06:07,320
+es el patrón en la biopsia, cierto?
+
+103
+00:06:07,320 --> 00:06:10,120
+O eventualmente en la tac, en las imágenes.
+
+104
+00:06:10,560 --> 00:06:14,520
+Segundo lugar, la fibrosis pulmonar idiopática siempre viene con un patrón
+
+105
+00:06:14,800 --> 00:06:16,600
+de neumonía intertitial.
+
+106
+00:06:16,600 --> 00:06:19,840
+Sin embargo, hay otras patologías que también se pueden ver de esa forma.
+
+107
+00:06:20,080 --> 00:06:22,840
+Y la más clásica es la artritis reumatoide
+
+108
+00:06:22,840 --> 00:06:25,240
+o algunas otras de estas enfermedades autoinmunes.
+
+109
+00:06:26,440 --> 00:06:29,800
+Algunas otras cosas que hay que saber de la fibrosis pulmonar idiopática
+
+110
+00:06:29,800 --> 00:06:33,360
+y que me aplican igualmente a otras enfermedades intertitiales
+
+111
+00:06:33,760 --> 00:06:38,520
+es que la espirometría suele mostrar un patrón de tipo restrictivo,
+
+112
+00:06:38,520 --> 00:06:41,240
+no es obstructivo, sino que es restrictivo.
+
+113
+00:06:41,240 --> 00:06:44,080
+Dígase, se mantiene la relación BEV-1-CBF
+
+114
+00:06:44,360 --> 00:06:48,120
+y habitualmente hay una caída tanto de la CBF como del BEV-1.
+
+115
+00:06:48,560 --> 00:06:53,040
+Segundo lugar, hay una caída en la difusión del monóxido de carbono
+
+116
+00:06:53,040 --> 00:06:55,720
+en el test de difusión del monóxido de carbono,
+
+117
+00:06:56,000 --> 00:06:58,600
+que es algo que refleja de una u otra forma
+
+118
+00:06:58,600 --> 00:07:02,400
+que hay una enfermedad intertitial con un trastorno de la difusión.
+
+119
+00:07:02,720 --> 00:07:05,800
+Y esto se ve también en el test de caminata,
+
+120
+00:07:06,160 --> 00:07:08,280
+en que se ve que hay una desaturación
+
+121
+00:07:08,280 --> 00:07:10,280
+que se agrava en particular con el ejercicio.
+
+122
+00:07:10,680 --> 00:07:12,400
+Esas últimas dos cosas,
+
+123
+00:07:12,400 --> 00:07:14,560
+la caída de la difusión del monóxido de carbono
+
+124
+00:07:14,560 --> 00:07:17,480
+y la desaturación con el ejercicio
+
+125
+00:07:17,800 --> 00:07:21,840
+es lo más característico de las patologías que producen hipoxemia
+
+126
+00:07:21,840 --> 00:07:24,520
+a través de un mecanismo de un trastorno de la difusión.
+
+127
+00:07:24,760 --> 00:07:29,560
+Y en este caso, justamente como se vuelven gruesos las paredes al violar,
+
+128
+00:07:29,960 --> 00:07:33,160
+en ese caso hay efectivamente un trastorno de la difusión.
+
+129
+00:07:34,040 --> 00:07:37,000
+El tratamiento de la fibrosis pulmonar, por regla general,
+
+130
+00:07:37,000 --> 00:07:38,640
+es simplemente el soporte.
+
+131
+00:07:38,640 --> 00:07:41,400
+Hay pocos medicamentos que eventualmente puedan servir.
+
+132
+00:07:41,680 --> 00:07:44,040
+Dentro de esto, el soporte con oxígeno,
+
+133
+00:07:44,040 --> 00:07:46,880
+las vacunas en contra de la influenza de la COVID-19
+
+134
+00:07:46,880 --> 00:07:49,200
+y del neumococo eventualmente sirven.
+
+135
+00:07:50,000 --> 00:07:52,760
+Hay algunos fármacos nuevos que son antifibróticos
+
+136
+00:07:52,760 --> 00:07:56,200
+y que en algunos pacientes en particular pueden tener algún efecto,
+
+137
+00:07:56,200 --> 00:07:58,440
+aunque sea limitado, no hay por qué saberlo,
+
+138
+00:07:58,440 --> 00:08:03,320
+pero la pirfenidona y el nintedanib son los más clásicos.
+
+139
+00:08:03,520 --> 00:08:05,640
+Basta con saber que existen,
+
+140
+00:08:05,640 --> 00:08:08,120
+pero que en general el soporte es lo más importante.
+
+141
+00:08:08,480 --> 00:08:11,120
+Y en último lugar, en algunos casos más avanzados,
+
+142
+00:08:11,120 --> 00:08:15,440
+el trasplante pulmonar suele ser el único tratamiento que eventualmente sirve.
+
+143
+00:08:15,880 --> 00:08:19,600
+Ahora veamos unos poquitos casos, porque esto no es tan sencillo, cierto?
+
+144
+00:08:20,160 --> 00:08:23,880
+Aquí se ve la misma imagen de una fibrosis pulmonar que vimos antes.
+
+145
+00:08:23,880 --> 00:08:25,600
+Pero si es que el caso fuera este,
+
+146
+00:08:25,640 --> 00:08:28,520
+un hombre de 35 años con promiscuidad sexual,
+
+147
+00:08:28,520 --> 00:08:31,360
+cierto, que hace dos meses está con tos y disnea,
+
+148
+00:08:31,360 --> 00:08:34,000
+en ese caso no hay que sospechar una fibrosis pulmonar,
+
+149
+00:08:34,000 --> 00:08:35,920
+sino que hay que sospechar ¿qué cosa?
+
+150
+00:08:35,920 --> 00:08:39,960
+Una neumonía por neumocistis girobechi asociada a VIH
+
+151
+00:08:39,960 --> 00:08:42,600
+y que se puede ver exactamente igual en la radiografía.
+
+152
+00:08:43,280 --> 00:08:45,440
+Lo mismo si es que estoy con la misma radiografía,
+
+153
+00:08:45,440 --> 00:08:47,960
+pero el caso es un hombre de 68 años
+
+154
+00:08:47,960 --> 00:08:52,000
+que desde hace una hora está con dolor torácico 10 de 10 y con disnea.
+
+155
+00:08:52,000 --> 00:08:53,920
+En ese caso, lo más probable es que está con un infarto,
+
+156
+00:08:54,520 --> 00:08:56,520
+y que se está complicando con un edema pulmonar
+
+157
+00:08:56,520 --> 00:08:58,840
+en contexto de esta insuficiencia cardíaca severa
+
+158
+00:08:58,840 --> 00:09:01,600
+que se puede ver igualmente como con un patrón
+
+159
+00:09:01,600 --> 00:09:03,960
+que no es exactamente igual al intersticial,
+
+160
+00:09:03,960 --> 00:09:07,040
+pero puede ser muy similar y puede ser difícil de diferenciar.
+
+161
+00:09:07,440 --> 00:09:09,480
+Y el último caso, un hombre de 70 años
+
+162
+00:09:09,480 --> 00:09:13,360
+desde hace dos días que está con fiebre hasta 41 grados Celsius,
+
+163
+00:09:13,360 --> 00:09:16,080
+con fiebre alta, más mitálgias, tos y disnea.
+
+164
+00:09:16,080 --> 00:09:20,280
+En este caso, nuevamente no es un cuadro crónico
+
+165
+00:09:20,280 --> 00:09:22,320
+que es lo característico de la fibrosis pulmonar,
+
+166
+00:09:22,320 --> 00:09:25,160
+sino que es un cuadro agudo, aparentemente infeccioso,
+
+167
+00:09:25,160 --> 00:09:28,240
+con mucha fiebre y con un patrón intersticial también.
+
+168
+00:09:28,240 --> 00:09:30,520
+Lo más probable es que tenga una neumonitis viral,
+
+169
+00:09:30,520 --> 00:09:34,240
+ya sea por COVID-19 o ya sea por influenza
+
+170
+00:09:34,240 --> 00:09:37,640
+que igualmente se puede complicar con una neumonitis bastante severa.
+
+171
+00:09:37,640 --> 00:09:39,280
+Así que eso no hay que confundirlo
+
+172
+00:09:39,280 --> 00:09:41,760
+y en los siguientes videos vamos a ir viendo
+
+173
+00:09:41,760 --> 00:09:44,200
+las otras causas de enfermedad pulmonar intersticial
+
+174
+00:09:44,200 --> 00:09:46,280
+y va a quedar todo más claro. Así que nos vemos ahí. Que estén bien.

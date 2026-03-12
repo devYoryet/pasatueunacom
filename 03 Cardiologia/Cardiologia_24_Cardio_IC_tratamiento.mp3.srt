@@ -1,0 +1,351 @@
+1
+00:00:00,000 --> 00:00:06,980
+Hola, ¿cómo están? En este video vamos a hablar del manejo del tratamiento de la insuficiencia
+
+2
+00:00:06,980 --> 00:00:11,780
+cardíaca, recordando que hay algunas medidas que se pueden tomar que aumentan la sobrevida
+
+3
+00:00:11,780 --> 00:00:16,940
+y que por lo mismo son las más importantes. Dentro está el manejo de la causa, o sea,
+
+4
+00:00:16,940 --> 00:00:21,060
+si es hipertenso, por ejemplo, y está con una cardiopatía hipertensiva, el manejarle
+
+5
+00:00:21,060 --> 00:00:27,120
+su hipertensión con los distintos fármacos anti hipertensivos aumenta la sobrevida,
+
+6
+00:00:27,120 --> 00:00:30,780
+más algunos fármacos que me sirven para todos los tipos de insuficiencia cardíaca
+
+7
+00:00:30,780 --> 00:00:37,020
+en general. Estos fármacos, si bien su función más importante es aumentar la sobrevida y que
+
+8
+00:00:37,020 --> 00:00:41,340
+saber que todos ellos, además, disminuyen hasta cierto punto los síntomas. Ahora,
+
+9
+00:00:41,340 --> 00:00:46,100
+¿cuáles son estos fármacos? Y los vamos a ver en el orden de importancia. Número uno,
+
+10
+00:00:46,100 --> 00:00:52,980
+los YECA como en el April o los ARA2 como los Artan. Ambos se pueden usar indistintamente
+
+11
+00:00:52,980 --> 00:00:58,980
+y ambos son bastante eficaces y son la primera línea y la medida más importante,
+
+12
+00:00:58,980 --> 00:01:04,180
+en el sentido en que influyen en la remodelación del corazón y por lo mismo alarga la sobrevía.
+
+13
+00:01:04,180 --> 00:01:09,860
+Segundo lugar, el beta bloqueo, y en este caso el carbidilol es el fármaco de elección para
+
+14
+00:01:09,860 --> 00:01:13,980
+la insuficiencia cardíaca en particular, en el sentido en que no solamente viene con
+
+15
+00:01:13,980 --> 00:01:19,140
+beta bloqueo, sino que además viene con alfa bloqueo, con alfa 1 bloqueo en el caso
+
+16
+00:01:19,140 --> 00:01:25,140
+del carbidilol. En tercer lugar están los inhibidores de la aldosterona, que hay dos
+
+17
+00:01:25,140 --> 00:01:31,500
+que hay que saber, la heplerenona y la espirondolactona. La heplerenona, la subrayo,
+
+18
+00:01:31,500 --> 00:01:35,660
+en el sentido en que tiene menos efectos adversos porque no viene con el efecto
+
+19
+00:01:35,660 --> 00:01:41,140
+antiandrogénico y progestagénico, es un poquito más específico del receptor de
+
+20
+00:01:41,140 --> 00:01:46,740
+aldosterona a diferencia de la espirondolactona, pero es un poco más cara así que si es que no está
+
+21
+00:01:46,740 --> 00:01:51,580
+disponible hay que dejar la espirondolactona no más. En general, la indicación que cuenta
+
+22
+00:01:51,580 --> 00:01:57,740
+con más evidencia de estos fármacos que son la tercera línea es que tenga una fracción de
+
+23
+00:01:57,740 --> 00:02:04,340
+elección reducida, diga-se menor a 35%, más síntomas que sean refractarios al tratamiento
+
+24
+00:02:04,340 --> 00:02:09,900
+con el beta bloqueo y con lo YECA, con la diferencia que en la actualidad hay algunos
+
+25
+00:02:09,900 --> 00:02:15,460
+estudios que dicen que seguramente el dejarlos sea algo útil independientemente que no cumpla
+
+26
+00:02:15,460 --> 00:02:19,380
+con esos criterios tan estrictos, en el sentido en que serviría para aumentar aunque
+
+27
+00:02:19,420 --> 00:02:26,820
+sea modestamente la sobrevía. En cuarto lugar, algo más reciente, los SGLUT2, que son fármacos
+
+28
+00:02:26,820 --> 00:02:31,620
+que se usan como antidiabéticos, pero que se ha visto que independientemente de si son
+
+29
+00:02:31,620 --> 00:02:36,780
+pacientes con diabetes o sin diabetes, me sirven para mejorar el pronóstico de la insuficiencia
+
+30
+00:02:36,780 --> 00:02:42,020
+cardíaca también. Y el más importante o el que hay que saber es la empaglifocina,
+
+31
+00:02:42,020 --> 00:02:46,740
+aunque en la clase de diabetes ahí se ve con mayor detalle todos los fármacos que hay
+
+32
+00:02:46,740 --> 00:02:50,700
+relacionados con esto. O sea, en resumen, fíjense, YECA y Eradol, lo más importante,
+
+33
+00:02:50,700 --> 00:02:55,780
+beta bloqueo, la Eplerenona que es un poquito mejor que la espironolactona y finalmente
+
+34
+00:02:55,780 --> 00:03:01,060
+la empaglifocina también. Para bajar los síntomas, hay algunos fármacos que sirven
+
+35
+00:03:01,060 --> 00:03:06,380
+también los diuréticos, de hecho el que más se usa es la furosemida, que quede bien
+
+36
+00:03:06,380 --> 00:03:11,540
+claro, no me alarga la sobrevida, pero sí puede ayudar bastante a disminuir la disnea
+
+37
+00:03:11,540 --> 00:03:16,140
+de un paciente con congestión pulvonal, por ejemplo. Ahora, algo importante, si el
+
+38
+00:03:16,140 --> 00:03:21,100
+diurético yo lo dejo para tratar la causa, ejemplo, la hidroclotiazida en el manejo
+
+39
+00:03:21,100 --> 00:03:25,580
+de la hipertensión arterial, en ese caso sí me aumenta la sobrevida. O sea, que
+
+40
+00:03:25,580 --> 00:03:32,220
+quede claro, el diurético de la insuficiencia cardíaca aumenta la sobrevida y las respuestas
+
+41
+00:03:32,220 --> 00:03:36,820
+generales no, no lo aumenta, solamente disminuye los síntomas, a menos, claro,
+
+42
+00:03:36,820 --> 00:03:40,860
+repito, que esté tratando la causa de base de la insuficiencia cardíaca,
+
+43
+00:03:40,860 --> 00:03:46,500
+y ahí se aumenta la sobrevida. Los digitálicos, la dicocina era el clásico que se usaba
+
+44
+00:03:46,500 --> 00:03:51,460
+para disminuir los síntomas como un inotropo positivo, pero la verdad es que viene con
+
+45
+00:03:51,460 --> 00:03:57,980
+muchas reacciones adversas a medicamentos, viene con un rango terapéutico muy estrecho,
+
+46
+00:03:57,980 --> 00:04:01,500
+se suele complicar con arritmias y con otras cosas, así que en la práctica,
+
+47
+00:04:01,500 --> 00:04:07,500
+en la actualidad, ya casi no se usan por su caso. Ahora, el saber la lista de los
+
+48
+00:04:07,500 --> 00:04:11,420
+fármacos que mejora la sobrevida y los que solamente disminuye los síntomas es
+
+49
+00:04:11,420 --> 00:04:14,820
+importante para poder tomar este tipo de decisiones que vamos a ver ahora.
+
+50
+00:04:14,820 --> 00:04:18,020
+Si es que el paciente está mal, si está con muchos síntomas, ¿cierto?,
+
+51
+00:04:18,020 --> 00:04:21,980
+¿qué cosa hay que agregar? Idealmente agregar algo que aumenta la sobrevida,
+
+52
+00:04:21,980 --> 00:04:28,260
+o sea, si está solamente con YECA, ¿qué cosa le dejo? Pues el carbidilol o
+
+53
+00:04:28,260 --> 00:04:32,100
+el carbidilol más la espironolactona. En cambio, si es que el paciente está muy
+
+54
+00:04:32,100 --> 00:04:35,900
+bien y le quiero retirar alguno de los fármacos, ejemplo porque está con
+
+55
+00:04:35,900 --> 00:04:41,420
+efectos adversos, está hipotensando, por ejemplo, ¿qué le saco? Pues se saca
+
+56
+00:04:41,420 --> 00:04:45,420
+algo que no aumenta la sobrevida, sino que algo que simplemente disminuya los
+
+57
+00:04:45,420 --> 00:04:49,380
+síntomas, ejemplo, se le saca la digoxina o se le saca la furosemía.
+
+58
+00:04:49,380 --> 00:04:52,700
+Algunas otras medidas que me sirven para el tratamiento de la insuficiencia
+
+59
+00:04:52,700 --> 00:04:57,940
+cardiaca está el marcapaso de resincronización miocárdica que sirve
+
+60
+00:04:57,940 --> 00:05:01,380
+en particular en los pacientes que vienen con el corazón muy dilatado,
+
+61
+00:05:01,380 --> 00:05:06,420
+cierto, que no se contrae de manera uniforme, sino que lo hace a destiempo.
+
+62
+00:05:06,420 --> 00:05:10,420
+En segundo lugar, en los que están con síncope o con taquiarritmia,
+
+63
+00:05:10,420 --> 00:05:15,180
+cierto, me sirve eventualmente el defrilador automático implantable y
+
+64
+00:05:15,180 --> 00:05:19,100
+finalmente de última línea en muchas insuficiencias cardíacas que no son
+
+65
+00:05:19,100 --> 00:05:25,140
+reversibles, cierto, se pueden manejar con un trasplante cardíaco que
+
+66
+00:05:25,140 --> 00:05:29,060
+eventualmente puede andar bien. Actualmente hay muchos estudios en
+
+67
+00:05:29,100 --> 00:05:33,660
+corazones artificiales y ese tipo de cosas, pero todavía, al menos a la
+
+68
+00:05:33,660 --> 00:05:37,740
+fecha de hoy en que se está grabando este video, no han llegado a resultados
+
+69
+00:05:37,740 --> 00:05:41,620
+que permitan recomendarlos a la mayoría de los pacientes.
+
+70
+00:05:41,620 --> 00:05:45,980
+Veamos cómo resumen entonces, según la clasificación de la insuficiencia
+
+71
+00:05:45,980 --> 00:05:49,340
+cardíaca, la etapa A, que si se acuerdan, era solamente los factores
+
+72
+00:05:49,340 --> 00:05:53,140
+de riesgo, obviamente se van a manejar esos factores de riesgo.
+
+73
+00:05:53,140 --> 00:05:56,820
+En la etapa B, que era la que ya venía con cambios estructurales, desde
+
+74
+00:05:56,820 --> 00:06:02,900
+ese momento ya se agregan los yecas o los arados, como el en el
+
+75
+00:06:02,900 --> 00:06:07,100
+april y los artarn, respectivamente, más el betabloqueo, más el
+
+76
+00:06:07,100 --> 00:06:10,940
+carbidilol, en el sentido que son los fármacos que justamente evitan
+
+77
+00:06:10,940 --> 00:06:16,460
+la remodelación miocárdica, que evitan estos cambios estructurales.
+
+78
+00:06:16,460 --> 00:06:19,220
+En la etapa C, que era la que ya venía con síntomas,
+
+79
+00:06:19,220 --> 00:06:23,660
+habitualmente se agregan la heplerenona o la espirionolactona
+
+80
+00:06:23,660 --> 00:06:27,420
+y además más los Sglut2 como la empaglifocina, y aparte por tener
+
+81
+00:06:27,420 --> 00:06:31,540
+síntomas suele agregarse la furosemida, además, aunque sea para el
+
+82
+00:06:31,540 --> 00:06:35,020
+manejo de esos síntomas. Y de última línea, en la etapa D,
+
+83
+00:06:35,020 --> 00:06:39,020
+la que ya está con síntomas refractarios, es el momento en que
+
+84
+00:06:39,020 --> 00:06:42,940
+uno empieza a plantear estas cosas adicionales, como el
+
+85
+00:06:42,940 --> 00:06:45,860
+marcapaso de resincronización miocárdica y el trasplante
+
+86
+00:06:45,860 --> 00:06:48,300
+cardíaco. Y bueno, eso es lo que hay que saber por ahora.
+
+87
+00:06:48,300 --> 00:06:50,980
+Vamos a ver ya las causas específicas de insuficiencia
+
+88
+00:06:50,980 --> 00:06:52,740
+para que no te pierdas los siguientes videos. Que estén bien.

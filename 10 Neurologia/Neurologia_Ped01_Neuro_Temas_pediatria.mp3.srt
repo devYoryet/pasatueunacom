@@ -1,0 +1,435 @@
+1
+00:00:00,000 --> 00:00:07,380
+Hola, ¿cómo están? En este vídeo vamos a hablar de tres temas de neurología pediátrica,
+
+2
+00:00:07,380 --> 00:00:12,540
+en específico la parálisis cerebral, que les adelanto que lo más importante es su cuadro clínico
+
+3
+00:00:12,540 --> 00:00:16,740
+que no pierde los hitos del desarrollo psicomotor que ya ganó.
+
+4
+00:00:16,740 --> 00:00:20,340
+Y segundo lugar, vamos a ver el síndrome hipotónico y el síndrome hipertónico
+
+5
+00:00:20,340 --> 00:00:25,540
+en que les adelanto también que lo más importante es diferenciar las causas centrales.
+
+6
+00:00:25,540 --> 00:00:29,980
+Ejemplo, con una afectación del cerebro de las periféricas que, en cambio,
+
+7
+00:00:29,980 --> 00:00:33,860
+viene por alteraciones ya sea de los músculos o del nervio periférico.
+
+8
+00:00:33,860 --> 00:00:39,660
+Empecemos con la parálisis cerebral, recordando que sus causas, su etiología,
+
+9
+00:00:39,660 --> 00:00:44,740
+por lo general, son las causas antenatales, perinatales, que son las dos más frecuentes,
+
+10
+00:00:44,740 --> 00:00:49,220
+y luego las posnatales también. Dentro de las antenatales, las genopatías y el torcho
+
+11
+00:00:49,220 --> 00:00:53,020
+son dos de las que hay que saber. Dentro de las perinatales, en cambio,
+
+12
+00:00:53,020 --> 00:00:56,380
+las más frecuentes serían la prematurez, por un lado, que,
+
+13
+00:00:56,380 --> 00:01:02,940
+acuérdense que era evitable o prevenible, hasta cierto punto, el daño cerebral con el insulfato de magnesio
+
+14
+00:01:02,940 --> 00:01:07,020
+que se daba en todo parto prematuro inminente antes de las 32 semanas,
+
+15
+00:01:07,020 --> 00:01:10,980
+y la afixa también, que es algo evitable en muchos casos.
+
+16
+00:01:10,980 --> 00:01:15,980
+Dentro de las causas posnatales, las infecciones como la meningitis bacteriana agua, por ejemplo,
+
+17
+00:01:15,980 --> 00:01:21,420
+el cernícteros, que habíamos dicho que era una de las causas evitables también
+
+18
+00:01:21,420 --> 00:01:26,300
+de daño cerebral en el recién nacido, el accidente vascular encefálico, entre otras.
+
+19
+00:01:26,300 --> 00:01:33,420
+El cuadro clínico, hay que saberlo, ya lo dije rápidamente, o previamente de manera bastante breve,
+
+20
+00:01:33,420 --> 00:01:37,340
+viene con retraso del desarrollo psicomotor y, lo más importante,
+
+21
+00:01:37,340 --> 00:01:43,380
+pero que no pierde los hitos que ha ido ganando. O sea, eventualmente va lento en su desarrollo psicomotor,
+
+22
+00:01:43,380 --> 00:01:47,300
+pero si es que gana algo, ya no lo pierde, no es un cuadro involutivo,
+
+23
+00:01:47,300 --> 00:01:52,780
+de hecho se describe como un cuadro de alteración del desarrollo psicomotor no involutivo
+
+24
+00:01:52,780 --> 00:01:56,180
+con predominancia de síntomas motores.
+
+25
+00:01:56,180 --> 00:02:00,860
+Ahora, dentro de los síntomas motores, los tres más frecuentes que hay que saber es,
+
+26
+00:02:00,860 --> 00:02:07,260
+número uno, la espacticidad, que se ve en la gran mayoría de los casos en un 70% de los casos,
+
+27
+00:02:07,260 --> 00:02:12,660
+pero hay algunos casos que vienen con dyskinesia y algunos otros que vienen con ataxia también.
+
+28
+00:02:12,660 --> 00:02:22,380
+Es más, la clasificación más frecuente, ¿cierto?, es que sea de tipo espástica, dyskinesica o atáxica,
+
+29
+00:02:22,380 --> 00:02:26,060
+justamente con los tres síntomas motores más importantes.
+
+30
+00:02:26,060 --> 00:02:31,500
+Ahora, la espástica se llama también con un síndrome de tipo piramidal,
+
+31
+00:02:31,500 --> 00:02:37,260
+en cambio, las que vienen con dyskinesia o con ataxia eventualmente vienen con un síndrome
+
+32
+00:02:37,260 --> 00:02:41,620
+o extra piramidal o con un síndrome cerebeloso también.
+
+33
+00:02:41,620 --> 00:02:45,420
+Vemos ahora que no solamente viene con síntomas motores,
+
+34
+00:02:45,420 --> 00:02:49,580
+hay algunos casos que son la minoría, por si acaso, que sí viene con síntomas sensitivos
+
+35
+00:02:49,580 --> 00:02:55,380
+o con hipotonía también, y solamente un 20% viene con déficit cognitivo, ¿cierto?
+
+36
+00:02:55,380 --> 00:02:58,740
+En cambio, la inmensa mayoría, el 80% de estos niños,
+
+37
+00:02:58,740 --> 00:03:02,540
+viene con una inteligencia que está dentro del rango normal.
+
+38
+00:03:02,540 --> 00:03:08,700
+Vemos ahora el diagnóstico, es un diagnóstico absolutamente clínico que, repito,
+
+39
+00:03:08,700 --> 00:03:13,780
+que lo más importante era que no perdía los hitos del desarrollo psicomotor que ha ido ganando,
+
+40
+00:03:13,780 --> 00:03:17,060
+y muchas veces se complementa esto con una resonancia magnética
+
+41
+00:03:17,060 --> 00:03:21,580
+o con alguna otra neuroimagen de manera de ir a buscar dirigidamente la causa
+
+42
+00:03:21,580 --> 00:03:24,460
+por si es que hubiese que manejarla de alguna forma distinta.
+
+43
+00:03:24,460 --> 00:03:32,980
+Ahora, el manejo de estos niños y de los adultos también que eventualmente el niño se sigue desarrollando,
+
+44
+00:03:32,980 --> 00:03:36,060
+sigue creciendo, ¿cierto? Es un manejo multidisciplinario.
+
+45
+00:03:36,060 --> 00:03:41,500
+En el caso de Chile, se suele hacer en la Fundación Teletón,
+
+46
+00:03:41,500 --> 00:03:45,860
+que justamente se enfoca en los niños con parálisis cerebral,
+
+47
+00:03:45,900 --> 00:03:50,100
+e incluye la rehabilitación, la química de su terapia, la fisiatría, la psicología,
+
+48
+00:03:50,100 --> 00:03:56,740
+la terapia ocupacional, el manejo con el traumatólogo que incluso puede hacer algunas cirugías,
+
+49
+00:03:56,740 --> 00:03:59,780
+por ejemplo, con el neurólogo, etcétera.
+
+50
+00:03:59,780 --> 00:04:05,660
+Por cultura general, sepan que la espasticidad de primera línea se puede manejar con algunos fármacos
+
+51
+00:04:05,660 --> 00:04:14,460
+como el baclofeno que actúa a nivel de los receptores GABA y las benzodiazepinas también sirven.
+
+52
+00:04:14,460 --> 00:04:20,220
+Aparte de esto, con algunos ejercicios, en algunos casos con toxina botulínica
+
+53
+00:04:20,220 --> 00:04:26,780
+como para disminuir el tono muscular y finalmente, de última línea, la cirugía
+
+54
+00:04:26,780 --> 00:04:31,980
+y algunas cosas incluso más modernas con robótica, etcétera.
+
+55
+00:04:31,980 --> 00:04:35,980
+Vemos ahora muy rápidamente el síndrome hipotónico que, acuérdense,
+
+56
+00:04:35,980 --> 00:04:41,540
+que el tono normal en los recién nacidos es un tono flexor que viene con las manos cerradas,
+
+57
+00:04:41,580 --> 00:04:45,620
+con los brazos doblados, con las caderas y rodillas flexadas también.
+
+58
+00:04:45,620 --> 00:04:51,300
+Y obviamente viene con los reflejos arcaicos que están presentes pero que son simétricos,
+
+59
+00:04:51,300 --> 00:04:57,700
+y además el resto de la movilidad y del examen neurológico es absolutamente normal.
+
+60
+00:04:57,700 --> 00:05:05,100
+Ahora, las causas de síndrome hipotónico, lo más importante es saber que se subdividen en causas centrales
+
+61
+00:05:05,100 --> 00:05:12,220
+como, ejemplo, algunas encefalopatías, como la encefalopatía hipóxico-esquémica, entre otras,
+
+62
+00:05:12,220 --> 00:05:17,580
+más la quenopatía. En cambio, el otro grupo son las causas periféricas,
+
+63
+00:05:17,580 --> 00:05:21,860
+que lo más importante son las alteraciones de los electrolitos,
+
+64
+00:05:21,860 --> 00:05:27,260
+ejemplo, una hipomagnesemia o una hipocalcemia, más las neuropatías y las miopatías.
+
+65
+00:05:27,260 --> 00:05:34,220
+O sea, si se fijan, las causas centrales son como algún problema del cerebro,
+
+66
+00:05:34,220 --> 00:05:38,900
+en cambio, las causas periféricas son problemas del nervio periférico y de los músculos.
+
+67
+00:05:38,900 --> 00:05:46,740
+Hay que ver las diferencias clínicas entre las causas centrales y las causas periféricas, en cambio,
+
+68
+00:05:46,740 --> 00:05:52,460
+y son bastante obvias algunas dentro de las centrales que vengan con compromiso de conciencia,
+
+69
+00:05:52,460 --> 00:05:57,020
+eso obviamente está localizado en el cerebro, lo mismo es que viene con convulsiones,
+
+70
+00:05:57,020 --> 00:06:02,980
+con signos focales en el examen neurológico, o si es que viene con micro o macrocefalia,
+
+71
+00:06:02,980 --> 00:06:08,460
+con alguna alteración del cerebro, no queda ninguna duda de que lo más probable es que sea una causa central.
+
+72
+00:06:08,460 --> 00:06:16,100
+Ahora hay que recordar, además, que la hiperreflexia, el aumento de los reflejos osteotendinos
+
+73
+00:06:16,100 --> 00:06:19,860
+y de los reflejos arcaicos, eventualmente me orientan a una causa central
+
+74
+00:06:19,860 --> 00:06:26,580
+porque son parte del síndrome de primera motoneurona o síndrome piramidal.
+
+75
+00:06:26,580 --> 00:06:32,260
+En cambio, en las causas periféricas, lo más frecuente es que venga con arreflexia o con hiporreflexia,
+
+76
+00:06:32,540 --> 00:06:40,740
+y con las fasciculaciones que son alteraciones del síndrome de segunda motoneurona o síndrome de denervación.
+
+77
+00:06:40,740 --> 00:06:44,940
+Repito, las causas centrales vienen con un síndrome piramidal,
+
+78
+00:06:44,940 --> 00:06:49,060
+las causas periféricas, en cambio, muchas veces vienen con un síndrome de denervación
+
+79
+00:06:49,060 --> 00:06:52,420
+con hipotonía arreflexia y fasciculaciones también.
+
+80
+00:06:52,420 --> 00:06:59,940
+La hipoventilación y las alteraciones de las pruebas del laboratorio,
+
+81
+00:06:59,940 --> 00:07:03,860
+como la CK elevada que me muestra que eventualmente hay una miopatía
+
+82
+00:07:03,860 --> 00:07:09,060
+o los electrolitos que están alterados y que me muestran alguna de las causas de tipo periférico,
+
+83
+00:07:09,060 --> 00:07:12,220
+obviamente me orientan a las causas periféricas también.
+
+84
+00:07:12,220 --> 00:07:16,780
+En el caso de las de tipo central, se estudian obviamente con una neuroimagen
+
+85
+00:07:16,780 --> 00:07:22,140
+como para ir a mirar el cerebro que no está funcionando.
+
+86
+00:07:22,140 --> 00:07:26,380
+Y en el caso de la de causa de tipo periférico,
+
+87
+00:07:26,420 --> 00:07:31,580
+se estudian con una electromiografía que va justamente a ver el nervio periférico
+
+88
+00:07:31,580 --> 00:07:34,020
+y el músculo como está funcionando.
+
+89
+00:07:34,020 --> 00:07:37,980
+El manejo va a depender según la causa que se encuentre.
+
+90
+00:07:37,980 --> 00:07:42,300
+Vemos ahora el síndrome hipertónico muy brevemente que a grandes rasgos
+
+91
+00:07:42,300 --> 00:07:47,460
+y en resumen se maneja de una forma bastante similar al síndrome hipotónico.
+
+92
+00:07:47,460 --> 00:07:53,900
+Dígase, hay que diferenciar las causas centrales de las periféricas de la misma forma.
+
+93
+00:07:53,900 --> 00:07:59,340
+En este caso, la inmensa mayoría de los casos de síndrome hipertónico son centrales
+
+94
+00:07:59,340 --> 00:08:03,380
+y la parálisis cerebral de tipo espástica es por lejos la más frecuente.
+
+95
+00:08:03,380 --> 00:08:10,220
+De hecho, las otras que hay son la diplegia espástica que es un tipo de parálisis cerebral
+
+96
+00:08:10,220 --> 00:08:16,260
+pero que en vez de afectar todo el cuerpo, afecta solamente las extremidades inferiores
+
+97
+00:08:16,260 --> 00:08:20,700
+pero viene con hipertonía, con espasticidad de las piernas,
+
+98
+00:08:20,700 --> 00:08:25,380
+y hay algunas otras causas como las lesiones de la médula espinal, entre otras.
+
+99
+00:08:25,380 --> 00:08:27,740
+Y de las periféricas son mucho más raras.
+
+100
+00:08:27,740 --> 00:08:30,900
+Dentro de esas hay que saber la hipocalcemia,
+
+101
+00:08:30,900 --> 00:08:34,380
+más algunas más raras como el síndrome de Isaac
+
+102
+00:08:34,380 --> 00:08:37,940
+que hay que saber que existen algunos síndromes de ese tipo.
+
+103
+00:08:37,940 --> 00:08:44,900
+De la hipocalcemia, acuérdense que se puede traducir en un cuadro de tetánea
+
+104
+00:08:44,900 --> 00:08:51,580
+con las contracciones, con hiperreflexia y eventualmente con la hipertonía igualmente.
+
+105
+00:08:51,580 --> 00:08:55,860
+Y se fijan, ahí habría algunas de las excepciones
+
+106
+00:08:55,860 --> 00:09:02,860
+en el sentido que habíamos dicho que la hiperreflexia era algo que orientaba a una causa central
+
+107
+00:09:02,860 --> 00:09:05,620
+y en este caso sería una causa periférica.
+
+108
+00:09:05,620 --> 00:09:07,180
+Bueno, eso es todo lo que hay que saber.
+
+109
+00:09:07,180 --> 00:09:09,180
+Nos vemos en el siguiente tema. ¡Que estén bien!

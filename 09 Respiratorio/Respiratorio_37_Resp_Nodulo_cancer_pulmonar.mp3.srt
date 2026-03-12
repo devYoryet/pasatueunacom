@@ -1,0 +1,443 @@
+1
+00:00:00,000 --> 00:00:07,780
+Hola, ¿cómo están? En este vídeo vamos a ver este gran tema del no duro pulmonar y la
+
+2
+00:00:07,780 --> 00:00:11,620
+masa pulmonar, que la única diferencia es el tamaño por si acaso, y
+
+3
+00:00:11,620 --> 00:00:16,180
+finalmente en aquellos que se identifica un cáncer con una biopsia, cierto,
+
+4
+00:00:16,180 --> 00:00:20,260
+vamos a ver el manejo general del cáncer pulmonar según el tipo
+
+5
+00:00:20,260 --> 00:00:23,780
+histológico, etcétera. Empecemos con este tema de no duro pulmonar,
+
+6
+00:00:23,780 --> 00:00:28,180
+recordando su definición, es una lesión pulmonar, cierto, menor a 3
+
+7
+00:00:28,180 --> 00:00:31,700
+centímetros, es que mide más, ya cambia de nombre a ser una masa
+
+8
+00:00:31,700 --> 00:00:36,460
+pulmonar. El diagnóstico por el general es con una radiografía de tórax,
+
+9
+00:00:36,460 --> 00:00:41,620
+que suele ser el primer examen en el cual se detecta la presencia de este
+
+10
+00:00:41,620 --> 00:00:46,100
+nódulo y luego de eso se debe estudiar siempre con un ataque de tórax y lo
+
+11
+00:00:46,100 --> 00:00:50,540
+subrayo acá en el sentido en que en la actualidad el ataque de tórax es el
+
+12
+00:00:50,540 --> 00:00:53,660
+estudio más importante del no duro pulmonar, ya sea que se sospeche que
+
+13
+00:00:53,660 --> 00:00:58,820
+es benigno o maligno o lo que sea, debido a que lo localiza, lo
+
+14
+00:00:58,820 --> 00:01:04,100
+identifica, lo delimita, cierto, y eventualmente me etapifica también si
+
+15
+00:01:04,100 --> 00:01:07,940
+es que haya algún cáncer o no. Siempre es importante revisar las imágenes
+
+16
+00:01:07,940 --> 00:01:11,140
+previas, ya sea que viene con una radiografía previa o con un ataque
+
+17
+00:01:11,140 --> 00:01:15,300
+previa, pero repito en la actualidad me da lo mismo que es lo que digan
+
+18
+00:01:15,300 --> 00:01:19,100
+las radiografías previas, se estudia con una con un ataque sí o sí y la
+
+19
+00:01:19,100 --> 00:01:24,220
+única excepción es que venga contact previas y que no haya mayores
+
+20
+00:01:24,220 --> 00:01:28,700
+cambios y que se descarte que sea algo maligno solamente porque viene
+
+21
+00:01:28,700 --> 00:01:33,380
+contact previas. Ahora los criterios de malignidad que hay que saber número
+
+22
+00:01:33,380 --> 00:01:38,660
+uno es que sea de aspecto sólido, que sea con los bordes especulados, que sea
+
+23
+00:01:38,660 --> 00:01:44,780
+mayor o igual a 8 milímetros, que haya crecido desde la imagen previa a la
+
+24
+00:01:44,780 --> 00:01:49,020
+nueva, cierto, o que venga con adenopatías que sean de aspecto
+
+25
+00:01:49,020 --> 00:01:52,780
+neoplástico, recordando que hay algunas adenopatías que se ven
+
+26
+00:01:52,780 --> 00:01:56,180
+también en las patologías inflamatorias como el atuberculosis,
+
+27
+00:01:56,180 --> 00:02:02,660
+etcétera. Ahora, como cosa adicional, si es que el conjunto de datos de la
+
+28
+00:02:02,660 --> 00:02:07,660
+imagen, cierto, me orienta a que es algo benigno, en ese caso simplemente yo lo
+
+29
+00:02:07,660 --> 00:02:11,740
+sigo con el ataque habitualmente por un periodo de dos a cinco años y se
+
+30
+00:02:11,740 --> 00:02:16,100
+se controla con un ataque cada tres meses a seis meses dependiendo de las
+
+31
+00:02:16,100 --> 00:02:20,300
+características del nódulo, pero repito, si es que es benigno no se biopsia
+
+32
+00:02:20,300 --> 00:02:24,140
+sino que yo lo sigo con la imagen y la imagen más importante repito
+
+33
+00:02:25,100 --> 00:02:28,780
+Si es que viene con un riesgo de malignidad intermedio o bien con un
+
+34
+00:02:28,780 --> 00:02:32,500
+aspecto que ya sugiere que es un cáncer, en ese caso se estudia sí o sí con una
+
+35
+00:02:32,500 --> 00:02:36,860
+biopsia y respecto a qué tipo de biopsia hay que pedirle pues va a
+
+36
+00:02:36,860 --> 00:02:40,540
+depender de la localización, si es que está en una localización más
+
+37
+00:02:40,540 --> 00:02:45,180
+central, más cercano al híleo pulmonar, en ese caso la vía más
+
+38
+00:02:45,180 --> 00:02:48,820
+fácil es acceder por una broncoscopía, así que se hace una
+
+39
+00:02:48,820 --> 00:02:51,980
+biopsia trans bronquial por broncoscopía, en cambio si es que
+
+40
+00:02:52,100 --> 00:02:56,660
+está en la zona más periférica de los pulmones se estudia con una biopsia por
+
+41
+00:02:56,660 --> 00:03:01,860
+por punción. Vemos ahora el manejo de la masa pulmonar por la general se
+
+42
+00:03:01,860 --> 00:03:07,500
+define como aquella lesión de mayor o igual a tres centímetros, ya dijimos
+
+43
+00:03:07,500 --> 00:03:11,020
+que antes era un nódulo pulmonar y habíamos dicho que en los nódulos
+
+44
+00:03:11,020 --> 00:03:16,220
+pulmonares desde ocho milímetros hacia arriba cierto el riesgo era que
+
+45
+00:03:16,220 --> 00:03:20,020
+fuera maligno así que en este caso el manejo de la masa pulmonar que
+
+46
+00:03:20,060 --> 00:03:23,940
+viene con 30 milímetros o más es obviamente el mismo manejo del nódulo
+
+47
+00:03:23,940 --> 00:03:26,860
+maligno, o sea se va a estudiar con un ataque y luego eso va a ir con una
+
+48
+00:03:26,860 --> 00:03:32,500
+biopsia ya sea trans bronquial o por por por punción percutánea según la
+
+49
+00:03:32,500 --> 00:03:36,900
+localización. Vemos ahora el cáncer pulmonar acuérdense que el cuadro
+
+50
+00:03:36,900 --> 00:03:40,340
+clínico es algo que hay que saber y que por la general el factor de
+
+51
+00:03:40,340 --> 00:03:46,020
+riesgo más importante es el fumar el consumo crónico de cigarrillo
+
+52
+00:03:46,020 --> 00:03:49,700
+igualmente el adulto mayor no es el único eventualmente puede venir
+
+53
+00:03:49,700 --> 00:03:55,380
+también con alguna neumoconiosis, asbestosis o cualquier otra cosa de
+
+54
+00:03:55,380 --> 00:03:58,820
+base ante centros familiares con genopatías pero el fumar es el factor
+
+55
+00:03:58,820 --> 00:04:02,540
+de riesgo más importante. Segundo lugar el cuadro clínico suele ser
+
+56
+00:04:02,540 --> 00:04:06,740
+bastante inespecífico muchas veces viene con disnea con tos pero eso se
+
+57
+00:04:06,740 --> 00:04:11,860
+ve en otras patologías pulmonares también. La hemoptisis es algo que
+
+58
+00:04:11,860 --> 00:04:14,900
+me hace pensar con mayor frecuencia en un cáncer pulmonar pero se ve
+
+59
+00:04:14,900 --> 00:04:19,940
+también en tuberculosis en la bronquiectasia etcétera. Las acropaquias
+
+60
+00:04:19,940 --> 00:04:23,700
+que eso es algo que me asusta mucho de hecho si yo tengo un paciente con un
+
+61
+00:04:23,700 --> 00:04:28,020
+EPOC y que aparte de eso empieza con acropaquias hay que sospechar
+
+62
+00:04:28,020 --> 00:04:31,020
+inmediatamente que sea complicado con un cáncer y hay que pedirle como
+
+63
+00:04:31,020 --> 00:04:35,220
+mínimo una radiografía. La baja de peso también que es parte no solo del
+
+64
+00:04:35,220 --> 00:04:41,300
+cáncer sino que de otras cosas y en algunos casos más raros ya viene
+
+65
+00:04:41,300 --> 00:04:45,220
+con las adenopatías que no solamente están en el mediastino que es el lugar
+
+66
+00:04:45,220 --> 00:04:50,060
+más frecuente en que metastiza sino que se van a zonas palpables como por
+
+67
+00:04:50,060 --> 00:04:54,900
+ejemplo la zona supraclavicular o las axilas. Ahora en algunos casos en
+
+68
+00:04:54,900 --> 00:04:59,260
+particular en el cáncer de células pequeñas se complica con síndromes
+
+69
+00:04:59,260 --> 00:05:04,140
+paraneoplásicos cierto como el síndrome de secreción ectópica de
+
+70
+00:05:04,340 --> 00:05:11,300
+cth algunas hipercalcemias cierto por la secreción del pth like etcétera y el
+
+71
+00:05:11,300 --> 00:05:15,340
+síndrome de carcinoide es el otro. Y finalmente el examen pulmonar suele
+
+72
+00:05:15,340 --> 00:05:21,700
+dar bastante poca información y muchas veces es o absolutamente normal o bien
+
+73
+00:05:21,700 --> 00:05:26,420
+viene con alteraciones inespecíficas como crépito o estertores en alguna
+
+74
+00:05:26,420 --> 00:05:30,420
+zona o con sibilancias en alguna zona pero repito lo más importante es
+
+75
+00:05:30,420 --> 00:05:34,940
+el conjunto de síntomas más que los signos del examen físico en sí. El
+
+76
+00:05:34,940 --> 00:05:38,700
+estudio es el mismo de la masa pulmonar o de no pulmonar que habíamos
+
+77
+00:05:38,700 --> 00:05:43,180
+mencionado que se iniciaba con radiografía como el examen inicial
+
+78
+00:05:43,180 --> 00:05:48,220
+luego la tac y finalmente la biopsia. La radiografía acuérdense es el
+
+79
+00:05:48,220 --> 00:05:53,020
+primer examen debido a que en particular me ayuda a detectar el
+
+80
+00:05:53,020 --> 00:05:56,140
+enóstico diferencial eventualmente me puede mostrar desde un cuerpo
+
+81
+00:05:56,140 --> 00:06:00,420
+extraño hasta una neumonía cierto que que ya se maneja totalmente distinto
+
+82
+00:06:00,420 --> 00:06:04,260
+segundo lugar la tac que dijimos que era el examen más importante que había
+
+83
+00:06:04,260 --> 00:06:08,900
+que pedirlo en todo nódulo o masa pulmonar debido a que me delimita
+
+84
+00:06:08,900 --> 00:06:13,980
+localiza y me etapifica el cáncer también y finalmente la biopsia me
+
+85
+00:06:13,980 --> 00:06:17,540
+confirma el diagnóstico del cáncer y algo muy importante me da el tipo
+
+86
+00:06:17,540 --> 00:06:21,340
+histológico del cáncer recordando que los cuatro tipos más importantes
+
+87
+00:06:21,340 --> 00:06:25,980
+son el de células pequeñas el de células grandes el adeno carcinoma y
+
+88
+00:06:25,980 --> 00:06:32,720
+el de tipo escamoso o espino celular o pavimentoso también se llama me
+
+89
+00:06:32,720 --> 00:06:37,900
+ama ahora el manejo o el tratamiento del cáncer pulmonar de manera muy muy
+
+90
+00:06:37,900 --> 00:06:42,180
+general por si acaso depende del tipo histológico en el caso del
+
+91
+00:06:42,180 --> 00:06:45,020
+cáncer de células pequeñas que habitualmente al momento del
+
+92
+00:06:45,020 --> 00:06:49,260
+diagnóstico ya está con metástasis en este caso el tratamiento suele ser la
+
+93
+00:06:49,260 --> 00:06:53,340
+quimioterapia más eventualmente la inmunoterapia con algunos medicamentos
+
+94
+00:06:53,340 --> 00:06:55,940
+bastante nuevos acuérdense que sigue siendo un tipo
+
+95
+00:06:55,940 --> 00:07:00,740
+histológico de muy mal pronóstico por el general y el cáncer de pulmón es
+
+96
+00:07:00,740 --> 00:07:04,300
+uno de los cánceres más malos cierto de las causas de mortalidad por
+
+97
+00:07:04,300 --> 00:07:07,780
+cáncer más frecuentes no solamente en chile sino que en el mundo en
+
+98
+00:07:07,780 --> 00:07:10,860
+cambio en el que no son de células pequeñas
+
+99
+00:07:10,860 --> 00:07:13,940
+diga se en los adenos carcinomas en el espino celular o en el de
+
+100
+00:07:13,940 --> 00:07:17,820
+células grandes por el general se maneja con cirugía en particular en
+
+101
+00:07:18,180 --> 00:07:23,260
+los que están en los estadíos iniciales cierto que todavía no vienen
+
+102
+00:07:23,260 --> 00:07:28,020
+con metástasis más eventualmente la quimioterapia o la radioterapia y o la
+
+103
+00:07:28,020 --> 00:07:31,300
+radioterapia según el tipo más a veces inmunoterapia también pero
+
+104
+00:07:31,300 --> 00:07:35,420
+repito el de células pequeñas como suele estar con metástasis responde un
+
+105
+00:07:35,420 --> 00:07:39,260
+poquito mejor a la quimioterapia y en cambio el de no de no de no
+
+106
+00:07:39,260 --> 00:07:43,980
+células pequeñas lo más importante es la cirugía ahora en ambos casos hay
+
+107
+00:07:43,980 --> 00:07:46,660
+muchas veces en que hay que tratarlo simplemente de manera
+
+108
+00:07:46,660 --> 00:07:50,180
+paliativa justamente porque son cánceres muy muy malos que suelen
+
+109
+00:07:50,180 --> 00:07:54,540
+afectar más los adultos mayores también que suelen responder menos a las
+
+110
+00:07:54,540 --> 00:07:57,420
+terapias que se pueden dar y bueno eso es todo lo que hay que saber nos
+
+111
+00:07:57,420 --> 00:08:00,380
+vemos en el siguiente vídeo

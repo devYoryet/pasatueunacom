@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState, use } from 'react'
+import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { createClient } from '@/lib/supabase/client'
@@ -149,8 +149,8 @@ function QuestionReviewRow({ item, index }: { item: QuestionReviewItem; index: n
   )
 }
 
-export default function ResultsPage({ params }: { params: Promise<{ examId: string }> }) {
-  const resolvedParams = use(params)
+export default function ResultsPage({ params }: { params: { examId: string } }) {
+  const examId = params.examId
   const searchParams = useSearchParams()
   const attemptId = searchParams.get('attemptId')
 
@@ -174,7 +174,7 @@ export default function ResultsPage({ params }: { params: Promise<{ examId: stri
         supabase
           .from('exam_questions')
           .select('order_index, questions(*)')
-          .eq('exam_id', parseInt(resolvedParams.examId))
+          .eq('exam_id', parseInt(examId, 10))
           .order('order_index'),
       ])
 
@@ -186,7 +186,7 @@ export default function ResultsPage({ params }: { params: Promise<{ examId: stri
     }
 
     load()
-  }, [attemptId, resolvedParams.examId])
+  }, [attemptId, examId])
 
   if (loading) {
     return (
@@ -358,7 +358,7 @@ export default function ResultsPage({ params }: { params: Promise<{ examId: stri
 
         {/* ACTIONS */}
         <div className="flex flex-col sm:flex-row gap-3">
-          <Link href={`/app/exam/${resolvedParams.examId}`} className="flex-1">
+          <Link href={`/app/exam/${examId}`} className="flex-1">
             <Button variant="outline" className="w-full gap-2">
               <RotateCcw className="w-4 h-4" />
               Intentar de nuevo

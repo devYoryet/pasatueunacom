@@ -1,0 +1,543 @@
+1
+00:00:03,380 --> 00:00:09,960
+Hola, hola, ¿cómo están? Hablemos de cómo diagnosticar una diabetes, hay que saber los criterios, hay que saberlos bien y acuérdense de esto,
+
+2
+00:00:09,960 --> 00:00:17,340
+los criterios no me diferencian el tipo de diabetes, solamente me confirman que hay una diabetes mellitus y es la clínica, la severidad, los anticuerpos
+
+3
+00:00:17,340 --> 00:00:22,520
+y el resto de los antecedentes los que me orientan a si es una diabetes tipo 1 o tipo 2, etcétera.
+
+4
+00:00:22,520 --> 00:00:26,500
+Repito, esto solamente me dice si hay o no diabetes mellitus y no el tipo.
+
+5
+00:00:26,780 --> 00:00:31,380
+Ahora, los criterios que hay que saber es, número 1, que tenga dos licemias de yuno mayor o igual a
+
+6
+00:00:31,380 --> 00:00:37,100
+126 miligramos por decilitro, no es mayor o igual a 125, es 126, aprendedselo bien.
+
+7
+00:00:37,100 --> 00:00:45,500
+Número 2, el que tenga una glicemia mayor a 200 en un TTGO de 75 gramos a las dos horas, en ese caso se confirma también.
+
+8
+00:00:45,500 --> 00:00:52,260
+Y finalmente, que tenga una glicemia que da lo mismo si es de yuno o no, de hecho se describe como una glicemia aislada, cualquier glicemia
+
+9
+00:00:52,260 --> 00:01:00,140
+mayor a 200 pero que además de estar mayor a 200 tenga síntomas de diabetes, dígase, venga con mucha sed, con polidipsia,
+
+10
+00:01:00,180 --> 00:01:06,060
+que haga mucho pipí, con poliguria, que tenga mucha hambre y coma mucho, con polifagia y que aún así tenga baja de peso,
+
+11
+00:01:06,060 --> 00:01:12,900
+que es uno de los síntomas más frecuentes, o bien la visión borrosa acordándonos que la hiperglicemia eventualmente
+
+12
+00:01:12,900 --> 00:01:19,700
+altera un poco la refracción del ojo y hace que se vea borroso y lo mismo pasa también al corregir una diabetes
+
+13
+00:01:19,700 --> 00:01:24,820
+que lleva mucho tiempo, igualmente puede que tenga que cambiar los lentes a la persona diabética también.
+
+14
+00:01:24,980 --> 00:01:31,340
+Ahora, repito, si es que no tengo síntomas y tengo una glicemia de 300 por ejemplo, en ese caso lo que tengo que hacer
+
+15
+00:01:31,340 --> 00:01:38,140
+es repetirlo para ver si es que está en 300 de nuevo, pues cumplo con el primer criterio, con dos glicemias mayores y iguales a 126,
+
+16
+00:01:38,140 --> 00:01:42,860
+pero si es que tengo síntomas, ahí me basta una sola glicemia arriba de 200.
+
+17
+00:01:42,860 --> 00:01:47,780
+Ahora, ¿qué pasa cuando está con infección, cuando está con algo que lo puede descompensar,
+
+18
+00:01:47,980 --> 00:01:55,860
+ejemplo una neumonía, una piel nefrítica, una pancreatitis o cualquier cosa grave que venga con una reacción inflamatoria muy grande?
+
+19
+00:01:55,860 --> 00:02:02,740
+Pues en este caso no me sirve absolutamente ninguno de esos criterios porque algo que venga con una reacción inflamatoria muy grande
+
+20
+00:02:02,740 --> 00:02:08,860
+puede per se generar hiperglicemia porque hay gran resistencia a la insulina, eleva el cortisol, etcétera,
+
+21
+00:02:08,860 --> 00:02:15,180
+y en ese caso lo que me sirve es la hemoglobina glicosilada, si bien es un criterio que no se usa tanto en Chile,
+
+22
+00:02:15,180 --> 00:02:21,460
+si se usa en el mundo y es de elección en estos casos, en que hay un descompensante claro que puede producir hiperglicemia
+
+23
+00:02:21,460 --> 00:02:26,460
+y el corte en este caso para el diagnóstico es que sea mayor a 6,5%.
+
+24
+00:02:26,460 --> 00:02:31,700
+O sea, repito, la hemoglobina glicosilada sí me sirve para hacer el diagnóstico,
+
+25
+00:02:31,700 --> 00:02:36,060
+es un buen elemento para hacer el diagnóstico, pero generalmente se usa no como diagnóstico,
+
+26
+00:02:36,060 --> 00:02:41,020
+sino que como seguimiento, como control de la diabetes, pero sería de elección en dos situaciones,
+
+27
+00:02:41,020 --> 00:02:44,020
+número uno, cuando tengo una infección o algún otro descompensante claro,
+
+28
+00:02:44,060 --> 00:02:50,060
+y número dos, cuando yo sospecho que el paciente miente respecto a que me hace un ayuno más prolongado
+
+29
+00:02:50,060 --> 00:02:55,380
+de las 8 a 12 horas que se recomienda para poder tomar la glicemia de ayuno
+
+30
+00:02:55,380 --> 00:03:00,700
+y finalmente sale con una glicemia que está buena, pero solamente porque hizo un ayuno mucho más largo,
+
+31
+00:03:00,700 --> 00:03:06,740
+así que en ese caso la hemoglobina glicosilada dice la verdad porque ve no solamente lo que ha ocurrido en el último tiempo,
+
+32
+00:03:06,740 --> 00:03:09,780
+sino que lo que ha ocurrido en los últimos dos a tres meses.
+
+33
+00:03:10,260 --> 00:03:15,420
+Ahora, existen otros diagnósticos que se relacionan bastante con la diabetes,
+
+34
+00:03:15,420 --> 00:03:19,820
+pero que no son una diabetes propiamente tal, número uno, la resistencia a la insulina,
+
+35
+00:03:19,820 --> 00:03:25,900
+número dos, la glicemia de ayuno alterada y número tres, la intolerancia a la glucosa oral,
+
+36
+00:03:25,900 --> 00:03:31,220
+son tres diagnósticos cuyos criterios hay que saber igualmente porque hay que saber diferenciarlos de la diabetes,
+
+37
+00:03:31,820 --> 00:03:37,380
+la resistencia a la insulina se diagnostica con la prueba de HOMA, cuando es mayor a 2,6,
+
+38
+00:03:37,420 --> 00:03:42,060
+uno dice hay resistencia a la insulina y solamente para recordar la forma en que se calculaba
+
+39
+00:03:42,060 --> 00:03:46,100
+era la glicemia por la insulina dividido por 405.
+
+40
+00:03:46,100 --> 00:03:53,140
+Ahora, como multiplicar eso y dividir eso es difícil, eventualmente lo dividen por 400 nomás y ahí es más rápido.
+
+41
+00:03:53,620 --> 00:04:00,100
+Segundo lugar, la glicemia de ayuno alterada se define como glicemia de ayuno entre 100 a 125,
+
+42
+00:04:00,100 --> 00:04:06,740
+entonces fíjense, el normal es hasta 99, una vez que ya tiene 100 uno dice esto es una glicemia de ayuno alterada
+
+43
+00:04:06,780 --> 00:04:12,780
+y hasta 125, en el sentido en que desde 126 en adelante recién hablábamos de una diabetes.
+
+44
+00:04:13,140 --> 00:04:18,660
+Y finalmente la intolerancia a la glucosa oral que en este caso es cuando el T-tegioa a las dos horas
+
+45
+00:04:18,660 --> 00:04:25,900
+está menor a 200 pero desde 140 en adelante, se describe como desde 140 hasta 199,
+
+46
+00:04:25,900 --> 00:04:28,900
+en ese caso se habla de esta intolerancia a la glucosa oral.
+
+47
+00:04:29,220 --> 00:04:34,660
+Ahora, la glicemia de ayuno alterada y la intolerancia a la glucosa oral, estos últimos dos diagnósticos,
+
+48
+00:04:34,820 --> 00:04:40,100
+se los denomina como pre-diabetes en el sentido en que tienen un riesgo alto de evolucionar una diabetes.
+
+49
+00:04:40,340 --> 00:04:47,140
+Hay gente que no le gusta mucho ese concepto de pre-diabetes pero la mayoría de las guías internacionales
+
+50
+00:04:47,140 --> 00:04:48,260
+lo aceptan por su caso.
+
+51
+00:04:48,940 --> 00:04:51,380
+Ahora, ¿cómo se hace el screening de diabetes?
+
+52
+00:04:51,380 --> 00:04:55,660
+Acuérdense que se hace con glicemia de ayuno y habitualmente a todos los adultos en algún momento
+
+53
+00:04:55,660 --> 00:05:00,900
+se le hace una glicemia de ayuno, si tiene factores de riesgo cardiovascular con mayor razón todavía
+
+54
+00:05:00,940 --> 00:05:06,700
+o si es que tiene obesidad con mayor razón pero la regla general es que a todo adulto asintomático
+
+55
+00:05:06,700 --> 00:05:12,220
+y a toda persona asintomática hay que hacerle al menos una glicemia de ayuno en busca de diabetes.
+
+56
+00:05:12,500 --> 00:05:18,100
+Si es que me sale menor a 100 hasta 99,9 se dice es normal y no hay que hacer absolutamente nada más,
+
+57
+00:05:18,100 --> 00:05:19,780
+se descarta el diagnóstico de diabetes.
+
+58
+00:05:20,060 --> 00:05:25,260
+Si es que está entre 100 a 125, ahí la duda es, ¿tendrá una glicemia de ayuno alterada?
+
+59
+00:05:25,260 --> 00:05:29,260
+Porque está justamente con la glicemia de ayuno en ese rango de glicemia de ayuno alterada.
+
+60
+00:05:29,700 --> 00:05:37,260
+En la conducta es pedirle un TTGO, o sea, ir con un examen un poco más complejo que la simple glicemia de ayuno
+
+61
+00:05:37,260 --> 00:05:42,060
+y que quede bien claro, esto en la gente no embarazada, en las embarazadas lo vamos a ver después, esto cambia.
+
+62
+00:05:42,060 --> 00:05:47,060
+Y finalmente cuando me sale mayor o igual a 126, yo digo lo más probable es que tiene una diabetes,
+
+63
+00:05:47,060 --> 00:05:50,940
+así que lo que se hace es se repite y si vuelve a estar dentro de ese mismo rango,
+
+64
+00:05:50,940 --> 00:05:53,100
+pues se confirma el diagnóstico de diabetes.
+
+65
+00:05:53,100 --> 00:05:56,540
+Ahora, ¿qué pasa si al repetirlo me sale 80?
+
+66
+00:05:56,580 --> 00:06:03,820
+En ese caso se descarta la diabetes, se vuelve a lo que está más arriba ahí en que estaba menor a 100.
+
+67
+00:06:04,300 --> 00:06:11,300
+Ahora, una vez que yo pido el TTGO, que repito, el TTGO se pedía cuando la glicemia estaba entre 100 a 125,
+
+68
+00:06:11,300 --> 00:06:17,220
+en el momento en que yo lo pido, si lo miro a las dos horas y está menos de 140, pues está normal.
+
+69
+00:06:17,220 --> 00:06:22,940
+Si que está entre 140 a 199 a las dos horas, en ese caso hay una intolerancia a la glucosa oral,
+
+70
+00:06:23,060 --> 00:06:26,660
+y finalmente si está mayor o igual a 200, hago el diagnóstico de diabetes.
+
+71
+00:06:26,660 --> 00:06:32,140
+Fíjense, en este caso no requiere síntomas, el criterio con síntomas era cualquier glicemia,
+
+72
+00:06:32,140 --> 00:06:34,300
+ya sea de ayuno o no, más síntomas.
+
+73
+00:06:34,300 --> 00:06:40,020
+En cambio, el criterio del TTGO era simplemente que a las dos horas después de 75 gramos de glucosa,
+
+74
+00:06:40,020 --> 00:06:42,540
+estuviera de 200 o más.
+
+75
+00:06:42,540 --> 00:06:46,780
+Ahora, vamos con ejemplos, esta es la forma en que queda más fácil.
+
+76
+00:06:46,780 --> 00:06:52,060
+Me dicen que tiene 45 años que tiene glicemias de 130 y de 120.
+
+77
+00:06:52,060 --> 00:06:59,300
+Uno dice, ups, aquí está con una glicemia que estaba dentro del diagnóstico provisorio de diabetes,
+
+78
+00:06:59,300 --> 00:07:04,820
+estaba en 130, pero la segunda me salió en 120, así que la segunda salió menor a 126,
+
+79
+00:07:04,820 --> 00:07:09,140
+en ese caso ya no tengo una diabetes y lo que tengo que ir a hacer es ir a pedirle
+
+80
+00:07:09,140 --> 00:07:14,060
+un test de tolerancia a la glucosa oral por estar con estas glicemias entre 100 y 125.
+
+81
+00:07:14,060 --> 00:07:17,540
+Así que el diagnóstico hasta ahí es una glicemia de ayuno alterada
+
+82
+00:07:17,620 --> 00:07:22,860
+y la conducta es pídele un TTGO como para ver si es que hay una diabetes, si me da más de 200
+
+83
+00:07:22,860 --> 00:07:29,460
+o si es que hay una intolerancia a la glucosa oral o si simplemente tengo estas glicemias de ayuno alterada y nada más.
+
+84
+00:07:29,460 --> 00:07:34,820
+Si me da en este otro caso una glicemia de ayuno que está en 110, en ese caso hay que pedirle un TTGO,
+
+85
+00:07:34,820 --> 00:07:40,340
+se pide el TTGO, me sale 115 la basal que está dentro del rango de glicemia de ayuno alterada
+
+86
+00:07:40,340 --> 00:07:45,020
+y la poscarga me sale en 150, o sea entre 140 y 199,
+
+87
+00:07:45,020 --> 00:07:50,260
+lo que tiene es una glicemia de ayuno alterada por las glicemias basales entre 100 y 125
+
+88
+00:07:50,260 --> 00:07:55,500
+más una intolerancia a la glucosa oral por la glicemia poscarga entre 140 y 199.
+
+89
+00:07:55,500 --> 00:07:57,820
+Va quedando un poquito más claro.
+
+90
+00:07:57,820 --> 00:08:02,620
+El siguiente me dice obeso que tiene una glicemia de 98, o sea está normal, está menor a 100,
+
+91
+00:08:02,620 --> 00:08:05,940
+así que hasta ahí no hay diabetes ni glicemia de ayuno alterada ni nada,
+
+92
+00:08:05,940 --> 00:08:11,100
+más una insulina de 25, yo digo y ahí habrá resistencia a la insulina o no
+
+93
+00:08:11,140 --> 00:08:15,620
+y la verdad es que hay resistencia a la insulina y uno dice cómo voy a calcular el HOMA ahí
+
+94
+00:08:15,620 --> 00:08:21,620
+para que me den más de 2.6 y yo recomiendo que lo hagan de una manera sencilla, rápida.
+
+95
+00:08:21,620 --> 00:08:27,860
+Glicemia de 98 pues que sea glicemia de 100, insulina 25, dejémosla en 25 o si es que quieren
+
+96
+00:08:27,860 --> 00:08:34,140
+dejémosla en 20 y esto dividido por 400, uno dice 100 por 20 dividido por 400,
+
+97
+00:08:34,140 --> 00:08:42,620
+100 dividido por 400, un cuarto, un cuarto multiplicado por 20 da 5 y por 25 da 6, algo.
+
+98
+00:08:42,620 --> 00:08:46,060
+O sea uno dice claramente está arriba de 2.6.
+
+99
+00:08:46,060 --> 00:08:50,820
+Si no entendió esto, lo hace con la calculadora en mano y le va a quedar más claro,
+
+100
+00:08:50,820 --> 00:08:56,820
+pero acuérdense no perder mucho tiempo en hacer los cálculos en el UNACOM,
+
+101
+00:08:56,820 --> 00:09:00,060
+así que lo más fácil es hacer una matemática bien laxa,
+
+102
+00:09:00,260 --> 00:09:05,940
+100 por 25 o 100 por 20 dividido por 400 y me da claramente más de 2.6
+
+103
+00:09:05,940 --> 00:09:08,860
+sin saber el número exacto y yo digo hay resistencia a la insulina.
+
+104
+00:09:08,860 --> 00:09:10,740
+Difícil, pero sigamos.
+
+105
+00:09:10,740 --> 00:09:16,300
+Tengo un ttg o que la basal está en 90, eso está menor a 100, así que está absolutamente normal
+
+106
+00:09:16,300 --> 00:09:21,820
+y la postcarga está menor a 140, está en el límite, pero sigue estando menor a 140,
+
+107
+00:09:21,820 --> 00:09:26,940
+está también absolutamente normal, así que el diagnóstico es alguien sano al menos respecto a
+
+108
+00:09:27,020 --> 00:09:31,620
+el área de la diabetes y ese tipo de cosas porque puede que tenga otra enfermedad.
+
+109
+00:09:32,540 --> 00:09:36,620
+Tiene una licemia de ayuno de 300 y nada más, uno dice hasta ahí,
+
+110
+00:09:36,620 --> 00:09:39,420
+si tuviera síntomas en ese caso tendría diabetes,
+
+111
+00:09:39,420 --> 00:09:42,540
+pero si no tiene síntomas y me dan solamente esa información,
+
+112
+00:09:42,540 --> 00:09:48,100
+lo que tengo que hacer es justamente repetirla para ver si es que tiene diabetes o no.
+
+113
+00:09:48,100 --> 00:09:51,500
+Lo más probable es que sí tenga en el sentido en que está arriba de 126
+
+114
+00:09:51,500 --> 00:09:54,820
+y una licemia en ese rango es difícil que se vea en alguien sin diabetes,
+
+115
+00:09:54,860 --> 00:09:58,460
+pero la conducta es repítala para estar seguro si es que tiene diabetes o no.
+
+116
+00:09:58,460 --> 00:10:02,380
+Ahora, si tuviera síntomas no hay por qué repetirla, se hace el diagnóstico de inmediato.
+
+117
+00:10:02,380 --> 00:10:06,580
+Ahora, si tuviera baja de peso más los otros síntomas de una diabetes
+
+118
+00:10:06,580 --> 00:10:10,500
+y aparte de eso una licemia de 250 o una licemia de 200 o más,
+
+119
+00:10:10,500 --> 00:10:13,300
+en ese caso sí se confirma el diagnóstico de diabetes,
+
+120
+00:10:13,300 --> 00:10:16,540
+pero si me preguntan ahí diabetes tipo 1 o diabetes tipo 2,
+
+121
+00:10:16,540 --> 00:10:20,580
+pues va a depender de la edad, de la severidad, de las otras cosas,
+
+122
+00:10:20,580 --> 00:10:23,580
+si me dicen que es un niño, ninguna duda que es una diabetes tipo 1,
+
+123
+00:10:23,860 --> 00:10:27,940
+si me dicen que es un adulto no obeso y que venga con baja de peso,
+
+124
+00:10:27,940 --> 00:10:30,420
+pues hay que sospechar una diabetes lada,
+
+125
+00:10:30,420 --> 00:10:34,100
+pero si es que viene con la obesidad y ha bajado algo de peso nomás,
+
+126
+00:10:34,100 --> 00:10:36,620
+lo más probable es que sea una diabetes tipo 2.
+
+127
+00:10:36,620 --> 00:10:41,540
+Ahora, la última tiene un paciente hospitalizado por una pilonefritis aguda,
+
+128
+00:10:41,540 --> 00:10:44,420
+está descompensado y tiene una licemia de 240.
+
+129
+00:10:44,420 --> 00:10:47,660
+En este caso, acuérdense, no puedo hacer el diagnóstico de diabetes
+
+130
+00:10:47,660 --> 00:10:49,780
+porque no es un paciente que esté en reposo,
+
+131
+00:10:49,780 --> 00:10:52,100
+sino que está con un descompensante y lo que hay que hacer
+
+132
+00:10:52,100 --> 00:10:55,900
+es pedirle la hemoglobina glicosilada, la hemoglobina A1C
+
+133
+00:10:55,900 --> 00:10:58,900
+y de esa manera voy a saber finalmente si es que tiene diabetes o no.
+
+134
+00:10:58,900 --> 00:11:01,860
+Y espero que haya quedado claro porque esto se pregunta
+
+135
+00:11:01,860 --> 00:11:03,380
+y en la vida real hay que saberlo también.
+
+136
+00:11:03,380 --> 00:11:05,380
+Así que nos vemos en los siguientes videos.

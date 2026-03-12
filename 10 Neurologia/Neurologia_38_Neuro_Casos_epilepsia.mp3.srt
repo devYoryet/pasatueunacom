@@ -1,0 +1,407 @@
+1
+00:00:00,000 --> 00:00:07,230
+Y ahora vamos a ver si es que quedó claro o no lo que vimos en los videos
+
+2
+00:00:07,230 --> 00:00:10,510
+anteriores. Vamos a ver algunos casos clínicos de epilepsia. Así que empecemos
+
+3
+00:00:10,510 --> 00:00:14,750
+con el caso 1. Un adolescente de 13 años que presenta saltitos al
+
+4
+00:00:14,750 --> 00:00:18,830
+despertar, esas se llaman las mioclonías del sueño, con frecuencia
+
+5
+00:00:18,830 --> 00:00:23,150
+y hoy tuvo una convulsión tónico-clónica. Hasta ahí las mioclonías
+
+6
+00:00:23,150 --> 00:00:26,670
+del sueño son algo normal, aunque si son muy frecuentes, igualmente hay que
+
+7
+00:00:26,670 --> 00:00:30,590
+sospechar que no tenga una epilepsia mioclónica que luego se complica
+
+8
+00:00:30,590 --> 00:00:35,150
+con estas convulsiones tónico-clónicas que ya son un poco más intensas, más
+
+9
+00:00:35,150 --> 00:00:38,030
+molestas. Así que en este caso el diagnóstico más probable es una
+
+10
+00:00:38,030 --> 00:00:42,110
+epilepsia mioclónica que está dentro de las epilepsias primarias. Así que se
+
+11
+00:00:42,110 --> 00:00:46,630
+va a estudiar número 1 con el electroencefalograma, aunque sí se va a
+
+12
+00:00:46,630 --> 00:00:50,390
+pedir igualmente una neuroimagen. Y finalmente el tratamiento era con
+
+13
+00:00:50,390 --> 00:00:53,510
+ácido valproico que si se acuerda eran de los anticompulsivantes de
+
+14
+00:00:53,510 --> 00:00:57,950
+amplio espectro. El caso 2. Un hombre de 30 años con cefalea que está con
+
+15
+00:00:57,950 --> 00:01:01,470
+lenguaje incoherente y chupeteo, que eso es característico de las crisis
+
+16
+00:01:01,470 --> 00:01:06,990
+psicomotoras, cierto? Es un automatismo que es un signo de lateralización y
+
+17
+00:01:06,990 --> 00:01:10,510
+que luego fue seguido de una convulsión tónico-clónica. Hasta ahí si
+
+18
+00:01:10,510 --> 00:01:15,270
+se dan cuenta empezó como una crisis parcial pero compleja porque hubo
+
+19
+00:01:15,270 --> 00:01:19,070
+desconexión del medio y luego de esto fue secundariamente generalizada
+
+20
+00:01:19,070 --> 00:01:23,510
+con esta convulsión tónico-clónica y al haber iniciado focal
+
+21
+00:01:23,510 --> 00:01:27,230
+la conducta es pedirle una resonancia magnética nuclear, sí que
+
+22
+00:01:27,230 --> 00:01:30,310
+está además con cefalea y a esa edad hay que sospechar que tenga un
+
+23
+00:01:30,310 --> 00:01:34,990
+tumor cerebral entre las otras lesiones focales que puedan causarlo y el
+
+24
+00:01:34,990 --> 00:01:38,750
+medicamento con el que va a iniciar mientras completa el estudio, cierto?
+
+25
+00:01:38,750 --> 00:01:42,030
+Seguramente va a ser o la carbamazepina o la finitovina que son
+
+26
+00:01:42,030 --> 00:01:45,990
+los anticompulsivantes de espectro acotado. Si no me sale ninguna lesión
+
+27
+00:01:45,990 --> 00:01:50,230
+en la resonancia eventualmente sí se maneja con ácido valproico también.
+
+28
+00:01:50,230 --> 00:01:53,990
+El caso 3. Una niña de 7 años que tiene varios episodios de
+
+29
+00:01:54,150 --> 00:01:58,510
+desconexión del medio de pocos segundos y el resto está todo normal o sea lo
+
+30
+00:01:58,510 --> 00:02:02,630
+único es que se desconecta es que me hace esta famosa crisis de ausencia
+
+31
+00:02:02,630 --> 00:02:06,430
+eso se llama epilepsia de ausencia porque ha tenido al menos dos crisis
+
+32
+00:02:06,430 --> 00:02:10,350
+me dice que tiene varios episodios y el diagnóstico clínico de epilepsia
+
+33
+00:02:10,350 --> 00:02:15,110
+se puede hacer con dos crisis o más o bien con una crisis más el
+
+34
+00:02:15,110 --> 00:02:18,790
+electroencefalograma pero aún así se le pide en este caso el
+
+35
+00:02:18,790 --> 00:02:22,390
+electroencefalograma por ser de las crisis primarias o primariamente
+
+36
+00:02:22,430 --> 00:02:27,190
+generalizada y luego de eso se va a manejar con ácido valproico que era
+
+37
+00:02:27,190 --> 00:02:30,990
+el tratamiento de elección en las epilepsias primarias. El topiramato
+
+38
+00:02:30,990 --> 00:02:34,230
+igualmente servía la lamotrigina también salvo la mioclónica en que
+
+39
+00:02:34,230 --> 00:02:38,230
+estaba contraindicada. En caso 4. Un niño de 9 años que presenta dos
+
+40
+00:02:38,230 --> 00:02:43,070
+episodios de pérdida de conciencia súbita con caída y contusiones
+
+41
+00:02:43,070 --> 00:02:48,070
+múltiples más relajación de fínteles. Hasta ese punto la pérdida de
+
+42
+00:02:48,070 --> 00:02:51,950
+conciencia súbita es algo que orienta mucho más un síncope pero la
+
+43
+00:02:51,950 --> 00:02:55,390
+pérdida de control de fínteles es algo que me orienta mucho a un síncope de
+
+44
+00:02:55,390 --> 00:02:59,670
+tipo neurogénico. Cuando son presenciadas por los demás se puede
+
+45
+00:02:59,670 --> 00:03:03,190
+saber inmediatamente si es que fue de tipo tónico clónico o no por ejemplo
+
+46
+00:03:03,190 --> 00:03:07,110
+pero si lo único que tuvo y alguien lo vio fue que se desploma y se golpea
+
+47
+00:03:07,110 --> 00:03:11,030
+lo más probable es que venga con estas crisis atónicas, la
+
+48
+00:03:11,030 --> 00:03:15,310
+famosa epilepsia atónica que era dentro de las primariamente
+
+49
+00:03:15,310 --> 00:03:18,710
+generalizadas y en este caso se va a estudiar con el electroencefalograma
+
+50
+00:03:18,710 --> 00:03:22,750
+por ser generalizada cierto y va a manejarse con ácido valporoico también
+
+51
+00:03:22,750 --> 00:03:28,030
+por ser primaria. En el caso 5 hombre de 29 años que tiene desviación de la
+
+52
+00:03:28,030 --> 00:03:32,790
+mirada y de la cabeza hacia derechas seguido de inconsciencia hipertonía
+
+53
+00:03:32,790 --> 00:03:36,790
+y luego una convulsión si se fijan al terminar fue como una crisis
+
+54
+00:03:36,790 --> 00:03:40,670
+tónico clónica pero empezó con estos signos de lateralidad o
+
+55
+00:03:40,670 --> 00:03:44,550
+lateralización que me oriento a una crisis focal así que lo que tuvo lo
+
+56
+00:03:44,550 --> 00:03:48,390
+más probable fue una crisis parcial compleja secundariamente generalizada
+
+57
+00:03:48,510 --> 00:03:52,230
+y lo que tiene es una crisis tónico clónica pero secundaria cierto que
+
+58
+00:03:52,230 --> 00:03:55,510
+inició como una lesión focal así que el examen es la resonancia magnética
+
+59
+00:03:55,510 --> 00:03:59,350
+nuclear y si se va a manejar con algún fármaco va a ser seguramente con la
+
+60
+00:03:59,350 --> 00:04:02,910
+carba masepina aunque acá no me queda del todo claro porque la
+
+61
+00:04:02,910 --> 00:04:06,990
+desviación de la mirada y de la cabeza son signos lateralizadores pero
+
+62
+00:04:06,990 --> 00:04:11,750
+de poca fuerza eventualmente sí puede ser una una epilepsia primariamente
+
+63
+00:04:11,750 --> 00:04:16,470
+generalizada y a lo mejor valga la pena manejarlo con ácido valporoico
+
+64
+00:04:16,510 --> 00:04:20,150
+aunque por la edad a los 29 años es muy raro que esté partiendo con una
+
+65
+00:04:20,150 --> 00:04:23,950
+epilepsia primaria que suelen iniciar en la infancia debido a que justamente
+
+66
+00:04:23,950 --> 00:04:28,070
+son enfermedades genéticas cierto y que están presentes desde bastante
+
+67
+00:04:28,070 --> 00:04:32,110
+temprano así que la carba masepina es una respuesta del todo aceptable si
+
+68
+00:04:32,110 --> 00:04:36,150
+es que hubiese tenido en cambio seis años en ese caso el ácido valporoico
+
+69
+00:04:36,150 --> 00:04:40,150
+seguramente habría sido el fármaco de elección porque es de amplio
+
+70
+00:04:40,150 --> 00:04:44,390
+espectro y también me sirve para las crisis focales en casos seis una
+
+71
+00:04:44,470 --> 00:04:47,630
+mujer de 70 años que presenta episodios de movimientos de la mano
+
+72
+00:04:47,630 --> 00:04:50,790
+izquierda que se extiende luego a la pierna izquierda y es seguido de
+
+73
+00:04:50,790 --> 00:04:54,510
+vómitos si se fija en este caso nunca pierde la conciencia así que el
+
+74
+00:04:54,510 --> 00:04:58,350
+diagnóstico es una crisis parcial simple y nada más como es focal se va
+
+75
+00:04:58,350 --> 00:05:02,110
+a estudiar con una neuroimagen con una resonancia y finalmente la
+
+76
+00:05:02,110 --> 00:05:05,750
+carba masepina o la fenitoína va a ser el tratamiento de elección si
+
+77
+00:05:05,750 --> 00:05:10,390
+es que lo tuvieron todo bueno hasta ahí es que entendieron bien el tema
+
+78
+00:05:10,830 --> 00:05:14,350
+y vamos a ver un último caso de algo que no habíamos visto un lactante
+
+79
+00:05:14,350 --> 00:05:18,150
+muy pequeño seis meses que tiene crisis de hiper extensión del cuello
+
+80
+00:05:18,150 --> 00:05:22,790
+y espalda más espasmos severos cierto y que está con su desarrollo
+
+81
+00:05:22,790 --> 00:05:26,990
+psicomotor con retraso en este caso es lo característico del síndrome
+
+82
+00:05:26,990 --> 00:05:31,750
+de west que el otro nombre es el síndrome de espasmos epilépticos
+
+83
+00:05:31,750 --> 00:05:36,150
+que es clásico de la infancia bastante temprana es en los lactantes
+
+84
+00:05:36,470 --> 00:05:40,910
+incluso puede empezar en el periodo de recién nacido y se caracteriza
+
+85
+00:05:40,910 --> 00:05:45,550
+justamente por espasmos muy intensos con opistótonos a veces en que se
+
+86
+00:05:45,550 --> 00:05:51,670
+se le va el cuello hacia atrás cierto más esta afectación del desarrollo
+
+87
+00:05:51,670 --> 00:05:55,150
+neurológico por la general se estudia con un electroencefalograma
+
+88
+00:05:55,150 --> 00:05:59,910
+porque es una epilepsia igualmente genética y que se ve en el
+
+89
+00:05:59,910 --> 00:06:04,030
+electroencefalograma pero suele ser de un pronóstico bastante malo y
+
+90
+00:06:04,030 --> 00:06:08,790
+que se maneja además de una manera totalmente distinto con análogos
+
+91
+00:06:08,790 --> 00:06:13,550
+de la cth o con corticoides o sea el síndrome de west el tratamiento
+
+92
+00:06:13,550 --> 00:06:18,150
+no es con anticomulsivante es con hormonas en específico con la adeno
+
+93
+00:06:18,150 --> 00:06:23,470
+corticotropina o los corticoides que justamente ayudan a regular
+
+94
+00:06:23,470 --> 00:06:26,830
+un poco esto y de segunda línea se puede dejar algún otro fármaco
+
+95
+00:06:26,830 --> 00:06:30,350
+que hay que saber que existe que es la biga batrina pero lo más
+
+96
+00:06:30,350 --> 00:06:33,950
+importante es saber que el síndrome de west viene con esa clínica un
+
+97
+00:06:33,950 --> 00:06:38,510
+lactante con crisis con espasmos muy muy intenso y que el pronóstico es
+
+98
+00:06:38,510 --> 00:06:42,830
+bastante malo en el sentido en que suele evolucionar o con la muerte o
+
+99
+00:06:42,830 --> 00:06:46,510
+con el retraso en el desarrollo psicomotor que puede ser bastante
+
+100
+00:06:46,510 --> 00:06:50,750
+severo ya y lo último se maneja no con anticomulsivante sino que con
+
+101
+00:06:50,750 --> 00:06:54,430
+hormonoterapia y bueno todo lo que hay que saber nos vemos en otros
+
+102
+00:06:54,430 --> 00:06:57,230
+temas que estén bien

@@ -1,10 +1,10 @@
 # EunacomGo — Current State
 
-_Last updated: 2026-03-12 | Branch: claude/integrate-gsm-seo-4SBD5_
+_Last updated: 2026-03-12 | Branch: claude/fix-gitignore-MlQtm_
 
 ## Active Branch
 
-`claude/integrate-gsm-seo-4SBD5` — SEO + GSD integration sprint
+`claude/fix-gitignore-MlQtm` — Diabetes content capsules sprint
 
 ## What's Working
 
@@ -19,15 +19,18 @@ _Last updated: 2026-03-12 | Branch: claude/integrate-gsm-seo-4SBD5_
 
 ## In Progress (This Sprint)
 
-- 🔄 SEO overhaul:
-  - layout.tsx — canonical, Twitter Cards, richer JSON-LD
-  - robots.ts — block private routes
-  - sitemap.ts — expanded with new pages
-  - Per-page structured data (FAQ, HowTo, Article, Breadcrumb schemas)
-- 🔄 New SEO pages:
-  - /eunacom/especialidades
-  - /eunacom/preguntas-frecuentes
-- 🔄 GSD context engineering files (this file + PROJECT.md, REQUIREMENTS.md, ROADMAP.md)
+- ✅ GSD context engineering files (PROJECT.md, REQUIREMENTS.md, ROADMAP.md, STATE.md)
+- ✅ SEO overhaul (previous sprint — merged)
+- 🔄 **Capítulo 1 Diabetes — Cápsulas de Audio:**
+  - 24 SRTs del Dr. Guevara procesados como cápsulas profesionales
+  - Guion reescrito + resumen + nemotecnia + pregunta EUNACOM por cápsula
+  - `content/transcripts/01-diabetes/` — 24 TXTs listos para `process-audio.ts`
+  - `content/diabetes/` — **24/24 cápsulas .md completas** ✅
+  - `supabase/migrations/002_seed_lessons_diabetes.sql` — seed listo para ejecutar
+  - `scripts/seed-lessons-from-capsules.ts` — script para regenerar SQL desde MDs
+  - ⏳ Pendiente: ejecutar seed SQL en Supabase SQL editor
+  - ⏳ Pendiente: subir MP3s a Vimeo/R2 y actualizar `video_url`
+  - ⏳ Siguiente: repetir ciclo para Cap. 2 Endocrinología
 
 ## Known Issues / Tech Debt
 

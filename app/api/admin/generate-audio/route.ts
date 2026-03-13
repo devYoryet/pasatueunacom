@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createClient } from '@/lib/supabase/server'
+import fs from 'fs'
+import path from 'path'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 120 // 2 min para audio largo
@@ -9,11 +11,35 @@ export const maxDuration = 120 // 2 min para audio largo
  * Body: { lesson_id: number }
  *
  * Flujo:
- * 1. Obtiene el txt_content de la lección desde Supabase
- * 2. Llama a OpenAI TTS (tts-1-hd, voice: nova) — servidor Vercel no tiene proxy
- * 3. Sube el MP3 a Supabase Storage bucket "audio"
- * 4. Actualiza lessons.video_url con la URL pública
+ * 1. Busca el guion profesional en content/{specialty_code}/capsula_NN_*.md
+ * 2. Extrae la sección "## Guion para Audio" del .md
+ * 3. Llama a OpenAI TTS (tts-1-hd, voice: nova) — servidor Vercel no tiene proxy
+ * 4. Sube el MP3 a Supabase Storage bucket "audio"
+ * 5. Actualiza lessons.video_url con la URL pública
  */
+
+/** Lee el guion profesional desde el archivo .md de la cápsula */
+function readGuionFromMd(specialtyCode: string, orderIndex: number): string | null {
+  try {
+    const contentDir = path.join(process.cwd(), 'content', specialtyCode)
+    if (!fs.existsSync(contentDir)) return null
+
+    const padded = String(orderIndex).padStart(2, '0')
+    const files = fs.readdirSync(contentDir).filter(f => f.startsWith(`capsula_${padded}_`) && f.endsWith('.md'))
+    if (!files.length) return null
+
+    const raw = fs.readFileSync(path.join(contentDir, files[0]), 'utf-8')
+
+    // Extraer la sección entre "## Guion para Audio" y el siguiente "##"
+    const match = raw.match(/##\s+Guion para Audio\s*\n([\s\S]*?)(?=\n##\s|\n---\s*\n##\s|$)/)
+    if (!match) return null
+
+    return match[1].trim()
+  } catch {
+    return null
+  }
+}
+
 export async function POST(req: NextRequest) {
   // Auth: solo admin
   const supabase = await createClient()
@@ -35,10 +61,10 @@ export async function POST(req: NextRequest) {
   const { lesson_id, voice = 'nova', speed = 0.95 } = await req.json()
   if (!lesson_id) return NextResponse.json({ error: 'lesson_id requerido' }, { status: 400 })
 
-  // Obtener la lección
+  // Obtener la lección con código de especialidad
   const { data: lesson, error: lessonErr } = await supabase
     .from('lessons')
-    .select('id, title, order_index, txt_content, specialty_id')
+    .select('id, title, order_index, txt_content, specialty_id, specialties(code)')
     .eq('id', lesson_id)
     .single()
 
@@ -46,9 +72,15 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Lección no encontrada' }, { status: 404 })
   }
 
-  const script = lesson.txt_content?.trim()
+  const specialtyCode = (lesson as any).specialties?.code ?? 'diabetes'
+
+  // Intentar leer guion profesional del .md; si no existe, usar txt_content
+  const guionFromMd = readGuionFromMd(specialtyCode, lesson.order_index)
+  const script = (guionFromMd || lesson.txt_content)?.trim()
+  const scriptSource = guionFromMd ? 'md_guion' : 'txt_content'
+
   if (!script) {
-    return NextResponse.json({ error: 'La lección no tiene txt_content (guion de audio)' }, { status: 400 })
+    return NextResponse.json({ error: 'La lección no tiene guion (ni .md ni txt_content)' }, { status: 400 })
   }
 
   // Llamar a OpenAI TTS
@@ -81,7 +113,7 @@ export async function POST(req: NextRequest) {
 
   // Subir a Supabase Storage
   const filename = `capsula_${String(lesson.order_index).padStart(2, '0')}_${lesson_id}.mp3`
-  const storagePath = `diabetes/${filename}`
+  const storagePath = `${specialtyCode}/${filename}`
 
   // Usar service role key para bypass RLS en storage
   const { createClient: createAdmin } = await import('@supabase/supabase-js')
@@ -120,5 +152,6 @@ export async function POST(req: NextRequest) {
     title: lesson.title,
     publicUrl,
     size_kb: Math.round(audioBuffer.byteLength / 1024),
+    script_source: scriptSource,
   })
 }

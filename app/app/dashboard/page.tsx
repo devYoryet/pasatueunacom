@@ -228,24 +228,32 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
       {/* ── Expanded quiz panel ─────────────────────────── */}
       {expanded && hasContent && (
         <tr>
-          <td colSpan={6} className="px-4 pb-4 pt-1 bg-slate-50/40">
+          <td colSpan={6} className="px-4 pb-3 pt-1 bg-white">
             <div className="space-y-2">
               {row.specs.map((spec) => (
-                <div key={spec.id} className="bg-white rounded-lg border border-slate-200 overflow-hidden">
+                <div key={spec.id} className="bg-white rounded border border-slate-200 overflow-hidden">
 
                   {/* Spec header */}
-                  <div className="flex items-center gap-2 px-4 py-2 border-b border-slate-100">
+                  <div className="flex items-center gap-2 px-4 py-2.5 border-b border-slate-100 bg-slate-50/60">
                     {spec.icon && <span className="text-sm leading-none">{spec.icon}</span>}
-                    <span className="text-xs font-medium text-slate-600">{spec.name}</span>
+                    <span className="text-xs font-semibold text-slate-700">{spec.name}</span>
                     <span className="text-xs text-slate-400 ml-0.5">
-                      {spec.exams.filter(e => e.completed).length}/{spec.exams.length}
+                      {spec.exams.filter(e => e.completed).length}/{spec.exams.length} cuestionarios
                     </span>
-                    <button
-                      className="ml-auto text-xs text-slate-400 hover:text-slate-700 transition-colors"
-                      onClick={(e) => { e.stopPropagation(); router.push(`/app/specialties/${spec.code}`) }}
-                    >
-                      Ver todo →
-                    </button>
+                    <div className="ml-auto flex items-center gap-3">
+                      <button
+                        className="text-xs text-blue-600 hover:text-blue-800 hover:underline transition-colors"
+                        onClick={(e) => { e.stopPropagation(); router.push(`/app/specialties/${spec.code}?tab=lessons`) }}
+                      >
+                        Clases →
+                      </button>
+                      <button
+                        className="text-xs text-slate-400 hover:text-slate-700 transition-colors"
+                        onClick={(e) => { e.stopPropagation(); router.push(`/app/specialties/${spec.code}`) }}
+                      >
+                        Ver todo →
+                      </button>
+                    </div>
                   </div>
 
                   {/* Quiz rows */}
@@ -300,22 +308,22 @@ function ChapterCard({ chapter, defaultOpen }: { chapter: ChapterProgress; defau
   const incompletos = chapter.weeks.filter((w) => w.status === 'incompleto').length
 
   return (
-    <div className={`rounded-2xl border-2 overflow-hidden ${isCurrent ? color.border : 'border-slate-200'}`}>
+    <div className="rounded-lg border border-slate-200 overflow-hidden shadow-sm">
       {/* Chapter header */}
       <button
         onClick={() => setOpen(!open)}
-        className={`w-full flex items-center gap-4 p-5 text-left transition-all ${isCurrent ? color.bg : 'bg-white'} hover:brightness-[0.97]`}
+        className="w-full flex items-center gap-4 px-5 py-4 text-left bg-slate-50 hover:bg-slate-100 transition-colors border-b border-slate-200"
       >
-        <div className={`w-10 h-10 rounded-xl ${color.badge} flex items-center justify-center font-bold text-sm flex-shrink-0`}>
+        <div className={`w-8 h-8 rounded ${color.badge} flex items-center justify-center font-bold text-sm flex-shrink-0`}>
           {chapter.number}
         </div>
 
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="font-heading font-semibold text-slate-900 text-sm">Capítulo {chapter.number}</span>
-            {isCurrent && <span className={`text-xs px-2 py-0.5 rounded-full font-semibold ${color.badge}`}>En curso</span>}
+            <span className="font-semibold text-slate-800 text-sm">Capítulo {chapter.number}</span>
+            {isCurrent && <span className="text-xs px-2 py-0.5 rounded font-medium bg-blue-100 text-blue-700 border border-blue-200">En curso</span>}
             {atrasados > 0 && (
-              <span className="text-xs px-2 py-0.5 rounded-full font-semibold bg-red-100 text-red-700">
+              <span className="text-xs px-2 py-0.5 rounded font-medium bg-red-50 text-red-600 border border-red-200">
                 {atrasados} atrasado{atrasados > 1 ? 's' : ''}
               </span>
             )}
@@ -327,23 +335,23 @@ function ChapterCard({ chapter, defaultOpen }: { chapter: ChapterProgress; defau
           {chapter.totalExams > 0 && (
             <div className="hidden sm:flex items-center gap-2">
               <div className="text-right">
-                <div className={`text-base font-bold ${chapter.pct === 100 ? 'text-green-600' : color.text}`}>{chapter.pct}%</div>
+                <div className={`text-sm font-bold tabular-nums ${chapter.pct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapter.pct}%</div>
                 <div className="text-xs text-slate-400 tabular-nums">{chapter.completedExams}/{chapter.totalExams}</div>
               </div>
               <div className="w-14">
-                <Progress value={chapter.pct} className={`h-2 ${chapter.pct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
+                <Progress value={chapter.pct} className={`h-1.5 ${chapter.pct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
               </div>
             </div>
           )}
-          {open ? <ChevronUp className="w-5 h-5 text-slate-400" /> : <ChevronDown className="w-5 h-5 text-slate-400" />}
+          {open ? <ChevronUp className="w-4 h-4 text-slate-400" /> : <ChevronDown className="w-4 h-4 text-slate-400" />}
         </div>
       </button>
 
       {/* Mobile progress */}
       {chapter.totalExams > 0 && (
-        <div className={`flex items-center gap-2 px-5 pb-3 ${isCurrent ? color.bg : 'bg-white'} sm:hidden`}>
-          <Progress value={chapter.pct} className={`flex-1 h-2 ${chapter.pct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
-          <span className={`text-sm font-bold ${chapter.pct === 100 ? 'text-green-600' : color.text}`}>{chapter.pct}%</span>
+        <div className="flex items-center gap-2 px-5 pb-3 bg-slate-50 sm:hidden">
+          <Progress value={chapter.pct} className={`flex-1 h-1.5 ${chapter.pct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
+          <span className={`text-sm font-bold ${chapter.pct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapter.pct}%</span>
         </div>
       )}
 
@@ -371,20 +379,16 @@ function ChapterCard({ chapter, defaultOpen }: { chapter: ChapterProgress; defau
           </div>
 
           {/* Footer */}
-          <div className="px-4 py-3 border-t border-slate-100 bg-slate-50/50 flex items-center justify-between gap-4">
+          <div className="px-4 py-2.5 border-t border-slate-100 bg-slate-50 flex items-center justify-between gap-4">
             <div className="flex items-center gap-3 text-xs text-slate-500 flex-wrap">
-              <span className="font-medium">{chapter.completedExams}/{chapter.totalExams} cuestionarios</span>
-              {atrasados > 0 && (
-                <span className="text-red-500">· {atrasados} semana{atrasados > 1 ? 's' : ''} atrasada{atrasados > 1 ? 's' : ''}</span>
-              )}
-              {incompletos > 0 && (
-                <span className="text-amber-500">· {incompletos} incompleta{incompletos > 1 ? 's' : ''}</span>
-              )}
+              <span>{chapter.completedExams}/{chapter.totalExams} cuestionarios</span>
+              {atrasados > 0 && <span className="text-red-500">· {atrasados} atrasada{atrasados > 1 ? 's' : ''}</span>}
+              {incompletos > 0 && <span className="text-amber-500">· {incompletos} incompleta{incompletos > 1 ? 's' : ''}</span>}
             </div>
             <Link href="/app/specialties">
-              <Button size="sm" variant="outline" className="text-xs h-7 gap-1.5 flex-shrink-0">
+              <Button size="sm" variant="ghost" className="text-xs h-7 gap-1.5 flex-shrink-0 text-slate-500 hover:text-slate-700">
                 <BookOpen className="w-3 h-3" />
-                Ver todas las especialidades
+                Ver especialidades
               </Button>
             </Link>
           </div>
@@ -560,12 +564,12 @@ export default function DashboardPage() {
 
         {/* Greeting + overall progress */}
         <div>
-          <h1 className="text-2xl font-heading font-bold text-slate-900">
-            {getGreeting()}{firstName ? `, ${firstName}` : ''} 👋
+          <h1 className="text-xl font-bold text-slate-900">
+            {getGreeting()}{firstName ? `, ${firstName}` : ''}
           </h1>
-          <p className="text-slate-500 text-sm mt-1">
+          <p className="text-slate-500 text-sm mt-0.5">
             EUNACOM Julio 2026
-            {daysLeft !== null && daysLeft > 0 && <span className="ml-1 text-blue-600 font-medium">· {daysLeft} días restantes</span>}
+            {daysLeft !== null && daysLeft > 0 && <span className="ml-1 text-slate-700 font-medium">· {daysLeft} días restantes</span>}
             {currentWeek && <span className="ml-1 text-slate-400">· Semana {currentWeek.week}: {currentWeek.topic}</span>}
           </p>
         </div>
@@ -581,7 +585,7 @@ export default function DashboardPage() {
 
         {/* Continue banner (if there's an incomplete exam) */}
         {lastIncomplete && (
-          <div className="flex items-center gap-4 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3">
+          <div className="flex items-center gap-4 bg-amber-50 border border-amber-200 rounded-lg px-4 py-3">
             <Clock className="w-4 h-4 text-amber-500 flex-shrink-0" />
             <div className="flex-1 min-w-0">
               <span className="text-sm font-medium text-slate-800 truncate">{lastIncomplete.title}</span>
@@ -610,16 +614,14 @@ export default function DashboardPage() {
         {/* ── Quick stat strip ─────────────────────────── */}
         <div className="grid grid-cols-4 gap-3">
           {[
-            { v: stats.todayCount,    l: 'Hoy',       icon: CheckCircle, c: 'text-green-600',  bg: 'bg-green-50' },
-            { v: `${stats.avgScore}%`,l: 'Promedio',  icon: TrendingUp,  c: 'text-blue-600',   bg: 'bg-blue-50' },
-            { v: stats.streak,        l: 'Racha',     icon: Flame,       c: 'text-orange-500', bg: 'bg-orange-50' },
-            { v: stats.totalAttempts, l: 'Total',     icon: BookOpen,    c: 'text-purple-600', bg: 'bg-purple-50' },
-          ].map(({ v, l, icon: Icon, c, bg }) => (
-            <div key={l} className="bg-white rounded-xl border border-slate-200 p-3 text-center">
-              <div className={`w-7 h-7 rounded-lg ${bg} flex items-center justify-center mx-auto mb-2`}>
-                <Icon className={`w-3.5 h-3.5 ${c}`} size={14} />
-              </div>
-              <div className="text-base font-heading font-bold text-slate-900">{v}</div>
+            { v: stats.todayCount,    l: 'Hoy',      icon: CheckCircle },
+            { v: `${stats.avgScore}%`,l: 'Promedio', icon: TrendingUp },
+            { v: stats.streak,        l: 'Racha',    icon: Flame },
+            { v: stats.totalAttempts, l: 'Total',    icon: BookOpen },
+          ].map(({ v, l, icon: Icon }) => (
+            <div key={l} className="bg-white rounded-lg border border-slate-200 p-3 text-center">
+              <Icon className="w-3.5 h-3.5 text-slate-400 mx-auto mb-1.5" size={14} />
+              <div className="text-base font-bold text-slate-800 tabular-nums">{v}</div>
               <div className="text-[11px] text-slate-400">{l}</div>
             </div>
           ))}
@@ -630,7 +632,7 @@ export default function DashboardPage() {
       <div className="space-y-4">
 
         {/* Mini calendar */}
-        <div className="bg-white rounded-2xl border border-slate-200 p-5">
+        <div className="bg-white rounded-lg border border-slate-200 p-4">
           <MiniCalendar testDates={COURSE_CALENDAR.testDates} />
           <Link href="/app/calendar" className="block mt-4">
             <Button variant="outline" size="sm" className="w-full text-xs gap-1.5">
@@ -642,15 +644,12 @@ export default function DashboardPage() {
 
         {/* Next exam countdown */}
         {nextTest && (
-          <div className={`rounded-2xl border-2 p-4 ${
-            nextTest.days <= 7 ? 'border-red-200 bg-red-50' :
-            nextTest.days <= 14 ? 'border-amber-200 bg-amber-50' : 'border-slate-200 bg-white'
-          }`}>
+          <div className="rounded-lg border border-slate-200 bg-white p-4">
             <div className="flex items-center gap-2 mb-2">
               <Target className="w-3.5 h-3.5 text-slate-400" />
               <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-wide">Próxima prueba</span>
             </div>
-            <div className={`text-3xl font-heading font-bold ${nextTest.days <= 7 ? 'text-red-600' : nextTest.days <= 14 ? 'text-amber-600' : 'text-slate-800'}`}>
+            <div className={`text-3xl font-bold tabular-nums ${nextTest.days <= 7 ? 'text-red-600' : nextTest.days <= 14 ? 'text-amber-600' : 'text-slate-800'}`}>
               {nextTest.days === 0 ? '¡Hoy!' : `${nextTest.days}d`}
             </div>
             <div className="text-sm font-medium text-slate-700 mt-1">{nextTest.test.title}</div>
@@ -659,22 +658,22 @@ export default function DashboardPage() {
         )}
 
         {/* Clinical tip */}
-        <div className="bg-gradient-to-br from-indigo-50 to-blue-50 rounded-2xl border border-blue-100 p-4">
+        <div className="bg-white rounded-lg border border-slate-200 p-4">
           <div className="flex items-center gap-1.5 mb-3">
-            <Lightbulb className="w-3.5 h-3.5 text-blue-500" />
-            <span className="text-[11px] font-semibold text-blue-700 uppercase tracking-wide">Perla del día</span>
+            <Lightbulb className="w-3.5 h-3.5 text-slate-400" />
+            <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-wide">Perla del día</span>
           </div>
           <div className="flex items-start gap-2.5">
-            <span className="text-xl flex-shrink-0">{tip.icon}</span>
+            <span className="text-lg flex-shrink-0">{tip.icon}</span>
             <div>
-              <div className="text-xs font-semibold text-blue-800 mb-1">{tip.area}</div>
-              <p className="text-xs text-slate-700 leading-relaxed">{tip.tip}</p>
+              <div className="text-xs font-semibold text-slate-700 mb-1">{tip.area}</div>
+              <p className="text-xs text-slate-600 leading-relaxed">{tip.tip}</p>
             </div>
           </div>
         </div>
 
         {/* Quick links */}
-        <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
+        <div className="bg-white rounded-lg border border-slate-200 overflow-hidden">
           {[
             { href: '/app/specialties', icon: BookOpen,   label: 'Contenido', sub: 'Videos y cuestionarios' },
             { href: '/app/stats',       icon: TrendingUp, label: 'Estadísticas', sub: 'Análisis de rendimiento' },
@@ -693,12 +692,12 @@ export default function DashboardPage() {
           ))}
         </div>
 
-        {/* EUNACOM countdown bubble */}
+        {/* EUNACOM countdown */}
         {daysLeft !== null && daysLeft > 0 && (
-          <div className="rounded-2xl bg-gradient-to-br from-blue-600 to-blue-800 p-4 text-white text-center">
-            <Trophy className="w-5 h-5 mx-auto mb-2 text-amber-300" />
-            <div className="text-3xl font-heading font-bold">{daysLeft}</div>
-            <div className="text-blue-200 text-xs mt-1">días para el EUNACOM</div>
+          <div className="rounded-lg border border-slate-200 bg-white p-4 text-center">
+            <Trophy className="w-4 h-4 mx-auto mb-2 text-amber-500" />
+            <div className="text-3xl font-bold text-slate-800 tabular-nums">{daysLeft}</div>
+            <div className="text-slate-500 text-xs mt-1">días para el EUNACOM</div>
           </div>
         )}
       </div>

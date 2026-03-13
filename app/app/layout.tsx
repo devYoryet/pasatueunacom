@@ -49,7 +49,7 @@ export default function StudentLayout({
   if (loading) {
     return (
       <div className="min-h-screen bg-eunacom-bg flex">
-        <div className="hidden lg:block w-60 bg-white border-r border-slate-200" />
+        <div className="hidden lg:block w-60 bg-[#1c2c3e]" />
         <div className="flex-1 lg:ml-60">
           <div className="h-16 bg-white border-b border-slate-200" />
           <div className="p-6 space-y-6">

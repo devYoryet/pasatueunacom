@@ -3,6 +3,8 @@
 import { useEffect, useState, useMemo } from 'react'
 import Link from 'next/link'
 import { useRouter, useParams, useSearchParams } from 'next/navigation'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import { createClient } from '@/lib/supabase/client'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
@@ -10,12 +12,13 @@ import { Progress } from '@/components/ui/progress'
 import { Skeleton } from '@/components/ui/skeleton'
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs'
 import ConfigModal from '@/components/quiz/ConfigModal'
+import LessonSlidesModal from '@/components/lesson/LessonSlidesModal'
 import type { Specialty, Exam, Lesson } from '@/lib/supabase/types'
 import {
   CheckCircle2, Circle, ChevronDown, ChevronUp,
   ArrowLeft, BookOpen, FileText, Lightbulb, Target, Cpu, MessageSquare,
   Clock, Play, Video, Brain, TrendingUp, TrendingDown, Minus,
-  AlertTriangle, BarChart2, Zap, Award,
+  AlertTriangle, BarChart2, Zap, Award, Layers,
 } from 'lucide-react'
 import { COURSE_CALENDAR, CHAPTER_COLORS } from '@/lib/course-calendar'
 
@@ -51,6 +54,102 @@ function scoreCx(score: number | null, variant: 'text' | 'badge' = 'text') {
   return variant === 'badge' ? 'bg-red-100 text-red-600 border border-red-200' : 'text-red-500'
 }
 
+// ─── Markdown prose helper ────────────────────────────────────────────────────
+
+function Prose({ children, className = '' }: { children: string; className?: string }) {
+  return (
+    <div className={`prose prose-sm max-w-none text-justify leading-relaxed
+      [&_strong]:font-semibold [&_strong]:text-slate-900
+      [&_p]:mb-3 [&_p:last-child]:mb-0
+      [&_ul]:mt-2 [&_ul]:space-y-1 [&_li]:leading-relaxed
+      ${className}`}>
+      <ReactMarkdown remarkPlugins={[remarkGfm]}>{children}</ReactMarkdown>
+    </div>
+  )
+}
+
+// ─── Section Header ───────────────────────────────────────────────────────────
+
+function SectionHeader({ icon: Icon, label, color }: { icon: any; label: string; color: string }) {
+  return (
+    <div className={`flex items-center gap-2 px-3 py-2 rounded-lg mb-3 ${color}`}>
+      <Icon className="w-3.5 h-3.5 flex-shrink-0" />
+      <span className="text-xs font-bold uppercase tracking-wider">{label}</span>
+    </div>
+  )
+}
+
+// ─── Review Question ──────────────────────────────────────────────────────────
+
+function ReviewQuestion({ question, index }: { question: { pregunta: string; respuesta: string }; index: number }) {
+  const [show, setShow] = useState(false)
+
+  // Parse embedded options (A) B) C) D) format)
+  const lines = question.pregunta.split('\n')
+  const questionLines: string[] = []
+  const optionLines: string[] = []
+  lines.forEach((line) => {
+    if (/^[A-Da-d][).]\s/.test(line.trim())) optionLines.push(line.trim())
+    else questionLines.push(line)
+  })
+  const questionText = questionLines.join('\n').trim()
+  const hasOptions = optionLines.length >= 2
+
+  return (
+    <div className="border border-slate-200 rounded-xl overflow-hidden bg-white">
+      <div className="px-4 py-3 bg-slate-50 border-b border-slate-200">
+        <div className="flex items-start gap-3">
+          <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs font-bold flex items-center justify-center flex-shrink-0 mt-0.5">
+            {index}
+          </span>
+          <div className="flex-1 text-sm text-slate-800 text-justify leading-relaxed">
+            <Prose>{questionText}</Prose>
+          </div>
+        </div>
+      </div>
+
+      {hasOptions && (
+        <div className="px-4 py-2 grid gap-1.5">
+          {optionLines.map((opt, i) => (
+            <div key={i} className="text-sm text-slate-700 px-3 py-2 rounded-lg border border-slate-100 bg-slate-50/60">
+              {opt}
+            </div>
+          ))}
+        </div>
+      )}
+
+      <div className="px-4 py-2.5 flex items-center gap-3">
+        <button
+          onClick={() => setShow(!show)}
+          className={`text-xs font-semibold px-3 py-1.5 rounded-lg border transition-colors ${
+            show
+              ? 'border-green-300 bg-green-50 text-green-700'
+              : 'border-blue-200 bg-blue-50 text-blue-700 hover:bg-blue-100'
+          }`}
+        >
+          {show ? '▲ Ocultar respuesta' : '▼ Ver respuesta'}
+        </button>
+      </div>
+
+      {show && (
+        <div className="px-4 pb-4">
+          <div className="bg-green-50 border border-green-200 rounded-xl p-4">
+            <div className="flex items-center gap-1.5 mb-2">
+              <span className="w-4 h-4 rounded-full bg-green-200 flex items-center justify-center">
+                <span className="text-green-700 text-[10px] font-bold">✓</span>
+              </span>
+              <span className="text-xs font-semibold text-green-700 uppercase tracking-wide">Respuesta</span>
+            </div>
+            <div className="text-sm text-slate-800 [&_strong]:font-semibold [&_strong]:text-green-900">
+              <Prose className="text-slate-700">{question.respuesta}</Prose>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
+
 // ─── Lesson Card ──────────────────────────────────────────────────────────────
 
 function LessonCard({
@@ -62,6 +161,7 @@ function LessonCard({
 }) {
   const [open, setOpen] = useState(false)
   const [audioOpen, setAudioOpen] = useState(false)
+  const [slidesOpen, setSlidesOpen] = useState(false)
 
   const isAudio = !!(lesson.video_url && /\.(mp3|m4a|ogg|wav|aac)(\?|$)/i.test(lesson.video_url))
 
@@ -77,204 +177,211 @@ function LessonCard({
     : null
 
   return (
-    <div className={`rounded-lg border transition-colors ${
-      lesson.isWatched ? 'border-green-200 bg-green-50/30' : 'border-slate-200 bg-white'
-    }`}>
-      <div className="flex items-center gap-3 px-4 py-3">
-        <button
-          onClick={() => onToggleWatched(lesson.id, !lesson.isWatched)}
-          className="flex-shrink-0 transition-colors"
-          title={lesson.isWatched ? 'Marcar como no visto' : 'Marcar como visto'}
-        >
-          {lesson.isWatched
-            ? <CheckCircle2 className="w-4.5 h-4.5 text-green-500" />
-            : <Circle className="w-4.5 h-4.5 text-slate-300 hover:text-slate-400" />}
-        </button>
+    <>
+      {slidesOpen && (
+        <LessonSlidesModal lesson={lesson} onClose={() => setSlidesOpen(false)} />
+      )}
 
-        <span className="text-xs text-slate-400 w-6 flex-shrink-0 tabular-nums">{lesson.order_index}</span>
-
-        <div className="flex-1 min-w-0">
-          <p className={`text-sm leading-tight ${lesson.isWatched ? 'text-slate-400 line-through decoration-slate-300' : 'text-slate-800'}`}>
-            {lesson.title}
-          </p>
-          {durationStr && (
-            <div className="flex items-center gap-1 mt-0.5">
-              <Clock className="w-3 h-3 text-slate-400" />
-              <span className="text-xs text-slate-400">{durationStr}</span>
-            </div>
-          )}
-        </div>
-
-        <div className="flex items-center gap-2 flex-shrink-0">
-          {lesson.video_url && isAudio && (
-            <button
-              onClick={() => {
-                setAudioOpen(!audioOpen)
-                if (!lesson.isWatched) onToggleWatched(lesson.id, true)
-              }}
-              className={`flex items-center gap-1.5 text-xs px-3 py-1.5 rounded border transition-colors ${
-                audioOpen
-                  ? 'border-blue-300 bg-blue-50 text-blue-700'
-                  : 'border-slate-200 bg-white text-slate-600 hover:border-blue-300 hover:text-blue-600'
-              }`}
-            >
-              <Play className="w-3 h-3" />
-              Audio
-            </button>
-          )}
-          {lesson.video_url && !isAudio && (
-            <a
-              href={lesson.video_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              onClick={() => !lesson.isWatched && onToggleWatched(lesson.id, true)}
-            >
-              <Button size="sm" variant="outline" className="h-7 gap-1.5 text-xs">
-                <Play className="w-3 h-3" />
-                Ver
-              </Button>
-            </a>
-          )}
-          {hasAiContent && (
-            <button
-              onClick={() => setOpen(!open)}
-              className="p-1.5 rounded text-slate-400 hover:text-blue-600 hover:bg-blue-50 transition-colors"
-              title="Ver material de estudio"
-            >
-              {open ? <ChevronUp className="w-4 h-4" /> : <Lightbulb className="w-4 h-4" />}
-            </button>
-          )}
-        </div>
-      </div>
-
-      {/* Inline Audio Player */}
-      {audioOpen && isAudio && lesson.video_url && (
-        <div className="border-t border-slate-100 px-4 py-3 bg-slate-50/60">
-          <audio
-            controls
-            autoPlay
-            className="w-full h-9"
-            style={{ accentColor: '#2563eb' }}
-            onEnded={() => !lesson.isWatched && onToggleWatched(lesson.id, true)}
+      <div className={`rounded-xl border transition-colors ${
+        lesson.isWatched ? 'border-green-200 bg-green-50/30' : 'border-slate-200 bg-white'
+      }`}>
+        {/* ── Row header ── */}
+        <div className="flex items-center gap-3 px-4 py-3.5">
+          <button
+            onClick={() => onToggleWatched(lesson.id, !lesson.isWatched)}
+            className="flex-shrink-0 transition-colors"
+            title={lesson.isWatched ? 'Marcar como no visto' : 'Marcar como visto'}
           >
-            <source src={lesson.video_url} type="audio/mpeg" />
-            Tu navegador no soporta la reproducción de audio.
-          </audio>
-        </div>
-      )}
+            {lesson.isWatched
+              ? <CheckCircle2 className="w-5 h-5 text-green-500" />
+              : <Circle className="w-5 h-5 text-slate-300 hover:text-slate-400" />}
+          </button>
 
-      {/* AI Study Material */}
-      {open && hasAiContent && (
-        <div className="border-t border-slate-100 p-4 space-y-4 bg-slate-50/50">
-          {lesson.ai_summary && (
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <FileText className="w-3.5 h-3.5 text-blue-500" />
-                <span className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Resumen</span>
-              </div>
-              <p className="text-sm text-slate-700 leading-relaxed">{lesson.ai_summary}</p>
-            </div>
-          )}
-          {lesson.ai_key_concepts && lesson.ai_key_concepts.length > 0 && (
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <BookOpen className="w-3.5 h-3.5 text-slate-500" />
-                <span className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Conceptos clave</span>
-              </div>
-              <ul className="space-y-1">
-                {lesson.ai_key_concepts.map((c: string, i: number) => (
-                  <li key={i} className="flex items-start gap-2 text-sm text-slate-700">
-                    <span className="text-blue-400 flex-shrink-0 mt-0.5">–</span>{c}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
-          {lesson.ai_mnemonics && lesson.ai_mnemonics.length > 0 && (
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <Brain className="w-3.5 h-3.5 text-slate-500" />
-                <span className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Nemotecnias</span>
-              </div>
-              <div className="space-y-2">
-                {lesson.ai_mnemonics.map((m: any, i: number) => (
-                  <div key={i} className="bg-amber-50 border border-amber-200 rounded-lg p-3">
-                    <div className="text-xs text-amber-600 mb-1">{m.para}</div>
-                    <div className="font-semibold text-amber-800 text-sm">{m.nemotecnia}</div>
-                    <div className="text-xs text-amber-700 mt-1">{m.explicacion}</div>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-          {lesson.ai_high_yield && lesson.ai_high_yield.length > 0 && (
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <Target className="w-3.5 h-3.5 text-slate-500" />
-                <span className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Puntos clave EUNACOM</span>
-              </div>
-              <ul className="space-y-1">
-                {lesson.ai_high_yield.map((p: string, i: number) => (
-                  <li key={i} className="flex items-start gap-2 text-sm text-slate-700">
-                    <span className="text-red-400 flex-shrink-0 mt-0.5">*</span>{p}
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
-          {lesson.ai_algorithms && lesson.ai_algorithms.length > 0 && (
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <Cpu className="w-3.5 h-3.5 text-slate-500" />
-                <span className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Algoritmos clínicos</span>
-              </div>
-              <div className="space-y-1">
-                {lesson.ai_algorithms.map((a: string, i: number) => (
-                  <div key={i} className="font-mono text-xs bg-slate-800 text-green-400 px-3 py-1.5 rounded border border-slate-700">{a}</div>
-                ))}
-              </div>
-            </div>
-          )}
-          {lesson.ai_review_qs && lesson.ai_review_qs.length > 0 && (
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <MessageSquare className="w-3.5 h-3.5 text-slate-500" />
-                <span className="text-xs font-semibold text-slate-600 uppercase tracking-wide">Preguntas de repaso</span>
-              </div>
-              <div className="space-y-2">
-                {lesson.ai_review_qs.map((q: any, i: number) => (
-                  <ReviewQuestion key={i} question={q} />
-                ))}
-              </div>
-            </div>
-          )}
-        </div>
-      )}
-    </div>
-  )
-}
+          <span className="text-xs text-slate-400 w-6 flex-shrink-0 tabular-nums font-medium">{lesson.order_index}</span>
 
-function ReviewQuestion({ question }: { question: { pregunta: string; respuesta: string } }) {
-  const [show, setShow] = useState(false)
-  return (
-    <div className="border border-slate-200 rounded-lg overflow-hidden">
-      <div className="p-3 bg-slate-50">
-        <p className="text-sm text-slate-800">{question.pregunta}</p>
-      </div>
-      <div className="px-3 py-2">
-        <button
-          onClick={() => setShow(!show)}
-          className="text-xs text-blue-600 hover:text-blue-800 font-medium"
-        >
-          {show ? 'Ocultar respuesta' : 'Ver respuesta'}
-        </button>
-        {show && (
-          <div className="mt-2 text-sm text-slate-700 bg-blue-50 rounded-lg p-3 border border-blue-100">
-            {question.respuesta}
+          <div className="flex-1 min-w-0">
+            <p className={`text-sm font-medium leading-snug ${lesson.isWatched ? 'text-slate-400 line-through decoration-slate-300' : 'text-slate-800'}`}>
+              {lesson.title}
+            </p>
+            {durationStr && (
+              <div className="flex items-center gap-1 mt-0.5">
+                <Clock className="w-3 h-3 text-slate-400" />
+                <span className="text-xs text-slate-400">{durationStr}</span>
+              </div>
+            )}
+          </div>
+
+          <div className="flex items-center gap-1.5 flex-shrink-0">
+            {lesson.video_url && isAudio && (
+              <button
+                onClick={() => {
+                  setAudioOpen(!audioOpen)
+                  if (!lesson.isWatched) onToggleWatched(lesson.id, true)
+                }}
+                className={`flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border font-medium transition-colors ${
+                  audioOpen
+                    ? 'border-blue-300 bg-blue-50 text-blue-700'
+                    : 'border-slate-200 bg-white text-slate-600 hover:border-blue-300 hover:text-blue-600'
+                }`}
+              >
+                <Play className="w-3 h-3" />
+                Audio
+              </button>
+            )}
+            {lesson.video_url && !isAudio && (
+              <a
+                href={lesson.video_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => !lesson.isWatched && onToggleWatched(lesson.id, true)}
+              >
+                <Button size="sm" variant="outline" className="h-7 gap-1.5 text-xs">
+                  <Play className="w-3 h-3" />
+                  Ver
+                </Button>
+              </a>
+            )}
+            {hasAiContent && (
+              <button
+                onClick={() => setSlidesOpen(true)}
+                className="flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border border-slate-200 bg-white text-slate-600 hover:border-indigo-300 hover:text-indigo-600 font-medium transition-colors"
+                title="Ver en modo slides"
+              >
+                <Layers className="w-3 h-3" />
+                Slides
+              </button>
+            )}
+            {hasAiContent && (
+              <button
+                onClick={() => setOpen(!open)}
+                className="p-1.5 rounded-lg text-slate-400 hover:text-blue-600 hover:bg-blue-50 transition-colors"
+                title="Ver material de estudio"
+              >
+                {open ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
+              </button>
+            )}
+          </div>
+        </div>
+
+        {/* ── Inline Audio Player ── */}
+        {audioOpen && isAudio && lesson.video_url && (
+          <div className="border-t border-slate-100 px-5 py-4 bg-blue-50/40">
+            <div className="flex items-center gap-2 mb-2">
+              <Play className="w-3.5 h-3.5 text-blue-500" />
+              <span className="text-xs font-semibold text-blue-700">Reproduciendo</span>
+            </div>
+            <audio
+              controls
+              autoPlay
+              controlsList="nodownload"
+              className="w-full h-9"
+              style={{ accentColor: '#2563eb' }}
+              onEnded={() => !lesson.isWatched && onToggleWatched(lesson.id, true)}
+            >
+              <source src={lesson.video_url} type="audio/mpeg" />
+              Tu navegador no soporta la reproducción de audio.
+            </audio>
+          </div>
+        )}
+
+        {/* ── AI Study Material (expanded view) ── */}
+        {open && hasAiContent && (
+          <div className="border-t border-slate-100">
+
+            {/* Summary */}
+            {lesson.ai_summary && (
+              <div className="px-5 pt-5 pb-4 border-b border-slate-100">
+                <SectionHeader icon={FileText} label="Resumen" color="bg-blue-50 text-blue-700" />
+                <div className="text-sm text-slate-700">
+                  <Prose>{lesson.ai_summary}</Prose>
+                </div>
+              </div>
+            )}
+
+            {/* Key concepts */}
+            {lesson.ai_key_concepts && lesson.ai_key_concepts.length > 0 && (
+              <div className="px-5 pt-5 pb-4 border-b border-slate-100">
+                <SectionHeader icon={BookOpen} label="Conceptos clave" color="bg-indigo-50 text-indigo-700" />
+                <div className="space-y-2">
+                  {lesson.ai_key_concepts.map((c: string, i: number) => (
+                    <div key={i} className="flex items-start gap-3 bg-indigo-50/50 border border-indigo-100 rounded-lg px-4 py-3">
+                      <span className="w-5 h-5 rounded-full bg-indigo-100 text-indigo-600 text-[10px] font-bold flex items-center justify-center flex-shrink-0 mt-0.5">
+                        {i + 1}
+                      </span>
+                      <div className="text-sm text-slate-700 flex-1">
+                        <Prose>{c}</Prose>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Mnemonics */}
+            {lesson.ai_mnemonics && lesson.ai_mnemonics.length > 0 && (
+              <div className="px-5 pt-5 pb-4 border-b border-slate-100">
+                <SectionHeader icon={Brain} label="Nemotecnias" color="bg-amber-50 text-amber-700" />
+                <div className="space-y-3">
+                  {lesson.ai_mnemonics.map((m: any, i: number) => (
+                    <div key={i} className="bg-amber-50 border border-amber-200 rounded-xl overflow-hidden">
+                      <div className="px-4 py-2 bg-amber-100/60 border-b border-amber-200">
+                        <span className="text-xs text-amber-700 font-medium">{m.para}</span>
+                      </div>
+                      <div className="px-4 py-3">
+                        <p className="font-bold text-amber-900 text-sm mb-2">"{m.nemotecnia}"</p>
+                        <p className="text-xs text-amber-800 text-justify leading-relaxed">{m.explicacion}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* High yield */}
+            {lesson.ai_high_yield && lesson.ai_high_yield.length > 0 && (
+              <div className="px-5 pt-5 pb-4 border-b border-slate-100">
+                <SectionHeader icon={Target} label="Puntos clave EUNACOM" color="bg-red-50 text-red-700" />
+                <div className="space-y-2">
+                  {lesson.ai_high_yield.map((p: string, i: number) => (
+                    <div key={i} className="flex items-start gap-3 bg-red-50/50 border border-red-100 rounded-lg px-4 py-3">
+                      <span className="text-red-500 font-bold text-sm flex-shrink-0 mt-0.5">★</span>
+                      <div className="text-sm text-slate-700 flex-1">
+                        <Prose>{p}</Prose>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Algorithms */}
+            {lesson.ai_algorithms && lesson.ai_algorithms.length > 0 && (
+              <div className="px-5 pt-5 pb-4 border-b border-slate-100">
+                <SectionHeader icon={Cpu} label="Algoritmos clínicos" color="bg-slate-100 text-slate-700" />
+                <div className="space-y-1.5">
+                  {lesson.ai_algorithms.map((a: string, i: number) => (
+                    <div key={i} className="font-mono text-xs bg-slate-900 text-emerald-400 px-4 py-2.5 rounded-lg border border-slate-700 leading-relaxed">{a}</div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Review questions */}
+            {lesson.ai_review_qs && lesson.ai_review_qs.length > 0 && (
+              <div className="px-5 pt-5 pb-5">
+                <SectionHeader icon={MessageSquare} label="Preguntas de repaso" color="bg-green-50 text-green-700" />
+                <div className="space-y-3">
+                  {lesson.ai_review_qs.map((q: any, i: number) => (
+                    <ReviewQuestion key={i} question={q} index={i + 1} />
+                  ))}
+                </div>
+              </div>
+            )}
+
           </div>
         )}
       </div>
-    </div>
+    </>
   )
 }
 

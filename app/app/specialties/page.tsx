@@ -38,12 +38,102 @@ interface ExamStatus {
   avgScore: number | null
 }
 
+interface LessonItem {
+  id: number
+  title: string
+  order_index: number
+  duration_seconds: number | null
+  video_url: string | null
+  is_available: boolean
+}
+
 interface SpecialtyData extends Specialty {
   exams: ExamStatus[]
   rawExams: any[]
   totalExams: number
   completedExams: number
   avgScore: number
+  lessons: LessonItem[]
+}
+
+// ─── Audio Capsule Section ────────────────────────────────────────────────────
+
+function AudioCapsuleSection({ lessons, specCode }: { lessons: LessonItem[]; specCode: string }) {
+  const [playingId, setPlayingId] = useState<number | null>(null)
+  const available = lessons.filter((l) => l.is_available)
+  if (available.length === 0) return null
+
+  return (
+    <div className="border-t border-slate-200">
+      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
+        <Play className="w-3.5 h-3.5 text-slate-600" />
+        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
+          Cápsulas de Audio ({available.length})
+        </span>
+        <Link
+          href={`/app/specialties/${specCode}?tab=lessons`}
+          className="ml-auto text-xs text-blue-700 hover:text-blue-900 font-medium"
+          onClick={(e) => e.stopPropagation()}
+        >
+          Ver todo →
+        </Link>
+      </div>
+      {available.slice(0, 5).map((lesson) => {
+        const durationMin = lesson.duration_seconds ? `${Math.floor(lesson.duration_seconds / 60)} min` : null
+        const isAudio = !!(lesson.video_url && /\.(mp3|m4a|ogg|wav|aac)(\?|$)/i.test(lesson.video_url))
+        const isPlaying = playingId === lesson.id
+
+        return (
+          <div key={lesson.id} className="border-b border-slate-100 last:border-0">
+            <div className="flex items-center gap-3 px-4 py-2.5 hover:bg-slate-50 transition-colors">
+              <span className="text-xs font-mono text-slate-400 w-5 flex-shrink-0">{lesson.order_index}.</span>
+              <span className="text-sm text-slate-800 flex-1 leading-tight">{lesson.title}</span>
+              {durationMin && (
+                <span className="text-xs text-slate-400 flex-shrink-0 hidden sm:block">{durationMin}</span>
+              )}
+              {lesson.video_url && isAudio && (
+                <button
+                  onClick={() => setPlayingId(isPlaying ? null : lesson.id)}
+                  className={`flex items-center gap-1.5 text-xs px-2.5 py-1.5 rounded border transition-colors flex-shrink-0 ${
+                    isPlaying
+                      ? 'border-blue-400 bg-blue-600 text-white'
+                      : 'border-slate-300 bg-white text-slate-700 hover:border-blue-400 hover:text-blue-700'
+                  }`}
+                >
+                  <Play className="w-3 h-3" />
+                  {isPlaying ? 'Pausar' : 'Escuchar'}
+                </button>
+              )}
+              {!lesson.video_url && (
+                <span className="text-xs text-slate-400 flex-shrink-0">Próximamente</span>
+              )}
+            </div>
+            {isPlaying && isAudio && lesson.video_url && (
+              <div className="px-4 pb-3 bg-blue-50/50 border-t border-blue-100">
+                <audio
+                  controls
+                  autoPlay
+                  className="w-full h-9 mt-2"
+                  onEnded={() => setPlayingId(null)}
+                >
+                  <source src={lesson.video_url} type="audio/mpeg" />
+                </audio>
+              </div>
+            )}
+          </div>
+        )
+      })}
+      {available.length > 5 && (
+        <Link
+          href={`/app/specialties/${specCode}?tab=lessons`}
+          className="flex items-center justify-center gap-1 py-2 text-xs text-blue-700 hover:bg-blue-50 transition-colors"
+        >
+          <ChevronDown className="w-3.5 h-3.5" />
+          Ver {available.length - 5} cápsulas más
+        </Link>
+      )}
+    </div>
+  )
 }
 
 // ─── Free AI Mockup Panel ─────────────────────────────────────────────────────
@@ -154,15 +244,15 @@ function VideoSection({
   if (videos.length === 0) return null
 
   return (
-    <div className="border-t border-slate-100">
+    <div className="border-t border-slate-200">
       {/* Section header */}
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-50/80 border-b border-slate-100">
-        <Video className="w-3.5 h-3.5 text-slate-400" />
-        <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider">
+      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
+        <Video className="w-3.5 h-3.5 text-slate-600" />
+        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
           Videos ({videos.length})
         </span>
         {!isPremium && lockedCount > 0 && (
-          <Badge className="ml-auto text-[10px] bg-amber-100 text-amber-700 border-amber-200">
+          <Badge className="ml-auto text-[10px] bg-amber-100 text-amber-700 border-amber-300 font-semibold">
             {FREE_VIDEO_COUNT} gratis · {lockedCount} Premium
           </Badge>
         )}
@@ -186,8 +276,8 @@ function VideoSection({
           return (
             <div
               key={video.number}
-              className={`flex items-center gap-3 px-4 py-2 border-b border-slate-50 last:border-0 transition-colors ${
-                isLocked ? 'opacity-50' : 'hover:bg-slate-50/60'
+              className={`flex items-center gap-3 px-4 py-2.5 border-b border-slate-100 last:border-0 transition-colors ${
+                isLocked ? 'opacity-50' : 'hover:bg-slate-50'
               }`}
             >
               {/* Watch toggle */}
@@ -208,7 +298,7 @@ function VideoSection({
               <span className="text-xs font-mono text-slate-400 w-5 flex-shrink-0">{video.number}.</span>
 
               {/* Title */}
-              <span className={`text-sm flex-1 leading-tight ${isWatched ? 'text-slate-400 line-through' : 'text-slate-700'}`}>
+              <span className={`text-sm flex-1 leading-tight ${isWatched ? 'text-slate-400 line-through' : 'text-slate-800'}`}>
                 {video.title}
               </span>
 
@@ -284,22 +374,22 @@ function MaterialSection({ content, isPremium }: { content: SpecialtyContent; is
   if (content.materials.length === 0) return null
 
   return (
-    <div className="border-t border-slate-100">
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-50/80 border-b border-slate-100">
-        <FileText className="w-3.5 h-3.5 text-slate-400" />
-        <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider">
+    <div className="border-t border-slate-200">
+      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
+        <FileText className="w-3.5 h-3.5 text-slate-600" />
+        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
           Material de apoyo
         </span>
       </div>
       {content.materials.map((m, i) => (
-        <div key={i} className="flex items-center gap-3 px-4 py-2.5 border-b border-slate-50 last:border-0">
+        <div key={i} className="flex items-center gap-3 px-4 py-2.5 border-b border-slate-100 last:border-0">
           {isPremium
-            ? <FileText className="w-4 h-4 text-blue-400 flex-shrink-0" />
-            : <Lock className="w-4 h-4 text-slate-300 flex-shrink-0" />
+            ? <FileText className="w-4 h-4 text-blue-500 flex-shrink-0" />
+            : <Lock className="w-4 h-4 text-slate-400 flex-shrink-0" />
           }
-          <span className={`text-sm ${isPremium ? 'text-slate-700' : 'text-slate-400'}`}>{m.title}</span>
+          <span className={`text-sm ${isPremium ? 'text-slate-800' : 'text-slate-500'}`}>{m.title}</span>
           {!isPremium && (
-            <Badge className="ml-auto text-[10px] bg-amber-50 text-amber-600 border-amber-100">
+            <Badge className="ml-auto text-[10px] bg-amber-100 text-amber-700 border-amber-300 font-semibold">
               Premium
             </Badge>
           )}
@@ -316,29 +406,29 @@ function QuizSection({ exams }: { exams: ExamStatus[] }) {
   if (topicExams.length === 0) return null
 
   return (
-    <div className="border-t border-slate-100">
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-50/80 border-b border-slate-100">
-        <ClipboardList className="w-3.5 h-3.5 text-slate-400" />
-        <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider">
-          Pruebas ({topicExams.length})
+    <div className="border-t border-slate-200">
+      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
+        <ClipboardList className="w-3.5 h-3.5 text-slate-600" />
+        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
+          Cuestionarios ({topicExams.length})
         </span>
       </div>
       {topicExams.map((exam) => (
         <div
           key={exam.id}
-          className={`flex items-center gap-3 px-4 py-2.5 border-b border-slate-50 last:border-0 transition-colors ${
-            exam.isCompleted ? 'bg-green-50/20' : 'hover:bg-slate-50/50'
+          className={`flex items-center gap-3 px-4 py-2.5 border-b border-slate-100 last:border-0 transition-colors ${
+            exam.isCompleted ? 'bg-green-50/40' : 'hover:bg-slate-50'
           }`}
         >
           {exam.isCompleted
-            ? <CheckCircle2 className="w-4 h-4 text-green-500 flex-shrink-0" />
-            : <Circle className="w-4 h-4 text-slate-200 flex-shrink-0" />
+            ? <CheckCircle2 className="w-4 h-4 text-green-600 flex-shrink-0" />
+            : <Circle className="w-4 h-4 text-slate-300 flex-shrink-0" />
           }
           <div className="flex-1 min-w-0">
-            <p className={`text-sm leading-tight ${exam.isCompleted ? 'text-slate-500' : 'text-slate-700'}`}>
+            <p className={`text-sm leading-tight ${exam.isCompleted ? 'text-slate-500' : 'text-slate-800'}`}>
               {exam.title}
             </p>
-            <p className="text-xs text-slate-400 mt-0.5">{exam.question_count || 15} preguntas</p>
+            <p className="text-xs text-slate-500 mt-0.5">{exam.question_count || 15} preguntas</p>
           </div>
           {exam.avgScore !== null && (
             <span className={`text-xs font-bold tabular-nums ${getScoreColor(exam.avgScore)}`}>
@@ -349,7 +439,7 @@ function QuizSection({ exams }: { exams: ExamStatus[] }) {
             <Button
               size="sm"
               variant={exam.isCompleted ? 'outline' : 'default'}
-              className="h-7 text-xs gap-1 flex-shrink-0"
+              className={`h-7 text-xs gap-1 flex-shrink-0 ${!exam.isCompleted ? 'bg-blue-700 hover:bg-blue-800 text-white border-blue-700' : ''}`}
             >
               <Play className="w-3 h-3" />
               {exam.isCompleted ? 'Repetir' : 'Iniciar'}
@@ -387,13 +477,13 @@ function SpecialtyWeekRow({
 
   if (week.isRepaso) {
     return (
-      <div className={`flex items-center gap-3 px-4 py-3 border-b border-slate-100 last:border-0 ${isCurrent ? 'bg-blue-50/40' : ''}`}>
-        <ClipboardList className="w-4 h-4 text-slate-400 flex-shrink-0" />
+      <div className={`flex items-center gap-3 px-4 py-3 border-b border-slate-200 last:border-0 ${isCurrent ? 'bg-blue-50 border-l-2 border-l-blue-600' : ''}`}>
+        <ClipboardList className="w-4 h-4 text-slate-500 flex-shrink-0" />
         <div className="flex-1">
-          <span className="text-sm text-slate-700">{week.topic}</span>
-          <span className="text-xs text-slate-400 ml-2">S{week.week} · {dateRange}</span>
+          <span className="text-sm text-slate-800 font-medium">{week.topic}</span>
+          <span className="text-xs text-slate-500 ml-2">S{week.week} · {dateRange}</span>
         </div>
-        {isCurrent && <span className="text-xs font-semibold text-blue-600 flex-shrink-0">Esta semana</span>}
+        {isCurrent && <span className="text-xs font-semibold text-blue-700 flex-shrink-0">Esta semana</span>}
       </div>
     )
   }
@@ -414,10 +504,12 @@ function SpecialtyWeekRow({
     : 0
 
   return (
-    <div className={`border-b border-slate-100 last:border-0 ${isCurrent ? 'bg-blue-50/30' : ''}`}>
+    <div className={`border-b border-slate-200 last:border-0 ${isCurrent ? 'border-l-2 border-l-blue-600' : ''}`}>
       {/* Row header */}
       <div
-        className="flex items-center gap-3 px-4 py-3 cursor-pointer hover:bg-slate-50/60 transition-colors"
+        className={`flex items-center gap-3 px-4 py-3 cursor-pointer transition-colors ${
+          isCurrent ? 'bg-blue-50 hover:bg-blue-100/60' : 'hover:bg-slate-100'
+        }`}
         onClick={() => setOpen(!open)}
       >
         <div className="flex-shrink-0">
@@ -425,39 +517,39 @@ function SpecialtyWeekRow({
             ? <CheckCircle2 className="w-5 h-5 text-green-500" />
             : isStarted
             ? <Clock3 className={`w-5 h-5 ${color.text}`} />
-            : <Circle className="w-5 h-5 text-slate-200" />
+            : <Circle className="w-5 h-5 text-slate-300" />
           }
         </div>
 
-        <span className="text-xs font-mono text-slate-400 w-6 flex-shrink-0">S{week.week}</span>
-        <span className="text-xs text-slate-400 w-16 flex-shrink-0 hidden sm:block">{dateRange}</span>
+        <span className="text-xs font-mono text-slate-500 w-6 flex-shrink-0">S{week.week}</span>
+        <span className="text-xs text-slate-500 w-16 flex-shrink-0 hidden sm:block">{dateRange}</span>
 
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className={`text-sm font-medium ${isCurrent ? 'text-blue-700' : 'text-slate-800'}`}>
+            <span className={`text-sm font-semibold ${isCurrent ? 'text-blue-700' : 'text-slate-900'}`}>
               {week.topic}
             </span>
             {isCurrent && (
-              <span className="text-xs px-1.5 py-0.5 rounded border border-blue-200 bg-blue-50 font-medium text-blue-700 hidden sm:inline">
+              <span className="text-xs px-1.5 py-0.5 rounded border border-blue-400 bg-blue-600 font-semibold text-white hidden sm:inline">
                 Esta semana
               </span>
             )}
           </div>
-          <span className="text-xs text-slate-400 sm:hidden">{dateRange}</span>
+          <span className="text-xs text-slate-500 sm:hidden">{dateRange}</span>
         </div>
 
         {/* Stats (desktop) */}
-        <div className="hidden sm:flex items-center gap-3 flex-shrink-0 text-xs text-slate-400">
+        <div className="hidden sm:flex items-center gap-3 flex-shrink-0 text-xs text-slate-500">
           {totalVideos > 0 && (
             <span>{watchedVideos}/{totalVideos} vídeos</span>
           )}
           {totalExams > 0 && (
             <>
-              <span className="text-slate-200">·</span>
+              <span className="text-slate-300">·</span>
               <div className="flex items-center gap-1.5">
                 <span>{completedExams}/{totalExams} cuest.</span>
                 <div className="w-10">
-                  <Progress value={pct} className={`h-1.5 ${isDone ? '[&>div]:bg-green-500' : color.progress}`} />
+                  <Progress value={pct} className={`h-1.5 ${isDone ? '[&>div]:bg-green-500' : '[&>div]:bg-blue-600'}`} />
                 </div>
               </div>
             </>
@@ -468,40 +560,46 @@ function SpecialtyWeekRow({
         <div className="flex items-center gap-1 flex-shrink-0">
           {specialties.length === 1 && (
             <Link href={`/app/specialties/${specialties[0].code}`} onClick={(e) => e.stopPropagation()}>
-              <span className="p-1.5 text-slate-300 hover:text-slate-500 transition-colors rounded">
+              <span className="p-1.5 text-slate-400 hover:text-blue-600 transition-colors rounded">
                 <ExternalLink className="w-3.5 h-3.5" />
               </span>
             </Link>
           )}
           {open
-            ? <ChevronUp className="w-4 h-4 text-slate-300" />
-            : <ChevronDown className="w-4 h-4 text-slate-300" />
+            ? <ChevronUp className="w-4 h-4 text-slate-500" />
+            : <ChevronDown className="w-4 h-4 text-slate-500" />
           }
         </div>
       </div>
 
       {/* Expanded content */}
       {open && (
-        <div className="bg-white/80">
+        <div className="bg-white border-t border-slate-200">
           {specialties.map((spec) => {
             const lessonContent = SPECIALTY_LESSONS[spec.code]
             return (
               <div key={spec.id}>
+                {/* Audio capsules from DB (first priority) */}
+                {spec.lessons.length > 0 && (
+                  <AudioCapsuleSection lessons={spec.lessons} specCode={spec.code} />
+                )}
                 {lessonContent && (
                   <>
-                    <VideoSection
-                      content={lessonContent}
-                      specCode={spec.code}
-                      isPremium={isPremium}
-                      watchedSet={watchedSet}
-                      onToggleWatch={onToggleWatch}
-                    />
+                    {spec.lessons.length === 0 && (
+                      <VideoSection
+                        content={lessonContent}
+                        specCode={spec.code}
+                        isPremium={isPremium}
+                        watchedSet={watchedSet}
+                        onToggleWatch={onToggleWatch}
+                      />
+                    )}
                     <MaterialSection content={lessonContent} isPremium={isPremium} />
                   </>
                 )}
-                {!lessonContent && (
-                  <div className="px-4 py-3 border-t border-slate-100">
-                    <p className="text-xs text-slate-400 italic">Contenido audiovisual disponible próximamente.</p>
+                {!lessonContent && spec.lessons.length === 0 && (
+                  <div className="px-4 py-3 border-t border-slate-200">
+                    <p className="text-xs text-slate-500 italic">Contenido audiovisual disponible próximamente.</p>
                   </div>
                 )}
                 <QuizSection exams={spec.exams} />
@@ -546,51 +644,51 @@ function ChapterSection({
   const chapterPct = totalExams > 0 ? Math.round((completedExams / totalExams) * 100) : 0
 
   return (
-    <div className="rounded-lg border border-slate-200 overflow-hidden">
-      {/* Chapter header */}
+    <div className="rounded-lg border border-slate-300 overflow-hidden shadow-sm">
+      {/* Chapter header — Blackboard dark style */}
       <button
         onClick={() => setOpen(!open)}
-        className="w-full flex items-center gap-4 px-5 py-4 text-left bg-slate-50 hover:bg-slate-100 transition-colors border-b border-slate-200"
+        className="w-full flex items-center gap-4 px-5 py-4 text-left bg-[#1c2c3e] hover:bg-[#243547] transition-colors"
       >
-        <div className={`w-8 h-8 rounded ${color.badge} flex items-center justify-center flex-shrink-0 font-bold text-sm`}>
+        <div className="w-9 h-9 rounded bg-white/20 flex items-center justify-center flex-shrink-0 font-bold text-base text-white border border-white/30">
           {chapter.number}
         </div>
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="font-semibold text-slate-800 text-sm">Capítulo {chapter.number}</span>
+            <span className="font-semibold text-white text-sm">Capítulo {chapter.number}</span>
             {hasCurrentWeek && (
-              <span className="text-xs px-2 py-0.5 rounded border border-blue-200 bg-blue-50 font-medium text-blue-700">En curso</span>
+              <span className="text-xs px-2 py-0.5 rounded border border-blue-300 bg-blue-600 font-semibold text-white">En curso</span>
             )}
           </div>
-          <p className="text-xs text-slate-500 truncate mt-0.5">{chapter.title}</p>
+          <p className="text-xs text-white/60 truncate mt-0.5">{chapter.title}</p>
         </div>
         <div className="flex items-center gap-3 flex-shrink-0">
           {totalExams > 0 && (
             <div className="text-right hidden sm:block">
-              <div className={`text-sm font-bold tabular-nums ${chapterPct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapterPct}%</div>
-              <div className="text-xs text-slate-400">{completedExams}/{totalExams}</div>
+              <div className={`text-sm font-bold tabular-nums ${chapterPct === 100 ? 'text-green-400' : 'text-white'}`}>{chapterPct}%</div>
+              <div className="text-xs text-white/50">{completedExams}/{totalExams}</div>
             </div>
           )}
           {totalExams > 0 && (
             <div className="w-14 hidden sm:block">
-              <Progress value={chapterPct} className={`h-1.5 ${chapterPct === 100 ? '[&>div]:bg-green-500' : '[&>div]:bg-blue-500'}`} />
+              <Progress value={chapterPct} className={`h-1.5 bg-white/20 ${chapterPct === 100 ? '[&>div]:bg-green-400' : '[&>div]:bg-blue-400'}`} />
             </div>
           )}
-          {open ? <ChevronUp className="w-4 h-4 text-slate-400" /> : <ChevronDown className="w-4 h-4 text-slate-400" />}
+          {open ? <ChevronUp className="w-4 h-4 text-white/70" /> : <ChevronDown className="w-4 h-4 text-white/70" />}
         </div>
       </button>
 
       {/* Mobile progress */}
       {totalExams > 0 && (
-        <div className="flex items-center gap-2 px-5 pb-3 bg-slate-50 sm:hidden">
-          <Progress value={chapterPct} className={`flex-1 h-1.5 ${chapterPct === 100 ? '[&>div]:bg-green-500' : '[&>div]:bg-blue-500'}`} />
-          <span className={`text-sm font-bold ${chapterPct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapterPct}%</span>
+        <div className="flex items-center gap-2 px-5 py-2 bg-[#243547] sm:hidden border-t border-white/10">
+          <Progress value={chapterPct} className={`flex-1 h-1.5 bg-white/20 ${chapterPct === 100 ? '[&>div]:bg-green-400' : '[&>div]:bg-blue-400'}`} />
+          <span className={`text-sm font-bold ${chapterPct === 100 ? 'text-green-400' : 'text-white'}`}>{chapterPct}%</span>
         </div>
       )}
 
       {/* Chapter weeks */}
       {open && (
-        <div className="border-t border-slate-100 bg-white">
+        <div className="bg-white">
           {chapter.weeks.map((week) => {
             const weekSpecs = week.specialtyCodes.map((c) => specialtyMap[c]).filter(Boolean)
             return (
@@ -652,17 +750,19 @@ export default function SpecialtiesPage() {
       const supabase = createClient()
       const { data: { user } } = await supabase.auth.getUser()
 
-      const [specsRes, examsRes, attRes] = await Promise.all([
+      const [specsRes, examsRes, attRes, lessonsRes] = await Promise.all([
         supabase.from('specialties').select('*, eunacom_areas(*)').order('order_index'),
         supabase.from('exams').select('id, title, specialty_id, exam_type, question_count, order_index').eq('is_active', true).order('order_index'),
         user
           ? supabase.from('attempts').select('exam_id, score_percent').eq('user_id', user.id).eq('is_completed', true)
           : Promise.resolve({ data: [] }),
+        supabase.from('lessons').select('id, title, order_index, duration_seconds, video_url, is_available, specialty_id').eq('is_available', true).order('order_index'),
       ])
 
       const specs = (specsRes.data ?? []) as any[]
       const exams = (examsRes.data ?? []) as any[]
       const attempts = (attRes.data ?? []) as { exam_id: number; score_percent: number | null }[]
+      const allLessons = (lessonsRes.data ?? []) as any[]
 
       const completedExamIds = new Set(attempts.map((a) => a.exam_id))
       const scoresByExam: Record<number, number[]> = {}
@@ -700,6 +800,8 @@ export default function SpecialtiesPage() {
           ? Math.round(allTopicScores.reduce((a: number, b: number) => a + b, 0) / allTopicScores.length)
           : 0
 
+        const specLessons = allLessons.filter((l: any) => l.specialty_id === spec.id)
+
         map[spec.code] = {
           ...spec,
           exams: examsWithStatus,
@@ -707,6 +809,7 @@ export default function SpecialtiesPage() {
           totalExams: topicExams.length,
           completedExams: completedTopicCount,
           avgScore,
+          lessons: specLessons,
         }
       }
 
@@ -738,31 +841,31 @@ export default function SpecialtiesPage() {
       </div>
 
       {/* General section */}
-      <div className="bg-white rounded-lg border border-slate-200 overflow-hidden">
-        <div className="px-5 py-3 border-b border-slate-200 flex items-center gap-3 bg-slate-50">
-          <BookOpen className="w-4 h-4 text-slate-500" />
+      <div className="bg-white rounded-lg border border-slate-300 overflow-hidden shadow-sm">
+        <div className="px-5 py-3 border-b border-slate-300 flex items-center gap-3 bg-slate-200">
+          <BookOpen className="w-4 h-4 text-slate-600" />
           <span className="font-semibold text-slate-800 text-sm">General</span>
         </div>
         <div>
           <Link
             href="/app/calendar"
-            className="flex items-center gap-3 px-5 py-3 border-b border-slate-100 hover:bg-slate-50 transition-colors group"
+            className="flex items-center gap-3 px-5 py-3 border-b border-slate-200 hover:bg-slate-50 transition-colors group"
           >
-            <CalendarDays className="w-4 h-4 text-slate-400 flex-shrink-0" />
-            <span className="text-sm text-slate-700 group-hover:text-blue-600 transition-colors flex-1">Calendario del Curso</span>
-            <ChevronRight className="w-3.5 h-3.5 text-slate-300" />
+            <CalendarDays className="w-4 h-4 text-slate-500 flex-shrink-0" />
+            <span className="text-sm text-slate-800 group-hover:text-blue-700 transition-colors flex-1">Calendario del Curso</span>
+            <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
           </Link>
-          <div className="flex items-center gap-3 px-5 py-3 border-b border-slate-100 text-slate-400">
+          <div className="flex items-center gap-3 px-5 py-3 border-b border-slate-200 text-slate-500">
             <Bell className="w-4 h-4 flex-shrink-0" />
             <span className="text-sm">Avisos del curso</span>
           </div>
           <div className="flex items-center gap-3 px-5 py-3">
-            <Target className="w-4 h-4 text-slate-400 flex-shrink-0" />
+            <Target className="w-4 h-4 text-slate-500 flex-shrink-0" />
             <div className="flex-1">
-              <span className="text-sm text-slate-700">Prueba diagnóstica: Reconstrucción Eunacom agosto 2021</span>
-              <div className="text-xs text-slate-400 mt-0.5">09 ene 2026 · 180 preguntas</div>
+              <span className="text-sm text-slate-800">Prueba diagnóstica: Reconstrucción Eunacom agosto 2021</span>
+              <div className="text-xs text-slate-500 mt-0.5">09 ene 2026 · 180 preguntas</div>
             </div>
-            <Badge className="bg-amber-50 text-amber-700 border border-amber-200 text-xs">Diagnóstica</Badge>
+            <Badge className="bg-amber-100 text-amber-800 border border-amber-300 text-xs font-semibold">Diagnóstica</Badge>
           </div>
         </div>
       </div>

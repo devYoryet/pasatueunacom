@@ -164,46 +164,46 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
   return (
     <>
       <tr
-        className={`border-b border-slate-100 last:border-0 transition-colors ${
-          isCurrent ? color.bg : expanded ? 'bg-slate-50/40' : 'hover:bg-slate-50/30'
+        className={`border-b border-slate-200 last:border-0 transition-colors ${
+          isCurrent ? 'bg-blue-50 border-l-2 border-l-blue-600' : expanded ? 'bg-slate-50' : 'hover:bg-slate-50'
         } ${hasContent ? 'cursor-pointer select-none' : ''}`}
         onClick={() => hasContent && setExpanded(!expanded)}
       >
         {/* Week # */}
-        <td className="py-3 pl-4 pr-2 text-xs font-mono text-slate-300 w-8">{row.week.week}</td>
+        <td className="py-3 pl-4 pr-2 text-xs font-mono text-slate-500 w-8 font-semibold">{row.week.week}</td>
 
         {/* Topic */}
         <td className="py-3 pr-3">
-          <div className={`text-sm font-medium ${isCurrent ? color.text : 'text-slate-700'}`}>
+          <div className={`text-sm font-semibold ${isCurrent ? 'text-blue-700' : 'text-slate-900'}`}>
             {row.week.topic}
           </div>
-          <div className="text-xs text-slate-400 mt-0.5 hidden sm:block">{formatWeekRange(row.week.start, row.week.end)}</div>
+          <div className="text-xs text-slate-500 mt-0.5 hidden sm:block">{formatWeekRange(row.week.start, row.week.end)}</div>
         </td>
 
         {/* Objetivo */}
         <td className="py-3 pr-3 hidden md:table-cell">
-          <span className="text-xs text-slate-400">{row.totalExams > 0 ? `${row.totalExams}` : '—'}</span>
+          <span className="text-xs text-slate-600">{row.totalExams > 0 ? `${row.totalExams}` : '—'}</span>
         </td>
 
         {/* Completado */}
         <td className="py-3 pr-3">
           {row.totalExams > 0 ? (
             <div className="flex items-center gap-2">
-              <span className={`text-xs font-medium tabular-nums ${
-                row.completedExams >= row.totalExams ? 'text-green-600' :
-                isOverdue ? 'text-red-400' : 'text-slate-500'
+              <span className={`text-xs font-semibold tabular-nums ${
+                row.completedExams >= row.totalExams ? 'text-green-700' :
+                isOverdue ? 'text-red-600' : 'text-slate-700'
               }`}>
                 {row.completedExams}/{row.totalExams}
               </span>
               <div className="w-12 hidden sm:block">
                 <Progress value={pct} className={`h-1 ${
-                  row.completedExams >= row.totalExams ? '[&>div]:bg-green-400' :
-                  isOverdue ? '[&>div]:bg-red-300' : color.progress
+                  row.completedExams >= row.totalExams ? '[&>div]:bg-green-500' :
+                  isOverdue ? '[&>div]:bg-red-400' : '[&>div]:bg-blue-600'
                 }`} />
               </div>
             </div>
           ) : (
-            <span className="text-xs text-slate-300">—</span>
+            <span className="text-xs text-slate-400">—</span>
           )}
         </td>
 
@@ -211,7 +211,7 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
         <td className="py-3 pr-3">
           <div className="flex items-center gap-1.5">
             <span className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${s.dot}`} />
-            <span className="text-xs text-slate-500">{s.label}</span>
+            <span className="text-xs text-slate-600 font-medium">{s.label}</span>
           </div>
         </td>
 
@@ -219,8 +219,8 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
         <td className="py-3 pr-4 text-right">
           {hasContent && (
             expanded
-              ? <ChevronUp className="w-3.5 h-3.5 text-slate-300 inline" />
-              : <ChevronDown className="w-3.5 h-3.5 text-slate-300 inline" />
+              ? <ChevronUp className="w-3.5 h-3.5 text-slate-500 inline" />
+              : <ChevronDown className="w-3.5 h-3.5 text-slate-500 inline" />
           )}
         </td>
       </tr>
@@ -231,23 +231,23 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
           <td colSpan={6} className="px-4 pb-3 pt-1 bg-white">
             <div className="space-y-2">
               {row.specs.map((spec) => (
-                <div key={spec.id} className="bg-white rounded border border-slate-200 overflow-hidden">
+                <div key={spec.id} className="bg-white rounded border border-slate-300 overflow-hidden">
 
                   {/* Spec header */}
-                  <div className="flex items-center gap-2 px-4 py-2.5 border-b border-slate-100 bg-slate-50/60">
-                    <span className="text-xs font-semibold text-slate-700">{spec.name}</span>
-                    <span className="text-xs text-slate-400 ml-0.5">
+                  <div className="flex items-center gap-2 px-4 py-2.5 border-b border-slate-200 bg-slate-200">
+                    <span className="text-xs font-semibold text-slate-800">{spec.name}</span>
+                    <span className="text-xs text-slate-600 ml-0.5">
                       {spec.exams.filter(e => e.completed).length}/{spec.exams.length} cuestionarios
                     </span>
                     <div className="ml-auto flex items-center gap-3">
                       <button
-                        className="text-xs text-blue-600 hover:text-blue-800 hover:underline transition-colors"
+                        className="text-xs text-blue-700 hover:text-blue-900 font-semibold transition-colors"
                         onClick={(e) => { e.stopPropagation(); router.push(`/app/specialties/${spec.code}?tab=lessons`) }}
                       >
-                        Clases →
+                        Cápsulas →
                       </button>
                       <button
-                        className="text-xs text-slate-400 hover:text-slate-700 transition-colors"
+                        className="text-xs text-slate-600 hover:text-slate-900 font-medium transition-colors"
                         onClick={(e) => { e.stopPropagation(); router.push(`/app/specialties/${spec.code}`) }}
                       >
                         Ver todo →
@@ -256,29 +256,29 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
                   </div>
 
                   {/* Quiz rows */}
-                  <div className="divide-y divide-slate-50">
+                  <div className="divide-y divide-slate-100">
                     {spec.exams.length === 0 ? (
-                      <p className="px-4 py-3 text-xs text-slate-400">Sin cuestionarios disponibles aún</p>
+                      <p className="px-4 py-3 text-xs text-slate-500">Sin cuestionarios disponibles aún</p>
                     ) : spec.exams.map((exam) => (
-                      <div key={exam.id} className="flex items-center gap-3 px-4 py-2.5">
+                      <div key={exam.id} className="flex items-center gap-3 px-4 py-2.5 hover:bg-slate-50 transition-colors">
                         {exam.completed
-                          ? <CheckCircle className="w-3.5 h-3.5 text-green-500 flex-shrink-0" />
+                          ? <CheckCircle className="w-3.5 h-3.5 text-green-600 flex-shrink-0" />
                           : <Circle className="w-3.5 h-3.5 text-slate-300 flex-shrink-0" />}
 
-                        <span className="text-xs text-slate-700 flex-1 min-w-0 truncate">{exam.title}</span>
+                        <span className="text-xs text-slate-800 flex-1 min-w-0 truncate">{exam.title}</span>
 
                         {exam.bestScore !== null && (
-                          <span className={`text-xs tabular-nums flex-shrink-0 ${
-                            exam.bestScore >= 70 ? 'text-green-600' :
-                            exam.bestScore >= 50 ? 'text-amber-600' : 'text-red-400'
+                          <span className={`text-xs font-bold tabular-nums flex-shrink-0 ${
+                            exam.bestScore >= 70 ? 'text-green-700' :
+                            exam.bestScore >= 50 ? 'text-amber-700' : 'text-red-500'
                           }`}>{exam.bestScore}%</span>
                         )}
 
                         <button
-                          className={`text-xs flex-shrink-0 px-2.5 py-1 rounded border transition-colors ${
+                          className={`text-xs flex-shrink-0 px-2.5 py-1 rounded border transition-colors font-medium ${
                             exam.completed
-                              ? 'border-slate-200 text-slate-500 hover:border-slate-300 hover:text-slate-700'
-                              : 'border-slate-800 bg-slate-800 text-white hover:bg-slate-700'
+                              ? 'border-slate-300 text-slate-600 hover:border-blue-400 hover:text-blue-700'
+                              : 'border-blue-700 bg-blue-700 text-white hover:bg-blue-800'
                           }`}
                           onClick={(e) => { e.stopPropagation(); router.push(`/app/exam/${exam.id}`) }}
                         >
@@ -307,60 +307,60 @@ function ChapterCard({ chapter, defaultOpen }: { chapter: ChapterProgress; defau
   const incompletos = chapter.weeks.filter((w) => w.status === 'incompleto').length
 
   return (
-    <div className="rounded-lg border border-slate-200 overflow-hidden shadow-sm">
-      {/* Chapter header */}
+    <div className="rounded-lg border border-slate-300 overflow-hidden shadow-sm">
+      {/* Chapter header — Blackboard dark style */}
       <button
         onClick={() => setOpen(!open)}
-        className="w-full flex items-center gap-4 px-5 py-4 text-left bg-slate-50 hover:bg-slate-100 transition-colors border-b border-slate-200"
+        className="w-full flex items-center gap-4 px-5 py-4 text-left bg-[#1c2c3e] hover:bg-[#243547] transition-colors"
       >
-        <div className={`w-8 h-8 rounded ${color.badge} flex items-center justify-center font-bold text-sm flex-shrink-0`}>
+        <div className="w-9 h-9 rounded bg-white/20 border border-white/30 flex items-center justify-center font-bold text-base text-white flex-shrink-0">
           {chapter.number}
         </div>
 
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="font-semibold text-slate-800 text-sm">Capítulo {chapter.number}</span>
-            {isCurrent && <span className="text-xs px-2 py-0.5 rounded font-medium bg-blue-100 text-blue-700 border border-blue-200">En curso</span>}
+            <span className="font-semibold text-white text-sm">Capítulo {chapter.number}</span>
+            {isCurrent && <span className="text-xs px-2 py-0.5 rounded font-semibold bg-blue-600 text-white border border-blue-400">En curso</span>}
             {atrasados > 0 && (
-              <span className="text-xs px-2 py-0.5 rounded font-medium bg-red-50 text-red-600 border border-red-200">
+              <span className="text-xs px-2 py-0.5 rounded font-semibold bg-red-600 text-white border border-red-400">
                 {atrasados} atrasado{atrasados > 1 ? 's' : ''}
               </span>
             )}
           </div>
-          <p className="text-xs text-slate-500 mt-0.5 truncate">{chapter.title}</p>
+          <p className="text-xs text-white/60 mt-0.5 truncate">{chapter.title}</p>
         </div>
 
         <div className="flex items-center gap-3 flex-shrink-0">
           {chapter.totalExams > 0 && (
             <div className="hidden sm:flex items-center gap-2">
               <div className="text-right">
-                <div className={`text-sm font-bold tabular-nums ${chapter.pct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapter.pct}%</div>
-                <div className="text-xs text-slate-400 tabular-nums">{chapter.completedExams}/{chapter.totalExams}</div>
+                <div className={`text-sm font-bold tabular-nums ${chapter.pct === 100 ? 'text-green-400' : 'text-white'}`}>{chapter.pct}%</div>
+                <div className="text-xs text-white/50 tabular-nums">{chapter.completedExams}/{chapter.totalExams}</div>
               </div>
               <div className="w-14">
-                <Progress value={chapter.pct} className={`h-1.5 ${chapter.pct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
+                <Progress value={chapter.pct} className={`h-1.5 bg-white/20 ${chapter.pct === 100 ? '[&>div]:bg-green-400' : '[&>div]:bg-blue-400'}`} />
               </div>
             </div>
           )}
-          {open ? <ChevronUp className="w-4 h-4 text-slate-400" /> : <ChevronDown className="w-4 h-4 text-slate-400" />}
+          {open ? <ChevronUp className="w-4 h-4 text-white/70" /> : <ChevronDown className="w-4 h-4 text-white/70" />}
         </div>
       </button>
 
       {/* Mobile progress */}
       {chapter.totalExams > 0 && (
-        <div className="flex items-center gap-2 px-5 pb-3 bg-slate-50 sm:hidden">
-          <Progress value={chapter.pct} className={`flex-1 h-1.5 ${chapter.pct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
-          <span className={`text-sm font-bold ${chapter.pct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapter.pct}%</span>
+        <div className="flex items-center gap-2 px-5 py-2 bg-[#243547] sm:hidden border-t border-white/10">
+          <Progress value={chapter.pct} className={`flex-1 h-1.5 bg-white/20 ${chapter.pct === 100 ? '[&>div]:bg-green-400' : '[&>div]:bg-blue-400'}`} />
+          <span className={`text-sm font-bold ${chapter.pct === 100 ? 'text-green-400' : 'text-white'}`}>{chapter.pct}%</span>
         </div>
       )}
 
       {/* Week table */}
       {open && (
-        <div className="border-t border-slate-100">
+        <div className="border-t border-slate-200">
           <div className="overflow-x-auto">
             <table className="w-full bg-white min-w-[480px]">
               <thead>
-                <tr className="border-b border-slate-100 text-[11px] text-slate-400 uppercase tracking-wide">
+                <tr className="border-b border-slate-200 bg-slate-100 text-[11px] text-slate-600 uppercase tracking-wide font-semibold">
                   <th className="text-left font-medium py-2 pl-4 pr-2 w-8">S</th>
                   <th className="text-left font-medium py-2 pr-3">Tema</th>
                   <th className="text-left font-medium py-2 pr-3 hidden md:table-cell">Objetivo</th>
@@ -378,14 +378,14 @@ function ChapterCard({ chapter, defaultOpen }: { chapter: ChapterProgress; defau
           </div>
 
           {/* Footer */}
-          <div className="px-4 py-2.5 border-t border-slate-100 bg-slate-50 flex items-center justify-between gap-4">
-            <div className="flex items-center gap-3 text-xs text-slate-500 flex-wrap">
+          <div className="px-4 py-2.5 border-t border-slate-200 bg-slate-100 flex items-center justify-between gap-4">
+            <div className="flex items-center gap-3 text-xs text-slate-600 flex-wrap font-medium">
               <span>{chapter.completedExams}/{chapter.totalExams} cuestionarios</span>
-              {atrasados > 0 && <span className="text-red-500">· {atrasados} atrasada{atrasados > 1 ? 's' : ''}</span>}
-              {incompletos > 0 && <span className="text-amber-500">· {incompletos} incompleta{incompletos > 1 ? 's' : ''}</span>}
+              {atrasados > 0 && <span className="text-red-600">· {atrasados} atrasada{atrasados > 1 ? 's' : ''}</span>}
+              {incompletos > 0 && <span className="text-amber-600">· {incompletos} incompleta{incompletos > 1 ? 's' : ''}</span>}
             </div>
             <Link href="/app/specialties">
-              <Button size="sm" variant="ghost" className="text-xs h-7 gap-1.5 flex-shrink-0 text-slate-500 hover:text-slate-700">
+              <Button size="sm" variant="ghost" className="text-xs h-7 gap-1.5 flex-shrink-0 text-slate-700 hover:text-blue-700 font-medium">
                 <BookOpen className="w-3 h-3" />
                 Ver especialidades
               </Button>
@@ -613,15 +613,15 @@ export default function DashboardPage() {
         {/* ── Quick stat strip ─────────────────────────── */}
         <div className="grid grid-cols-4 gap-3">
           {[
-            { v: stats.todayCount,    l: 'Hoy',      icon: CheckCircle },
-            { v: `${stats.avgScore}%`,l: 'Promedio', icon: TrendingUp },
-            { v: stats.streak,        l: 'Racha',    icon: Flame },
-            { v: stats.totalAttempts, l: 'Total',    icon: BookOpen },
-          ].map(({ v, l, icon: Icon }) => (
-            <div key={l} className="bg-white rounded-lg border border-slate-200 p-3 text-center">
-              <Icon className="w-3.5 h-3.5 text-slate-400 mx-auto mb-1.5" size={14} />
-              <div className="text-base font-bold text-slate-800 tabular-nums">{v}</div>
-              <div className="text-[11px] text-slate-400">{l}</div>
+            { v: stats.todayCount,    l: 'Hoy',      icon: CheckCircle, cx: 'text-blue-700' },
+            { v: `${stats.avgScore}%`,l: 'Promedio', icon: TrendingUp,  cx: 'text-green-700' },
+            { v: stats.streak,        l: 'Racha',    icon: Flame,       cx: 'text-amber-700' },
+            { v: stats.totalAttempts, l: 'Total',    icon: BookOpen,    cx: 'text-slate-700' },
+          ].map(({ v, l, icon: Icon, cx }) => (
+            <div key={l} className="bg-white rounded-lg border border-slate-300 p-3 text-center shadow-sm">
+              <Icon className={`w-3.5 h-3.5 mx-auto mb-1.5 ${cx}`} size={14} />
+              <div className={`text-base font-bold tabular-nums ${cx}`}>{v}</div>
+              <div className="text-[11px] text-slate-500 font-medium">{l}</div>
             </div>
           ))}
         </div>

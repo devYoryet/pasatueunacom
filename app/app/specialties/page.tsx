@@ -13,7 +13,7 @@ import {
   BookOpen, Play, CheckCircle2, Clock3, Circle,
   ChevronDown, ChevronUp, ExternalLink, Lock, Sparkles,
   Video, FileText, ClipboardList,
-  ChevronRight, Star,
+  ChevronRight, CalendarDays, Bell, Target,
 } from 'lucide-react'
 import {
   COURSE_CALENDAR, CHAPTER_COLORS, formatWeekRange, getCurrentCourseWeek,
@@ -53,61 +53,50 @@ function AIContentPanel({ specCode }: { specCode: string }) {
   if (!mockup) return null
 
   return (
-    <div className="mx-4 mb-3 rounded-xl border border-blue-200 bg-gradient-to-br from-blue-50 to-indigo-50 p-4 text-sm">
+    <div className="mx-4 mb-3 rounded-lg border border-blue-200 bg-blue-50 p-4 text-sm">
       <div className="flex items-center gap-2 mb-3">
-        <div className="w-5 h-5 rounded-full bg-blue-600 flex items-center justify-center flex-shrink-0">
-          <Sparkles className="w-3 h-3 text-white" />
-        </div>
+        <Sparkles className="w-3.5 h-3.5 text-blue-600 flex-shrink-0" />
         <span className="font-semibold text-blue-800 text-xs uppercase tracking-wide">
           Material IA — {mockup.lessonTitle}
         </span>
-        <Badge className="ml-auto text-[10px] bg-green-100 text-green-700 border-green-200 font-semibold">
-          GRATIS
+        <Badge className="ml-auto text-[10px] bg-green-100 text-green-700 border border-green-200 font-semibold">
+          Gratis
         </Badge>
       </div>
 
-      {/* Summary */}
-      <div className="mb-3">
-        <p className="text-slate-700 leading-relaxed text-xs">{mockup.summary}</p>
-      </div>
+      <p className="text-slate-700 leading-relaxed text-xs mb-3">{mockup.summary}</p>
 
-      {/* Key concepts */}
       <div className="mb-3">
-        <div className="text-xs font-semibold text-slate-600 mb-1.5 flex items-center gap-1">
-          <Star className="w-3 h-3 text-amber-500" /> Conceptos clave
-        </div>
+        <div className="text-xs font-semibold text-slate-600 mb-1.5">Conceptos clave</div>
         <ul className="space-y-1">
           {mockup.keyConcepts.map((c, i) => (
             <li key={i} className="flex items-start gap-1.5 text-xs text-slate-600">
-              <span className="text-blue-400 mt-0.5 flex-shrink-0">•</span>
+              <span className="text-blue-400 mt-0.5 flex-shrink-0">–</span>
               {c}
             </li>
           ))}
         </ul>
       </div>
 
-      {/* Mnemonic */}
       <div className="mb-3 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2">
-        <div className="text-xs font-semibold text-amber-700 mb-1">🧠 {mockup.mnemonic.text}</div>
+        <div className="text-xs font-semibold text-amber-700 mb-1">{mockup.mnemonic.text}</div>
         <div className="text-xs text-amber-600">{mockup.mnemonic.explanation}</div>
       </div>
 
-      {/* High yield */}
       <div className="mb-3">
-        <div className="text-xs font-semibold text-red-600 mb-1.5">★ Alto rendimiento EUNACOM</div>
+        <div className="text-xs font-semibold text-slate-600 mb-1.5">Alto rendimiento EUNACOM</div>
         <ul className="space-y-1">
           {mockup.highYield.map((h, i) => (
             <li key={i} className="flex items-start gap-1.5 text-xs text-slate-600">
-              <span className="text-red-400 mt-0.5 flex-shrink-0">▸</span>
+              <span className="text-red-400 mt-0.5 flex-shrink-0">*</span>
               {h}
             </li>
           ))}
         </ul>
       </div>
 
-      {/* Algorithm */}
       <div className="bg-slate-800 rounded-lg px-3 py-2">
-        <div className="text-xs font-semibold text-slate-300 mb-1">⚡ Algoritmo clínico</div>
+        <div className="text-xs font-semibold text-slate-300 mb-1">Algoritmo clínico</div>
         <pre className="text-xs text-green-400 whitespace-pre-wrap font-mono leading-relaxed">
           {mockup.clinicalAlgorithm}
         </pre>
@@ -120,21 +109,18 @@ function AIContentPanel({ specCode }: { specCode: string }) {
 
 function PremiumBanner({ count }: { count: number }) {
   return (
-    <div className="mx-4 mb-3 rounded-xl border border-amber-200 bg-gradient-to-r from-amber-50 to-orange-50 p-4">
+    <div className="mx-4 mb-3 rounded-lg border border-amber-200 bg-amber-50 p-4">
       <div className="flex items-start gap-3">
-        <div className="w-8 h-8 rounded-full bg-amber-400 flex items-center justify-center flex-shrink-0">
-          <Lock className="w-4 h-4 text-white" />
-        </div>
+        <Lock className="w-4 h-4 text-amber-600 flex-shrink-0 mt-0.5" />
         <div className="flex-1">
           <p className="text-sm font-semibold text-amber-900">
             {count} {count === 1 ? 'cápsula bloqueada' : 'cápsulas bloqueadas'}
           </p>
           <p className="text-xs text-amber-700 mt-0.5">
-            Desbloquea todo el contenido con acceso Premium: resúmenes IA, nemotecnias,
-            algoritmos clínicos y todos los cuestionarios.
+            Acceso Premium: resúmenes IA, nemotecnias, algoritmos clínicos y todos los cuestionarios.
           </p>
         </div>
-        <Button size="sm" className="bg-amber-500 hover:bg-amber-600 text-white text-xs flex-shrink-0">
+        <Button size="sm" className="bg-amber-600 hover:bg-amber-700 text-white text-xs flex-shrink-0">
           Ver planes
         </Button>
       </div>
@@ -401,13 +387,13 @@ function SpecialtyWeekRow({
 
   if (week.isRepaso) {
     return (
-      <div className={`flex items-center gap-3 px-4 py-3 border-b border-slate-100 last:border-0 ${isCurrent ? color.bg : ''}`}>
-        <span className="text-base flex-shrink-0">📋</span>
+      <div className={`flex items-center gap-3 px-4 py-3 border-b border-slate-100 last:border-0 ${isCurrent ? 'bg-blue-50/40' : ''}`}>
+        <ClipboardList className="w-4 h-4 text-slate-400 flex-shrink-0" />
         <div className="flex-1">
-          <span className="text-sm font-medium text-slate-600">{week.topic}</span>
+          <span className="text-sm text-slate-700">{week.topic}</span>
           <span className="text-xs text-slate-400 ml-2">S{week.week} · {dateRange}</span>
         </div>
-        {isCurrent && <span className={`text-xs font-semibold ${color.text} flex-shrink-0`}>Esta semana</span>}
+        {isCurrent && <span className="text-xs font-semibold text-blue-600 flex-shrink-0">Esta semana</span>}
       </div>
     )
   }
@@ -428,10 +414,10 @@ function SpecialtyWeekRow({
     : 0
 
   return (
-    <div className={`border-b border-slate-100 last:border-0 ${isCurrent ? color.bg : ''}`}>
+    <div className={`border-b border-slate-100 last:border-0 ${isCurrent ? 'bg-blue-50/30' : ''}`}>
       {/* Row header */}
       <div
-        className="flex items-center gap-3 px-4 py-3 cursor-pointer hover:bg-black/[0.015] transition-colors"
+        className="flex items-center gap-3 px-4 py-3 cursor-pointer hover:bg-slate-50/60 transition-colors"
         onClick={() => setOpen(!open)}
       >
         <div className="flex-shrink-0">
@@ -448,11 +434,11 @@ function SpecialtyWeekRow({
 
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className={`text-sm font-medium ${isCurrent ? color.text : 'text-slate-800'}`}>
+            <span className={`text-sm font-medium ${isCurrent ? 'text-blue-700' : 'text-slate-800'}`}>
               {week.topic}
             </span>
             {isCurrent && (
-              <span className={`text-xs px-1.5 py-0.5 rounded-full font-semibold ${color.badge} hidden sm:inline`}>
+              <span className="text-xs px-1.5 py-0.5 rounded border border-blue-200 bg-blue-50 font-medium text-blue-700 hidden sm:inline">
                 Esta semana
               </span>
             )}
@@ -560,47 +546,45 @@ function ChapterSection({
   const chapterPct = totalExams > 0 ? Math.round((completedExams / totalExams) * 100) : 0
 
   return (
-    <div className={`rounded-2xl border-2 overflow-hidden ${hasCurrentWeek ? color.border : 'border-slate-200'}`}>
+    <div className="rounded-lg border border-slate-200 overflow-hidden">
       {/* Chapter header */}
       <button
         onClick={() => setOpen(!open)}
-        className={`w-full flex items-center gap-4 p-5 text-left transition-colors ${
-          hasCurrentWeek ? color.bg : 'bg-white'
-        } hover:brightness-[0.97]`}
+        className="w-full flex items-center gap-4 px-5 py-4 text-left bg-slate-50 hover:bg-slate-100 transition-colors border-b border-slate-200"
       >
-        <div className={`w-10 h-10 rounded-xl ${color.badge} flex items-center justify-center flex-shrink-0 font-bold text-sm`}>
+        <div className={`w-8 h-8 rounded ${color.badge} flex items-center justify-center flex-shrink-0 font-bold text-sm`}>
           {chapter.number}
         </div>
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 flex-wrap">
-            <span className="font-heading font-semibold text-slate-900">Capítulo {chapter.number}</span>
+            <span className="font-semibold text-slate-800 text-sm">Capítulo {chapter.number}</span>
             {hasCurrentWeek && (
-              <span className={`text-xs px-2 py-0.5 rounded-full font-semibold ${color.badge}`}>En curso</span>
+              <span className="text-xs px-2 py-0.5 rounded border border-blue-200 bg-blue-50 font-medium text-blue-700">En curso</span>
             )}
           </div>
-          <p className="text-sm text-slate-500 truncate mt-0.5">{chapter.title}</p>
+          <p className="text-xs text-slate-500 truncate mt-0.5">{chapter.title}</p>
         </div>
         <div className="flex items-center gap-3 flex-shrink-0">
           {totalExams > 0 && (
             <div className="text-right hidden sm:block">
-              <div className={`text-lg font-bold ${chapterPct === 100 ? 'text-green-600' : color.text}`}>{chapterPct}%</div>
-              <div className="text-xs text-slate-400">{completedExams}/{totalExams} cuest.</div>
+              <div className={`text-sm font-bold tabular-nums ${chapterPct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapterPct}%</div>
+              <div className="text-xs text-slate-400">{completedExams}/{totalExams}</div>
             </div>
           )}
           {totalExams > 0 && (
-            <div className="w-16 hidden sm:block">
-              <Progress value={chapterPct} className={`h-2 ${chapterPct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
+            <div className="w-14 hidden sm:block">
+              <Progress value={chapterPct} className={`h-1.5 ${chapterPct === 100 ? '[&>div]:bg-green-500' : '[&>div]:bg-blue-500'}`} />
             </div>
           )}
-          {open ? <ChevronUp className="w-5 h-5 text-slate-400" /> : <ChevronDown className="w-5 h-5 text-slate-400" />}
+          {open ? <ChevronUp className="w-4 h-4 text-slate-400" /> : <ChevronDown className="w-4 h-4 text-slate-400" />}
         </div>
       </button>
 
       {/* Mobile progress */}
       {totalExams > 0 && (
-        <div className={`flex items-center gap-2 px-5 pb-3 ${hasCurrentWeek ? color.bg : 'bg-white'} sm:hidden`}>
-          <Progress value={chapterPct} className={`flex-1 h-2 ${chapterPct === 100 ? '[&>div]:bg-green-500' : color.progress}`} />
-          <span className={`text-sm font-bold ${chapterPct === 100 ? 'text-green-600' : color.text}`}>{chapterPct}%</span>
+        <div className="flex items-center gap-2 px-5 pb-3 bg-slate-50 sm:hidden">
+          <Progress value={chapterPct} className={`flex-1 h-1.5 ${chapterPct === 100 ? '[&>div]:bg-green-500' : '[&>div]:bg-blue-500'}`} />
+          <span className={`text-sm font-bold ${chapterPct === 100 ? 'text-green-600' : 'text-slate-700'}`}>{chapterPct}%</span>
         </div>
       )}
 
@@ -754,33 +738,31 @@ export default function SpecialtiesPage() {
       </div>
 
       {/* General section */}
-      <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden">
-        <div className="px-5 py-4 border-b border-slate-100 flex items-center gap-3">
-          <div className="w-8 h-8 bg-slate-100 rounded-lg flex items-center justify-center flex-shrink-0">
-            <BookOpen className="w-4 h-4 text-slate-500" />
-          </div>
+      <div className="bg-white rounded-lg border border-slate-200 overflow-hidden">
+        <div className="px-5 py-3 border-b border-slate-200 flex items-center gap-3 bg-slate-50">
+          <BookOpen className="w-4 h-4 text-slate-500" />
           <span className="font-semibold text-slate-800 text-sm">General</span>
         </div>
         <div>
           <Link
             href="/app/calendar"
-            className="flex items-center gap-3 px-5 py-3 border-b border-slate-50 hover:bg-slate-50 transition-colors group"
+            className="flex items-center gap-3 px-5 py-3 border-b border-slate-100 hover:bg-slate-50 transition-colors group"
           >
-            <span className="text-base">📅</span>
-            <span className="text-sm text-slate-700 group-hover:text-blue-600 transition-colors">Calendario del Curso</span>
-            <ChevronRight className="w-3.5 h-3.5 text-slate-300 ml-auto" />
+            <CalendarDays className="w-4 h-4 text-slate-400 flex-shrink-0" />
+            <span className="text-sm text-slate-700 group-hover:text-blue-600 transition-colors flex-1">Calendario del Curso</span>
+            <ChevronRight className="w-3.5 h-3.5 text-slate-300" />
           </Link>
-          <div className="flex items-center gap-3 px-5 py-3 border-b border-slate-50">
-            <span className="text-base">📢</span>
-            <span className="text-sm text-slate-700">Avisos del curso</span>
+          <div className="flex items-center gap-3 px-5 py-3 border-b border-slate-100 text-slate-400">
+            <Bell className="w-4 h-4 flex-shrink-0" />
+            <span className="text-sm">Avisos del curso</span>
           </div>
           <div className="flex items-center gap-3 px-5 py-3">
-            <span className="text-base">🎯</span>
+            <Target className="w-4 h-4 text-slate-400 flex-shrink-0" />
             <div className="flex-1">
               <span className="text-sm text-slate-700">Prueba diagnóstica: Reconstrucción Eunacom agosto 2021</span>
               <div className="text-xs text-slate-400 mt-0.5">09 ene 2026 · 180 preguntas</div>
             </div>
-            <Badge className="bg-amber-50 text-amber-700 border-amber-200 text-xs">Diagnóstica</Badge>
+            <Badge className="bg-amber-50 text-amber-700 border border-amber-200 text-xs">Diagnóstica</Badge>
           </div>
         </div>
       </div>

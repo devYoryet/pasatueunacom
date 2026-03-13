@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation'
 import {
   TrendingUp, BookOpen, CheckCircle, Circle, Clock, Flame, Target,
   Trophy, ChevronRight, ChevronDown, ChevronUp, Play,
-  CalendarDays, Lightbulb, AlertTriangle, ArrowRight,
+  CalendarDays, Stethoscope, AlertTriangle, ArrowRight,
 } from 'lucide-react'
 import { createClient } from '@/lib/supabase/client'
 import { Button } from '@/components/ui/button'
@@ -83,18 +83,18 @@ function getWeekStatus(week: CourseWeek, completed: number, total: number): Week
 // ─── Rotating clinical tips ───────────────────────────────────────────────────
 
 const TIPS = [
-  { icon: '🫀', area: 'Cardiología',    tip: 'FA + inestabilidad hemodinámica → cardioversión eléctrica inmediata. No esperes antiarrítmicos.' },
-  { icon: '💉', area: 'Diabetes',       tip: 'Metformina primera línea en DM2. Suspender si TFG < 30 mL/min o contraste yodado.' },
-  { icon: '🫁', area: 'Neumología',     tip: 'EPOC: FEV1/FVC < 0.70 post broncodilatador. Exacerbación grave: PaCO₂ ↑ = agotamiento.' },
-  { icon: '🧠', area: 'Neurología',     tip: 'ACV isquémico: tPA hasta 4.5h del inicio. Contraindicado en hemorrágico o INR > 1.7.' },
-  { icon: '🩺', area: 'Infectología',   tip: 'Sepsis = SOFA ≥2. Bundle 1h: hemocultivos → antibióticos → fluidos 30 mL/kg.' },
-  { icon: '🔬', area: 'Hematología',    tip: 'Anemia ferropénica: ferritina baja + TIBC alto. Primera causa mundial de anemia.' },
-  { icon: '🩻', area: 'Nefrología',     tip: 'IRA prerrenal: FENa < 1%, densidad > 1020. Renal: FENa > 2%, cilindros granulosos.' },
-  { icon: '🌡️', area: 'Reumatología',  tip: 'Anti-CCP: más específico para AR. FR positivo también en infecciones, sarcoidosis, etc.' },
-  { icon: '💊', area: 'Gastroenterología', tip: 'H. pylori: triple terapia 14 días. Verificar erradicación con UBT o Ag en deposiciones.' },
-  { icon: '🫁', area: 'Asma',           tip: 'Crisis grave: SpO₂ < 92%, pCO₂ normal o ↑ (fatiga), ingresar UCI. No usar sedantes.' },
-  { icon: '🧬', area: 'Endocrinología', tip: 'Hipotiroidismo: TSH ↑ + T4L ↓. Hashimoto = anti-TPO positivo. Tratamiento: levotiroxina.' },
-  { icon: '❤️', area: 'Insuf. cardíaca', tip: 'IC con FEyVI reducida: IECA + betabloq + espironolactona = trío que reduce mortalidad.' },
+  { area: 'Cardiología',       tip: 'FA + inestabilidad hemodinámica: cardioversión eléctrica inmediata. No esperes antiarrítmicos.' },
+  { area: 'Diabetes',          tip: 'Metformina primera línea en DM2. Suspender si TFG < 30 mL/min o contraste yodado.' },
+  { area: 'Neumología',        tip: 'EPOC: FEV1/FVC < 0.70 post broncodilatador. Exacerbación grave: PaCO₂ elevado = agotamiento.' },
+  { area: 'Neurología',        tip: 'ACV isquémico: tPA hasta 4.5h del inicio. Contraindicado en hemorrágico o INR > 1.7.' },
+  { area: 'Infectología',      tip: 'Sepsis = SOFA ≥ 2. Bundle 1h: hemocultivos, antibióticos y fluidos 30 mL/kg.' },
+  { area: 'Hematología',       tip: 'Anemia ferropénica: ferritina baja + TIBC alto. Primera causa mundial de anemia.' },
+  { area: 'Nefrología',        tip: 'IRA prerrenal: FENa < 1%, densidad > 1020. Renal: FENa > 2%, cilindros granulosos.' },
+  { area: 'Reumatología',      tip: 'Anti-CCP: más específico para AR. FR positivo también en infecciones y sarcoidosis.' },
+  { area: 'Gastroenterología', tip: 'H. pylori: triple terapia 14 días. Verificar erradicación con UBT o Ag en deposiciones.' },
+  { area: 'Asma',              tip: 'Crisis grave: SpO₂ < 92%, pCO₂ normal o elevado (fatiga). UCI. No usar sedantes.' },
+  { area: 'Endocrinología',    tip: 'Hipotiroidismo: TSH alto + T4L bajo. Hashimoto = anti-TPO positivo. Tratamiento: levotiroxina.' },
+  { area: 'Insuf. cardíaca',   tip: 'IC con FEyVI reducida: IECA + betabloqueador + espironolactona reducen mortalidad.' },
 ]
 
 function getTodayTip() {
@@ -235,7 +235,6 @@ function WeekProgressRow({ row, color }: { row: WeekRow; color: typeof CHAPTER_C
 
                   {/* Spec header */}
                   <div className="flex items-center gap-2 px-4 py-2.5 border-b border-slate-100 bg-slate-50/60">
-                    {spec.icon && <span className="text-sm leading-none">{spec.icon}</span>}
                     <span className="text-xs font-semibold text-slate-700">{spec.name}</span>
                     <span className="text-xs text-slate-400 ml-0.5">
                       {spec.exams.filter(e => e.completed).length}/{spec.exams.length} cuestionarios
@@ -660,16 +659,11 @@ export default function DashboardPage() {
         {/* Clinical tip */}
         <div className="bg-white rounded-lg border border-slate-200 p-4">
           <div className="flex items-center gap-1.5 mb-3">
-            <Lightbulb className="w-3.5 h-3.5 text-slate-400" />
+            <Stethoscope className="w-3.5 h-3.5 text-slate-400" />
             <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-wide">Perla del día</span>
           </div>
-          <div className="flex items-start gap-2.5">
-            <span className="text-lg flex-shrink-0">{tip.icon}</span>
-            <div>
-              <div className="text-xs font-semibold text-slate-700 mb-1">{tip.area}</div>
-              <p className="text-xs text-slate-600 leading-relaxed">{tip.tip}</p>
-            </div>
-          </div>
+          <div className="text-xs font-semibold text-blue-700 mb-1">{tip.area}</div>
+          <p className="text-xs text-slate-600 leading-relaxed">{tip.tip}</p>
         </div>
 
         {/* Quick links */}

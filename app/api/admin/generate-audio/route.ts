@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { createClient } from '@/lib/supabase/server'
+import fs from 'fs'
+import path from 'path'
 
 export const dynamic = 'force-dynamic'
 export const maxDuration = 120 // 2 min para audio largo
@@ -9,11 +11,35 @@ export const maxDuration = 120 // 2 min para audio largo
  * Body: { lesson_id: number }
  *
  * Flujo:
- * 1. Obtiene el txt_content de la lección desde Supabase
- * 2. Llama a OpenAI TTS (tts-1-hd, voice: nova) — servidor Vercel no tiene proxy
- * 3. Sube el MP3 a Supabase Storage bucket "audio"
- * 4. Actualiza lessons.video_url con la URL pública
+ * 1. Busca el guion profesional en content/{specialty_code}/capsula_NN_*.md
+ * 2. Extrae la sección "## Guion para Audio" del .md
+ * 3. Llama a OpenAI TTS (tts-1-hd, voice: nova) — servidor Vercel no tiene proxy
+ * 4. Sube el MP3 a Supabase Storage bucket "audio"
+ * 5. Actualiza lessons.video_url con la URL pública
  */
+
+/** Lee el guion profesional desde el archivo .md de la cápsula */
+function readGuionFromMd(specialtyCode: string, orderIndex: number): string | null {
+  try {
+    const contentDir = path.join(process.cwd(), 'content', specialtyCode)
+    if (!fs.existsSync(contentDir)) return null
+
+    const padded = String(orderIndex).padStart(2, '0')
+    const files = fs.readdirSync(contentDir).filter(f => f.startsWith(`capsula_${padded}_`) && f.endsWith('.md'))
+    if (!files.length) return null
+
+    const raw = fs.readFileSync(path.join(contentDir, files[0]), 'utf-8')
+
+    // Extraer la sección entre "## Guion para Audio" y el siguiente "##"
+    const match = raw.match(/##\s+Guion para Audio\s*\n([\s\S]*?)(?=\n##\s|\n---\s*\n##\s|$)/)
+    if (!match) return null
+
+    return match[1].trim()
+  } catch {
+    return null
+  }
+}
+
 export async function POST(req: NextRequest) {
   // Auth: solo admin
   const supabase = await createClient()
@@ -35,10 +61,10 @@ export async function POST(req: NextRequest) {
   const { lesson_id, voice = 'nova', speed = 0.95 } = await req.json()
   if (!lesson_id) return NextResponse.json({ error: 'lesson_id requerido' }, { status: 400 })
 
-  // Obtener la lección
+  // Obtener la lección con código de especialidad
   const { data: lesson, error: lessonErr } = await supabase
     .from('lessons')
-    .select('id, title, order_index, txt_content, specialty_id')
+    .select('id, title, order_index, txt_content, specialty_id, specialties(code)')
     .eq('id', lesson_id)
     .single()
 
@@ -46,15 +72,55 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Lección no encontrada' }, { status: 404 })
   }
 
-  const script = lesson.txt_content?.trim()
+  const specialtyCode = (lesson as any).specialties?.code ?? 'diabetes'
+
+  // Intentar leer guion profesional del .md; si no existe, usar txt_content
+  const guionFromMd = readGuionFromMd(specialtyCode, lesson.order_index)
+  const script = (guionFromMd || lesson.txt_content)?.trim()
+  const scriptSource = guionFromMd ? 'md_guion' : 'txt_content'
+
   if (!script) {
-    return NextResponse.json({ error: 'La lección no tiene txt_content (guion de audio)' }, { status: 400 })
+    return NextResponse.json({ error: 'La lección no tiene guion (ni .md ni txt_content)' }, { status: 400 })
   }
 
-  // Llamar a OpenAI TTS
-  let audioBuffer: ArrayBuffer
-  try {
-    const ttsRes = await fetch('https://api.openai.com/v1/audio/speech', {
+  // OpenAI TTS tiene límite de 4096 caracteres por llamada.
+  // Dividimos en chunks por párrafo, sin exceder el límite.
+  function splitIntoChunks(text: string, maxChars = 4000): string[] {
+    const paragraphs = text.split(/\n{2,}/)
+    const chunks: string[] = []
+    let current = ''
+    for (const para of paragraphs) {
+      const candidate = current ? `${current}\n\n${para}` : para
+      if (candidate.length <= maxChars) {
+        current = candidate
+      } else {
+        if (current) chunks.push(current)
+        // Si un párrafo individual supera el límite, cortarlo por oración
+        if (para.length > maxChars) {
+          const sentences = para.match(/[^.!?]+[.!?]+/g) ?? [para]
+          let sentBuf = ''
+          for (const s of sentences) {
+            const sc = sentBuf ? `${sentBuf} ${s}` : s
+            if (sc.length <= maxChars) {
+              sentBuf = sc
+            } else {
+              if (sentBuf) chunks.push(sentBuf)
+              sentBuf = s.slice(0, maxChars)
+            }
+          }
+          if (sentBuf) current = sentBuf
+          else current = ''
+        } else {
+          current = para
+        }
+      }
+    }
+    if (current) chunks.push(current)
+    return chunks.filter(c => c.trim())
+  }
+
+  async function ttsChunk(text: string): Promise<ArrayBuffer> {
+    const res = await fetch('https://api.openai.com/v1/audio/speech', {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${openaiKey}`,
@@ -62,26 +128,33 @@ export async function POST(req: NextRequest) {
       },
       body: JSON.stringify({
         model: 'tts-1-hd',
-        voice,           // nova es la más natural en español latinoamericano
-        input: script,
+        voice,
+        input: text,
         speed,
         response_format: 'mp3',
       }),
     })
-
-    if (!ttsRes.ok) {
-      const err = await ttsRes.text()
-      return NextResponse.json({ error: `OpenAI TTS error: ${err}` }, { status: 502 })
+    if (!res.ok) {
+      const err = await res.text()
+      throw new Error(`OpenAI TTS error: ${err}`)
     }
+    return res.arrayBuffer()
+  }
 
-    audioBuffer = await ttsRes.arrayBuffer()
+  // Generar audio por chunks y concatenar
+  let audioBuffer: Buffer
+  try {
+    const chunks = splitIntoChunks(script)
+    const buffers = await Promise.all(chunks.map(ttsChunk))
+    // Concatenar los buffers MP3 — MP3 soporta concatenación directa
+    audioBuffer = Buffer.concat(buffers.map(b => Buffer.from(b)))
   } catch (e: any) {
-    return NextResponse.json({ error: `Error llamando OpenAI: ${e.message}` }, { status: 502 })
+    return NextResponse.json({ error: e.message }, { status: 502 })
   }
 
   // Subir a Supabase Storage
   const filename = `capsula_${String(lesson.order_index).padStart(2, '0')}_${lesson_id}.mp3`
-  const storagePath = `diabetes/${filename}`
+  const storagePath = `${specialtyCode}/${filename}`
 
   // Usar service role key para bypass RLS en storage
   const { createClient: createAdmin } = await import('@supabase/supabase-js')
@@ -119,6 +192,7 @@ export async function POST(req: NextRequest) {
     lesson_id,
     title: lesson.title,
     publicUrl,
-    size_kb: Math.round(audioBuffer.byteLength / 1024),
+    size_kb: Math.round(audioBuffer.length / 1024),
+    script_source: scriptSource,
   })
 }

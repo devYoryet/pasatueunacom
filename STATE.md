@@ -46,16 +46,31 @@ _Last updated: 2026-03-13 | Branch: claude/fix-gitignore-MlQtm_
   - ⏳ Pendiente: subir MP3s de calidad (OpenAI TTS nova) cuando haya acceso red sin proxy
   - ⏳ Siguiente: repetir ciclo para Cap. 2 Endocrinología (seed_endocrinologia_2_*.sql listos)
 
+## Generación de Audio con OpenAI TTS
+
+La página admin `/admin/audio` permite generar MP3s de calidad para cada cápsula.
+
+**Antes de usar:**
+1. Ir a Supabase SQL editor → ejecutar `supabase/create_audio_bucket.sql` (crea bucket "audio")
+2. Verificar que `OPENAI_API_KEY` esté en Vercel → Settings → Environment Variables
+3. Ir a `eunacomgo.cl/admin/audio` → elegir voz `nova` + velocidad 0.92 → "Generar"
+
+**Voces recomendadas para español:**
+- `nova` — Cálida, natural ✅ Mejor opción
+- `alloy` — Neutra, clara
+
 ## Pending DB Actions (run in Supabase SQL editor)
 
 ```sql
--- 1. Run lesson seed (creates 24 lessons for diabetes)
+-- 1. Crear bucket Storage para audios
+-- File: supabase/create_audio_bucket.sql
+
+-- 2. Run lesson seed (creates 24 lessons for diabetes)
 -- File: supabase/migrations/002_seed_lessons_diabetes.sql
 
--- 2. Set video_url for cápsula 1 (after running seed)
+-- 3. (Opcional) Audio temporal local para cápsula 1
 -- File: supabase/update_lesson_audio.sql
-UPDATE lessons SET video_url = '/audio/diabetes-clasificacion.mp3'
-WHERE order_index = 1 AND specialty_id = (SELECT id FROM specialties WHERE code = 'diabetes');
+-- Reemplazar luego con URL de Supabase Storage generada por /admin/audio
 ```
 
 ## Known Issues / Tech Debt

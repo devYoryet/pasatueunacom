@@ -15,6 +15,7 @@ import {
   LogOut,
   Menu,
   X,
+  Volume2,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { toast } from 'sonner'
@@ -26,6 +27,7 @@ const navItems = [
   { icon: FileText, label: 'Exámenes', href: '/admin/exams' },
   { icon: Upload, label: 'Importar', href: '/admin/import' },
   { icon: Sparkles, label: 'Generar con IA', href: '/admin/generate' },
+  { icon: Volume2, label: 'Audio IA', href: '/admin/audio' },
   { icon: BarChart3, label: 'Estadísticas', href: '/admin/stats' },
   { icon: Settings, label: 'Configuración', href: '/admin/settings' },
 ]

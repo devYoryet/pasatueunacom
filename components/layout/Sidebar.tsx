@@ -74,8 +74,8 @@ export default function Sidebar({ profile, mobileOpen, onMobileClose }: SidebarP
               className={cn(
                 'flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm transition-colors',
                 isActive
-                  ? 'bg-white/15 text-white font-semibold'
-                  : 'text-white/65 hover:text-white hover:bg-white/8'
+                  ? 'bg-blue-600 text-white font-semibold shadow-sm'
+                  : 'text-white/75 hover:text-white hover:bg-white/12'
               )}
             >
               <item.icon size={17} className="flex-shrink-0" />

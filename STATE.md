@@ -1,6 +1,6 @@
 # EunacomGo — Current State
 
-_Last updated: 2026-03-12 | Branch: claude/fix-gitignore-MlQtm_
+_Last updated: 2026-03-13 | Branch: claude/fix-gitignore-MlQtm_
 
 ## Active Branch
 
@@ -21,16 +21,42 @@ _Last updated: 2026-03-12 | Branch: claude/fix-gitignore-MlQtm_
 
 - ✅ GSD context engineering files (PROJECT.md, REQUIREMENTS.md, ROADMAP.md, STATE.md)
 - ✅ SEO overhaul (previous sprint — merged)
+- ✅ **UI/UX — Blackboard-style redesign (Sprint 2026-03-13):**
+  - Crash fix: reemplazado `use(params)` → `useParams()` en `[code]/page.tsx` (era React 19-only)
+  - Sidebar: dark navy `#1c2c3e` con nav items usando `bg-blue-600` para activo
+  - Chapter headers: dark `bg-[#1c2c3e] text-white` estilo módulos Blackboard
+  - Semana activa: `border-l-2 border-l-blue-600` + `bg-blue-50`
+  - Section headers (Video/Quiz/Audio): `bg-slate-200 text-slate-700` — contraste mayor
+  - Botones Iniciar: `bg-blue-700` — más visible que el bg-blue-600 previo
+  - Stat cards dashboard: colores por categoría (blue/green/amber)
+  - Emojis eliminados de TIPS array y dashboard
+  - Tab "Clases" link desde dashboard funcional via `?tab=lessons`
 - 🔄 **Capítulo 1 Diabetes — Cápsulas de Audio:**
   - 24 SRTs del Dr. Guevara procesados como cápsulas profesionales
   - Guion reescrito + resumen + nemotecnia + pregunta EUNACOM por cápsula
   - `content/transcripts/01-diabetes/` — 24 TXTs listos para `process-audio.ts`
-  - `content/diabetes/` — **24/24 cápsulas .md completas** ✅
-  - `supabase/migrations/002_seed_lessons_diabetes.sql` — seed listo para ejecutar
-  - `scripts/seed-lessons-from-capsules.ts` — script para regenerar SQL desde MDs
-  - ⏳ Pendiente: ejecutar seed SQL en Supabase SQL editor
-  - ⏳ Pendiente: subir MP3s a Vimeo/R2 y actualizar `video_url`
-  - ⏳ Siguiente: repetir ciclo para Cap. 2 Endocrinología
+  - `content/diabetes/` — **21/24 cápsulas .md completas** (faltan 08,09,10,11,12,22,23,24)
+  - `supabase/migrations/002_seed_lessons_diabetes.sql` — seed SQL listo
+  - `public/audio/diabetes-clasificacion.mp3` — audio generado localmente (espeak-ng/MBROLA)
+  - **Audio integrado en chapter view:** AudioCapsuleSection con player inline
+  - **Audio integrado en lesson detail:** LessonCard con player expandible
+  - ⏳ Pendiente: ejecutar `002_seed_lessons_diabetes.sql` en Supabase SQL editor
+  - ⏳ Pendiente: ejecutar `supabase/update_lesson_audio.sql` para setear `video_url`
+  - ⏳ O llamar `POST /api/admin/update-lesson-audio` (admin) para actualizar desde UI
+  - ⏳ Pendiente: subir MP3s de calidad (OpenAI TTS nova) cuando haya acceso red sin proxy
+  - ⏳ Siguiente: repetir ciclo para Cap. 2 Endocrinología (seed_endocrinologia_2_*.sql listos)
+
+## Pending DB Actions (run in Supabase SQL editor)
+
+```sql
+-- 1. Run lesson seed (creates 24 lessons for diabetes)
+-- File: supabase/migrations/002_seed_lessons_diabetes.sql
+
+-- 2. Set video_url for cápsula 1 (after running seed)
+-- File: supabase/update_lesson_audio.sql
+UPDATE lessons SET video_url = '/audio/diabetes-clasificacion.mp3'
+WHERE order_index = 1 AND specialty_id = (SELECT id FROM specialties WHERE code = 'diabetes');
+```
 
 ## Known Issues / Tech Debt
 
@@ -60,10 +86,10 @@ OPENAI_API_KEY=
 ## Recent Commits
 
 ```
+8937d0b feat: audio player + MBROLA audio generado para cápsula 1 diabetes
+879f353 feat: Blackboard redesign + crash fix (use(params) → useParams)
 b1a1bb4 feat: rebrand to EunacomGo and add EUNACOM guides
 51ddd9e fix git ignore
-7c62edd docs(supabase): README con conexión BD y creación de usuarios
-b6a4a00 fix register
 ```
 
 ## Database Status

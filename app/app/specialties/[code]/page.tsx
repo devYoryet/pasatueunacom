@@ -61,6 +61,9 @@ function LessonCard({
   onToggleWatched: (id: number, watched: boolean) => void
 }) {
   const [open, setOpen] = useState(false)
+  const [audioOpen, setAudioOpen] = useState(false)
+
+  const isAudio = !!(lesson.video_url && /\.(mp3|m4a|ogg|wav|aac)(\?|$)/i.test(lesson.video_url))
 
   const hasAiContent = !!(
     lesson.ai_summary ||
@@ -103,7 +106,23 @@ function LessonCard({
         </div>
 
         <div className="flex items-center gap-2 flex-shrink-0">
-          {lesson.video_url && (
+          {lesson.video_url && isAudio && (
+            <button
+              onClick={() => {
+                setAudioOpen(!audioOpen)
+                if (!lesson.isWatched) onToggleWatched(lesson.id, true)
+              }}
+              className={`flex items-center gap-1.5 text-xs px-3 py-1.5 rounded border transition-colors ${
+                audioOpen
+                  ? 'border-blue-300 bg-blue-50 text-blue-700'
+                  : 'border-slate-200 bg-white text-slate-600 hover:border-blue-300 hover:text-blue-600'
+              }`}
+            >
+              <Play className="w-3 h-3" />
+              Audio
+            </button>
+          )}
+          {lesson.video_url && !isAudio && (
             <a
               href={lesson.video_url}
               target="_blank"
@@ -127,6 +146,22 @@ function LessonCard({
           )}
         </div>
       </div>
+
+      {/* Inline Audio Player */}
+      {audioOpen && isAudio && lesson.video_url && (
+        <div className="border-t border-slate-100 px-4 py-3 bg-slate-50/60">
+          <audio
+            controls
+            autoPlay
+            className="w-full h-9"
+            style={{ accentColor: '#2563eb' }}
+            onEnded={() => !lesson.isWatched && onToggleWatched(lesson.id, true)}
+          >
+            <source src={lesson.video_url} type="audio/mpeg" />
+            Tu navegador no soporta la reproducción de audio.
+          </audio>
+        </div>
+      )}
 
       {/* AI Study Material */}
       {open && hasAiContent && (

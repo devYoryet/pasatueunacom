@@ -83,10 +83,44 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'La lección no tiene guion (ni .md ni txt_content)' }, { status: 400 })
   }
 
-  // Llamar a OpenAI TTS
-  let audioBuffer: ArrayBuffer
-  try {
-    const ttsRes = await fetch('https://api.openai.com/v1/audio/speech', {
+  // OpenAI TTS tiene límite de 4096 caracteres por llamada.
+  // Dividimos en chunks por párrafo, sin exceder el límite.
+  function splitIntoChunks(text: string, maxChars = 4000): string[] {
+    const paragraphs = text.split(/\n{2,}/)
+    const chunks: string[] = []
+    let current = ''
+    for (const para of paragraphs) {
+      const candidate = current ? `${current}\n\n${para}` : para
+      if (candidate.length <= maxChars) {
+        current = candidate
+      } else {
+        if (current) chunks.push(current)
+        // Si un párrafo individual supera el límite, cortarlo por oración
+        if (para.length > maxChars) {
+          const sentences = para.match(/[^.!?]+[.!?]+/g) ?? [para]
+          let sentBuf = ''
+          for (const s of sentences) {
+            const sc = sentBuf ? `${sentBuf} ${s}` : s
+            if (sc.length <= maxChars) {
+              sentBuf = sc
+            } else {
+              if (sentBuf) chunks.push(sentBuf)
+              sentBuf = s.slice(0, maxChars)
+            }
+          }
+          if (sentBuf) current = sentBuf
+          else current = ''
+        } else {
+          current = para
+        }
+      }
+    }
+    if (current) chunks.push(current)
+    return chunks.filter(c => c.trim())
+  }
+
+  async function ttsChunk(text: string): Promise<ArrayBuffer> {
+    const res = await fetch('https://api.openai.com/v1/audio/speech', {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${openaiKey}`,
@@ -94,21 +128,28 @@ export async function POST(req: NextRequest) {
       },
       body: JSON.stringify({
         model: 'tts-1-hd',
-        voice,           // nova es la más natural en español latinoamericano
-        input: script,
+        voice,
+        input: text,
         speed,
         response_format: 'mp3',
       }),
     })
-
-    if (!ttsRes.ok) {
-      const err = await ttsRes.text()
-      return NextResponse.json({ error: `OpenAI TTS error: ${err}` }, { status: 502 })
+    if (!res.ok) {
+      const err = await res.text()
+      throw new Error(`OpenAI TTS error: ${err}`)
     }
+    return res.arrayBuffer()
+  }
 
-    audioBuffer = await ttsRes.arrayBuffer()
+  // Generar audio por chunks y concatenar
+  let audioBuffer: Buffer
+  try {
+    const chunks = splitIntoChunks(script)
+    const buffers = await Promise.all(chunks.map(ttsChunk))
+    // Concatenar los buffers MP3 — MP3 soporta concatenación directa
+    audioBuffer = Buffer.concat(buffers.map(b => Buffer.from(b)))
   } catch (e: any) {
-    return NextResponse.json({ error: `Error llamando OpenAI: ${e.message}` }, { status: 502 })
+    return NextResponse.json({ error: e.message }, { status: 502 })
   }
 
   // Subir a Supabase Storage
@@ -151,7 +192,7 @@ export async function POST(req: NextRequest) {
     lesson_id,
     title: lesson.title,
     publicUrl,
-    size_kb: Math.round(audioBuffer.byteLength / 1024),
+    size_kb: Math.round(audioBuffer.length / 1024),
     script_source: scriptSource,
   })
 }

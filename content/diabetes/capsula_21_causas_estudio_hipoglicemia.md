@@ -55,20 +55,36 @@ Cuando péptido C e insulina están ambos elevados, el páncreas está hipersecr
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**Una mujer de 42 años sin diagnóstico de diabetes se presenta con episodios de sudoración, temblor y confusión que ocurren 2 a 3 horas después de comer alimentos dulces. La glicemia en el momento del episodio es de 48 mg/dL y mejora con ingesta de azúcar. El péptido C y la insulina plasmática están ambos levemente elevados. ¿Cuál es el diagnóstico más probable?**
+**¿Cuál de los siguientes patrones de péptido C e insulina plasmática es compatible con hipoglicemia facticia por insulina exógena?**
 
-A) Insulinoma, porque tanto el péptido C como la insulina están elevados.
+A) Péptido C elevado + insulina plasmática elevada: el páncreas está sobreestimulado y produce ambas moléculas en exceso.
+B) Péptido C bajo + insulina plasmática elevada: hay mucha insulina en sangre pero el páncreas está suprimido y no secreta su propio péptido C.
+C) Péptido C elevado + insulina plasmática baja: el páncreas produce péptido C pero no insulina funcional.
+D) Ambos bajos: hay hipoglicemia por consumo periférico de glucosa sin hiperinsulinismo.
+E) Ambos normales: la hipoglicemia facticia no altera los marcadores de secreción pancreática.
 
-B) Hipoglicemia facticia por insulina exógena, porque la glicemia es menor a 50 mg/dL.
+**Respuesta correcta: B** — La insulina exógena (inyectada) eleva la insulina plasmática (que mide insulina total, propia y ajena). Sin embargo, no viene acompañada de péptido C porque este solo se libera del páncreas junto con la insulina endógena. Al administrarse insulina exógena, el páncreas se suprime y deja de secretar tanto insulina propia como péptido C. El resultado diagnóstico clave es: insulina alta + péptido C bajo = insulina exógena.
 
-C) Hipoglicemia reactiva por resistencia a la insulina, ya que ocurre en el período posprandial y ambos marcadores reflejan hipersecreción pancreática endógena.
+**Un hombre de 46 años sin diabetes conocida consulta por episodios de mareo, temblor y dificultad para concentrarse que ocurren habitualmente entre 5 y 8 horas después de la última comida, especialmente en la madrugada o después de ejercicio intenso. La glicemia durante un episodio es 38 mg/dL. El péptido C y la insulina están ambos marcadamente elevados. ¿Cuál es el diagnóstico más probable y cuál es el examen de confirmación?**
 
-D) Hipoglicemia de ayuno por tumor no insulinoma, porque la glicemia baja con solo 2-3 horas de diferencia.
+A) Hipoglicemia reactiva por resistencia a la insulina; confirmar con prueba de tolerancia a comida mixta.
+B) Hipoglicemia facticia por sulfonilureas; confirmar midiendo sulfonilureas en sangre (ya que péptido C e insulina son ambos elevados).
+C) Insulinoma, porque los episodios ocurren en ayuno (> 4-6 horas sin comer) y ambos marcadores están elevados indicando hipersecreción pancreática endógena autónoma; confirmar con prueba de ayuno prolongado supervisado e imagen (ecografía endoscópica, TAC).
+D) Hipoglicemia autoinmune por anticuerpos anti-insulina; confirmar con niveles de anticuerpos.
+E) Tumor de gran tamaño que consume glucosa; péptido C e insulina deberían estar bajos en ese caso.
 
-E) Feocromocitoma, porque la sudoración y el temblor indican activación simpática.
+**Respuesta correcta: C** — Los episodios ocurren en contexto de ayuno prolongado (madrugada, horas después de comer), no en el período posprandial. Esto orienta a hipoglicemia de ayuno, cuya causa más frecuente es el insulinoma. El péptido C e insulina ambos elevados confirman hipersecreción pancreática endógena. La prueba de ayuno prolongado supervisado con monitorización hasta objetivar la hipoglicemia es el método diagnóstico. La hipoglicemia reactiva (opción A) ocurre 2-4 h después de comer, no en ayuno. Las sulfonilureas (opción B) también dan ambos marcadores elevados, pero se distinguen midiendo sulfonilureas en sangre.
 
-**Respuesta correcta: C** — Los síntomas ocurren en el período posprandial (2-3 horas tras comer), la glicemia baja está objetivada y mejora con azúcar (tríada de Whipple positiva). Ambos marcadores elevados indican hipersecreción endógena pancreática. El contexto posprandial con resistencia a la insulina es la causa más frecuente de hipoglicemia reactiva. El insulinoma produce hipoglicemia de ayuno, no posprandial; la insulina exógena produce péptido C bajo; el feocromocitoma produce hiperglicemia, no hipoglicemia.
+**¿Cuál es la diferencia diagnóstica clave entre la hipoglicemia reactiva y la hipoglicemia de ayuno, y qué prueba de provocación corresponde a cada una?**
+
+A) La hipoglicemia reactiva ocurre en ayuno; la de ayuno ocurre posprandial. La prueba de provocación es el TTGO para ambas.
+B) La hipoglicemia reactiva ocurre 2-4 horas después de comer (posprandial); la de ayuno ocurre tras 4-6 o más horas sin ingesta. La primera se estudia con prueba de tolerancia a comida mixta; la segunda con prueba de ayuno prolongado supervisado.
+C) La hipoglicemia reactiva es siempre por insulinoma; la de ayuno es siempre por resistencia a la insulina. La prueba de elección es el TTGO para ambas.
+D) No existe diferencia clínica relevante; ambas se estudian con la misma prueba de provocación.
+E) La hipoglicemia reactiva solo ocurre en diabéticos; la de ayuno solo en no diabéticos.
+
+**Respuesta correcta: B** — La distinción temporal es la clave diagnóstica: la hipoglicemia reactiva ocurre 2-4 horas después de comer (posprandial), típicamente por hiperinsulinismo compensatorio en resistencia a la insulina. La hipoglicemia de ayuno ocurre tras 4-6 o más horas sin ingesta, típicamente por insulinoma u otras causas de hipersecreción autónoma. La prueba de tolerancia a comida mixta reproduce el contexto posprandial para objetivar la hipoglicemia reactiva; la prueba de ayuno prolongado supervisado es el método para objetivar la hipoglicemia de ayuno.
 
 ---

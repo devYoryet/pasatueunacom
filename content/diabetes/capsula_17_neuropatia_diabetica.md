@@ -55,20 +55,36 @@ Ptosis + midriasis + ojo desviado lateralmente = parálisis del nervio oculomoto
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre la neuropatía diabética es correcta?**
+**Una mujer de 63 años con diabetes mellitus tipo 2 de 15 años de evolución consulta por dolor en los pies que describe como "quemante", que empeora de noche y que le impide dormir. Refiere que el contacto de las sábanas con los pies le produce un dolor intenso. Al examen neurológico, la sensibilidad al dolor y a la temperatura está disminuida en ambos pies en distribución de calcetín. ¿Cuál es el diagnóstico y el tratamiento más apropiado?**
 
-A) El paracetamol es el analgésico de primera elección en la neuropatía dolorosa diabética por su perfil de seguridad favorable.
+A) Neuropatía amiotrófica diabética; tratamiento con fisioterapia y ejercicio de resistencia.
+B) Neuropatía sensitiva distal simétrica sin componente doloroso; tratamiento con paracetamol y antiinflamatorios no esteroidales.
+C) Neuropatía dolorosa diabética; tratamiento con duloxetina, pregabalina o antidepresivos tricíclicos en dosis bajas (evitar tricíclicos si adulto mayor).
+D) Síndrome del túnel carpiano diabético; tratamiento con férula nocturna y eventual cirugía de descompresión.
+E) Parálisis del III par craneal diabético; tratamiento con control metabólico estricto.
 
-B) La neuropatía amiotrófica diabética se caracteriza por atrofia muscular distal en distribución en guante y calcetín, igual que la neuropatía sensitiva.
+**Respuesta correcta: C** — El cuadro describe neuropatía dolorosa diabética: distribución en calcetín, dolor urente, alodinia (dolor con contacto de sábanas) e hiperalgesia. Los fármacos de primera línea son los antidepresivos duales (duloxetina, venlafaxina) y los gabapentinoides (pregabalina, gabapentina). Los tricíclicos son eficaces pero se evitan en adultos mayores. El paracetamol y los AINE no tienen eficacia en el dolor neuropático.
 
-C) Los antidepresivos tricíclicos en dosis bajas son eficaces para el dolor neuropático, pero deben evitarse en adultos mayores por riesgo de cardiotoxicidad y efectos anticolinérgicos.
+**Una paciente de 66 años con diabetes mellitus tipo 2 presenta dificultad para levantarse de sillas sin apoyo y para subir escaleras. Al examen hay atrofia marcada de ambos cuádriceps y debilidad proximal en extremidades inferiores. No hay alteración de la sensibilidad distal. ¿Qué forma de neuropatía diabética corresponde a este cuadro?**
 
-D) El diagnóstico de neuropatía diabética requiere siempre electromiografía para confirmarse, ya que la clínica es insuficiente.
+A) Neuropatía sensitiva distal simétrica, que en su fase avanzada compromete la musculatura distal de piernas.
+B) Neuropatía amiotrófica diabética, que se caracteriza por atrofia muscular de predominio proximal (cuádriceps, cintura escapular), a diferencia de la sensitiva que afecta distalmente.
+C) Síndrome del túnel carpiano bilateral, que produce debilidad en extremidades inferiores por compromiso del nervio cubital.
+D) Parálisis del IV par craneal diabético, que produce debilidad muscular proximal por disfunción del nervio troclear.
+E) Neuropatía autonómica, que produce debilidad por atrofia del sistema nervioso simpático que inerva los músculos proximales.
 
-E) La parálisis del VI par craneal en la diabetes produce ptosis palpebral y midriasis homolateral.
+**Respuesta correcta: B** — La neuropatía amiotrófica diabética se caracteriza específicamente por atrofia muscular de predominio proximal, con compromiso de cuádriceps y cintura escapular. Esto la distingue claramente de la neuropatía sensitiva distal simétrica (distribución en calcetín/guante, atrofia distal). La clínica de debilidad para subir escaleras y levantarse de sillas con atrofia de cuádriceps es el ejemplo clásico.
 
-**Respuesta correcta: C** — Los tricíclicos son eficaces en dosis bajas para el dolor neuropático, pero su cardiotoxicidad y perfil anticolinérgico los hace peligrosos en adultos mayores. El paracetamol no sirve para el dolor neuropático; la amiotrófica tiene atrofia proximal, no distal; el diagnóstico es clínico (la EMG es complementaria); y la parálisis del VI par produce desviación medial del ojo, no ptosis ni midriasis (eso es el III par).
+**Un paciente diabético de 58 años presenta de forma aguda visión doble, ptosis del párpado derecho y el ojo derecho desviado hacia afuera (lateral). La pupila del ojo derecho está dilatada (midriasis). ¿Qué par craneal está afectado y cuál es la causa probable?**
+
+A) Parálisis del VI par craneal (abducens); el ojo se desvía hacia lateral cuando falla el músculo recto lateral.
+B) Parálisis del IV par craneal (troclear); produce ptosis y midriasis porque el nervio troclear inerva el párpado.
+C) Parálisis del III par craneal (oculomotor); produce ptosis, midriasis y ojo desviado hacia lateral (externo) por paresia de los músculos que mueven el ojo hacia arriba, abajo y medial.
+D) Parálisis del II par craneal (óptico); produce pérdida visual sin movimiento anormal del ojo.
+E) Parálisis bilateral de los pares craneales VI y IV; la combinación produce el cuadro descrito.
+
+**Respuesta correcta: C** — La parálisis del III par craneal (nervio oculomotor) produce: ptosis palpebral (el nervio inerva el elevador del párpado), midriasis (inerva el constrictor pupilar), y desviación del ojo hacia afuera y abajo (al paralizarse los músculos que mueven el ojo hacia arriba, abajo y medial, predominan el recto lateral y el oblicuo superior). Es la neuropatía craneal más frecuente en la diabetes. El VI par (opción A) solo produce desviación medial del ojo sin ptosis ni midriasis.
 
 ---

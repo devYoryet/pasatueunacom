@@ -51,16 +51,36 @@ Esta secuencia de 5 pasos resume el algoritmo completo del tratamiento de la DM2
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre el tratamiento de la DM2 es correcta?**
+**Un hombre de 58 años con diabetes mellitus tipo 2 está en tratamiento con metformina 1 g cada 8 horas y sitagliptina 50 mg cada 12 horas, ambas en dosis máxima. Su HbA1c es 8,3%. No tiene hipoglicemias, su función renal es normal y no hay comorbilidades cardiovasculares. ¿Cuál es el siguiente paso terapéutico más adecuado?**
 
-A) La metformina se inicia solo cuando los cambios de estilo de vida no logran el objetivo de HbA1c después de 6 meses de prueba.
-B) En un paciente con DM2 y HbA1c de 9,5% con dos hipoglicemiantes en dosis máxima, la conducta correcta es agregar un tercer hipoglicemiante oral.
-C) En un paciente con DM2, infarto previo hace 3 meses y HbA1c sobre el objetivo, el segundo hipoglicemiante de elección es la glibenclamida por su bajo costo.
-D) Al iniciar insulina NPH en un paciente con DM2, la práctica habitual es mantener la metformina y suspender los demás hipoglicemiantes orales.
-E) La glibenclamida es el hipoglicemiante de elección en pacientes mayores de 75 años por su eficacia demostrada y bajo riesgo de hipoglicemia.
+A) Agregar un tercer hipoglicemiante oral (glibenclamida) porque aún no se han agotado todas las opciones orales.
+B) Iniciar insulina NPH nocturna a dosis de 10 unidades, manteniendo la metformina y suspendiendo la sitagliptina.
+C) Aumentar la dosis de sitagliptina a 200 mg/día para lograr mayor efecto.
+D) Cambiar la sitagliptina por glibenclamida para bajar el costo del tratamiento.
+E) Derivar al paciente a endocrinología y esperar 6 meses más antes de escalar el tratamiento.
 
-**Respuesta correcta: D** — Al agregar insulina NPH en DM2, la metformina se mantiene habitualmente por su efecto sinérgico y control de peso; los demás hipoglicemiantes (como la glibenclamida) se suspenden para simplificar el esquema y evitar hipoglicemias.
+**Respuesta correcta: B** — Con dos hipoglicemiantes orales en dosis máxima sin lograr el objetivo de HbA1c, el siguiente escalón del algoritmo es agregar insulina NPH nocturna (dosis inicial 10 UI). Al iniciar insulina, la práctica habitual es mantener la metformina (efecto sinérgico) y suspender los otros hipoglicemiantes. No existe dosis mayor a la máxima para la sitagliptina, y agregar un tercer oral no está en el algoritmo estándar.
+
+**Una mujer de 48 años recién diagnosticada con diabetes mellitus tipo 2 tiene HbA1c de 10,2% al diagnóstico. Está asintomática y sin complicaciones agudas. ¿Cuál es la conducta terapéutica más adecuada desde el inicio?**
+
+A) Iniciar solo cambios de estilo de vida por 3 meses y evaluar la HbA1c antes de agregar fármacos.
+B) Iniciar metformina sola y evaluar respuesta en 3 meses antes de escalar.
+C) Iniciar insulina NPH nocturna de inmediato, porque HbA1c > 9% obliga a insulina sin esperar escalones de hipoglicemiantes.
+D) Iniciar metformina más glibenclamida simultáneamente para lograr el objetivo rápidamente.
+E) Hospitalizar a la paciente para insulinoterapia intensiva hasta normalizar la HbA1c.
+
+**Respuesta correcta: C** — Una HbA1c > 9% es indicación directa de insulina, independientemente del escalón terapéutico en que esté el paciente y sin esperar a agotar los hipoglicemiantes orales. Se puede iniciar insulina NPH nocturna y mantener o agregar metformina en paralelo. La opción A y B retrasan innecesariamente el tratamiento en una paciente con mal control.
+
+**Una mujer de 54 años con diabetes mellitus tipo 2, infarto de miocardio hace 5 meses y HbA1c de 7,9% con metformina en dosis máxima. ¿Cuál es el segundo hipoglicemiante de elección en esta paciente?**
+
+A) Glibenclamida, porque es el hipoglicemiante más barato y eficaz como segunda línea.
+B) Sitagliptina (gliptina), porque tiene el mejor perfil de seguridad cardiovascular entre los hipoglicemiantes orales clásicos.
+C) Liraglutide (agonista GLP-1) o empagliflozina (iSGLT2), porque tienen beneficio cardiovascular demostrado en pacientes con enfermedad aterosclerótica establecida.
+D) Pioglitazona, porque reduce la resistencia a la insulina sin aumentar el riesgo de nuevo infarto.
+E) NPH nocturna de entrada, porque la enfermedad cardiovascular contraindica todos los hipoglicemiantes orales.
+
+**Respuesta correcta: C** — En pacientes con enfermedad cardiovascular aterosclerótica establecida (infarto previo, angina, enfermedad arterial periférica), los agonistas GLP-1 (liraglutide, semaglutide) y los iSGLT2 (empagliflozina, dapagliflozina) han demostrado reducir morbimortalidad cardiovascular y son el segundo hipoglicemiante de elección. La glibenclamida (opción A) no tiene este beneficio. La pioglitazona (opción D) tiene mayor riesgo de insuficiencia cardíaca. Los hipoglicemiantes orales no están contraindicados por enfermedad cardiovascular (opción E es incorrecta).
 
 ---

@@ -51,16 +51,36 @@ Las cuatro H del recién nacido hijo de madre diabética: Hipoglicemia neonatal,
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**Un recién nacido de término (39 semanas), hijo de madre con diabetes gestacional mal controlada, presenta a las 2 horas de vida temblores, palidez y succión débil. La glicemia capilar es 38 mg/dL. ¿Cuál es el mecanismo fisiopatológico que explica esta complicación?**
 
-A) La enfermedad de membrana hialina es exclusiva de los prematuros y no se asocia con la diabetes gestacional ni pregestacional.
-B) En el recién nacido hijo de madre diabética, la hipoglicemia neonatal se produce porque el páncreas fetal no ha tenido exposición a glucosa y aún no sabe secretar insulina.
-C) Toda mujer con diabetes pregestacional debe recibir ácido fólico en dosis de 4 mg/día para prevenir defectos del tubo neural.
-D) La diabetes gestacional indica cesárea electiva a las 38 semanas en todos los casos, independientemente del peso fetal estimado.
-E) El TTGO postparto en la mujer con diabetes gestacional es innecesario si la glicemia durante el embarazo se mantuvo bien controlada con insulina.
+A) El páncreas fetal no produjo insulina durante el embarazo y el neonato no puede regular su glicemia al nacer.
+B) La hipoglicemia se debe a la transferencia de insulina materna a través de la placenta durante el trabajo de parto.
+C) El páncreas fetal estuvo sobreestimulado por la hiperglicemia materna y producía exceso de insulina; al cortar el cordón desaparece el aporte de glucosa pero la hiperinsulinemia fetal persiste, causando hipoglicemia.
+D) La insulina NPH que recibió la madre durante el embarazo pasa al neonato y sigue actuando en las primeras horas de vida.
+E) El neonato tiene glucogenólisis hepática disminuida por inmadurez enzimática secundaria a la diabetes materna.
 
-**Respuesta correcta: C** — La diabetes pregestacional aumenta el riesgo de defectos del tubo neural, por lo que se indica ácido fólico a dosis de 4 mg/día (diez veces la dosis habitual), idealmente desde el período preconcepcional.
+**Respuesta correcta: C** — La hiperglicemia materna estimula crónicamente el páncreas fetal a producir exceso de insulina. Al nacer y cortar el cordón umbilical, el aporte de glucosa materno cesa abruptamente, pero la hiperinsulinemia fetal persiste durante horas, causando una caída brusca de la glicemia neonatal. El nadir ocurre habitualmente a las 2 horas de vida, que es cuando se debe controlar la glicemia en todo hijo de madre diabética.
+
+**Una mujer de 32 años con diabetes mellitus tipo 2 pregestacional planifica un embarazo. ¿Cuál es la dosis correcta de ácido fólico que debe recibir y cuál es la razón?**
+
+A) 0,4 mg/día, igual que toda embarazada, porque la dosis estándar previene los defectos del tubo neural de forma universal.
+B) 1 mg/día, porque la diabetes aumenta moderadamente el riesgo de malformaciones y requiere una dosis algo mayor.
+C) 4 mg/día (diez veces la dosis habitual), porque la diabetes pregestacional aumenta significativamente el riesgo de defectos del tubo neural como anencefalia y espina bífida.
+D) 4 mg/día, pero solo durante el primer mes del embarazo, ya que los defectos del tubo neural ocurren únicamente en la semana 3-4 de gestación.
+E) El ácido fólico no está indicado en diabéticas porque la metformina interfiere con su absorción intestinal.
+
+**Respuesta correcta: C** — Las mujeres con diabetes pregestacional deben recibir ácido fólico a dosis de 4 mg/día (diez veces la dosis estándar de 0,4 mg) porque la hiperglicemia durante la organogénesis aumenta el riesgo de defectos del tubo neural. Debe iniciarse antes de la concepción y mantenerse durante el primer trimestre, ya que los defectos ocurren en las primeras semanas cuando la mujer a veces aún no sabe que está embarazada.
+
+**Una mujer con diabetes gestacional bien controlada con insulina llega a la semana 39 de gestación. El peso fetal estimado por ecografía es 3.700 g. ¿Cuál es la conducta obstétrica correcta?**
+
+A) Cesárea electiva a las 39 semanas, porque toda diabética gestacional tiene indicación de cesárea para evitar complicaciones.
+B) Inducción inmediata a las 39 semanas, porque esperar más tiempo aumenta el riesgo de macrosomía y complicaciones.
+C) Parto vaginal si no hay otras contraindicaciones; la diabetes gestacional por sí sola no contraindica el parto vaginal; se puede ofrecer la interrupción desde las 39 semanas.
+D) Continuar el embarazo hasta las 42 semanas sin intervención porque el peso fetal es normal.
+E) Cesárea de urgencia porque el peso de 3.700 g ya es excesivo en una madre diabética.
+
+**Respuesta correcta: C** — La diabetes gestacional no contraindica el parto vaginal por sí sola. La vía vaginal se intenta en todos los casos, salvo macrosomía con peso estimado > 4.500 g, que sí indica cesárea electiva a las 39 semanas. Con un peso de 3.700 g y buen control, se puede ofrecer la interrupción desde las 39 semanas (no obligatoria hasta las 41). Esperar hasta las 42 semanas (opción D) aplica el mismo criterio que cualquier embarazo.
 
 ---

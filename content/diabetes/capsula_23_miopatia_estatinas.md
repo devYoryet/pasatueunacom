@@ -57,20 +57,36 @@ La regla de los fibratos: gemfibrozilo nunca con estatinas. Fenofibrato puede se
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre las miopatías por estatinas es correcta?**
+**Un hombre de 58 años en tratamiento con atorvastatina 40 mg/día consulta por dolor en los muslos de 3 semanas de evolución con fatiga muscular. No tiene fiebre ni trauma previo. La CK está levemente elevada (2 veces el límite normal). ¿Cuál es la conducta inicial correcta?**
 
-A) La CK debe medirse de forma rutinaria cada 3 meses en todos los pacientes que reciben estatinas, independientemente de la presencia de síntomas.
+A) Suspender inmediatamente la atorvastatina y cambiar a ezetimibe de forma definitiva dado que ya hay elevación de CK.
+B) Solicitar TSH y niveles de vitamina D para descartar hipotiroidismo y déficit vitamínico como causas alternativas de mialgia antes de atribuir los síntomas a la estatina.
+C) Aumentar la dosis de atorvastatina a 80 mg/día para lograr mayor beneficio cardiovascular; las mialgias son esperables y no requieren modificación del tratamiento.
+D) Agregar gemfibrozilo para mejorar el perfil lipídico y así permitir reducir la dosis de atorvastatina.
+E) Hospitalizar al paciente por riesgo de rabdomiólisis ante cualquier elevación de CK.
 
-B) La combinación de atorvastatina con fenofibrato está absolutamente contraindicada por el mismo riesgo de rabdomiólisis que la combinación con gemfibrozilo.
+**Respuesta correcta: B** — Ante una miopatía no severa (mialgias con CK levemente elevada), antes de suspender la estatina se deben descartar causas alternativas frecuentes y fácilmente tratables: hipotiroidismo (que por sí solo causa miopatía) y déficit de vitamina D. Solo si se descartan estas causas y la clínica apunta a la estatina, se procede a suspenderla. El gemfibrozilo (opción D) está desaconsejado con estatinas por riesgo de rabdomiólisis.
 
-C) En un paciente que desarrolla mialgia leve con CK ligeramente elevada bajo atorvastatina, la conducta correcta es primero descartar hipotiroidismo y déficit de vitamina D antes de suspender el fármaco.
+**Un paciente desarrolla rabdomiólisis confirmada mientras tomaba rosuvastatina 20 mg/día. Se suspende de inmediato. Una vez recuperado, necesita tratamiento hipolipemiante porque tiene alto riesgo cardiovascular. ¿Cuál es la conducta correcta?**
 
-D) Una vez que un paciente desarrolla rabdomiólisis por estatina, puede reiniciarse con una estatina de menor riesgo muscular como la fluvastatina a las 4 semanas.
+A) Reiniciar rosuvastatina a dosis baja (5 mg/día) tras 4 semanas de reposo, con monitorización estrecha de CK.
+B) Cambiar a fluvastatina o pravastatina (estatinas de menor riesgo muscular) en dosis bajas, que pueden reintentarse tras una miopatía no severa.
+C) Iniciar ezetimibe como única alternativa hipolipemiante, ya que tras una rabdomiólisis las estatinas están contraindicadas de forma definitiva.
+D) No tratar la dislipidemia farmacológicamente porque el riesgo de nueva rabdomiólisis supera el beneficio cardiovascular.
+E) Agregar gemfibrozilo al ezetimibe para potenciar la reducción del LDL.
 
-E) El ezetimibe es el fármaco de primera línea para el manejo del LDL alto, ya que tiene mayor potencia que las estatinas y no presenta riesgo muscular.
+**Respuesta correcta: C** — La rabdomiólisis es una forma severa de miopatía por estatina que implica suspensión definitiva e irreversible de todas las estatinas. No hay reintentos posibles con ninguna estatina, incluyendo las de menor miotoxicidad (fluvastatina, pravastatina), que son opciones tras miopatías no severas pero no tras rabdomiólisis. El ezetimibe, que actúa por un mecanismo completamente diferente sin efecto muscular, es la alternativa disponible. El gemfibrozilo (opción E) tampoco es adecuado en este contexto.
 
-**Respuesta correcta: C** — Ante una miopatía no severa, se deben buscar primero causas alternativas como hipotiroidismo o déficit de vitamina D antes de atribuir los síntomas a la estatina y suspenderla. La CK no se pide de rutina; el fenofibrato puede usarse con cautela (no está absolutamente contraindicado); la rabdomiólisis implica suspensión definitiva (no reinicio); y el ezetimibe es alternativa, no primera línea (las estatinas son más potentes).
+**¿Cuál es la diferencia clínicamente relevante entre combinar una estatina con gemfibrozilo versus combinar una estatina con fenofibrato?**
+
+A) Ambas combinaciones están absolutamente contraindicadas por igual riesgo de rabdomiólisis; no existe diferencia entre los dos fibratos.
+B) El gemfibrozilo inhibe el metabolismo hepático de las estatinas, elevando sus niveles plasmáticos y aumentando significativamente el riesgo de rabdomiólisis; la combinación debe evitarse. El fenofibrato tiene menos interacción y puede usarse con precaución en casos seleccionados con monitorización estrecha.
+C) El fenofibrato es más peligroso que el gemfibrozilo al combinarse con estatinas porque tiene mayor efecto sobre la CK muscular.
+D) No existe diferencia práctica entre ambos fibratos; la elección depende solo de la disponibilidad en el formulario.
+E) El gemfibrozilo puede combinarse libremente con estatinas; solo el fenofibrato está contraindicado por su mayor afinidad por el tejido muscular.
+
+**Respuesta correcta: B** — El gemfibrozilo inhibe enzimas hepáticas (glucuronidación) que metabolizan las estatinas, lo que eleva sus concentraciones plasmáticas y aumenta drásticamente el riesgo de rabdomiólisis. Por eso la combinación gemfibrozilo + estatina debe evitarse. El fenofibrato no tiene este efecto farmacológico relevante sobre el metabolismo de las estatinas y puede combinarse en casos seleccionados con monitorización estrecha de síntomas musculares y CK.
 
 ---

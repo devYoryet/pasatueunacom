@@ -102,7 +102,7 @@ function parseCapsule(filepath: string): ParsedCapsule | null {
 
   // Review questions: "## Pregunta de Autoevaluación"
   // Captures ALL question blocks in the section, each with full text + options
-  const pregStart = lines.findIndex(l => l.includes('## Pregunta de Autoevaluación'))
+  const pregStart = lines.findIndex(l => l.includes('## Pregunta de Autoevaluación') || l.includes('## Preguntas de Repaso'))
   const ai_review_qs: Array<{ pregunta: string; respuesta: string }> = []
   if (pregStart >= 0) {
     const sectionEnd = lines.findIndex((l, i) => i > pregStart && l.trim() === '---')

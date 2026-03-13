@@ -51,16 +51,36 @@ El corte para ajustar el objetivo de HbA1c es la edad de 75 años (o situaciones
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**¿En cuál de los siguientes pacientes diabéticos se acepta un objetivo de HbA1c de < 8% en lugar del objetivo estándar de < 7%?**
 
-A) El objetivo de hemoglobina glicosilada en todos los pacientes diabéticos es menor al 6,5%, independientemente de su edad o comorbilidades.
-B) La diabetes mellitus tipo 2 eleva directamente el colesterol LDL, por lo que el objetivo es mantenerlo bajo 100 mg/dL.
-C) En un paciente diabético de 80 años con hipoglicemias frecuentes, el objetivo de HbA1c se relaja a menos del 8%.
-D) La hemoglobina glicosilada debe solicitarse una vez al año en todos los pacientes diabéticos, independientemente del nivel de control.
-E) El objetivo de presión arterial en diabéticos sin nefropatía es siempre menor a 160/90 mmHg según todas las guías internacionales.
+A) Un hombre de 45 años con diabetes tipo 2 de 3 años de evolución, activo laboralmente, sin complicaciones.
+B) Una mujer de 60 años con nefropatía diabética incipiente y presión arterial mal controlada.
+C) Un hombre de 78 años con episodios frecuentes de hipoglicemia severa y expectativa de vida reducida por insuficiencia cardíaca avanzada.
+D) Un paciente de 50 años con retinopatía diabética proliferativa en tratamiento con láser.
+E) Un paciente con diabetes tipo 1 de 30 años de evolución con buen control previo.
 
-**Respuesta correcta: C** — En pacientes mayores de 75 años, con hipoglicemias frecuentes o con expectativa de vida menor a 10 años, el objetivo de HbA1c se relaja a < 8% para minimizar el riesgo de hipoglicemias sin pérdida significativa de beneficio a largo plazo.
+**Respuesta correcta: C** — Se acepta objetivo de HbA1c < 8% (en lugar de < 7%) en cuatro situaciones: hipoglicemias frecuentes o severas, niños pequeños, expectativa de vida < 10 años, y pacientes mayores de 75 años. El paciente de 78 años cumple múltiples criterios: edad > 75, hipoglicemias frecuentes y comorbilidad grave. Las demás opciones corresponden a pacientes que se benefician del control estricto < 7%.
+
+**Un paciente diabético de 55 años está estable con HbA1c de 6,8%. En un control de rutina su médico le informa que su LDL es de 98 mg/dL. ¿Cuál es la conducta correcta respecto al colesterol?**
+
+A) No se requiere tratamiento porque el LDL está bajo 100 mg/dL y el paciente está bien controlado metabólicamente.
+B) Iniciar estatinas con objetivo de LDL < 70 mg/dL, porque los pacientes diabéticos son de máximo riesgo cardiovascular independientemente del valor basal de LDL.
+C) Pedir el score de Framingham y tratar solo si el riesgo cardiovascular a 10 años supera el 20%.
+D) Esperar a que el LDL supere 130 mg/dL antes de iniciar estatinas, ya que la diabetes por sí sola no eleva el colesterol.
+E) Iniciar fibratos porque la alteración lipídica más característica de la diabetes es la hipertrigliceridemia.
+
+**Respuesta correcta: B** — Los pacientes diabéticos tienen riesgo cardiovascular máximo (equivalente a haber tenido un infarto). Por eso tienen indicación de estatinas independientemente del valor de LDL basal, con objetivo de LDL < 70 mg/dL. No es necesario calcular el Framingham. Aunque la diabetes no eleva directamente el LDL (opción D es parcialmente correcta en ese dato), el LDL en un diabético debe mantenerse bajo 70 mg/dL.
+
+**Una mujer de 52 años con diabetes tipo 2 tiene una HbA1c de 6,7% en tratamiento con metformina. En el mismo control su presión arterial es 145/88 mmHg. Tiene microalbuminuria confirmada. ¿Cuál es la meta tensional correcta y qué información aporta la HbA1c?**
+
+A) La meta tensional es < 140/90 mmHg; la HbA1c refleja las glicemias de la última semana.
+B) La meta tensional es < 130/80 mmHg; la HbA1c refleja el promedio glucémico de los últimos 2-3 meses y no puede alterarse con ayuno de un día.
+C) La meta tensional es < 130/80 mmHg solo si hay macroalbuminuria; con microalbuminuria basta con < 140/90 mmHg.
+D) La HbA1c de 6,7% indica que el control es demasiado estricto y se debe relajar el objetivo; la meta tensional es < 150/90 mmHg.
+E) Con HbA1c < 7%, la presión arterial ya no es prioritaria en el manejo del paciente diabético.
+
+**Respuesta correcta: B** — En presencia de nefropatía diabética (incluyendo microalbuminuria), la meta tensional es < 130/80 mmHg. La HbA1c refleja el promedio glucémico de los 2-3 meses previos y no puede trucarse con un ayuno reciente; esta es su ventaja sobre la glicemia de ayuno aislada. La opción C es incorrecta porque la meta de 130/80 aplica desde la microalbuminuria.
 
 ---

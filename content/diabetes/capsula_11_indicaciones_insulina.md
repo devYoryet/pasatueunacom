@@ -48,16 +48,36 @@ Finalmente, la **neuropatía diabética dolorosa** y la **neuropatía amiotrófi
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre las indicaciones de insulina es correcta?**
+**¿Cuál de los siguientes pacientes tiene indicación absoluta de insulina como tratamiento de primera línea, sin posibilidad de intentar hipoglicemiantes orales?**
 
-A) En la diabetes mellitus tipo 1, se puede intentar el manejo con metformina como primera línea antes de iniciar insulina.
-B) Un paciente con DM2 en tratamiento con metformina y glibenclamida en dosis máxima, con HbA1c del 8,5% y clearance de creatinina de 25 mL/min, debe iniciar insulina NPH.
-C) La cetoacidosis diabética se maneja con insulina NPH subcutánea en dosis alta una vez al día.
-D) La insulina en el paciente hospitalizado por condición grave se administra en bolo cada 24 horas según el hemoglucotest matinal.
-E) La diabetes inducida por corticoides no requiere insulina, ya que los hipoglicemiantes orales son suficientes para su control.
+A) Un hombre de 55 años con diabetes mellitus tipo 2 diagnosticada hace 6 meses, HbA1c 8,5%, IMC 32.
+B) Una mujer de 28 años con diabetes mellitus tipo 1 diagnosticada hace 2 semanas con glicemia de 380 mg/dL.
+C) Un hombre de 62 años con diabetes mellitus tipo 2 y HbA1c 9,2% sin tratamiento previo.
+D) Una mujer de 70 años con diabetes mellitus tipo 2 y clearance de creatinina de 28 mL/min que ya agotó los hipoglicemiantes.
+E) Un paciente con diabetes gestacional que no logró control con dieta por 3 semanas.
 
-**Respuesta correcta: B** — Con clearance < 30 mL/min, la metformina y muchos hipoglicemiantes están contraindicados; sumado a HbA1c sobre el objetivo con dos fármacos en dosis máxima, la indicación de insulina NPH es clara.
+**Respuesta correcta: B** — La diabetes mellitus tipo 1 requiere siempre insulina porque hay destrucción autoinmune de las células beta: sin producción endógena de insulina, los hipoglicemiantes orales no tienen células que estimular ni resistencia que reducir. El esquema es intensificado (insulina basal + bolos preprandiales). Las opciones C, D y E también pueden tener indicación de insulina, pero no es absoluta de primera línea; en la tipo 1, en cambio, no hay otra alternativa.
+
+**Un paciente con diabetes mellitus tipo 1 de 20 años de evolución llega a urgencias con glicemia de 520 mg/dL, pH 7,05, bicarbonato 5 mEq/L y cuerpos cetónicos positivos en orina. ¿Cuál es el esquema insulínico correcto para manejar esta emergencia?**
+
+A) Insulina NPH subcutánea cada 12 horas en dosis alta hasta resolver la cetoacidosis.
+B) Insulina cristalina endovenosa: bolo inicial de 0,1 U/kg seguido de goteo continuo a la misma dosis por hora.
+C) Insulina glargina subcutánea nocturna en dosis aumentada, más cristalina preprandial aumentada.
+D) Insulina ultrarápida subcutánea cada 2 horas hasta bajar la glicemia bajo 200 mg/dL.
+E) Suspender toda insulina hasta corregir el pH con bicarbonato endovenoso, luego reiniciar el esquema habitual.
+
+**Respuesta correcta: B** — En la cetoacidosis diabética y el síndrome hiperglicémico hiperosmolar, la vía de administración de insulina es endovenosa y el tipo es insulina cristalina. Se administra un bolo inicial de 0,1 U/kg y luego goteo continuo a la misma dosis/hora. La insulina NPH subcutánea (opción A) no tiene la titulación necesaria para manejar una emergencia hiperglucémica. La glargina (opción C) es para el manejo ambulatorio crónico.
+
+**¿Cuál de las siguientes situaciones representa una indicación de insulina en un paciente con diabetes mellitus tipo 2 que actualmente está bien controlado con hipoglicemiantes orales?**
+
+A) HbA1c de 7,5% con metformina y glipizida en dosis medias; el médico quiere simplificar el esquema.
+B) Hospitalización programada por colecistectomía laparoscópica electiva en un paciente con buen control previo.
+C) Aparición de hiperglicemia de 310 mg/dL documentada durante el inicio de un tratamiento con prednisona 40 mg/día por brote de artritis reumatoide.
+D) Presencia de neuropatía sensitiva distal en un paciente bien controlado con HbA1c de 6,8%.
+E) Diagnóstico de hipertensión arterial asociada que requiere iniciar IECA, lo que podría interactuar con la metformina.
+
+**Respuesta correcta: C** — La diabetes inducida por corticoides es una indicación de insulina. Los corticoides generan hiperglicemia predominantemente postprandial mediante resistencia a la insulina. La insulina (generalmente NPH matutina o cristalina postprandial) es el manejo de elección en este contexto porque los hipoglicemiantes orales frecuentemente son insuficientes para controlar la hiperglicemia inducida por corticoides en dosis altas. Las opciones A, D y E no son indicaciones de insulina. La opción B puede manejarse con el esquema habitual si es cirugía electiva de bajo riesgo.
 
 ---

@@ -51,16 +51,36 @@ El betabloqueador tapa los síntomas simpáticos (taquicardia, temblor, sudor) q
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta respecto al manejo antihipertensivo en el paciente diabético?**
+**Un hombre de 64 años con diabetes mellitus tipo 2 de 12 años de evolución tiene presión arterial de 152/94 mmHg y un RAC de 85 mg/g en muestra de orina aislada. ¿Cuál es la meta tensional y el antihipertensivo de primera elección?**
 
-A) El Amlodipino es el fármaco de primera elección porque disminuye la albuminuria en la nefropatía diabética.
-B) Los betabloqueadores están absolutamente contraindicados en el paciente diabético hipertenso.
-C) En el diabético con nefropatía establecida, el objetivo tensional es menor a 130/80 mmHg y el tratamiento de elección son los IECA o ARA-2. ✓
-D) Las tiazidas son el fármaco de primera línea en el diabético mal controlado por su neutralidad metabólica.
-E) El Diltiazem está contraindicado en el diabético por aumentar la resistencia a la insulina.
+A) Meta < 140/90 mmHg; Amlodipino como primera línea por su neutralidad metabólica.
+B) Meta < 130/80 mmHg; IECA (enalapril) o ARA-2 (losartán) como primera línea por su efecto antiproteinúrico renoprotector.
+C) Meta < 130/80 mmHg; Diltiazem como primera línea porque tiene mayor efecto antiproteinúrico que los IECA.
+D) Meta < 140/90 mmHg; betabloqueadores como primera línea porque tienen evidencia en la reducción de morbimortalidad cardiovascular.
+E) Meta < 150/90 mmHg; tiazidas como primera línea por ser el antihipertensivo más económico y con mejor evidencia poblacional.
 
-**Respuesta correcta: C** — En presencia de nefropatía diabética (microalbuminuria, macroalbuminuria o caída del clearance), la meta tensional es obligatoriamente 130/80 mmHg, y los IECA o ARA-2 son de elección por su capacidad de reducir la proteinuria y frenar la progresión del daño renal.
+**Respuesta correcta: B** — Con nefropatía diabética (RAC > 30 mg/g = microalbuminuria), la meta tensional es obligatoriamente < 130/80 mmHg. Los IECA o ARA-2 son los fármacos de primera elección porque además de reducir la presión arterial tienen un efecto antiproteinúrico demostrado que frena la progresión del daño renal. El Diltiazem tiene efecto antiproteinúrico complementario pero no es de primera línea; se agrega cuando con IECA/ARA-2 a dosis máximas persiste la albuminuria.
+
+**Una mujer de 58 años con diabetes mellitus tipo 2 está en tratamiento con enalapril 10 mg al día y su presión es de 138/86 mmHg con microalbuminuria persistente. Se decide agregar un segundo antihipertensivo. ¿Cuál es el más adecuado en este contexto?**
+
+A) Losartán (ARA-2), porque la combinación IECA + ARA-2 potencia el efecto antiproteinúrico.
+B) Atenolol (betabloqueador), porque tiene efecto cardioprotector demostrado y puede agregarse sin problemas.
+C) Diltiazem (bloqueador del calcio no dihidropiridínico), porque tiene efecto antiproteinúrico complementario cuando los IECA no logran controlar la albuminuria.
+D) Hidroclorotiazida (tiazida), porque es el complemento clásico para los IECA en la hipertensión.
+E) Amlodipino (bloqueador dihidropiridínico), porque es el complemento más eficaz en la nefropatía diabética.
+
+**Respuesta correcta: C** — Cuando con IECA a dosis plena la presión y la albuminuria persisten, el complemento de elección en presencia de albuminuria es el Diltiazem, porque tiene efecto antiproteinúrico adicional. La combinación IECA + ARA-2 (opción A) aumenta el riesgo de hiperpotasemia sin agregar beneficio claro y no se recomienda. El atenolol (opción B) enmascara los síntomas de hipoglicemia. El Amlodipino (opción E) es neutro y útil sin albuminuria, pero cuando hay albuminuria el Diltiazem es superior.
+
+**Un hombre de 70 años con diabetes mellitus tipo 2 y angina estable severa que no responde al tratamiento con nitratos. Su médico considera agregar un betabloqueador. ¿Es esto correcto en un paciente diabético?**
+
+A) No, los betabloqueadores están absolutamente contraindicados en todos los pacientes diabéticos sin excepción.
+B) No, los betabloqueadores son innecesarios en la angina porque los IECA ya tienen efecto cardioprotector.
+C) Sí, cuando el beneficio cardiovascular del betabloqueador supera el riesgo de enmascarar la hipoglicemia, la indicación es válida; se debe informar al paciente de la pérdida de los síntomas de alarma.
+D) Solo si el paciente no usa insulina, ya que el problema del enmascaramiento aplica exclusivamente a los insulinizados.
+E) Solo si se usa un betabloqueador cardioselectivo, que no tiene ningún efecto sobre los síntomas de hipoglicemia.
+
+**Respuesta correcta: C** — Los betabloqueadores no están absolutamente contraindicados en diabéticos; tienen una indicación cardiovascular real que puede justificar su uso. En ese caso, se deben ponderar los beneficios (cardioprotección) versus el riesgo (enmascaramiento de síntomas simpáticomiméticos de la hipoglicemia). El paciente debe ser informado de que puede no sentir los síntomas de alarma antes de un episodio de hipoglicemia. Los betabloqueadores cardioselectivos reducen (pero no eliminan) el efecto sobre los síntomas de hipoglicemia.
 
 ---

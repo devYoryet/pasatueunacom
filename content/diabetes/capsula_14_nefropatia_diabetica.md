@@ -51,16 +51,36 @@ IECA (o ARA-2) son primera línea para reducir la albuminuria. Diltiazem actúa 
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta sobre el diagnóstico de nefropatía diabética?**
+**¿Cuál de los siguientes valores del índice de albuminuria-creatininuria (RAC) en muestra aislada de orina corresponde al diagnóstico de microalbuminuria?**
 
-A) La macroalbuminuria se define por una pérdida de albúmina entre 10 y 30 mg al día.
-B) La orina de 24 horas es el examen actualmente recomendado para cuantificar la albuminuria por su mayor precisión.
-C) Un índice de albuminuria-creatininuria (RAC) mayor a 30 mg/g en una muestra aislada de orina es diagnóstico de microalbuminuria. ✓
-D) La presencia de proteinuria mayor a 3 g/día en un diabético confirma el diagnóstico de nefropatía diabética típica.
-E) El Amlodipino es el fármaco de elección para reducir la proteinuria en la nefropatía diabética.
+A) RAC > 10 mg/g, porque cualquier pérdida de albúmina sobre lo normal indica daño renal precoz.
+B) RAC > 30 mg/g, que equivale a una pérdida de albúmina entre 30 y 300 mg/día.
+C) RAC > 300 mg/g, que corresponde al umbral de macroalbuminuria y es cuando se trata la nefropatía.
+D) RAC > 3 mg/g, porque en el diabético cualquier pérdida de albúmina es patológica.
+E) RAC > 150 mg/g, porque ese es el valor que corresponde al punto intermedio entre micro y macroalbuminuria.
 
-**Respuesta correcta: C** — El RAC en muestra aislada mayor a 30 mg/g (o mayor a 0,03 mg/mg) diagnostica microalbuminuria y es el método actualmente recomendado por su practicidad. Una proteinuria mayor a 3 g/día obliga a sospechar glomerulopatía membranosa, no nefropatía diabética típica.
+**Respuesta correcta: B** — La microalbuminuria se define por pérdida de albúmina entre 30 y 300 mg/día. El RAC en muestra aislada mayor a 30 mg/g es el método actualmente recomendado para su diagnóstico por ser práctico y reproducible. Por debajo de 30 es normal. Sobre 300 mg/g (o mg/día) ya es macroalbuminuria. Sobre 3.000 mg/día (3 g/día) corresponde a proteinuria en rango nefrótico, que obliga a sospechar otra causa (glomerulopatía membranosa).
+
+**Un paciente diabético de 61 años tiene proteinuria de 7,5 g/día, edema periférico y albúmina sérica de 2,1 g/dL. ¿Cuál es la interpretación diagnóstica más adecuada?**
+
+A) Nefropatía diabética típica en estadio avanzado: así se presenta cuando la diabetes no ha sido bien controlada durante años.
+B) La proteinuria mayor a 3 g/día en un diabético confirma el diagnóstico de nefropatía diabética con síndrome nefrótico, y se trata con IECA en dosis altas.
+C) Este cuadro no corresponde a nefropatía diabética típica; la proteinuria > 3 g/día con síndrome nefrótico completo en un diabético obliga a sospechar glomerulopatía membranosa y solicitar biopsia renal.
+D) El síndrome nefrótico en diabéticos es causado siempre por la hiperosmolaridad crónica y no requiere biopsia.
+E) El cuadro es compatible con amiloidosis renal; se confirma con ANCA y anticuerpos antimembrana basal glomerular.
+
+**Respuesta correcta: C** — La nefropatía diabética típica progresa lentamente desde microalbuminuria y raramente debuta con síndrome nefrótico franco. Una proteinuria > 3 g/día con síndrome nefrótico completo en un diabético debe hacer sospechar una glomerulopatía membranosa (nefropatía extramembranosa), que se asocia a diabetes y requiere confirmación con biopsia renal. No se debe asumir que todo compromiso renal en un diabético es nefropatía diabética.
+
+**¿Cuál es el pilar de tratamiento más importante para frenar la progresión de la nefropatía diabética, y cuál es el fármaco de elección para reducir la proteinuria?**
+
+A) El control glucémico estricto (HbA1c < 7%) es el único pilar; los fármacos antihipertensivos no tienen efecto específico sobre la proteinuria.
+B) El control de la presión arterial (meta < 130/80 mmHg) es más importante que el control glucémico para frenar la progresión; los IECA o ARA-2 son de elección por su efecto antiproteinúrico.
+C) La restricción proteica en la dieta es el tratamiento más efectivo para reducir la proteinuria; los fármacos son complementarios.
+D) El Amlodipino es el fármaco de elección porque es el bloqueador del calcio con mayor efecto antiproteinúrico demostrado.
+E) La combinación de IECA + ARA-2 es el estándar de oro para reducir la proteinuria, con mayor eficacia que cualquiera de los dos solos.
+
+**Respuesta correcta: B** — En la nefropatía diabética, el control de la presión arterial tiene mayor impacto sobre la progresión que el control glucémico. Los IECA (enalapril) o ARA-2 (losartán) son los fármacos de primera línea por su doble efecto: reducen la presión y la proteinuria. La combinación IECA + ARA-2 (opción E) no se recomienda porque aumenta la hiperpotasemia sin beneficio clínico adicional. El Amlodipino (opción D) es neutro en la proteinuria; el complemento antiproteinúrico es el Diltiazem.
 
 ---

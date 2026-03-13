@@ -59,16 +59,36 @@ La tipo 1 destruye (autoinmune), la tipo 2 resiste (insulina). Con solo esas dos
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**¿Cuál de los siguientes hallazgos orientaría más fuertemente hacia un diagnóstico de diabetes MODY en un paciente joven?**
 
-A) La diabetes tipo 1 es la forma más frecuente de diabetes mellitus y se asocia principalmente a obesidad.
-B) La diabetes MODY tiene herencia autosómica recesiva y afecta exclusivamente a personas mayores de 50 años.
-C) La diabetes LADA es de etiología autoinmune, se presenta en adultos y no responde a los hipoglicemiantes orales.
-D) El péptido C se encontrará elevado en pacientes con diabetes tipo 1 porque el páncreas hipersecreta insulina compensatoriamente.
-E) Los corticoides generan diabetes al estimular directamente la secreción de insulina pancreática.
+A) Debut con cetoacidosis diabética a los 17 años y ausencia de antecedentes familiares de diabetes.
+B) Diabetes diagnosticada a los 22 años en una persona normopeso, con madre y abuelo materno diabéticos diagnosticados antes de los 30 años, también sin obesidad.
+C) Adulto de 35 años que no responde a metformina en dosis máxima, con antecedente de vitíligo.
+D) Niño de 8 años con polidipsia, poliuria y glicemia de 450 mg/dL, sin antecedentes familiares.
+E) Paciente con síndrome de Cushing y glicemia en ayuno de 135 mg/dL en tratamiento con corticoides.
 
-**Respuesta correcta: C** — La diabetes LADA comparte el mecanismo autoinmune de la tipo 1 pero aparece en adultos con un curso más indolente; al igual que la tipo 1, no responde a los hipoglicemiantes orales y su manejo es con insulina.
+**Respuesta correcta: B** — La MODY se caracteriza por herencia autosómica dominante (la enfermedad aparece en múltiples generaciones sin saltar ninguna), debut en personas jóvenes y normopeso, y ausencia de obesidad o síndrome metabólico. La opción A describe una presentación clásica de DM tipo 1. La opción C orienta a LADA (adulto, autoinmunidad, resistencia a orales). La opción D es una presentación típica de DM tipo 1 en niño. La opción E es diabetes secundaria a corticoides.
+
+**¿Un hombre de 38 años, IMC 22, es derivado por fracaso a metformina en dosis máxima luego de 18 meses de tratamiento. Tiene antecedente de hipotiroidismo autoinmune. ¿Cuál es el diagnóstico más probable y qué exámenes confirmarían la sospecha?**
+
+A) Diabetes mellitus tipo 2 mal adherente al tratamiento; solicitar HbA1c y fondo de ojo.
+B) Diabetes MODY; solicitar estudio genético de mutaciones monogénicas.
+C) Diabetes LADA; solicitar péptido C (esperado bajo) y anticuerpos anti-GAD, anti-insulina, anti-IA2.
+D) Diabetes inducida por hipotiroidismo; tratar el hipotiroidismo y reevaluar sin cambiar el esquema.
+E) Diabetes tipo 1 de inicio tardío sin necesidad de estudios adicionales; iniciar insulina empíricamente.
+
+**Respuesta correcta: C** — El perfil de adulto joven normopeso con otra enfermedad autoinmune y fracaso a hipoglicemiantes orales es el patrón clásico de LADA. El péptido C bajo confirmaría la destrucción de células beta, y los anticuerpos confirmarían la etiología autoinmune. La MODY (opción B) tiene patrón familiar dominante, no autoinmunidad. La opción D es incorrecta porque el hipotiroidismo eleva el LDL, no produce diabetes de base.
+
+**¿Cuál de las siguientes afirmaciones sobre el péptido C es correcta en el contexto de la clasificación de los tipos de diabetes?**
+
+A) El péptido C estará elevado en un paciente con diabetes tipo 1 de larga data porque el páncreas compensa la resistencia periférica hipersecretando insulina.
+B) El péptido C bajo en un paciente con diabetes indica necesariamente que recibe insulina exógena.
+C) Un péptido C elevado en un paciente con diabetes orienta hacia formas con reserva pancreática preservada, como la DM tipo 2 o la MODY, y hace menos probable una etiología autoinmune.
+D) El péptido C es un marcador de autoinmunidad y su positividad confirma diabetes LADA.
+E) El péptido C no tiene utilidad clínica porque sus valores se superponen entre todos los tipos de diabetes.
+
+**Respuesta correcta: C** — El péptido C mide la secreción endógena de insulina. Estará elevado cuando el páncreas hipersecreta (DM tipo 2 con resistencia insulínica, MODY) y disminuido cuando hay destrucción de células beta (DM tipo 1, LADA) o daño pancreático estructural. No es marcador de autoinmunidad (eso son los anticuerpos anti-GAD, anti-IA2, etc.), y tampoco confirma por sí solo la presencia de insulina exógena, aunque sí orienta hacia ella cuando está bajo junto a insulina elevada.
 
 ---

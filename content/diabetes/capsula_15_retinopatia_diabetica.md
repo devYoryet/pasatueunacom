@@ -51,20 +51,36 @@ Fotocoagulación láser destruye los vasos anómalos. Ranibizumab (antiangiogén
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre la retinopatía diabética es correcta?**
+**¿Cuál es la secuencia correcta de las lesiones que aparecen en el fondo de ojo durante la progresión de la retinopatía diabética no proliferativa?**
 
-A) El edema macular solo se produce en la retinopatía diabética proliferativa avanzada, nunca en la no proliferativa.
+A) Neovasos → microaneurismas → exudados algodonosos → exudados serosos amarillos.
+B) Exudados serosos amarillos → microaneurismas → exudados algodonosos (microinfartos blancos).
+C) Exudados algodonosos blancos → hemorragia vítrea → microaneurismas rojos.
+D) Microaneurismas rojos → neovasos → hemorragia vítrea → exudados serosos.
+E) Exudados serosos amarillos → neovasos → microaneurismas → exudados algodonosos.
 
-B) Los exudados algodonosos corresponden a depósitos lipídicos que salen del plasma hacia la retina y se reconocen por su color amarillento.
+**Respuesta correcta: B** — La secuencia de la retinopatía no proliferativa comienza con exudados serosos (plasma que fuga hacia la retina, visibles como manchas amarillas), luego se forman microaneurismas (dilataciones capilares, puntos rojos), que pueden romperse (microhemorragias) o trombosarse causando microinfartos de retina, que se ven como exudados algodonosos (manchas blancas, no amarillas). Los neovasos definen la transición a la etapa proliferativa.
 
-C) La hemorragia vítrea se caracteriza por pérdida súbita de visión y pérdida del reflejo rojo pupilar, y ocurre cuando se rompe un neovaso de la retinopatía proliferativa.
+**Una mujer de 67 años con diabetes mellitus tipo 2 de 22 años de evolución, con glicemias habitualmente mal controladas, se despierta una mañana sin poder ver con el ojo izquierdo. Refiere que la noche anterior veía normalmente. Al examen se constata ausencia del reflejo rojo pupilar en ese ojo. ¿Cuál es el diagnóstico más probable y cuál es el manejo inicial?**
 
-D) El fondo de ojo requerido para el tamizaje de la retinopatía diabética puede realizarse con el oftalmoscopio de mano sin necesidad de dilatar la pupila.
+A) Oclusión de arteria central de la retina; derivación urgente a oftalmología para tratamiento trombolítico.
+B) Desprendimiento de retina agudo; derivación urgente para cirugía de retina.
+C) Hemorragia vítrea por rotura de neovaso en retinopatía proliferativa; manejo inicial con observación y derivación a oftalmología para vitrectomía si no se reabsorbe.
+D) Edema macular agudo; derivación para fotocoagulación láser de urgencia.
+E) Glaucoma agudo de ángulo cerrado; derivación urgente para descompresión con acetazolamida y láser.
 
-E) La fotocoagulación láser está absolutamente contraindicada cuando los neovasos están cerca de la mácula por riesgo de ceguera total.
+**Respuesta correcta: C** — La pérdida súbita de visión con ausencia del reflejo rojo pupilar en un diabético con larga evolución es el cuadro clásico de hemorragia vítrea por rotura de un neovaso de la retinopatía proliferativa. La sangre acumulada en el vítreo impide que la luz llegue a la retina y se refleje (pérdida del reflejo rojo). El manejo inicial es observación esperando reabsorción espontánea; si no se reabsorbe o es bilateral, se realiza vitrectomía.
 
-**Respuesta correcta: C** — La hemorragia vítrea es la complicación más grave de la retinopatía proliferativa. Ocurre cuando un neovaso frágil se rompe y sangra hacia el vítreo, produciendo amaurosis súbita y pérdida del reflejo rojo pupilar. El edema macular puede ocurrir desde la etapa no proliferativa; los exudados algodonosos son microinfartos (blancos, no amarillos); el tamizaje requiere dilatación pupilar y equipo especializado.
+**¿Cuál es la frecuencia correcta del fondo de ojo de seguimiento y cuáles son las características técnicas del examen requerido para el tamizaje de retinopatía diabética?**
+
+A) Cada 5 años en diabéticos sin retinopatía; puede realizarse con oftalmoscopio de mano sin dilatación pupilar.
+B) Anualmente en todo diabético; requiere dilatación pupilar y cámara fotográfica especializada. Con retinopatía presente, control cada 3-6 meses.
+C) Cada 2 años en todo diabético independientemente de si hay o no retinopatía; el oftalmoscopio de mano es suficiente.
+D) Solo cuando el paciente refiere síntomas visuales; el tamizaje asintomático no está indicado en diabéticos bien controlados.
+E) Anualmente solo en diabéticos tipo 1; los tipo 2 se tamizan cada 3 años por tener menor riesgo de retinopatía.
+
+**Respuesta correcta: B** — Todo paciente diabético debe realizarse un fondo de ojo especializado anualmente. El examen requiere dilatación pupilar y cámara fotográfica que captura la retina completa; no es válido el oftalmoscopio de mano de cabecera. Si el resultado es normal, puede espaciarse a cada 2 años. Una vez detectada cualquier grado de retinopatía, el seguimiento se intensifica a cada 3-6 meses según la severidad.
 
 ---

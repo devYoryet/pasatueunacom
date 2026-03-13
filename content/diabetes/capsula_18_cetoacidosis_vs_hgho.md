@@ -59,20 +59,36 @@ Respiración profunda y lenta = el pulmón compensa la acidosis metabólica expi
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones diferencia correctamente la cetoacidosis diabética del síndrome hiperglicémico hiperosmolar?**
+**Una adolescente de 15 años con diabetes mellitus tipo 1 llega a urgencias con 2 días de evolución de vómitos, dolor abdominal y sed intensa. Al examen está taquicárdica, su aliento huele a acetona y respira profundo y lentamente de forma regular. Glicemia: 420 mg/dL, pH arterial: 7,18, bicarbonato: 9 mEq/L, anión gap: 24. ¿Qué hallazgo explica el patrón respiratorio observado?**
 
-A) La cetoacidosis es exclusiva de la diabetes tipo 2 y el síndrome hiperosmolar de la diabetes tipo 1.
+A) La hiperventilación compensatoria se produce porque la taquicardia secundaria a la deshidratación estimula el centro respiratorio a aumentar la frecuencia respiratoria.
+B) La respiración de Kussmaul es una ventilación profunda y lenta que el pulmón utiliza para eliminar CO2 y compensar la acidosis metabólica, elevando el pH sanguíneo.
+C) La respiración de Kussmaul indica que hay compromiso del tronco cerebral por la hiperosmolaridad, lo que desregula el patrón respiratorio.
+D) La taquipnea se debe a la aspiración de vómitos que produjo una neumonía aspirativa, que es la causa real del cuadro.
+E) El patrón respiratorio profundo y lento refleja sedación por los cuerpos cetónicos que actúan sobre el sistema nervioso central.
 
-B) El síndrome hiperglicémico hiperosmolar se diagnostica con una glicemia mayor a 600 mg/dL y osmolaridad plasmática efectiva mayor a 320 mOsm/L, sin requerir acidosis ni cetonemia.
+**Respuesta correcta: B** — La respiración de Kussmaul es la respiración profunda, lenta y regular que ocurre en la cetoacidosis diabética como mecanismo compensatorio respiratorio de la acidosis metabólica: el pulmón exhala CO2 para elevar el pH, ya que CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3- (al bajar el CO2, baja la concentración de H+ y sube el pH). No es hiperventilación por taquicardia ni indica compromiso del tronco cerebral.
 
-C) La respiración de Kussmaul es característica del síndrome hiperglicémico hiperosmolar, ya que la deshidratación estimula el centro respiratorio.
+**¿Cuáles son los criterios diagnósticos que permiten distinguir el síndrome hiperglicémico hiperosmolar (HGHO) de la cetoacidosis diabética (CAD)?**
 
-D) El anión gap en la cetoacidosis suele estar disminuido porque el bicarbonato compensa la acidosis metabólica.
+A) El HGHO se diagnostica con glicemia > 250 mg/dL y pH < 7,3, igual que la CAD pero con mayor compromiso de conciencia.
+B) La CAD requiere glicemia > 600 mg/dL, cuerpos cetónicos y acidosis metabólica; el HGHO solo requiere glicemia > 250 mg/dL y osmolaridad > 300 mOsm/L.
+C) El HGHO requiere glicemia > 600 mg/dL y osmolaridad efectiva > 320 mOsm/L sin acidosis ni cetonemia significativas; la CAD requiere cetonemia/cetonuria, pH < 7,3 y glicemia > 250 mg/dL.
+D) Ambos cuadros son clínicamente idénticos; la única diferencia es el tipo de diabetes de base.
+E) La CAD se diagnostica solo con la clínica (aliento a acetona + Kussmaul); el HGHO requiere confirmación con osmolaridad calculada.
 
-E) Los cuerpos cetónicos no son necesarios para el diagnóstico de cetoacidosis diabética; basta con la acidosis y la hiperglicemia.
+**Respuesta correcta: C** — El HGHO se define por glicemia > 600 mg/dL + osmolaridad efectiva > 320 mOsm/L (calculada como 2×Na + Glicemia/18), sin requerir acidosis ni cetonemia significativas. La CAD se define por el tríada: cetonemia/cetonuria + acidosis metabólica (pH < 7,3, bicarbonato bajo, anión gap > 12) + glicemia > 250 mg/dL. Pueden coexistir cuadros mixtos.
 
-**Respuesta correcta: B** — El HGHO se define por hiperglicemia mayor a 600 y osmolaridad efectiva mayor a 320, sin necesidad de acidosis ni cetonemia significativas. La cetoacidosis es de la DM tipo 1 (no tipo 2); la respiración de Kussmaul es de la cetoacidosis (no del HGHO); el anión gap en cetoacidosis está aumentado (no disminuido); y los cuerpos cetónicos son un criterio definitorio de la cetoacidosis.
+**Un hombre de 78 años con diabetes mellitus tipo 2 es traído por familiares por confusión de 2 días de evolución, en contexto de ola de calor y escasa ingesta de líquidos. Glicemia capilar "HI" (> 600 mg/dL), pH 7,32, bicarbonato 20, sin cuerpos cetónicos en orina. Además tiene hemiparesia derecha de aparición aguda. ¿Cuál es la interpretación correcta del cuadro?**
+
+A) El diagnóstico es cetoacidosis diabética con compromiso neurológico; tratar primero la hiperglicemia antes de estudiar el cerebro.
+B) El diagnóstico es síndrome hiperglicémico hiperosmolar; la hemiparesia es un signo focal neurológico que puede deberse a la hiperosmolaridad extrema, pero siempre debe descartarse un accidente vascular encefálico con neuroimágenes.
+C) El diagnóstico es un accidente vascular encefálico que precipitó una hiperglicemia de estrés; no hay una emergencia metabólica subyacente.
+D) La hemiparesia confirma que la causa es el accidente vascular y no la hiperosmolaridad; no se requiere tratamiento de la hiperglicemia.
+E) La ausencia de cuerpos cetónicos descarta cualquier emergencia hiperglicémica; hay que buscar otra causa para la confusión y la hemiparesia.
+
+**Respuesta correcta: B** — El cuadro es compatible con HGHO (glicemia > 600, compromiso de conciencia, sin acidosis ni cetonemia, deshidratación severa). La hemiparesia puede explicarse por la hiperosmolaridad extrema que genera signos neurológicos focales, o puede ser un AVE verdadero (que también puede precipitar el HGHO). Siempre se deben obtener neuroimágenes para descartar AVE, especialmente si los signos focales persisten tras la corrección de la osmolaridad. Ambas condiciones pueden coexistir.
 
 ---

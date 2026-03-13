@@ -52,16 +52,36 @@ Finalmente, el **parto** merece atención especial. El trabajo de parto tiene do
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**¿Cuáles son los objetivos glucémicos correctos durante el embarazo en una paciente con diabetes gestacional?**
 
-A) En una embarazada diabética, el objetivo de glicemia postprandial es el mismo que en la persona no embarazada: menor a 180 mg/dL.
-B) La hemoglobina glicosilada es el examen de elección para guiar los ajustes de tratamiento en la embarazada diabética, igual que en la población general.
-C) La insulina de elección durante el embarazo es la glargina, ya que al carecer de peak reduce el riesgo de hipoglicemia fetal.
-D) En la embarazada diabética, el tratamiento se inicia con dieta y si no se logran los objetivos glucémicos, se pasa a insulina NPH; la glargina debe evitarse.
-E) Los hipoglicemiantes orales están absolutamente contraindicados durante todo el embarazo, independientemente del fármaco utilizado.
+A) Glicemia preprandial < 130 mg/dL y postprandial < 180 mg/dL, iguales que en la persona no embarazada.
+B) Glicemia preprandial < 90 mg/dL y postprandial < 120 mg/dL, más estrictos que en la población general.
+C) Glicemia preprandial < 100 mg/dL y postprandial < 140 mg/dL, usando los mismos umbrales diagnósticos como objetivos.
+D) HbA1c < 6% como único objetivo, controlada mensualmente durante todo el embarazo.
+E) Glicemia preprandial < 110 mg/dL y postprandial < 150 mg/dL, con flexibilidad para adaptar al contexto clínico.
 
-**Respuesta correcta: D** — El tratamiento de la diabetes en el embarazo sigue la secuencia: primero dieta, luego insulina NPH si no se logran los objetivos; la glargina se evita por datos de seguridad incompletos en la gestante.
+**Respuesta correcta: B** — Los objetivos glucémicos en el embarazo son considerablemente más estrictos que en la población general: preprandiales < 90 mg/dL y postprandiales < 120 mg/dL. La razón es que el feto está expuesto al mismo ambiente glucémico que la madre, y niveles que en un adulto serían aceptables pueden producir macrosomía, hipoglicemia neonatal y otras complicaciones fetales.
+
+**Una embarazada de 28 semanas con diabetes gestacional diagnosticada hace 3 semanas lleva una dieta estricta pero sus hemoglucotest postprandiales están entre 130 y 145 mg/dL de manera consistente. ¿Cuál es la conducta terapéutica correcta?**
+
+A) Continuar con dieta y reforzar la educación alimentaria por 4 semanas más antes de iniciar fármacos.
+B) Iniciar metformina oral, que es segura en el embarazo y es el tratamiento de primera línea.
+C) Iniciar insulina NPH en una o dos dosis diarias, que es el esquema de elección cuando la dieta no logra los objetivos en el embarazo.
+D) Iniciar insulina glargina nocturna, porque al carecer de peak tiene menor riesgo de hipoglicemia fetal.
+E) Iniciar insulina cristalina tres veces al día como monoterapia, dado que los valores fuera de rango son postprandiales.
+
+**Respuesta correcta: C** — Cuando la dieta no logra los objetivos glucémicos en el embarazo (glicemias postprandiales > 120 mg/dL), el siguiente paso es la insulina. El esquema de elección es la insulina NPH en una o dos dosis diarias, con décadas de evidencia de seguridad en la gestante. La glargina (opción D) se debe evitar porque su perfil de seguridad en el embarazo no está completamente establecido. La metformina (opción B) es segura pero no es el tratamiento de elección estándar.
+
+**¿Por qué la hemoglobina glicosilada (HbA1c) no es el examen principal para guiar los ajustes de tratamiento en la embarazada diabética, a diferencia de lo que ocurre en la población general?**
+
+A) Porque la HbA1c está falsamente elevada durante el embarazo por los cambios en el metabolismo de la hemoglobina fetal.
+B) Porque refleja los últimos 2-3 meses, un período demasiado largo para un embarazo de 9 meses donde se necesita actuar en tiempo real basándose en hemoglucotest diarios.
+C) Porque la HbA1c no puede medirse de forma confiable durante el embarazo por la hemodilución.
+D) Porque en el embarazo el objetivo de HbA1c es < 5%, y la mayoría de los laboratorios no pueden reportar valores tan bajos con precisión.
+E) Porque la insulina NPH altera artificialmente los valores de HbA1c haciéndola un marcador poco confiable.
+
+**Respuesta correcta: B** — La HbA1c refleja el promedio glucémico de los últimos 2-3 meses. En un embarazo de 9 meses, tomar decisiones con ese retardo temporal es demasiado lento: las complicaciones fetales pueden desarrollarse en semanas. Por eso las decisiones se basan en los hemoglucotest diarios (4 veces al día), que permiten ajustar el tratamiento en tiempo real. La HbA1c se usa como complemento, no como guía principal.
 
 ---

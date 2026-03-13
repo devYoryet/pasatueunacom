@@ -54,16 +54,36 @@ La regla que debe quedar grabada es esta: primero arreglen el piso —las prepra
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**Una paciente con diabetes tipo 1 en esquema intensificado (glargina nocturna + cristalina preprandial) presenta el siguiente perfil glucémico: glicemias de ayuno 98-110 mg/dL (normal), glicemias preprandiales del almuerzo 95-115 mg/dL (normal), pero glicemias postprandiales del almuerzo y la cena consistentemente sobre 210 mg/dL. ¿Cuál es el ajuste más adecuado?**
 
-A) En un paciente con esquema intensificado y glicemias postprandiales elevadas con preprandiales normales, el ajuste correcto es subir la dosis de insulina glargina.
-B) La NPH nocturna determina principalmente las glicemias postprandiales del almuerzo y la cena.
-C) En un paciente de 80 años con hemoglobina glicosilada de 7,5% y dos dosis de NPH, se deben aumentar las dosis para optimizar el control glucémico.
-D) Cuando todas las glicemias están elevadas en un paciente con esquema intensificado, se debe ajustar primero la insulina basal (ultralenta) antes de modificar los bolos preprandiales.
-E) Las insulinas ultralentas como la glargina tienen un peak de acción marcado entre las 4 y 6 horas, lo que obliga a darlas con las comidas.
+A) Aumentar la dosis de insulina glargina nocturna, porque el piso no está bien controlado.
+B) Aumentar la dosis de insulina cristalina pre-almuerzo y pre-cena, porque las postprandiales de esos momentos están elevadas con preprandiales normales.
+C) Cambiar la glargina por NPH nocturna para tener un mejor peak de acción postprandial.
+D) Agregar una dosis de NPH matutina para cubrir las glicemias del mediodía.
+E) No hacer cambios porque las glicemias de ayuno están bien y eso indica que la glargina está correctamente dosificada.
 
-**Respuesta correcta: D** — Cuando tanto las glicemias preprandiales como postprandiales están elevadas, la prioridad es corregir la insulina basal (ultralenta o NPH) que determina las preprandiales; al normalizarse estas, frecuentemente las postprandiales se corrigen también.
+**Respuesta correcta: B** — Las preprandiales están normales, lo que indica que la glargina (insulina basal) está adecuadamente dosificada. Las postprandiales elevadas del almuerzo y la cena reflejan insuficiente cobertura de la insulina cristalina pre-almuerzo y pre-cena. El ajuste es específico sobre esas dosis de insulina rápida, no sobre la basal.
+
+**Un hombre de 65 años con diabetes tipo 2 usa dos dosis de NPH: una en la mañana y otra en la noche. Su perfil glucémico muestra: glicemia de ayuno 105 mg/dL (normal), pero glicemias preprandiales del almuerzo en 168 mg/dL y de la cena en 172 mg/dL. ¿Cuál es el ajuste correcto?**
+
+A) Subir la dosis de NPH nocturna, porque las glicemias preprandiales del almuerzo y la cena dependen de esa dosis.
+B) Subir la dosis de NPH matutina, porque esa es la que determina las glicemias preprandiales del almuerzo y la cena.
+C) Agregar insulina cristalina antes del desayuno para cubrir las elevaciones del mediodía.
+D) No hacer cambios porque la glicemia de ayuno está dentro del rango y el paciente está bien controlado.
+E) Cambiar ambas dosis de NPH por glargina nocturna única para simplificar el esquema.
+
+**Respuesta correcta: B** — La NPH matutina es la que actúa durante el día y determina las glicemias preprandiales del almuerzo y la cena. La glicemia de ayuno normal indica que la NPH nocturna está bien dosificada. Si las preprandiales de mediodía y tarde están elevadas, el problema es la NPH de la mañana, que debe aumentarse.
+
+**Una mujer de 82 años con diabetes tipo 2 en dos dosis de NPH acude a control. Su HbA1c es 7,4%. En el registro de glicemias hay varias preprandiales entre 135 y 155 mg/dL. ¿Cuál es la conducta correcta?**
+
+A) Subir ambas dosis de NPH porque las glicemias preprandiales superan el objetivo estándar de < 130 mg/dL.
+B) Agregar insulina cristalina preprandial dado que el control con NPH sola es insuficiente.
+C) No hacer cambios: en pacientes mayores de 75 años el objetivo de HbA1c es < 8%, y con 7,4% el control es adecuado para su edad.
+D) Bajar las dosis de NPH porque una HbA1c de 7,4% es demasiado estricta para una paciente de 82 años y representa riesgo de hipoglicemia.
+E) Cambiar a hipoglicemiantes orales porque el perfil glucémico es inestable.
+
+**Respuesta correcta: C** — En pacientes mayores de 75 años el objetivo de HbA1c es < 8% (no < 7%), porque el beneficio de un control muy estricto no compensa el riesgo de hipoglicemia en este grupo. Con HbA1c de 7,4%, la paciente está perfectamente dentro del objetivo para su edad. Ni subir (riesgo de hipoglicemia) ni bajar el tratamiento (aún está dentro de objetivo) son conductas necesarias.
 
 ---

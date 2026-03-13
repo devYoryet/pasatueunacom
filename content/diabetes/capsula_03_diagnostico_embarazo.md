@@ -52,16 +52,36 @@ Por último, una mujer con 20 semanas de embarazo a la que se le hace el TTGO de
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**¿Cuál de los siguientes criterios diagnósticos es correcto para diabetes mellitus gestacional en Chile?**
 
-A) En el embarazo, una glicemia de ayuno de 118 mg/dL corresponde a una glicemia de ayuno alterada, igual que en la persona no embarazada.
-B) La diabetes mellitus pregestacional puede diagnosticarse en cualquier semana del embarazo siempre que la glicemia supere 126 mg/dL.
-C) En el embarazo no existe el diagnóstico de prediabetes; una glicemia de ayuno ≥ 100 mg/dL se cataloga directamente como diabetes gestacional.
-D) El TTGO en el embarazo se realiza con 100 gramos de glucosa en Chile, igual que en los protocolos internacionales.
-E) Una embarazada de 30 semanas con dos glicemias de ayuno de 130 mg/dL tiene diabetes mellitus pregestacional.
+A) Dos glicemias de ayuno ≥ 126 mg/dL, igual que en la persona no embarazada.
+B) Glicemia post-TTGO a las 2 horas ≥ 200 mg/dL, igual que en la persona no embarazada.
+C) Dos glicemias de ayuno ≥ 100 mg/dL, o glicemia post-TTGO (75 g) a las 2 horas ≥ 140 mg/dL.
+D) Glicemia de ayuno entre 100 y 125 mg/dL más intolerancia a la glucosa, que juntas constituyen prediabetes gestacional.
+E) Una sola glicemia de ayuno de 105 mg/dL es suficiente para diagnosticar diabetes gestacional sin necesidad de repetirla.
 
-**Respuesta correcta: C** — En el embarazo los umbrales diagnósticos son más estrictos y no existe la categoría de prediabetes; una glicemia de ayuno ≥ 100 mg/dL (confirmada) corresponde directamente a diabetes mellitus gestacional.
+**Respuesta correcta: C** — En el embarazo los umbrales son más estrictos: el diagnóstico de diabetes gestacional se realiza con dos glicemias de ayuno ≥ 100 mg/dL (no 126) o con una glicemia post-TTGO de 75 g ≥ 140 mg/dL a las 2 horas (no 200). En el embarazo no existe prediabetes (opción D es incorrecta): si se alcanzan estos umbrales el diagnóstico es directamente diabetes gestacional. Una sola glicemia de ayuno ≥ 100 debe repetirse para confirmarse (opción E incompleta).
+
+**Una mujer de 28 años se encuentra en la semana 8 de embarazo. En su primera glicemia de control prenatal obtiene un valor de 132 mg/dL en ayuno. ¿Cuál es el diagnóstico y la conducta correcta?**
+
+A) Glicemia de ayuno alterada en el embarazo; solicitar TTGO en las semanas 24-28.
+B) Diabetes mellitus gestacional; iniciar dieta de inmediato y controlar con hemoglucotex.
+C) Posible diabetes mellitus pregestacional; repetir la glicemia en ayuno para confirmar con criterios de persona no embarazada (≥ 126 mg/dL).
+D) Resultado normal en el embarazo; no se requiere acción hasta las semanas 24-28.
+E) Diabetes mellitus gestacional confirmada con un solo valor; iniciar insulina NPH de inmediato.
+
+**Respuesta correcta: C** — Con 8 semanas de embarazo (dentro de las primeras 12 semanas), una glicemia de ayuno ≥ 126 mg/dL puede corresponder a diabetes mellitus pregestacional si se confirma con una segunda medición usando criterios de persona no embarazada. La opción A es incorrecta porque en el embarazo no existe glicemia de ayuno alterada. La opción E es incorrecta porque requiere confirmación. La opción D ignora un valor claramente elevado. La opción B aplica criterios de diabetes gestacional pero no precisa el tipo.
+
+**Una mujer embarazada de 26 semanas se realiza el TTGO de rutina con 75 g de glucosa. La glicemia basal es 94 mg/dL y la glicemia a las 2 horas post-carga es 152 mg/dL. ¿Cuál es el diagnóstico correcto?**
+
+A) Resultado normal: la glicemia basal es menor a 100 y la post-carga es menor a 200.
+B) Intolerancia a la glucosa oral del embarazo: la post-carga está entre 140 y 199.
+C) Diabetes mellitus gestacional: la glicemia post-carga supera el umbral de 140 mg/dL y en el embarazo no existe categoría de intolerancia a la glucosa.
+D) Diabetes mellitus pregestacional: la glicemia supera el umbral estándar de 126 mg/dL.
+E) Resultado indeterminado: se necesita repetir el TTGO para confirmar.
+
+**Respuesta correcta: C** — En el embarazo no existe la categoría de intolerancia a la glucosa oral. Si la glicemia post-TTGO a las 2 horas supera 140 mg/dL, el diagnóstico es directamente diabetes mellitus gestacional. La opción A es incorrecta porque ignora el umbral de 140 para la post-carga. La opción B aplica terminología que no existe en el embarazo. La opción D aplica criterios de persona no embarazada a una mujer en semana 26, lo que es incorrecto.
 
 ---

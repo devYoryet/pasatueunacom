@@ -7,6 +7,7 @@ import { createClient } from '@/lib/supabase/client'
 import { Button } from '@/components/ui/button'
 import { Skeleton } from '@/components/ui/skeleton'
 import GadgetSidebar from '@/components/layout/GadgetSidebar'
+import ProfeGoIA from '@/components/profe-goia/ProfeGoIA'
 import {
   ChevronLeft, ChevronRight, Clock, Play, Pause,
   Lightbulb, Star, BookOpen, BarChart3, FileText, ChevronDown, ChevronUp,
@@ -381,6 +382,20 @@ export default function LessonPage() {
             </div>
           </Section>
         )}
+
+        {/* Profe GoIA – contextual tutor */}
+        <ProfeGoIA
+          lessonId={lesson.id}
+          lessonTitle={lesson.title}
+          specialtyCode={specCode || undefined}
+          specialtyName={specName}
+          suggestions={[
+            `¿Qué es lo más evaluado en EUNACOM sobre este tema?`,
+            `Dame una mnemotecnia para recordar mejor`,
+            `¿Cuál es la trampa frecuente en este tema?`,
+          ]}
+          defaultCollapsed={false}
+        />
 
         {/* Transcription */}
         {lesson.txt_content && (

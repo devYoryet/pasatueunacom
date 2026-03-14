@@ -13,6 +13,7 @@ import {
   LogOut,
   X,
   CalendarDays,
+  Bot,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { createClient } from '@/lib/supabase/client'
@@ -32,6 +33,7 @@ const navItems = [
   { icon: BarChart3, label: 'Mi Progreso', href: '/app/stats' },
   { icon: Clock, label: 'Historial', href: '/app/history' },
   { icon: Map, label: 'Cobertura EUNACOM', href: '/app/coverage' },
+  { icon: Bot, label: 'Mi Profe GoIA', href: '/app/profe-goia' },
   { icon: Settings, label: 'Configuración', href: '/app/settings' },
 ]
 

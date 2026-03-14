@@ -10,7 +10,7 @@ import {
   getDaysUntilCourseEnd,
   type TestDate,
 } from '@/lib/course-calendar'
-import RAGChat from '@/components/rag/RAGChat'
+import ProfeGoIA from '@/components/profe-goia/ProfeGoIA'
 
 // ─── Clinical tips (rotating daily) ──────────────────────────────────────────
 
@@ -173,7 +173,13 @@ export default function GadgetSidebar() {
       )}
 
       {/* AI Tutor */}
-      <RAGChat specialtyCode="diabetes" specialtyName="Diabetes y Glicemia" />
+      <ProfeGoIA
+        suggestions={[
+          '¿Qué temas son más evaluados en EUNACOM?',
+          '¿Cuál es la trampa más frecuente en EUNACOM?',
+          'Dame una mnemotecnia para recordar mejor',
+        ]}
+      />
 
     </div>
   )

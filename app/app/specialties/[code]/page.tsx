@@ -19,6 +19,7 @@ import {
   ArrowLeft, BookOpen, FileText, Lightbulb, Target, Cpu, MessageSquare,
   Clock, Play, Video, Brain, TrendingUp, TrendingDown, Minus,
   AlertTriangle, BarChart2, Zap, Award, Layers,
+  CheckCircle, XCircle, ChevronRight, RotateCcw, Trophy,
 } from 'lucide-react'
 import { COURSE_CALENDAR, CHAPTER_COLORS } from '@/lib/course-calendar'
 
@@ -79,71 +80,221 @@ function SectionHeader({ icon: Icon, label, color }: { icon: any; label: string;
   )
 }
 
-// ─── Review Question ──────────────────────────────────────────────────────────
+// ─── Quiz helpers ─────────────────────────────────────────────────────────────
 
-function ReviewQuestion({ question, index }: { question: { pregunta: string; respuesta: string }; index: number }) {
-  const [show, setShow] = useState(false)
-
-  // Parse embedded options (A) B) C) D) format)
-  const lines = question.pregunta.split('\n')
+function parseQuizQuestion(pregunta: string) {
+  const lines = pregunta.split('\n')
   const questionLines: string[] = []
-  const optionLines: string[] = []
+  const options: { letter: string; text: string }[] = []
   lines.forEach((line) => {
-    if (/^[A-Da-d][).]\s/.test(line.trim())) optionLines.push(line.trim())
+    const m = line.trim().match(/^([A-Ea-e])[).]\s+(.+)/)
+    if (m) options.push({ letter: m[1].toUpperCase(), text: m[2] })
     else questionLines.push(line)
   })
-  const questionText = questionLines.join('\n').trim()
-  const hasOptions = optionLines.length >= 2
+  return { questionText: questionLines.join('\n').trim(), options }
+}
 
+function detectCorrectLetter(respuesta: string): string | null {
+  const patterns = [
+    /^([A-E])[).]/m,
+    /respuesta\s+(?:correcta\s+)?(?:es\s+)?(?:la\s+opci[oó]n\s+)?([A-E])\b/i,
+    /(?:correcta?)\s+(?:es\s+)?(?:la\s+opci[oó]n\s+)?([A-E])\b/i,
+    /opci[oó]n\s+([A-E])\s+(?:es|son)\s+(?:la\s+)?correc/i,
+    /\b([A-E])\)\s+es\s+(?:la\s+)?(?:respuesta\s+)?correc/i,
+    /\bcorrecta?:\s*([A-E])\b/i,
+  ]
+  for (const p of patterns) {
+    const m = respuesta.match(p)
+    if (m) return m[1].toUpperCase()
+  }
+  return null
+}
+
+// ─── Inline Quiz Carousel ─────────────────────────────────────────────────────
+
+function InlineQuizCarousel({
+  questions,
+  onAllCorrect,
+}: {
+  questions: Array<{ pregunta: string; respuesta: string }>
+  onAllCorrect: () => void
+}) {
+  const [current, setCurrent] = useState(0)
+  const [answers, setAnswers] = useState<Record<number, string>>({})
+  const [done, setDone] = useState(false)
+  const [sliding, setSliding] = useState(false)
+
+  const q = questions[current]
+  const { questionText, options } = parseQuizQuestion(q.pregunta)
+  const correctLetter = detectCorrectLetter(q.respuesta)
+  const selected = answers[current]
+  const answered = selected !== undefined
+  const isLast = current === questions.length - 1
+
+  function handleAnswer(letter: string) {
+    if (answered) return
+    setAnswers((prev) => ({ ...prev, [current]: letter }))
+  }
+
+  function handleNext() {
+    if (isLast) {
+      setSliding(true)
+      setTimeout(() => {
+        setDone(true)
+        setSliding(false)
+        const correct = questions.reduce((acc, _, i) => {
+          const sel = answers[i]
+          if (!sel) return acc
+          const corr = detectCorrectLetter(questions[i].respuesta)
+          return acc + (corr && sel === corr ? 1 : 0)
+        }, 0)
+        if (correct === questions.length) onAllCorrect()
+      }, 220)
+    } else {
+      setSliding(true)
+      setTimeout(() => {
+        setCurrent((c) => c + 1)
+        setSliding(false)
+      }, 220)
+    }
+  }
+
+  function handleRetry() {
+    setCurrent(0)
+    setAnswers({})
+    setDone(false)
+  }
+
+  function getOptionStyle(letter: string) {
+    if (!answered) return 'border-slate-200 bg-white text-slate-700 hover:border-blue-400 hover:bg-blue-50 cursor-pointer'
+    if (letter === correctLetter) return 'border-green-400 bg-green-50 text-green-800 font-semibold'
+    if (letter === selected && letter !== correctLetter) return 'border-red-400 bg-red-50 text-red-800'
+    return 'border-slate-100 bg-white text-slate-400 opacity-50'
+  }
+
+  // ── Results screen ──
+  if (done) {
+    const correct = questions.reduce((acc, _, i) => {
+      const sel = answers[i]
+      if (!sel) return acc
+      const corr = detectCorrectLetter(questions[i].respuesta)
+      return acc + (corr && sel === corr ? 1 : 0)
+    }, 0)
+    const score = Math.round((correct / questions.length) * 100)
+    const perfect = score === 100
+
+    return (
+      <div className={`rounded-xl border p-5 flex flex-col items-center gap-3 text-center ${perfect ? 'border-green-200 bg-green-50' : 'border-orange-200 bg-orange-50'}`}>
+        <div className={`w-16 h-16 rounded-full border-4 flex flex-col items-center justify-center ${perfect ? 'border-green-400 bg-white' : 'border-orange-300 bg-white'}`}>
+          <span className={`text-2xl font-black ${perfect ? 'text-green-600' : 'text-orange-500'}`}>{score}</span>
+          <span className="text-[10px] text-slate-400 leading-none">/100</span>
+        </div>
+        {perfect ? (
+          <>
+            <div className="flex items-center gap-1.5">
+              <Trophy className="w-4 h-4 text-yellow-500" />
+              <span className="text-sm font-bold text-green-800">¡Cápsula completada!</span>
+              <Trophy className="w-4 h-4 text-yellow-500" />
+            </div>
+            <p className="text-xs text-green-700">Marcada como leída automáticamente.</p>
+          </>
+        ) : (
+          <>
+            <p className="text-sm font-semibold text-slate-700">{correct}/{questions.length} correctas</p>
+            <button
+              onClick={handleRetry}
+              className="flex items-center gap-1.5 text-xs px-4 py-2 rounded-lg bg-blue-600 text-white font-semibold hover:bg-blue-700 transition-colors"
+            >
+              <RotateCcw className="w-3.5 h-3.5" />
+              Reintentar hasta el 100%
+            </button>
+          </>
+        )}
+      </div>
+    )
+  }
+
+  // ── Question screen ──
   return (
-    <div className="border border-slate-200 rounded-xl overflow-hidden bg-white">
-      <div className="px-4 py-3 bg-slate-50 border-b border-slate-200">
-        <div className="flex items-start gap-3">
-          <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-700 text-xs font-bold flex items-center justify-center flex-shrink-0 mt-0.5">
-            {index}
-          </span>
-          <div className="flex-1 text-sm text-slate-800 text-justify leading-relaxed">
-            <Prose>{questionText}</Prose>
-          </div>
+    <div
+      className="border border-slate-200 rounded-xl bg-white overflow-hidden transition-all duration-200"
+      style={{ opacity: sliding ? 0 : 1, transform: sliding ? 'translateX(24px)' : 'translateX(0)' }}
+    >
+      {/* Header */}
+      <div className="flex items-center justify-between px-4 py-2.5 bg-slate-50 border-b border-slate-100">
+        <div className="flex items-center gap-2">
+          <MessageSquare className="w-3.5 h-3.5 text-green-600" />
+          <span className="text-xs font-bold text-slate-700">Preguntas de Repaso</span>
+        </div>
+        {/* Dot indicators */}
+        <div className="flex items-center gap-1.5">
+          {questions.map((_, i) => (
+            <span
+              key={i}
+              className={`block rounded-full transition-all ${
+                i === current ? 'w-4 h-2 bg-green-500' : answers[i] !== undefined ? 'w-2 h-2 bg-slate-400' : 'w-2 h-2 bg-slate-200'
+              }`}
+            />
+          ))}
         </div>
       </div>
 
-      {hasOptions && (
-        <div className="px-4 py-2 grid gap-1.5">
-          {optionLines.map((opt, i) => (
-            <div key={i} className="text-sm text-slate-700 px-3 py-2 rounded-lg border border-slate-100 bg-slate-50/60">
-              {opt}
-            </div>
-          ))}
+      {/* Question text */}
+      <div className="px-4 pt-4 pb-2">
+        <div className="text-[13px] font-medium text-slate-800 leading-relaxed">
+          <Prose>{questionText}</Prose>
+        </div>
+      </div>
+
+      {/* Options */}
+      <div className="px-4 pb-3 grid gap-1.5">
+        {options.map(({ letter, text }) => (
+          <button
+            key={letter}
+            disabled={answered}
+            onClick={() => handleAnswer(letter)}
+            className={`flex items-center gap-2.5 w-full text-left border rounded-lg px-3 py-2 text-[13px] transition-all ${getOptionStyle(letter)}`}
+          >
+            <span className={`w-5 h-5 rounded-full border-2 flex items-center justify-center text-[10px] font-bold flex-shrink-0 ${
+              answered && letter === correctLetter ? 'border-green-500 bg-green-500 text-white' :
+              answered && letter === selected ? 'border-red-500 bg-red-500 text-white' :
+              'border-current'
+            }`}>{letter}</span>
+            <span className="flex-1">{text}</span>
+            {answered && letter === correctLetter && <CheckCircle className="w-3.5 h-3.5 text-green-500 flex-shrink-0" />}
+            {answered && letter === selected && letter !== correctLetter && <XCircle className="w-3.5 h-3.5 text-red-400 flex-shrink-0" />}
+          </button>
+        ))}
+      </div>
+
+      {/* Feedback */}
+      {answered && (
+        <div className={`mx-4 mb-3 rounded-lg p-3 border text-[12px] leading-relaxed ${selected === correctLetter ? 'bg-green-50 border-green-200 text-green-900' : 'bg-orange-50 border-orange-200 text-orange-900'}`}>
+          <div className="flex items-center gap-1.5 mb-1">
+            {selected === correctLetter
+              ? <CheckCircle className="w-3.5 h-3.5 text-green-600 flex-shrink-0" />
+              : <XCircle className="w-3.5 h-3.5 text-orange-500 flex-shrink-0" />}
+            <span className="font-semibold text-[11px] uppercase tracking-wide">
+              {selected === correctLetter ? '¡Correcto!' : 'Incorrecto'}
+            </span>
+          </div>
+          <Prose className="text-slate-700 text-[12px]">{q.respuesta}</Prose>
         </div>
       )}
 
-      <div className="px-4 py-2.5 flex items-center gap-3">
-        <button
-          onClick={() => setShow(!show)}
-          className={`text-xs font-semibold px-3 py-1.5 rounded-lg border transition-colors ${
-            show
-              ? 'border-green-300 bg-green-50 text-green-700'
-              : 'border-blue-200 bg-blue-50 text-blue-700 hover:bg-blue-100'
-          }`}
-        >
-          {show ? '▲ Ocultar respuesta' : '▼ Ver respuesta'}
-        </button>
-      </div>
-
-      {show && (
+      {/* Advance button */}
+      {answered && (
         <div className="px-4 pb-4">
-          <div className="bg-green-50 border border-green-200 rounded-xl p-4">
-            <div className="flex items-center gap-1.5 mb-2">
-              <span className="w-4 h-4 rounded-full bg-green-200 flex items-center justify-center">
-                <span className="text-green-700 text-[10px] font-bold">✓</span>
-              </span>
-              <span className="text-xs font-semibold text-green-700 uppercase tracking-wide">Respuesta</span>
-            </div>
-            <div className="text-sm text-slate-800 [&_strong]:font-semibold [&_strong]:text-green-900">
-              <Prose className="text-slate-700">{question.respuesta}</Prose>
-            </div>
-          </div>
+          <button
+            onClick={handleNext}
+            className="flex items-center justify-center gap-2 w-full py-2 rounded-lg bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 transition-colors"
+          >
+            {isLast ? (
+              <><Trophy className="w-4 h-4" /> Ver resultados</>
+            ) : (
+              <>Siguiente pregunta <ChevronRight className="w-4 h-4" /></>
+            )}
+          </button>
         </div>
       )}
     </div>
@@ -369,12 +520,11 @@ function LessonCard({
             {/* Review questions */}
             {lesson.ai_review_qs && lesson.ai_review_qs.length > 0 && (
               <div className="px-5 pt-5 pb-5">
-                <SectionHeader icon={MessageSquare} label="Preguntas de repaso" color="bg-green-50 text-green-700" />
-                <div className="space-y-3">
-                  {lesson.ai_review_qs.map((q: any, i: number) => (
-                    <ReviewQuestion key={i} question={q} index={i + 1} />
-                  ))}
-                </div>
+                <SectionHeader icon={MessageSquare} label="Preguntas de Repaso" color="bg-green-50 text-green-700" />
+                <InlineQuizCarousel
+                  questions={lesson.ai_review_qs}
+                  onAllCorrect={() => onToggleWatched(lesson.id, true)}
+                />
               </div>
             )}
 

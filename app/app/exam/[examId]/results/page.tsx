@@ -17,6 +17,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { motion } from 'framer-motion'
 import { cn } from '@/lib/utils'
+import QuizReviewBubble from '@/components/profe-goia/QuizReviewBubble'
 
 interface AttemptWithData extends Attempt {
   exams: (Exam & { specialties: { name: string } | null }) | null
@@ -404,10 +405,10 @@ export default function ResultsPage({ params }: { params: { examId: string } }) 
     <div className="min-h-screen bg-eunacom-bg">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-8 space-y-6">
         {/* BACK */}
-        <Link href="/app/dashboard">
+        <Link href="/app/specialties">
           <Button variant="ghost" size="sm" className="gap-2">
             <ArrowLeft className="w-4 h-4" />
-            Volver al panel
+            Volver al inicio
           </Button>
         </Link>
 
@@ -460,6 +461,27 @@ export default function ResultsPage({ params }: { params: { examId: string } }) 
           </CardContent>
         </Card>
 
+        {/* PROFE GOIA BUBBLE */}
+        {incorrectCount > 0 && attemptId && (
+          <QuizReviewBubble
+            attemptId={attemptId}
+            examTitle={attempt.exams?.title ?? 'Cuestionario'}
+            score={score}
+            incorrectItems={reviewItems
+              .filter((item) => !item.isCorrect)
+              .map((item) => ({
+                stem: item.question.stem,
+                correct_option: item.question.correct_option,
+                user_answer: item.userAnswer ?? '',
+                option_a: item.question.option_a ?? null,
+                option_b: item.question.option_b ?? null,
+                option_c: item.question.option_c ?? null,
+                option_d: item.question.option_d ?? null,
+                option_e: item.question.option_e ?? null,
+                explanation: item.question.explanation ?? null,
+              }))}
+          />
+        )}
         {/* QUESTION MAP */}
         <QuestionMap items={reviewItems} onSelect={expandAndScrollTo} />
 

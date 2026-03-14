@@ -108,6 +108,7 @@ export const SPECIALTY_LESSONS: Record<string, SpecialtyContent> = {
     materials: [
       { title: 'Algoritmo de manejo de DM2', type: 'guide' },
       { title: 'Tabla de hipoglicemiantes orales', type: 'reference' },
+      { title: 'Slides de clases', type: 'summary' },
     ],
   },
 

@@ -13,6 +13,7 @@ import {
   LogOut,
   X,
   CalendarDays,
+  Bot,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { createClient } from '@/lib/supabase/client'
@@ -27,12 +28,12 @@ interface SidebarProps {
 }
 
 const navItems = [
-  { icon: Home, label: 'Inicio', href: '/app/dashboard' },
+  { icon: Home, label: 'Inicio', href: '/app/specialties' },
   { icon: CalendarDays, label: 'Calendario del Curso', href: '/app/calendar' },
-  { icon: BookOpen, label: 'Especialidades', href: '/app/specialties' },
   { icon: BarChart3, label: 'Mi Progreso', href: '/app/stats' },
   { icon: Clock, label: 'Historial', href: '/app/history' },
   { icon: Map, label: 'Cobertura EUNACOM', href: '/app/coverage' },
+  { icon: Bot, label: 'Mi Profe GoIA', href: '/app/profe-goia' },
   { icon: Settings, label: 'Configuración', href: '/app/settings' },
 ]
 
@@ -51,7 +52,7 @@ export default function Sidebar({ profile, mobileOpen, onMobileClose }: SidebarP
     <div className="flex flex-col h-full">
       {/* Logo */}
       <div className="px-5 py-5 border-b border-white/10">
-        <Link href="/app/dashboard" className="flex items-center gap-3">
+        <Link href="/app/specialties" className="flex items-center gap-3">
           <div className="w-8 h-8 bg-white/10 border border-white/20 rounded-lg flex items-center justify-center">
             <span className="text-white font-bold text-sm font-mono">Go</span>
           </div>
@@ -65,7 +66,7 @@ export default function Sidebar({ profile, mobileOpen, onMobileClose }: SidebarP
       {/* Nav */}
       <nav className="flex-1 px-3 py-4 space-y-0.5">
         {navItems.map((item) => {
-          const isActive = pathname === item.href || (item.href !== '/app/dashboard' && pathname.startsWith(item.href))
+          const isActive = pathname === item.href || pathname.startsWith(item.href + '/')
           return (
             <Link
               key={item.href + item.label}

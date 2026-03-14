@@ -1,9 +1,10 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { useRouter } from 'next/navigation'
+import { useRouter, usePathname } from 'next/navigation'
 import Sidebar from '@/components/layout/Sidebar'
 import TopBar from '@/components/layout/TopBar'
+import GadgetSidebar from '@/components/layout/GadgetSidebar'
 import { createClient } from '@/lib/supabase/client'
 import type { Profile } from '@/lib/supabase/types'
 import { Skeleton } from '@/components/ui/skeleton'
@@ -17,6 +18,10 @@ export default function StudentLayout({
   const [loading, setLoading] = useState(true)
   const [mobileOpen, setMobileOpen] = useState(false)
   const router = useRouter()
+  const pathname = usePathname()
+
+  // Pages where the gadget sidebar should be hidden (needs full width)
+  const hideGadgets = pathname.startsWith('/app/exam') || pathname.startsWith('/app/lesson')
 
   useEffect(() => {
     const loadProfile = async () => {
@@ -81,7 +86,18 @@ export default function StudentLayout({
           onMenuClick={() => setMobileOpen(true)}
         />
         <main className="flex-1 p-4 sm:p-6">
-          {children}
+          {hideGadgets ? (
+            // Full-width: exam and lesson pages manage their own layout
+            <div>{children}</div>
+          ) : (
+            // 2-column layout with gadget sidebar
+            <div className="flex gap-6 items-start max-w-[1400px]">
+              <div className="flex-1 min-w-0">{children}</div>
+              <div className="hidden xl:block w-72 flex-shrink-0 sticky top-4">
+                <GadgetSidebar />
+              </div>
+            </div>
+          )}
         </main>
       </div>
     </div>

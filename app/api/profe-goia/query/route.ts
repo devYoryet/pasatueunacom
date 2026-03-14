@@ -112,7 +112,7 @@ export async function POST(req: NextRequest) {
           .order('order_index')
           .limit(12)
         if (lessons && lessons.length > 0) {
-          context = lessons.map((l) => {
+          context = lessons.map((l: { title: string | null; txt_content: string | null; ai_summary: string | null }) => {
             const parts: string[] = []
             if (l.title) parts.push(`### ${l.title}`)
             if (l.ai_summary) parts.push(l.ai_summary)

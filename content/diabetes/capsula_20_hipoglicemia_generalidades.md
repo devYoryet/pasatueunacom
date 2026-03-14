@@ -59,20 +59,36 @@ Vida media larga (~24 h). La hipoglicemia vuelve. No se manda al paciente a casa
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre el tratamiento de la hipoglicemia es correcta?**
+**Una mujer de 68 años diabética en tratamiento con insulina y atenolol (betabloqueador) para hipertensión llega a urgencias directamente en estado de confusión y agitación psicomotora. Su glicemia es 34 mg/dL. ¿Por qué esta paciente no tuvo síntomas de alarma previos al compromiso de conciencia, y cuál es el tratamiento correcto?**
 
-A) La severidad de la hipoglicemia se determina principalmente por el nivel numérico de glicemia: menor a 40 mg/dL es siempre severa.
+A) Porque la insulina suprimió los síntomas simpáticos; el tratamiento es azúcar oral de inmediato.
+B) Porque el betabloqueador bloqueó la respuesta simpática (taquicardia, temblor, sudoración) que normalmente avisa la hipoglicemia; el tratamiento es glucosa endovenosa en bolo (25 g) ya que hay compromiso de conciencia y no puede recibir vía oral.
+C) Porque la edad avanzada suprime los síntomas simpáticos; el tratamiento es glucagón subcutáneo como primera opción.
+D) Porque la hipertensión arterial compensó los síntomas autonómicos; el tratamiento es suero fisiológico endovenoso.
+E) Porque los síntomas neuroglucopénicos siempre preceden a los simpáticomiméticos en pacientes con insulina; el tratamiento es azúcar oral si el paciente puede tragar.
 
-B) En una hipoglicemia leve con paciente consciente, el tratamiento de elección es el glucagón subcutáneo por su rapidez de acción.
+**Respuesta correcta: B** — El betabloqueador bloquea los receptores adrenérgicos que generan los síntomas simpáticos de alarma (taquicardia, temblor, sudoración), por lo que el paciente puede pasar directamente a síntomas neuroglucopénicos (confusión, agitación, coma) sin aviso previo. Con compromiso de conciencia, la vía oral está contraindicada por riesgo de broncoaspiración; el tratamiento es glucosa endovenosa en bolo (25 g = 250 mL de glucosa al 10% o 50 mL al 50%).
 
-C) En una hipoglicemia severa por glibenclamida, el paciente debe ser hospitalizado al menos 24 horas por el riesgo de recurrencia dado el prolongado efecto del fármaco.
+**Un hombre de 75 años con diabetes tipo 2 en tratamiento con glibenclamida 10 mg cada 12 horas llega a urgencias con glicemia de 42 mg/dL y pérdida de conciencia. Se le administra glucosa endovenosa y recupera el estado de alerta en 10 minutos. ¿Cuál es la conducta correcta al alta?**
 
-D) Los síntomas neuroglucopénicos aparecen siempre antes que los simpáticomiméticos, ya que el cerebro es el primero en sufrir el efecto de la hipoglicemia.
+A) Alta a domicilio con instrucciones de tomar azúcar si vuelven los síntomas y citar en 48 horas.
+B) Alta con reducción de la dosis de glibenclamida a la mitad y control en 24 horas.
+C) Hospitalización por al menos 24 horas para monitorización con hemoglucotest seriados, dada la vida media prolongada de la glibenclamida (~24 h) que puede producir recurrencia de la hipoglicemia.
+D) Alta sin cambios en el tratamiento porque la hipoglicemia se corrigió completamente con el bolo de glucosa.
+E) Alta con cambio de glibenclamida a metformina, que puede iniciarse en el mismo día sin hospitalización.
 
-E) Administrar líquidos azucarados por vía oral es el tratamiento de elección en la hipoglicemia severa con compromiso de conciencia.
+**Respuesta correcta: C** — La glibenclamida tiene una vida media de aproximadamente 24 horas. Tras la corrección del episodio agudo, el fármaco sigue activo y puede producir recurrencia de la hipoglicemia horas después. Por eso, las hipoglicemias por sulfonilureas (especialmente glibenclamida) requieren hospitalización y monitorización con hemoglucotest seriados durante al menos 24 horas. No dar el alta hasta que el paciente esté estable metabólicamente y se haya ajustado el tratamiento para evitar nuevos episodios.
 
-**Respuesta correcta: C** — La glibenclamida tiene una vida media larga (~24 h), lo que hace que la hipoglicemia pueda recurrir tras la corrección inicial. El paciente debe permanecer hospitalizado en observación. La severidad la definen los síntomas (no el número); el glucagón SC es alternativa cuando no hay acceso venoso, no primera línea en leves; los simpáticomiméticos aparecen primero; y dar líquido azucarado oral a un paciente inconsciente causa broncoaspiración.
+**¿Cuáles son las tres condiciones de la tríada de Whipple que se deben cumplir para confirmar el diagnóstico de hipoglicemia?**
+
+A) Glicemia < 60 mg/dL, síntomas compatibles y respuesta a glucosa IV o glucagón.
+B) Síntomas compatibles con hipoglicemia, glicemia baja objetivada en el momento de los síntomas, y resolución de los síntomas al elevar la glicemia con azúcar.
+C) Taquicardia, sudoración y temblor, cualquiera de los tres es suficiente para confirmar el diagnóstico.
+D) Síntomas neuroglucopénicos + glicemia < 50 mg/dL + respuesta a bicarbonato endovenoso.
+E) Antecedente de uso de insulina o sulfonilureas, síntomas compatibles y glicemia < 70 mg/dL.
+
+**Respuesta correcta: B** — La tríada de Whipple exige que se cumplan simultáneamente: (1) síntomas compatibles con hipoglicemia, (2) glicemia objetivamente baja medida en el momento exacto de los síntomas, y (3) resolución de los síntomas al elevar la glicemia con azúcar. Si alguna de las tres condiciones falta, el diagnóstico no está confirmado, porque otras condiciones (feocromocitoma, hipertiroidismo, crisis de angustia) pueden simular los síntomas simpáticomiméticos con glicemias normales.
 
 ---

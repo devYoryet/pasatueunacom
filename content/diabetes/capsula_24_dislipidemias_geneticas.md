@@ -51,20 +51,36 @@ El tratamiento de la dislipidemia genética siempre es combinado: estatina de al
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
 **¿Cuál de las siguientes situaciones clínicas debe hacer sospechar una dislipidemia de origen genético?**
 
 A) Un hombre de 65 años con LDL de 140 mg/dL, triglicéridos 200 mg/dL y arco corneal bilateral visible.
-
 B) Una mujer de 55 años con HDL de 25 mg/dL, triglicéridos 450 mg/dL y sobrepeso importante.
-
 C) Un hombre de 38 años con LDL de 520 mg/dL, xantomas en tendones de Aquiles e historia de infarto paterno a los 42 años.
-
-D) Una mujer de 70 años con hipercolesterolemia de 280 mg/dL, hipotiroidismo conocido en tratamiento y xantelasmas en párpados.
-
+D) Una mujer de 70 años con LDL de 180 mg/dL, hipotiroidismo conocido en tratamiento y xantelasmas en párpados.
 E) Un hombre de 50 años con triglicéridos de 600 mg/dL, consumo diario de alcohol y LDL normal.
 
-**Respuesta correcta: C** — El LDL de 520 mg/dL es un valor extremo que no se alcanza con causas adquiridas, los xantomas tendinosos en un adulto joven son patognomónicos de hipercolesterolemia familiar, y el infarto paterno a los 42 años confirma la historia familiar de enfermedad cardiovascular precoz. Las demás opciones tienen explicaciones adquiridas más probables: el arco corneal en 65 años es normal; la mujer de 55 tiene un perfil de síndrome metabólico; la hipercolesterolemia puede ser secundaria al hipotiroidismo; y la hipertrigliceridemia por alcohol es causa conocida.
+**Respuesta correcta: C** — El LDL de 520 mg/dL supera ampliamente cualquier valor alcanzable por causas adquiridas (dieta, sedentarismo). Los xantomas tendinosos (tendón de Aquiles) en un adulto joven son prácticamente patognomónicos de hipercolesterolemia familiar. El infarto paterno a los 42 años confirma historia familiar de enfermedad cardiovascular precoz. Las demás opciones tienen explicaciones adquiridas más probables: el arco corneal en 65 años es etario (no patológico); la mujer de 55 tiene perfil de síndrome metabólico; el hipotiroidismo explica el LDL elevado; y el alcohol explica la hipertrigliceridemia.
+
+**Una mujer de 29 años consulta por dolor en el talón derecho de varias semanas de evolución. Al examen físico hay un engrosamiento firme, no doloroso a la palpación, de color amarillento en el tendón de Aquiles. No tiene otros antecedentes de importancia. ¿Cuál es el diagnóstico más probable y cuál es el estudio prioritario?**
+
+A) Tendinitis aquileana por sobrecarga mecánica; iniciar fisioterapia y antiinflamatorios, sin necesidad de exámenes de laboratorio.
+B) Xantoma tendinoso sugerente de hipercolesterolemia familiar; solicitar perfil lipídico completo urgente y derivar para estudio genético.
+C) Lipoma subcutáneo del tendón; solicitar ecografía para confirmar el diagnóstico y evaluar resección.
+D) Depósito de ácido úrico (tofo gotoso); solicitar uricemia y radiografía para confirmar artropatía gotosa.
+E) Quiste sinovial del tendón de Aquiles; solicitar resonancia magnética para evaluar extensión antes de intervenir.
+
+**Respuesta correcta: B** — Un engrosamiento amarillento en el tendón de Aquiles en una persona joven es un xantoma tendinoso, que es prácticamente diagnóstico de hipercolesterolemia familiar hasta que se demuestre lo contrario. El estudio prioritario es el perfil lipídico completo y, confirmado el LDL muy elevado, se deriva para estudio genético. Todo el grupo familiar de primer grado debe tamizarse también. El tratamiento requiere estatina en dosis máximas más ezetimibe.
+
+**¿Cuál es el esquema de tratamiento farmacológico de primera línea para la hipercolesterolemia familiar heterocigota, y por qué difiere del tratamiento estándar de la dislipidemia adquirida?**
+
+A) Estatina en dosis estándar (ej. atorvastatina 20 mg/día) sola; es suficiente para lograr el objetivo de LDL en la mayoría de los pacientes con hipercolesterolemia familiar.
+B) Solo cambios de estilo de vida y dieta estricta durante 6 meses antes de considerar fármacos, igual que en la dislipidemia adquirida.
+C) Estatina de alta intensidad en dosis máximas (atorvastatina 80 mg/día) combinada con ezetimibe desde el inicio; la magnitud del LDL genético requiere una reducción agresiva que una estatina sola habitualmente no logra.
+D) Fibratos de primera línea porque el problema genético es principalmente de triglicéridos, no de LDL.
+E) Niacina en dosis altas como primera línea por su capacidad de reducir el LDL genético de manera específica.
+
+**Respuesta correcta: C** — La hipercolesterolemia familiar tiene LDL tan elevado (frecuentemente 250-500 mg/dL) que una estatina sola a dosis estándar es insuficiente para alcanzar el objetivo. Se requiere la estatina más potente disponible en dosis máximas (atorvastatina 80 mg/día) combinada con ezetimibe desde el inicio. En casos de hipercolesterolemia familiar homocigota (LDL > 500-800 mg/dL), puede ser necesario agregar inhibidores de PCSK9. Los fibratos (opción D) son para hipertrigliceridemia, no para LDL elevado. La niacina (opción E) no tiene beneficio cardiovascular demostrado claro.
 
 ---

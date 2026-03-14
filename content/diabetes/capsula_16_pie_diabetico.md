@@ -51,20 +51,36 @@ Algoritmo de evaluación del compromiso óseo: clínica → radiografía → RMN
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre el pie diabético es correcta?**
+**Un hombre de 71 años con diabetes mellitus tipo 2 de 16 años de evolución consulta porque su esposa notó una mancha oscura en su talón. Al examinarlo, hay una úlcera de 2 cm de diámetro con tejido necrótico que al sondaje llega hasta el tendón de Aquiles. El paciente no refiere dolor. ¿Cuál es el grado de pie diabético y cuál es la conducta correcta?**
 
-A) El desbridamiento químico con hidrogel es el tratamiento de primera línea en las úlceras de grado 2 con compromiso de tendones, equivalente al desbridamiento quirúrgico.
+A) Grado 1 (úlcera superficial); curación local ambulatoria con antibióticos tópicos.
+B) Grado 2 (compromiso de tendón); desbridamiento quirúrgico y evaluación para antibióticos si hay signos de infección.
+C) Grado 3 (compromiso óseo); amputación de urgencia sin necesidad de imágenes previas.
+D) Grado 4 (gangrena localizada); desbridamiento químico con hidrogel como primera medida.
+E) Grado 0 (pie en riesgo); educación del paciente y revisión del calzado.
 
-B) El pie diabético se define exclusivamente por la presencia de una úlcera activa; el pie en riesgo sin úlcera no se clasifica dentro de esta entidad.
+**Respuesta correcta: B** — La úlcera llega hasta el tendón de Aquiles, lo que corresponde a compromiso de tendones o músculos profundos: grado 2. El manejo desde el grado 2 requiere desbridamiento quirúrgico (no químico, que es la segunda opción cuando no hay cirujano disponible). Si hay signos de infección (tejido maloliente, fiebre, eritema perilesional), se agregan antibióticos de amplio espectro. La ausencia de dolor es esperable por la neuropatía periférica diabética.
 
-C) El grado 3 del pie diabético, que implica compromiso óseo u osteomielitis, es el que más condiciona el pronóstico y la necesidad de amputación.
+**¿Cuál es el examen inicial de elección para evaluar compromiso óseo (osteomielitis) en un paciente con pie diabético grado 3, y cuándo se solicita la resonancia magnética?**
 
-D) La resonancia magnética es siempre el primer examen que se solicita para evaluar compromiso óseo en el pie diabético, dado su alta sensibilidad.
+A) Resonancia magnética de inmediato, porque es el examen más sensible y evita los falsos negativos de la radiografía.
+B) Tomografía computada como examen inicial por su mayor resolución comparado con la radiografía convencional.
+C) Radiografía simple como examen inicial; la resonancia magnética se solicita si la clínica y la radiografía no son concluyentes para definir la extensión del compromiso óseo.
+D) Cintigrama óseo de tres fases como examen de primera línea, ya que puede detectar osteomielitis antes que cualquier otro método.
+E) El diagnóstico de osteomielitis siempre requiere biopsia ósea; las imágenes son solo orientadoras.
 
-E) Las úlceras de pie diabético siempre están infectadas y requieren antibióticos de amplio espectro desde el inicio.
+**Respuesta correcta: C** — El algoritmo de evaluación del compromiso óseo en pie diabético es: primero la clínica directa (si la sonda llega a hueso, hay osteomielitis sin necesidad de imágenes), luego radiografía simple (rápida, económica, disponible), y si no es concluyente, resonancia magnética (el examen más sensible). La RM no se solicita de primera línea por razones de costo y disponibilidad, y la radiografía frecuentemente ya es diagnóstica en estadios avanzados.
 
-**Respuesta correcta: C** — El grado 3, con presencia de osteomielitis o absceso, es el que define el pronóstico y habitualmente termina en amputación. El desbridamiento quirúrgico es preferido sobre el químico en pie diabético; el pie en riesgo sin úlcera sí es grado 0; la radiografía simple es el examen inicial (no la RMN); y no todas las úlceras están infectadas.
+**¿Cuál de los tres pilares fisiopatológicos del pie diabético explica por qué las úlceras se infectan con facilidad y tienen mala cicatrización?**
+
+A) Solo la neuropatía explica ambas: la pérdida de sensibilidad hace que el paciente no note las heridas y no trate las infecciones.
+B) La vasculopatía (isquemia) explica la mala cicatrización al reducir el aporte de oxígeno y nutrientes; la inmunosupresión relativa de la diabetes explica la susceptibilidad a la infección.
+C) Solo la vasculopatía explica la mala cicatrización; la diabetes no afecta la función inmune de manera clínicamente relevante.
+D) La neuropatía es el único factor relevante; la vasculopatía solo importa cuando hay isquemia crítica con ausencia de pulsos.
+E) Los tres factores son interdependientes y equivalentes; no es posible atribuir una complicación a un pilar específico.
+
+**Respuesta correcta: B** — Aunque los tres pilares son interdependientes, cada uno tiene un rol específico: la neuropatía hace que el paciente no sienta la herida (factor de inicio), la vasculopatía con isquemia compromete la cicatrización al reducir el aporte de oxígeno y nutrientes (factor de progresión), y la inmunosupresión relativa de la diabetes crónica hace que los gérmenes proliferen con menor resistencia del huésped (factor de infección). Los tres juntos explican por qué una rozadura mínima puede convertirse en una osteomielitis en semanas.
 
 ---

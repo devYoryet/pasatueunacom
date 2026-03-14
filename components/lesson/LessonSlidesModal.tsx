@@ -90,12 +90,12 @@ function buildSlides(lesson: Lesson): Slide[] {
 
 function detectCorrectOption(respuesta: string): string | null {
   const patterns = [
-    /^([A-D])[).]/m,
-    /respuesta\s+(?:correcta\s+)?(?:es\s+)?(?:la\s+opci[oó]n\s+)?([A-D])\b/i,
-    /(?:correcta?)\s+(?:es\s+)?(?:la\s+opci[oó]n\s+)?([A-D])\b/i,
-    /opci[oó]n\s+([A-D])\s+(?:es|son)\s+(?:la\s+)?correc/i,
-    /\b([A-D])\)\s+es\s+(?:la\s+)?(?:respuesta\s+)?correc/i,
-    /\bcorrecta?:\s*([A-D])\b/i,
+    /^([A-E])[).]/m,
+    /respuesta\s+(?:correcta\s+)?(?:es\s+)?(?:la\s+opci[oó]n\s+)?([A-E])\b/i,
+    /(?:correcta?)\s+(?:es\s+)?(?:la\s+opci[oó]n\s+)?([A-E])\b/i,
+    /opci[oó]n\s+([A-E])\s+(?:es|son)\s+(?:la\s+)?correc/i,
+    /\b([A-E])\)\s+es\s+(?:la\s+)?(?:respuesta\s+)?correc/i,
+    /\bcorrecta?:\s*([A-E])\b/i,
   ]
   for (const p of patterns) {
     const m = respuesta.match(p)
@@ -109,7 +109,7 @@ function parseQuestion(pregunta: string) {
   const questionLines: string[] = []
   const options: { letter: string; text: string }[] = []
   lines.forEach((line) => {
-    const m = line.trim().match(/^([A-Da-d])[).]\s+(.+)/)
+    const m = line.trim().match(/^([A-Ea-e])[).]\s+(.+)/)
     if (m) {
       options.push({ letter: m[1].toUpperCase(), text: m[2] })
     } else {

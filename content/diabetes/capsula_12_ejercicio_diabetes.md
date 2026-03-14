@@ -56,16 +56,36 @@ Estos once casos ilustran la misma lógica de fondo: primero determine el objeti
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**Una mujer de 82 años con diabetes mellitus tipo 2 está en tratamiento con metformina 850 mg cada 12 horas y glibenclamida 5 mg cada 12 horas. Su HbA1c en el último control es 6,8%. No tiene hipoglicemias documentadas. ¿Cuál es la conducta correcta?**
 
-A) En un paciente de 80 años con HbA1c del 6,5% en metformina más glibenclamida, la conducta correcta es aumentar las dosis para asegurar el objetivo de HbA1c < 7%.
-B) Un paciente de 58 años con metformina en dosis máxima, HbA1c del 8,5% y creatinina de 1,8 mg/dL debe continuar con metformina y agregar glibenclamida como segundo fármaco.
-C) Ante un paciente de 45 años con hipotiroidismo autoinmune, HbA1c del 10,8% y diabetes resistente a metformina, se debe sospechar diabetes LADA e iniciar insulina mientras se estudia con péptido C y anticuerpos.
-D) En un paciente de 77 años con HbA1c del 7% en dos hipoglicemiantes, la conducta es agregar insulina NPH porque está por encima del objetivo para su edad.
-E) La creatinina de 1,3 mg/dL contraindica el uso de metformina en un paciente con buen control metabólico.
+A) Felicitar a la paciente y mantener el esquema sin cambios porque su control es excelente.
+B) Subir la metformina a dosis máxima para consolidar el buen control y reducir el riesgo de complicaciones crónicas.
+C) Suspender la glibenclamida: en una paciente de 82 años el objetivo es HbA1c < 8%, y con 6,8% el control es excesivamente estricto, lo que aumenta el riesgo de hipoglicemia.
+D) Agregar una gliptina para optimizar el control postprandial y bajar la HbA1c bajo 6%.
+E) Iniciar insulina NPH nocturna para consolidar el control metabólico ya que la HbA1c está cercana al 7%.
 
-**Respuesta correcta: C** — La combinación de edad joven, enfermedad autoinmune concomitante y diabetes severamente mal controlada resistente a metformina es el escenario clásico de diabetes LADA; la conducta inmediata es insulina, y el estudio con péptido C y anticuerpos confirma el diagnóstico.
+**Respuesta correcta: C** — En pacientes mayores de 75 años el objetivo es HbA1c < 8%, no < 7%. Con HbA1c de 6,8%, esta paciente está sobretratada, lo que significa riesgo real de hipoglicemia con la glibenclamida. La conducta correcta es suspender la glibenclamida para reducir ese riesgo. Mantenerla o agregarle más medicamentos (opciones A, B, D, E) no es apropiado dado que el control ya supera el objetivo para su edad.
+
+**Un hombre de 56 años con hipotiroidismo autoinmune en tratamiento con levotiroxina presenta HbA1c de 11,3% y glicemia en ayuno de 285 mg/dL. Lleva 2 años con metformina en dosis máxima sin respuesta adecuada. Su IMC es 23. ¿Cuál es la conducta más apropiada?**
+
+A) Agregar glibenclamida como segundo hipoglicemiante, manteniendo la metformina en dosis máxima.
+B) Iniciar insulina NPH nocturna dado que la HbA1c supera el 9% e indica insulina sin necesidad de más escalones.
+C) Sospechar diabetes LADA: la combinación de enfermedad autoinmune, normopeso, diabetes severamente mal controlada resistente a orales indica autoinmunidad. Iniciar insulina y solicitar péptido C y anticuerpos (anti-GAD, anti-IA2).
+D) Cambiar metformina a sitagliptina como primera medida y reevaluar en 3 meses.
+E) Considerar que el hipotiroidismo es la causa de la hiperglicemia y solo ajustar la levotiroxina.
+
+**Respuesta correcta: C** — Este es el escenario clásico de LADA: adulto joven normopeso, enfermedad autoinmune concomitante (hipotiroidismo autoinmune), y diabetes con HbA1c muy elevada resistente a orales. La sospecha clínica obliga a estudiar con péptido C (esperado bajo) y anticuerpos (anti-GAD, anti-IA2, anti-insulina). Paralelamente se inicia insulina para estabilizar al paciente. La opción B es parcialmente correcta (la HbA1c > 9% ya indica insulina) pero no completa el estudio de la causa.
+
+**Un hombre de 58 años con DM2 tiene creatinina de 2,2 mg/dL y está en tratamiento con metformina 1 g cada 8 horas y HbA1c de 7,9%. ¿Cuál es la conducta correcta respecto al esquema actual?**
+
+A) Mantener la metformina porque la creatinina de 2,2 no supera el umbral de 2,5 mg/dL.
+B) Reducir la dosis de metformina a la mitad y agregar glibenclamida para compensar.
+C) Suspender la metformina de inmediato (creatinina ≥ 1,5 mg/dL la contraindica) y cambiar a insulina o a agonistas GLP-1 que son seguros en falla renal moderada.
+D) Cambiar metformina a iSGLT2 (empagliflozina), que es más efectivo en insuficiencia renal.
+E) No realizar cambios porque el control metabólico es aceptable y priorizar el tratamiento de la falla renal subyacente.
+
+**Respuesta correcta: C** — La creatinina ≥ 1,5 mg/dL (o clearance < 30 mL/min) contraindica el uso de metformina por riesgo de acidosis láctica. Con creatinina de 2,2 mg/dL, la metformina debe suspenderse de inmediato independientemente del control metabólico. Las alternativas son insulina o agonistas GLP-1 (que mantienen eficacia en falla renal moderada). Los iSGLT2 (opción D) pierden eficacia en falla renal avanzada y no son la mejor opción aquí.
 
 ---

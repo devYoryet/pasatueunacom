@@ -49,20 +49,36 @@ El bicarbonato es la excepción, no la regla. Solo ante acidosis extrema en ceto
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**Un paciente de 18 años con diabetes tipo 1 llega a urgencias con glicemia de 380 mg/dL, pH arterial 7,15, bicarbonato 8 mEq/L, anión gap 22 y potasio plasmático de 3,0 mEq/L. ¿Cuál es la conducta más correcta a seguir inmediatamente?**
+**Un paciente de 22 años con diabetes mellitus tipo 1 llega a urgencias con cetoacidosis diabética. Sus exámenes muestran: glicemia 490 mg/dL, pH 7,18, bicarbonato 8 mEq/L, potasio plasmático 5,8 mEq/L. ¿Cuál es la conducta correcta respecto al manejo del potasio e inicio de insulina?**
 
-A) Iniciar insulina cristalina en bolo de 0,1 U/kg y goteo, junto con reposición de suero fisiológico y potasio simultáneamente.
+A) Administrar potasio endovenoso de inmediato porque la acidosis desplaza el potasio al extracelular y el valor real intracelular está bajo.
+B) No administrar potasio adicional porque el potasio plasmático está sobre 5,3 mEq/L; sí iniciar insulina con suero fisiológico.
+C) Administrar potasio y diferir la insulina hasta que el potasio baje espontáneamente a rango normal.
+D) Administrar bicarbonato primero para corregir la acidosis y bajar el potasio al intracelular antes de dar insulina.
+E) Administrar potasio en bolo endovenoso directo para corregir rápidamente el déficit corporal total antes de iniciar la insulina.
 
-B) Administrar bicarbonato de inmediato dado que el pH es menor a 7,3, antes de cualquier otra medida.
+**Respuesta correcta: B** — Con potasio > 5,3 mEq/L, no se administra potasio adicional porque ya hay hiperkalemia. Sin embargo, sí se puede iniciar la insulina (junto con el suero fisiológico), ya que la insulina bajará el potasio al intracelular, lo que es deseable en este contexto. El potasio corporal total siempre está disminuido en la CAD, pero si el plasmático está alto, no se repone hasta que baje al rango 3,3-5,3. El bolo directo de potasio IV (opción E) causa paro cardíaco.
 
-C) Iniciar suero fisiológico y reposición de potasio; diferir la insulina hasta que el potasio suba sobre 3,3 mEq/L.
+**¿En qué única circunstancia está indicado el bicarbonato en el tratamiento de la cetoacidosis diabética?**
 
-D) Administrar un bolo endovenoso directo de potasio para corregir rápidamente la hipocalemia antes de iniciar el suero.
+A) Siempre que el pH sea menor a 7,3, porque la acidosis metabólica debe corregirse activamente con álcali.
+B) Cuando el bicarbonato sérico es menor a 15 mEq/L, porque ese es el umbral de acidosis severa.
+C) Solo cuando el pH es menor a 6,9, ya que representa acidosis extrema incompatible con la función cardíaca normal; en el síndrome hiperglicémico hiperosmolar prácticamente nunca se usa.
+D) En todo paciente con CAD que tenga compromiso de conciencia, independientemente del pH.
+E) Cuando la osmolaridad plasmática supera 320 mOsm/L, porque la hiperosmolaridad genera acidosis refractaria.
 
-E) Esperar el resultado del hemocultivo antes de iniciar cualquier tratamiento, para descartar la causa infecciosa.
+**Respuesta correcta: C** — El bicarbonato solo se indica en la CAD cuando el pH cae por debajo de 6,9, lo que representa una acidosis extrema con riesgo de falla cardíaca. Con pH de 7,15, 7,20 o incluso 7,10, el bicarbonato no está indicado. En el HGHO prácticamente nunca se usa porque no hay acidosis significativa. La corrección de la acidosis en la CAD ocurre naturalmente al tratar la causa (hidratación + insulina que detiene la producción de cuerpos cetónicos).
 
-**Respuesta correcta: C** — Con potasio en 3,0 mEq/L (menor a 3,3), la insulina está contraindicada hasta que se reponga el potasio, ya que bajaría aún más la kalemia y podría causar una arritmia fatal. Se inicia el suero fisiológico y la reposición de potasio en goteo (nunca en bolo). El bicarbonato solo se usa si pH menor a 6,9. El bolo directo de potasio IV causa paro cardíaco.
+**Durante el tratamiento de una cetoacidosis diabética, la glicemia baja de 490 mg/dL a 195 mg/dL en 4 horas con insulina cristalina en goteo, pero el pH aún es 7,22 y hay cetonemia persistente. ¿Cuál es la conducta correcta?**
+
+A) Suspender la insulina porque la glicemia ya bajó bajo 200 mg/dL y hay riesgo de hipoglicemia.
+B) Reducir la insulina a la mitad y cambiar el suero fisiológico por agua destilada para seguir bajando la glicemia.
+C) Cambiar el suero fisiológico a suero glucosalino (glucosa 2,5% + NaCl 0,45%) y mantener la insulina en goteo hasta resolver la acidosis y la cetonemia, independientemente de la glicemia.
+D) Iniciar insulina NPH subcutánea y suspender el goteo endovenoso, ya que la glicemia ya está controlada.
+E) Agregar bicarbonato porque la acidosis no se ha resuelto a pesar del tratamiento.
+
+**Respuesta correcta: C** — Cuando la glicemia baja bajo 200 mg/dL durante el tratamiento de la CAD, se cambia el suero a glucosalino (mezcla de glucosa + salino) para aportar glucosa y evitar hipoglicemia, pero la insulina en goteo se mantiene hasta resolver completamente la acidosis y la cetonemia. La CAD no está resuelta con solo bajar la glicemia; se necesita corregir el pH y eliminar los cuerpos cetónicos. Suspender la insulina (opciones A y D) antes de resolver la cetosis provocaría recaída.
 
 ---

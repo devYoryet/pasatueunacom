@@ -101,17 +101,42 @@ function parseCapsule(filepath: string): ParsedCapsule | null {
   }
 
   // Review questions: "## Pregunta de Autoevaluación"
-  const pregStart = lines.findIndex(l => l.includes('## Pregunta de Autoevaluación'))
+  // Captures ALL question blocks in the section, each with full text + options
+  const pregStart = lines.findIndex(l => l.includes('## Pregunta de Autoevaluación') || l.includes('## Preguntas de Repaso'))
   const ai_review_qs: Array<{ pregunta: string; respuesta: string }> = []
   if (pregStart >= 0) {
-    const pregLine = lines.slice(pregStart + 1).find(l => l.startsWith('**¿') || l.includes('**¿'))
-    const respLine = lines.slice(pregStart + 1).find(l => l.startsWith('**Respuesta correcta'))
-    if (pregLine && respLine) {
-      ai_review_qs.push({
-        pregunta: pregLine.replace(/\*\*/g, '').trim(),
-        respuesta: respLine.replace(/\*\*/g, '').trim(),
-      })
-    }
+    const sectionEnd = lines.findIndex((l, i) => i > pregStart && l.trim() === '---')
+    const secLines = lines.slice(pregStart + 1, sectionEnd >= 0 ? sectionEnd : undefined)
+
+    // Find all respuesta line indices within section
+    const respIdxs: number[] = []
+    secLines.forEach((l, i) => {
+      if (/^\*?\*?Respuesta correcta/i.test(l.trim())) respIdxs.push(i)
+    })
+
+    // Find all question-start line indices (lines containing **¿...?)
+    const qIdxs: number[] = []
+    secLines.forEach((l, i) => {
+      if (l.includes('**¿') || l.includes('**¿')) {
+        // only mark as question start if it's a question line
+        if (/\*\*¿.+\?/.test(l) || (l.includes('**¿') && l.includes('?'))) qIdxs.push(i)
+      }
+    })
+
+    qIdxs.forEach((qIdx) => {
+      // The respuesta for this question is the first respuesta line after qIdx
+      const rIdx = respIdxs.find(r => r > qIdx)
+      if (rIdx === undefined) return
+      // pregunta = all lines from qIdx up to (not including) rIdx, cleaned of **
+      const pregLines = secLines.slice(qIdx, rIdx)
+        .map(l => l.replace(/\*\*/g, '').trim())
+        .filter(l => l.length > 0)
+      const pregunta = pregLines.join('\n').trim()
+      const respuesta = secLines[rIdx].replace(/\*\*/g, '').trim()
+      if (pregunta && respuesta) {
+        ai_review_qs.push({ pregunta, respuesta })
+      }
+    })
   }
 
   // High yield: derive from key concepts (top 3)

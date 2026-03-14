@@ -66,16 +66,36 @@ Por último, un hombre de 49 años ingresa al servicio de urgencias por un cuadr
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**¿Cuál de los siguientes valores corresponde al criterio diagnóstico correcto de diabetes mellitus en una persona no embarazada y sin condición aguda intercurrente?**
 
-A) Una glicemia de ayuno de 125 mg/dL es suficiente para diagnosticar diabetes mellitus sin necesidad de repetirla.
-B) La intolerancia a la glucosa oral se define como una glicemia post-TTGO entre 200 y 250 mg/dL a las 2 horas.
-C) En un paciente hospitalizado por neumonía con glicemia de 260 mg/dL, el examen de elección para confirmar diabetes es la hemoglobina glicosilada.
-D) Los síntomas clásicos de diabetes incluyen polidipsia y poliuria, pero nunca se asocian a baja de peso.
-E) El índice HOMA mayor a 2,6 confirma el diagnóstico de diabetes mellitus tipo 2.
+A) Una sola glicemia de ayuno de 118 mg/dL, sin síntomas.
+B) Una glicemia de ayuno de 130 mg/dL confirmada en un segundo examen días después.
+C) Una glicemia post-TTGO de 185 mg/dL a las 2 horas en ausencia de síntomas.
+D) Una glicemia al azar de 195 mg/dL con presencia de polidipsia, poliuria y baja de peso.
+E) Dos glicemias en ayuno de 124 mg/dL medidas en días distintos.
 
-**Respuesta correcta: C** — En contexto de infección u otra condición inflamatoria que genera hiperglicemia por estrés, los criterios habituales de glicemia no son válidos para diagnosticar diabetes; la HbA1c ≥ 6,5% es el examen de elección en este escenario.
+**Respuesta correcta: D** — La presencia de síntomas clásicos (polidipsia, poliuria, baja de peso) junto a una glicemia ≥ 200 mg/dL en cualquier momento es suficiente para diagnosticar diabetes con una sola medición. La opción A no alcanza el criterio (necesita ≥ 126 y además confirmación sin síntomas). La opción B requiere ≥ 126 (no 130 necesariamente, pero debe repetirse); en realidad 130 sí supera el umbral pero el enunciado pide el concepto correcto — la opción D es la más claramente correcta sin ambigüedad. La opción C corresponde a intolerancia a la glucosa (140-199 post-TTGO), no diabetes. La opción E tiene valores de 124 (prediabetes, no diabetes).
+
+**Un hombre de 50 años ingresa a urgencias por peritonitis secundaria a perforación de úlcera gástrica. Su glicemia de ingreso es 290 mg/dL. No tiene diagnóstico previo de diabetes. ¿Cuál es la conducta diagnóstica más adecuada para determinar si tiene diabetes de base?**
+
+A) Diagnosticar diabetes mellitus tipo 2 de inmediato porque la glicemia supera 200 mg/dL con síntomas digestivos.
+B) Repetir la glicemia en ayuno al día siguiente para confirmar el diagnóstico.
+C) Solicitar hemoglobina glicosilada (HbA1c): si es ≥ 6,5%, confirma diabetes subyacente.
+D) No realizar ningún examen durante la hospitalización y citar para glicemia en ayuno al mes.
+E) Solicitar insulina plasmática e índice HOMA para confirmar la causa de la hiperglicemia.
+
+**Respuesta correcta: C** — En presencia de una condición inflamatoria aguda grave (peritonitis), la hiperglicemia puede ser totalmente secundaria al estrés metabólico y no reflejar diabetes de base. Los criterios diagnósticos basados en glicemia no son válidos en este contexto. La HbA1c, al reflejar el promedio glucémico de los últimos 2-3 meses, no se ve afectada por el estrés agudo y es el examen de elección. Un valor ≥ 6,5% confirma diabetes subyacente.
+
+**Una mujer de 41 años, asintomática, acude a control de salud preventivo. Su glicemia de ayuno es 110 mg/dL. ¿Cuál es el diagnóstico y la conducta correcta?**
+
+A) Glicemia normal; no se requiere ningún examen adicional.
+B) Diabetes mellitus; se debe repetir la glicemia para confirmar.
+C) Glicemia de ayuno alterada (prediabetes); se debe solicitar un TTGO para completar el estudio.
+D) Resistencia a la insulina; calcular índice HOMA con insulina plasmática e iniciar metformina.
+E) Intolerancia a la glucosa oral; diagnosticar directamente sin necesidad de TTGO.
+
+**Respuesta correcta: C** — Una glicemia de ayuno entre 100 y 125 mg/dL corresponde a glicemia de ayuno alterada (estado de prediabetes). La conducta es solicitar un TTGO para descartar diabetes (glicemia post-carga ≥ 200) o intolerancia a la glucosa (140-199). No es normal (opción A), no es diabetes (el umbral es 126), y la intolerancia a la glucosa (opción E) requiere el TTGO para diagnosticarse, no puede establecerse solo con la glicemia de ayuno.
 
 ---

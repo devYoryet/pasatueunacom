@@ -55,20 +55,36 @@ Los tres niveles de riesgo cardiovascular y sus umbrales de tratamiento. Fácil 
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones sobre el tratamiento de las dislipidemias es correcta?**
+**Un hombre de 50 años sin diabetes, sin hipertensión y no fumador tiene un perfil lipídico con LDL 165 mg/dL, HDL 52 mg/dL y triglicéridos 130 mg/dL. Su score de Framingham es 7% (riesgo bajo). Se inicia una dieta estricta durante 3 meses y el LDL se mantiene en 162 mg/dL. ¿Cuál es la conducta correcta?**
 
-A) En un paciente con triglicéridos de 350 mg/dL y LDL normal, la indicación inmediata es iniciar fibratos por el riesgo de pancreatitis.
+A) No iniciar estatinas porque el riesgo cardiovascular es bajo y el LDL nunca supera el umbral de 190 mg/dL para tratamiento.
+B) Iniciar fibratos porque los triglicéridos están en rango normal-alto y la dislipidemia mixta requiere tratamiento.
+C) Iniciar estatinas porque en riesgo bajo, si el LDL supera 160 mg/dL sin respuesta a dieta por 3 meses, está indicado iniciar tratamiento farmacológico.
+D) Iniciar ezetimibe como primera línea porque es más seguro que las estatinas en pacientes sin enfermedad cardiovascular establecida.
+E) Continuar solo con dieta por 6 meses más antes de considerar fármacos.
 
-B) El HDL bajo es la prioridad de tratamiento en el síndrome metabólico, y la niacina debe iniciarse de inmediato por su demostrado beneficio cardiovascular.
+**Respuesta correcta: C** — En riesgo cardiovascular bajo (Framingham < 10%), las estatinas no se indican de rutina. Sin embargo, hay dos excepciones: LDL > 190 mg/dL de entrada, o LDL > 160 mg/dL sin respuesta a dieta por 3 meses. Con LDL de 162 mg/dL sin respuesta a dieta, la indicación de estatinas es correcta. Los fibratos (opción B) son para hipertrigliceridemia, no para LDL elevado. El ezetimibe (opción D) es alternativa a las estatinas, no primera línea.
 
-C) Un paciente diabético de 55 años sin enfermedad coronaria previa no requiere estatinas si su LDL es de 80 mg/dL, ya que está en rango óptimo.
+**Un paciente de 57 años con diabetes mellitus tipo 2 de 5 años de evolución, sin eventos cardiovasculares previos, tiene LDL de 74 mg/dL, HDL 48 mg/dL y triglicéridos 220 mg/dL. ¿Cuál es la conducta correcta respecto al tratamiento lipídico?**
 
-D) En un paciente de bajo riesgo cardiovascular con LDL de 200 mg/dL sin respuesta a dieta por tres meses, está indicado iniciar estatinas.
+A) No iniciar estatinas porque el LDL ya está en rango óptimo (< 100 mg/dL) y no hay enfermedad cardiovascular establecida.
+B) Iniciar fibratos de entrada porque los triglicéridos están elevados y son la prioridad en el diabético.
+C) Iniciar estatinas con objetivo de LDL < 70 mg/dL, porque la diabetes confiere riesgo cardiovascular máximo sin necesidad de calcular el Framingham.
+D) Iniciar niacina para elevar el HDL, que es el factor protector más importante en el perfil de este paciente.
+E) Solo cambios de estilo de vida por 6 meses porque el LDL ya está en rango y los triglicéridos no alcanzan el umbral de riesgo de pancreatitis.
 
-E) Las estatinas actúan principalmente bloqueando la absorción intestinal de colesterol, a diferencia del ezetimibe que actúa a nivel hepático.
+**Respuesta correcta: C** — La diabetes es un equivalente coronario (riesgo cardiovascular máximo), lo que indica estatinas independientemente del valor basal de LDL, con objetivo de LDL < 70 mg/dL. Con LDL de 74 mg/dL, el paciente ya está cerca del objetivo pero aún no lo alcanza. Además se debe iniciar aspirina. Los fibratos (opción B) se indican cuando los triglicéridos superan 500 mg/dL por riesgo de pancreatitis; a 220 mg/dL no hay urgencia. La niacina (opción D) no tiene beneficio cardiovascular demostrado claro.
 
-**Respuesta correcta: D** — En riesgo cardiovascular bajo, las estatinas se indican cuando el LDL supera 190 mg/dL de entrada, o cuando supera 160 mg/dL tras tres meses de dieta sin respuesta. Un LDL de 200 sin respuesta a dieta es indicación. Los fibratos se indican con triglicéridos >500 (no 350); la niacina no tiene beneficio cardiovascular demostrado claro; el diabético siempre tiene indicación de estatinas independiente del LDL; y las estatinas actúan inhibiendo la HMG-CoA reductasa hepática (no absorción intestinal, que es el mecanismo del ezetimibe).
+**Un paciente tiene triglicéridos de 820 mg/dL. Su médico le explica el riesgo principal de este nivel y decide iniciar tratamiento farmacológico de primera línea. ¿Cuál es el riesgo prioritario y el fármaco de elección?**
+
+A) El riesgo principal es el infarto de miocardio; iniciar estatinas en alta intensidad para reducir los triglicéridos y el LDL simultáneamente.
+B) El riesgo principal es la pancreatitis aguda; iniciar fibratos (gemfibrozilo o fenofibrato) como tratamiento de elección para bajar los triglicéridos.
+C) El riesgo principal es el accidente vascular encefálico; iniciar aspirina y estatinas de inmediato.
+D) El riesgo principal es la nefropatía por hipertrigliceridemia; iniciar ezetimibe para reducir la carga lipídica renal.
+E) El riesgo principal es la aterosclerosis acelerada; iniciar agonistas GLP-1 que tienen efecto trigliceridolítico demostrado.
+
+**Respuesta correcta: B** — Cuando los triglicéridos superan 500 mg/dL, el riesgo de pancreatitis aguda supera en urgencia al riesgo cardiovascular y se convierte en la prioridad. Los fibratos (gemfibrozilo, fenofibrato) son el fármaco de elección para hipertrigliceridemia. Con triglicéridos > 1.000 mg/dL puede requerirse hospitalización. Las estatinas son menos efectivas para reducir triglicéridos y no son la primera línea cuando la hipertrigliceridemia severa es el problema dominante.
 
 ---

@@ -52,16 +52,36 @@ iSGLT2 actúa en el riñón, generando glucosuria. GLP-1 actúa en el páncreas 
 
 ---
 
-## Pregunta de Autoevaluación
+## Preguntas de Repaso
 
-**¿Cuál de las siguientes afirmaciones es correcta?**
+**Una mujer de 66 años con diabetes mellitus tipo 2 tiene creatinina de 1,7 mg/dL e insuficiencia cardíaca con fracción de eyección reducida. ¿Cuál es el hipoglicemiante más apropiado para ella?**
 
-A) La metformina es de primera línea en DM2 y puede usarse sin restricción en pacientes con insuficiencia renal crónica avanzada.
-B) Las sulfonilureas como la glibenclamida tienen bajo riesgo de hipoglicemia y son el fármaco preferido en adultos mayores de 75 años.
-C) Los inhibidores del SGLT2 como la empagliflozina son de elección en la insuficiencia cardíaca y en la nefropatía diabética con macroalbuminuria, con la salvedad de que su eficacia disminuye en insuficiencia renal avanzada.
-D) Los agonistas del GLP-1 como el liraglutide actúan inhibiendo la reabsorción renal de glucosa, generando glucosuria.
-E) Las glitazonas (pioglitazona) son actualmente el segundo escalón preferido en el tratamiento de la DM2 por su bajo perfil de riesgo cardiovascular.
+A) Metformina, porque es el fármaco de primera línea y su dosis puede ajustarse según la función renal.
+B) Glibenclamida, porque tiene bajo costo y eficacia demostrada en pacientes con comorbilidades.
+C) Empagliflozina (iSGLT2), porque tiene beneficio cardiovascular demostrado en insuficiencia cardíaca y se prefiere sobre metformina en este contexto.
+D) Pioglitazona (glitazona), porque no produce hipoglicemia y es segura en insuficiencia cardíaca.
+E) Acarbosa, porque al actuar en el intestino evita efectos sistémicos en pacientes con falla renal y cardíaca.
 
-**Respuesta correcta: C** — Los iSGLT2 tienen indicación preferente en insuficiencia cardíaca y nefropatía con macroalbuminuria, pero al depender de la filtración glomerular para actuar, pierden eficacia cuando la función renal está gravemente comprometida.
+**Respuesta correcta: C** — Los iSGLT2 (empagliflozina) son el fármaco de elección en insuficiencia cardíaca por su demostrado beneficio en reducción de hospitalizaciones y mortalidad cardiovascular. La metformina (opción A) está contraindicada en insuficiencia cardíaca moderada-severa y con creatinina ≥ 1,5 mg/dL. La glibenclamida (opción B) tiene alto riesgo de hipoglicemia. La pioglitazona (opción D) está contraindicada en insuficiencia cardíaca por retención de líquidos.
+
+**¿Cuál de las siguientes afirmaciones describe correctamente el mecanismo de acción de los inhibidores del SGLT2 y sus limitaciones?**
+
+A) Actúan estimulando la secreción pancreática de insulina de forma glucosa-dependiente, lo que les confiere bajo riesgo de hipoglicemia.
+B) Inhiben la enzima DPP4, aumentando los niveles de GLP-1 endógeno y mejorando la secreción de insulina.
+C) Inhiben el transportador de glucosa en el túbulo renal proximal, aumentando la glucosuria; pierden eficacia en insuficiencia renal avanzada al reducirse la filtración glomerular.
+D) Reducen la resistencia a la insulina en tejidos periféricos y están contraindicados en insuficiencia renal por riesgo de acidosis láctica.
+E) Generan glucosuria al estimular la reabsorción activa de glucosa, lo que produce pérdida de calorías y reducción de peso.
+
+**Respuesta correcta: C** — Los iSGLT2 actúan inhibiendo el transportador SGLT2 en el túbulo renal, impidiendo la reabsorción de glucosa y generando glucosuria. Como dependen de la función renal para ejercer su efecto, pierden eficacia cuando el filtrado glomerular está muy reducido. La opción A describe los agonistas GLP-1. La opción B describe los inhibidores DPP4. La opción D describe la metformina. La opción E invierte el mecanismo (inhiben la reabsorción, no la estimulan).
+
+**Un hombre de 72 años con diabetes mellitus tipo 2 de 10 años de evolución consulta por episodios de mareo y sudoración que cedieron con azúcar. Está en tratamiento con metformina 1 g cada 8 horas y glibenclamida 10 mg cada 12 horas. Su HbA1c es 7,1%. ¿Cuál es la conducta más adecuada?**
+
+A) Mantener el esquema sin cambios porque el control es óptimo con HbA1c de 7,1%.
+B) Agregar una gliptina para mejorar el control postprandial y prevenir futuros episodios.
+C) Reemplazar la glibenclamida por una gliptina (sitagliptina): la glibenclamida tiene alto riesgo de hipoglicemia en adultos mayores y ya está produciendo episodios en este paciente.
+D) Subir la dosis de metformina a 3 g/día y suspender la glibenclamida sin reemplazo.
+E) Iniciar insulina NPH nocturna porque HbA1c > 7% con dos hipoglicemiantes indica fracaso al tratamiento oral.
+
+**Respuesta correcta: C** — La glibenclamida tiene riesgo significativo de hipoglicemia, especialmente en adultos mayores. Si ya está produciendo episodios, debe suspenderse. El reemplazo por una gliptina (sitagliptina) mantiene el control metabólico con menor riesgo hipoglicémico. La HbA1c de 7,1% es adecuada y no indica fracaso al tratamiento (opción E). Mantener la glibenclamida (opción A) ignora el riesgo de hipoglicemia.
 
 ---

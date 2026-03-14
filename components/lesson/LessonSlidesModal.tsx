@@ -242,6 +242,7 @@ function QuestionSlide({
   questionIndex,
   selectedAnswer,
   onAnswer,
+  onNext,
 }: {
   content: any
   index: number
@@ -249,11 +250,13 @@ function QuestionSlide({
   questionIndex: number
   selectedAnswer: string | undefined
   onAnswer: (qi: number, letter: string) => void
+  onNext: () => void
 }) {
   const { questionText, options } = parseQuestion(content.pregunta)
   const correctLetter = detectCorrectOption(content.respuesta)
   const answered = selectedAnswer !== undefined
   const hasOptions = options.length >= 2
+  const isLast = index === total
 
   const getOptionStyle = (letter: string) => {
     if (!answered) return 'bg-white border-slate-200 text-slate-700 hover:border-blue-400 hover:bg-blue-50 cursor-pointer'
@@ -264,14 +267,25 @@ function QuestionSlide({
 
   return (
     <div className="flex flex-col h-full px-6 py-4">
+      {/* Header with dots */}
       <div className="flex items-center justify-between mb-3">
         <div className="flex items-center gap-2">
           <div className="w-7 h-7 bg-green-100 rounded-lg flex items-center justify-center flex-shrink-0">
             <MessageSquare className="w-3.5 h-3.5 text-green-600" />
           </div>
-          <h2 className="text-sm font-bold text-slate-900">Pregunta de Repaso</h2>
+          <h2 className="text-sm font-bold text-slate-900">Preguntas de Repaso</h2>
         </div>
-        <span className="text-xs text-slate-400 font-medium">{index} / {total}</span>
+        {/* Dot indicators */}
+        <div className="flex items-center gap-1.5">
+          {Array.from({ length: total }).map((_, i) => (
+            <span
+              key={i}
+              className={`block rounded-full transition-all ${
+                i === index - 1 ? 'w-4 h-2 bg-green-500' : 'w-2 h-2 bg-slate-300'
+              }`}
+            />
+          ))}
+        </div>
       </div>
 
       <div className="flex-1 flex flex-col gap-2.5 overflow-y-auto">
@@ -333,6 +347,20 @@ function QuestionSlide({
           </div>
         )}
       </div>
+
+      {/* Advance button inside the card */}
+      {answered && (
+        <button
+          onClick={onNext}
+          className="mt-3 flex items-center justify-center gap-2 w-full py-2.5 rounded-xl bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 transition-colors"
+        >
+          {isLast ? (
+            <>Ver resultados <Trophy className="w-4 h-4" /></>
+          ) : (
+            <>Siguiente pregunta <ChevronRight className="w-4 h-4" /></>
+          )}
+        </button>
+      )}
     </div>
   )
 }
@@ -539,6 +567,7 @@ export default function LessonSlidesModal({
               questionIndex={slide.questionIndex!}
               selectedAnswer={questionAnswers[slide.questionIndex!]}
               onAnswer={handleAnswer}
+              onNext={next}
             />
           )}
           {slide.type === 'results' && (

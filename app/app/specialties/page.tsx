@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useMemo } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import { createClient } from '@/lib/supabase/client'
 import { Button } from '@/components/ui/button'
 import { Progress } from '@/components/ui/progress'
@@ -14,16 +15,20 @@ import {
   ChevronDown, ChevronUp, ExternalLink, Lock, Sparkles,
   Video, FileText, ClipboardList,
   ChevronRight, CalendarDays, Bell, Target,
+  TrendingUp, Flame, CheckCircle, Clock, Stethoscope, Trophy,
+  ArrowRight, Headphones,
 } from 'lucide-react'
+import RAGChat from '@/components/rag/RAGChat'
 import {
   COURSE_CALENDAR, CHAPTER_COLORS, formatWeekRange, getCurrentCourseWeek,
-  type CourseWeek,
+  getDaysUntilNextTest, getDaysUntilCourseEnd,
+  type CourseWeek, type TestDate,
 } from '@/lib/course-calendar'
 import {
   SPECIALTY_LESSONS, FREE_AI_MOCKUP, FREE_VIDEO_COUNT,
   type SpecialtyContent,
 } from '@/lib/course-lessons'
-import { getScoreColor } from '@/lib/utils'
+import { getScoreColor, getGreeting } from '@/lib/utils'
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -56,48 +61,135 @@ interface SpecialtyData extends Specialty {
   lessons: LessonItem[]
 }
 
-// ─── Audio Capsule Section ────────────────────────────────────────────────────
+// ─── Rotating clinical tips ───────────────────────────────────────────────────
 
-function AudioCapsuleSection({ lessons, specCode }: { lessons: LessonItem[]; specCode: string }) {
+const TIPS = [
+  { area: 'Cardiología',       tip: 'FA + inestabilidad hemodinámica: cardioversión eléctrica inmediata. No esperes antiarrítmicos.' },
+  { area: 'Diabetes',          tip: 'Metformina primera línea en DM2. Suspender si TFG < 30 mL/min o contraste yodado.' },
+  { area: 'Neumología',        tip: 'EPOC: FEV1/FVC < 0.70 post broncodilatador. Exacerbación grave: PaCO₂ elevado = agotamiento.' },
+  { area: 'Neurología',        tip: 'ACV isquémico: tPA hasta 4.5h del inicio. Contraindicado en hemorrágico o INR > 1.7.' },
+  { area: 'Infectología',      tip: 'Sepsis = SOFA ≥ 2. Bundle 1h: hemocultivos, antibióticos y fluidos 30 mL/kg.' },
+  { area: 'Hematología',       tip: 'Anemia ferropénica: ferritina baja + TIBC alto. Primera causa mundial de anemia.' },
+  { area: 'Nefrología',        tip: 'IRA prerrenal: FENa < 1%, densidad > 1020. Renal: FENa > 2%, cilindros granulosos.' },
+  { area: 'Reumatología',      tip: 'Anti-CCP: más específico para AR. FR positivo también en infecciones y sarcoidosis.' },
+  { area: 'Gastroenterología', tip: 'H. pylori: triple terapia 14 días. Verificar erradicación con UBT o Ag en deposiciones.' },
+  { area: 'Asma',              tip: 'Crisis grave: SpO₂ < 92%, pCO₂ normal o elevado (fatiga). UCI. No usar sedantes.' },
+  { area: 'Endocrinología',    tip: 'Hipotiroidismo: TSH alto + T4L bajo. Hashimoto = anti-TPO positivo. Tratamiento: levotiroxina.' },
+  { area: 'Insuf. cardíaca',   tip: 'IC con FEyVI reducida: IECA + betabloqueador + espironolactona reducen mortalidad.' },
+]
+
+function getTodayTip() {
+  const doy = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000)
+  return TIPS[doy % TIPS.length]
+}
+
+// ─── Mini Calendar ────────────────────────────────────────────────────────────
+
+function MiniCalendar({ testDates }: { testDates: TestDate[] }) {
+  const today = new Date()
+  const year = today.getFullYear()
+  const month = today.getMonth()
+  const todayD = today.getDate()
+  const daysInMonth = new Date(year, month + 1, 0).getDate()
+  const firstDow = (new Date(year, month, 1).getDay() + 6) % 7
+  const testDaySet = new Set(
+    testDates
+      .filter((t) => { const d = new Date(t.date); return d.getFullYear() === year && d.getMonth() === month })
+      .map((t) => new Date(t.date).getDate())
+  )
+  const getTitle = (day: number) =>
+    testDates.find((t) => { const d = new Date(t.date); return d.getFullYear() === year && d.getMonth() === month && d.getDate() === day })?.title
+  const cells: (number | null)[] = [...Array(firstDow).fill(null), ...Array.from({ length: daysInMonth }, (_, i) => i + 1)]
+  while (cells.length % 7 !== 0) cells.push(null)
+  const monthName = today.toLocaleString('es-CL', { month: 'long', year: 'numeric' })
+
+  return (
+    <div>
+      <p className="text-sm font-semibold text-slate-700 mb-3 capitalize">{monthName}</p>
+      <div className="grid grid-cols-7 mb-1">
+        {['L','M','M','J','V','S','D'].map((d, i) => (
+          <div key={i} className="text-center text-[10px] font-medium text-slate-400">{d}</div>
+        ))}
+      </div>
+      <div className="grid grid-cols-7">
+        {cells.map((day, i) => {
+          if (day === null) return <div key={`e-${i}`} />
+          const isToday = day === todayD
+          const isExam = testDaySet.has(day)
+          const isPast = day < todayD
+          return (
+            <div
+              key={i}
+              title={isExam ? getTitle(day) : undefined}
+              className={`flex items-center justify-center text-xs rounded-full mx-auto my-0.5 w-7 h-7 ${
+                isToday ? 'bg-blue-600 text-white font-bold ring-2 ring-blue-200' :
+                isExam  ? 'bg-amber-400 text-white font-bold cursor-help' :
+                isPast  ? 'text-slate-300' : 'text-slate-700 hover:bg-slate-100'
+              }`}
+            >
+              {day}
+            </div>
+          )
+        })}
+      </div>
+      <div className="flex items-center gap-3 mt-3 text-[10px] text-slate-400">
+        <span className="flex items-center gap-1.5"><span className="w-2.5 h-2.5 rounded-full bg-amber-400 inline-block" />Prueba</span>
+        <span className="flex items-center gap-1.5"><span className="w-2.5 h-2.5 rounded-full bg-blue-600 inline-block" />Hoy</span>
+      </div>
+    </div>
+  )
+}
+
+// ─── Audio Capsule Section (dark-themed, expanded inside week card) ───────────
+
+function AudioCapsuleSectionDark({
+  lessons,
+  specCode,
+  specName,
+}: {
+  lessons: LessonItem[]
+  specCode: string
+  specName: string
+}) {
   const [playingId, setPlayingId] = useState<number | null>(null)
   const available = lessons.filter((l) => l.is_available)
   if (available.length === 0) return null
 
   return (
-    <div className="border-t border-slate-200">
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
-        <Play className="w-3.5 h-3.5 text-slate-600" />
-        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
-          Cápsulas de Audio ({available.length})
-        </span>
+    <div className="border-t border-white/10">
+      {/* Section header */}
+      <div className="flex items-center gap-2.5 px-5 py-3 bg-white/5">
+        <Headphones className="w-4 h-4 text-blue-400 flex-shrink-0" />
+        <span className="text-sm font-semibold text-white">Cápsulas de Audio</span>
+        <span className="text-white/40 text-xs ml-0.5">({available.length})</span>
         <Link
           href={`/app/specialties/${specCode}?tab=lessons`}
-          className="ml-auto text-xs text-blue-700 hover:text-blue-900 font-medium"
+          className="ml-auto text-xs text-blue-400 hover:text-blue-300 font-medium transition-colors"
           onClick={(e) => e.stopPropagation()}
         >
-          Ver todo →
+          Ver todas →
         </Link>
       </div>
+      {/* Lesson rows */}
       {available.slice(0, 5).map((lesson) => {
         const durationMin = lesson.duration_seconds ? `${Math.floor(lesson.duration_seconds / 60)} min` : null
         const isAudio = !!(lesson.video_url && /\.(mp3|m4a|ogg|wav|aac)(\?|$)/i.test(lesson.video_url))
         const isPlaying = playingId === lesson.id
-
         return (
-          <div key={lesson.id} className="border-b border-slate-100 last:border-0">
-            <div className="flex items-center gap-3 px-4 py-2.5 hover:bg-slate-50 transition-colors">
-              <span className="text-xs font-mono text-slate-400 w-5 flex-shrink-0">{lesson.order_index}.</span>
-              <span className="text-sm text-slate-800 flex-1 leading-tight">{lesson.title}</span>
+          <div key={lesson.id} className="border-t border-white/5">
+            <div className="flex items-center gap-3 px-5 py-2.5 hover:bg-white/5 transition-colors">
+              <span className="text-xs font-mono text-white/30 w-5 flex-shrink-0">{lesson.order_index}.</span>
+              <span className="text-sm text-white/80 flex-1 leading-tight">{lesson.title}</span>
               {durationMin && (
-                <span className="text-xs text-slate-400 flex-shrink-0 hidden sm:block">{durationMin}</span>
+                <span className="text-xs text-white/30 flex-shrink-0 hidden sm:block">{durationMin}</span>
               )}
               {lesson.video_url && isAudio && (
                 <button
-                  onClick={() => setPlayingId(isPlaying ? null : lesson.id)}
+                  onClick={(e) => { e.stopPropagation(); setPlayingId(isPlaying ? null : lesson.id) }}
                   className={`flex items-center gap-1.5 text-xs px-2.5 py-1.5 rounded border transition-colors flex-shrink-0 ${
                     isPlaying
                       ? 'border-blue-400 bg-blue-600 text-white'
-                      : 'border-slate-300 bg-white text-slate-700 hover:border-blue-400 hover:text-blue-700'
+                      : 'border-white/20 bg-white/5 text-white/70 hover:border-blue-400 hover:text-blue-300'
                   }`}
                 >
                   <Play className="w-3 h-3" />
@@ -105,15 +197,13 @@ function AudioCapsuleSection({ lessons, specCode }: { lessons: LessonItem[]; spe
                 </button>
               )}
               {!lesson.video_url && (
-                <span className="text-xs text-slate-400 flex-shrink-0">Próximamente</span>
+                <span className="text-xs text-white/25 flex-shrink-0">Próximamente</span>
               )}
             </div>
             {isPlaying && isAudio && lesson.video_url && (
-              <div className="px-4 pb-3 bg-blue-50/50 border-t border-blue-100">
+              <div className="px-5 pb-3 bg-blue-900/20 border-t border-blue-500/20">
                 <audio
-                  controls
-                  autoPlay
-                  className="w-full h-9 mt-2"
+                  controls autoPlay className="w-full h-9 mt-2"
                   onEnded={() => setPlayingId(null)}
                 >
                   <source src={lesson.video_url} type="audio/mpeg" />
@@ -126,7 +216,8 @@ function AudioCapsuleSection({ lessons, specCode }: { lessons: LessonItem[]; spe
       {available.length > 5 && (
         <Link
           href={`/app/specialties/${specCode}?tab=lessons`}
-          className="flex items-center justify-center gap-1 py-2 text-xs text-blue-700 hover:bg-blue-50 transition-colors"
+          className="flex items-center justify-center gap-1 py-2.5 text-xs text-blue-400 hover:text-blue-300 hover:bg-white/5 transition-colors border-t border-white/5"
+          onClick={(e) => e.stopPropagation()}
         >
           <ChevronDown className="w-3.5 h-3.5" />
           Ver {available.length - 5} cápsulas más
@@ -143,50 +234,34 @@ function AIContentPanel({ specCode }: { specCode: string }) {
   if (!mockup) return null
 
   return (
-    <div className="mx-4 mb-3 rounded-lg border border-blue-200 bg-blue-50 p-4 text-sm">
+    <div className="mx-5 mb-3 rounded-lg border border-blue-500/30 bg-blue-900/20 p-4 text-sm">
       <div className="flex items-center gap-2 mb-3">
-        <Sparkles className="w-3.5 h-3.5 text-blue-600 flex-shrink-0" />
-        <span className="font-semibold text-blue-800 text-xs uppercase tracking-wide">
+        <Sparkles className="w-3.5 h-3.5 text-blue-400 flex-shrink-0" />
+        <span className="font-semibold text-blue-300 text-xs uppercase tracking-wide">
           Material IA — {mockup.lessonTitle}
         </span>
-        <Badge className="ml-auto text-[10px] bg-green-100 text-green-700 border border-green-200 font-semibold">
+        <Badge className="ml-auto text-[10px] bg-green-900/40 text-green-400 border border-green-500/30 font-semibold">
           Gratis
         </Badge>
       </div>
-
-      <p className="text-slate-700 leading-relaxed text-xs mb-3">{mockup.summary}</p>
-
+      <p className="text-white/70 leading-relaxed text-xs mb-3">{mockup.summary}</p>
       <div className="mb-3">
-        <div className="text-xs font-semibold text-slate-600 mb-1.5">Conceptos clave</div>
+        <div className="text-xs font-semibold text-white/60 mb-1.5">Conceptos clave</div>
         <ul className="space-y-1">
           {mockup.keyConcepts.map((c, i) => (
-            <li key={i} className="flex items-start gap-1.5 text-xs text-slate-600">
+            <li key={i} className="flex items-start gap-1.5 text-xs text-white/60">
               <span className="text-blue-400 mt-0.5 flex-shrink-0">–</span>
               {c}
             </li>
           ))}
         </ul>
       </div>
-
-      <div className="mb-3 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2">
-        <div className="text-xs font-semibold text-amber-700 mb-1">{mockup.mnemonic.text}</div>
-        <div className="text-xs text-amber-600">{mockup.mnemonic.explanation}</div>
+      <div className="mb-3 bg-amber-900/20 border border-amber-500/30 rounded-lg px-3 py-2">
+        <div className="text-xs font-semibold text-amber-400 mb-1">{mockup.mnemonic.text}</div>
+        <div className="text-xs text-amber-300/70">{mockup.mnemonic.explanation}</div>
       </div>
-
-      <div className="mb-3">
-        <div className="text-xs font-semibold text-slate-600 mb-1.5">Alto rendimiento EUNACOM</div>
-        <ul className="space-y-1">
-          {mockup.highYield.map((h, i) => (
-            <li key={i} className="flex items-start gap-1.5 text-xs text-slate-600">
-              <span className="text-red-400 mt-0.5 flex-shrink-0">*</span>
-              {h}
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <div className="bg-slate-800 rounded-lg px-3 py-2">
-        <div className="text-xs font-semibold text-slate-300 mb-1">Algoritmo clínico</div>
+      <div className="bg-[#0d1117] rounded-lg px-3 py-2">
+        <div className="text-xs font-semibold text-slate-400 mb-1">Algoritmo clínico</div>
         <pre className="text-xs text-green-400 whitespace-pre-wrap font-mono leading-relaxed">
           {mockup.clinicalAlgorithm}
         </pre>
@@ -197,16 +272,16 @@ function AIContentPanel({ specCode }: { specCode: string }) {
 
 // ─── Premium Upgrade CTA ──────────────────────────────────────────────────────
 
-function PremiumBanner({ count }: { count: number }) {
+function PremiumBannerDark({ count }: { count: number }) {
   return (
-    <div className="mx-4 mb-3 rounded-lg border border-amber-200 bg-amber-50 p-4">
+    <div className="mx-5 mb-3 rounded-lg border border-amber-500/30 bg-amber-900/20 p-4">
       <div className="flex items-start gap-3">
-        <Lock className="w-4 h-4 text-amber-600 flex-shrink-0 mt-0.5" />
+        <Lock className="w-4 h-4 text-amber-400 flex-shrink-0 mt-0.5" />
         <div className="flex-1">
-          <p className="text-sm font-semibold text-amber-900">
+          <p className="text-sm font-semibold text-amber-300">
             {count} {count === 1 ? 'cápsula bloqueada' : 'cápsulas bloqueadas'}
           </p>
-          <p className="text-xs text-amber-700 mt-0.5">
+          <p className="text-xs text-amber-400/70 mt-0.5">
             Acceso Premium: resúmenes IA, nemotecnias, algoritmos clínicos y todos los cuestionarios.
           </p>
         </div>
@@ -218,9 +293,9 @@ function PremiumBanner({ count }: { count: number }) {
   )
 }
 
-// ─── Video List Section ───────────────────────────────────────────────────────
+// ─── Video Section (dark-themed) ──────────────────────────────────────────────
 
-function VideoSection({
+function VideoSectionDark({
   content,
   specCode,
   isPremium,
@@ -235,7 +310,6 @@ function VideoSection({
 }) {
   const [showAll, setShowAll] = useState(false)
   const PREVIEW = 5
-
   const videos = content.videos
   const lockedCount = isPremium ? 0 : Math.max(0, videos.length - FREE_VIDEO_COUNT)
   const visible = showAll ? videos : videos.slice(0, PREVIEW)
@@ -244,207 +318,166 @@ function VideoSection({
   if (videos.length === 0) return null
 
   return (
-    <div className="border-t border-slate-200">
-      {/* Section header */}
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
-        <Video className="w-3.5 h-3.5 text-slate-600" />
-        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
-          Videos ({videos.length})
-        </span>
+    <div className="border-t border-white/10">
+      <div className="flex items-center gap-2.5 px-5 py-3 bg-white/5">
+        <Video className="w-4 h-4 text-blue-400 flex-shrink-0" />
+        <span className="text-sm font-semibold text-white">Cápsulas de Audio ({videos.length})</span>
         {!isPremium && lockedCount > 0 && (
-          <Badge className="ml-auto text-[10px] bg-amber-100 text-amber-700 border-amber-300 font-semibold">
+          <Badge className="ml-auto text-[10px] bg-amber-900/40 text-amber-400 border-amber-500/30 font-semibold">
             {FREE_VIDEO_COUNT} gratis · {lockedCount} Premium
           </Badge>
         )}
       </div>
-
-      {/* Free AI mockup for first video */}
-      {hasMockup && (
-        <div className="pt-3">
-          <AIContentPanel specCode={specCode} />
-        </div>
-      )}
-
-      {/* Video list */}
+      {hasMockup && <div className="pt-3"><AIContentPanel specCode={specCode} /></div>}
       <div>
         {visible.map((video) => {
           const isFree = video.number <= FREE_VIDEO_COUNT
           const isLocked = !isPremium && !isFree
           const watchKey = `${specCode}-v${video.number}`
           const isWatched = watchedSet.has(watchKey)
-
           return (
             <div
               key={video.number}
-              className={`flex items-center gap-3 px-4 py-2.5 border-b border-slate-100 last:border-0 transition-colors ${
-                isLocked ? 'opacity-50' : 'hover:bg-slate-50'
+              className={`flex items-center gap-3 px-5 py-2.5 border-t border-white/5 transition-colors ${
+                isLocked ? 'opacity-50' : 'hover:bg-white/5'
               }`}
             >
-              {/* Watch toggle */}
               <button
                 disabled={isLocked}
                 onClick={() => !isLocked && onToggleWatch(watchKey)}
                 className="flex-shrink-0"
               >
                 {isWatched
-                  ? <CheckCircle2 className="w-4 h-4 text-green-500" />
+                  ? <CheckCircle2 className="w-4 h-4 text-green-400" />
                   : isLocked
-                  ? <Lock className="w-4 h-4 text-slate-300" />
-                  : <Circle className="w-4 h-4 text-slate-200 hover:text-slate-400 transition-colors" />
+                  ? <Lock className="w-4 h-4 text-white/20" />
+                  : <Circle className="w-4 h-4 text-white/20 hover:text-white/40 transition-colors" />
                 }
               </button>
-
-              {/* Video number */}
-              <span className="text-xs font-mono text-slate-400 w-5 flex-shrink-0">{video.number}.</span>
-
-              {/* Title */}
-              <span className={`text-sm flex-1 leading-tight ${isWatched ? 'text-slate-400 line-through' : 'text-slate-800'}`}>
+              <span className="text-xs font-mono text-white/30 w-5 flex-shrink-0">{video.number}.</span>
+              <span className={`text-sm flex-1 leading-tight ${isWatched ? 'text-white/30 line-through' : 'text-white/80'}`}>
                 {video.title}
               </span>
-
-              {/* Tags */}
               {isFree && !isLocked && (
-                <Badge className="text-[10px] bg-green-50 text-green-600 border-green-100 flex-shrink-0">
-                  Gratis
-                </Badge>
+                <Badge className="text-[10px] bg-green-900/40 text-green-400 border-green-500/30 flex-shrink-0">Gratis</Badge>
               )}
               {isLocked && (
-                <Badge className="text-[10px] bg-amber-50 text-amber-600 border-amber-100 flex-shrink-0">
-                  Premium
-                </Badge>
+                <Badge className="text-[10px] bg-amber-900/40 text-amber-400 border-amber-500/30 flex-shrink-0">Premium</Badge>
               )}
             </div>
           )
         })}
-
-        {/* Show more / less */}
         {videos.length > PREVIEW && !showAll && (
           <button
             onClick={() => setShowAll(true)}
-            className="w-full flex items-center justify-center gap-1 py-2 text-xs text-blue-600 hover:text-blue-700 hover:bg-blue-50/50 transition-colors"
+            className="w-full flex items-center justify-center gap-1 py-2.5 text-xs text-blue-400 hover:text-blue-300 hover:bg-white/5 transition-colors border-t border-white/5"
           >
             <ChevronDown className="w-3.5 h-3.5" />
-            Ver {videos.length - PREVIEW} videos más
+            Ver {videos.length - PREVIEW} más
           </button>
         )}
         {videos.length > PREVIEW && showAll && (
           <button
             onClick={() => setShowAll(false)}
-            className="w-full flex items-center justify-center gap-1 py-2 text-xs text-slate-400 hover:bg-slate-50 transition-colors"
+            className="w-full flex items-center justify-center gap-1 py-2.5 text-xs text-white/40 hover:bg-white/5 transition-colors border-t border-white/5"
           >
             <ChevronUp className="w-3.5 h-3.5" />
             Mostrar menos
           </button>
         )}
       </div>
-
-      {/* Related topics */}
-      {content.relatedTopics && content.relatedTopics.length > 0 && (
-        <div className="px-4 py-2 border-t border-slate-100 bg-slate-50/50">
-          <p className="text-xs font-semibold text-slate-500 mb-1.5">Temas relacionados</p>
-          {content.relatedTopics.map((t) => (
-            <div key={t.number} className="flex items-center gap-2 py-1">
-              <Circle className="w-3 h-3 text-slate-200 flex-shrink-0" />
-              <span className="text-xs text-slate-600">{t.number}.- {t.title}</span>
-            </div>
-          ))}
-        </div>
-      )}
-
-      {/* Notes */}
-      {content.notes && (
-        <div className="px-4 py-2 border-t border-slate-100">
-          <p className="text-xs text-slate-400 italic">{content.notes}</p>
-        </div>
-      )}
-
-      {/* Premium upsell */}
-      {!isPremium && lockedCount > 0 && (
-        <div className="pt-2 pb-1">
-          <PremiumBanner count={lockedCount} />
-        </div>
-      )}
+      {!isPremium && lockedCount > 0 && <div className="pt-2 pb-1"><PremiumBannerDark count={lockedCount} /></div>}
     </div>
   )
 }
 
-// ─── Materials Section ────────────────────────────────────────────────────────
+// ─── Materials Section (dark-themed with slides) ──────────────────────────────
 
-function MaterialSection({ content, isPremium }: { content: SpecialtyContent; isPremium: boolean }) {
+function MaterialSectionDark({ content, isPremium }: { content: SpecialtyContent; isPremium: boolean }) {
   if (content.materials.length === 0) return null
 
   return (
-    <div className="border-t border-slate-200">
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
-        <FileText className="w-3.5 h-3.5 text-slate-600" />
-        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
-          Material de apoyo
-        </span>
+    <div className="border-t border-white/10">
+      <div className="flex items-center gap-2.5 px-5 py-3 bg-white/5">
+        <FileText className="w-4 h-4 text-blue-400 flex-shrink-0" />
+        <span className="text-sm font-semibold text-white">Material de apoyo</span>
       </div>
       {content.materials.map((m, i) => (
-        <div key={i} className="flex items-center gap-3 px-4 py-2.5 border-b border-slate-100 last:border-0">
+        <div key={i} className="flex items-center gap-3 px-5 py-2.5 border-t border-white/5">
           {isPremium
-            ? <FileText className="w-4 h-4 text-blue-500 flex-shrink-0" />
-            : <Lock className="w-4 h-4 text-slate-400 flex-shrink-0" />
+            ? <FileText className="w-4 h-4 text-blue-400 flex-shrink-0" />
+            : <Lock className="w-4 h-4 text-white/20 flex-shrink-0" />
           }
-          <span className={`text-sm ${isPremium ? 'text-slate-800' : 'text-slate-500'}`}>{m.title}</span>
+          <span className={`text-sm ${isPremium ? 'text-white/80' : 'text-white/40'}`}>{m.title}</span>
           {!isPremium && (
-            <Badge className="ml-auto text-[10px] bg-amber-100 text-amber-700 border-amber-300 font-semibold">
+            <Badge className="ml-auto text-[10px] bg-amber-900/40 text-amber-400 border-amber-500/30 font-semibold">
               Premium
             </Badge>
           )}
         </div>
       ))}
+      {/* Slides placeholder */}
+      <div className="flex items-center gap-3 px-5 py-2.5 border-t border-white/5">
+        {isPremium
+          ? <FileText className="w-4 h-4 text-purple-400 flex-shrink-0" />
+          : <Lock className="w-4 h-4 text-white/20 flex-shrink-0" />
+        }
+        <span className={`text-sm ${isPremium ? 'text-white/80' : 'text-white/40'}`}>Slides de clases</span>
+        {!isPremium && (
+          <Badge className="ml-auto text-[10px] bg-amber-900/40 text-amber-400 border-amber-500/30 font-semibold">
+            Premium
+          </Badge>
+        )}
+      </div>
     </div>
   )
 }
 
-// ─── Quiz Section ─────────────────────────────────────────────────────────────
+// ─── Quiz Section (dark-themed) ───────────────────────────────────────────────
 
-function QuizSection({ exams }: { exams: ExamStatus[] }) {
+function QuizSectionDark({ exams, specCode }: { exams: ExamStatus[]; specCode: string }) {
+  const router = useRouter()
   const topicExams = exams.filter((e) => e.exam_type === 'topic')
   if (topicExams.length === 0) return null
 
   return (
-    <div className="border-t border-slate-200">
-      <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-200 border-b border-slate-300">
-        <ClipboardList className="w-3.5 h-3.5 text-slate-600" />
-        <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
-          Cuestionarios ({topicExams.length})
-        </span>
+    <div className="border-t border-white/10">
+      <div className="flex items-center gap-2.5 px-5 py-3 bg-white/5">
+        <ClipboardList className="w-4 h-4 text-blue-400 flex-shrink-0" />
+        <span className="text-sm font-semibold text-white">Cuestionarios ({topicExams.length})</span>
       </div>
       {topicExams.map((exam) => (
         <div
           key={exam.id}
-          className={`flex items-center gap-3 px-4 py-2.5 border-b border-slate-100 last:border-0 transition-colors ${
-            exam.isCompleted ? 'bg-green-50/40' : 'hover:bg-slate-50'
+          className={`flex items-center gap-3 px-5 py-2.5 border-t border-white/5 transition-colors ${
+            exam.isCompleted ? 'bg-green-900/10' : 'hover:bg-white/5'
           }`}
         >
           {exam.isCompleted
-            ? <CheckCircle2 className="w-4 h-4 text-green-600 flex-shrink-0" />
-            : <Circle className="w-4 h-4 text-slate-300 flex-shrink-0" />
+            ? <CheckCircle2 className="w-4 h-4 text-green-400 flex-shrink-0" />
+            : <Circle className="w-4 h-4 text-white/20 flex-shrink-0" />
           }
           <div className="flex-1 min-w-0">
-            <p className={`text-sm leading-tight ${exam.isCompleted ? 'text-slate-500' : 'text-slate-800'}`}>
+            <p className={`text-sm leading-tight ${exam.isCompleted ? 'text-white/50' : 'text-white/80'}`}>
               {exam.title}
             </p>
-            <p className="text-xs text-slate-500 mt-0.5">{exam.question_count || 15} preguntas</p>
+            <p className="text-xs text-white/30 mt-0.5">{exam.question_count || 15} preguntas</p>
           </div>
           {exam.avgScore !== null && (
-            <span className={`text-xs font-bold tabular-nums ${getScoreColor(exam.avgScore)}`}>
+            <span className={`text-xs font-bold tabular-nums flex-shrink-0 ${getScoreColor(exam.avgScore)}`}>
               {exam.avgScore}%
             </span>
           )}
-          <Link href={`/app/exam/${exam.id}`}>
-            <Button
-              size="sm"
-              variant={exam.isCompleted ? 'outline' : 'default'}
-              className={`h-7 text-xs gap-1 flex-shrink-0 ${!exam.isCompleted ? 'bg-blue-700 hover:bg-blue-800 text-white border-blue-700' : ''}`}
-            >
-              <Play className="w-3 h-3" />
-              {exam.isCompleted ? 'Repetir' : 'Iniciar'}
-            </Button>
-          </Link>
+          <button
+            onClick={(e) => { e.stopPropagation(); router.push(`/app/exam/${exam.id}`) }}
+            className={`text-xs flex-shrink-0 px-3 py-1.5 rounded border transition-colors font-medium ${
+              exam.isCompleted
+                ? 'border-white/20 text-white/60 hover:border-blue-400 hover:text-blue-300'
+                : 'border-blue-500 bg-blue-600 text-white hover:bg-blue-700'
+            }`}
+          >
+            {exam.isCompleted ? 'Repasar' : 'Iniciar'}
+          </button>
         </div>
       ))}
     </div>
@@ -496,7 +529,6 @@ function SpecialtyWeekRow({
   const isDone = totalExams > 0 && completedExams >= totalExams
   const isStarted = completedExams > 0 && !isDone
 
-  // Video watch progress
   const content = specialties.length === 1 ? SPECIALTY_LESSONS[specialties[0].code] : null
   const totalVideos = content?.videos.length ?? 0
   const watchedVideos = totalVideos > 0
@@ -520,7 +552,6 @@ function SpecialtyWeekRow({
             : <Circle className="w-5 h-5 text-slate-300" />
           }
         </div>
-
         <span className="text-xs font-mono text-slate-500 w-6 flex-shrink-0">S{week.week}</span>
         <span className="text-xs text-slate-500 w-16 flex-shrink-0 hidden sm:block">{dateRange}</span>
 
@@ -538,11 +569,8 @@ function SpecialtyWeekRow({
           <span className="text-xs text-slate-500 sm:hidden">{dateRange}</span>
         </div>
 
-        {/* Stats (desktop) */}
         <div className="hidden sm:flex items-center gap-3 flex-shrink-0 text-xs text-slate-500">
-          {totalVideos > 0 && (
-            <span>{watchedVideos}/{totalVideos} vídeos</span>
-          )}
+          {totalVideos > 0 && <span>{watchedVideos}/{totalVideos} vídeos</span>}
           {totalExams > 0 && (
             <>
               <span className="text-slate-300">·</span>
@@ -556,7 +584,6 @@ function SpecialtyWeekRow({
           )}
         </div>
 
-        {/* Actions */}
         <div className="flex items-center gap-1 flex-shrink-0">
           {specialties.length === 1 && (
             <Link href={`/app/specialties/${specialties[0].code}`} onClick={(e) => e.stopPropagation()}>
@@ -572,21 +599,50 @@ function SpecialtyWeekRow({
         </div>
       </div>
 
-      {/* Expanded content */}
+      {/* Expanded content — dark sober theme */}
       {open && (
-        <div className="bg-white border-t border-slate-200">
+        <div className="border-t border-slate-200">
           {specialties.map((spec) => {
             const lessonContent = SPECIALTY_LESSONS[spec.code]
+            const hasLessons = spec.lessons.length > 0
+            const hasVideos = lessonContent && lessonContent.videos.length > 0
+            const hasMaterials = lessonContent && lessonContent.materials.length > 0
+
             return (
-              <div key={spec.id}>
-                {/* Audio capsules from DB (first priority) */}
-                {spec.lessons.length > 0 && (
-                  <AudioCapsuleSection lessons={spec.lessons} specCode={spec.code} />
+              <div key={spec.id} className="bg-[#1c2c3e]">
+                {/* Spec header with CTA */}
+                <div className="flex items-center gap-3 px-5 py-4 border-b border-white/10">
+                  <div className="flex-1 min-w-0">
+                    <h3 className="text-white font-semibold text-sm">{spec.name}</h3>
+                    <p className="text-white/40 text-xs mt-0.5">
+                      {spec.completedExams}/{spec.totalExams} cuestionarios · {spec.lessons.length} cápsulas
+                    </p>
+                  </div>
+                  <Link
+                    href={`/app/specialties/${spec.code}`}
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    <button className="flex items-center gap-1.5 text-xs px-3 py-1.5 rounded border border-blue-500/60 bg-blue-600/20 text-blue-300 hover:bg-blue-600/40 hover:border-blue-400 transition-colors font-medium">
+                      Abrir curso completo
+                      <ArrowRight className="w-3 h-3" />
+                    </button>
+                  </Link>
+                </div>
+
+                {/* Audio capsules from DB */}
+                {hasLessons && (
+                  <AudioCapsuleSectionDark
+                    lessons={spec.lessons}
+                    specCode={spec.code}
+                    specName={spec.name}
+                  />
                 )}
+
+                {/* Static video content */}
                 {lessonContent && (
                   <>
-                    {spec.lessons.length === 0 && (
-                      <VideoSection
+                    {!hasLessons && hasVideos && (
+                      <VideoSectionDark
                         content={lessonContent}
                         specCode={spec.code}
                         isPremium={isPremium}
@@ -594,15 +650,19 @@ function SpecialtyWeekRow({
                         onToggleWatch={onToggleWatch}
                       />
                     )}
-                    <MaterialSection content={lessonContent} isPremium={isPremium} />
+                    {hasMaterials && (
+                      <MaterialSectionDark content={lessonContent} isPremium={isPremium} />
+                    )}
                   </>
                 )}
-                {!lessonContent && spec.lessons.length === 0 && (
-                  <div className="px-4 py-3 border-t border-slate-200">
-                    <p className="text-xs text-slate-500 italic">Contenido audiovisual disponible próximamente.</p>
+
+                {!lessonContent && !hasLessons && (
+                  <div className="px-5 py-4 border-t border-white/10">
+                    <p className="text-xs text-white/30 italic">Contenido audiovisual disponible próximamente.</p>
                   </div>
                 )}
-                <QuizSection exams={spec.exams} />
+
+                <QuizSectionDark exams={spec.exams} specCode={spec.code} />
               </div>
             )
           })}
@@ -645,7 +705,7 @@ function ChapterSection({
 
   return (
     <div className="rounded-lg border border-slate-300 overflow-hidden shadow-sm">
-      {/* Chapter header — Blackboard dark style */}
+      {/* Chapter header */}
       <button
         onClick={() => setOpen(!open)}
         className="w-full flex items-center gap-4 px-5 py-4 text-left bg-[#1c2c3e] hover:bg-[#243547] transition-colors"
@@ -715,16 +775,26 @@ function ChapterSection({
 
 export default function SpecialtiesPage() {
   const [specialtyMap, setSpecialtyMap] = useState<Record<string, SpecialtyData>>({})
+  const [profile, setProfile] = useState<{ full_name: string } | null>(null)
+  const [stats, setStats] = useState({ todayCount: 0, avgScore: 0, totalAttempts: 0 })
+  const [lastIncomplete, setLastIncomplete] = useState<{ exam_id: number; title: string } | null>(null)
   const [loading, setLoading] = useState(true)
   const [configOpen, setConfigOpen] = useState(false)
   const [selectedSpec, setSelectedSpec] = useState<SpecialtyData | null>(null)
-  // Local video watch tracking (persisted in localStorage)
   const [watchedSet, setWatchedSet] = useState<Set<string>>(new Set())
-  // In production this comes from the enrollment/profile; for now demo free
   const [isPremium] = useState(false)
 
   const currentWeek = useMemo(() => getCurrentCourseWeek(), [])
   const currentWeekNum = currentWeek?.week ?? null
+  const nextTest = useMemo(() => getDaysUntilNextTest(), [])
+  const daysLeft = useMemo(() => getDaysUntilCourseEnd(), [])
+  const tip = useMemo(() => getTodayTip(), [])
+
+  const courseProgress = useMemo(() => {
+    const total = Object.values(specialtyMap).reduce((s, sp) => s + sp.totalExams, 0)
+    const done = Object.values(specialtyMap).reduce((s, sp) => s + sp.completedExams, 0)
+    return { total, done, pct: total > 0 ? Math.round((done / total) * 100) : 0 }
+  }, [specialtyMap])
 
   // Load watched videos from localStorage
   useEffect(() => {
@@ -750,18 +820,29 @@ export default function SpecialtiesPage() {
       const supabase = createClient()
       const { data: { user } } = await supabase.auth.getUser()
 
-      const [specsRes, examsRes, attRes, lessonsRes] = await Promise.all([
+      const today = new Date(); today.setHours(0, 0, 0, 0)
+
+      const [profileRes, specsRes, examsRes, attRes, todayRes, incompleteRes, lessonsRes] = await Promise.all([
+        user
+          ? supabase.from('profiles').select('full_name').eq('id', user.id).single()
+          : Promise.resolve({ data: null }),
         supabase.from('specialties').select('*, eunacom_areas(*)').order('order_index'),
         supabase.from('exams').select('id, title, specialty_id, exam_type, question_count, order_index').eq('is_active', true).order('order_index'),
         user
-          ? supabase.from('attempts').select('exam_id, score_percent').eq('user_id', user.id).eq('is_completed', true)
+          ? supabase.from('attempts').select('exam_id, score_percent, finished_at').eq('user_id', user.id).eq('is_completed', true).order('finished_at', { ascending: false }).limit(200)
           : Promise.resolve({ data: [] }),
+        user
+          ? supabase.from('attempts').select('id').eq('user_id', user.id).eq('is_completed', true).gte('finished_at', today.toISOString())
+          : Promise.resolve({ data: [] }),
+        user
+          ? supabase.from('attempts').select('exam_id, exams(title)').eq('user_id', user.id).eq('is_completed', false).order('started_at', { ascending: false }).limit(1).maybeSingle()
+          : Promise.resolve({ data: null }),
         supabase.from('lessons').select('id, title, order_index, duration_seconds, video_url, is_available, specialty_id').eq('is_available', true).order('order_index'),
       ])
 
       const specs = (specsRes.data ?? []) as any[]
       const exams = (examsRes.data ?? []) as any[]
-      const attempts = (attRes.data ?? []) as { exam_id: number; score_percent: number | null }[]
+      const attempts = (attRes.data ?? []) as { exam_id: number; score_percent: number | null; finished_at: string }[]
       const allLessons = (lessonsRes.data ?? []) as any[]
 
       const completedExamIds = new Set(attempts.map((a) => a.exam_id))
@@ -799,7 +880,6 @@ export default function SpecialtiesPage() {
         const avgScore = allTopicScores.length > 0
           ? Math.round(allTopicScores.reduce((a: number, b: number) => a + b, 0) / allTopicScores.length)
           : 0
-
         const specLessons = allLessons.filter((l: any) => l.specialty_id === spec.id)
 
         map[spec.code] = {
@@ -813,7 +893,20 @@ export default function SpecialtiesPage() {
         }
       }
 
+      const avgScore = attempts.length > 0
+        ? Math.round(attempts.reduce((s, a) => s + (a.score_percent ?? 0), 0) / attempts.length)
+        : 0
+
+      const inc = incompleteRes.data as any
+
+      setProfile(profileRes.data)
       setSpecialtyMap(map)
+      setStats({
+        todayCount: (todayRes.data as any[])?.length ?? 0,
+        avgScore,
+        totalAttempts: attempts.length,
+      })
+      setLastIncomplete(inc ? { exam_id: inc.exam_id, title: inc.exams?.title ?? 'Examen' } : null)
       setLoading(false)
     }
 
@@ -822,74 +915,215 @@ export default function SpecialtiesPage() {
 
   if (loading) {
     return (
-      <div className="space-y-5 max-w-4xl">
-        <Skeleton className="h-8 w-48" />
-        <Skeleton className="h-20 rounded-2xl" />
-        {[...Array(4)].map((_, i) => <Skeleton key={i} className="h-28 rounded-2xl" />)}
+      <div className="grid lg:grid-cols-[1fr_280px] gap-6 max-w-7xl">
+        <div className="space-y-5">
+          <Skeleton className="h-9 w-64" />
+          <Skeleton className="h-4 w-full rounded-full" />
+          <Skeleton className="h-20 rounded-2xl" />
+          {[...Array(4)].map((_, i) => <Skeleton key={i} className="h-28 rounded-2xl" />)}
+        </div>
+        <div className="space-y-4">
+          {[...Array(3)].map((_, i) => <Skeleton key={i} className="h-32 rounded-2xl" />)}
+        </div>
       </div>
     )
   }
 
+  const firstName = profile?.full_name?.split(' ')[0] ?? ''
+
   return (
-    <div className="space-y-5 max-w-4xl">
-      {/* Header */}
-      <div>
-        <h1 className="section-title">Contenido del Curso</h1>
-        <p className="text-slate-500 text-sm mt-1">
-          EUNACOM Julio 2026 — Organizado por semana del calendario
-        </p>
-      </div>
+    <div className="grid lg:grid-cols-[1fr_280px] gap-6 max-w-7xl items-start">
 
-      {/* General section */}
-      <div className="bg-white rounded-lg border border-slate-300 overflow-hidden shadow-sm">
-        <div className="px-5 py-3 border-b border-slate-300 flex items-center gap-3 bg-slate-200">
-          <BookOpen className="w-4 h-4 text-slate-600" />
-          <span className="font-semibold text-slate-800 text-sm">General</span>
-        </div>
+      {/* ── MAIN COLUMN ──────────────────────────────────── */}
+      <div className="space-y-5 min-w-0">
+
+        {/* Greeting + overall progress */}
         <div>
-          <Link
-            href="/app/calendar"
-            className="flex items-center gap-3 px-5 py-3 border-b border-slate-200 hover:bg-slate-50 transition-colors group"
-          >
-            <CalendarDays className="w-4 h-4 text-slate-500 flex-shrink-0" />
-            <span className="text-sm text-slate-800 group-hover:text-blue-700 transition-colors flex-1">Calendario del Curso</span>
-            <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
-          </Link>
-          <div className="flex items-center gap-3 px-5 py-3 border-b border-slate-200 text-slate-500">
-            <Bell className="w-4 h-4 flex-shrink-0" />
-            <span className="text-sm">Avisos del curso</span>
+          <h1 className="text-xl font-bold text-slate-900">
+            {getGreeting()}{firstName ? `, ${firstName}` : ''}
+          </h1>
+          <p className="text-slate-500 text-sm mt-0.5">
+            EUNACOM Julio 2026
+            {daysLeft !== null && daysLeft > 0 && (
+              <span className="ml-1 text-slate-700 font-medium">· {daysLeft} días restantes</span>
+            )}
+            {currentWeek && (
+              <span className="ml-1 text-slate-400">· Semana {currentWeek.week}: {currentWeek.topic}</span>
+            )}
+          </p>
+        </div>
+
+        {/* Global progress bar */}
+        {courseProgress.total > 0 && (
+          <div className="flex items-center gap-3">
+            <Progress value={courseProgress.pct} className="flex-1 h-2.5 [&>div]:bg-blue-500" />
+            <span className="text-sm font-bold text-blue-700 flex-shrink-0 w-10 text-right">{courseProgress.pct}%</span>
+            <span className="text-xs text-slate-400 flex-shrink-0">{courseProgress.done}/{courseProgress.total} cuest.</span>
           </div>
-          <div className="flex items-center gap-3 px-5 py-3">
-            <Target className="w-4 h-4 text-slate-500 flex-shrink-0" />
-            <div className="flex-1">
-              <span className="text-sm text-slate-800">Prueba diagnóstica: Reconstrucción Eunacom agosto 2021</span>
-              <div className="text-xs text-slate-500 mt-0.5">09 ene 2026 · 180 preguntas</div>
+        )}
+
+        {/* Continue banner */}
+        {lastIncomplete && (
+          <div className="flex items-center gap-4 bg-amber-50 border border-amber-200 rounded-lg px-4 py-3">
+            <Clock className="w-4 h-4 text-amber-500 flex-shrink-0" />
+            <div className="flex-1 min-w-0">
+              <span className="text-sm font-medium text-slate-800 truncate">{lastIncomplete.title}</span>
+              <span className="text-xs text-slate-400 ml-2">Sin terminar</span>
             </div>
-            <Badge className="bg-amber-100 text-amber-800 border border-amber-300 text-xs font-semibold">Diagnóstica</Badge>
+            <Link href={`/app/exam/${lastIncomplete.exam_id}`}>
+              <Button size="sm" className="gap-1.5 flex-shrink-0">
+                Continuar <ArrowRight className="w-3.5 h-3.5" />
+              </Button>
+            </Link>
+          </div>
+        )}
+
+        {/* Stats strip */}
+        {stats.totalAttempts > 0 && (
+          <div className="grid grid-cols-3 gap-3">
+            {[
+              { v: stats.todayCount,      l: 'Hoy',      icon: CheckCircle, cx: 'text-blue-700' },
+              { v: `${stats.avgScore}%`,  l: 'Promedio', icon: TrendingUp,  cx: 'text-green-700' },
+              { v: stats.totalAttempts,   l: 'Total',    icon: BookOpen,    cx: 'text-slate-700' },
+            ].map(({ v, l, icon: Icon, cx }) => (
+              <div key={l} className="bg-white rounded-lg border border-slate-200 p-3 text-center shadow-sm">
+                <Icon className={`w-3.5 h-3.5 mx-auto mb-1.5 ${cx}`} size={14} />
+                <div className={`text-base font-bold tabular-nums ${cx}`}>{v}</div>
+                <div className="text-[11px] text-slate-500 font-medium">{l}</div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {/* General section */}
+        <div className="bg-white rounded-lg border border-slate-300 overflow-hidden shadow-sm">
+          <div className="px-5 py-3 border-b border-slate-300 flex items-center gap-3 bg-slate-200">
+            <BookOpen className="w-4 h-4 text-slate-600" />
+            <span className="font-semibold text-slate-800 text-sm">General</span>
+          </div>
+          <div>
+            <Link
+              href="/app/calendar"
+              className="flex items-center gap-3 px-5 py-3 border-b border-slate-200 hover:bg-slate-50 transition-colors group"
+            >
+              <CalendarDays className="w-4 h-4 text-slate-500 flex-shrink-0" />
+              <span className="text-sm text-slate-800 group-hover:text-blue-700 transition-colors flex-1">Calendario del Curso</span>
+              <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
+            </Link>
+            <div className="flex items-center gap-3 px-5 py-3 border-b border-slate-200 text-slate-500">
+              <Bell className="w-4 h-4 flex-shrink-0" />
+              <span className="text-sm">Avisos del curso</span>
+            </div>
+            <div className="flex items-center gap-3 px-5 py-3">
+              <Target className="w-4 h-4 text-slate-500 flex-shrink-0" />
+              <div className="flex-1">
+                <span className="text-sm text-slate-800">Prueba diagnóstica: Reconstrucción Eunacom agosto 2021</span>
+                <div className="text-xs text-slate-500 mt-0.5">09 ene 2026 · 180 preguntas</div>
+              </div>
+              <Badge className="bg-amber-100 text-amber-800 border border-amber-300 text-xs font-semibold">Diagnóstica</Badge>
+            </div>
           </div>
         </div>
+
+        {/* Chapter sections */}
+        {COURSE_CALENDAR.chapters.map((chapter) => {
+          const hasCurrentWeek = chapter.weeks.some((w) => w.week === currentWeekNum)
+          return (
+            <ChapterSection
+              key={chapter.number}
+              chapter={chapter}
+              specialtyMap={specialtyMap}
+              currentWeekNum={currentWeekNum}
+              defaultOpen={hasCurrentWeek || chapter.number === 1}
+              isPremium={isPremium}
+              watchedSet={watchedSet}
+              onToggleWatch={handleToggleWatch}
+              onPracticeAll={(spec) => {
+                setSelectedSpec(spec)
+                setConfigOpen(true)
+              }}
+            />
+          )
+        })}
       </div>
 
-      {/* Chapter sections */}
-      {COURSE_CALENDAR.chapters.map((chapter) => {
-        const hasCurrentWeek = chapter.weeks.some((w) => w.week === currentWeekNum)
-        return (
-          <ChapterSection
-            key={chapter.number}
-            chapter={chapter}
-            specialtyMap={specialtyMap}
-            currentWeekNum={currentWeekNum}
-            defaultOpen={hasCurrentWeek || chapter.number === 1}
-            isPremium={isPremium}
-            watchedSet={watchedSet}
-            onToggleWatch={handleToggleWatch}
-            onPracticeAll={(spec) => {
-              setSelectedSpec(spec)
-              setConfigOpen(true)
-            }}
-          />
-        )
-      })}
+      {/* ── RIGHT SIDEBAR ─────────────────────────────────── */}
+      <div className="space-y-4 lg:sticky lg:top-4">
+
+        {/* Mini calendar */}
+        <div className="bg-white rounded-lg border border-slate-200 p-4 shadow-sm">
+          <MiniCalendar testDates={COURSE_CALENDAR.testDates} />
+          <Link href="/app/calendar" className="block mt-4">
+            <Button variant="outline" size="sm" className="w-full text-xs gap-1.5">
+              <CalendarDays className="w-3.5 h-3.5" />
+              Calendario completo
+            </Button>
+          </Link>
+        </div>
+
+        {/* Next exam countdown */}
+        {nextTest && (
+          <div className="rounded-lg border border-slate-200 bg-white p-4 shadow-sm">
+            <div className="flex items-center gap-2 mb-2">
+              <Target className="w-3.5 h-3.5 text-slate-400" />
+              <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-wide">Próxima prueba</span>
+            </div>
+            <div className={`text-3xl font-bold tabular-nums ${nextTest.days <= 7 ? 'text-red-600' : nextTest.days <= 14 ? 'text-amber-600' : 'text-slate-800'}`}>
+              {nextTest.days === 0 ? '¡Hoy!' : `${nextTest.days}d`}
+            </div>
+            <div className="text-sm font-medium text-slate-700 mt-1">{nextTest.test.title}</div>
+            <div className="text-xs text-slate-400 mt-0.5">
+              {new Date(nextTest.test.date).toLocaleDateString('es-CL', { day: 'numeric', month: 'long' })}
+            </div>
+          </div>
+        )}
+
+        {/* Clinical tip of the day */}
+        <div className="bg-white rounded-lg border border-slate-200 p-4 shadow-sm">
+          <div className="flex items-center gap-1.5 mb-3">
+            <Stethoscope className="w-3.5 h-3.5 text-slate-400" />
+            <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-wide">Perla del día</span>
+          </div>
+          <div className="text-xs font-semibold text-blue-700 mb-1">{tip.area}</div>
+          <p className="text-xs text-slate-600 leading-relaxed">{tip.tip}</p>
+        </div>
+
+        {/* Quick links */}
+        <div className="bg-white rounded-lg border border-slate-200 overflow-hidden shadow-sm">
+          {[
+            { href: '/app/stats',    icon: TrendingUp, label: 'Estadísticas', sub: 'Análisis de rendimiento' },
+            { href: '/app/history',  icon: Clock,      label: 'Historial',    sub: 'Todos los intentos' },
+            { href: '/app/coverage', icon: Target,     label: 'Cobertura',    sub: 'Temario EUNACOM' },
+          ].map(({ href, icon: Icon, label, sub }) => (
+            <Link
+              key={href}
+              href={href}
+              className="flex items-center gap-3 px-4 py-3 border-b border-slate-50 last:border-0 hover:bg-slate-50 transition-colors group"
+            >
+              <div className="w-8 h-8 rounded-lg bg-slate-100 flex items-center justify-center flex-shrink-0 group-hover:bg-blue-100 transition-colors">
+                <Icon className="w-4 h-4 text-slate-400 group-hover:text-blue-600 transition-colors" />
+              </div>
+              <div className="flex-1 min-w-0">
+                <div className="text-sm font-medium text-slate-700">{label}</div>
+                <div className="text-xs text-slate-400">{sub}</div>
+              </div>
+              <ChevronRight className="w-3.5 h-3.5 text-slate-300 group-hover:text-blue-400" />
+            </Link>
+          ))}
+        </div>
+
+        {/* EUNACOM countdown */}
+        {daysLeft !== null && daysLeft > 0 && (
+          <div className="rounded-lg border border-slate-200 bg-white p-4 text-center shadow-sm">
+            <Trophy className="w-4 h-4 mx-auto mb-2 text-amber-500" />
+            <div className="text-3xl font-bold text-slate-800 tabular-nums">{daysLeft}</div>
+            <div className="text-slate-500 text-xs mt-1">días para el EUNACOM</div>
+          </div>
+        )}
+
+        {/* AI Tutor RAG Chat */}
+        <RAGChat specialtyCode="diabetes" specialtyName="Diabetes y Glicemia" />
+      </div>
 
       {/* Config modal */}
       {selectedSpec && (
